@@ -32,3 +32,14 @@ Social sharing automation: a GitHub Action `share-to-mastodon.yml` posts the lat
 - The workflow runs daily by default; you can trigger it manually under the Actions tab or edit the cron schedule.
 
 Note: the workflow posts the top item from `posts.json`. Be careful of duplicate posts; you can tune the workflow to dedupe by keeping a small state file or checking history.
+
+Hosting & monitoring notes
+- Set the repository secret `SITE_DOMAIN` (Settings → Secrets → Actions) to your published site URL, for example `https://your-username.github.io/someidea`.
+- The repo includes a site monitor workflow `.github/workflows/site-monitor.yml` that checks the site every 6 hours and will open an issue if the site doesn't return HTTP 200.
+- For improved uptime and caching, consider fronting GitHub Pages with Cloudflare (free tier) and enabling Automatic Platform Optimization and the CDN.
+
+Performance optimizations applied
+- `style.css` and `script.js` are preloaded to improve first render. Consider further optimizations:
+	- Serve optimized images (use WebP, sized images).
+	- Minify CSS/JS in a build step (a GitHub Action can do this on push).
+	- Use a small analytics provider (Plausible/Fathom) or Cloudflare analytics to keep privacy-friendly tracking.
