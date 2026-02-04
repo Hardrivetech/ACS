@@ -1,0 +1,5 @@
+https://openai.com/blog/rss
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+https://hnrss.org/frontpage
+
+# Add additional RSS/Atom feed URLs below, one per line.

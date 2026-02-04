@@ -1,0 +1,35 @@
+name: Share latest post to Mastodon
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # daily at 10:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ensure jq available
+        run: sudo apt-get update && sudo apt-get install -y jq >/dev/null
+
+      - name: Read latest post
+        id: latest
+        run: |
+          if [ ! -f posts.json ]; then echo "no posts"; exit 0; fi
+          latest=$(jq -r '.[0] | "\(.title) \(.link)"' posts.json)
+          if [ -z "$latest" ] || [ "$latest" = "null null" ]; then echo "no posts"; exit 0; fi
+          echo "LATEST=$latest" >> $GITHUB_ENV
+
+      - name: Post to Mastodon
+        if: env.LATEST != ''
+        env:
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+        run: |
+          if [ -z "$MASTODON_INSTANCE" ] || [ -z "$MASTODON_TOKEN" ]; then echo "Mastodon secrets not set, skipping"; exit 0; fi
+          curl -s -X POST "https://${MASTODON_INSTANCE}/api/v1/statuses" \
+            -H "Authorization: Bearer ${MASTODON_TOKEN}" \
+            -F "status=${LATEST}" \
+            | jq . || true

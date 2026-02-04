@@ -1,0 +1,21 @@
+:root{--max-width:980px;--accent:#0b5cff;--muted:#666}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,Segoe UI,Helvetica,Arial;line-height:1.5;margin:0;color:#111;background:#f7f8fb}
+.wrap{max-width:var(--max-width);margin:0 auto;padding:24px}
+.site-header{background:#fff;border-bottom:1px solid #eee}
+.site-header .wrap{display:flex;flex-direction:column;gap:6px}
+h1{margin:0;font-size:1.6rem}
+.tagline{margin:0;color:var(--muted)}
+#posts{padding-top:16px}
+.post{background:#fff;border:1px solid #eee;padding:16px;margin-bottom:12px;border-radius:8px}
+.post-title{margin:0 0 6px 0}
+.post-title a{color:var(--accent);text-decoration:none}
+.post-meta{font-size:0.85rem;color:var(--muted);margin-bottom:8px}
+.post-summary{margin:0;color:#222}
+.monetization{background:#fff;border-top:1px solid #eee;padding:16px;margin-top:18px;border-radius:8px}
+.donate{display:inline-block;padding:8px 12px;background:var(--accent);color:#fff;border-radius:6px;text-decoration:none}
+.site-footer{padding:12px 0;color:var(--muted);font-size:0.9rem}
+.loading{color:var(--muted)}
+@media(min-width:700px){
+  .site-header .wrap{flex-direction:row;align-items:center;justify-content:space-between}
+}
