@@ -68,3 +68,18 @@ Analytics setup
 
 - Commit `analytics.json` if you are comfortable storing the domain/measurement ID in the repo; these are not secret values. If you prefer to keep IDs out of the repo, you can modify the loader to read from a generated file in CI or inject the snippet at publish time.
 
+Consent & privacy
+- The loader supports `requireConsent` in `analytics.json` (default: true). If `requireConsent` is true the site will show a consent banner on first visit; analytics only loads after the user clicks "Accept".
+- Example `analytics.json` for GA4 with consent and IP anonymization:
+
+```json
+{
+	"provider": "ga4",
+	"measurementId": "G-XXXXXXXXXX",
+	"requireConsent": true,
+	"anonymize_ip": true
+}
+```
+
+This implements a privacy-first flow; consider adding a `Privacy Policy` page (TODO in repo).
+

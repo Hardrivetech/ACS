@@ -1,4 +1,6 @@
 {
   "provider": "ga4",
-  "measurementId": "G-DRVJSJDHN9"
+  "measurementId": "G-DRVJSJDHN9",
+  "requireConsent": true,
+  "anonymize_ip": true
 }

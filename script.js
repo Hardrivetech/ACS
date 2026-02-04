@@ -4,6 +4,11 @@ async function loadAnalytics(){
     if(!res.ok) return;
     const cfg = await res.json();
     if(!cfg || !cfg.provider) return;
+    const requireConsent = cfg.requireConsent !== false; // default true
+    if(requireConsent && localStorage.getItem('analytics_consent') !== 'granted'){
+      // consent required but not granted yet
+      return;
+    }
     if(cfg.provider === 'plausible'){
       const s = document.createElement('script');
       s.async = true; s.defer = true;
@@ -17,7 +22,9 @@ async function loadAnalytics(){
       s1.src = `https://www.googletagmanager.com/gtag/js?id=${cfg.measurementId}`;
       document.head.appendChild(s1);
       const s2 = document.createElement('script');
-      s2.innerHTML = `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${cfg.measurementId}');`;
+      // enable anonymize_ip where supported
+      const anonymize = cfg.anonymize_ip === true ? `, {'anonymize_ip': true}` : '';
+      s2.innerHTML = `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${cfg.measurementId}'${anonymize});`;
       document.head.appendChild(s2);
     }
   }catch(e){
@@ -56,5 +63,41 @@ function escapeHtml(s){
   return s.replace(/[&<>\"']/g, c=>({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":"&#39;"}[c]));
 }
-// load analytics first (if configured), then posts
-loadAnalytics().then(()=>loadPosts());
+// Consent banner handling
+function showConsentBanner(){
+  const banner = document.getElementById('consent-banner');
+  if(!banner) return;
+  banner.hidden = false;
+  document.getElementById('consent-accept').addEventListener('click', ()=>{
+    localStorage.setItem('analytics_consent','granted');
+    banner.hidden = true;
+    loadAnalytics().then(()=>{});
+  });
+  document.getElementById('consent-decline').addEventListener('click', ()=>{
+    localStorage.setItem('analytics_consent','denied');
+    banner.hidden = true;
+  });
+}
+
+async function initSite(){
+  // decide whether to show consent banner
+  try{
+    const res = await fetch('analytics.json', {cache: 'no-store'});
+    if(res.ok){
+      const cfg = await res.json();
+      const requireConsent = cfg.requireConsent !== false;
+      const consent = localStorage.getItem('analytics_consent');
+      if(requireConsent && consent !== 'granted' && consent !== 'denied'){
+        showConsentBanner();
+      } else if(consent === 'granted' || !requireConsent){
+        await loadAnalytics();
+      }
+    }
+  }catch(e){
+    // ignore
+  }
+  // finally load posts
+  await loadPosts();
+}
+
+initSite();

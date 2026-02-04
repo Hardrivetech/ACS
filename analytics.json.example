@@ -1,11 +1,14 @@
 {
   "provider": "plausible",
   "domain": "yourdomain.com",
+  "requireConsent": true
   /*
     or for Google Analytics (GA4):
     {
       "provider": "ga4",
-      "measurementId": "G-DRVJSJDHN9"
+      "measurementId": "G-XXXXXXXXXX",
+      "requireConsent": true,
+      "anonymize_ip": true
     }
   */
 }

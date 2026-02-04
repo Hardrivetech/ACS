@@ -19,3 +19,11 @@ h1{margin:0;font-size:1.6rem}
 @media(min-width:700px){
   .site-header .wrap{flex-direction:row;align-items:center;justify-content:space-between}
 }
+
+/* Consent banner */
+.consent-banner{position:fixed;left:0;right:0;bottom:18px;z-index:999;background:linear-gradient(180deg,#fff,#fbfbff);box-shadow:0 6px 18px rgba(15,15,30,0.08);border-radius:10px;margin:0 18px;padding:12px}
+.consent-inner{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.consent-text{color:var(--muted);font-size:0.95rem}
+.consent-actions .btn{padding:8px 12px;border-radius:8px;border:0;background:var(--accent);color:#fff}
+.consent-actions .btn-link{background:transparent;color:var(--muted);padding:8px}
+
