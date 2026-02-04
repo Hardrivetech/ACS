@@ -35,16 +35,15 @@ jobs:
           WORKER_URL: ${{ secrets.WORKER_URL }}
           FORWARDER_TOKEN: ${{ secrets.FORWARDER_TOKEN }}
         run: |
-          cat > public/analytics.json <<EOF
-{
-  "provider": "ga4",
-  "measurementId": "${GA_MEASUREMENT_ID}",
-  "requireConsent": true,
-  "anonymize_ip": true,
-  "workerUrl": "${WORKER_URL}",
-  "forwarderToken": "${FORWARDER_TOKEN}"
-}
-EOF
+          mkdir -p public
+          echo '{' > public/analytics.json
+          echo "  \"provider\": \"ga4\"," >> public/analytics.json
+          echo "  \"measurementId\": \"${GA_MEASUREMENT_ID}\"," >> public/analytics.json
+          echo "  \"requireConsent\": true," >> public/analytics.json
+          echo "  \"anonymize_ip\": true," >> public/analytics.json
+          echo "  \"workerUrl\": \"${WORKER_URL}\"," >> public/analytics.json
+          echo "  \"forwarderToken\": \"${FORWARDER_TOKEN}\"" >> public/analytics.json
+          echo '}' >> public/analytics.json
           echo "Created public/analytics.json (not committed)"
 
       - name: Upload Pages artifact
