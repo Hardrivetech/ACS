@@ -1,0 +1,53 @@
+name: Build and deploy Pages artifact (with secure analytics)
+
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  pages: write
+  id-token: write
+  contents: read
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create public dir and copy tracked files
+        run: |
+          rm -rf public
+          mkdir public
+          # copy only tracked files to avoid including secrets or .github
+          git ls-files -z | xargs -0 -I{} bash -c 'mkdir -p "$(dirname public/{} )"; cp -f "{}" "public/{}"' || true
+
+      - name: Generate sitemap (if posts.json exists)
+        run: |
+          if [ -f posts.json ]; then python3 scripts/generate_sitemap.py || true; fi
+          if [ -f sitemap.xml ]; then cp sitemap.xml public/sitemap.xml; fi
+
+      - name: Create analytics.json from secrets (no commit)
+        env:
+          GA_MEASUREMENT_ID: ${{ secrets.GA_MEASUREMENT_ID }}
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          FORWARDER_TOKEN: ${{ secrets.FORWARDER_TOKEN }}
+        run: |
+          cat > public/analytics.json <<EOF
+{
+  "provider": "ga4",
+  "measurementId": "${GA_MEASUREMENT_ID}",
+  "requireConsent": true,
+  "anonymize_ip": true,
+  "workerUrl": "${WORKER_URL}",
+  "forwarderToken": "${FORWARDER_TOKEN}"
+}
+EOF
+          echo "Created public/analytics.json (not committed)"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public

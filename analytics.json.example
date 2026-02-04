@@ -8,7 +8,9 @@
       "provider": "ga4",
       "measurementId": "G-XXXXXXXXXX",
       "requireConsent": true,
-      "anonymize_ip": true
+      "anonymize_ip": true,
+      "workerUrl": "https://your-worker.example.workers.dev", // optional: call Cloudflare Worker after consent
+      "forwarderToken": "OPTIONAL_SHORT_TOKEN" // optional: if set, client must send this token in header x-forwarder-token
     }
   */
 }

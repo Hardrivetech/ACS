@@ -120,3 +120,15 @@ curl -X POST https://your-worker.example.workers.dev -H "Content-Type: applicati
 
 Security: keep `API_SECRET` private and only call the Worker from trusted backends, or add an authentication layer to the Worker.
 
+Auth & client relay options
+- The Worker supports two protection modes (set via Worker env vars):
+	- `FORWARDER_TOKEN`: a secret token. If set, requests must include header `x-forwarder-token: <token>`.
+	- `ALLOWED_ORIGIN`: an allowed origin (e.g. `https://your-username.github.io`). If set and `FORWARDER_TOKEN` is not set, the Worker allows requests only when the `Origin` header equals `ALLOWED_ORIGIN`.
+
+Note: `ALLOWED_ORIGIN` is a convenience for client-side relays but is less secure than a token. For high-security setups use `FORWARDER_TOKEN` and call the Worker from trusted backends.
+
+Client-side relay example
+- Add `workerUrl` to `analytics.json` (see `analytics.json.example`). When the user accepts analytics, the frontend will POST a `consent_granted` event to the Worker, which then forwards it to GA4.
+- If you prefer the Worker to accept client-side calls without a token, set `ALLOWED_ORIGIN` to your Pages domain and leave `FORWARDER_TOKEN` unset.
+
+

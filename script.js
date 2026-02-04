@@ -72,6 +72,8 @@ function showConsentBanner(){
     localStorage.setItem('analytics_consent','granted');
     banner.hidden = true;
     loadAnalytics().then(()=>{});
+    // notify forwarder (if configured)
+    notifyForwarder('consent_granted').catch(e=>console.warn('forwarder notify failed', e));
   });
   document.getElementById('consent-decline').addEventListener('click', ()=>{
     localStorage.setItem('analytics_consent','denied');
@@ -151,3 +153,27 @@ document.addEventListener('DOMContentLoaded', ()=>{
     alert('Analytics consent revoked. Analytics cookies removed.');
   });
 });
+
+function uuidv4(){
+  return ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, c=>
+    (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16)
+  );
+}
+
+async function notifyForwarder(eventName){
+  try{
+    const res = await fetch('analytics.json', {cache: 'no-store'});
+    if(!res.ok) return;
+    const cfg = await res.json();
+    if(!cfg || !cfg.workerUrl) return;
+    const clientIdKey = 'site_client_id';
+    let clientId = localStorage.getItem(clientIdKey);
+    if(!clientId){ clientId = uuidv4(); localStorage.setItem(clientIdKey, clientId); }
+    const body = { client_id: clientId, name: eventName, params: { origin: location.hostname } };
+    const headers = { 'Content-Type': 'application/json' };
+    if(cfg.forwarderToken){ headers['x-forwarder-token'] = cfg.forwarderToken; }
+    await fetch(cfg.workerUrl, { method: 'POST', headers, body: JSON.stringify(body), mode: 'cors' });
+  }catch(e){
+    console.warn('notifyForwarder error', e);
+  }
+}
