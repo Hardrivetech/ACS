@@ -1,0 +1,8 @@
+{
+  "provider": "ga4",
+  "measurementId": "G-DRVJSJDHN9",
+  "requireConsent": true,
+  "anonymize_ip": true,
+  "workerUrl": "https://ga-forwarder.thardisky.workers.dev/",
+  "forwarderToken": "91d7c02063a36720bd6db7a29c53c4202b9f21ff01883ea965312f85d445393e"
+}
