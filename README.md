@@ -43,3 +43,28 @@ Performance optimizations applied
 	- Serve optimized images (use WebP, sized images).
 	- Minify CSS/JS in a build step (a GitHub Action can do this on push).
 	- Use a small analytics provider (Plausible/Fathom) or Cloudflare analytics to keep privacy-friendly tracking.
+
+Analytics setup
+- The site includes a lightweight analytics loader that reads `analytics.json` at runtime and injects the appropriate script. An example is provided at `analytics.json.example`.
+- To enable analytics, copy `analytics.json.example` to `analytics.json` and edit the values:
+
+	- Plausible example:
+
+		```json
+		{
+			"provider": "plausible",
+			"domain": "yourdomain.com"
+		}
+		```
+
+	- Google Analytics (GA4) example:
+
+		```json
+		{
+			"provider": "ga4",
+			"measurementId": "G-XXXXXXXXXX"
+		}
+		```
+
+- Commit `analytics.json` if you are comfortable storing the domain/measurement ID in the repo; these are not secret values. If you prefer to keep IDs out of the repo, you can modify the loader to read from a generated file in CI or inject the snippet at publish time.
+

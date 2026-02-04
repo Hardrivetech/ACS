@@ -1,0 +1,11 @@
+{
+  "provider": "plausible",
+  "domain": "yourdomain.com",
+  /*
+    or for Google Analytics (GA4):
+    {
+      "provider": "ga4",
+      "measurementId": "G-DRVJSJDHN9"
+    }
+  */
+}

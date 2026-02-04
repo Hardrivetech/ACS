@@ -1,3 +1,30 @@
+async function loadAnalytics(){
+  try{
+    const res = await fetch('analytics.json', {cache: 'no-store'});
+    if(!res.ok) return;
+    const cfg = await res.json();
+    if(!cfg || !cfg.provider) return;
+    if(cfg.provider === 'plausible'){
+      const s = document.createElement('script');
+      s.async = true; s.defer = true;
+      s.src = 'https://plausible.io/js/plausible.js';
+      if(cfg.domain) s.setAttribute('data-domain', cfg.domain);
+      document.head.appendChild(s);
+    } else if(cfg.provider === 'ga4'){
+      if(!cfg.measurementId) return;
+      const s1 = document.createElement('script');
+      s1.async = true;
+      s1.src = `https://www.googletagmanager.com/gtag/js?id=${cfg.measurementId}`;
+      document.head.appendChild(s1);
+      const s2 = document.createElement('script');
+      s2.innerHTML = `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '${cfg.measurementId}');`;
+      document.head.appendChild(s2);
+    }
+  }catch(e){
+    console.warn('analytics load failed', e);
+  }
+}
+
 async function loadPosts(){
   const container = document.getElementById('posts');
   try{
@@ -29,4 +56,5 @@ function escapeHtml(s){
   return s.replace(/[&<>\"']/g, c=>({
     '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":"&#39;"}[c]));
 }
-loadPosts();
+// load analytics first (if configured), then posts
+loadAnalytics().then(()=>loadPosts());
