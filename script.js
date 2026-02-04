@@ -101,3 +101,19 @@ async function initSite(){
 }
 
 initSite();
+
+// allow reopening consent banner via footer link
+document.addEventListener('DOMContentLoaded', ()=>{
+  const link = document.getElementById('analytics-settings');
+  if(!link) return;
+  link.addEventListener('click', (e)=>{
+    e.preventDefault();
+    // show banner to allow changing consent
+    const banner = document.getElementById('consent-banner');
+    if(banner){
+      banner.hidden = false;
+    } else {
+      alert('Consent UI not available');
+    }
+  });
+});

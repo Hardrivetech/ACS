@@ -83,3 +83,18 @@ Consent & privacy
 
 This implements a privacy-first flow; consider adding a `Privacy Policy` page (TODO in repo).
 
+Server-side Measurement Protocol forwarding
+- The repo includes `scripts/measurement_forwarder.py` which can forward server-side events to GA4 using the Measurement Protocol.
+- To use it you need a GA4 `MEASUREMENT_ID` and an `API_SECRET` (create in Google Analytics > Admin > Data Streams > Measurement Protocol API secrets).
+- Example usage:
+
+```bash
+export MEASUREMENT_ID=G-XXXXXXXXXX
+export API_SECRET=YOUR_API_SECRET
+python scripts/measurement_forwarder.py --client_id=server-1 --name=page_view --params '{"page_title":"Home"}'
+```
+
+- You can host this as a small server or call it from your backend for events you want tracked without exposing client-side IDs. Keep `API_SECRET` private (store as a secret in your hosting or CI).
+
+Privacy & consent note: if you forward events server-side, ensure you respect user consent captured by the frontend (e.g., only forward when consent granted).
+
