@@ -117,3 +117,37 @@ document.addEventListener('DOMContentLoaded', ()=>{
     }
   });
 });
+
+// revoke consent: clear analytics cookies and set denied
+function clearAnalyticsCookies(){
+  try{
+    const cookies = document.cookie.split(';').map(c=>c.trim());
+    const patterns = [/^_ga(?:_.*)?$/i, /^_gid$/i, /^_gcl_au$/i, /^_gat(?:_.*)?$/i];
+    cookies.forEach(c => {
+      const name = c.split('=')[0];
+      if(patterns.some(rx=>rx.test(name))){
+        // delete for current domain
+        document.cookie = name + '=; Max-Age=0; path=/;';
+        // try deleting with domain
+        try{ document.cookie = name + '=; Max-Age=0; path=/; domain=' + location.hostname + ';'; }catch(e){}
+      }
+    });
+    // remove any gtag function if present
+    if(window.gtag && typeof window.gtag === 'function'){
+      try{ window.gtag('consent','update',{ 'analytics_storage':'denied' }); }catch(e){}
+    }
+  }catch(e){
+    console.warn('clearAnalyticsCookies error', e);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', ()=>{
+  const revoke = document.getElementById('consent-revoke');
+  if(!revoke) return;
+  revoke.addEventListener('click', (e)=>{
+    e.preventDefault();
+    localStorage.setItem('analytics_consent','denied');
+    clearAnalyticsCookies();
+    alert('Analytics consent revoked. Analytics cookies removed.');
+  });
+});

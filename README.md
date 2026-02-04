@@ -95,6 +95,28 @@ python scripts/measurement_forwarder.py --client_id=server-1 --name=page_view --
 ```
 
 - You can host this as a small server or call it from your backend for events you want tracked without exposing client-side IDs. Keep `API_SECRET` private (store as a secret in your hosting or CI).
+ - Privacy & consent note: if you forward events server-side, ensure you respect user consent captured by the frontend (e.g., only forward when consent granted).
 
-Privacy & consent note: if you forward events server-side, ensure you respect user consent captured by the frontend (e.g., only forward when consent granted).
+Cloudflare Worker: Measurement Protocol forwarder
+- A Cloudflare Worker example is included at `workers/ga-forwarder-worker.js`. It accepts POST requests with JSON body `{ "client_id": "...", "name": "event_name", "params": {...} }` and forwards to GA4 Measurement Protocol.
+- Deploy with Wrangler or via Cloudflare dashboard. Store `MEASUREMENT_ID` and `API_SECRET` as Worker environment variables (not in the repo).
+
+Example `wrangler.toml` snippet:
+
+```toml
+name = "ga-forwarder"
+type = "javascript"
+
+[vars]
+MEASUREMENT_ID = "G-XXXXXXXXXX"
+API_SECRET = "YOUR_API_SECRET"
+```
+
+Example curl to forward an event to the Worker (replace `https://your-worker.example.workers.dev`):
+
+```bash
+curl -X POST https://your-worker.example.workers.dev -H "Content-Type: application/json" -d '{"client_id":"server-1","name":"page_view","params":{"page_title":"Home"}}'
+```
+
+Security: keep `API_SECRET` private and only call the Worker from trusted backends, or add an authentication layer to the Worker.
 
