@@ -1,24 +1,157 @@
 [
   {
-    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-    "link": "https://github.com/bethington/ghidra-mcp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/bethington/ghidra-mcp\">https://github.com/bethington/ghidra-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46882389\">https://news.ycombinator.com/item?id=46882389</a></p>\n<p>Points: 16</p>\n<p># Comments: 5</p>",
-    "published": "2026-02-04T06:51:51",
+    "title": "Valve's Steam Machine has been delayed, and the RAM crisis will impact pricing",
+    "link": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis\">https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46897210\">https://news.ycombinator.com/item?id=46897210</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+    "published": "2026-02-05T08:34:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The full history of Windows widgets, from 1997 to today",
-    "link": "https://xakpc.dev/windows-widgets/history/",
-    "summary": "<p>Article URL: <a href=\"https://xakpc.dev/windows-widgets/history/\">https://xakpc.dev/windows-widgets/history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46882184\">https://news.ycombinator.com/item?id=46882184</a></p>\n<p>Points: 35</p>\n<p># Comments: 13</p>",
-    "published": "2026-02-04T06:22:58",
+    "title": "Modernizing Linux swapping: introducing the swap table",
+    "link": "https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/\">https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896586\">https://news.ycombinator.com/item?id=46896586</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+    "published": "2026-02-05T06:58:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I miss thinking hard",
-    "link": "https://www.jernesto.com/articles/thinking_hard",
-    "summary": "<p>Article URL: <a href=\"https://www.jernesto.com/articles/thinking_hard\">https://www.jernesto.com/articles/thinking_hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46881264\">https://news.ycombinator.com/item?id=46881264</a></p>\n<p>Points: 487</p>\n<p># Comments: 278</p>",
-    "published": "2026-02-04T03:54:11",
+    "title": "BMW's Newest \"Innovation\" Is a Logo-Shaped Middle Finger to Right to Repair",
+    "link": "https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair",
+    "summary": "<p>Article URL: <a href=\"https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair\">https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896427\">https://news.ycombinator.com/item?id=46896427</a></p>\n<p>Points: 28</p>\n<p># Comments: 3</p>",
+    "published": "2026-02-05T06:33:47",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Don't rent the cloud, own instead",
+    "link": "https://blog.comma.ai/datacenter/",
+    "summary": "<p>Article URL: <a href=\"https://blog.comma.ai/datacenter/\">https://blog.comma.ai/datacenter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46896146\">https://news.ycombinator.com/item?id=46896146</a></p>\n<p>Points: 228</p>\n<p># Comments: 93</p>",
+    "published": "2026-02-05T05:50:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When internal hostnames are leaked to the clown",
+    "link": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+    "summary": "<p>Article URL: <a href=\"https://rachelbythebay.com/w/2026/02/03/badnas/\">https://rachelbythebay.com/w/2026/02/03/badnas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46895972\">https://news.ycombinator.com/item?id=46895972</a></p>\n<p>Points: 155</p>\n<p># Comments: 96</p>",
+    "published": "2026-02-05T05:22:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
+    "link": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
+    "summary": "<p>Article URL: <a href=\"https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function\">https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46895950\">https://news.ycombinator.com/item?id=46895950</a></p>\n<p>Points: 24</p>\n<p># Comments: 21</p>",
+    "published": "2026-02-05T05:18:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "ICE seeks industry input on ad tech location data for investigative use",
+    "link": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
+    "summary": "<p>Article URL: <a href=\"https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use\">https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46895860\">https://news.ycombinator.com/item?id=46895860</a></p>\n<p>Points: 197</p>\n<p># Comments: 155</p>",
+    "published": "2026-02-05T05:02:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A few CPU hardware bugs",
+    "link": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+    "summary": "<p>Article URL: <a href=\"https://www.taricorp.net/2026/a-few-cpu-bugs/\">https://www.taricorp.net/2026/a-few-cpu-bugs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46895388\">https://news.ycombinator.com/item?id=46895388</a></p>\n<p>Points: 53</p>\n<p># Comments: 8</p>",
+    "published": "2026-02-05T03:39:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wirth's Revenge",
+    "link": "https://jmoiron.net/blog/wirths-revenge/",
+    "summary": "<p>Article URL: <a href=\"https://jmoiron.net/blog/wirths-revenge/\">https://jmoiron.net/blog/wirths-revenge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46895381\">https://news.ycombinator.com/item?id=46895381</a></p>\n<p>Points: 53</p>\n<p># Comments: 5</p>",
+    "published": "2026-02-05T03:38:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenClaw is what Apple intelligence should have been",
+    "link": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+    "summary": "<p>Article URL: <a href=\"https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been\">https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46893970\">https://news.ycombinator.com/item?id=46893970</a></p>\n<p>Points: 317</p>\n<p># Comments: 266</p>",
+    "published": "2026-02-05T00:28:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why more companies are recognizing the benefits of keeping older employees",
+    "link": "https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/",
+    "summary": "<p>Article URL: <a href=\"https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/\">https://longevity.stanford.edu/why-more-companies-are-recognizing-the-benefits-of-keeping-older-employees/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46893411\">https://news.ycombinator.com/item?id=46893411</a></p>\n<p>Points: 132</p>\n<p># Comments: 48</p>",
+    "published": "2026-02-04T23:26:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "France’s Raid on X Escalates Trans-Atlantic Showdown Over Social Media",
+    "link": "https://www.nytimes.com/2026/02/04/world/europe/social-media-free-speech.html",
+    "summary": "The French investigation into Elon Musk’s X illustrated a fundamental divide between European and American leaders about how to regulate social media — or whether to restrict it at all.",
+    "published": "2026-02-04T23:08:40",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Spotlighting the World Factbook as We Bid a Fond Farewell",
+    "link": "https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/",
+    "summary": "<p>Article URL: <a href=\"https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/\">https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46891794\">https://news.ycombinator.com/item?id=46891794</a></p>\n<p>Points: 133</p>\n<p># Comments: 96</p>",
+    "published": "2026-02-04T21:08:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Code for Infrastructure",
+    "link": "https://www.fluid.sh/",
+    "summary": "<p>Article URL: <a href=\"https://www.fluid.sh/\">https://www.fluid.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46889703\">https://news.ycombinator.com/item?id=46889703</a></p>\n<p>Points: 212</p>\n<p># Comments: 151</p>",
+    "published": "2026-02-04T18:34:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Great Unwind",
+    "link": "https://occupywallst.com/yen",
+    "summary": "<p>Article URL: <a href=\"https://occupywallst.com/yen\">https://occupywallst.com/yen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46889008\">https://news.ycombinator.com/item?id=46889008</a></p>\n<p>Points: 257</p>\n<p># Comments: 242</p>",
+    "published": "2026-02-04T17:49:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Building a 24-bit arcade CRT display adapter from scratch",
+    "link": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
+    "summary": "<p>Article URL: <a href=\"https://www.scd31.com/posts/building-an-arcade-display-adapter\">https://www.scd31.com/posts/building-an-arcade-display-adapter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46888795\">https://news.ycombinator.com/item?id=46888795</a></p>\n<p>Points: 158</p>\n<p># Comments: 43</p>",
+    "published": "2026-02-04T17:35:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI is killing B2B SaaS",
+    "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
+    "summary": "<p>Article URL: <a href=\"https://nmn.gl/blog/ai-killing-b2b-saas\">https://nmn.gl/blog/ai-killing-b2b-saas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46888441\">https://news.ycombinator.com/item?id=46888441</a></p>\n<p>Points: 339</p>\n<p># Comments: 530</p>",
+    "published": "2026-02-04T17:09:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
+    "link": "https://www.runconverge.com/careers/product-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.runconverge.com/careers/product-engineer\">https://www.runconverge.com/careers/product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46888331\">https://news.ycombinator.com/item?id=46888331</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-04T17:01:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RS-SDK: Drive RuneScape with Claude Code",
+    "link": "https://github.com/MaxBittker/rs-sdk",
+    "summary": "<p>Article URL: <a href=\"https://github.com/MaxBittker/rs-sdk\">https://github.com/MaxBittker/rs-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46888142\">https://news.ycombinator.com/item?id=46888142</a></p>\n<p>Points: 109</p>\n<p># Comments: 42</p>",
+    "published": "2026-02-04T16:47:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Postgres Postmaster does not scale",
+    "link": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+    "summary": "<p>Article URL: <a href=\"https://www.recall.ai/blog/postgres-postmaster-does-not-scale\">https://www.recall.ai/blog/postgres-postmaster-does-not-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46887893\">https://news.ycombinator.com/item?id=46887893</a></p>\n<p>Points: 94</p>\n<p># Comments: 36</p>",
+    "published": "2026-02-04T16:30:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microsoft's Copilot chatbot is running into problems",
+    "link": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+    "summary": "<p>Gift link: <a href=\"https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?st=V8rLES&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46887564\">https://news.ycombinator.com/item?id=46887564</a></p>\n<p>Points: 206</p>\n<p># Comments: 232</p>",
+    "published": "2026-02-04T16:08:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Moltbook Mania Explained",
+    "link": "https://www.nytimes.com/2026/02/04/podcasts/moltbook-mania-explained.html",
+    "summary": "Is this the year the internet changes forever?",
+    "published": "2026-02-04T12:00:06",
+    "source": "NYT > Technology"
   },
   {
     "title": "Netflix Leader Pushes Warner Deal Before Skeptical Lawmakers",
@@ -26,20 +159,6 @@
     "summary": "Senators asked Ted Sarandos about whether the acquisition would raise prices, squeeze talent and degrade the moviegoing experience.",
     "published": "2026-02-03T23:47:39",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Notepad++ supply chain attack breakdown",
-    "link": "https://securelist.com/notepad-supply-chain-attack/118708/",
-    "summary": "<p>Article URL: <a href=\"https://securelist.com/notepad-supply-chain-attack/118708/\">https://securelist.com/notepad-supply-chain-attack/118708/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46878338\">https://news.ycombinator.com/item?id=46878338</a></p>\n<p>Points: 284</p>\n<p># Comments: 132</p>",
-    "published": "2026-02-03T22:35:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FlashAttention-T: Towards Tensorized Attention",
-    "link": "https://dl.acm.org/doi/10.1145/3774934.3786425",
-    "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3774934.3786425\">https://dl.acm.org/doi/10.1145/3774934.3786425</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46877403\">https://news.ycombinator.com/item?id=46877403</a></p>\n<p>Points: 93</p>\n<p># Comments: 53</p>",
-    "published": "2026-02-03T21:15:48",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Spain Aims to Ban Social Media for Children Under 16",
@@ -56,76 +175,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Data centers in space makes no sense",
-    "link": "https://civai.org/blog/space-data-centers",
-    "summary": "<p>Article URL: <a href=\"https://civai.org/blog/space-data-centers\">https://civai.org/blog/space-data-centers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46876105\">https://news.ycombinator.com/item?id=46876105</a></p>\n<p>Points: 576</p>\n<p># Comments: 671</p>",
-    "published": "2026-02-03T19:37:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
-    "link": "https://github.com/alibaba/AliSQL",
-    "summary": "<p>Article URL: <a href=\"https://github.com/alibaba/AliSQL\">https://github.com/alibaba/AliSQL</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46875228\">https://news.ycombinator.com/item?id=46875228</a></p>\n<p>Points: 208</p>\n<p># Comments: 27</p>",
-    "published": "2026-02-03T18:40:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Y Combinator will let founders receive funds in stablecoins",
-    "link": "https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/",
-    "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/\">https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46875033\">https://news.ycombinator.com/item?id=46875033</a></p>\n<p>Points: 124</p>\n<p># Comments: 194</p>",
-    "published": "2026-02-03T18:28:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
-    "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/\">https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46874619\">https://news.ycombinator.com/item?id=46874619</a></p>\n<p>Points: 308</p>\n<p># Comments: 258</p>",
-    "published": "2026-02-03T18:04:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Deno Sandbox",
-    "link": "https://deno.com/blog/introducing-deno-sandbox",
-    "summary": "<p>Article URL: <a href=\"https://deno.com/blog/introducing-deno-sandbox\">https://deno.com/blog/introducing-deno-sandbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46874097\">https://news.ycombinator.com/item?id=46874097</a></p>\n<p>Points: 431</p>\n<p># Comments: 139</p>",
-    "published": "2026-02-03T17:33:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "221 Cannon is Not For Sale",
-    "link": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
-    "summary": "<p>Article URL: <a href=\"https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/\">https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46873574\">https://news.ycombinator.com/item?id=46873574</a></p>\n<p>Points: 247</p>\n<p># Comments: 181</p>",
-    "published": "2026-02-03T16:56:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
-    "link": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060\">https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46873294\">https://news.ycombinator.com/item?id=46873294</a></p>\n<p>Points: 942</p>\n<p># Comments: 500</p>",
-    "published": "2026-02-03T16:39:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
-    "link": "https://github.com/j178/prek",
-    "summary": "<p>Article URL: <a href=\"https://github.com/j178/prek\">https://github.com/j178/prek</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46873138\">https://news.ycombinator.com/item?id=46873138</a></p>\n<p>Points: 241</p>\n<p># Comments: 103</p>",
-    "published": "2026-02-03T16:29:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Qwen3-Coder-Next",
-    "link": "https://qwen.ai/blog?id=qwen3-coder-next",
-    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3-coder-next\">https://qwen.ai/blog?id=qwen3-coder-next</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46872706\">https://news.ycombinator.com/item?id=46872706</a></p>\n<p>Points: 653</p>\n<p># Comments: 386</p>",
-    "published": "2026-02-03T16:01:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New York’s budget bill would require “blocking technology” on all 3D printers",
-    "link": "https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/",
-    "summary": "<p>Article URL: <a href=\"https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/\">https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46872540\">https://news.ycombinator.com/item?id=46872540</a></p>\n<p>Points: 405</p>\n<p># Comments: 462</p>",
-    "published": "2026-02-03T15:51:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Chaos in Minneapolis Exposes an Internet at War With Truth",
     "link": "https://www.nytimes.com/2026/02/03/technology/minneapolis-ai-disinformation-misinformation-truth.html",
     "summary": "Technological advances and an erosion of trust have transformed the way news unfolds online, distorting shared reality.",
@@ -133,39 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Agent Skills",
-    "link": "https://agentskills.io/home",
-    "summary": "<p>Article URL: <a href=\"https://agentskills.io/home\">https://agentskills.io/home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46871173\">https://news.ycombinator.com/item?id=46871173</a></p>\n<p>Points: 456</p>\n<p># Comments: 224</p>",
-    "published": "2026-02-03T14:09:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bunny Database",
-    "link": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
-    "summary": "<p>Article URL: <a href=\"https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/\">https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46870015\">https://news.ycombinator.com/item?id=46870015</a></p>\n<p>Points: 289</p>\n<p># Comments: 118</p>",
-    "published": "2026-02-03T12:13:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Emerge Career (YC S22) is hiring a product designer",
-    "link": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer\">https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46869901\">https://news.ycombinator.com/item?id=46869901</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-03T12:00:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Siemens Energy Bets $1 Billion That A.I. Power Demand Will Last",
     "link": "https://www.nytimes.com/2026/02/03/business/energy-environment/siemens-energy-ai-power-demand.html",
     "summary": "The German manufacturer announced plans to expand factories in several U.S. states and build a new plant in Mississippi.",
     "published": "2026-02-03T11:00:16",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "X offices raided in France as UK opens fresh investigation into Grok",
-    "link": "https://www.bbc.com/news/articles/ce3ex92557jo",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/ce3ex92557jo\">https://www.bbc.com/news/articles/ce3ex92557jo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46868998\">https://news.ycombinator.com/item?id=46868998</a></p>\n<p>Points: 348</p>\n<p># Comments: 570</p>",
-    "published": "2026-02-03T10:08:52",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
@@ -203,13 +224,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Lessons learned shipping 500 units of my first hardware product",
-    "link": "https://www.simonberens.com/p/lessons-learned-shipping-500-units",
-    "summary": "<p>Article URL: <a href=\"https://www.simonberens.com/p/lessons-learned-shipping-500-units\">https://www.simonberens.com/p/lessons-learned-shipping-500-units</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46848876\">https://news.ycombinator.com/item?id=46848876</a></p>\n<p>Points: 585</p>\n<p># Comments: 252</p>",
-    "published": "2026-02-01T20:01:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "The Tech Arsenal That ICE Has Deployed in Minneapolis",
     "link": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
     "summary": "Agents use facial recognition, social media monitoring and other tech tools not only to identify undocumented immigrants but also to track protesters, current and former officials said.",
@@ -231,20 +245,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
-    "link": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
-    "summary": "AlphaGenome is a leap forward in the ability to study the human blueprint. But the fine workings of our DNA are still largely a mystery.",
-    "published": "2026-01-30T02:59:19",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Forecasts Spending of at Least $115 Billion This Year",
-    "link": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",
-    "summary": "That would be a major jump from $72 billion last year, as the tech giant aims to compete in the artificial intelligence race.",
-    "published": "2026-01-30T02:51:20",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Apple Reports Record iPhone Sales Amid Holiday Bump",
     "link": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
     "summary": "New phone designs, coupled with robust holiday spending, continued to lift iPhone sales in the quarter and drove the company to record profits.",
@@ -256,13 +256,6 @@
     "link": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
     "summary": "OpenAI’s discussions with Microsoft, Nvidia, Middle Eastern sovereign wealth funds and others could value it at $750 billion or more.",
     "published": "2026-01-29T20:53:15",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tesla Profit Slumps, but Investors May Not Care",
-    "link": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
-    "summary": "The automaker also said it would invest $2 billion in xAI, the artificial intelligence company controlled by its C.E.O., Elon Musk, and stop making the two oldest models in its lineup.",
-    "published": "2026-01-29T20:21:50",
     "source": "NYT > Technology"
   },
   {
@@ -284,13 +277,6 @@
     "link": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
     "summary": "The rivals made billions of dollars in the business over the past year, showing other companies that Nvidia isn’t the only game in town.",
     "published": "2026-01-29T16:12:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
-    "link": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
-    "summary": "The e-commerce giant has been cutting costs while pouring resources into building data centers to compete in the race to dominate artificial intelligence.",
-    "published": "2026-01-28T19:00:41",
     "source": "NYT > Technology"
   }
 ]
