@@ -1,1 +1,1 @@
-Valve's Steam Machine has been delayed, and the RAM crisis will impact pricing https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis
+Things Unix can do atomically (2010) https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html
