@@ -1,1 +1,1 @@
-Things Unix can do atomically (2010) https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html
+Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better https://github.com/dmtrKovalenko/zlob
