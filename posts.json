@@ -1,59 +1,178 @@
 [
   {
-    "title": "Things Unix can do atomically (2010)",
-    "link": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-    "summary": "<p>Article URL: <a href=\"https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html\">https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46909468\">https://news.ycombinator.com/item?id=46909468</a></p>\n<p>Points: 89</p>\n<p># Comments: 30</p>",
-    "published": "2026-02-06T05:29:55",
+    "title": "Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better",
+    "link": "https://github.com/dmtrKovalenko/zlob",
+    "summary": "<p>Article URL: <a href=\"https://github.com/dmtrKovalenko/zlob\">https://github.com/dmtrKovalenko/zlob</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46921491\">https://news.ycombinator.com/item?id=46921491</a></p>\n<p>Points: 13</p>\n<p># Comments: 8</p>",
+    "published": "2026-02-07T05:07:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Systems Thinking",
-    "link": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
-    "summary": "<p>Article URL: <a href=\"http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html\">http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46909439\">https://news.ycombinator.com/item?id=46909439</a></p>\n<p>Points: 81</p>\n<p># Comments: 33</p>",
-    "published": "2026-02-06T05:24:36",
+    "title": "Female Asian Elephant Calf Born at the Smithsonian National Zoo",
+    "link": "https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&utm_medium=email&utm_placement=newsletter&utm_source=join1440",
+    "summary": "<p>Article URL: <a href=\"https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&amp;utm_medium=email&amp;utm_placement=newsletter&amp;utm_source=join1440\">https://www.si.edu/newsdesk/releases/female-asian-elephant-calf-born-smithsonians-national-zoo-and-conservation?user_id=66c4bf745d78644b3aa57b08&amp;utm_medium=email&amp;utm_placement=newsletter&amp;utm_source=join1440</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46920773\">https://news.ycombinator.com/item?id=46920773</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+    "published": "2026-02-07T02:35:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Google Plans to Double Spending Amid A.I. Race",
-    "link": "https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html",
-    "summary": "Profits jumped 30 percent to $34.5 billion last quarter, and the tech giant is increasing its capital spending this year to as much as $185 billion.",
-    "published": "2026-02-06T04:33:17",
+    "title": "Why I Joined OpenAI",
+    "link": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+    "summary": "<p>Article URL: <a href=\"https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html\">https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46920487\">https://news.ycombinator.com/item?id=46920487</a></p>\n<p>Points: 122</p>\n<p># Comments: 102</p>",
+    "published": "2026-02-07T01:45:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Introducing the Developer Knowledge API and MCP Server",
+    "link": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+    "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/\">https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46919824\">https://news.ycombinator.com/item?id=46919824</a></p>\n<p>Points: 45</p>\n<p># Comments: 13</p>",
+    "published": "2026-02-06T23:58:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+    "link": "https://github.com/phreda4/r3",
+    "summary": "<p>Article URL: <a href=\"https://github.com/phreda4/r3\">https://github.com/phreda4/r3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46918824\">https://news.ycombinator.com/item?id=46918824</a></p>\n<p>Points: 68</p>\n<p># Comments: 12</p>",
+    "published": "2026-02-06T22:10:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+    "link": "https://openciv3.org/",
+    "summary": "<p>Article URL: <a href=\"https://openciv3.org/\">https://openciv3.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46918612\">https://news.ycombinator.com/item?id=46918612</a></p>\n<p>Points: 591</p>\n<p># Comments: 174</p>",
+    "published": "2026-02-06T21:51:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "link": "https://github.com/valdanylchuk/breezydemo",
+    "summary": "<p>Example repo: <a href=\"https://github.com/valdanylchuk/breezydemo\" rel=\"nofollow\">https://github.com/valdanylchuk/breezydemo</a><p>The underlying ESP-IDF component: <a href=\"https://github.com/valdanylchuk/breezybox\" rel=\"nofollow\">https://github.com/valdanylchuk/breezybox</a><p>It is something like Raspberry Pi, but without the overhead of a full server-grade OS.<p>It captures a lot of the old school DOS era coding experience. I created a custom fast text mode driver, plan to add VGA-like graphics next. ANSI text demos run smooth, as you can see in the demo video featured in the Readme.<p>App installs also work smoothly. The first time it installed 6 apps from my git repo with one command, felt like, \"OMG, I got homebrew to run on a toaster!\" And best of all, it can install from any repo, no approvals or waiting, you just publish a compatible ELF file in your release.<p>Coverage:<p>Hackaday: <a href=\"https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/\" rel=\"nofollow\">https://hackaday.com/2026/02/06/breezybox-a-busybox-like-she...</a><p>Hackster.io: <a href=\"https://www.hackster.io/news/valentyn-danylchuk-s-breezybox-turns-an-espressif-esp32-s3-into-a-tiny-instant-on-pc-3d3135050df1\" rel=\"nofollow\">https://www.hackster.io/news/valentyn-danylchuk-s-breezybox-...</a><p>Reddit: <a href=\"https://www.reddit.com/r/esp32/comments/1qq503c/i_made_an_instanton_tiny_pc_based_on_esp32s3_with/\" rel=\"nofollow\">https://www.reddit.com/r/esp32/comments/1qq503c/i_made_an_in...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46918429\">https://news.ycombinator.com/item?id=46918429</a></p>\n<p>Points: 201</p>\n<p># Comments: 24</p>",
+    "published": "2026-02-06T21:33:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Stellantis’s Shift Away From Electric Cars Will Cost It $26 Billion",
+    "link": "https://www.nytimes.com/2026/02/06/business/stellantis-writedown-electric-vehicles.html",
+    "summary": "The company, which owns Chrysler, Fiat, Jeep and Peugeot, is changing its strategy to gasoline and hybrid vehicles in an effort to revive weak sales.",
+    "published": "2026-02-06T21:18:09",
     "source": "NYT > Technology"
   },
   {
-    "title": "Generative Pen-Trained Transformer",
-    "link": "https://theodore.net/projects/Polargraph/",
-    "summary": "<p>Article URL: <a href=\"https://theodore.net/projects/Polargraph/\">https://theodore.net/projects/Polargraph/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46909122\">https://news.ycombinator.com/item?id=46909122</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-06T04:28:08",
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "link": "https://github.com/pydantic/monty",
+    "summary": "<p>Article URL: <a href=\"https://github.com/pydantic/monty\">https://github.com/pydantic/monty</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46918254\">https://news.ycombinator.com/item?id=46918254</a></p>\n<p>Points: 199</p>\n<p># Comments: 91</p>",
+    "published": "2026-02-06T21:16:36",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-    "link": "https://github.com/artifact-keeper",
-    "summary": "<p>I'm a software engineer who keeps getting pulled into DevOps no matter how hard I try to escape it. I recently moved into a Lead DevOps Engineer role writing tooling to automate a lot of the pain away. On my own time outside of work, I built Artifact Keeper — a self-hosted artifact registry that supports 45+ package formats. Security scanning, SSO, replication, WASM plugins — it's all in the MIT-licensed release. No enterprise tier. No feature gates. No surprise invoices.<p>Your package managers — pip, npm, docker, cargo, helm, go, all of them — talk directly to it using their native protocols. Security scanning with Trivy, Grype, and OpenSCAP is built in, with a policy engine that can quarantine bad artifacts before they hit your builds. And if you need a format it doesn't support yet, there's a WASM plugin system so you can add your own without forking the backend.<p>Why I built it:<p>Part of what pulled me into computers in the first place was open source. I grew up poor in New Orleans, and the only hardware I had access to in the early 2000s were some Compaq Pentium IIs my dad brought home after his work was tossing them out. I put Linux on them, and it ran circles around Windows 2000 and Millennium on that low-end hardware. That experience taught me that the best software is software that's open for everyone to see, use, and that actually runs well on whatever you've got.<p>Fast forward to today, and I see the same pattern everywhere: GitLab, JFrog, Harbor, and others ship a limited \"community\" edition and then hide the features teams actually need behind some paywall. I get it — paychecks have to come from somewhere. But I wanted to prove that a fully-featured artifact registry could exist as genuinely open-source software. Every feature. No exceptions.<p>The specific features came from real pain points. Artifactory's search is painfully slow — that's why I integrated Meilisearch. Security scanning that doesn't require a separate enterprise license was another big one. And I wanted replication that didn't need a central coordinator — so I built a peer mesh where any node can replicate to any other node. I haven't deployed this at work yet — right now I'm running it at home for my personal projects — but I'd love to see it tested at scale, and that's a big part of why I'm sharing it here.<p>The AI story (I'm going to be honest about this):<p>I built this in about three weeks using Claude Code. I know a lot of you will say this is probably vibe coding garbage — but if that's the case, it's an impressive pile of vibe coding garbage. Go look at the codebase. The backend is ~80% Rust with 429 unit tests, 33 PostgreSQL migrations, a layered architecture, and a full CI/CD pipeline with E2E tests, stress testing, and failure injection.<p>AI didn't make the design decisions for me. I still had to design the WASM plugin system, figure out how the scanning engines complement each other, and architect the mesh replication. Years of domain knowledge drove the design — AI just let me build it way faster. I'm floored at what these tools make possible for a tinkerer and security nerd like me.<p>Tech stack: Rust on Axum, PostgreSQL 16, Meilisearch, Trivy + Grype + OpenSCAP, Wasmtime WASM plugins (hot-reloadable), mesh replication with chunked transfers. Frontend is Next.js 15 plus native Swift (iOS/macOS) and Kotlin (Android) apps. OpenAPI 3.1 spec with auto-generated TypeScript and Rust SDKs.<p>Try it:<p><pre><code>  git clone https://github.com/artifact-keeper/artifact-keeper.git\n  cd artifact-keeper\n  docker compose up -d\n</code></pre>\nThen visit http://localhost:30080<p>Live demo: <a href=\"https://demo.artifactkeeper.com\" rel=\"nofollow\">https://demo.artifactkeeper.com</a>\nDocs: <a href=\"https://artifactkeeper.com/docs/\" rel=\"nofollow\">https://artifactkeeper.com/docs/</a><p>I'd love any feedback — what you think of the approach, what you'd want to see, what you hate about Artifactory or Nexus that you wish someone would just fix. It doesn't have to be a PR. Open an issue, start a discussion, or just tell me here.<p><a href=\"https://github.com/artifact-keeper\" rel=\"nofollow\">https://github.com/artifact-keeper</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46909037\">https://news.ycombinator.com/item?id=46909037</a></p>\n<p>Points: 57</p>\n<p># Comments: 13</p>",
-    "published": "2026-02-06T04:12:59",
+    "title": "Fear of AI Replacing Software Makers Hits Stocks. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html",
+    "summary": "The prospect of disruptions from artificial intelligence has hung over the economy for years. But this week advances in software tools precipitated a sell-off on Wall Street.",
+    "published": "2026-02-06T20:11:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "link": "https://vecti.com",
+    "summary": "<p>Hello everyone!<p>I'm a solo developer who's been doing UI/UX work since 2007. Over the years, I watched design tools evolve from lightweight products into bloated feature-heavy platforms. I kept finding myself using a small amount of the features while the rest just mostly got in the way.<p>So a few years ago I set out to build a design tool just like I wanted. So I built Vecti with what I actually need: pixel-perfect grid snapping, a performant canvas renderer, shared asset libraries, and export/presentation features. No collaborative whiteboarding. No plugin ecosystem. No enterprise features. Just the design loop.<p>Four years later, I can proudly show it off. Built and hosted in the EU with European privacy regulations. Free tier available (no credit card, one editor forever).<p>On privacy: I use some basic analytics (page views, referrers) but zero tracking inside the app itself. No session recordings, no behavior analytics, no third-party scripts beyond the essentials.<p>If you're a solo designer or small team who wants a tool that stays out of your way, I'd genuinely appreciate your feedback:\n<a href=\"https://vecti.com\" rel=\"nofollow\">https://vecti.com</a><p>Happy to answer questions about the tech stack, architecture decisions, why certain features didn't make the cut, or what's next.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46917033\">https://news.ycombinator.com/item?id=46917033</a></p>\n<p>Points: 312</p>\n<p># Comments: 137</p>",
+    "published": "2026-02-06T19:27:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
-    "link": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=QLb3nhIy2Lc\">https://www.youtube.com/watch?v=QLb3nhIy2Lc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46908700\">https://news.ycombinator.com/item?id=46908700</a></p>\n<p>Points: 31</p>\n<p># Comments: 1</p>",
-    "published": "2026-02-06T03:25:51",
+    "title": "Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change",
+    "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+    "summary": "European Union regulators said the app’s infinite scroll and personalized algorithm led to “compulsive” behavior, especially among children.",
+    "published": "2026-02-06T19:08:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Google Workers Demand End to Cloud Services for Immigration Agencies",
+    "link": "https://www.nytimes.com/2026/02/06/business/google-employees-protest.html",
+    "summary": "More than 800 employees delivered a petition to management, condemning the Trump administration’s use of Google technology in immigration enforcement.",
+    "published": "2026-02-06T18:52:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+    "link": "https://eljojo.github.io/rememory/",
+    "summary": "<p>Due to bike-induced concussions, I've been worried for a while about losing my memory and not being able to log back in.<p>I combined shamir secret sharing (hashicorp vault's implementation) with age-encryption, and packaged it using WASM for a neat in-browser offline UX.<p>The idea is that if something happens to me, my friends and family would help me get back access to the data that matters most to me. 5 out of 7 friends need to agree for the vault to unlock.<p>Try out the demo in the website, it runs entirely in your browser!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46916609\">https://news.ycombinator.com/item?id=46916609</a></p>\n<p>Points: 259</p>\n<p># Comments: 155</p>",
+    "published": "2026-02-06T18:51:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
-    "link": "https://vespalec.com/blog/tower-of-flaws/",
-    "summary": "<p>Article URL: <a href=\"https://vespalec.com/blog/tower-of-flaws/\">https://vespalec.com/blog/tower-of-flaws/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46908671\">https://news.ycombinator.com/item?id=46908671</a></p>\n<p>Points: 60</p>\n<p># Comments: 20</p>",
-    "published": "2026-02-06T03:22:29",
+    "title": "How to effectively write quality code with AI",
+    "link": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+    "summary": "<p>Article URL: <a href=\"https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/\">https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46916586\">https://news.ycombinator.com/item?id=46916586</a></p>\n<p>Points: 232</p>\n<p># Comments: 178</p>",
+    "published": "2026-02-06T18:49:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GitHub Actions is slowly killing engineering teams",
-    "link": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
-    "summary": "<p>Article URL: <a href=\"https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/\">https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46908491\">https://news.ycombinator.com/item?id=46908491</a></p>\n<p>Points: 229</p>\n<p># Comments: 105</p>",
-    "published": "2026-02-06T02:58:31",
+    "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+    "link": "https://infisical.com/blog/devops-to-solutions-engineering",
+    "summary": "<p>Article URL: <a href=\"https://infisical.com/blog/devops-to-solutions-engineering\">https://infisical.com/blog/devops-to-solutions-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46915102\">https://news.ycombinator.com/item?id=46915102</a></p>\n<p>Points: 136</p>\n<p># Comments: 59</p>",
+    "published": "2026-02-06T16:45:47",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Waymo World Model",
+    "link": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
+    "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation\">https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46914785\">https://news.ycombinator.com/item?id=46914785</a></p>\n<p>Points: 897</p>\n<p># Comments: 544</p>",
+    "published": "2026-02-06T16:20:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sheldon Brown's Bicycle Technical Info",
+    "link": "https://www.sheldonbrown.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.sheldonbrown.com/\">https://www.sheldonbrown.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46914159\">https://news.ycombinator.com/item?id=46914159</a></p>\n<p>Points: 355</p>\n<p># Comments: 92</p>",
+    "published": "2026-02-06T15:40:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An Update on Heroku",
+    "link": "https://www.heroku.com/blog/an-update-on-heroku/",
+    "summary": "<p>Article URL: <a href=\"https://www.heroku.com/blog/an-update-on-heroku/\">https://www.heroku.com/blog/an-update-on-heroku/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46913903\">https://news.ycombinator.com/item?id=46913903</a></p>\n<p>Points: 391</p>\n<p># Comments: 264</p>",
+    "published": "2026-02-06T15:20:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microsoft open-sources LiteBox, a security-focused library OS",
+    "link": "https://github.com/microsoft/litebox",
+    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/litebox\">https://github.com/microsoft/litebox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46913793\">https://news.ycombinator.com/item?id=46913793</a></p>\n<p>Points: 353</p>\n<p># Comments: 176</p>",
+    "published": "2026-02-06T15:13:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FORTH? Really!?",
+    "link": "https://rescrv.net/w/2026/02/06/associative",
+    "summary": "<p>Article URL: <a href=\"https://rescrv.net/w/2026/02/06/associative\">https://rescrv.net/w/2026/02/06/associative</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46912843\">https://news.ycombinator.com/item?id=46912843</a></p>\n<p>Points: 60</p>\n<p># Comments: 22</p>",
+    "published": "2026-02-06T13:54:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hackers (1995) Animated Experience",
+    "link": "https://hackers-1995.vercel.app/",
+    "summary": "<p>Article URL: <a href=\"https://hackers-1995.vercel.app/\">https://hackers-1995.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46912800\">https://news.ycombinator.com/item?id=46912800</a></p>\n<p>Points: 458</p>\n<p># Comments: 229</p>",
+    "published": "2026-02-06T13:49:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I now assume that all ads on Apple news are scams",
+    "link": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
+    "summary": "<p>Article URL: <a href=\"https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/\">https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46911901\">https://news.ycombinator.com/item?id=46911901</a></p>\n<p>Points: 1043</p>\n<p># Comments: 431</p>",
+    "published": "2026-02-06T12:16:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elon Musk’s Mega-Merger + We Test Google’s Project Genie + What’s Next for Moltbook Creator",
+    "link": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
+    "summary": "“A very valuable and profitable company in SpaceX has acquired a cash furnace named xAI.”",
+    "published": "2026-02-06T12:00:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "An Indian Film Embraces a Taj Majal Conspiracy Theory",
+    "link": "https://www.nytimes.com/2026/02/06/business/the-taj-story-conspiracy-taj-mahal-hindu.html",
+    "summary": "The internet and a new film have breathed life into old conspiracy theories about one of the world’s most famous landmarks.",
+    "published": "2026-02-06T05:01:11",
+    "source": "NYT > Technology"
   },
   {
     "title": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
@@ -77,101 +196,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The RCE that AMD won't fix",
-    "link": "https://mrbruh.com/amd/",
-    "summary": "<p>Article URL: <a href=\"https://mrbruh.com/amd/\">https://mrbruh.com/amd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46906947\">https://news.ycombinator.com/item?id=46906947</a></p>\n<p>Points: 192</p>\n<p># Comments: 78</p>",
-    "published": "2026-02-05T23:29:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What if writing tests was a joyful experience? (2023)",
-    "link": "https://blog.janestreet.com/the-joy-of-expect-tests/",
-    "summary": "<p>Article URL: <a href=\"https://blog.janestreet.com/the-joy-of-expect-tests/\">https://blog.janestreet.com/the-joy-of-expect-tests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46905896\">https://news.ycombinator.com/item?id=46905896</a></p>\n<p>Points: 70</p>\n<p># Comments: 27</p>",
-    "published": "2026-02-05T21:51:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Review of 1984 by Isaac Asimov (1980)",
-    "link": "https://www.newworker.org/ncptrory/1984.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.newworker.org/ncptrory/1984.htm\">https://www.newworker.org/ncptrory/1984.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46905761\">https://news.ycombinator.com/item?id=46905761</a></p>\n<p>Points: 152</p>\n<p># Comments: 80</p>",
-    "published": "2026-02-05T21:39:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Opus 4.6 extra usage promo",
-    "link": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
-    "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo\">https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46904569\">https://news.ycombinator.com/item?id=46904569</a></p>\n<p>Points: 163</p>\n<p># Comments: 52</p>",
-    "published": "2026-02-05T20:15:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "LinkedIn checks for 2953 browser extensions",
-    "link": "https://github.com/mdp/linkedin-extension-fingerprinting",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mdp/linkedin-extension-fingerprinting\">https://github.com/mdp/linkedin-extension-fingerprinting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46904361\">https://news.ycombinator.com/item?id=46904361</a></p>\n<p>Points: 400</p>\n<p># Comments: 192</p>",
-    "published": "2026-02-05T20:00:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The time I didn't meet Jeffrey Epstein",
-    "link": "https://scottaaronson.blog/?p=9534",
-    "summary": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=9534\">https://scottaaronson.blog/?p=9534</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46903929\">https://news.ycombinator.com/item?id=46903929</a></p>\n<p>Points: 173</p>\n<p># Comments: 145</p>",
-    "published": "2026-02-05T19:29:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-    "link": "https://www.anthropic.com/engineering/building-c-compiler",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/engineering/building-c-compiler\">https://www.anthropic.com/engineering/building-c-compiler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46903616\">https://news.ycombinator.com/item?id=46903616</a></p>\n<p>Points: 527</p>\n<p># Comments: 487</p>",
-    "published": "2026-02-05T19:07:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My AI Adoption Journey",
-    "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/my-ai-adoption-journey\">https://mitchellh.com/writing/my-ai-adoption-journey</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46903558\">https://news.ycombinator.com/item?id=46903558</a></p>\n<p>Points: 577</p>\n<p># Comments: 191</p>",
-    "published": "2026-02-05T19:04:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPT-5.3-Codex",
-    "link": "https://openai.com/index/introducing-gpt-5-3-codex/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-5-3-codex/\">https://openai.com/index/introducing-gpt-5-3-codex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46902638\">https://news.ycombinator.com/item?id=46902638</a></p>\n<p>Points: 1292</p>\n<p># Comments: 479</p>",
-    "published": "2026-02-05T18:08:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Orchestrate teams of Claude Code sessions",
-    "link": "https://code.claude.com/docs/en/agent-teams",
-    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/agent-teams\">https://code.claude.com/docs/en/agent-teams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46902368\">https://news.ycombinator.com/item?id=46902368</a></p>\n<p>Points: 351</p>\n<p># Comments: 193</p>",
-    "published": "2026-02-05T17:49:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Opus 4.6",
-    "link": "https://www.anthropic.com/news/claude-opus-4-6",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-6\">https://www.anthropic.com/news/claude-opus-4-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46902223\">https://news.ycombinator.com/item?id=46902223</a></p>\n<p>Points: 1937</p>\n<p># Comments: 816</p>",
-    "published": "2026-02-05T17:38:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Files Reveal Epstein’s Money Mingled with Silicon Valley’s Tech Start-Ups",
-    "link": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html",
-    "summary": "The disgraced financier regularly courted tech industry figures not just for their prestige but also for access to promising companies.",
-    "published": "2026-02-05T17:07:34",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
     "link": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
     "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758\">https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46901768\">https://news.ycombinator.com/item?id=46901768</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
     "published": "2026-02-05T17:00:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hypernetworks: Neural Networks for Hierarchical Data",
-    "link": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
-    "summary": "<p>Article URL: <a href=\"https://blog.sturdystatistics.com/posts/hnet_part_I/\">https://blog.sturdystatistics.com/posts/hnet_part_I/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46901716\">https://news.ycombinator.com/item?id=46901716</a></p>\n<p>Points: 61</p>\n<p># Comments: 4</p>",
-    "published": "2026-02-05T16:55:38",
     "source": "Hacker News: Front Page"
   },
   {
@@ -249,34 +277,6 @@
     "link": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
     "summary": "A new website called Moltbook has become the talk of Silicon Valley and a Rorschach test for belief in the state of artificial intelligence.",
     "published": "2026-02-02T19:47:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Jeff Bezos’s Rocket Company Blue Origin Pauses Space Tourism to Focus on the Moon",
-    "link": "https://www.nytimes.com/2026/01/30/science/blue-origin-new-shepard-rocket-bezos.html",
-    "summary": "The New Shepard rocket from Blue Origin, which brought 92 people on trips to the edge of space, will cease flying for at least two years as the company prioritizes NASA contracts.",
-    "published": "2026-02-02T16:11:05",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Tech Arsenal That ICE Has Deployed in Minneapolis",
-    "link": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
-    "summary": "Agents use facial recognition, social media monitoring and other tech tools not only to identify undocumented immigrants but also to track protesters, current and former officials said.",
-    "published": "2026-01-31T18:15:46",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tesla’s Model S, Soon to Be History, Changed the Auto Industry",
-    "link": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
-    "summary": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X.",
-    "published": "2026-01-30T19:59:39",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tech Grapples With ICE + Casey Tries Clawdbot, a Risky New A.I. Assistant + HatGPT",
-    "link": "https://www.nytimes.com/2026/01/30/podcasts/hardfork-ice-clawdbot.html",
-    "summary": "In Minneapolis, it has become a battle of phone versus phone.",
-    "published": "2026-01-30T12:00:03",
     "source": "NYT > Technology"
   }
 ]
