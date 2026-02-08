@@ -1,1 +1,1 @@
-Zlob.h 100% POSIX and glibc compatible globbing lib that is faste and better https://github.com/dmtrKovalenko/zlob
+DoNotNotify is now Open Source https://donotnotify.com/opensource.html
