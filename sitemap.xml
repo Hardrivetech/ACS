@@ -1,55 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-02-12</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html</loc>
-    <lastmod>2026-02-11T09:04:00</lastmod>
+    <loc>https://www.juxt.pro/blog/from-specification-to-stress-test/</loc>
+    <lastmod>2026-02-12T09:06:20</lastmod>
   </url>
   <url>
-    <loc>https://astro.theoj.org/article/156033-a-cosmic-miracle-a-remarkably-luminous-galaxy-at-_z_-sub-spec-sub-14-44-confirmed-with-jwst</loc>
-    <lastmod>2026-02-11T08:43:58</lastmod>
+    <loc>https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/</loc>
+    <lastmod>2026-02-12T08:35:34</lastmod>
   </url>
   <url>
-    <loc>https://www.joanwestenberg.com/communities-are-not-fungible/</loc>
-    <lastmod>2026-02-11T07:42:57</lastmod>
+    <loc>https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html</loc>
+    <lastmod>2026-02-12T07:52:49</lastmod>
   </url>
   <url>
-    <loc>https://www.workatastartup.com/jobs/90016</loc>
-    <lastmod>2026-02-11T07:00:46</lastmod>
+    <loc>https://github.com/tonyyont/peon-ping</loc>
+    <lastmod>2026-02-12T05:18:49</lastmod>
   </url>
   <url>
-    <loc>https://www.cve.org/CVERecord?id=CVE-2026-20841</loc>
-    <lastmod>2026-02-11T06:15:33</lastmod>
+    <loc>https://dlang.org/</loc>
+    <lastmod>2026-02-12T05:18:09</lastmod>
   </url>
   <url>
-    <loc>https://news.ycombinator.com/item?id=46971287</loc>
-    <lastmod>2026-02-11T05:40:20</lastmod>
+    <loc>https://essays.fnnch.com/make-a-living</loc>
+    <lastmod>2026-02-12T03:56:26</lastmod>
+  </url>
+  <url>
+    <loc>https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0</loc>
+    <lastmod>2026-02-11T23:54:59</lastmod>
+  </url>
+  <url>
+    <loc>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012</loc>
+    <lastmod>2026-02-11T23:37:11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html</loc>
+    <lastmod>2026-02-11T23:28:28</lastmod>
+  </url>
+  <url>
+    <loc>https://age-verifier.kibty.town/</loc>
+    <lastmod>2026-02-11T22:56:41</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html</loc>
+    <lastmod>2026-02-11T22:00:25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.anthropic.com/news/covering-electricity-price-increases</loc>
+    <lastmod>2026-02-11T21:12:59</lastmod>
+  </url>
+  <url>
+    <loc>https://www.terracenetworks.com/blog/2026-02-11-telnet-routing</loc>
+    <lastmod>2026-02-11T20:20:48</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27</loc>
+    <lastmod>2026-02-11T19:59:17</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/</loc>
+    <lastmod>2026-02-11T19:50:43</lastmod>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash</loc>
+    <lastmod>2026-02-11T18:43:01</lastmod>
+  </url>
+  <url>
+    <loc>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</loc>
+    <lastmod>2026-02-11T18:23:39</lastmod>
+  </url>
+  <url>
+    <loc>https://netnewswire.blog/2026/02/11/netnewswire-turns.html</loc>
+    <lastmod>2026-02-11T18:06:11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/</loc>
+    <lastmod>2026-02-11T16:39:11</lastmod>
+  </url>
+  <url>
+    <loc>https://fluorite.game/</loc>
+    <lastmod>2026-02-11T16:21:10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html</loc>
+    <lastmod>2026-02-11T16:01:22</lastmod>
+  </url>
+  <url>
+    <loc>https://z.ai/blog/glm-5</loc>
+    <lastmod>2026-02-11T13:42:16</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md</loc>
+    <lastmod>2026-02-11T13:10:23</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html</loc>
-    <lastmod>2026-02-11T02:34:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/03/technology/trump-statue-don-colossus.html</loc>
-    <lastmod>2026-02-11T02:15:01</lastmod>
+    <lastmod>2026-02-11T02:34:59</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html</loc>
     <lastmod>2026-02-11T02:04:43</lastmod>
-  </url>
-  <url>
-    <loc>https://rivian.com/r2</loc>
-    <lastmod>2026-02-11T01:00:15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.funwithpinball.com/exhibits/small-boards</loc>
-    <lastmod>2026-02-11T00:21:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</loc>
-    <lastmod>2026-02-10T22:20:40</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html</loc>
@@ -60,68 +112,16 @@
     <lastmod>2026-02-10T21:28:40</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/02/10/business/spacex-nlrb-labor-elon-musk.html</loc>
-    <lastmod>2026-02-10T20:57:05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.scottishcanals.co.uk/visit/canals/visit-the-forth-clyde-canal/attractions/the-falkirk-wheel</loc>
-    <lastmod>2026-02-10T20:42:20</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/02/10/technology/personaltech/ai-google-meta-opt-out.html</loc>
-    <lastmod>2026-02-10T19:28:27</lastmod>
-  </url>
-  <url>
-    <loc>https://campedersen.com/singularity</loc>
-    <lastmod>2026-02-10T17:04:31</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/rowboatlabs/rowboat</loc>
-    <lastmod>2026-02-10T16:47:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.infinitelymore.xyz/p/complex-numbers-essential-structure</loc>
-    <lastmod>2026-02-10T16:36:30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ablg.io/blog/competition-is-not-validation</loc>
-    <lastmod>2026-02-10T16:04:21</lastmod>
-  </url>
-  <url>
-    <loc>https://entire.io/blog/hello-entire-world/</loc>
-    <lastmod>2026-02-10T15:44:47</lastmod>
-  </url>
-  <url>
-    <loc>https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time</loc>
-    <lastmod>2026-02-10T13:26:14</lastmod>
-  </url>
-  <url>
-    <loc>https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/</loc>
-    <lastmod>2026-02-10T11:42:14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.feynmanlectures.caltech.edu/</loc>
-    <lastmod>2026-02-10T11:36:14</lastmod>
-  </url>
-  <url>
-    <loc>https://code.idtech.space/fn/hl2</loc>
-    <lastmod>2026-02-10T11:21:56</lastmod>
+    <lastmod>2026-02-10T19:28:28</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/09/technology/social-media-addiction-trial.html</loc>
     <lastmod>2026-02-10T00:53:17</lastmod>
   </url>
   <url>
-    <loc>https://seangeiger.substack.com/p/a-brief-history-of-oral-peptides</loc>
-    <lastmod>2026-02-09T21:23:27</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html</loc>
     <lastmod>2026-02-09T17:17:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html</loc>
-    <lastmod>2026-02-09T16:15:44</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html</loc>
