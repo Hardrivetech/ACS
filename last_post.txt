@@ -1,1 +1,1 @@
-FAA Halts All Flights at El Paso Airport for 10 Days https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html
+From specification to stress test: a weekend with Claude https://www.juxt.pro/blog/from-specification-to-stress-test/
