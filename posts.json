@@ -1,59 +1,192 @@
 [
   {
-    "title": "From specification to stress test: a weekend with Claude",
-    "link": "https://www.juxt.pro/blog/from-specification-to-stress-test/",
-    "summary": "<p>Article URL: <a href=\"https://www.juxt.pro/blog/from-specification-to-stress-test/\">https://www.juxt.pro/blog/from-specification-to-stress-test/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986496\">https://news.ycombinator.com/item?id=46986496</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-    "published": "2026-02-12T09:06:20",
+    "title": "MinIO repository is no longer maintained",
+    "link": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "summary": "<p>Article URL: <a href=\"https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f\">https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47000041\">https://news.ycombinator.com/item?id=47000041</a></p>\n<p>Points: 82</p>\n<p># Comments: 24</p>",
+    "published": "2026-02-13T07:46:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The missing digit of Stela C",
-    "link": "https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/",
-    "summary": "<p>Article URL: <a href=\"https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/\">https://johncarlosbaez.wordpress.com/2026/02/12/stela-c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986248\">https://news.ycombinator.com/item?id=46986248</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-12T08:35:34",
+    "title": "Asimov (YC W26) Is Hiring",
+    "link": "https://news.ycombinator.com/item?id=46999753",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46999753\">https://news.ycombinator.com/item?id=46999753</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-13T07:00:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "65 Lines of Markdown, a Claude Code Sensation",
-    "link": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
-    "summary": "<p>Article URL: <a href=\"https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html\">https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46986001\">https://news.ycombinator.com/item?id=46986001</a></p>\n<p>Points: 36</p>\n<p># Comments: 25</p>",
-    "published": "2026-02-12T07:52:49",
+    "title": "Ring owners are returning their cameras",
+    "link": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+    "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3\">https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46999545\">https://news.ycombinator.com/item?id=46999545</a></p>\n<p>Points: 101</p>\n<p># Comments: 78</p>",
+    "published": "2026-02-13T06:23:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Warcraft III Peon Voice Notifications for Claude Code",
-    "link": "https://github.com/tonyyont/peon-ping",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tonyyont/peon-ping\">https://github.com/tonyyont/peon-ping</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46985151\">https://news.ycombinator.com/item?id=46985151</a></p>\n<p>Points: 306</p>\n<p># Comments: 112</p>",
-    "published": "2026-02-12T05:18:49",
+    "title": "MMAcevedo aka Lena by qntm",
+    "link": "https://qntm.org/mmacevedo",
+    "summary": "<p>Article URL: <a href=\"https://qntm.org/mmacevedo\">https://qntm.org/mmacevedo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46999224\">https://news.ycombinator.com/item?id=46999224</a></p>\n<p>Points: 67</p>\n<p># Comments: 36</p>",
+    "published": "2026-02-13T05:24:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "D Programming Language",
-    "link": "https://dlang.org/",
-    "summary": "<p>Article URL: <a href=\"https://dlang.org/\">https://dlang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46985147\">https://news.ycombinator.com/item?id=46985147</a></p>\n<p>Points: 110</p>\n<p># Comments: 85</p>",
-    "published": "2026-02-12T05:18:09",
+    "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+    "link": "https://skipthe.tips/",
+    "summary": "<p>Article URL: <a href=\"https://skipthe.tips/\">https://skipthe.tips/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46997519\">https://news.ycombinator.com/item?id=46997519</a></p>\n<p>Points: 308</p>\n<p># Comments: 198</p>",
+    "published": "2026-02-13T00:54:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How to make a living as an artist",
-    "link": "https://essays.fnnch.com/make-a-living",
-    "summary": "<p>Article URL: <a href=\"https://essays.fnnch.com/make-a-living\">https://essays.fnnch.com/make-a-living</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46984735\">https://news.ycombinator.com/item?id=46984735</a></p>\n<p>Points: 91</p>\n<p># Comments: 45</p>",
-    "published": "2026-02-12T03:56:26",
+    "title": "AWS Adds support for nested virtualization",
+    "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+    "summary": "<p>Article URL: <a href=\"https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e\">https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46997133\">https://news.ycombinator.com/item?id=46997133</a></p>\n<p>Points: 192</p>\n<p># Comments: 69</p>",
+    "published": "2026-02-13T00:07:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "From 34% to 96%: The Porting Initiative Delivers – Hologram v0.7.0",
-    "link": "https://hologram.page/blog/porting-initiative-delivers-hologram-v0-7-0",
-    "summary": "<p>Creator here. Hologram compiles Elixir to JavaScript to run in the browser, enabling full-stack development in pure Elixir - and soon, Local-First applications.<p>This release is a milestone for our porting initiative. 49 contributors ported 150 Erlang functions across 19 modules, pushing client-side Erlang runtime coverage from 34% to 96% and overall Elixir standard library readiness from 74% to 87%.<p>This means the vast majority of Elixir standard library functions needed for full-stack web and basic local-first apps now work in the browser - string processing, collections, sets, binary operations, Unicode normalization, math, time operations, file path handling, and more.<p>Beyond porting, the release includes enhancements, bug fixes, and infrastructure groundwork.<p>Happy to answer any questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46982943\">https://news.ycombinator.com/item?id=46982943</a></p>\n<p>Points: 39</p>\n<p># Comments: 6</p>",
-    "published": "2026-02-11T23:54:59",
+    "title": "Resizing windows on macOS Tahoe – the saga continues",
+    "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+    "summary": "<p>Article URL: <a href=\"https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/\">https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46997008\">https://news.ycombinator.com/item?id=46997008</a></p>\n<p>Points: 523</p>\n<p># Comments: 233</p>",
+    "published": "2026-02-12T23:52:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GPT-5 outperforms federal judges in legal reasoning experiment",
-    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012",
-    "summary": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46982792\">https://news.ycombinator.com/item?id=46982792</a></p>\n<p>Points: 267</p>\n<p># Comments: 186</p>",
-    "published": "2026-02-11T23:37:11",
+    "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
+    "link": "https://www.theverge.com/news/878447/ring-flock-partnership-canceled",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/news/878447/ring-flock-partnership-canceled\">https://www.theverge.com/news/878447/ring-flock-partnership-canceled</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46996999\">https://news.ycombinator.com/item?id=46996999</a></p>\n<p>Points: 393</p>\n<p># Comments: 208</p>",
+    "published": "2026-02-12T23:51:16",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Recoverable and Irrecoverable Decisions",
+    "link": "https://herbertlui.net/recoverable-and-irrecoverable-decisions/",
+    "summary": "<p>Article URL: <a href=\"https://herbertlui.net/recoverable-and-irrecoverable-decisions/\">https://herbertlui.net/recoverable-and-irrecoverable-decisions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46996569\">https://news.ycombinator.com/item?id=46996569</a></p>\n<p>Points: 61</p>\n<p># Comments: 18</p>",
+    "published": "2026-02-12T23:08:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Tech Giants Are Accused of Causing Social Media Addiction",
+    "link": "https://www.nytimes.com/video/technology/100000010701326/why-tech-giants-are-accused-of-causing-social-media-addiction.html",
+    "summary": "In a series of landmark trials, plaintiffs are alleging that Meta, TikTok, Snap and YouTube caused personal injury through addictive products. Our technology reporter Cecilia Kang describes what’s at stake for tech giants and social media users.",
+    "published": "2026-02-12T23:01:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+    "link": "https://news.ycombinator.com/item?id=46996490",
+    "summary": "<p>It's with much sadness that we announce the passing of our friend and colleague Ralph Giles, or rillian as he was known on IRC.<p>Ralph began contributing to Xiph.org in 2000 and became a core Ghostscript developer in 2001[1]. Ralph made many contributions to the royalty-free media ecosystem, whether it was as a project lead on Theora, serving as release manager for multiple Xiph libraries or maintaining Xiph infrastructure that has been used across the industry by codec engineers and researchers[2].\nHe was also the first to ship Rust code in Firefox[3] during his time at Mozilla, which was a major milestone for both the language and Firefox itself.<p>Ralph was a great contributor, a kind colleague and will be greatly missed.<p>Official Announcement: <a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7427730451626262530\" rel=\"nofollow\">https://www.linkedin.com/feed/update/urn:li:activity:7427730...</a><p>[1]: <a href=\"http://www.wizards-of-os.org/archiv/sprecher/g_h/ralph_giles.html\" rel=\"nofollow\">http://www.wizards-of-os.org/archiv/sprecher/g_h/ralph_giles...</a><p>[2]: <a href=\"https://media.xiph.org/\" rel=\"nofollow\">https://media.xiph.org/</a><p>[3]: <a href=\"https://medium.com/mozilla-tech/deploying-rust-in-a-large-codebase-7e50328074e8\" rel=\"nofollow\">https://medium.com/mozilla-tech/deploying-rust-in-a-large-co...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46996490\">https://news.ycombinator.com/item?id=46996490</a></p>\n<p>Points: 206</p>\n<p># Comments: 8</p>",
+    "published": "2026-02-12T22:58:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic Is Valued at $380 Billion in New Funding Round",
+    "link": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html",
+    "summary": "The artificial intelligence start-up raised another $30 billion, and its valuation more than doubled since its last funding round in September.",
+    "published": "2026-02-12T22:38:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
+    "link": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
+    "summary": "<p>Article URL: <a href=\"https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/\">https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46996258\">https://news.ycombinator.com/item?id=46996258</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-12T22:34:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "These Mathematicians Are Putting A.I. to the Test",
+    "link": "https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html",
+    "summary": "Large language models struggle to solve research-level math questions. It takes a human to assess just how poorly they perform.",
+    "published": "2026-02-12T22:04:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Gail Slater Leaves Role as Justice Dept.’s Antitrust Chief",
+    "link": "https://www.nytimes.com/2026/02/12/technology/gail-slater-antittrust-justice-department.html",
+    "summary": "Her departure follows months of mounting tension over her division’s work to determine whether companies violated antitrust laws.",
+    "published": "2026-02-12T19:30:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to Have a Bad Career – David Patterson (2016) [video]",
+    "link": "https://www.youtube.com/watch?v=Rn1w4MRHIhc",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Rn1w4MRHIhc\">https://www.youtube.com/watch?v=Rn1w4MRHIhc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46993397\">https://news.ycombinator.com/item?id=46993397</a></p>\n<p>Points: 81</p>\n<p># Comments: 23</p>",
+    "published": "2026-02-12T19:01:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
+    "summary": "Ford Motor shut down a battery factory and laid off 1,600 workers after President Trump and Republicans gutted government support for electric vehicles.",
+    "published": "2026-02-12T18:59:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Polis: Open-source platform for large-scale civic deliberation",
+    "link": "https://pol.is/home2",
+    "summary": "<p>Article URL: <a href=\"https://pol.is/home2\">https://pol.is/home2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46992815\">https://news.ycombinator.com/item?id=46992815</a></p>\n<p>Points: 250</p>\n<p># Comments: 90</p>",
+    "published": "2026-02-12T18:23:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT‑5.3‑Codex‑Spark",
+    "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-5-3-codex-spark/\">https://openai.com/index/introducing-gpt-5-3-codex-spark/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46992553\">https://news.ycombinator.com/item?id=46992553</a></p>\n<p>Points: 724</p>\n<p># Comments: 300</p>",
+    "published": "2026-02-12T18:06:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+    "link": "https://news.ycombinator.com/item?id=46991591",
+    "summary": "<p>Hey y’all, Kartik, Ishaan, and Christian from Omnara (<a href=\"https://www.omnara.com/\">https://www.omnara.com/</a>) here. We’re building a web and mobile agentic IDE for Claude Code and Codex that lets you run and interact with coding agents from anywhere. Omnara lets you run Claude Code and Codex sessions on your own machine, and exposes those sessions through a web and mobile interface so you can stay involved even when you’re away from your desk. Think of it like Claude Code Desktop or Conductor, except you can continue your sessions on your phone.<p>Here’s a demo of the web and mobile apps - <a href=\"https://youtu.be/R8Wmy4FLbhQ\" rel=\"nofollow\">https://youtu.be/R8Wmy4FLbhQ</a><p>We started using Claude Code early last year and quickly ran into a pattern: agents could work for long stretches on their own, but progress would stall whenever they needed follow-up input. If that happened while we were away from our desks, everything just paused. We looked at remote agent solutions like Codex Web and Devin, which were the main options at the time, but they ran in remote VMs, and we wanted our coding agent to run in our own environment. Our first attempt at solving this was a lightweight wrapper that streamed messages from the Claude Code CLI to a mobile app, but that approach ended up being fragile and hard to maintain.<p>As the Claude Agent SDK matured, it gave us enough control to rewrite Omnara from scratch and run the agent loop directly. We chose to build a GUI across web and mobile instead of a TUI or CLI, because we think GUIs are generally more ergonomic for working with agents and code, especially on mobile. We still preserve the main strength of CLIs and TUIs: running anywhere, including on headless machines.<p>Omnara keeps that property by running a small headless daemon on the user’s machine (or a remote VM) that hosts the agent loop. The daemon maintains an authenticated, outbound WebSocket connection to our server, which relays messages between the agent running on the user’s machine and any connected web or mobile clients. Because the daemon only makes outbound connections, there’s no need for exposed ports, SSH access, or tunneling on the user’s machine.<p>In our first version of Omnara, users liked that agent sessions ran in their own environment, but they still depended on the machine staying online. Some users ran Omnara on a remote machine that stayed up, which worked well for them, though most still did most of their work on laptops. In the current version, Omnara can continue an agent session in a hosted remote sandbox when your local machine goes offline.<p>The conversation state of an agent is already persisted on our server, and you can optionally enable cloud syncing for the working code. When syncing is enabled, Omnara creates git commits at each turn in the conversation and pushes them to our server, so execution can resume from the same state regardless of whether it continues locally or in the cloud. If you continue working in a remote sandbox, you can later pull any changes back into your local environment when you return to your machine. Environment parity in the sandbox isn’t perfect yet, but in practice, missing dependencies are usually easy to resolve by asking the agent to install them.<p>Another thing we learned from using the initial version of Omnara is that mobile is fine for quick interactions, but not great for extended back-and-forth. Users asked for a hands-free way to keep agents moving while walking, driving, or doing something else, which led us to add a voice agent. Coming from more traditional software engineering backgrounds, we honestly thought coding by talking to a voice agent would be gimmicky and added it mostly as a fallback.<p>What surprised us is how useful the voice agent ended up being in practice. When working with coding agents, being redundant and overly explicit usually helps, and people naturally give more detail when speaking than when typing. Going back and forth with the agent as the conversation unfolds tends to produce a much more solid plan than trying to one-shot it with a prompt (this could technically also be done over text, but talking and iterating over voice feels easier and more natural). It’s also just fun. Talking through an idea with an agent while out on a walk is a lot more enjoyable than staring at a terminal screen.<p>To try it out, open your terminal and download Omnara with<p><pre><code>  curl -fsSL https://omnara.com/install/install.sh | bash\n</code></pre>\nthen run omnara inside any git repository. This starts a headless Claude Code or Codex session in that repo, which immediately appears in the Omnara web and mobile apps. From there, you can continue that session or start new ones remotely (with or without worktrees) and switch between the web and mobile clients without interrupting the agent.<p>Omnara is free for 10 agent sessions per month, then $20/month for unlimited sessions. When agents run in your own environment, you can use your existing Claude or Codex subscription, so there’s no need to pay us for additional tokens. If you use Claude Code or Codex, we’d love to hear your feedback on Omnara!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46991591\">https://news.ycombinator.com/item?id=46991591</a></p>\n<p>Points: 117</p>\n<p># Comments: 136</p>",
+    "published": "2026-02-12T17:14:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gemini 3 Deep Think",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "summary": "<p><a href=\"https://x.com/GoogleDeepMind/status/2021981510400709092\" rel=\"nofollow\">https://x.com/GoogleDeepMind/status/2021981510400709092</a><p><a href=\"https://x.com/fchollet/status/2021983310541729894\" rel=\"nofollow\">https://x.com/fchollet/status/2021983310541729894</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46991240\">https://news.ycombinator.com/item?id=46991240</a></p>\n<p>Points: 844</p>\n<p># Comments: 535</p>",
+    "published": "2026-02-12T16:55:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An AI agent published a hit piece on me",
+    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "summary": "<p>Previously: <i>AI agent opens a PR write a blogpost to shames the maintainer who closes it</i> - <a href=\"https://news.ycombinator.com/item?id=46987559\">https://news.ycombinator.com/item?id=46987559</a> - Feb 2026 (582 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46990729\">https://news.ycombinator.com/item?id=46990729</a></p>\n<p>Points: 1787</p>\n<p># Comments: 720</p>",
+    "published": "2026-02-12T16:23:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+    "link": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+    "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver\">https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46990578\">https://news.ycombinator.com/item?id=46990578</a></p>\n<p>Points: 206</p>\n<p># Comments: 218</p>",
+    "published": "2026-02-12T16:10:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic Donates $20 Million to Super PAC Operation to Counter OpenAI",
+    "link": "https://www.nytimes.com/2026/02/12/technology/anthropic-super-pac-openai.html",
+    "summary": "Anthropic and OpenAI now have their own well-funded political groups that will square off in the midterm elections over artificial intelligence safety and regulation.",
+    "published": "2026-02-12T14:33:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Major European payment processor can't send email to Google Workspace users",
+    "link": "https://atha.io/blog/2026-02-12-viva",
+    "summary": "<p>Article URL: <a href=\"https://atha.io/blog/2026-02-12-viva\">https://atha.io/blog/2026-02-12-viva</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46989217\">https://news.ycombinator.com/item?id=46989217</a></p>\n<p>Points: 511</p>\n<p># Comments: 355</p>",
+    "published": "2026-02-12T14:24:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+    "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+    "summary": "<p>Article URL: <a href=\"http://blog.can.ac/2026/02/12/the-harness-problem/\">http://blog.can.ac/2026/02/12/the-harness-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46988596\">https://news.ycombinator.com/item?id=46988596</a></p>\n<p>Points: 664</p>\n<p># Comments: 252</p>",
+    "published": "2026-02-12T13:30:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ford Will Make a Play for a Different Battery Market",
+    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+    "summary": "The company, long focused on cars and trucks, plans to begin manufacturing large batteries used by utilities, data centers, other businesses and homeowners.",
+    "published": "2026-02-12T10:03:23",
+    "source": "NYT > Technology"
   },
   {
     "title": "Instagram Chief Says Social Media Is Not ‘Clinically Addictive’ in Landmark Trial",
@@ -63,13 +196,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Discord/Twitch/Snapchat age verification bypass",
-    "link": "https://age-verifier.kibty.town/",
-    "summary": "<p>Article URL: <a href=\"https://age-verifier.kibty.town/\">https://age-verifier.kibty.town/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46982421\">https://news.ycombinator.com/item?id=46982421</a></p>\n<p>Points: 713</p>\n<p># Comments: 296</p>",
-    "published": "2026-02-11T22:56:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "These A.I. Dreamers Don’t Fit the Stereotype",
     "link": "https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html",
     "summary": "Young tech entrepreneurs in San Francisco are hoping to cash in, even as they wonder how artificial intelligence will affect society.",
@@ -77,88 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Covering electricity price increases from our data centers",
-    "link": "https://www.anthropic.com/news/covering-electricity-price-increases",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/covering-electricity-price-increases\">https://www.anthropic.com/news/covering-electricity-price-increases</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46981058\">https://news.ycombinator.com/item?id=46981058</a></p>\n<p>Points: 93</p>\n<p># Comments: 52</p>",
-    "published": "2026-02-11T21:12:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reports of Telnet's death have been greatly exaggerated",
-    "link": "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing",
-    "summary": "<p>Article URL: <a href=\"https://www.terracenetworks.com/blog/2026-02-11-telnet-routing\">https://www.terracenetworks.com/blog/2026-02-11-telnet-routing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46980355\">https://news.ycombinator.com/item?id=46980355</a></p>\n<p>Points: 100</p>\n<p># Comments: 42</p>",
-    "published": "2026-02-11T20:20:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple's latest attempt to launch the new Siri runs into snags",
-    "link": "https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27",
-    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27\">https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46980039\">https://news.ycombinator.com/item?id=46980039</a></p>\n<p>Points: 88</p>\n<p># Comments: 126</p>",
-    "published": "2026-02-11T19:59:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-    "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-    "summary": "<p>Article URL: <a href=\"https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/\">https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46979936\">https://news.ycombinator.com/item?id=46979936</a></p>\n<p>Points: 94</p>\n<p># Comments: 30</p>",
-    "published": "2026-02-11T19:50:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Amazon Ring's lost dog ad sparks backlash amid fears of mass surveillance",
-    "link": "https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash",
-    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash\">https://www.theverge.com/tech/876866/ring-search-party-super-bowl-ad-online-backlash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46978966\">https://news.ycombinator.com/item?id=46978966</a></p>\n<p>Points: 565</p>\n<p># Comments: 305</p>",
-    "published": "2026-02-11T18:43:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Code is being dumbed down?",
-    "link": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-    "summary": "<p>Article URL: <a href=\"https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/\">https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46978710\">https://news.ycombinator.com/item?id=46978710</a></p>\n<p>Points: 921</p>\n<p># Comments: 594</p>",
-    "published": "2026-02-11T18:23:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NetNewsWire Turns 23",
-    "link": "https://netnewswire.blog/2026/02/11/netnewswire-turns.html",
-    "summary": "<p>Article URL: <a href=\"https://netnewswire.blog/2026/02/11/netnewswire-turns.html\">https://netnewswire.blog/2026/02/11/netnewswire-turns.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46978490\">https://news.ycombinator.com/item?id=46978490</a></p>\n<p>Points: 284</p>\n<p># Comments: 69</p>",
-    "published": "2026-02-11T18:06:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ireland rolls out basic income scheme for artists",
-    "link": "https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/\">https://www.reuters.com/world/ireland-rolls-out-pioneering-basic-income-scheme-artists-2026-02-10/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46977175\">https://news.ycombinator.com/item?id=46977175</a></p>\n<p>Points: 288</p>\n<p># Comments: 270</p>",
-    "published": "2026-02-11T16:39:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fluorite – A console-grade game engine fully integrated with Flutter",
-    "link": "https://fluorite.game/",
-    "summary": "<p><a href=\"https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/\" rel=\"nofollow\">https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46976911\">https://news.ycombinator.com/item?id=46976911</a></p>\n<p>Points: 470</p>\n<p># Comments: 268</p>",
-    "published": "2026-02-11T16:21:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
     "link": "https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html",
     "summary": "The maker of ChatGPT hopes to triple its revenue in the coming year because it is planning to spend tens of billions of dollars. The clock is ticking.",
     "published": "2026-02-11T16:01:22",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-    "link": "https://z.ai/blog/glm-5",
-    "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-5\">https://z.ai/blog/glm-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46974853\">https://news.ycombinator.com/item?id=46974853</a></p>\n<p>Points: 368</p>\n<p># Comments: 449</p>",
-    "published": "2026-02-11T13:42:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
-    "link": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
-    "summary": "<p>I've been building a tool that changes how LLM coding agents explore codebases, and I wanted to share it along with some early observations.<p>Typically claude code globs directories, greps for patterns, and reads files with minimal guidance. It works in kind of the same way you'd learn to navigate a city by walking every street. You'll eventually build a mental map, but claude never does - at least not any that persists across different contexts.<p>The Recursive Language Models paper from Zhang, Kraska, and Khattab at MIT CSAIL introduced a cleaner framing. Instead of cramming everything into context, the model gets a searchable environment. The model can then query just for what it needs and can drill deeper where needed.<p>coderlm is my implementation of that idea for codebases. A Rust server indexes a project with tree-sitter, builds a symbol table with cross-references, and exposes an API. The agent queries for structure, symbols, implementations, callers, and grep results — getting back exactly the code it needs instead of scanning for it.<p>The agent workflow looks like:<p>1. `init` — register the project, get the top-level structure<p>2. `structure` — drill into specific directories<p>3. `search` — find symbols by name across the codebase<p>4. `impl` — retrieve the exact source of a function or class<p>5. `callers` — find everything that calls a given symbol<p>6. `grep` — fall back to text search when you need it<p>This replaces the glob/grep/read cycle with index-backed lookups. The server currently supports Rust, Python, TypeScript, JavaScript, and Go for symbol parsing, though all file types show up in the tree and are searchable via grep.<p>It ships as a Claude Code plugin with hooks that guide the agent to use indexed lookups instead of native file tools, plus a Python CLI wrapper with zero dependencies.<p>For anecdotal results, I ran the same prompt against a codebase to \"explore and identify opportunities to clarify the existing structure\".<p>Using coderlm, claude was able to generate a plan in about 3 minutes. The coderlm enabled instance found a genuine bug (duplicated code with identical names), orphaned code for cleanup, mismatched naming conventions crossing module boundaries, and overlapping vocabulary. These are all <i>semantic</i> issues which clearly benefit from the tree-sitter centric approach.<p>Using the native tools, claude was able to identify various file clutter in the root of the project, out of date references, and a migration timestamp collision. These findings are more consistent with methodical walks of the filesystem and took about 8 minutes to produce.<p>The indexed approach did better at catching semantic issues than native tools and had a key benefit in being faster to resolve.<p>I've spent some effort to streamline the installation process, but it isn't turnkey yet. You'll need the rust toolchain to build the server which runs as a separate process. Installing the plugin from a claude marketplace is possible, but the skill isn't being added to your .claude yet so there are some manual steps to just getting to a point where claude could use it.<p>Claude continues to demonstrate significant resistance to using CodeRLM in exploration tasks. Typically to use you will need to explicitly direct claude to use it.<p>---<p>Repo: github.com/JaredStewart/coderlm<p>Paper: Recursive Language Models <a href=\"https://arxiv.org/abs/2512.24601\" rel=\"nofollow\">https://arxiv.org/abs/2512.24601</a> — Zhang, Kraska, Khattab (MIT CSAIL, 2025)<p>Inspired by: <a href=\"https://github.com/brainqub3/claude_code_RLM\" rel=\"nofollow\">https://github.com/brainqub3/claude_code_RLM</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46974515\">https://news.ycombinator.com/item?id=46974515</a></p>\n<p>Points: 55</p>\n<p># Comments: 17</p>",
-    "published": "2026-02-11T13:10:23",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Ford Says Electric Vehicle Losses Will Continue for 3 More Years",
@@ -172,13 +221,6 @@
     "link": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
     "summary": "In a meeting with employees at his company xAI, Mr. Musk revealed a vision for a facility that includes a giant catapult to launch his satellites into space.",
     "published": "2026-02-11T02:04:43",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "These Mathematicians Are Putting A.I. to the Test",
-    "link": "https://www.nytimes.com/2026/02/07/science/mathematics-ai-proof-hairer.html",
-    "summary": "Large language models struggle to solve research-level math questions. It takes a human to assess just how poorly they perform.",
-    "published": "2026-02-10T22:02:19",
     "source": "NYT > Technology"
   },
   {
@@ -235,48 +277,6 @@
     "link": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
     "summary": "“A very valuable and profitable company in SpaceX has acquired a cash furnace named xAI.”",
     "published": "2026-02-06T12:00:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "At Ukraine’s Request, Starlink Denies Internet Access to Russian Troops",
-    "link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
-    "summary": "It’s unclear what effect the change will have on Russia’s ability to wage war, but Russian military bloggers said troops were experiencing internet outages that hampered frontline communications.",
-    "published": "2026-02-06T00:00:51",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Amazon’s $200 Billion Spending Plan Raises Stakes in A.I. Race",
-    "link": "https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html",
-    "summary": "The company reported a strong holiday quarter on Thursday. But its spending, like that at other big technology companies, is starting to make investors nervous.",
-    "published": "2026-02-05T23:51:01",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Bitcoin Drops to Lowest Price Since Trump Was Elected as Crypto Faces Slump",
-    "link": "https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html",
-    "summary": "The price of Bitcoin is now lower than when President Trump was elected in 2024, raising concerns of a new “crypto winter\" in the industry.",
-    "published": "2026-02-05T23:46:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "France’s Raid on X Escalates Trans-Atlantic Showdown Over Social Media",
-    "link": "https://www.nytimes.com/2026/02/04/world/europe/social-media-free-speech.html",
-    "summary": "The French investigation into Elon Musk’s X illustrated a fundamental divide between European and American leaders about how to regulate social media — or whether to restrict it at all.",
-    "published": "2026-02-04T23:08:40",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Moltbook Mania Explained",
-    "link": "https://www.nytimes.com/2026/02/04/podcasts/moltbook-mania-explained.html",
-    "summary": "Is this the year the internet changes forever?",
-    "published": "2026-02-04T12:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Netflix Leader Pushes Warner Deal Before Skeptical Lawmakers",
-    "link": "https://www.nytimes.com/2026/02/03/business/media/netflix-sarandos-warner-senate-hearing.html",
-    "summary": "Senators asked Ted Sarandos about whether the acquisition would raise prices, squeeze talent and degrade the moviegoing experience.",
-    "published": "2026-02-03T23:47:39",
     "source": "NYT > Technology"
   }
 ]
