@@ -1,1 +1,1 @@
-MinIO repository is no longer maintained https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f
+Zig – io_uring and Grand Central Dispatch std.Io implementations landed https://ziglang.org/devlog/2026/#2026-02-13
