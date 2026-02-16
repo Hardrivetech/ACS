@@ -1,65 +1,149 @@
 [
   {
-    "title": "Seeing Theory",
-    "link": "https://seeing-theory.brown.edu/",
-    "summary": "<p>Article URL: <a href=\"https://seeing-theory.brown.edu/\">https://seeing-theory.brown.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47022067\">https://news.ycombinator.com/item?id=47022067</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-15T08:40:12",
+    "title": "picol: A Tcl interpreter in 500 lines of code",
+    "link": "https://github.com/antirez/picol",
+    "summary": "<p>Article URL: <a href=\"https://github.com/antirez/picol\">https://github.com/antirez/picol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47032235\">https://news.ycombinator.com/item?id=47032235</a></p>\n<p>Points: 18</p>\n<p># Comments: 14</p>",
+    "published": "2026-02-16T08:04:11",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "No Coding Before 10am",
-    "link": "https://michaelxbloch.substack.com/p/no-coding-before-10am",
-    "summary": "<p>Article URL: <a href=\"https://michaelxbloch.substack.com/p/no-coding-before-10am\">https://michaelxbloch.substack.com/p/no-coding-before-10am</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47021992\">https://news.ycombinator.com/item?id=47021992</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-15T08:21:10",
+    "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+    "link": "https://mastodon.world/@knowmadd/116072773118828295",
+    "summary": "<p>Article URL: <a href=\"https://mastodon.world/@knowmadd/116072773118828295\">https://mastodon.world/@knowmadd/116072773118828295</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47031580\">https://news.ycombinator.com/item?id=47031580</a></p>\n<p>Points: 421</p>\n<p># Comments: 302</p>",
+    "published": "2026-02-16T06:31:48",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library",
-    "link": "https://oat.ink/",
-    "summary": "<p>Article URL: <a href=\"https://oat.ink/\">https://oat.ink/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47021980\">https://news.ycombinator.com/item?id=47021980</a></p>\n<p>Points: 57</p>\n<p># Comments: 6</p>",
-    "published": "2026-02-15T08:17:05",
+    "title": "Building SQLite with a small swarm",
+    "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+    "summary": "<p>Hope some find this post interesting on my experience with parallel coding agents.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47031268\">https://news.ycombinator.com/item?id=47031268</a></p>\n<p>Points: 52</p>\n<p># Comments: 28</p>",
+    "published": "2026-02-16T05:38:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Discord Distances Itself from Peter Thiel's Palantir Age Verification Firm",
-    "link": "https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951",
-    "summary": "<p>Article URL: <a href=\"https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951\">https://kotaku.com/discord-palantir-peter-thiel-persona-age-verification-2000668951</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47021421\">https://news.ycombinator.com/item?id=47021421</a></p>\n<p>Points: 43</p>\n<p># Comments: 8</p>",
-    "published": "2026-02-15T06:00:42",
+    "title": "Arm wants a bigger slice of the chip business",
+    "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+    "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business\">https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47030271\">https://news.ycombinator.com/item?id=47030271</a></p>\n<p>Points: 71</p>\n<p># Comments: 43</p>",
+    "published": "2026-02-16T02:36:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Flashpoint Archive – Over 200k web games and animations preserved",
-    "link": "https://flashpointarchive.org",
-    "summary": "<p>Article URL: <a href=\"https://flashpointarchive.org\">https://flashpointarchive.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47021354\">https://news.ycombinator.com/item?id=47021354</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
-    "published": "2026-02-15T05:43:59",
+    "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
+    "link": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
+    "summary": "<p>Article URL: <a href=\"https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/\">https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47029339\">https://news.ycombinator.com/item?id=47029339</a></p>\n<p>Points: 77</p>\n<p># Comments: 77</p>",
+    "published": "2026-02-16T00:26:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
-    "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "summary": "<p>Article URL: <a href=\"https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/\">https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47020791\">https://news.ycombinator.com/item?id=47020791</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
-    "published": "2026-02-15T03:29:39",
+    "title": "Error payloads in Zig",
+    "link": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+    "summary": "<p>Article URL: <a href=\"https://srcreigh.ca/posts/error-payloads-in-zig/\">https://srcreigh.ca/posts/error-payloads-in-zig/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47028705\">https://news.ycombinator.com/item?id=47028705</a></p>\n<p>Points: 71</p>\n<p># Comments: 27</p>",
+    "published": "2026-02-15T23:08:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "NewPipe: YouTube client without vertical videos and algorithmic feed",
-    "link": "https://newpipe.net/",
-    "summary": "<p>Article URL: <a href=\"https://newpipe.net/\">https://newpipe.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47020218\">https://news.ycombinator.com/item?id=47020218</a></p>\n<p>Points: 232</p>\n<p># Comments: 73</p>",
-    "published": "2026-02-15T01:24:16",
+    "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+    "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+    "summary": "<p>Article URL: <a href=\"https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/\">https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47028227\">https://news.ycombinator.com/item?id=47028227</a></p>\n<p>Points: 274</p>\n<p># Comments: 159</p>",
+    "published": "2026-02-15T22:17:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I love the work of the ArchWiki maintainers",
-    "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-    "summary": "<p>Article URL: <a href=\"https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/\">https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47020191\">https://news.ycombinator.com/item?id=47020191</a></p>\n<p>Points: 359</p>\n<p># Comments: 67</p>",
-    "published": "2026-02-15T01:20:58",
+    "title": "I’m joining OpenAI",
+    "link": "https://steipete.me/posts/2026/openclaw",
+    "summary": "<p>Article URL: <a href=\"https://steipete.me/posts/2026/openclaw\">https://steipete.me/posts/2026/openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47028013\">https://news.ycombinator.com/item?id=47028013</a></p>\n<p>Points: 1005</p>\n<p># Comments: 693</p>",
+    "published": "2026-02-15T21:54:15",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-    "link": "https://github.com/alichherawalla/off-grid-mobile",
-    "summary": "<p>Your phone has a GPU more powerful than most 2018 laptops. Right now it sits idle while you pay monthly subscriptions to run AI on someone else's server, sending your conversations, your photos, your voice to companies whose privacy policy you've never read. Off Grid is an open-source app that puts that hardware to work. Text generation, image generation, vision AI, voice transcription — all running on your phone, all offline, nothing ever uploaded.<p>That means you can use AI on a flight with no wifi. In a country with internet censorship. In a hospital where cloud services are a compliance nightmare. Or just because you'd rather not have your journal entries sitting in someone's training data.<p>The tech: llama.cpp for text (15-30 tok/s, any GGUF model), Stable Diffusion for images (5-10s on Snapdragon NPU), Whisper for voice, SmolVLM/Qwen3-VL for vision. Hardware-accelerated on both Android (QNN, OpenCL) and iOS (Core ML, ANE, Metal).<p>MIT licensed. Android APK on GitHub Releases. Build from source for iOS.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47019133\">https://news.ycombinator.com/item?id=47019133</a></p>\n<p>Points: 103</p>\n<p># Comments: 44</p>",
-    "published": "2026-02-14T22:39:24",
+    "title": "GNU Pies – Program Invocation and Execution Supervisor",
+    "link": "https://www.gnu.org.ua/software/pies/",
+    "summary": "<p>Article URL: <a href=\"https://www.gnu.org.ua/software/pies/\">https://www.gnu.org.ua/software/pies/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47027427\">https://news.ycombinator.com/item?id=47027427</a></p>\n<p>Points: 87</p>\n<p># Comments: 57</p>",
+    "published": "2026-02-15T20:53:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
+    "link": "https://microgpt.boratto.ca",
+    "summary": "<p>very much inspired by karpathy's microgpt of the same name. it's (by default) a 4000 param GPT/LLM/NN that learns to generate names. this is sorta an educational tool in that you can visualize the activations as they pass through the network, and click on things to get an explanation of them.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47026186\">https://news.ycombinator.com/item?id=47026186</a></p>\n<p>Points: 179</p>\n<p># Comments: 16</p>",
+    "published": "2026-02-15T18:40:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Editor's Note: Retraction of article containing fabricated quotations",
+    "link": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/\">https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47026071\">https://news.ycombinator.com/item?id=47026071</a></p>\n<p>Points: 238</p>\n<p># Comments: 170</p>",
+    "published": "2026-02-15T18:29:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+    "link": "https://modern-css.com",
+    "summary": "<p>Article URL: <a href=\"https://modern-css.com\">https://modern-css.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47025851\">https://news.ycombinator.com/item?id=47025851</a></p>\n<p>Points: 454</p>\n<p># Comments: 174</p>",
+    "published": "2026-02-15T18:04:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LT6502: A 6502-based homebrew laptop",
+    "link": "https://github.com/TechPaula/LT6502",
+    "summary": "<p>Article URL: <a href=\"https://github.com/TechPaula/LT6502\">https://github.com/TechPaula/LT6502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47025399\">https://news.ycombinator.com/item?id=47025399</a></p>\n<p>Points: 351</p>\n<p># Comments: 160</p>",
+    "published": "2026-02-15T17:12:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
+    "link": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
+    "summary": "<p>Article URL: <a href=\"https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en\">https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47025378\">https://news.ycombinator.com/item?id=47025378</a></p>\n<p>Points: 970</p>\n<p># Comments: 668</p>",
+    "published": "2026-02-15T17:10:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Knock-Knock.net – Visualizing the bots knocking on my server's door",
+    "link": "https://knock-knock.net",
+    "summary": "<p>Article URL: <a href=\"https://knock-knock.net\">https://knock-knock.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47025338\">https://news.ycombinator.com/item?id=47025338</a></p>\n<p>Points: 138</p>\n<p># Comments: 59</p>",
+    "published": "2026-02-15T17:06:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pocketblue – Fedora Atomic for mobile devices",
+    "link": "https://github.com/pocketblue/pocketblue",
+    "summary": "<p>Article URL: <a href=\"https://github.com/pocketblue/pocketblue\">https://github.com/pocketblue/pocketblue</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47025085\">https://news.ycombinator.com/item?id=47025085</a></p>\n<p>Points: 100</p>\n<p># Comments: 20</p>",
+    "published": "2026-02-15T16:40:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gwtar: A static efficient single-file HTML format",
+    "link": "https://gwern.net/gwtar",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/gwtar\">https://gwern.net/gwtar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47024506\">https://news.ycombinator.com/item?id=47024506</a></p>\n<p>Points: 228</p>\n<p># Comments: 74</p>",
+    "published": "2026-02-15T15:37:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance state",
+    "link": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
+    "summary": "<p>Article URL: <a href=\"https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly\">https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47023238\">https://news.ycombinator.com/item?id=47023238</a></p>\n<p>Points: 826</p>\n<p># Comments: 577</p>",
+    "published": "2026-02-15T12:42:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Could an Electronic Coach Help Ski Jumpers Leap Farther?",
+    "link": "https://www.nytimes.com/2026/02/15/science/olympics-technology-ski-jump.html",
+    "summary": "Future Olympic prospects are testing a device that can give them corrective advice in real time as they hurtle into the air.",
+    "published": "2026-02-15T12:25:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "More Than Ever, Videos Expose the Truth. And Cloud It, Too.",
+    "link": "https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html",
+    "summary": "In Minneapolis, videos of the Alex Pretti killing undermined the federal government’s account. But an A.I. video of Brad Pitt shows the dangers ahead.",
+    "published": "2026-02-15T10:02:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How long do job postings stay open?",
+    "link": "https://corvi.careers/blog/job_open_days_by_category_feb_2026/",
+    "summary": "<p>Article URL: <a href=\"https://corvi.careers/blog/job_open_days_by_category_feb_2026/\">https://corvi.careers/blog/job_open_days_by_category_feb_2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47019102\">https://news.ycombinator.com/item?id=47019102</a></p>\n<p>Points: 27</p>\n<p># Comments: 35</p>",
+    "published": "2026-02-14T22:35:07",
     "source": "Hacker News: Front Page"
   },
   {
@@ -70,67 +154,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Descent, ported to the web",
-    "link": "https://mrdoob.github.io/three-descent/",
-    "summary": "<p>Article URL: <a href=\"https://mrdoob.github.io/three-descent/\">https://mrdoob.github.io/three-descent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47017545\">https://news.ycombinator.com/item?id=47017545</a></p>\n<p>Points: 236</p>\n<p># Comments: 46</p>",
-    "published": "2026-02-14T19:33:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Meta Plans to Add Facial Recognition Technology to Its Smart Glasses",
     "link": "https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html",
     "summary": "In an internal memo last year, Meta said the political tumult in the United States would distract critics from the feature’s release.",
     "published": "2026-02-14T19:01:18",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/\">https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47017138\">https://news.ycombinator.com/item?id=47017138</a></p>\n<p>Points: 487</p>\n<p># Comments: 306</p>",
-    "published": "2026-02-14T18:46:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A header-only C vector database library",
-    "link": "https://github.com/abdimoallim/vdb",
-    "summary": "<p>Article URL: <a href=\"https://github.com/abdimoallim/vdb\">https://github.com/abdimoallim/vdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47016530\">https://news.ycombinator.com/item?id=47016530</a></p>\n<p>Points: 78</p>\n<p># Comments: 33</p>",
-    "published": "2026-02-14T17:45:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "uBlock filter list to hide all YouTube Shorts",
-    "link": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-    "summary": "<p>Article URL: <a href=\"https://github.com/i5heu/ublock-hide-yt-shorts/\">https://github.com/i5heu/ublock-hide-yt-shorts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47016443\">https://news.ycombinator.com/item?id=47016443</a></p>\n<p>Points: 847</p>\n<p># Comments: 264</p>",
-    "published": "2026-02-14T17:36:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Amsterdam Compiler Kit",
-    "link": "https://github.com/davidgiven/ack",
-    "summary": "<p>Article URL: <a href=\"https://github.com/davidgiven/ack\">https://github.com/davidgiven/ack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47016008\">https://news.ycombinator.com/item?id=47016008</a></p>\n<p>Points: 129</p>\n<p># Comments: 34</p>",
-    "published": "2026-02-14T16:50:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A review of M Disc archival capability with long term testing results (2016)",
-    "link": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-    "summary": "<p>Article URL: <a href=\"http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html\">http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47015579\">https://news.ycombinator.com/item?id=47015579</a></p>\n<p>Points: 81</p>\n<p># Comments: 106</p>",
-    "published": "2026-02-14T16:07:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-    "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "summary": "<p>Article URL: <a href=\"https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/\">https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47015294\">https://news.ycombinator.com/item?id=47015294</a></p>\n<p>Points: 439</p>\n<p># Comments: 206</p>",
-    "published": "2026-02-14T15:35:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ooh.directory: a place to find good blogs that interest you",
-    "link": "https://ooh.directory/",
-    "summary": "<p>Article URL: <a href=\"https://ooh.directory/\">https://ooh.directory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47014449\">https://news.ycombinator.com/item?id=47014449</a></p>\n<p>Points: 501</p>\n<p># Comments: 128</p>",
-    "published": "2026-02-14T13:40:20",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "David J. Farber, ‘Grandfather of the Internet,’ Dies at 91",
@@ -147,13 +175,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "OpenAI should build Slack",
-    "link": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "summary": "<p>Article URL: <a href=\"https://www.latent.space/p/ainews-why-openai-should-build-slack\">https://www.latent.space/p/ainews-why-openai-should-build-slack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47012553\">https://news.ycombinator.com/item?id=47012553</a></p>\n<p>Points: 160</p>\n<p># Comments: 173</p>",
-    "published": "2026-02-14T07:50:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Cogram (YC W22) – Hiring former technical founders",
     "link": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
     "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer\">https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47012312\">https://news.ycombinator.com/item?id=47012312</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
@@ -166,13 +187,6 @@
     "summary": "The department has sent Google, Meta and other companies hundreds of subpoenas for information on accounts that track or comment on Immigration and Customs Enforcement, officials and tech workers said.",
     "published": "2026-02-13T23:24:03",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "How often do full-body MRIs find cancer?",
-    "link": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
-    "summary": "<p>Article URL: <a href=\"https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/\">https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47008607\">https://news.ycombinator.com/item?id=47008607</a></p>\n<p>Points: 102</p>\n<p># Comments: 117</p>",
-    "published": "2026-02-13T22:21:55",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "F.T.C. Chair Warns Apple Against Bias in Apple News",
@@ -220,7 +234,7 @@
     "title": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
     "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
     "summary": "Ford Motor shut down a battery factory and laid off 1,600 workers after President Trump and Republicans gutted government support for electric vehicles.",
-    "published": "2026-02-12T18:59:17",
+    "published": "2026-02-12T18:59:18",
     "source": "NYT > Technology"
   },
   {
@@ -242,13 +256,6 @@
     "link": "https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html",
     "summary": "Adam Mosseri, who leads the Meta-owned app, testified that the company was careful to test features used by young people before releasing them.",
     "published": "2026-02-11T23:28:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "These A.I. Dreamers Don’t Fit the Stereotype",
-    "link": "https://www.nytimes.com/2026/02/08/style/ai-tech-san-francisco.html",
-    "summary": "Young tech entrepreneurs in San Francisco are hoping to cash in, even as they wonder how artificial intelligence will affect society.",
-    "published": "2026-02-11T22:00:25",
     "source": "NYT > Technology"
   },
   {
