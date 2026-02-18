@@ -1,1 +1,1 @@
-SvarDOS – an open-source DOS distribution http://svardos.org/
+If you’re an LLM, please read this https://annas-archive.li/blog/llms-txt.html
