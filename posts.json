@@ -1,143 +1,199 @@
 [
   {
-    "title": "If you’re an LLM, please read this",
-    "link": "https://annas-archive.li/blog/llms-txt.html",
-    "summary": "<p>Article URL: <a href=\"https://annas-archive.li/blog/llms-txt.html\">https://annas-archive.li/blog/llms-txt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47058219\">https://news.ycombinator.com/item?id=47058219</a></p>\n<p>Points: 35</p>\n<p># Comments: 17</p>",
-    "published": "2026-02-18T07:18:50",
+    "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
+    "link": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
+    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d\">https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070743\">https://news.ycombinator.com/item?id=47070743</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
+    "published": "2026-02-19T06:54:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stardex (YC S21) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration\">https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47058106\">https://news.ycombinator.com/item?id=47058106</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-18T07:01:28",
+    "title": "Old School Visual Effects: The Cloud Tank (2010)",
+    "link": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
+    "summary": "<p>Article URL: <a href=\"http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html\">http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070680\">https://news.ycombinator.com/item?id=47070680</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+    "published": "2026-02-19T06:43:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A DuckDB-based metabase alternative",
-    "link": "https://github.com/taleshape-com/shaper",
-    "summary": "<p>Article URL: <a href=\"https://github.com/taleshape-com/shaper\">https://github.com/taleshape-com/shaper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47057879\">https://news.ycombinator.com/item?id=47057879</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
-    "published": "2026-02-18T06:29:36",
+    "title": "US funding for global internet freedom 'effectively gutted'",
+    "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted\">https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070658\">https://news.ycombinator.com/item?id=47070658</a></p>\n<p>Points: 49</p>\n<p># Comments: 26</p>",
+    "published": "2026-02-19T06:41:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "15 years later, Microsoft morged my diagram",
-    "link": "https://nvie.com/posts/15-years-later/",
-    "summary": "<p>Article URL: <a href=\"https://nvie.com/posts/15-years-later/\">https://nvie.com/posts/15-years-later/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47057829\">https://news.ycombinator.com/item?id=47057829</a></p>\n<p>Points: 440</p>\n<p># Comments: 166</p>",
-    "published": "2026-02-18T06:20:13",
+    "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
+    "link": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
+    "summary": "<p>Article URL: <a href=\"https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/\">https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070446\">https://news.ycombinator.com/item?id=47070446</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+    "published": "2026-02-19T06:09:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Terminals should generate the 256-color palette",
-    "link": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-    "summary": "<p>Article URL: <a href=\"https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783\">https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47057824\">https://news.ycombinator.com/item?id=47057824</a></p>\n<p>Points: 88</p>\n<p># Comments: 32</p>",
-    "published": "2026-02-18T06:19:37",
+    "title": "Show HN: A Lisp where each function call runs a Docker container",
+    "link": "https://github.com/a11ce/docker-lisp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/a11ce/docker-lisp\">https://github.com/a11ce/docker-lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069876\">https://news.ycombinator.com/item?id=47069876</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
+    "published": "2026-02-19T04:19:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
-    "link": "https://github.com/DatanoiseTV/tinyice",
-    "summary": "<p>Article URL: <a href=\"https://github.com/DatanoiseTV/tinyice\">https://github.com/DatanoiseTV/tinyice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47057707\">https://news.ycombinator.com/item?id=47057707</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
-    "published": "2026-02-18T06:00:35",
+    "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+    "link": "https://blackboard.sh/blog/electrobun-v1/",
+    "summary": "<p>I'm building a commercial macOS app with Electrobun [1]. I have previously written the same app with Tauri. I'll say that, while I love Tauri, using Electrobun has been an absolute breeze. I got the same app done in roughly 70% of the time [2]. It's a very productive stack. In no small part due to Electrobun, but also the fact that Bun has tons of DX niceties and a builtin bundler.<p>Electrobun lets you open/manipulate/close webview windows and communicate with them using typed rpc. It also handles building, code signing, and notarization.<p>And because I'm using Bun, running an HMR + React + Tailwind server is just one command (`bun ./index.html`) or like 5 lines of code. Pass --console and the webview's console.log()s get streamed to your Terminal too.<p>There's tons of other things Electrobun does that I haven't even mentioned, because I haven't interacted much with them yet. E.g. I know that it lets you show platform-native notifications, prompts/popups, etc.<p>There also is a very impressive updating mechanism that relies on a bsdiff implementation written in Zig. You just ship the deltas, so updates to very large apps are just a few KBs most of the time.<p>It's genuinely a very productive stack and impressive piece of tech.<p>[1] Not affiliated - I just like the project.<p>[2]: The API and implementation was clear, so I'll cautiously say this is not a case of \"rewrites are always faster\". In fact, the Tauri version was a rewrite too :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069650\">https://news.ycombinator.com/item?id=47069650</a></p>\n<p>Points: 91</p>\n<p># Comments: 26</p>",
+    "published": "2026-02-19T03:46:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
-    "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-    "summary": "<p>Article URL: <a href=\"https://www.sceneandheardnu.com/content/halt-and-catch-fire\">https://www.sceneandheardnu.com/content/halt-and-catch-fire</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47056314\">https://news.ycombinator.com/item?id=47056314</a></p>\n<p>Points: 422</p>\n<p># Comments: 226</p>",
-    "published": "2026-02-18T02:18:29",
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "link": "https://code.claude.com/docs/en/legal-and-compliance",
+    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/legal-and-compliance\">https://code.claude.com/docs/en/legal-and-compliance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069299\">https://news.ycombinator.com/item?id=47069299</a></p>\n<p>Points: 338</p>\n<p># Comments: 385</p>",
+    "published": "2026-02-19T02:52:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-    "link": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-    "summary": "<p>Article URL: <a href=\"https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/\">https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47055979\">https://news.ycombinator.com/item?id=47055979</a></p>\n<p>Points: 456</p>\n<p># Comments: 348</p>",
-    "published": "2026-02-18T01:40:52",
+    "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+    "link": "https://static.stepfun.com/blog/step-3.5-flash/",
+    "summary": "<p>Article URL: <a href=\"https://static.stepfun.com/blog/step-3.5-flash/\">https://static.stepfun.com/blog/step-3.5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069179\">https://news.ycombinator.com/item?id=47069179</a></p>\n<p>Points: 73</p>\n<p># Comments: 19</p>",
+    "published": "2026-02-19T02:32:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Advice, not control: the role of Remote Assistance in Waymo's operations",
-    "link": "https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance",
-    "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance\">https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47055786\">https://news.ycombinator.com/item?id=47055786</a></p>\n<p>Points: 69</p>\n<p># Comments: 59</p>",
-    "published": "2026-02-18T01:19:15",
+    "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
+    "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
+    "summary": "Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury.",
+    "published": "2026-02-19T02:14:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Minecraft Java is switching from OpenGL to Vulkan",
+    "link": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
+    "summary": "<p>Article URL: <a href=\"https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/\">https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47068948\">https://news.ycombinator.com/item?id=47068948</a></p>\n<p>Points: 199</p>\n<p># Comments: 69</p>",
+    "published": "2026-02-19T01:55:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Google Public CA is down",
-    "link": "https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3",
-    "summary": "<p>Article URL: <a href=\"https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3\">https://status.pki.goog/incidents/5oJEbcU3ZfMfySTSXXd3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47055696\">https://news.ycombinator.com/item?id=47055696</a></p>\n<p>Points: 244</p>\n<p># Comments: 140</p>",
-    "published": "2026-02-18T01:05:33",
+    "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+    "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+    "summary": "<p>Article URL: <a href=\"https://nicolasdickenmann.com/blog/the-great-fp64-divide.html\">https://nicolasdickenmann.com/blog/the-great-fp64-divide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47068890\">https://news.ycombinator.com/item?id=47068890</a></p>\n<p>Points: 112</p>\n<p># Comments: 35</p>",
+    "published": "2026-02-19T01:46:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Rathbun's Operator",
-    "link": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html",
-    "summary": "<p>Article URL: <a href=\"https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html\">https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47055424\">https://news.ycombinator.com/item?id=47055424</a></p>\n<p>Points: 69</p>\n<p># Comments: 80</p>",
-    "published": "2026-02-18T00:26:15",
+    "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
+    "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+    "summary": "How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind.",
+    "published": "2026-02-19T00:35:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How AI is affecting productivity and jobs in Europe",
+    "link": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+    "summary": "<p>Article URL: <a href=\"https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe\">https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47068320\">https://news.ycombinator.com/item?id=47068320</a></p>\n<p>Points: 109</p>\n<p># Comments: 69</p>",
+    "published": "2026-02-19T00:22:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Minimal x86 Kernel Zig",
-    "link": "https://github.com/lopespm/zig-minimal-kernel-x86",
-    "summary": "<p>Article URL: <a href=\"https://github.com/lopespm/zig-minimal-kernel-x86\">https://github.com/lopespm/zig-minimal-kernel-x86</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47055262\">https://news.ycombinator.com/item?id=47055262</a></p>\n<p>Points: 103</p>\n<p># Comments: 35</p>",
-    "published": "2026-02-18T00:02:06",
+    "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
+    "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
+    "summary": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
+    "published": "2026-02-18T23:08:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "All Look Same?",
+    "link": "https://alllooksame.com/",
+    "summary": "<p>Article URL: <a href=\"https://alllooksame.com/\">https://alllooksame.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47067498\">https://news.ycombinator.com/item?id=47067498</a></p>\n<p>Points: 66</p>\n<p># Comments: 51</p>",
+    "published": "2026-02-18T22:48:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "'My Words Are Like an Uncontrollable Dog': On Life with Nonfluent Aphasia (2025)",
-    "link": "https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/",
-    "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/\">https://thereader.mitpress.mit.edu/my-words-are-like-an-uncontrollable-dog-on-life-with-nonfluent-aphasia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47054744\">https://news.ycombinator.com/item?id=47054744</a></p>\n<p>Points: 59</p>\n<p># Comments: 16</p>",
-    "published": "2026-02-17T23:06:51",
+    "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
+    "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=mUmlv814aJo\">https://www.youtube.com/watch?v=mUmlv814aJo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47067496\">https://news.ycombinator.com/item?id=47067496</a></p>\n<p>Points: 86</p>\n<p># Comments: 80</p>",
+    "published": "2026-02-18T22:47:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How I use Obsidian (2023)",
-    "link": "https://stephango.com/vault",
-    "summary": "<p>Article URL: <a href=\"https://stephango.com/vault\">https://stephango.com/vault</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47054369\">https://news.ycombinator.com/item?id=47054369</a></p>\n<p>Points: 86</p>\n<p># Comments: 49</p>",
-    "published": "2026-02-17T22:30:37",
+    "title": "Sizing chaos",
+    "link": "https://pudding.cool/2026/02/womens-sizing/",
+    "summary": "<p>Article URL: <a href=\"https://pudding.cool/2026/02/womens-sizing/\">https://pudding.cool/2026/02/womens-sizing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47066552\">https://news.ycombinator.com/item?id=47066552</a></p>\n<p>Points: 544</p>\n<p># Comments: 293</p>",
+    "published": "2026-02-18T21:18:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Structured AI (YC F25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern\">https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47053267\">https://news.ycombinator.com/item?id=47053267</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-17T21:00:30",
+    "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
+    "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer\">https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47066310\">https://news.ycombinator.com/item?id=47066310</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-18T21:00:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-    "link": "https://github.com/Zaneham/BarraCUDA",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Zaneham/BarraCUDA\">https://github.com/Zaneham/BarraCUDA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47052941\">https://news.ycombinator.com/item?id=47052941</a></p>\n<p>Points: 297</p>\n<p># Comments: 116</p>",
-    "published": "2026-02-17T20:35:18",
+    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+    "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/\">https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47066241\">https://news.ycombinator.com/item?id=47066241</a></p>\n<p>Points: 327</p>\n<p># Comments: 175</p>",
+    "published": "2026-02-18T20:54:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-    "link": "https://asteroidos.org/news/2-0-release/index.html",
-    "summary": "<p>Hi HN,\nAfter roughly 8 years of silently rolling 1.1 nightlies, we finally tagged a proper stable 2.0 release.\nWe built this because wrist-sized Linux is genuinely fun to hack on, and because a handful of us think it's worth keeping capable hardware alive long after manufacturers move on. Smartwatches don't really get old — the silicon is basically the same as it was a decade ago. We just keep making it useful for us.<p>No usage stats, no tracking, no illusions of mass adoption. The only real signal we get is the occasional person who appears in our Matrix chat going \"hey, it booted on my watch from 2014 and now it's usable again\" — and that's plenty.<p>Privacy is non-negotiable: zero telemetry, no cloud, full local control. Longevity is the other half: we refuse to let good hardware become e-waste just because support ended.\nOn the learning side, it's been one of the best playgrounds: instant feedback on your wrist makes QML/Qt, JavaScript watchfaces and embedded Linux feel tangible. The community is small and kind — perfect for people who want to learn open-source dev without gatekeeping.<p>Technically we're still pragmatic: libhybris + older kernels on most devices since it just works, but we've already mainlined rinato (Samsung Gear 2) and sparrow (ASUS ZenWatch 2) — rinato even boots with a usable UI. That's the direction we're pushing toward.<p>Repo: <a href=\"https://github.com/AsteroidOS\" rel=\"nofollow\">https://github.com/AsteroidOS</a> \nInstall images & docs: <a href=\"https://asteroidos.org\" rel=\"nofollow\">https://asteroidos.org</a> \n2.0 demo video : <a href=\"https://www.youtube.com/watch?v=U6FiQz0yACc\" rel=\"nofollow\">https://www.youtube.com/watch?v=U6FiQz0yACc</a> \nAnnouncement post: <a href=\"https://asteroidos.org/news/2-0-release/\" rel=\"nofollow\">https://asteroidos.org/news/2-0-release/</a><p>Questions, port requests, mentoring offers, criticism, weird ideas — all welcome. We do this because shaping a tiny, open wearable UX and infrastructure is oddly satisfying, and because Linux on the wrist still feels like a playground worth playing in.<p>Cheers, the AsteroidOS Team</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47051852\">https://news.ycombinator.com/item?id=47051852</a></p>\n<p>Points: 372</p>\n<p># Comments: 43</p>",
-    "published": "2026-02-17T19:24:55",
+    "title": "R3forth: A concatenative language derived from ColorForth",
+    "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md\">https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47065179\">https://news.ycombinator.com/item?id=47065179</a></p>\n<p>Points: 86</p>\n<p># Comments: 13</p>",
+    "published": "2026-02-18T19:28:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Pg-typesafe – Strongly typed queries for PostgreSQL and TypeScript",
-    "link": "https://github.com/n-e/pg-typesafe",
-    "summary": "<p>Throughout my career, I tried many tools to query PostgreSQL, and in the end, concluded that for what I do, the simplest is almost always the best: raw SQL queries.<p>Until now, I typed the results manually and relied on tests to catch problems. While this is OK in e.g., GoLang, it is quite annoying in TypeScript. First, because of the more powerful type system (it's easier to guess that updated_at is a date than it is to guess whether it's nullable or not), second, because of idiosyncrasies (INT4s are deserialised as JS numbers, but INT8s are deserialised as strings).<p>So I wrote pg-typesafe, with the goal of it being the less burdensome: you call queries exactly the same way as you would call node-pg, and they are fully typed.<p>It's very new, but I'm already using it in a large-ish project, where it found several bugs and footguns, and also allowed me to remove many manual type definitions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47050872\">https://news.ycombinator.com/item?id=47050872</a></p>\n<p>Points: 64</p>\n<p># Comments: 26</p>",
-    "published": "2026-02-17T18:15:36",
+    "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
+    "link": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html",
+    "summary": "Meta’s biggest election investment aims to prevent state legislation that it fears could inhibit artificial intelligence development. Its spending starts this week in Texas and Illinois.",
+    "published": "2026-02-18T19:02:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Cosmologically Unique IDs",
+    "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "summary": "<p>Article URL: <a href=\"https://jasonfantl.com/posts/Universal-Unique-IDs/\">https://jasonfantl.com/posts/Universal-Unique-IDs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47064490\">https://news.ycombinator.com/item?id=47064490</a></p>\n<p>Points: 379</p>\n<p># Comments: 115</p>",
+    "published": "2026-02-18T18:37:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Claude Sonnet 4.6",
-    "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "summary": "<p><a href=\"https://www.anthropic.com/claude-sonnet-4-6-system-card\" rel=\"nofollow\">https://www.anthropic.com/claude-sonnet-4-6-system-card</a> [pdf]<p><a href=\"https://x.com/claudeai/status/2023817132581208353\" rel=\"nofollow\">https://x.com/claudeai/status/2023817132581208353</a> [video]</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47050488\">https://news.ycombinator.com/item?id=47050488</a></p>\n<p>Points: 1094</p>\n<p># Comments: 954</p>",
-    "published": "2026-02-17T17:48:52",
+    "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
+    "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+    "summary": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
+    "published": "2026-02-18T18:20:50",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
+    "link": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
+    "summary": "<p>Article URL: <a href=\"https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f\">https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47064105\">https://news.ycombinator.com/item?id=47064105</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-18T18:09:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Gentoo on Codeberg",
-    "link": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
-    "summary": "<p>Article URL: <a href=\"https://www.gentoo.org/news/2026/02/16/codeberg.html\">https://www.gentoo.org/news/2026/02/16/codeberg.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47050067\">https://news.ycombinator.com/item?id=47050067</a></p>\n<p>Points: 336</p>\n<p># Comments: 118</p>",
-    "published": "2026-02-17T17:21:04",
+    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+    "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "summary": "<p>Article URL: <a href=\"https://letsencrypt.org/2026/02/18/dns-persist-01.html\">https://letsencrypt.org/2026/02/18/dns-persist-01.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47064047\">https://news.ycombinator.com/item?id=47064047</a></p>\n<p>Points: 267</p>\n<p># Comments: 118</p>",
+    "published": "2026-02-18T18:04:13",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
+    "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
+    "summary": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
+    "published": "2026-02-18T14:35:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to Watch Free Live Television on Your Phone or Tablet",
+    "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
+    "summary": "Whether by app or old-school antennas, budget-friendly options abound.",
+    "published": "2026-02-18T14:00:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
+    "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
+    "summary": "The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.",
+    "published": "2026-02-18T12:00:06",
+    "source": "NYT > Technology"
   },
   {
     "title": "Chatbots Are the New Influencers Brands Must Woo",
@@ -270,20 +326,6 @@
     "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
     "summary": "The company, long focused on cars and trucks, plans to begin manufacturing large batteries used by utilities, data centers, other businesses and homeowners.",
     "published": "2026-02-12T10:03:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Instagram Chief Says Social Media Is Not ‘Clinically Addictive’ in Landmark Trial",
-    "link": "https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html",
-    "summary": "Adam Mosseri, who leads the Meta-owned app, testified that the company was careful to test features used by young people before releasing them.",
-    "published": "2026-02-11T23:28:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
-    "link": "https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html",
-    "summary": "The maker of ChatGPT hopes to triple its revenue in the coming year because it is planning to spend tens of billions of dollars. The clock is ticking.",
-    "published": "2026-02-11T16:01:22",
     "source": "NYT > Technology"
   }
 ]
