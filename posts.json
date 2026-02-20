@@ -1,58 +1,149 @@
 [
   {
-    "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
-    "link": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
-    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d\">https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070743\">https://news.ycombinator.com/item?id=47070743</a></p>\n<p>Points: 44</p>\n<p># Comments: 9</p>",
-    "published": "2026-02-19T06:54:28",
+    "title": "\"Made in EU\" – Building a Startup on European Infrastructure",
+    "link": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+    "summary": "<p>Article URL: <a href=\"https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/\">https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47085483\">https://news.ycombinator.com/item?id=47085483</a></p>\n<p>Points: 60</p>\n<p># Comments: 12</p>",
+    "published": "2026-02-20T09:02:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Old School Visual Effects: The Cloud Tank (2010)",
-    "link": "http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html",
-    "summary": "<p>Article URL: <a href=\"http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html\">http://singlemindedmovieblog.blogspot.com/2010/04/old-school-effects-cloud-tank.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070680\">https://news.ycombinator.com/item?id=47070680</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-    "published": "2026-02-19T06:43:53",
+    "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+    "link": "https://github.com/olvvier/apple-silicon-accelerometer",
+    "summary": "<p>Article URL: <a href=\"https://github.com/olvvier/apple-silicon-accelerometer\">https://github.com/olvvier/apple-silicon-accelerometer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47084000\">https://news.ycombinator.com/item?id=47084000</a></p>\n<p>Points: 50</p>\n<p># Comments: 24</p>",
+    "published": "2026-02-20T05:06:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "US funding for global internet freedom 'effectively gutted'",
-    "link": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted\">https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070658\">https://news.ycombinator.com/item?id=47070658</a></p>\n<p>Points: 49</p>\n<p># Comments: 26</p>",
-    "published": "2026-02-19T06:41:14",
+    "title": "Fast KV Compaction via Attention Matching",
+    "link": "https://arxiv.org/abs/2602.16284",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.16284\">https://arxiv.org/abs/2602.16284</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47083882\">https://news.ycombinator.com/item?id=47083882</a></p>\n<p>Points: 20</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-20T04:46:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
-    "link": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
-    "summary": "<p>Article URL: <a href=\"https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/\">https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47070446\">https://news.ycombinator.com/item?id=47070446</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
-    "published": "2026-02-19T06:09:58",
+    "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
+    "link": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c3ew5jlqz87o\">https://www.bbc.com/news/articles/c3ew5jlqz87o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47083735\">https://news.ycombinator.com/item?id=47083735</a></p>\n<p>Points: 89</p>\n<p># Comments: 43</p>",
+    "published": "2026-02-20T04:27:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: A Lisp where each function call runs a Docker container",
-    "link": "https://github.com/a11ce/docker-lisp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/a11ce/docker-lisp\">https://github.com/a11ce/docker-lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069876\">https://news.ycombinator.com/item?id=47069876</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
-    "published": "2026-02-19T04:19:20",
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "summary": "<p>Article URL: <a href=\"https://www.together.ai/blog/consistency-diffusion-language-models\">https://www.together.ai/blog/consistency-diffusion-language-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47083648\">https://news.ycombinator.com/item?id=47083648</a></p>\n<p>Points: 97</p>\n<p># Comments: 27</p>",
+    "published": "2026-02-20T04:15:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
-    "link": "https://blackboard.sh/blog/electrobun-v1/",
-    "summary": "<p>I'm building a commercial macOS app with Electrobun [1]. I have previously written the same app with Tauri. I'll say that, while I love Tauri, using Electrobun has been an absolute breeze. I got the same app done in roughly 70% of the time [2]. It's a very productive stack. In no small part due to Electrobun, but also the fact that Bun has tons of DX niceties and a builtin bundler.<p>Electrobun lets you open/manipulate/close webview windows and communicate with them using typed rpc. It also handles building, code signing, and notarization.<p>And because I'm using Bun, running an HMR + React + Tailwind server is just one command (`bun ./index.html`) or like 5 lines of code. Pass --console and the webview's console.log()s get streamed to your Terminal too.<p>There's tons of other things Electrobun does that I haven't even mentioned, because I haven't interacted much with them yet. E.g. I know that it lets you show platform-native notifications, prompts/popups, etc.<p>There also is a very impressive updating mechanism that relies on a bsdiff implementation written in Zig. You just ship the deltas, so updates to very large apps are just a few KBs most of the time.<p>It's genuinely a very productive stack and impressive piece of tech.<p>[1] Not affiliated - I just like the project.<p>[2]: The API and implementation was clear, so I'll cautiously say this is not a case of \"rewrites are always faster\". In fact, the Tauri version was a rewrite too :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069650\">https://news.ycombinator.com/item?id=47069650</a></p>\n<p>Points: 91</p>\n<p># Comments: 26</p>",
-    "published": "2026-02-19T03:46:07",
+    "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+    "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+    "summary": "<p>Article URL: <a href=\"https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/\">https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47083145\">https://news.ycombinator.com/item?id=47083145</a></p>\n<p>Points: 357</p>\n<p># Comments: 294</p>",
+    "published": "2026-02-20T03:05:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Anthropic officially bans using subscription auth for third party use",
-    "link": "https://code.claude.com/docs/en/legal-and-compliance",
-    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/legal-and-compliance\">https://code.claude.com/docs/en/legal-and-compliance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069299\">https://news.ycombinator.com/item?id=47069299</a></p>\n<p>Points: 338</p>\n<p># Comments: 385</p>",
-    "published": "2026-02-19T02:52:26",
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
+    "link": "https://github.com/tmustier/pi-for-excel",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tmustier/pi-for-excel\">https://github.com/tmustier/pi-for-excel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47082854\">https://news.ycombinator.com/item?id=47082854</a></p>\n<p>Points: 67</p>\n<p># Comments: 13</p>",
+    "published": "2026-02-20T02:20:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
-    "link": "https://static.stepfun.com/blog/step-3.5-flash/",
-    "summary": "<p>Article URL: <a href=\"https://static.stepfun.com/blog/step-3.5-flash/\">https://static.stepfun.com/blog/step-3.5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47069179\">https://news.ycombinator.com/item?id=47069179</a></p>\n<p>Points: 73</p>\n<p># Comments: 19</p>",
-    "published": "2026-02-19T02:32:00",
+    "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+    "link": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+    "summary": "<p>Article URL: <a href=\"https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/\">https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47082548\">https://news.ycombinator.com/item?id=47082548</a></p>\n<p>Points: 67</p>\n<p># Comments: 54</p>",
+    "published": "2026-02-20T01:33:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "link": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "summary": "<p>Article URL: <a href=\"https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea\">https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47082496\">https://news.ycombinator.com/item?id=47082496</a></p>\n<p>Points: 267</p>\n<p># Comments: 102</p>",
+    "published": "2026-02-20T01:28:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: A small, simple music theory library in C99",
+    "link": "https://github.com/thelowsunoverthemoon/mahler.c",
+    "summary": "<p>Article URL: <a href=\"https://github.com/thelowsunoverthemoon/mahler.c\">https://github.com/thelowsunoverthemoon/mahler.c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47080873\">https://news.ycombinator.com/item?id=47080873</a></p>\n<p>Points: 37</p>\n<p># Comments: 11</p>",
+    "published": "2026-02-19T22:54:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
+    "link": "https://github.com/manaflow-ai/cmux",
+    "summary": "<p>I run a lot of Claude Code and Codex sessions in parallel. I was using Ghostty with a bunch of split panes, and relying on native macOS notifications to know when an agent needed me. But Claude Code's notification body is always just \"Claude is waiting for your input\" with no context, and with enough tabs open, I couldn't even read the titles anymore.<p>I tried a few coding orchestrators but most of them were Electron/Tauri apps and the performance bugged me. I also just prefer the terminal since GUI orchestrators lock you into their workflow. So I built cmux as a native macOS app in Swift/AppKit. It uses libghostty for terminal rendering and reads your existing Ghostty config for themes, fonts, colors, and more.<p>The main additions are the sidebar and notification system. The sidebar has vertical tabs that show git branch, working directory, listening ports, and the latest notification text for each workspace. The notification system picks up terminal sequences (OSC 9/99/777) and has a CLI (cmux notify) you can wire into agent hooks for Claude Code, OpenCode, etc. When an agent is waiting, its pane gets a blue ring and the tab lights up in the sidebar, so I can tell which one needs me across splits and tabs. Cmd+Shift+U jumps to the most recent unread.<p>The in-app browser has a scriptable API ported from agent-browser [1]. Agents can snapshot the accessibility tree, get element refs, click, fill forms, evaluate JS, and read console logs. You can split a browser pane next to your terminal and have Claude Code interact with your dev server directly.<p>Everything is scriptable through the CLI and socket API – create workspaces/tabs, split panes, send keystrokes, open URLs in the browser.<p>Demo video: <a href=\"https://www.youtube.com/watch?v=i-WxO5YUTOs\" rel=\"nofollow\">https://www.youtube.com/watch?v=i-WxO5YUTOs</a><p>Repo (AGPL): <a href=\"https://github.com/manaflow-ai/cmux\" rel=\"nofollow\">https://github.com/manaflow-ai/cmux</a><p>[1] <a href=\"https://github.com/vercel-labs/agent-browser\" rel=\"nofollow\">https://github.com/vercel-labs/agent-browser</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47079718\">https://news.ycombinator.com/item?id=47079718</a></p>\n<p>Points: 138</p>\n<p># Comments: 60</p>",
+    "published": "2026-02-19T21:30:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We're no longer attracting top talent: the brain drain killing American science",
+    "link": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts\">https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47079222\">https://news.ycombinator.com/item?id=47079222</a></p>\n<p>Points: 449</p>\n<p># Comments: 411</p>",
+    "published": "2026-02-19T20:56:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "summary": "<p>Article URL: <a href=\"https://www.kasava.dev/blog/ai-as-exoskeleton\">https://www.kasava.dev/blog/ai-as-exoskeleton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47078324\">https://news.ycombinator.com/item?id=47078324</a></p>\n<p>Points: 235</p>\n<p># Comments: 238</p>",
+    "published": "2026-02-19T19:55:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Micropayments as a reality check for news sites",
+    "link": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+    "summary": "<p>Article URL: <a href=\"https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/\">https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47078167\">https://news.ycombinator.com/item?id=47078167</a></p>\n<p>Points: 161</p>\n<p># Comments: 336</p>",
+    "published": "2026-02-19T19:42:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+    "link": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/\">https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47077245\">https://news.ycombinator.com/item?id=47077245</a></p>\n<p>Points: 106</p>\n<p># Comments: 30</p>",
+    "published": "2026-02-19T18:31:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+    "link": "https://github.com/Veirt/weathr",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Veirt/weathr\">https://github.com/Veirt/weathr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47076659\">https://news.ycombinator.com/item?id=47076659</a></p>\n<p>Points: 215</p>\n<p># Comments: 36</p>",
+    "published": "2026-02-19T17:47:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "West Virginia Sues Apple, Claiming It Allows Sharing of Child Sexual Abuse Material",
+    "link": "https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html",
+    "summary": "The state’s attorney general said in a lawsuit filed on Thursday that the company declined to use tools that recognize the material stored on iCloud.",
+    "published": "2026-02-19T17:46:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Micasa – track your house from the terminal",
+    "link": "https://micasa.dev",
+    "summary": "<p>micasa is a terminal UI that helps you track home stuff, in a single SQLite file. No cloud, no\naccount, no subscription. Backup with cp.<p>I built it because I was tired of losing track of everything in notes apps, and \"I'll remember\nthat\"s. When do I need to clean the dishwasher filter? What's the best quote for a complete\noverhaul of the backyard. Oops, found some mold behind the trim, need to address that ASAP. That\nsort of stuff.<p>Another reason I made micasa was to build a (hopefully useful) low-stakes personal project where\nthe code was written entirely by AI. I still review the code and click the merge button, but 99%\nof the programming was done with an agent.<p>Here are some things I think make it worth checking out:<p>- Vim-style modal UI. Nav mode to browse, edit mode to change. Multicolumn sort, fuzzy-jump to\n  columns, pin-and-filter rows, hide columns you don't need, drill into related records (like\n  quotes for a project). Much of the spirit of the design and some of the actual design choices\n  is and are inspired by VisiData. You should check that out too.\n- Local LLM chat. Definitely a gimmick, but I am trying preempt \"Yeah, but does it AI?\"-style\n  conversations. This is an optional feature and you can simply pretend it doesn't exist. All\n  features work without it.\n- Single-file SQLite-based architecture. Document attachments (manuals, receipts, photos) are\n  stored as BLOBs in the same SQLite database. One file is the whole app state. If you think\n  this won't scale, you're right. It's pretty damn easy to work with though.\n- Pure Go, zero CGO. Built on Charmbracelet for the TUI and GORM + go-sqlite for the database.\n  Charm makes pretty nice TUIs, and this was my first time using it.<p>Try it with sample data:\ngo install github.com/cpcloud/micasa/cmd/micasa@latest && micasa --demo<p>If you're insane you can also run micasa --demo --years 1000 to generate 1000 years worth of\ndemo data. Not sure what house would last that long, but hey, you do you.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47075124\">https://news.ycombinator.com/item?id=47075124</a></p>\n<p>Points: 544</p>\n<p># Comments: 178</p>",
+    "published": "2026-02-19T15:54:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gemini 3.1 Pro",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "summary": "<p>Preview: <a href=\"https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/gemini-3.1-pro-preview?pli=1\" rel=\"nofollow\">https://console.cloud.google.com/vertex-ai/publishers/google...</a><p>Card: <a href=\"https://deepmind.google/models/model-cards/gemini-3-1-pro/\" rel=\"nofollow\">https://deepmind.google/models/model-cards/gemini-3-1-pro/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47074735\">https://news.ycombinator.com/item?id=47074735</a></p>\n<p>Points: 749</p>\n<p># Comments: 801</p>",
+    "published": "2026-02-19T15:19:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "America vs. Singapore: You can't save your way out of economic shocks",
+    "link": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+    "summary": "<p>Article URL: <a href=\"https://www.governance.fyi/p/america-vs-singapore-you-cant-save\">https://www.governance.fyi/p/america-vs-singapore-you-cant-save</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47074389\">https://news.ycombinator.com/item?id=47074389</a></p>\n<p>Points: 278</p>\n<p># Comments: 401</p>",
+    "published": "2026-02-19T14:52:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pebble Production: February Update",
+    "link": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+    "summary": "<p>Article URL: <a href=\"https://repebble.com/blog/february-pebble-production-and-software-updates\">https://repebble.com/blog/february-pebble-production-and-software-updates</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47073112\">https://news.ycombinator.com/item?id=47073112</a></p>\n<p>Points: 289</p>\n<p># Comments: 137</p>",
+    "published": "2026-02-19T12:36:00",
     "source": "Hacker News: Front Page"
   },
   {
@@ -63,20 +154,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Minecraft Java is switching from OpenGL to Vulkan",
-    "link": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
-    "summary": "<p>Article URL: <a href=\"https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/\">https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47068948\">https://news.ycombinator.com/item?id=47068948</a></p>\n<p>Points: 199</p>\n<p># Comments: 69</p>",
-    "published": "2026-02-19T01:55:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-    "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-    "summary": "<p>Article URL: <a href=\"https://nicolasdickenmann.com/blog/the-great-fp64-divide.html\">https://nicolasdickenmann.com/blog/the-great-fp64-divide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47068890\">https://news.ycombinator.com/item?id=47068890</a></p>\n<p>Points: 112</p>\n<p># Comments: 35</p>",
-    "published": "2026-02-19T01:46:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
     "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
     "summary": "How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind.",
@@ -84,60 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How AI is affecting productivity and jobs in Europe",
-    "link": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-    "summary": "<p>Article URL: <a href=\"https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe\">https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47068320\">https://news.ycombinator.com/item?id=47068320</a></p>\n<p>Points: 109</p>\n<p># Comments: 69</p>",
-    "published": "2026-02-19T00:22:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
     "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
     "summary": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic.",
-    "published": "2026-02-18T23:08:27",
+    "published": "2026-02-18T23:08:28",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "All Look Same?",
-    "link": "https://alllooksame.com/",
-    "summary": "<p>Article URL: <a href=\"https://alllooksame.com/\">https://alllooksame.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47067498\">https://news.ycombinator.com/item?id=47067498</a></p>\n<p>Points: 66</p>\n<p># Comments: 51</p>",
-    "published": "2026-02-18T22:48:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
-    "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=mUmlv814aJo\">https://www.youtube.com/watch?v=mUmlv814aJo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47067496\">https://news.ycombinator.com/item?id=47067496</a></p>\n<p>Points: 86</p>\n<p># Comments: 80</p>",
-    "published": "2026-02-18T22:47:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sizing chaos",
-    "link": "https://pudding.cool/2026/02/womens-sizing/",
-    "summary": "<p>Article URL: <a href=\"https://pudding.cool/2026/02/womens-sizing/\">https://pudding.cool/2026/02/womens-sizing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47066552\">https://news.ycombinator.com/item?id=47066552</a></p>\n<p>Points: 544</p>\n<p># Comments: 293</p>",
-    "published": "2026-02-18T21:18:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
-    "link": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer\">https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47066310\">https://news.ycombinator.com/item?id=47066310</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-18T21:00:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-    "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/\">https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47066241\">https://news.ycombinator.com/item?id=47066241</a></p>\n<p>Points: 327</p>\n<p># Comments: 175</p>",
-    "published": "2026-02-18T20:54:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "R3forth: A concatenative language derived from ColorForth",
-    "link": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md\">https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47065179\">https://news.ycombinator.com/item?id=47065179</a></p>\n<p>Points: 86</p>\n<p># Comments: 13</p>",
-    "published": "2026-02-18T19:28:59",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
@@ -147,38 +175,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Cosmologically Unique IDs",
-    "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-    "summary": "<p>Article URL: <a href=\"https://jasonfantl.com/posts/Universal-Unique-IDs/\">https://jasonfantl.com/posts/Universal-Unique-IDs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47064490\">https://news.ycombinator.com/item?id=47064490</a></p>\n<p>Points: 379</p>\n<p># Comments: 115</p>",
-    "published": "2026-02-18T18:37:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
     "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
     "summary": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
     "published": "2026-02-18T18:20:50",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
-    "link": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
-    "summary": "<p>Article URL: <a href=\"https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f\">https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47064105\">https://news.ycombinator.com/item?id=47064105</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-18T18:09:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-    "link": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-    "summary": "<p>Article URL: <a href=\"https://letsencrypt.org/2026/02/18/dns-persist-01.html\">https://letsencrypt.org/2026/02/18/dns-persist-01.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47064047\">https://news.ycombinator.com/item?id=47064047</a></p>\n<p>Points: 267</p>\n<p># Comments: 118</p>",
-    "published": "2026-02-18T18:04:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
-    "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
-    "summary": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company.",
-    "published": "2026-02-18T14:35:12",
     "source": "NYT > Technology"
   },
   {
@@ -284,48 +284,6 @@
     "link": "https://www.nytimes.com/2026/02/13/technology/iran-protests-surveillance-facial-recognition.html",
     "summary": "As Iranian authorities restore some online services after crushing antigovernment demonstrations, they are using a technological dragnet to target attendees of the protests.",
     "published": "2026-02-13T10:00:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Tech Giants Are Accused of Causing Social Media Addiction",
-    "link": "https://www.nytimes.com/video/technology/100000010701326/why-tech-giants-are-accused-of-causing-social-media-addiction.html",
-    "summary": "In a series of landmark trials, plaintiffs are alleging that Meta, TikTok, Snap and YouTube caused personal injury through addictive products. Our technology reporter Cecilia Kang describes what’s at stake for tech giants and social media users.",
-    "published": "2026-02-12T23:01:17",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Is Valued at $380 Billion in New Funding Round",
-    "link": "https://www.nytimes.com/2026/02/12/technology/anthropic-valuation-380-billion-funding.html",
-    "summary": "The artificial intelligence start-up raised another $30 billion, and its valuation more than doubled since its last funding round in September.",
-    "published": "2026-02-12T22:38:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Gail Slater Leaves Role as Justice Dept.’s Antitrust Chief",
-    "link": "https://www.nytimes.com/2026/02/12/technology/gail-slater-antittrust-justice-department.html",
-    "summary": "Her departure follows months of mounting tension over her division’s work to determine whether companies violated antitrust laws.",
-    "published": "2026-02-12T19:30:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Laid-Off Battery Plant Workers Pin Blame on Ford, not Trump, for Lost Jobs",
-    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-trump-electric-vehicles-kentucky.html",
-    "summary": "Ford Motor shut down a battery factory and laid off 1,600 workers after President Trump and Republicans gutted government support for electric vehicles.",
-    "published": "2026-02-12T18:59:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Donates $20 Million to Super PAC Operation to Counter OpenAI",
-    "link": "https://www.nytimes.com/2026/02/12/technology/anthropic-super-pac-openai.html",
-    "summary": "Anthropic and OpenAI now have their own well-funded political groups that will square off in the midterm elections over artificial intelligence safety and regulation.",
-    "published": "2026-02-12T14:33:26",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Ford Will Make a Play for a Different Battery Market",
-    "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
-    "summary": "The company, long focused on cars and trucks, plans to begin manufacturing large batteries used by utilities, data centers, other businesses and homeowners.",
-    "published": "2026-02-12T10:03:23",
     "source": "NYT > Technology"
   }
 ]
