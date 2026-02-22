@@ -1,142 +1,149 @@
 [
   {
-    "title": "EU mandates replaceable batteries by 2027 (2023)",
-    "link": "https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en",
-    "summary": "<p>Article URL: <a href=\"https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en\">https://environment.ec.europa.eu/news/new-law-more-sustainable-circular-and-safe-batteries-enters-force-2023-08-17_en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098687\">https://news.ycombinator.com/item?id=47098687</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-    "published": "2026-02-21T08:28:42",
+    "title": "Japanese Woodblock Print Search",
+    "link": "https://ukiyo-e.org/",
+    "summary": "<p>Article URL: <a href=\"https://ukiyo-e.org/\">https://ukiyo-e.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47107781\">https://news.ycombinator.com/item?id=47107781</a></p>\n<p>Points: 89</p>\n<p># Comments: 15</p>",
+    "published": "2026-02-22T03:18:36",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Acme Weather",
-    "link": "https://acmeweather.com/blog/introducing-acme-weather",
-    "summary": "<p>Article URL: <a href=\"https://acmeweather.com/blog/introducing-acme-weather\">https://acmeweather.com/blog/introducing-acme-weather</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098296\">https://news.ycombinator.com/item?id=47098296</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
-    "published": "2026-02-21T07:13:38",
+    "title": "A Botnet Accidentally Destroyed I2P",
+    "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+    "summary": "<p>Article URL: <a href=\"https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/\">https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47106985\">https://news.ycombinator.com/item?id=47106985</a></p>\n<p>Points: 100</p>\n<p># Comments: 55</p>",
+    "published": "2026-02-22T01:08:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Trunk Based Development",
-    "link": "https://trunkbaseddevelopment.com/",
-    "summary": "<p>Article URL: <a href=\"https://trunkbaseddevelopment.com/\">https://trunkbaseddevelopment.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098252\">https://news.ycombinator.com/item?id=47098252</a></p>\n<p>Points: 16</p>\n<p># Comments: 5</p>",
-    "published": "2026-02-21T07:07:12",
+    "title": "How I use Claude Code: Separation of planning and execution",
+    "link": "https://boristane.com/blog/how-i-use-claude-code/",
+    "summary": "<p>Article URL: <a href=\"https://boristane.com/blog/how-i-use-claude-code/\">https://boristane.com/blog/how-i-use-claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47106686\">https://news.ycombinator.com/item?id=47106686</a></p>\n<p>Points: 501</p>\n<p># Comments: 307</p>",
+    "published": "2026-02-22T00:29:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I Verified My LinkedIn Identity. Here's What I Handed Over",
+    "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+    "link": "https://www.science.org/doi/10.1126/science.adq7188",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.adq7188\">https://www.science.org/doi/10.1126/science.adq7188</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47105198\">https://news.ycombinator.com/item?id=47105198</a></p>\n<p>Points: 126</p>\n<p># Comments: 36</p>",
+    "published": "2026-02-21T21:51:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+    "link": "https://github.com/xaskasdf/ntransformer",
+    "summary": "<p>Hi everyone, I'm kinda involved in some retrogaming and with some experiments I ran into the following question: \"It would be possible to run transformer models bypassing the cpu/ram, connecting the gpu to the nvme?\"<p>This is the result of that question itself and some weekend vibecoding (it has the linked library repository in the readme as well), it seems to work, even on consumer gpus, it should work better on professional ones tho</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47104667\">https://news.ycombinator.com/item?id=47104667</a></p>\n<p>Points: 237</p>\n<p># Comments: 57</p>",
+    "published": "2026-02-21T20:57:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
+    "link": "https://www.eduke32.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.eduke32.com/\">https://www.eduke32.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47104185\">https://news.ycombinator.com/item?id=47104185</a></p>\n<p>Points: 187</p>\n<p># Comments: 65</p>",
+    "published": "2026-02-21T20:10:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
+    "link": "https://inputlag.science",
+    "summary": "<p>Article URL: <a href=\"https://inputlag.science\">https://inputlag.science</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103945\">https://news.ycombinator.com/item?id=47103945</a></p>\n<p>Points: 89</p>\n<p># Comments: 20</p>",
+    "published": "2026-02-21T19:41:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+    "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+    "summary": "<p>Article URL: <a href=\"https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/\">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103931\">https://news.ycombinator.com/item?id=47103931</a></p>\n<p>Points: 185</p>\n<p># Comments: 45</p>",
+    "published": "2026-02-21T19:40:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Taalas \"prints\" LLM onto a chip?",
+    "link": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "summary": "<p>Article URL: <a href=\"https://www.anuragk.com/blog/posts/Taalas.html\">https://www.anuragk.com/blog/posts/Taalas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103661\">https://news.ycombinator.com/item?id=47103661</a></p>\n<p>Points: 111</p>\n<p># Comments: 48</p>",
+    "published": "2026-02-21T19:07:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
+    "link": "https://github.com/a-e-k/canvas_ity",
+    "summary": "<p>Article URL: <a href=\"https://github.com/a-e-k/canvas_ity\">https://github.com/a-e-k/canvas_ity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103506\">https://news.ycombinator.com/item?id=47103506</a></p>\n<p>Points: 93</p>\n<p># Comments: 34</p>",
+    "published": "2026-02-21T18:50:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+    "link": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+    "summary": "<p>Article URL: <a href=\"https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/\">https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103136\">https://news.ycombinator.com/item?id=47103136</a></p>\n<p>Points: 143</p>\n<p># Comments: 320</p>",
+    "published": "2026-02-21T18:09:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What not to write on your security clearance form (1988)",
+    "link": "https://milk.com/wall-o-shame/security_clearance.html",
+    "summary": "<p>Article URL: <a href=\"https://milk.com/wall-o-shame/security_clearance.html\">https://milk.com/wall-o-shame/security_clearance.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47102576\">https://news.ycombinator.com/item?id=47102576</a></p>\n<p>Points: 444</p>\n<p># Comments: 194</p>",
+    "published": "2026-02-21T17:08:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+    "link": "https://www.koreaherald.com/article/10679206",
+    "summary": "<p>Article URL: <a href=\"https://www.koreaherald.com/article/10679206\">https://www.koreaherald.com/article/10679206</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47101171\">https://news.ycombinator.com/item?id=47101171</a></p>\n<p>Points: 198</p>\n<p># Comments: 184</p>",
+    "published": "2026-02-21T14:32:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Human Root of Trust – public domain framework for agent accountability",
+    "link": "https://humanrootoftrust.org/",
+    "summary": "<p>I've spent my career at the intersection of identity, trust, and distributed systems. The thing I keep thinking about: every digital system we've built assumes a human is on the other end. Bank accounts, contracts, API keys — all designed around human singularity.<p>That assumption has already broken. AI agents are transacting, communicating, and signing contracts autonomously — passing identity checks designed for people, with no human visibly in the loop.<p>The Human Root of Trust is my attempt to name the problem and sketch the architecture: three pillars (proof of humanity, hardware-rooted device identity, action attestation), a six-step trust chain from human principal to cryptographic receipt, and two implementation paths.<p>It's dedicated to the public domain. No patent. No product. No ask except that whoever picks this up carries the principle forward.<p><a href=\"https://humanrootoftrust.org\" rel=\"nofollow\">https://humanrootoftrust.org</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47100935\">https://news.ycombinator.com/item?id=47100935</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
+    "published": "2026-02-21T14:01:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+    "link": "https://github.com/tnm/zclaw",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tnm/zclaw\">https://github.com/tnm/zclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47100232\">https://news.ycombinator.com/item?id=47100232</a></p>\n<p>Points: 164</p>\n<p># Comments: 89</p>",
+    "published": "2026-02-21T12:37:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
+    "link": "https://padlet.jobs",
+    "summary": "<p>Article URL: <a href=\"https://padlet.jobs\">https://padlet.jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47099982\">https://news.ycombinator.com/item?id=47099982</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-21T12:02:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
+    "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
+    "summary": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
+    "published": "2026-02-21T10:00:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Coccinelle: Source-to-source transformation tool",
+    "link": "https://github.com/coccinelle/coccinelle",
+    "summary": "<p>Article URL: <a href=\"https://github.com/coccinelle/coccinelle\">https://github.com/coccinelle/coccinelle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098669\">https://news.ycombinator.com/item?id=47098669</a></p>\n<p>Points: 95</p>\n<p># Comments: 28</p>",
+    "published": "2026-02-21T08:26:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI uBlock Blacklist",
+    "link": "https://github.com/alvi-se/ai-ublock-blacklist",
+    "summary": "<p>Article URL: <a href=\"https://github.com/alvi-se/ai-ublock-blacklist\">https://github.com/alvi-se/ai-ublock-blacklist</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098582\">https://news.ycombinator.com/item?id=47098582</a></p>\n<p>Points: 246</p>\n<p># Comments: 110</p>",
+    "published": "2026-02-21T08:10:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I verified my LinkedIn identity. Here's what I handed over",
     "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "summary": "<p>Article URL: <a href=\"https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/\">https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098245\">https://news.ycombinator.com/item?id=47098245</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "summary": "<p>Article URL: <a href=\"https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/\">https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098245\">https://news.ycombinator.com/item?id=47098245</a></p>\n<p>Points: 1262</p>\n<p># Comments: 433</p>",
     "published": "2026-02-21T07:06:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Meta Deployed AI and It Is Killing Our Agency",
-    "link": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-    "summary": "<p>Article URL: <a href=\"https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/\">https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47097502\">https://news.ycombinator.com/item?id=47097502</a></p>\n<p>Points: 132</p>\n<p># Comments: 84</p>",
-    "published": "2026-02-21T04:29:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What Is OAuth?",
-    "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
-    "summary": "<p>Article URL: <a href=\"https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b\">https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096520\">https://news.ycombinator.com/item?id=47096520</a></p>\n<p>Points: 109</p>\n<p># Comments: 33</p>",
-    "published": "2026-02-21T01:33:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cord: Coordinating Trees of AI Agents",
-    "link": "https://www.june.kim/cord",
-    "summary": "<p>Article URL: <a href=\"https://www.june.kim/cord\">https://www.june.kim/cord</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096466\">https://news.ycombinator.com/item?id=47096466</a></p>\n<p>Points: 88</p>\n<p># Comments: 41</p>",
-    "published": "2026-02-21T01:27:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CERN rebuilt the original browser from 1989 (2019)",
-    "link": "https://worldwideweb.cern.ch",
-    "summary": "<p>Article URL: <a href=\"https://worldwideweb.cern.ch\">https://worldwideweb.cern.ch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47095429\">https://news.ycombinator.com/item?id=47095429</a></p>\n<p>Points: 174</p>\n<p># Comments: 58</p>",
-    "published": "2026-02-20T23:19:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Across the US, people are dismantling and destroying Flock surveillance cameras",
-    "link": "https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling",
-    "summary": "<p>Article URL: <a href=\"https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling\">https://www.bloodinthemachine.com/p/across-the-us-people-are-dismantling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47095134\">https://news.ycombinator.com/item?id=47095134</a></p>\n<p>Points: 323</p>\n<p># Comments: 148</p>",
-    "published": "2026-02-20T22:50:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Turn Dependabot off",
-    "link": "https://words.filippo.io/dependabot/",
-    "summary": "<p>Article URL: <a href=\"https://words.filippo.io/dependabot/\">https://words.filippo.io/dependabot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47094192\">https://news.ycombinator.com/item?id=47094192</a></p>\n<p>Points: 443</p>\n<p># Comments: 116</p>",
-    "published": "2026-02-20T21:25:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
-    "link": "https://mines.fyi/",
-    "summary": "<p>I downloaded the MSHA's (Mine Safety and Health Administration) public datasets and create a visualization of all the mines in the US complete with the operators and details on each site.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47094149\">https://news.ycombinator.com/item?id=47094149</a></p>\n<p>Points: 79</p>\n<p># Comments: 40</p>",
-    "published": "2026-02-20T21:22:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenScan",
-    "link": "https://openscan.eu/pages/scan-gallery",
-    "summary": "<p>Article URL: <a href=\"https://openscan.eu/pages/scan-gallery\">https://openscan.eu/pages/scan-gallery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47093724\">https://news.ycombinator.com/item?id=47093724</a></p>\n<p>Points: 155</p>\n<p># Comments: 9</p>",
-    "published": "2026-02-20T20:47:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I found a Vulnerability. They found a Lawyer",
-    "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-    "summary": "<p>Article URL: <a href=\"https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer\">https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47092578\">https://news.ycombinator.com/item?id=47092578</a></p>\n<p>Points: 560</p>\n<p># Comments: 246</p>",
-    "published": "2026-02-20T19:19:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Every company building your AI assistant is now an ad company",
-    "link": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-    "summary": "<p>Article URL: <a href=\"https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company\">https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47092203\">https://news.ycombinator.com/item?id=47092203</a></p>\n<p>Points: 179</p>\n<p># Comments: 91</p>",
-    "published": "2026-02-20T18:55:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Wikipedia deprecates Archive.today, starts removing archive links",
-    "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-    "summary": "<p>Related:<p><i>Archive.today is directing a DDoS attack against my blog</i> - <a href=\"https://news.ycombinator.com/item?id=46843805\">https://news.ycombinator.com/item?id=46843805</a> - Feb 2026 (168 comments)<p><i>Ask HN: Weird archive.today behavior?</i> - <a href=\"https://news.ycombinator.com/item?id=46624740\">https://news.ycombinator.com/item?id=46624740</a> - Jan 2026 (69 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47092006\">https://news.ycombinator.com/item?id=47092006</a></p>\n<p>Points: 425</p>\n<p># Comments: 256</p>",
-    "published": "2026-02-20T18:42:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Facebook is cooked",
-    "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
-    "summary": "<p>Article URL: <a href=\"https://pilk.website/3/facebook-is-absolutely-cooked\">https://pilk.website/3/facebook-is-absolutely-cooked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091748\">https://news.ycombinator.com/item?id=47091748</a></p>\n<p>Points: 1059</p>\n<p># Comments: 573</p>",
-    "published": "2026-02-20T18:25:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Blue light filters don't work – controlling total luminance is a better bet",
-    "link": "https://www.neuroai.science/p/blue-light-filters-dont-work",
-    "summary": "<p>Article URL: <a href=\"https://www.neuroai.science/p/blue-light-filters-dont-work\">https://www.neuroai.science/p/blue-light-filters-dont-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091606\">https://news.ycombinator.com/item?id=47091606</a></p>\n<p>Points: 163</p>\n<p># Comments: 181</p>",
-    "published": "2026-02-20T18:14:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Making frontier cybersecurity capabilities available to defenders",
-    "link": "https://www.anthropic.com/news/claude-code-security",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-code-security\">https://www.anthropic.com/news/claude-code-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091469\">https://news.ycombinator.com/item?id=47091469</a></p>\n<p>Points: 115</p>\n<p># Comments: 51</p>",
-    "published": "2026-02-20T18:03:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Keep Android Open",
-    "link": "https://f-droid.org/2026/02/20/twif.html",
-    "summary": "<p>Article URL: <a href=\"https://f-droid.org/2026/02/20/twif.html\">https://f-droid.org/2026/02/20/twif.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091419\">https://news.ycombinator.com/item?id=47091419</a></p>\n<p>Points: 1454</p>\n<p># Comments: 537</p>",
-    "published": "2026-02-20T17:58:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Lil' Fun Langs",
-    "link": "https://taylor.town/scrapscript-000",
-    "summary": "<p>Article URL: <a href=\"https://taylor.town/scrapscript-000\">https://taylor.town/scrapscript-000</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47091071\">https://news.ycombinator.com/item?id=47091071</a></p>\n<p>Points: 113</p>\n<p># Comments: 17</p>",
-    "published": "2026-02-20T17:34:12",
+    "title": "Claws are now a new layer on top of LLM agents",
+    "link": "https://twitter.com/karpathy/status/2024987174077432126",
+    "summary": "<p><a href=\"https://xcancel.com/karpathy/status/2024987174077432126\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2024987174077432126</a><p>Related: <a href=\"https://simonwillison.net/2026/Feb/21/claws/\" rel=\"nofollow\">https://simonwillison.net/2026/Feb/21/claws/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096253\">https://news.ycombinator.com/item?id=47096253</a></p>\n<p>Points: 295</p>\n<p># Comments: 728</p>",
+    "published": "2026-02-21T00:56:29",
     "source": "Hacker News: Front Page"
   },
   {
@@ -270,13 +277,6 @@
     "link": "https://www.nytimes.com/2026/02/14/technology/david-farber-dead.html",
     "summary": "A researcher, professor and federal policy adviser, he guided students who went on to do groundbreaking work in connecting the world online.",
     "published": "2026-02-14T13:09:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts",
-    "link": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
-    "summary": "The department has sent Google, Meta and other companies hundreds of subpoenas for information on accounts that track or comment on Immigration and Customs Enforcement, officials and tech workers said.",
-    "published": "2026-02-13T23:24:03",
     "source": "NYT > Technology"
   }
 ]
