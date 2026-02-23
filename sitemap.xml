@@ -1,7 +1,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-02-22</lastmod>
+    <lastmod>2026-02-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html</loc>
+    <lastmod>2026-02-23T04:01:27</lastmod>
+  </url>
+  <url>
+    <loc>https://quesma.com/blog/introducing-binaryaudit/</loc>
+    <lastmod>2026-02-22T14:50:44</lastmod>
+  </url>
+  <url>
+    <loc>https://www.popsci.com/technology/robot-vacuum-army/</loc>
+    <lastmod>2026-02-22T14:44:42</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/c5yj2kzkrj0o</loc>
+    <lastmod>2026-02-22T13:59:40</lastmod>
+  </url>
+  <url>
+    <loc>https://rename.world/</loc>
+    <lastmod>2026-02-22T13:57:18</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/volatilityfoundation/volatility3</loc>
+    <lastmod>2026-02-22T13:20:07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture</loc>
+    <lastmod>2026-02-22T12:41:37</lastmod>
+  </url>
+  <url>
+    <loc>https://susam.net/attention-media-vs-social-networks.html</loc>
+    <lastmod>2026-02-22T12:36:46</lastmod>
+  </url>
+  <url>
+    <loc>https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents</loc>
+    <lastmod>2026-02-22T12:34:00</lastmod>
+  </url>
+  <url>
+    <loc>https://planetscale.com/blog/database-transactions</loc>
+    <lastmod>2026-02-22T12:28:41</lastmod>
+  </url>
+  <url>
+    <loc>https://hypha.pub/back-to-freebsd-part-1</loc>
+    <lastmod>2026-02-22T07:16:27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language</loc>
+    <lastmod>2026-02-22T07:14:22</lastmod>
   </url>
   <url>
     <loc>https://ukiyo-e.org/</loc>
@@ -24,14 +72,6 @@
     <lastmod>2026-02-21T20:57:30</lastmod>
   </url>
   <url>
-    <loc>https://www.eduke32.com/</loc>
-    <lastmod>2026-02-21T20:10:13</lastmod>
-  </url>
-  <url>
-    <loc>https://inputlag.science</loc>
-    <lastmod>2026-02-21T19:41:52</lastmod>
-  </url>
-  <url>
     <loc>https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</loc>
     <lastmod>2026-02-21T19:40:06</lastmod>
   </url>
@@ -40,52 +80,16 @@
     <lastmod>2026-02-21T19:07:20</lastmod>
   </url>
   <url>
-    <loc>https://github.com/a-e-k/canvas_ity</loc>
-    <lastmod>2026-02-21T18:50:19</lastmod>
-  </url>
-  <url>
-    <loc>https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</loc>
-    <lastmod>2026-02-21T18:09:24</lastmod>
-  </url>
-  <url>
-    <loc>https://milk.com/wall-o-shame/security_clearance.html</loc>
-    <lastmod>2026-02-21T17:08:12</lastmod>
-  </url>
-  <url>
     <loc>https://www.koreaherald.com/article/10679206</loc>
     <lastmod>2026-02-21T14:32:16</lastmod>
-  </url>
-  <url>
-    <loc>https://humanrootoftrust.org/</loc>
-    <lastmod>2026-02-21T14:01:45</lastmod>
   </url>
   <url>
     <loc>https://github.com/tnm/zclaw</loc>
     <lastmod>2026-02-21T12:37:52</lastmod>
   </url>
   <url>
-    <loc>https://padlet.jobs</loc>
-    <lastmod>2026-02-21T12:02:14</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html</loc>
-    <lastmod>2026-02-21T10:00:08</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/coccinelle/coccinelle</loc>
-    <lastmod>2026-02-21T08:26:36</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/alvi-se/ai-ublock-blacklist</loc>
-    <lastmod>2026-02-21T08:10:49</lastmod>
-  </url>
-  <url>
-    <loc>https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</loc>
-    <lastmod>2026-02-21T07:06:18</lastmod>
-  </url>
-  <url>
-    <loc>https://twitter.com/karpathy/status/2024987174077432126</loc>
-    <lastmod>2026-02-21T00:56:29</lastmod>
+    <lastmod>2026-02-21T10:00:09</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html</loc>
@@ -122,10 +126,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html</loc>
     <lastmod>2026-02-18T18:20:50</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html</loc>
-    <lastmod>2026-02-18T14:00:12</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html</loc>

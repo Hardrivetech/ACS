@@ -1,150 +1,157 @@
 [
   {
+    "title": "How to Watch Free Live Television on Your Phone or Tablet",
+    "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
+    "summary": "Whether by app or old-school antennas, budget-friendly options abound.",
+    "published": "2026-02-23T04:01:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "link": "https://quesma.com/blog/introducing-binaryaudit/",
+    "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/introducing-binaryaudit/\">https://quesma.com/blog/introducing-binaryaudit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47111440\">https://news.ycombinator.com/item?id=47111440</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+    "published": "2026-02-22T14:50:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "link": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "summary": "<p>Article URL: <a href=\"https://www.popsci.com/technology/robot-vacuum-army/\">https://www.popsci.com/technology/robot-vacuum-army/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47111400\">https://news.ycombinator.com/item?id=47111400</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
+    "published": "2026-02-22T14:44:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Iran students stage first large anti-government protests since deadly crackdown",
+    "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c5yj2kzkrj0o\">https://www.bbc.com/news/articles/c5yj2kzkrj0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47111067\">https://news.ycombinator.com/item?id=47111067</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
+    "published": "2026-02-22T13:59:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I put New Zealand behind a $1 paywall",
+    "link": "https://rename.world/",
+    "summary": "<p>Article URL: <a href=\"https://rename.world/\">https://rename.world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47111042\">https://news.ycombinator.com/item?id=47111042</a></p>\n<p>Points: 22</p>\n<p># Comments: 4</p>",
+    "published": "2026-02-22T13:57:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Volatility: The volatile memory forensic extraction framework",
+    "link": "https://github.com/volatilityfoundation/volatility3",
+    "summary": "<p>Article URL: <a href=\"https://github.com/volatilityfoundation/volatility3\">https://github.com/volatilityfoundation/volatility3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47110781\">https://news.ycombinator.com/item?id=47110781</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-22T13:20:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Dance Floor Is Disappearing in a Sea of Phones",
+    "link": "https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture",
+    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture\">https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47110549\">https://news.ycombinator.com/item?id=47110549</a></p>\n<p>Points: 48</p>\n<p># Comments: 41</p>",
+    "published": "2026-02-22T12:41:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Attention Media ≠ Social Networks",
+    "link": "https://susam.net/attention-media-vs-social-networks.html",
+    "summary": "<p>Article URL: <a href=\"https://susam.net/attention-media-vs-social-networks.html\">https://susam.net/attention-media-vs-social-networks.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47110515\">https://news.ycombinator.com/item?id=47110515</a></p>\n<p>Points: 150</p>\n<p># Comments: 59</p>",
+    "published": "2026-02-22T12:36:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Minions: Stripe's one-shot, end-to-end coding agents – Stripe Dot Dev Blog",
+    "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+    "summary": "<p>Article URL: <a href=\"https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents\">https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47110495\">https://news.ycombinator.com/item?id=47110495</a></p>\n<p>Points: 56</p>\n<p># Comments: 53</p>",
+    "published": "2026-02-22T12:34:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Is a Database Transaction?",
+    "link": "https://planetscale.com/blog/database-transactions",
+    "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/database-transactions\">https://planetscale.com/blog/database-transactions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47110473\">https://news.ycombinator.com/item?id=47110473</a></p>\n<p>Points: 68</p>\n<p># Comments: 12</p>",
+    "published": "2026-02-22T12:28:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Back to FreeBSD: Part 1",
+    "link": "https://hypha.pub/back-to-freebsd-part-1",
+    "summary": "<p>Article URL: <a href=\"https://hypha.pub/back-to-freebsd-part-1\">https://hypha.pub/back-to-freebsd-part-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47108989\">https://news.ycombinator.com/item?id=47108989</a></p>\n<p>Points: 125</p>\n<p># Comments: 50</p>",
+    "published": "2026-02-22T07:16:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What's the best way to learn a new language?",
+    "link": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language\">https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47108977\">https://news.ycombinator.com/item?id=47108977</a></p>\n<p>Points: 36</p>\n<p># Comments: 31</p>",
+    "published": "2026-02-22T07:14:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Japanese Woodblock Print Search",
     "link": "https://ukiyo-e.org/",
-    "summary": "<p>Article URL: <a href=\"https://ukiyo-e.org/\">https://ukiyo-e.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47107781\">https://news.ycombinator.com/item?id=47107781</a></p>\n<p>Points: 89</p>\n<p># Comments: 15</p>",
+    "summary": "<p>Article URL: <a href=\"https://ukiyo-e.org/\">https://ukiyo-e.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47107781\">https://news.ycombinator.com/item?id=47107781</a></p>\n<p>Points: 151</p>\n<p># Comments: 24</p>",
     "published": "2026-02-22T03:18:36",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "A Botnet Accidentally Destroyed I2P",
     "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-    "summary": "<p>Article URL: <a href=\"https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/\">https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47106985\">https://news.ycombinator.com/item?id=47106985</a></p>\n<p>Points: 100</p>\n<p># Comments: 55</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/\">https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47106985\">https://news.ycombinator.com/item?id=47106985</a></p>\n<p>Points: 134</p>\n<p># Comments: 82</p>",
     "published": "2026-02-22T01:08:17",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "How I use Claude Code: Separation of planning and execution",
     "link": "https://boristane.com/blog/how-i-use-claude-code/",
-    "summary": "<p>Article URL: <a href=\"https://boristane.com/blog/how-i-use-claude-code/\">https://boristane.com/blog/how-i-use-claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47106686\">https://news.ycombinator.com/item?id=47106686</a></p>\n<p>Points: 501</p>\n<p># Comments: 307</p>",
+    "summary": "<p>Article URL: <a href=\"https://boristane.com/blog/how-i-use-claude-code/\">https://boristane.com/blog/how-i-use-claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47106686\">https://news.ycombinator.com/item?id=47106686</a></p>\n<p>Points: 716</p>\n<p># Comments: 454</p>",
     "published": "2026-02-22T00:29:05",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
     "link": "https://www.science.org/doi/10.1126/science.adq7188",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.adq7188\">https://www.science.org/doi/10.1126/science.adq7188</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47105198\">https://news.ycombinator.com/item?id=47105198</a></p>\n<p>Points: 126</p>\n<p># Comments: 36</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.adq7188\">https://www.science.org/doi/10.1126/science.adq7188</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47105198\">https://news.ycombinator.com/item?id=47105198</a></p>\n<p>Points: 164</p>\n<p># Comments: 53</p>",
     "published": "2026-02-21T21:51:58",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
     "link": "https://github.com/xaskasdf/ntransformer",
-    "summary": "<p>Hi everyone, I'm kinda involved in some retrogaming and with some experiments I ran into the following question: \"It would be possible to run transformer models bypassing the cpu/ram, connecting the gpu to the nvme?\"<p>This is the result of that question itself and some weekend vibecoding (it has the linked library repository in the readme as well), it seems to work, even on consumer gpus, it should work better on professional ones tho</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47104667\">https://news.ycombinator.com/item?id=47104667</a></p>\n<p>Points: 237</p>\n<p># Comments: 57</p>",
+    "summary": "<p>Hi everyone, I'm kinda involved in some retrogaming and with some experiments I ran into the following question: \"It would be possible to run transformer models bypassing the cpu/ram, connecting the gpu to the nvme?\"<p>This is the result of that question itself and some weekend vibecoding (it has the linked library repository in the readme as well), it seems to work, even on consumer gpus, it should work better on professional ones tho</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47104667\">https://news.ycombinator.com/item?id=47104667</a></p>\n<p>Points: 300</p>\n<p># Comments: 80</p>",
     "published": "2026-02-21T20:57:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-    "link": "https://www.eduke32.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.eduke32.com/\">https://www.eduke32.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47104185\">https://news.ycombinator.com/item?id=47104185</a></p>\n<p>Points: 187</p>\n<p># Comments: 65</p>",
-    "published": "2026-02-21T20:10:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Inputlag.science – Repository of knowledge about input lag in gaming",
-    "link": "https://inputlag.science",
-    "summary": "<p>Article URL: <a href=\"https://inputlag.science\">https://inputlag.science</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103945\">https://news.ycombinator.com/item?id=47103945</a></p>\n<p>Points: 89</p>\n<p># Comments: 20</p>",
-    "published": "2026-02-21T19:41:52",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Parse, Don't Validate and Type-Driven Design in Rust",
     "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-    "summary": "<p>Article URL: <a href=\"https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/\">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103931\">https://news.ycombinator.com/item?id=47103931</a></p>\n<p>Points: 185</p>\n<p># Comments: 45</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/\">https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103931\">https://news.ycombinator.com/item?id=47103931</a></p>\n<p>Points: 220</p>\n<p># Comments: 59</p>",
     "published": "2026-02-21T19:40:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How Taalas \"prints\" LLM onto a chip?",
+    "title": "How Taalas “prints” LLM onto a chip?",
     "link": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "summary": "<p>Article URL: <a href=\"https://www.anuragk.com/blog/posts/Taalas.html\">https://www.anuragk.com/blog/posts/Taalas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103661\">https://news.ycombinator.com/item?id=47103661</a></p>\n<p>Points: 111</p>\n<p># Comments: 48</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.anuragk.com/blog/posts/Taalas.html\">https://www.anuragk.com/blog/posts/Taalas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103661\">https://news.ycombinator.com/item?id=47103661</a></p>\n<p>Points: 270</p>\n<p># Comments: 132</p>",
     "published": "2026-02-21T19:07:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++",
-    "link": "https://github.com/a-e-k/canvas_ity",
-    "summary": "<p>Article URL: <a href=\"https://github.com/a-e-k/canvas_ity\">https://github.com/a-e-k/canvas_ity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103506\">https://news.ycombinator.com/item?id=47103506</a></p>\n<p>Points: 93</p>\n<p># Comments: 34</p>",
-    "published": "2026-02-21T18:50:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-    "link": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "summary": "<p>Article URL: <a href=\"https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/\">https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47103136\">https://news.ycombinator.com/item?id=47103136</a></p>\n<p>Points: 143</p>\n<p># Comments: 320</p>",
-    "published": "2026-02-21T18:09:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What not to write on your security clearance form (1988)",
-    "link": "https://milk.com/wall-o-shame/security_clearance.html",
-    "summary": "<p>Article URL: <a href=\"https://milk.com/wall-o-shame/security_clearance.html\">https://milk.com/wall-o-shame/security_clearance.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47102576\">https://news.ycombinator.com/item?id=47102576</a></p>\n<p>Points: 444</p>\n<p># Comments: 194</p>",
-    "published": "2026-02-21T17:08:12",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
     "link": "https://www.koreaherald.com/article/10679206",
-    "summary": "<p>Article URL: <a href=\"https://www.koreaherald.com/article/10679206\">https://www.koreaherald.com/article/10679206</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47101171\">https://news.ycombinator.com/item?id=47101171</a></p>\n<p>Points: 198</p>\n<p># Comments: 184</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.koreaherald.com/article/10679206\">https://www.koreaherald.com/article/10679206</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47101171\">https://news.ycombinator.com/item?id=47101171</a></p>\n<p>Points: 225</p>\n<p># Comments: 227</p>",
     "published": "2026-02-21T14:32:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Human Root of Trust – public domain framework for agent accountability",
-    "link": "https://humanrootoftrust.org/",
-    "summary": "<p>I've spent my career at the intersection of identity, trust, and distributed systems. The thing I keep thinking about: every digital system we've built assumes a human is on the other end. Bank accounts, contracts, API keys — all designed around human singularity.<p>That assumption has already broken. AI agents are transacting, communicating, and signing contracts autonomously — passing identity checks designed for people, with no human visibly in the loop.<p>The Human Root of Trust is my attempt to name the problem and sketch the architecture: three pillars (proof of humanity, hardware-rooted device identity, action attestation), a six-step trust chain from human principal to cryptographic receipt, and two implementation paths.<p>It's dedicated to the public domain. No patent. No product. No ask except that whoever picks this up carries the principle forward.<p><a href=\"https://humanrootoftrust.org\" rel=\"nofollow\">https://humanrootoftrust.org</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47100935\">https://news.ycombinator.com/item?id=47100935</a></p>\n<p>Points: 14</p>\n<p># Comments: 5</p>",
-    "published": "2026-02-21T14:01:45",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "link": "https://github.com/tnm/zclaw",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tnm/zclaw\">https://github.com/tnm/zclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47100232\">https://news.ycombinator.com/item?id=47100232</a></p>\n<p>Points: 164</p>\n<p># Comments: 89</p>",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tnm/zclaw\">https://github.com/tnm/zclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47100232\">https://news.ycombinator.com/item?id=47100232</a></p>\n<p>Points: 213</p>\n<p># Comments: 117</p>",
     "published": "2026-02-21T12:37:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Padlet (YC W13) Is Hiring in San Francisco and Singapore",
-    "link": "https://padlet.jobs",
-    "summary": "<p>Article URL: <a href=\"https://padlet.jobs\">https://padlet.jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47099982\">https://news.ycombinator.com/item?id=47099982</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-21T12:02:14",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
     "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
     "summary": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
-    "published": "2026-02-21T10:00:08",
+    "published": "2026-02-21T10:00:09",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Coccinelle: Source-to-source transformation tool",
-    "link": "https://github.com/coccinelle/coccinelle",
-    "summary": "<p>Article URL: <a href=\"https://github.com/coccinelle/coccinelle\">https://github.com/coccinelle/coccinelle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098669\">https://news.ycombinator.com/item?id=47098669</a></p>\n<p>Points: 95</p>\n<p># Comments: 28</p>",
-    "published": "2026-02-21T08:26:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AI uBlock Blacklist",
-    "link": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "summary": "<p>Article URL: <a href=\"https://github.com/alvi-se/ai-ublock-blacklist\">https://github.com/alvi-se/ai-ublock-blacklist</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098582\">https://news.ycombinator.com/item?id=47098582</a></p>\n<p>Points: 246</p>\n<p># Comments: 110</p>",
-    "published": "2026-02-21T08:10:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I verified my LinkedIn identity. Here's what I handed over",
-    "link": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "summary": "<p>Article URL: <a href=\"https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/\">https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47098245\">https://news.ycombinator.com/item?id=47098245</a></p>\n<p>Points: 1262</p>\n<p># Comments: 433</p>",
-    "published": "2026-02-21T07:06:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claws are now a new layer on top of LLM agents",
-    "link": "https://twitter.com/karpathy/status/2024987174077432126",
-    "summary": "<p><a href=\"https://xcancel.com/karpathy/status/2024987174077432126\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2024987174077432126</a><p>Related: <a href=\"https://simonwillison.net/2026/Feb/21/claws/\" rel=\"nofollow\">https://simonwillison.net/2026/Feb/21/claws/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47096253\">https://news.ycombinator.com/item?id=47096253</a></p>\n<p>Points: 295</p>\n<p># Comments: 728</p>",
-    "published": "2026-02-21T00:56:29",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
@@ -207,13 +214,6 @@
     "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
     "summary": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network.",
     "published": "2026-02-18T18:20:50",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How to Watch Free Live Television on Your Phone or Tablet",
-    "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
-    "summary": "Whether by app or old-school antennas, budget-friendly options abound.",
-    "published": "2026-02-18T14:00:12",
     "source": "NYT > Technology"
   },
   {
