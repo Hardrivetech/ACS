@@ -1,73 +1,206 @@
 [
   {
-    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-    "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-    "summary": "<p>Article URL: <a href=\"https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/\">https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47133313\">https://news.ycombinator.com/item?id=47133313</a></p>\n<p>Points: 221</p>\n<p># Comments: 176</p>",
-    "published": "2026-02-24T05:47:23",
+    "title": "LLM=True",
+    "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+    "summary": "<p>Article URL: <a href=\"https://blog.codemine.be/posts/2026/20260222-be-quiet/\">https://blog.codemine.be/posts/2026/20260222-be-quiet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47149151\">https://news.ycombinator.com/item?id=47149151</a></p>\n<p>Points: 23</p>\n<p># Comments: 16</p>",
+    "published": "2026-02-25T09:05:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
-    "link": "https://github.com/GreatScott/enveil",
-    "summary": "<p>Article URL: <a href=\"https://github.com/GreatScott/enveil\">https://github.com/GreatScott/enveil</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47133055\">https://news.ycombinator.com/item?id=47133055</a></p>\n<p>Points: 72</p>\n<p># Comments: 36</p>",
-    "published": "2026-02-24T05:04:50",
+    "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+    "link": "https://github.com/mksglu/claude-context-mode",
+    "summary": "<p>Every MCP tool call dumps raw data into Claude Code's 200K context window. A Playwright snapshot costs 56 KB, 20 GitHub issues cost 59 KB. After 30 minutes, 40% of your context is gone.<p>I built an MCP server that sits between Claude Code and these outputs. It processes them in sandboxes and only returns summaries. 315 KB becomes 5.4 KB.<p>It supports 10 language runtimes, SQLite FTS5 with BM25 ranking for search, and batch execution. Session time before slowdown goes from ~30 min to ~3 hours.<p>MIT licensed, single command install:<p>/plugin marketplace add mksglu/claude-context-mode<p>/plugin install context-mode@claude-context-mode<p>Benchmarks and source: <a href=\"https://github.com/mksglu/claude-context-mode\" rel=\"nofollow\">https://github.com/mksglu/claude-context-mode</a><p>Would love feedback from anyone hitting context limits in Claude Code.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47148025\">https://news.ycombinator.com/item?id=47148025</a></p>\n<p>Points: 56</p>\n<p># Comments: 17</p>",
+    "published": "2026-02-25T06:23:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Turing Completeness of GNU find",
+    "link": "https://arxiv.org/abs/2602.20762",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2602.20762\">https://arxiv.org/abs/2602.20762</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47147609\">https://news.ycombinator.com/item?id=47147609</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
+    "published": "2026-02-25T05:16:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+    "summary": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
+    "published": "2026-02-25T03:08:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Anthropic Drops Flagship Safety Pledge",
+    "link": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+    "summary": "<p>Article URL: <a href=\"https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/\">https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47145963\">https://news.ycombinator.com/item?id=47145963</a></p>\n<p>Points: 306</p>\n<p># Comments: 132</p>",
+    "published": "2026-02-25T01:08:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Corgi Labs (YC W23) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate\">https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47145911\">https://news.ycombinator.com/item?id=47145911</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-25T01:01:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+    "link": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+    "summary": "<p>Article URL: <a href=\"https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price\">https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47145907\">https://news.ycombinator.com/item?id=47145907</a></p>\n<p>Points: 420</p>\n<p># Comments: 141</p>",
+    "published": "2026-02-25T01:00:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
+    "link": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
+    "summary": "Senator Richard Blumenthal of Connecticut sent a letter to Binance asking about the flow of $1.7 billion from accounts on the crypto exchange to Iranian entities.",
+    "published": "2026-02-25T01:00:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Wayve, an A.I. Driverless Car Start-Up in Europe, Raises $1.2 Billion",
+    "link": "https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html",
+    "summary": "The London-based company is building a system that uses artificial intelligence to power autonomous vehicles.",
+    "published": "2026-02-25T00:01:05",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+    "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2\">https://www.inceptionlabs.ai/blog/introducing-mercury-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47144464\">https://news.ycombinator.com/item?id=47144464</a></p>\n<p>Points: 219</p>\n<p># Comments: 97</p>",
+    "published": "2026-02-24T22:46:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cell Service for the Fairly Paranoid",
+    "link": "https://www.cape.co/",
+    "summary": "<p>Article URL: <a href=\"https://www.cape.co/\">https://www.cape.co/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47144325\">https://news.ycombinator.com/item?id=47144325</a></p>\n<p>Points: 95</p>\n<p># Comments: 93</p>",
+    "published": "2026-02-24T22:37:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+    "link": "https://github.com/moonshine-ai/moonshine",
+    "summary": "<p>I wanted to share our new speech to text model, and the library to use them effectively. We're a small startup (six people, sub-$100k monthly GPU budget) so I'm proud of the work the team has done to create streaming STT models with lower word-error rates than OpenAI's largest Whisper model. Admittedly Large v3 is a couple of years old, but we're near the top the HF OpenASR leaderboard, even up against Nvidia's Parakeet family. Anyway, I'd love to get feedback on the models and software, and hear about what people might build with it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47143755\">https://news.ycombinator.com/item?id=47143755</a></p>\n<p>Points: 243</p>\n<p># Comments: 51</p>",
+    "published": "2026-02-24T21:54:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pi – A minimal terminal coding harness",
+    "link": "https://pi.dev",
+    "summary": "<p>Article URL: <a href=\"https://pi.dev\">https://pi.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47143754\">https://news.ycombinator.com/item?id=47143754</a></p>\n<p>Points: 370</p>\n<p># Comments: 159</p>",
+    "published": "2026-02-24T21:53:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Looks like it is happening",
+    "link": "https://www.math.columbia.edu/~woit/wordpress/?p=15500",
+    "summary": "<p>Article URL: <a href=\"https://www.math.columbia.edu/~woit/wordpress/?p=15500\">https://www.math.columbia.edu/~woit/wordpress/?p=15500</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47143211\">https://news.ycombinator.com/item?id=47143211</a></p>\n<p>Points: 177</p>\n<p># Comments: 128</p>",
+    "published": "2026-02-24T21:19:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mac mini will be made at a new facility in Houston",
+    "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\">https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47143152\">https://news.ycombinator.com/item?id=47143152</a></p>\n<p>Points: 510</p>\n<p># Comments: 500</p>",
+    "published": "2026-02-24T21:13:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
+    "link": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html",
+    "summary": "For more than two decades, the convicted sex offender developed a network at the tech giant, making him privy to succession discussions and other business.",
+    "published": "2026-02-24T19:58:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Hacking an old Kindle to display bus arrival times",
+    "link": "https://www.mariannefeng.com/portfolio/kindle/",
+    "summary": "<p>Article URL: <a href=\"https://www.mariannefeng.com/portfolio/kindle/\">https://www.mariannefeng.com/portfolio/kindle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47141797\">https://news.ycombinator.com/item?id=47141797</a></p>\n<p>Points: 256</p>\n<p># Comments: 60</p>",
+    "published": "2026-02-24T19:43:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "More Than Half of Teens Use Chatbots for Schoolwork, Survey Finds",
+    "link": "https://www.nytimes.com/2026/02/24/technology/schoolwork-chatbot-cheating-pew.html",
+    "summary": "A new study from the Pew Research Center finds teenagers think chatbot-assisted cheating has become “a regular feature of student life.”",
+    "published": "2026-02-24T19:23:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
+    "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
+    "summary": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
+    "published": "2026-02-24T19:18:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Racing to Catch Up With Nvidia, AMD Signs Chips-for-Stock Deal With Meta",
+    "link": "https://www.nytimes.com/2026/02/24/business/meta-amd-chips-ai.html",
+    "summary": "The multibillion-dollar deal is AMD’s latest move to catch up to Nvidia in the lucrative world of selling artificial intelligence chips.",
+    "published": "2026-02-24T19:13:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Steel Bank Common Lisp",
+    "link": "https://www.sbcl.org/",
+    "summary": "<p>Article URL: <a href=\"https://www.sbcl.org/\">https://www.sbcl.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47140657\">https://news.ycombinator.com/item?id=47140657</a></p>\n<p>Points: 211</p>\n<p># Comments: 82</p>",
+    "published": "2026-02-24T18:24:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Emdash – Open-source agentic development environment",
+    "link": "https://github.com/generalaction/emdash",
+    "summary": "<p>Hey HN! We’re Arne and Raban, the founders of Emdash (<a href=\"https://github.com/generalaction/emdash\" rel=\"nofollow\">https://github.com/generalaction/emdash</a>).<p>Emdash is an open-source and provider-agnostic desktop app that lets you run multiple coding agents in parallel, each isolated in its own git worktree, either locally or over SSH on a remote machine. We call it an Agentic Development Environment (ADE).<p>You can see a 1 minute demo here: <a href=\"https://youtu.be/X31nK-zlzKo\" rel=\"nofollow\">https://youtu.be/X31nK-zlzKo</a><p>We are building Emdash for ourselves. While working on a cap-table management application (think Stripe Atlas + Pulley), we found our development workflow to be messy: lots of terminals, lots of branches, and too much time spent waiting on Codex.<p>Emdash puts the terminal at the center and makes it easy to run multiple agents at once. Each agent runs as a task in its own git worktree. You can start one or a few agents on the same problem, test, and review.<p>Emdash works over SSH so you can run agents where your code lives and keep the parallel workflow. You can assign tickets to agents, edit files manually, and review changes.<p>We also spent time making task startup fast. Each task can be created in a worktree, and creating worktrees on demand was taking 5s+ in some cases. We now keep a small reserve of worktrees in the background and let a new task claim one instantly. That brought task start time down to ~500–1000ms depending on the provider. We also spawn the shell directly and avoid loading the shell environments on startup.<p>We believe using the providers’ native CLIs is the right approach. It gives you the full capabilities of each agent, always. If a provider starts supporting plan mode, we don't have to add that first.<p>We support 21 coding agent CLIs today, including Claude Code, Codex, Gemini, Droid, Amp, Codebuff, and more. We auto-detect what you have installed and we’re provider-agnostic by design. If there’s a provider you want that we don’t support yet, we can add it. We believe that in the future, some agents will be better suited for task X and others for task Y. Codex, Claude Code, and Gemini all have fans. We want to be agnostic and enable individuals and teams to freely switch between them.<p>Beyond orchestration, we try to pull most of the development loop into Emdash. You can review diffs, commit, open PRs, see CI/CD checks, and merge directly from Emdash once checks pass. When starting a task, you can pass issues from Linear, GitHub, and Jira to an agent. We also support convenience variables and lifecycle scripts so it’s easy to allocate ports and test changes.<p>Emdash is fully open-source and MIT-licensed.<p>Download for macOS, Linux or Windows (as of yesterday !), or install via Homebrew: brew install --cask emdash.<p>We’d love your feedback. How does your coding agent development setup look like, especially when working with multiple agents? We would want to learn more about it. Check out our repository here: <a href=\"https://github.com/generalaction/emdash\" rel=\"nofollow\">https://github.com/generalaction/emdash</a><p>We’ll be around in the comments — thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47140322\">https://news.ycombinator.com/item?id=47140322</a></p>\n<p>Points: 153</p>\n<p># Comments: 59</p>",
+    "published": "2026-02-24T18:00:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nearby Glasses",
+    "link": "https://github.com/yjeanrenaud/yj_nearbyglasses",
+    "summary": "<p>Article URL: <a href=\"https://github.com/yjeanrenaud/yj_nearbyglasses\">https://github.com/yjeanrenaud/yj_nearbyglasses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47140042\">https://news.ycombinator.com/item?id=47140042</a></p>\n<p>Points: 326</p>\n<p># Comments: 126</p>",
+    "published": "2026-02-24T17:40:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hugging Face Skills",
+    "link": "https://github.com/huggingface/skills",
+    "summary": "<p>Article URL: <a href=\"https://github.com/huggingface/skills\">https://github.com/huggingface/skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47139902\">https://news.ycombinator.com/item?id=47139902</a></p>\n<p>Points: 169</p>\n<p># Comments: 45</p>",
+    "published": "2026-02-24T17:30:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I'm helping my dog vibe code games",
+    "link": "https://www.calebleak.com/posts/dog-game/",
+    "summary": "<p>Article URL: <a href=\"https://www.calebleak.com/posts/dog-game/\">https://www.calebleak.com/posts/dog-game/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47139675\">https://news.ycombinator.com/item?id=47139675</a></p>\n<p>Points: 909</p>\n<p># Comments: 278</p>",
+    "published": "2026-02-24T17:15:17",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
     "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
     "summary": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.",
-    "published": "2026-02-24T05:00:18",
+    "published": "2026-02-24T17:02:19",
     "source": "NYT > Technology"
   },
   {
-    "title": "Intel XeSS 3: expanded support for Core Ultra/Core Ultra 2 and Arc A, B series",
-    "link": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html",
-    "summary": "<p>Article URL: <a href=\"https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html\">https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47132721\">https://news.ycombinator.com/item?id=47132721</a></p>\n<p>Points: 28</p>\n<p># Comments: 16</p>",
-    "published": "2026-02-24T04:04:19",
+    "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
+    "link": "https://jobs.ashbyhq.com/verge-genomics",
+    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/verge-genomics\">https://jobs.ashbyhq.com/verge-genomics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47139475\">https://news.ycombinator.com/item?id=47139475</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-02-24T17:00:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-    "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-    "summary": "<p>Article URL: <a href=\"https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html\">https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47132388\">https://news.ycombinator.com/item?id=47132388</a></p>\n<p>Points: 243</p>\n<p># Comments: 86</p>",
-    "published": "2026-02-24T03:10:16",
+    "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
+    "link": "https://shouldhavebought.com/",
+    "summary": "<p>Hi HN,<p>A while ago I had a mildly depressing realization.<p>Back in 2010, I had around $60k. Like a \"responsible\" person, I used it as a down payment on an apartment. Recently, out of curiosity, I calculated what would have happened if I had instead put that money into NVIDIA stock.<p>I should probably add some context.<p>For over 10 years I've worked as a developer on trading platforms and financial infrastructure. I made a rule for myself - never trade on the market.<p>In 2015, when Bitcoin traded about 300 usd, my brother and I were talking about whether it was a bubble. He made a bold claim that one day it might reach $100k per coin. I remember thinking it sounded unrealistic - and even if it wasn't, I wasn't going to break my rule.<p>That internal tension - building systems around markets while deliberately staying out of them is probably what made the \"what if?\" question harder to ignore years later.<p>The result was uncomfortable. The opportunity cost came out to tens of millions of dollars.<p>That thought stuck with me longer than it probably should have, so I decided to build a small experiment to make this kind of regret measurable:\n<a href=\"https://shouldhavebought.com\" rel=\"nofollow\">https://shouldhavebought.com</a><p>At its core, the app does one basic thing:\nyou enter an asset, an amount, and two dates, and it gives you a plain numeric result - essentially a receipt for a missed opportunity.<p>I intentionally designed the UI to feel raw and minimal, almost like a late-90s terminal. No charts, no images, no emotional cushioning - just a number staring back at you.<p>What surprised me wasn't the result, but how much modern web infrastructure it took to build something that looks so simple.<p>Although the app is a single page with almost no UI elements, it still required:<p>- Client-side reactivity for a responsive terminal-like experience (Alpine.js)<p>- A traditional backend (Laravel) to validate inputs and aggregate historical market data<p>- Normalizing time-series data across different assets and events (splits, gaps, missing days)<p>- Dynamic OG image generation for social sharing (with color/state reflecting gain vs loss)<p>- A real-time feed showing recent calculations (\"Wall of Pain\"), implemented with WebSockets instead of a hosted service<p>- Caching and performance tuning to keep the experience instant<p>- Dealing with mobile font rendering and layout quirks, despite the \"simple\" UI<p>- Cron and queueing for historical data updates<p>All of that just to show a number.<p>Because markets aren't one-directional, I also added a second mode that I didn't initially plan: \"Bullet Dodged\".\nIf someone almost bought an asset right before a major crash, the terminal flips state and shows how much capital they preserved by doing nothing. In practice, this turned out to be just as emotionally charged as missed gains.<p>Building this made me reflect on how deceptive \"simplicity\" on the web has become. As a manager I know says: \"Just add a button\". But even recreating a deliberately primitive experience today requires understanding frontend reactivity, backend architecture, real-time transport, social metadata, deployment, and performance tradeoffs.<p>I didn't build this as a product so much as an experiment - part personal curiosity, part technical exploration.<p>I'd be very interested to hear how others think about:<p>Where they personally draw the line on stack complexity for small projects?<p>Whether they would have gone fully static + edge functions for something like this?<p>How much infrastructure is \"too much\" for a deliberately minimal interface?<p>And, optionally, what your worst \"should have bought\" moment was?<p>Happy to answer any technical questions or dig into specific implementation details if useful.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47138631\">https://news.ycombinator.com/item?id=47138631</a></p>\n<p>Points: 15</p>\n<p># Comments: 11</p>",
+    "published": "2026-02-24T15:50:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
-    "link": "https://lyra.horse/x86css/",
-    "summary": "<p>Article URL: <a href=\"https://lyra.horse/x86css/\">https://lyra.horse/x86css/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47132102\">https://news.ycombinator.com/item?id=47132102</a></p>\n<p>Points: 118</p>\n<p># Comments: 45</p>",
-    "published": "2026-02-24T02:27:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Iowa farmers are leading the fight for repair",
-    "link": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
-    "summary": "<p>Article URL: <a href=\"https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair\">https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47131506\">https://news.ycombinator.com/item?id=47131506</a></p>\n<p>Points: 122</p>\n<p># Comments: 33</p>",
-    "published": "2026-02-24T01:09:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-    "link": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-    "summary": "<p>Article URL: <a href=\"https://www.guidelabs.ai/post/steerling-8b-base-model-release/\">https://www.guidelabs.ai/post/steerling-8b-base-model-release/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47131225\">https://news.ycombinator.com/item?id=47131225</a></p>\n<p>Points: 154</p>\n<p># Comments: 36</p>",
-    "published": "2026-02-24T00:38:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Shatner is making an album with 35 metal icons",
-    "link": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
-    "summary": "<p>Article URL: <a href=\"https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album\">https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47131173\">https://news.ycombinator.com/item?id=47131173</a></p>\n<p>Points: 181</p>\n<p># Comments: 81</p>",
-    "published": "2026-02-24T00:33:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I Ported Coreboot to the ThinkPad X270",
-    "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-    "summary": "<p>Article URL: <a href=\"https://dork.dev/posts/2026-02-20-ported-coreboot/\">https://dork.dev/posts/2026-02-20-ported-coreboot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47130860\">https://news.ycombinator.com/item?id=47130860</a></p>\n<p>Points: 189</p>\n<p># Comments: 30</p>",
-    "published": "2026-02-23T23:58:45",
-    "source": "Hacker News: Front Page"
+    "title": "Intel Strikes Deal With a Chip Start-Up Its C.E.O. Invested In",
+    "link": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
+    "summary": "A technical partnership embraces SambaNova Systems, which Intel’s chief, Lip-Bu Tan, helps lead as an investor and chairman.",
+    "published": "2026-02-24T11:00:19",
+    "source": "NYT > Technology"
   },
   {
     "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
@@ -84,60 +217,18 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
-    "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/\">https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47129727\">https://news.ycombinator.com/item?id=47129727</a></p>\n<p>Points: 163</p>\n<p># Comments: 85</p>",
-    "published": "2026-02-23T22:11:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-    "link": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-    "summary": "<p>Article URL: <a href=\"https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/\">https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47129361\">https://news.ycombinator.com/item?id=47129361</a></p>\n<p>Points: 358</p>\n<p># Comments: 292</p>",
-    "published": "2026-02-23T21:44:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala",
     "link": "https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html",
     "summary": "The news came tucked into the second page of a recent news release.",
-    "published": "2026-02-23T21:26:34",
+    "published": "2026-02-23T21:26:35",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
-    "link": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform\">https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47128740\">https://news.ycombinator.com/item?id=47128740</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-23T21:00:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
-    "link": "https://github.com/vignesh07/babyshark",
-    "summary": "<p>Hey all, I built babyshark, a terminal UI for PCAPs aimed at people who find Wireshark powerful but overwhelming.<p>The goal is “PCAPs for humans”:\nOverview dashboard answers what’s happening + what to click next<p>Domains view (hostnames first) → select a domain → jump straight to relevant flows\n(works even when DNS is encrypted/cached by using observed IPs from flows)<p>Weird stuff view surfaces common failure/latency signals (retransmits/out-of-order hints, resets, handshake issues, DNS failures when visible)<p>From there you can drill down: Flows → Packets → Explain (plain-English hints) / follow stream<p>Commands:\nOffline: babyshark --pcap capture.pcap<p>Live (requires tshark): babyshark --list-ifaces then babyshark --live en0<p>Repo + v0.1.0 release: <a href=\"https://github.com/vignesh07/babyshark\" rel=\"nofollow\">https://github.com/vignesh07/babyshark</a><p>Would love feedback on UX + what “weird detectors” you’d want next.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47128535\">https://news.ycombinator.com/item?id=47128535</a></p>\n<p>Points: 116</p>\n<p># Comments: 43</p>",
-    "published": "2026-02-23T20:45:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "“Car Wash” test with 53 models",
-    "link": "https://opper.ai/blog/car-wash-test",
-    "summary": "<p>\"I Want to Wash My Car. The Car Wash Is 50 Meters Away. Should I Walk or Drive?\" This question has been making the rounds as a simple AI logic test so I wanted to see how it holds up across a broad set of models. Ran 53 models (leading open-source, open-weight, proprietary) with no system prompt, forced choice between drive and walk, with a reasoning field.<p>On a single run, only 11 out of 53 got it right (42 said walk). But a single run doesn't prove much, so I reran every model 10 times. Same prompt, no cache, clean slate.<p>The results got worse. Of the 11 that passed the single run, only 5 could do it consistently. GPT-5 managed 7/10. GPT-5.1, GPT-5.2, Claude Sonnet 4.5, every Llama and Mistral model scored 0/10 across all 10 runs.<p>People kept saying humans would fail this too, so I got a human baseline through Rapidata (10k people, same forced choice): 71.5% said drive. Most models perform below that.<p>All reasoning traces (ran via Opper, my startup), full model breakdown, human baseline data, and raw JSON files are in the writeup for anyone who wants to dig in or run their own analysis.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47128138\">https://news.ycombinator.com/item?id=47128138</a></p>\n<p>Points: 221</p>\n<p># Comments: 257</p>",
-    "published": "2026-02-23T20:16:08",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
     "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
     "summary": "Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform.",
-    "published": "2026-02-23T20:15:13",
+    "published": "2026-02-23T20:15:14",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "UNIX99, a UNIX-like OS for the TI-99/4A (2025)",
-    "link": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
-    "summary": "<p>Article URL: <a href=\"https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/\">https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47127986\">https://news.ycombinator.com/item?id=47127986</a></p>\n<p>Points: 173</p>\n<p># Comments: 53</p>",
-    "published": "2026-02-23T20:05:15",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation",
@@ -147,52 +238,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Writing code is cheap now",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/\">https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47125374\">https://news.ycombinator.com/item?id=47125374</a></p>\n<p>Points: 169</p>\n<p># Comments: 231</p>",
-    "published": "2026-02-23T17:20:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What it means that Ubuntu is using Rust",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/",
-    "summary": "<p>Article URL: <a href=\"https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/\">https://smallcultfollowing.com/babysteps/blog/2026/02/23/ubuntu-rustnation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47125286\">https://news.ycombinator.com/item?id=47125286</a></p>\n<p>Points: 141</p>\n<p># Comments: 159</p>",
-    "published": "2026-02-23T17:15:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hadrius (YC W23) Is Hiring Designers Who Code",
-    "link": "https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer\">https://www.ycombinator.com/companies/hadrius/jobs/ObynDF9-senior-product-designer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47125026\">https://news.ycombinator.com/item?id=47125026</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-23T17:00:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A simple web we own",
-    "link": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-    "summary": "<p>Article URL: <a href=\"https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html\">https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47124149\">https://news.ycombinator.com/item?id=47124149</a></p>\n<p>Points: 234</p>\n<p># Comments: 155</p>",
-    "published": "2026-02-23T16:01:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Terence Tao, at 8 years old (1984) [pdf]",
-    "link": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
-    "summary": "<p>Article URL: <a href=\"https://gwern.net/doc/iq/high/smpy/1984-clements.pdf\">https://gwern.net/doc/iq/high/smpy/1984-clements.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47123689\">https://news.ycombinator.com/item?id=47123689</a></p>\n<p>Points: 240</p>\n<p># Comments: 100</p>",
-    "published": "2026-02-23T15:36:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
     "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
     "summary": "Tech leaders are beginning to worry about the public’s underwhelming enthusiasm for their plans to remake the world with artificial intelligence. Will that burst the bubble?",
     "published": "2026-02-23T15:00:14",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
-    "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
-    "summary": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots.",
-    "published": "2026-02-23T14:16:29",
     "source": "NYT > Technology"
   },
   {
@@ -277,20 +326,6 @@
     "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
     "summary": "The company said it would encourage companies that operated chargers to install them in neighborhoods where its drivers lived and work.",
     "published": "2026-02-18T12:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Chatbots Are the New Influencers Brands Must Woo",
-    "link": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
-    "summary": "Companies are realizing they can no longer simply promote themselves to potential customers. They have to win over the robots, too.",
-    "published": "2026-02-17T10:02:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "With Niche Tech World References, Vibe Hopes Its Billboards Reach Start-Up Insiders",
-    "link": "https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html",
-    "summary": "Billboards that wouldn’t make sense to people outside the tech industry have become common in the Bay Area. One company took the microtargeting game to another level.",
-    "published": "2026-02-17T10:01:00",
     "source": "NYT > Technology"
   }
 ]
