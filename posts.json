@@ -1,108 +1,164 @@
 [
   {
-    "title": "Switch to Claude without starting over",
-    "link": "https://claude.com/import-memory",
-    "summary": "<p>Article URL: <a href=\"https://claude.com/import-memory\">https://claude.com/import-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47204571\">https://news.ycombinator.com/item?id=47204571</a></p>\n<p>Points: 87</p>\n<p># Comments: 51</p>",
-    "published": "2026-03-01T07:36:52",
+    "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+    "link": "https://e.foundation/e-os/",
+    "summary": "<p>Article URL: <a href=\"https://e.foundation/e-os/\">https://e.foundation/e-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47215489\">https://news.ycombinator.com/item?id=47215489</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-02T09:09:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "10-202: Introduction to Modern AI (CMU)",
-    "link": "https://modernaicourse.org",
-    "summary": "<p>Article URL: <a href=\"https://modernaicourse.org\">https://modernaicourse.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47204559\">https://news.ycombinator.com/item?id=47204559</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
-    "published": "2026-03-01T07:35:03",
+    "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
+    "link": "https://github.com/getomnico/omni",
+    "summary": "<p>Hey HN!<p>Over the past few months, I've been working on building Omni - a workplace search and chat platform that connects to apps like Google Drive/Gmail, Slack, Confluence, etc. Essentially an open-source alternative to Glean, fully self-hosted.<p>I noticed that some orgs find Glean to be expensive and not very extensible. I wanted to build something that small to mid-size teams could run themselves, so I decided to build it all on Postgres (ParadeDB to be precise) and pgvector. No Elasticsearch, or dedicated vector databases. I figured Postgres is more than capable of handling the level of scale required.<p>To bring up Omni on your own infra, all it takes is a single `docker compose up`, and some basic configuration to connect your apps and LLMs.<p>What it does:<p>- Syncs data from all connected apps and builds a BM25 index (ParadeDB) and HNSW vector index (pgvector)\n- Hybrid search combines results from both\n- Chat UI where the LLM has tools to search the index - not just basic RAG\n- Traditional search UI\n- Users bring their own LLM provider (OpenAI/Anthropic/Gemini)\n- Connectors for Google Workspace, Slack, Confluence, Jira, HubSpot, and more\n- Connector SDK to build your own custom connectors<p>Omni is in beta right now, and I'd love your feedback, especially on the following:<p>- Has anyone tried self-hosting workplace search and/or AI tools, and what was your experience like?\n- Any concerns with the Postgres-only approach at larger scales?<p>Happy to answer any questions!<p>The code: <a href=\"https://github.com/getomnico/omni\" rel=\"nofollow\">https://github.com/getomnico/omni</a> (Apache 2.0 licensed)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47215427\">https://news.ycombinator.com/item?id=47215427</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+    "published": "2026-03-02T08:58:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Science of Detecting LLM-Generated Text",
-    "link": "https://dl.acm.org/doi/10.1145/3624725",
-    "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3624725\">https://dl.acm.org/doi/10.1145/3624725</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47202864\">https://news.ycombinator.com/item?id=47202864</a></p>\n<p>Points: 27</p>\n<p># Comments: 9</p>",
-    "published": "2026-03-01T02:09:41",
+    "title": "How to talk to anyone and why you should",
+    "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should\">https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47214864\">https://news.ycombinator.com/item?id=47214864</a></p>\n<p>Points: 23</p>\n<p># Comments: 262</p>",
+    "published": "2026-03-02T07:30:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Samsung Galaxy update removes Android recovery menu tools, including sideloading",
-    "link": "https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/",
-    "summary": "<p>Article URL: <a href=\"https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/\">https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47202808\">https://news.ycombinator.com/item?id=47202808</a></p>\n<p>Points: 116</p>\n<p># Comments: 28</p>",
-    "published": "2026-03-01T01:59:00",
+    "title": "Motorola announces a partnership with GrapheneOS Foundation",
+    "link": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+    "summary": "<p>Article URL: <a href=\"https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/\">https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47214645\">https://news.ycombinator.com/item?id=47214645</a></p>\n<p>Points: 439</p>\n<p># Comments: 134</p>",
+    "published": "2026-03-02T06:48:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Microgpt",
-    "link": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "summary": "<p>Article URL: <a href=\"http://karpathy.github.io/2026/02/12/microgpt/\">http://karpathy.github.io/2026/02/12/microgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47202708\">https://news.ycombinator.com/item?id=47202708</a></p>\n<p>Points: 750</p>\n<p># Comments: 122</p>",
-    "published": "2026-03-01T01:39:26",
+    "title": "An interactive intro to Elliptic Curve Cryptography",
+    "link": "https://growingswe.com/blog/elliptic-curve-cryptography",
+    "summary": "<p>Article URL: <a href=\"https://growingswe.com/blog/elliptic-curve-cryptography\">https://growingswe.com/blog/elliptic-curve-cryptography</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47214367\">https://news.ycombinator.com/item?id=47214367</a></p>\n<p>Points: 21</p>\n<p># Comments: 8</p>",
+    "published": "2026-03-02T05:59:03",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Evolving descriptive text of mental content from human brain activity",
+    "link": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts\">https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47214250\">https://news.ycombinator.com/item?id=47214250</a></p>\n<p>Points: 22</p>\n<p># Comments: 15</p>",
+    "published": "2026-03-02T05:39:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Process-Based Concurrency: Why Beam and OTP Keep Being Right",
+    "link": "https://variantsystems.io/blog/beam-otp-process-concurrency",
+    "summary": "<p>Article URL: <a href=\"https://variantsystems.io/blog/beam-otp-process-concurrency\">https://variantsystems.io/blog/beam-otp-process-concurrency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47214063\">https://news.ycombinator.com/item?id=47214063</a></p>\n<p>Points: 31</p>\n<p># Comments: 20</p>",
+    "published": "2026-03-02T05:01:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Computer-generated dream world: Virtual reality for a 286 processor",
+    "link": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
+    "summary": "<p>Article URL: <a href=\"https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/\">https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47213866\">https://news.ycombinator.com/item?id=47213866</a></p>\n<p>Points: 101</p>\n<p># Comments: 13</p>",
+    "published": "2026-03-02T04:23:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How to record and retrieve anything you've ever had to look up twice",
+    "link": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+    "summary": "<p>Article URL: <a href=\"https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase\">https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47213819\">https://news.ycombinator.com/item?id=47213819</a></p>\n<p>Points: 47</p>\n<p># Comments: 20</p>",
+    "published": "2026-03-02T04:15:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Everett shuts down Flock camera network after judge rules footage public record",
+    "link": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
+    "summary": "<p>Article URL: <a href=\"https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae\">https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47213764\">https://news.ycombinator.com/item?id=47213764</a></p>\n<p>Points: 234</p>\n<p># Comments: 51</p>",
+    "published": "2026-03-02T04:06:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+    "link": "https://github.com/kossisoroyce/timber",
+    "summary": "<p>Article URL: <a href=\"https://github.com/kossisoroyce/timber\">https://github.com/kossisoroyce/timber</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47212576\">https://news.ycombinator.com/item?id=47212576</a></p>\n<p>Points: 126</p>\n<p># Comments: 25</p>",
+    "published": "2026-03-02T00:57:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "If AI writes code, should the session be part of the commit?",
+    "link": "https://github.com/mandel-macaque/memento",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mandel-macaque/memento\">https://github.com/mandel-macaque/memento</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47212355\">https://news.ycombinator.com/item?id=47212355</a></p>\n<p>Points: 235</p>\n<p># Comments: 230</p>",
+    "published": "2026-03-02T00:27:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
+    "link": "https://github.com/AlexsJones/llmfit",
+    "summary": "<p>Article URL: <a href=\"https://github.com/AlexsJones/llmfit\">https://github.com/AlexsJones/llmfit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47211830\">https://news.ycombinator.com/item?id=47211830</a></p>\n<p>Points: 141</p>\n<p># Comments: 32</p>",
+    "published": "2026-03-01T23:15:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Little Free Library",
+    "link": "https://littlefreelibrary.org/",
+    "summary": "<p>Article URL: <a href=\"https://littlefreelibrary.org/\">https://littlefreelibrary.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47211280\">https://news.ycombinator.com/item?id=47211280</a></p>\n<p>Points: 119</p>\n<p># Comments: 64</p>",
+    "published": "2026-03-01T22:18:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "WebMCP is available for early preview",
+    "link": "https://developer.chrome.com/blog/webmcp-epp",
+    "summary": "<p>Article URL: <a href=\"https://developer.chrome.com/blog/webmcp-epp\">https://developer.chrome.com/blog/webmcp-epp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47211249\">https://news.ycombinator.com/item?id=47211249</a></p>\n<p>Points: 283</p>\n<p># Comments: 158</p>",
+    "published": "2026-03-01T22:13:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
+    "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+    "summary": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal.",
+    "published": "2026-03-01T20:47:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why does C have the best file API",
+    "link": "https://maurycyz.com/misc/c_files/",
+    "summary": "<p>Article URL: <a href=\"https://maurycyz.com/misc/c_files/\">https://maurycyz.com/misc/c_files/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47209788\">https://news.ycombinator.com/item?id=47209788</a></p>\n<p>Points: 112</p>\n<p># Comments: 85</p>",
+    "published": "2026-03-01T19:25:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When does MCP make sense vs CLI?",
+    "link": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+    "summary": "<p>Article URL: <a href=\"https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html\">https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47208398\">https://news.ycombinator.com/item?id=47208398</a></p>\n<p>Points: 376</p>\n<p># Comments: 243</p>",
+    "published": "2026-03-01T16:54:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why XML tags are so fundamental to Claude",
+    "link": "https://glthr.com/XML-fundamental-to-Claude",
+    "summary": "<p>Article URL: <a href=\"https://glthr.com/XML-fundamental-to-Claude\">https://glthr.com/XML-fundamental-to-Claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47207236\">https://news.ycombinator.com/item?id=47207236</a></p>\n<p>Points: 202</p>\n<p># Comments: 139</p>",
+    "published": "2026-03-01T14:52:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ape Coding [fiction]",
+    "link": "https://rsaksida.com/blog/ape-coding/",
+    "summary": "<p>Article URL: <a href=\"https://rsaksida.com/blog/ape-coding/\">https://rsaksida.com/blog/ape-coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47206798\">https://news.ycombinator.com/item?id=47206798</a></p>\n<p>Points: 177</p>\n<p># Comments: 118</p>",
+    "published": "2026-03-01T14:07:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ghostty – Terminal Emulator",
+    "link": "https://ghostty.org/docs",
+    "summary": "<p>Article URL: <a href=\"https://ghostty.org/docs\">https://ghostty.org/docs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47206009\">https://news.ycombinator.com/item?id=47206009</a></p>\n<p>Points: 733</p>\n<p># Comments: 312</p>",
+    "published": "2026-03-01T12:13:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
+    "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
+    "summary": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
+    "published": "2026-03-01T10:01:10",
+    "source": "NYT > Technology"
   },
   {
     "title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
     "link": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
     "summary": "It’s been a crazy 48 hours in the A.I. industry.",
-    "published": "2026-03-01T00:18:15",
+    "published": "2026-03-01T00:18:16",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-    "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
-    "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/fullHtml/10.1145/238386.238611\">https://dl.acm.org/doi/fullHtml/10.1145/238386.238611</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47200904\">https://news.ycombinator.com/item?id=47200904</a></p>\n<p>Points: 257</p>\n<p># Comments: 160</p>",
-    "published": "2026-02-28T22:19:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",
-    "link": "https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
-    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed\">https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47200879\">https://news.ycombinator.com/item?id=47200879</a></p>\n<p>Points: 233</p>\n<p># Comments: 305</p>",
-    "published": "2026-02-28T22:16:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We do not think Anthropic should be designated as a supply chain risk",
-    "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/OpenAI/status/2027846016423321831\">https://twitter.com/OpenAI/status/2027846016423321831</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47200420\">https://news.ycombinator.com/item?id=47200420</a></p>\n<p>Points: 525</p>\n<p># Comments: 247</p>",
-    "published": "2026-02-28T21:24:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Our Agreement with the Department of War",
-    "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/our-agreement-with-the-department-of-war\">https://openai.com/index/our-agreement-with-the-department-of-war</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47199948\">https://news.ycombinator.com/item?id=47199948</a></p>\n<p>Points: 296</p>\n<p># Comments: 217</p>",
-    "published": "2026-02-28T20:35:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-    "link": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-    "summary": "<p>Article URL: <a href=\"https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance\">https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47199781\">https://news.ycombinator.com/item?id=47199781</a></p>\n<p>Points: 350</p>\n<p># Comments: 201</p>",
-    "published": "2026-02-28T20:20:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Block the “Upgrade to Tahoe” Alerts",
-    "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
-    "summary": "<p>Article URL: <a href=\"https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/\">https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47198977\">https://news.ycombinator.com/item?id=47198977</a></p>\n<p>Points: 226</p>\n<p># Comments: 104</p>",
-    "published": "2026-02-28T19:04:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Verified Spec-Driven Development (VSDD)",
-    "link": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-    "summary": "<p>Article URL: <a href=\"https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00\">https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47197595\">https://news.ycombinator.com/item?id=47197595</a></p>\n<p>Points: 183</p>\n<p># Comments: 98</p>",
-    "published": "2026-02-28T16:58:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The whole thing was a scam",
-    "link": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-    "summary": "<p>Article URL: <a href=\"https://garymarcus.substack.com/p/the-whole-thing-was-scam\">https://garymarcus.substack.com/p/the-whole-thing-was-scam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47197505\">https://news.ycombinator.com/item?id=47197505</a></p>\n<p>Points: 794</p>\n<p># Comments: 247</p>",
-    "published": "2026-02-28T16:51:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Obsidian Sync now has a headless client",
-    "link": "https://help.obsidian.md/sync/headless",
-    "summary": "<p>Article URL: <a href=\"https://help.obsidian.md/sync/headless\">https://help.obsidian.md/sync/headless</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47197267\">https://news.ycombinator.com/item?id=47197267</a></p>\n<p>Points: 473</p>\n<p># Comments: 161</p>",
-    "published": "2026-02-28T16:31:53",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
@@ -110,27 +166,6 @@
     "summary": "The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.",
     "published": "2026-02-28T15:53:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Addressing Antigravity Bans and Reinstating Access",
-    "link": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-    "summary": "<p>Article URL: <a href=\"https://github.com/google-gemini/gemini-cli/discussions/20632\">https://github.com/google-gemini/gemini-cli/discussions/20632</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47195371\">https://news.ycombinator.com/item?id=47195371</a></p>\n<p>Points: 234</p>\n<p># Comments: 192</p>",
-    "published": "2026-02-28T13:50:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-    "link": "https://nowigetit.us",
-    "summary": "<p>Understanding scientific articles can be tough, even in your own field. Trying to comprehend articles from others? Good luck.<p>Enter, Now I Get It!<p>I made this app for curious people. Simply upload an article and after a few minutes you'll have an interactive web page showcasing the highlights. Generated pages are stored in the cloud and can be viewed from a gallery.<p>Now I Get It! uses the best LLMs out there, which means the app will improve as AI improves.<p>Free for now - it's capped at 20 articles per day so I don't burn cash.<p>A few things I (and maybe you will) find interesting:<p>* This is a pure convenience app. I could just as well use a saved prompt in Claude, but sometimes it's nice to have a niche-focused app. It's just cognitively easier, IMO.<p>* The app was built for myself and colleagues in various scientific fields. It can take an hour or more to read a detailed paper so this is like an on-ramp.<p>* The app is a place for me to experiment with using LLMs to translate scientific articles into software. The space is pregnant with possibilities.<p>* Everything in the app is the result of agentic engineering, e.g. plans, specs, tasks, execution loops. I swear by Beads (<a href=\"https://github.com/steveyegge/beads\" rel=\"nofollow\">https://github.com/steveyegge/beads</a>) by Yegge and also make heavy use of Beads Viewer (<a href=\"https://news.ycombinator.com/item?id=46314423\">https://news.ycombinator.com/item?id=46314423</a>) and Destructive Command Guard (<a href=\"https://news.ycombinator.com/item?id=46835674\">https://news.ycombinator.com/item?id=46835674</a>) by Jeffrey Emanuel.<p>* I'm an AWS fan and have been impressed by Opus' ability to write good CFN. It still needs a bunch of guidance around distributed architecture but way better than last year.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47195123\">https://news.ycombinator.com/item?id=47195123</a></p>\n<p>Points: 234</p>\n<p># Comments: 106</p>",
-    "published": "2026-02-28T13:29:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
-    "link": "https://mksg.lu/blog/context-mode",
-    "summary": "<p>Article URL: <a href=\"https://mksg.lu/blog/context-mode\">https://mksg.lu/blog/context-mode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47193064\">https://news.ycombinator.com/item?id=47193064</a></p>\n<p>Points: 372</p>\n<p># Comments: 79</p>",
-    "published": "2026-02-28T10:01:20",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
@@ -166,27 +201,6 @@
     "summary": "The Pentagon’s contract dispute with Anthropic is part of a wider clash about the use of artificial intelligence for national security and who decides on any safeguards.",
     "published": "2026-02-27T21:06:42",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae\">https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47183907\">https://news.ycombinator.com/item?id=47183907</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-02-27T18:37:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "747s and coding agents",
-    "link": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-    "summary": "<p>Article URL: <a href=\"https://carlkolon.com/2026/02/27/engineering-747-coding-agents/\">https://carlkolon.com/2026/02/27/engineering-747-coding-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47182986\">https://news.ycombinator.com/item?id=47182986</a></p>\n<p>Points: 152</p>\n<p># Comments: 71</p>",
-    "published": "2026-02-27T17:22:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An ode to houseplant programming (2025)",
-    "link": "https://hannahilea.com/blog/houseplant-programming/",
-    "summary": "<p>Article URL: <a href=\"https://hannahilea.com/blog/houseplant-programming/\">https://hannahilea.com/blog/houseplant-programming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47181542\">https://news.ycombinator.com/item?id=47181542</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-    "published": "2026-02-27T15:19:10",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
