@@ -1,1 +1,1 @@
-/e/OS is a complete "deGoogled", mobile ecosystem https://e.foundation/e-os/
+Arm's Cortex X925: Reaching Desktop Performance https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop
