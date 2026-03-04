@@ -1,1 +1,1 @@
-Arm's Cortex X925: Reaching Desktop Performance https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop
+RFC 9849. TLS Encrypted Client Hello https://www.rfc-editor.org/rfc/rfc9849.html
