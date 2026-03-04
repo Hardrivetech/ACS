@@ -1,107 +1,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-03-03</lastmod>
+    <lastmod>2026-03-04</lastmod>
   </url>
   <url>
-    <loc>https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop</loc>
-    <lastmod>2026-03-03T07:34:47</lastmod>
+    <loc>https://www.rfc-editor.org/rfc/rfc9849.html</loc>
+    <lastmod>2026-03-04T07:25:24</lastmod>
   </url>
   <url>
-    <loc>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</loc>
-    <lastmod>2026-03-03T07:06:22</lastmod>
+    <loc>https://github.com/vladich/pg_jitter</loc>
+    <lastmod>2026-03-04T06:17:10</lastmod>
   </url>
   <url>
-    <loc>https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies</loc>
-    <lastmod>2026-03-03T05:51:02</lastmod>
+    <loc>https://simonwillison.net/guides/agentic-engineering-patterns/</loc>
+    <lastmod>2026-03-04T05:00:37</lastmod>
   </url>
   <url>
-    <loc>https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/</loc>
-    <lastmod>2026-03-03T05:18:24</lastmod>
+    <loc>https://github.com/robertcprice/nCPU</loc>
+    <lastmod>2026-03-04T04:30:32</lastmod>
+  </url>
+  <url>
+    <loc>https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/</loc>
+    <lastmod>2026-03-04T04:25:20</lastmod>
+  </url>
+  <url>
+    <loc>https://runxiyu.org/comp/ab1043/</loc>
+    <lastmod>2026-03-04T03:36:18</lastmod>
+  </url>
+  <url>
+    <loc>https://arxiv.org/abs/2603.03251</loc>
+    <lastmod>2026-03-04T03:24:20</lastmod>
+  </url>
+  <url>
+    <loc>https://bjango.com/articles/macexternaldisplays2/</loc>
+    <lastmod>2026-03-04T02:43:05</lastmod>
+  </url>
+  <url>
+    <loc>https://numberresearch.xyz/</loc>
+    <lastmod>2026-03-04T02:34:06</lastmod>
+  </url>
+  <url>
+    <loc>https://develop--gpvm-website.netlify.app/resources/</loc>
+    <lastmod>2026-03-04T02:23:01</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Ataraxy-Labs/weave</loc>
+    <lastmod>2026-03-04T01:52:21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/cly2m5e5ke4o</loc>
+    <lastmod>2026-03-04T01:31:05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now</loc>
+    <lastmod>2026-03-04T01:27:06</lastmod>
+  </url>
+  <url>
+    <loc>https://grapheneos.social/@GrapheneOS/116160393783585567</loc>
+    <lastmod>2026-03-04T00:58:31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html</loc>
+    <lastmod>2026-03-03T23:38:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/</loc>
+    <lastmod>2026-03-03T23:38:21</lastmod>
+  </url>
+  <url>
+    <loc>https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update</loc>
+    <lastmod>2026-03-03T21:10:27</lastmod>
+  </url>
+  <url>
+    <loc>https://jakelazaroff.com/words/an-interactive-intro-to-crdts/</loc>
+    <lastmod>2026-03-03T19:22:32</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/gpt-5-3-instant/</loc>
+    <lastmod>2026-03-03T17:57:33</lastmod>
+  </url>
+  <url>
+    <loc>https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html</loc>
+    <lastmod>2026-03-03T16:34:53</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html</loc>
+    <lastmod>2026-03-03T15:56:55</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=47232903</loc>
+    <lastmod>2026-03-03T14:30:58</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html</loc>
     <lastmod>2026-03-03T03:57:04</lastmod>
   </url>
   <url>
-    <loc>https://status.claude.com/incidents/yf48hzysrvl5</loc>
-    <lastmod>2026-03-03T03:31:07</lastmod>
-  </url>
-  <url>
-    <loc>https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</loc>
-    <lastmod>2026-03-03T01:12:30</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html</loc>
     <lastmod>2026-03-02T23:40:11</lastmod>
   </url>
   <url>
-    <loc>https://physics.aps.org/articles/v19/24</loc>
-    <lastmod>2026-03-02T23:22:50</lastmod>
-  </url>
-  <url>
-    <loc>https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf</loc>
-    <lastmod>2026-03-02T22:49:47</lastmod>
-  </url>
-  <url>
-    <loc>https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</loc>
-    <lastmod>2026-03-02T22:32:35</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.sturdystatistics.com/posts/type_hint/</loc>
-    <lastmod>2026-03-02T22:04:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ntik.me/posts/voice-agent</loc>
-    <lastmod>2026-03-02T21:23:40</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html</loc>
-    <lastmod>2026-03-02T21:16:51</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657</loc>
-    <lastmod>2026-03-02T20:30:52</lastmod>
+    <lastmod>2026-03-02T21:16:52</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html</loc>
     <lastmod>2026-03-02T19:16:46</lastmod>
   </url>
   <url>
-    <loc>https://govbase.com</loc>
-    <lastmod>2026-03-02T17:08:53</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/reflex/jobs</loc>
-    <lastmod>2026-03-02T17:01:20</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=47220320</loc>
-    <lastmod>2026-03-02T16:39:21</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html</loc>
     <lastmod>2026-03-02T16:38:12</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=47219668</loc>
-    <lastmod>2026-03-02T16:00:27</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=47219667</loc>
-    <lastmod>2026-03-02T16:00:26</lastmod>
-  </url>
-  <url>
-    <loc>https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02</loc>
-    <lastmod>2026-03-02T14:54:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/</loc>
-    <lastmod>2026-03-02T14:11:23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/</loc>
-    <lastmod>2026-03-02T14:03:00</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html</loc>
@@ -114,10 +122,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html</loc>
     <lastmod>2026-02-28T15:53:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html</loc>
-    <lastmod>2026-02-28T10:00:09</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html</loc>
@@ -210,29 +214,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html</loc>
     <lastmod>2026-02-25T10:00:09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html</loc>
-    <lastmod>2026-02-25T03:08:08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html</loc>
-    <lastmod>2026-02-25T01:00:23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html</loc>
-    <lastmod>2026-02-25T00:01:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html</loc>
-    <lastmod>2026-02-24T19:58:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/24/technology/schoolwork-chatbot-cheating-pew.html</loc>
-    <lastmod>2026-02-24T19:23:10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html</loc>
-    <lastmod>2026-02-24T11:00:19</lastmod>
   </url>
 </urlset>

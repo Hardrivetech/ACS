@@ -1,30 +1,156 @@
 [
   {
-    "title": "Arm's Cortex X925: Reaching Desktop Performance",
-    "link": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop\">https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47229344\">https://news.ycombinator.com/item?id=47229344</a></p>\n<p>Points: 58</p>\n<p># Comments: 6</p>",
-    "published": "2026-03-03T07:34:47",
+    "title": "RFC 9849. TLS Encrypted Client Hello",
+    "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
+    "summary": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc9849.html\">https://www.rfc-editor.org/rfc/rfc9849.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47244291\">https://news.ycombinator.com/item?id=47244291</a></p>\n<p>Points: 47</p>\n<p># Comments: 8</p>",
+    "published": "2026-03-04T07:25:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I built a pint-sized Macintosh",
-    "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
-    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/\">https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47229119\">https://news.ycombinator.com/item?id=47229119</a></p>\n<p>Points: 26</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-03T07:06:22",
+    "title": "Better JIT for Postgres",
+    "link": "https://github.com/vladich/pg_jitter",
+    "summary": "<p>Article URL: <a href=\"https://github.com/vladich/pg_jitter\">https://github.com/vladich/pg_jitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243804\">https://news.ycombinator.com/item?id=47243804</a></p>\n<p>Points: 44</p>\n<p># Comments: 8</p>",
+    "published": "2026-03-04T06:17:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Buckle Up for Bumpier Skies",
-    "link": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
-    "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies\">https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47228639\">https://news.ycombinator.com/item?id=47228639</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
-    "published": "2026-03-03T05:51:02",
+    "title": "Agentic Engineering Patterns",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/\">https://simonwillison.net/guides/agentic-engineering-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243272\">https://news.ycombinator.com/item?id=47243272</a></p>\n<p>Points: 114</p>\n<p># Comments: 25</p>",
+    "published": "2026-03-04T05:00:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Daily Driving GrapheneOS",
-    "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-    "summary": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/\">https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47228390\">https://news.ycombinator.com/item?id=47228390</a></p>\n<p>Points: 95</p>\n<p># Comments: 88</p>",
-    "published": "2026-03-03T05:18:24",
+    "title": "A CPU that runs entirely on GPU",
+    "link": "https://github.com/robertcprice/nCPU",
+    "summary": "<p>Article URL: <a href=\"https://github.com/robertcprice/nCPU\">https://github.com/robertcprice/nCPU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243069\">https://news.ycombinator.com/item?id=47243069</a></p>\n<p>Points: 84</p>\n<p># Comments: 24</p>",
+    "published": "2026-03-04T04:30:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Indefinite Book Club Hiatus",
+    "link": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
+    "summary": "<p>Article URL: <a href=\"https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/\">https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243036\">https://news.ycombinator.com/item?id=47243036</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+    "published": "2026-03-04T04:25:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "California's Digital Age Assurance Act, and FOSS",
+    "link": "https://runxiyu.org/comp/ab1043/",
+    "summary": "<p>Article URL: <a href=\"https://runxiyu.org/comp/ab1043/\">https://runxiyu.org/comp/ab1043/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242725\">https://news.ycombinator.com/item?id=47242725</a></p>\n<p>Points: 96</p>\n<p># Comments: 73</p>",
+    "published": "2026-03-04T03:36:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Speculative Speculative Decoding (SSD)",
+    "link": "https://arxiv.org/abs/2603.03251",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.03251\">https://arxiv.org/abs/2603.03251</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242637\">https://news.ycombinator.com/item?id=47242637</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
+    "published": "2026-03-04T03:24:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mac external displays for designers and developers, part 2 (2022)",
+    "link": "https://bjango.com/articles/macexternaldisplays2/",
+    "summary": "<p>Article URL: <a href=\"https://bjango.com/articles/macexternaldisplays2/\">https://bjango.com/articles/macexternaldisplays2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242342\">https://news.ycombinator.com/item?id=47242342</a></p>\n<p>Points: 44</p>\n<p># Comments: 27</p>",
+    "published": "2026-03-04T02:43:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Number Research Inc",
+    "link": "https://numberresearch.xyz/",
+    "summary": "<p>Article URL: <a href=\"https://numberresearch.xyz/\">https://numberresearch.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242277\">https://news.ycombinator.com/item?id=47242277</a></p>\n<p>Points: 31</p>\n<p># Comments: 16</p>",
+    "published": "2026-03-04T02:34:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Graphics Programming Resources",
+    "link": "https://develop--gpvm-website.netlify.app/resources/",
+    "summary": "<p>Article URL: <a href=\"https://develop--gpvm-website.netlify.app/resources/\">https://develop--gpvm-website.netlify.app/resources/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242193\">https://news.ycombinator.com/item?id=47242193</a></p>\n<p>Points: 87</p>\n<p># Comments: 10</p>",
+    "published": "2026-03-04T02:23:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Weave – A language aware merge algorithm based on entities",
+    "link": "https://github.com/Ataraxy-Labs/weave",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Ataraxy-Labs/weave\">https://github.com/Ataraxy-Labs/weave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241976\">https://news.ycombinator.com/item?id=47241976</a></p>\n<p>Points: 121</p>\n<p># Comments: 73</p>",
+    "published": "2026-03-04T01:52:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+    "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cly2m5e5ke4o\">https://www.bbc.com/news/articles/cly2m5e5ke4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241817\">https://news.ycombinator.com/item?id=47241817</a></p>\n<p>Points: 229</p>\n<p># Comments: 162</p>",
+    "published": "2026-03-04T01:31:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The largest acidic geyser has been putting on quite a show",
+    "link": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
+    "summary": "<p>Article URL: <a href=\"https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now\">https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241788\">https://news.ycombinator.com/item?id=47241788</a></p>\n<p>Points: 49</p>\n<p># Comments: 1</p>",
+    "published": "2026-03-04T01:27:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+    "summary": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/116160393783585567\">https://grapheneos.social/@GrapheneOS/116160393783585567</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241551\">https://news.ycombinator.com/item?id=47241551</a></p>\n<p>Points: 623</p>\n<p># Comments: 176</p>",
+    "published": "2026-03-04T00:58:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
+    "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
+    "summary": "General Motors, Ford and other established automakers risk becoming relics if they don’t catch up to Chinese carmakers and technology companies in electric vehicles and self-driving cars.",
+    "published": "2026-03-03T23:38:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "My spicy take on vibe coding for PMs",
+    "link": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
+    "summary": "<p>Article URL: <a href=\"https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/\">https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47240736\">https://news.ycombinator.com/item?id=47240736</a></p>\n<p>Points: 91</p>\n<p># Comments: 88</p>",
+    "published": "2026-03-03T23:38:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Voxile: A ray-traced game made in its own engine and programming language",
+    "link": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
+    "summary": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update\">https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47239042\">https://news.ycombinator.com/item?id=47239042</a></p>\n<p>Points: 190</p>\n<p># Comments: 50</p>",
+    "published": "2026-03-03T21:10:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An Interactive Intro to CRDTs (2023)",
+    "link": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
+    "summary": "<p>Article URL: <a href=\"https://jakelazaroff.com/words/an-interactive-intro-to-crdts/\">https://jakelazaroff.com/words/an-interactive-intro-to-crdts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47237460\">https://news.ycombinator.com/item?id=47237460</a></p>\n<p>Points: 142</p>\n<p># Comments: 23</p>",
+    "published": "2026-03-03T19:22:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT‑5.3 Instant",
+    "link": "https://openai.com/index/gpt-5-3-instant/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-5-3-instant/\">https://openai.com/index/gpt-5-3-instant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47236169\">https://news.ycombinator.com/item?id=47236169</a></p>\n<p>Points: 347</p>\n<p># Comments: 271</p>",
+    "published": "2026-03-03T17:57:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When AI writes the software, who verifies it?",
+    "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+    "summary": "<p>Article URL: <a href=\"https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html\">https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47234917\">https://news.ycombinator.com/item?id=47234917</a></p>\n<p>Points: 226</p>\n<p># Comments: 225</p>",
+    "published": "2026-03-03T16:34:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
+    "link": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
+    "summary": "The tech-focused leaders of the British brand Apiar aim to stretch beyond watchmaking’s traditional material and manufacturing constraints.",
+    "published": "2026-03-03T15:56:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+    "link": "https://news.ycombinator.com/item?id=47232903",
+    "summary": "<p>Hey HN - we're Tarush, Sidhant, and Shashij from Cekura (<a href=\"https://www.cekura.ai\">https://www.cekura.ai</a>). We've been running voice agent simulation for 1.5 years, and recently extended the same infrastructure to chat. Teams use Cekura to simulate real user conversations, stress-test prompts and LLM behavior, and catch regressions before they hit production.<p>The core problem: you can't manually QA an AI agent. When you ship a new prompt, swap a model, or add a tool, how do you know the agent still behaves correctly across the thousands of ways users might interact with it?\nMost teams resort to manual spot-checking (doesn't scale), waiting for users to complain (too late), or brittle scripted tests.<p>Our answer is simulation: synthetic users interact with your agent the way real users do, and LLM-based judges evaluate whether it responded correctly - across the full conversational arc, not just single turns.\nThree things make this actually work:\nScenario generation + real conversation import - Our scenario generation agent bootstraps your test suite from a description of your agent. But real users find paths no generator anticipates, so we also ingest your production conversations and automatically extract test cases from them. Your coverage evolves as your users do.<p>Mock tool platform - Agents call tools. Running simulations against real APIs is slow and flaky. Our mock tool platform lets you define tool schemas, behavior, and return values so simulations exercise tool selection and decision-making without touching production systems.<p>Deterministic, structured test cases - LLMs are stochastic. A CI test that passes \"most of the time\" is useless. Rather than free-form prompts, our evaluators are defined as structured conditional action trees: explicit conditions that trigger specific responses, with support for fixed messages when word-for-word precision matters. This means the synthetic user behaves consistently across runs - same branching logic, same inputs - so a failure is a real regression, not noise.<p>Cekura also monitors your live agent traffic. The obvious alternative here is a tracing platform like Langfuse or LangSmith - and they're great tools for debugging individual LLM calls. But conversational agents have a different failure mode: the bug isn't in any single turn, it's in how turns relate to each other. Take a verification flow that requires name, date of birth, and phone number before proceeding - if the agent skips asking for DOB and moves on anyway, every individual turn looks fine in isolation. The failure only becomes visible when you evaluate the full session as a unit. Cekura is built around this from the ground up.\nWhere tracing platforms evaluate turn by turn, Cekura evaluates the full session. Imagine a banking agent where the user fails verification in step 1, but the agent hallucinates and proceeds anyway. A turn-based evaluator sees step 3 (address confirmation) and marks it green - the right question was asked. Cekura's judge sees the full transcript and flags the session as failed because verification never succeeded.<p>Try us out at <a href=\"https://www.cekura.ai\">https://www.cekura.ai</a> - 7-day free trial, no credit card required. Paid plans from $30/month.<p>We also put together a product video if you'd like to see it in action: <a href=\"https://www.youtube.com/watch?v=n8FFKv1-nMw\" rel=\"nofollow\">https://www.youtube.com/watch?v=n8FFKv1-nMw</a>. The first minute dives into quick onboarding - and if you want to jump straight to the results, skip to 8:40.<p>Curious what the HN community is doing - how are you testing behavioral regressions in your agents? What failure modes have hurt you most? Happy to dig in below!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47232903\">https://news.ycombinator.com/item?id=47232903</a></p>\n<p>Points: 83</p>\n<p># Comments: 20</p>",
+    "published": "2026-03-03T14:30:58",
     "source": "Hacker News: Front Page"
   },
   {
@@ -35,20 +161,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Elevated Errors in Claude.ai",
-    "link": "https://status.claude.com/incidents/yf48hzysrvl5",
-    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/yf48hzysrvl5\">https://status.claude.com/incidents/yf48hzysrvl5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47227647\">https://news.ycombinator.com/item?id=47227647</a></p>\n<p>Points: 122</p>\n<p># Comments: 104</p>",
-    "published": "2026-03-03T03:31:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-    "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-    "summary": "<p>Article URL: <a href=\"https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes\">https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47226608\">https://news.ycombinator.com/item?id=47226608</a></p>\n<p>Points: 269</p>\n<p># Comments: 159</p>",
-    "published": "2026-03-03T01:12:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
     "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
     "summary": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons.",
@@ -56,53 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Physicists developing a quantum computer that’s entirely open source",
-    "link": "https://physics.aps.org/articles/v19/24",
-    "summary": "<p>Article URL: <a href=\"https://physics.aps.org/articles/v19/24\">https://physics.aps.org/articles/v19/24</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47225726\">https://news.ycombinator.com/item?id=47225726</a></p>\n<p>Points: 104</p>\n<p># Comments: 22</p>",
-    "published": "2026-03-02T23:22:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Seed of Might Color Correction Process (2023) [pdf]",
-    "link": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-    "summary": "<p>Article URL: <a href=\"https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf\">https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47225318\">https://news.ycombinator.com/item?id=47225318</a></p>\n<p>Points: 88</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-02T22:49:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Meta’s AI smart glasses and data privacy concerns",
-    "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "summary": "<p>Article URL: <a href=\"https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything\">https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47225130\">https://news.ycombinator.com/item?id=47225130</a></p>\n<p>Points: 1063</p>\n<p># Comments: 599</p>",
-    "published": "2026-03-02T22:32:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The 185-Microsecond Type Hint",
-    "link": "https://blog.sturdystatistics.com/posts/type_hint/",
-    "summary": "<p>Article URL: <a href=\"https://blog.sturdystatistics.com/posts/type_hint/\">https://blog.sturdystatistics.com/posts/type_hint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47224832\">https://news.ycombinator.com/item?id=47224832</a></p>\n<p>Points: 67</p>\n<p># Comments: 9</p>",
-    "published": "2026-03-02T22:04:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-    "link": "https://www.ntik.me/posts/voice-agent",
-    "summary": "<p>I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.<p>What moved the needle:<p>Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.<p>The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.<p>STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.<p>TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.<p>Geography matters more than prompts. Colocate everything or you lose before you start.<p>GitHub Repo: \n<a href=\"https://github.com/NickTikhonov/shuo\" rel=\"nofollow\">https://github.com/NickTikhonov/shuo</a><p>Follow whatever I next tinker with: <a href=\"https://x.com/nick_tikhonov\" rel=\"nofollow\">https://x.com/nick_tikhonov</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47224295\">https://news.ycombinator.com/item?id=47224295</a></p>\n<p>Points: 392</p>\n<p># Comments: 118</p>",
-    "published": "2026-03-02T21:23:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
     "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
     "summary": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal.",
-    "published": "2026-03-02T21:16:51",
+    "published": "2026-03-02T21:16:52",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "British Columbia is permanently adopting daylight time",
-    "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-    "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657\">https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47223620\">https://news.ycombinator.com/item?id=47223620</a></p>\n<p>Points: 794</p>\n<p># Comments: 396</p>",
-    "published": "2026-03-02T20:30:52",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
@@ -112,67 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
-    "link": "https://govbase.com",
-    "summary": "<p>Govbase tracks every bill, executive order, and federal regulation from official sources (Congress.gov, Federal Register, White House). An AI pipeline breaks each one down into plain-language summaries and shows who it impacts by demographic group.<p>It also ties each policy directly to bias-rated news coverage and politician social posts on X, Bluesky, and Truth Social. You can follow a single bill from the official text to how media frames it to what your representatives are saying about it.<p>Free on web, iOS, and Android.<p><a href=\"https://govbase.com\" rel=\"nofollow\">https://govbase.com</a><p>I'd love feedback from the community, especially on the data pipeline or what policy areas/features you feel are missing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47220809\">https://news.ycombinator.com/item?id=47220809</a></p>\n<p>Points: 190</p>\n<p># Comments: 76</p>",
-    "published": "2026-03-02T17:08:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reflex (YC W23) Is Hiring Software Engineers – Python",
-    "link": "https://www.ycombinator.com/companies/reflex/jobs",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs\">https://www.ycombinator.com/companies/reflex/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47220666\">https://news.ycombinator.com/item?id=47220666</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-02T17:01:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
-    "link": "https://news.ycombinator.com/item?id=47220320",
-    "summary": "<p>Hi HN! My name is Rohan and, together with Paul, I’m the co-founder of OctaPulse (<a href=\"https://www.tryoctapulse.com/\">https://www.tryoctapulse.com/</a>). We’re building a robotics layer for seafood production, starting with automated fish inspection. We are currently deployed at our first production site with the largest trout producer in North America.<p>You might be wondering how the heck we got into this with no background in aquaculture or the ocean industry. We are both from coastal communities. I am from Goa, India and Paul is from Malta and Puerto Rico. Seafood is deeply tied to both our cultures and communities. We saw firsthand the damage being done to our oceans and how wild fish stocks are being fished to near extinction. We also learned that fish is the main protein source for almost 55% of the world's population. Despite it not being huge consumption in America it is massive globally. And then we found out that America imports 90% of its seafood. What? That felt absurd. That was the initial motivation for starting this company.<p>Paul and I met at an entrepreneurship happy hour at CMU. We met to talk about ocean tech. It went on for three hours. I was drawn to building in the ocean because it is one of the hardest engineering domains out there. Paul had been researching aquaculture for months and kept finding the same thing: a $350B global industry with less data visibility than a warehouse. After that conversation we knew we wanted to work on this together.<p>Hatcheries, the early stage on-land part of production, are full of labor intensive workflows that are perfect candidates for automation. Farmers need to measure their stock for feeding, breeding, and harvest decisions but fish are underwater and get stressed when handled. Most farms still sample manually. They net a few dozen fish, anesthetize them, place them on a table to measure one by one, and extrapolate to populations of hundreds of thousands. It takes about 5 minutes per fish and the data is sparse.<p>When we saw this process we were baffled. There had to be a better way. This was the starting point that really kicked us off.<p>Here is the thing though. Most robots are not built to handle humid and wet environments. Salt water is the enemy of anything mechanical. Corrosion is such a pain to deal with. Don't get me started on underwater computer vision which has to parse through water turbidity and particles. Fish move unpredictably and deform while swimming. Occlusion is constant. Calibration is tricky in uncontrolled setups. Handling live fish with robotics is another challenge that hasn't really been solved before. Fish are slippery, fragile, and stress easily. All of this is coupled with the requirement that all materials must be food safe.<p>On the vision side we are using Luxonis OAK cameras which give us depth plus RGB in a compact form factor. The onboard Myriad X VPU lets us run lightweight inference directly on the camera for things like detection and tracking without needing to send raw frames over USB constantly. For heavier workloads like segmentation and keypoint extraction we bump up to Nvidia Jetsons. We have tested on the Orin Nano and Orin NX depending on power and thermal constraints at different sites.<p>The models themselves are CNN and transformer based architectures. We are running YOLO variants for detection, custom segmentation heads for body outlines, and keypoint models for anatomical landmarks. The tricky part is getting these to run fast enough on edge hardware. We are using a mix of TensorRT, OpenVINO, and ONNX Runtime depending on the deployment target. Quantization has been a whole journey. INT8 quantization on TensorRT gives us the speed we need but you have to be careful about accuracy degradation especially on the segmentation outputs where boundary precision matters. We spent a lot of time building calibration datasets that actually represent the variance we see on farms. Lighting changes throughout the day, water clarity shifts, fish density varies. Your calibration set needs to capture all of that or your quantized model falls apart in production.<p>There is no wifi at most of these farms so we are using Starlink for connectivity in remote or offshore locations. Everything runs locally first and syncs when connection is available. We are not streaming video to the cloud. All inference happens on device.<p>Behind the scenes we have been building our own internal tooling for labeling, task assignment, and model management. Early on we tried existing labeling platforms but they did not fit our workflow. We needed tight integration between labeling, training pipelines, and deployment. So we built our own system where we can assign labeling tasks to annotators, track progress, version datasets, and push models to edge devices with a single command. It is not fancy but it keeps everything under our control and makes iteration fast. When you are trying to close the loop between data collection on farm, labeling, training, quantization, and deployment you cannot afford to have fragmented tooling. We needed one system that handles all of it.<p>On the robotics side we are building custom enclosures around off the shelf components and modifying delta robots with soft robotics grippers for handling. Vacuum and typical gripper actuation will not work in this environment so we are using compliant grippers that can safely handle fish without damaging them. We started with the Delta X S as our test platform and are evaluating whether to move to industrial delta robots or build our own from scratch once we validate the kinematics and payload requirements in wet and humid environments. The end effector design is still evolving. Fish come in different sizes and body shapes depending on species and life stage so we need grippers that can adapt.<p>Right now we are focused on operations outside the water. Hatchery phenotyping, sorting, quality inspection. These are more accessible than full underwater deployment and cheaper to start with. The idea is that if we can combine genetics data, environmental data, and phenotypic imagery we can help farms identify which fish to breed and which to cull. This is where selective breeding starts.<p>Something that surprised us early on: only a tiny fraction of farmed fish species have been through genetic improvement programs. Chickens grow 4x faster than they did in 1950 because of decades of selective breeding. But most farmed fish are essentially wild genetics. The opportunity to improve aquaculture genetics is massive but it is completely bottlenecked on measurement. You cannot improve what you cannot measure, and farms can barely measure anything at scale so far.<p>The industry moves on trust though. We are dealing with live animals and farms are cautious about who they let near their stock. Coming from outside aquaculture, that trust had to be earned. Paul was already a Future Leader with the Coalition for Sustainable Aquaculture but the real turning point was attending World Aquaculture Society, the largest conference in the US. Through a connection of a connection he met the incoming lead geneticist at what became our first customer. That relationship turned into a paid pilot with the largest trout producer in North America.<p>I previously worked at ASML, Nvidia, Tesla, and Toyota. Paul worked at Bloomberg. We met at CMU and immediately knew that we wanted to tackle this problem and put our life's work into this.<p>We would love feedback from any of you who have worked on computer vision in harsh or unpredictable environments, edge deployment on constrained hardware, or gentle and appropriate handling of live animals with robotics. If you are running inference on Jetsons or OAK cameras and have opinions on quantization workflows we would love to hear what has worked for you. If you have aquaculture experience we are curious what problems we should be thinking about that we haven't encountered yet.<p>Dang told us you’re all used to demo videos but unfortunately we can’t share them due to NDAs. But here’s a photo of us building our initial dataset for phenotyping and morphometric analysis: <a href=\"https://drive.google.com/file/d/1z3oSlB8ed9hanrybzP24XTfjDJEobJua/view?usp=sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1z3oSlB8ed9hanrybzP24XTfjDJE...</a>.<p>This is a weird industry to be building in and we are learning something new every week. If you have experience with edge deployment, robotics in wet environments, or aquaculture itself we would love to hear your perspective. And if you just have questions about fish or the tech we are happy to go deep in the comments. Excited to hear what this community thinks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47220320\">https://news.ycombinator.com/item?id=47220320</a></p>\n<p>Points: 99</p>\n<p># Comments: 34</p>",
-    "published": "2026-03-02T16:39:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Reporters Seek Comment. What Happens Next May Surprise You.",
     "link": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
     "summary": "Accurate journalism requires full and fair reporting. It means pushing hard to hear from those you’re writing about.",
     "published": "2026-03-02T16:38:12",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Ask HN: Who is hiring? (March 2026)",
-    "link": "https://news.ycombinator.com/item?id=47219668",
-    "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>,\n<a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>, or this (unofficial) Chrome extension:\n<a href=\"https://chromewebstore.google.com/detail/hn-hiring-pro/mpfaljjblphnlloddaplgicpkinikjlp\" rel=\"nofollow\">https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal...</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=47219667\">https://news.ycombinator.com/item?id=47219667</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47219668\">https://news.ycombinator.com/item?id=47219668</a></p>\n<p>Points: 212</p>\n<p># Comments: 249</p>",
-    "published": "2026-03-02T16:00:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Who wants to be hired? (March 2026)",
-    "link": "https://news.ycombinator.com/item?id=47219667",
-    "summary": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>There's a site for searching these posts at <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47219667\">https://news.ycombinator.com/item?id=47219667</a></p>\n<p>Points: 102</p>\n<p># Comments: 231</p>",
-    "published": "2026-03-02T16:00:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-    "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-    "summary": "<p>Article URL: <a href=\"https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02\">https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47218743\">https://news.ycombinator.com/item?id=47218743</a></p>\n<p>Points: 299</p>\n<p># Comments: 53</p>",
-    "published": "2026-03-02T14:54:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New iPad Air, powered by M4",
-    "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/\">https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47218175\">https://news.ycombinator.com/item?id=47218175</a></p>\n<p>Points: 392</p>\n<p># Comments: 614</p>",
-    "published": "2026-03-02T14:11:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "iPhone 17e",
-    "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
-    "summary": "<p><a href=\"https://www.apple.com/iphone-17e/\" rel=\"nofollow\">https://www.apple.com/iphone-17e/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47218084\">https://news.ycombinator.com/item?id=47218084</a></p>\n<p>Points: 271</p>\n<p># Comments: 392</p>",
-    "published": "2026-03-02T14:03:00",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
@@ -193,13 +207,6 @@
     "link": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
     "summary": "The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.",
     "published": "2026-02-28T15:53:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
-    "link": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
-    "summary": "The tech-focused leaders of the British brand Apiar aim to stretch beyond watchmaking’s traditional material and manufacturing constraints.",
-    "published": "2026-02-28T10:00:09",
     "source": "NYT > Technology"
   },
   {
@@ -361,48 +368,6 @@
     "link": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
     "summary": "Artificial intelligence detectors are increasingly used to check the veracity of content online. We ran more than 1,000 tests and found several strengths and plenty of weaknesses.",
     "published": "2026-02-25T10:00:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-    "summary": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands.",
-    "published": "2026-02-25T03:08:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Senator Blumenthal Opens Inquiry Into Iran Transactions on Binance",
-    "link": "https://www.nytimes.com/2026/02/24/technology/richard-blumenthal-iran-binance-inquiry.html",
-    "summary": "Senator Richard Blumenthal of Connecticut sent a letter to Binance asking about the flow of $1.7 billion from accounts on the crypto exchange to Iranian entities.",
-    "published": "2026-02-25T01:00:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Wayve, an A.I. Driverless Car Start-Up in Europe, Raises $1.2 Billion",
-    "link": "https://www.nytimes.com/2026/02/24/technology/wayve-ai-driverless-car-start-up.html",
-    "summary": "The London-based company is building a system that uses artificial intelligence to power autonomous vehicles.",
-    "published": "2026-02-25T00:01:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
-    "link": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html",
-    "summary": "For more than two decades, the convicted sex offender developed a network at the tech giant, making him privy to succession discussions and other business.",
-    "published": "2026-02-24T19:58:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "More Than Half of Teens Use Chatbots for Schoolwork, Survey Finds",
-    "link": "https://www.nytimes.com/2026/02/24/technology/schoolwork-chatbot-cheating-pew.html",
-    "summary": "A new study from the Pew Research Center finds teenagers think chatbot-assisted cheating has become “a regular feature of student life.”",
-    "published": "2026-02-24T19:23:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Intel Strikes Deal With a Chip Start-Up Its C.E.O. Invested In",
-    "link": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
-    "summary": "A technical partnership embraces SambaNova Systems, which Intel’s chief, Lip-Bu Tan, helps lead as an investor and chairman.",
-    "published": "2026-02-24T11:00:19",
     "source": "NYT > Technology"
   }
 ]
