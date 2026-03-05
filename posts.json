@@ -1,101 +1,171 @@
 [
   {
-    "title": "RFC 9849. TLS Encrypted Client Hello",
-    "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
-    "summary": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc9849.html\">https://www.rfc-editor.org/rfc/rfc9849.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47244291\">https://news.ycombinator.com/item?id=47244291</a></p>\n<p>Points: 47</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-04T07:25:24",
+    "title": "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
+    "link": "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign",
+    "summary": "<p>Article URL: <a href=\"https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign\">https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47259303\">https://news.ycombinator.com/item?id=47259303</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-05T08:55:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Better JIT for Postgres",
-    "link": "https://github.com/vladich/pg_jitter",
-    "summary": "<p>Article URL: <a href=\"https://github.com/vladich/pg_jitter\">https://github.com/vladich/pg_jitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243804\">https://news.ycombinator.com/item?id=47243804</a></p>\n<p>Points: 44</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-04T06:17:10",
+    "title": "No right to relicense this project",
+    "link": "https://github.com/chardet/chardet/issues/327",
+    "summary": "<p>Article URL: <a href=\"https://github.com/chardet/chardet/issues/327\">https://github.com/chardet/chardet/issues/327</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47259177\">https://news.ycombinator.com/item?id=47259177</a></p>\n<p>Points: 56</p>\n<p># Comments: 13</p>",
+    "published": "2026-03-05T08:37:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Agentic Engineering Patterns",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/\">https://simonwillison.net/guides/agentic-engineering-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243272\">https://news.ycombinator.com/item?id=47243272</a></p>\n<p>Points: 114</p>\n<p># Comments: 25</p>",
-    "published": "2026-03-04T05:00:37",
+    "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+    "link": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+    "summary": "<p>Article URL: <a href=\"https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/\">https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258885\">https://news.ycombinator.com/item?id=47258885</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
+    "published": "2026-03-05T07:57:25",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A CPU that runs entirely on GPU",
-    "link": "https://github.com/robertcprice/nCPU",
-    "summary": "<p>Article URL: <a href=\"https://github.com/robertcprice/nCPU\">https://github.com/robertcprice/nCPU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243069\">https://news.ycombinator.com/item?id=47243069</a></p>\n<p>Points: 84</p>\n<p># Comments: 24</p>",
-    "published": "2026-03-04T04:30:32",
+    "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+    "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+    "summary": "<p>Article URL: <a href=\"https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23\">https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258801\">https://news.ycombinator.com/item?id=47258801</a></p>\n<p>Points: 59</p>\n<p># Comments: 23</p>",
+    "published": "2026-03-05T07:43:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Indefinite Book Club Hiatus",
-    "link": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/",
-    "summary": "<p>Article URL: <a href=\"https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/\">https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47243036\">https://news.ycombinator.com/item?id=47243036</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
-    "published": "2026-03-04T04:25:20",
+    "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+    "link": "https://netbsd-jails.petermann-digital.de/",
+    "summary": "<p>Article URL: <a href=\"https://netbsd-jails.petermann-digital.de/\">https://netbsd-jails.petermann-digital.de/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258641\">https://news.ycombinator.com/item?id=47258641</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
+    "published": "2026-03-05T07:23:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "California's Digital Age Assurance Act, and FOSS",
-    "link": "https://runxiyu.org/comp/ab1043/",
-    "summary": "<p>Article URL: <a href=\"https://runxiyu.org/comp/ab1043/\">https://runxiyu.org/comp/ab1043/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242725\">https://news.ycombinator.com/item?id=47242725</a></p>\n<p>Points: 96</p>\n<p># Comments: 73</p>",
-    "published": "2026-03-04T03:36:18",
+    "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+    "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+    "summary": "<p>Article URL: <a href=\"https://tim.blog/2026/03/04/the-self-help-trap/\">https://tim.blog/2026/03/04/the-self-help-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258455\">https://news.ycombinator.com/item?id=47258455</a></p>\n<p>Points: 42</p>\n<p># Comments: 33</p>",
+    "published": "2026-03-05T06:59:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Speculative Speculative Decoding (SSD)",
-    "link": "https://arxiv.org/abs/2603.03251",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.03251\">https://arxiv.org/abs/2603.03251</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242637\">https://news.ycombinator.com/item?id=47242637</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
-    "published": "2026-03-04T03:24:20",
+    "title": "Relax NG is a schema language for XML (2014)",
+    "link": "https://relaxng.org/",
+    "summary": "<p>Article URL: <a href=\"https://relaxng.org/\">https://relaxng.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258076\">https://news.ycombinator.com/item?id=47258076</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
+    "published": "2026-03-05T06:01:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Mac external displays for designers and developers, part 2 (2022)",
-    "link": "https://bjango.com/articles/macexternaldisplays2/",
-    "summary": "<p>Article URL: <a href=\"https://bjango.com/articles/macexternaldisplays2/\">https://bjango.com/articles/macexternaldisplays2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242342\">https://news.ycombinator.com/item?id=47242342</a></p>\n<p>Points: 44</p>\n<p># Comments: 27</p>",
-    "published": "2026-03-04T02:43:05",
+    "title": "Relicensing with AI-Assisted Rewrite",
+    "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+    "summary": "<p>Article URL: <a href=\"https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/\">https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257803\">https://news.ycombinator.com/item?id=47257803</a></p>\n<p>Points: 87</p>\n<p># Comments: 68</p>",
+    "published": "2026-03-05T05:07:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Number Research Inc",
-    "link": "https://numberresearch.xyz/",
-    "summary": "<p>Article URL: <a href=\"https://numberresearch.xyz/\">https://numberresearch.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242277\">https://news.ycombinator.com/item?id=47242277</a></p>\n<p>Points: 31</p>\n<p># Comments: 16</p>",
-    "published": "2026-03-04T02:34:06",
+    "title": "You Just Reveived",
+    "link": "https://dylan.gr/1772520728",
+    "summary": "<p>Article URL: <a href=\"https://dylan.gr/1772520728\">https://dylan.gr/1772520728</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257637\">https://news.ycombinator.com/item?id=47257637</a></p>\n<p>Points: 157</p>\n<p># Comments: 40</p>",
+    "published": "2026-03-05T04:37:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Graphics Programming Resources",
-    "link": "https://develop--gpvm-website.netlify.app/resources/",
-    "summary": "<p>Article URL: <a href=\"https://develop--gpvm-website.netlify.app/resources/\">https://develop--gpvm-website.netlify.app/resources/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47242193\">https://news.ycombinator.com/item?id=47242193</a></p>\n<p>Points: 87</p>\n<p># Comments: 10</p>",
-    "published": "2026-03-04T02:23:01",
+    "title": "The L in \"LLM\" Stands for Lying",
+    "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+    "summary": "<p>Article URL: <a href=\"https://acko.net/blog/the-l-in-llm-stands-for-lying/\">https://acko.net/blog/the-l-in-llm-stands-for-lying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257394\">https://news.ycombinator.com/item?id=47257394</a></p>\n<p>Points: 114</p>\n<p># Comments: 51</p>",
+    "published": "2026-03-05T04:02:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Weave – A language aware merge algorithm based on entities",
-    "link": "https://github.com/Ataraxy-Labs/weave",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Ataraxy-Labs/weave\">https://github.com/Ataraxy-Labs/weave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241976\">https://news.ycombinator.com/item?id=47241976</a></p>\n<p>Points: 121</p>\n<p># Comments: 73</p>",
-    "published": "2026-03-04T01:52:21",
+    "title": "Show HN: Poppy – A simple app to stay intentional with relationships",
+    "link": "https://poppy-connection-keeper.netlify.app/",
+    "summary": "<p>I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257352\">https://news.ycombinator.com/item?id=47257352</a></p>\n<p>Points: 83</p>\n<p># Comments: 23</p>",
+    "published": "2026-03-05T03:56:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
-    "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cly2m5e5ke4o\">https://www.bbc.com/news/articles/cly2m5e5ke4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241817\">https://news.ycombinator.com/item?id=47241817</a></p>\n<p>Points: 229</p>\n<p># Comments: 162</p>",
-    "published": "2026-03-04T01:31:05",
+    "title": "What Python’s asyncio primitives get wrong about shared state",
+    "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+    "summary": "<p>Article URL: <a href=\"https://www.inngest.com/blog/no-lost-updates-python-asyncio\">https://www.inngest.com/blog/no-lost-updates-python-asyncio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47256923\">https://news.ycombinator.com/item?id=47256923</a></p>\n<p>Points: 53</p>\n<p># Comments: 31</p>",
+    "published": "2026-03-05T02:55:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The largest acidic geyser has been putting on quite a show",
-    "link": "https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now",
-    "summary": "<p>Article URL: <a href=\"https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now\">https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241788\">https://news.ycombinator.com/item?id=47241788</a></p>\n<p>Points: 49</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-04T01:27:06",
+    "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
+    "link": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
+    "summary": "Mr. Musk said he did not expect his posts in the lead-up to his 2022 acquisition of the social media site, now X, to affect the company’s share price.",
+    "published": "2026-03-05T02:40:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
+    "link": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house\">https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47256545\">https://news.ycombinator.com/item?id=47256545</a></p>\n<p>Points: 67</p>\n<p># Comments: 51</p>",
+    "published": "2026-03-05T02:00:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-    "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-    "summary": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/116160393783585567\">https://grapheneos.social/@GrapheneOS/116160393783585567</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47241551\">https://news.ycombinator.com/item?id=47241551</a></p>\n<p>Points: 623</p>\n<p># Comments: 176</p>",
-    "published": "2026-03-04T00:58:31",
+    "title": "Chaos and Dystopian news for the dead internet survivors",
+    "link": "https://www.fubardaily.com",
+    "summary": "<p>Article URL: <a href=\"https://www.fubardaily.com\">https://www.fubardaily.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47256478\">https://news.ycombinator.com/item?id=47256478</a></p>\n<p>Points: 95</p>\n<p># Comments: 35</p>",
+    "published": "2026-03-05T01:50:51",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google Workspace CLI",
+    "link": "https://github.com/googleworkspace/cli",
+    "summary": "<p>Article URL: <a href=\"https://github.com/googleworkspace/cli\">https://github.com/googleworkspace/cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47255881\">https://news.ycombinator.com/item?id=47255881</a></p>\n<p>Points: 558</p>\n<p># Comments: 192</p>",
+    "published": "2026-03-05T00:22:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+    "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/\">https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47255662\">https://news.ycombinator.com/item?id=47255662</a></p>\n<p>Points: 557</p>\n<p># Comments: 301</p>",
+    "published": "2026-03-04T23:51:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+    "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
+    "summary": "State media and online propagandists are striking a confident posture, despite heavy losses. Some of the content was generated by artificial intelligence.",
+    "published": "2026-03-04T23:35:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
+    "link": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+    "summary": "Companies including Google, Microsoft and OpenAI committed to pay for the power plants and grid upgrades needed to run their data centers.",
+    "published": "2026-03-04T22:25:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+    "link": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+    "summary": "<p>Article URL: <a href=\"https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf\">https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47254516\">https://news.ycombinator.com/item?id=47254516</a></p>\n<p>Points: 106</p>\n<p># Comments: 70</p>",
+    "published": "2026-03-04T21:56:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dulce et Decorum Est (1921)",
+    "link": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+    "summary": "<p>Article URL: <a href=\"https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est\">https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47254322\">https://news.ycombinator.com/item?id=47254322</a></p>\n<p>Points: 126</p>\n<p># Comments: 69</p>",
+    "published": "2026-03-04T21:41:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+    "link": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+    "summary": "<p>Article URL: <a href=\"https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en\">https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47253892\">https://news.ycombinator.com/item?id=47253892</a></p>\n<p>Points: 127</p>\n<p># Comments: 112</p>",
+    "published": "2026-03-04T21:11:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Building a new Flash",
+    "link": "https://bill.newgrounds.com/news/post/1607118",
+    "summary": "<p>Article URL: <a href=\"https://bill.newgrounds.com/news/post/1607118\">https://bill.newgrounds.com/news/post/1607118</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47253177\">https://news.ycombinator.com/item?id=47253177</a></p>\n<p>Points: 533</p>\n<p># Comments: 154</p>",
+    "published": "2026-03-04T20:16:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lawmakers Question Intel’s Use of Tools From Blacklisted Chinese Firm",
+    "link": "https://www.nytimes.com/2026/03/04/technology/intel-senators-china-tools.html",
+    "summary": "A bipartisan group of senators raised national security concerns about the chipmaker, which is now partly owned by taxpayers.",
+    "published": "2026-03-04T18:12:33",
+    "source": "NYT > Technology"
   },
   {
     "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
@@ -105,53 +175,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "My spicy take on vibe coding for PMs",
-    "link": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-    "summary": "<p>Article URL: <a href=\"https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/\">https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47240736\">https://news.ycombinator.com/item?id=47240736</a></p>\n<p>Points: 91</p>\n<p># Comments: 88</p>",
-    "published": "2026-03-03T23:38:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Voxile: A ray-traced game made in its own engine and programming language",
-    "link": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-    "summary": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update\">https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47239042\">https://news.ycombinator.com/item?id=47239042</a></p>\n<p>Points: 190</p>\n<p># Comments: 50</p>",
-    "published": "2026-03-03T21:10:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An Interactive Intro to CRDTs (2023)",
-    "link": "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/",
-    "summary": "<p>Article URL: <a href=\"https://jakelazaroff.com/words/an-interactive-intro-to-crdts/\">https://jakelazaroff.com/words/an-interactive-intro-to-crdts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47237460\">https://news.ycombinator.com/item?id=47237460</a></p>\n<p>Points: 142</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-03T19:22:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPT‑5.3 Instant",
-    "link": "https://openai.com/index/gpt-5-3-instant/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/gpt-5-3-instant/\">https://openai.com/index/gpt-5-3-instant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47236169\">https://news.ycombinator.com/item?id=47236169</a></p>\n<p>Points: 347</p>\n<p># Comments: 271</p>",
-    "published": "2026-03-03T17:57:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "When AI writes the software, who verifies it?",
-    "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-    "summary": "<p>Article URL: <a href=\"https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html\">https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47234917\">https://news.ycombinator.com/item?id=47234917</a></p>\n<p>Points: 226</p>\n<p># Comments: 225</p>",
-    "published": "2026-03-03T16:34:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "The British Watch Brand Apiar Goes Beyond Traditional Constraints",
     "link": "https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html",
     "summary": "The tech-focused leaders of the British brand Apiar aim to stretch beyond watchmaking’s traditional material and manufacturing constraints.",
     "published": "2026-03-03T15:56:55",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-    "link": "https://news.ycombinator.com/item?id=47232903",
-    "summary": "<p>Hey HN - we're Tarush, Sidhant, and Shashij from Cekura (<a href=\"https://www.cekura.ai\">https://www.cekura.ai</a>). We've been running voice agent simulation for 1.5 years, and recently extended the same infrastructure to chat. Teams use Cekura to simulate real user conversations, stress-test prompts and LLM behavior, and catch regressions before they hit production.<p>The core problem: you can't manually QA an AI agent. When you ship a new prompt, swap a model, or add a tool, how do you know the agent still behaves correctly across the thousands of ways users might interact with it?\nMost teams resort to manual spot-checking (doesn't scale), waiting for users to complain (too late), or brittle scripted tests.<p>Our answer is simulation: synthetic users interact with your agent the way real users do, and LLM-based judges evaluate whether it responded correctly - across the full conversational arc, not just single turns.\nThree things make this actually work:\nScenario generation + real conversation import - Our scenario generation agent bootstraps your test suite from a description of your agent. But real users find paths no generator anticipates, so we also ingest your production conversations and automatically extract test cases from them. Your coverage evolves as your users do.<p>Mock tool platform - Agents call tools. Running simulations against real APIs is slow and flaky. Our mock tool platform lets you define tool schemas, behavior, and return values so simulations exercise tool selection and decision-making without touching production systems.<p>Deterministic, structured test cases - LLMs are stochastic. A CI test that passes \"most of the time\" is useless. Rather than free-form prompts, our evaluators are defined as structured conditional action trees: explicit conditions that trigger specific responses, with support for fixed messages when word-for-word precision matters. This means the synthetic user behaves consistently across runs - same branching logic, same inputs - so a failure is a real regression, not noise.<p>Cekura also monitors your live agent traffic. The obvious alternative here is a tracing platform like Langfuse or LangSmith - and they're great tools for debugging individual LLM calls. But conversational agents have a different failure mode: the bug isn't in any single turn, it's in how turns relate to each other. Take a verification flow that requires name, date of birth, and phone number before proceeding - if the agent skips asking for DOB and moves on anyway, every individual turn looks fine in isolation. The failure only becomes visible when you evaluate the full session as a unit. Cekura is built around this from the ground up.\nWhere tracing platforms evaluate turn by turn, Cekura evaluates the full session. Imagine a banking agent where the user fails verification in step 1, but the agent hallucinates and proceeds anyway. A turn-based evaluator sees step 3 (address confirmation) and marks it green - the right question was asked. Cekura's judge sees the full transcript and flags the session as failed because verification never succeeded.<p>Try us out at <a href=\"https://www.cekura.ai\">https://www.cekura.ai</a> - 7-day free trial, no credit card required. Paid plans from $30/month.<p>We also put together a product video if you'd like to see it in action: <a href=\"https://www.youtube.com/watch?v=n8FFKv1-nMw\" rel=\"nofollow\">https://www.youtube.com/watch?v=n8FFKv1-nMw</a>. The first minute dives into quick onboarding - and if you want to jump straight to the results, skip to 8:40.<p>Curious what the HN community is doing - how are you testing behavioral regressions in your agents? What failure modes have hurt you most? Happy to dig in below!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47232903\">https://news.ycombinator.com/item?id=47232903</a></p>\n<p>Points: 83</p>\n<p># Comments: 20</p>",
-    "published": "2026-03-03T14:30:58",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "OpenAI Amends A.I. Deal With the Pentagon",
@@ -287,13 +315,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
-    "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
-    "summary": "Total profit for the fiscal year was $120 billion, the company said. Three years ago, it was just $4.4 billion.",
-    "published": "2026-02-27T02:00:16",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Block Cuts 40% of Its Work Force Because of Its Embrace of A.I.",
     "link": "https://www.nytimes.com/2026/02/26/technology/block-square-job-cuts-ai.html",
     "summary": "About 4,000 workers will lose their jobs as the payments company does more work with new artificial intelligence tools, its top executive said.",
@@ -329,13 +350,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "A.I. Dating Apps Complicate China’s Efforts to Boost Birthrate",
-    "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
-    "summary": "As China grapples with a shrinking population and historically low birthrate, people are finding romance with chatbots instead.",
-    "published": "2026-02-26T12:58:41",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn?",
     "link": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
     "summary": "People are revealing sensitive personal information to A.I. chatbots — including plans to commit violent acts.",
@@ -347,27 +361,6 @@
     "link": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html",
     "summary": "Artificial intelligence is convenient and easy to use, but you should think about what you say to the chatbots.",
     "published": "2026-02-26T10:06:05",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
-    "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
-    "summary": "The requests followed Times reporting that the Department of Homeland Security had sent Meta and other companies subpoenas for information on accounts that track or comment on ICE.",
-    "published": "2026-02-26T01:11:19",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Podcasts? TV Talk Shows? Netflix Just Hopes They’re Hits.",
-    "link": "https://www.nytimes.com/2026/02/25/arts/television/podcasts-netflix-pete-davidson.html",
-    "summary": "The podcasts in the streamer’s debut crop, including “The Pete Davidson Show,” have revived metaphysical questions about the definition of the medium.",
-    "published": "2026-02-25T20:18:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
-    "link": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
-    "summary": "Artificial intelligence detectors are increasingly used to check the veracity of content online. We ran more than 1,000 tests and found several strengths and plenty of weaknesses.",
-    "published": "2026-02-25T10:00:09",
     "source": "NYT > Technology"
   }
 ]
