@@ -1,128 +1,198 @@
 [
   {
-    "title": "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
-    "link": "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign",
-    "summary": "<p>Article URL: <a href=\"https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign\">https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47259303\">https://news.ycombinator.com/item?id=47259303</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-05T08:55:06",
+    "title": "GPL upgrades via section 14 proxy delegation",
+    "link": "https://runxiyu.org/comp/gplproxy/",
+    "summary": "<p>Article URL: <a href=\"https://runxiyu.org/comp/gplproxy/\">https://runxiyu.org/comp/gplproxy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47272534\">https://news.ycombinator.com/item?id=47272534</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+    "published": "2026-03-06T08:41:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "No right to relicense this project",
-    "link": "https://github.com/chardet/chardet/issues/327",
-    "summary": "<p>Article URL: <a href=\"https://github.com/chardet/chardet/issues/327\">https://github.com/chardet/chardet/issues/327</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47259177\">https://news.ycombinator.com/item?id=47259177</a></p>\n<p>Points: 56</p>\n<p># Comments: 13</p>",
-    "published": "2026-03-05T08:37:51",
+    "title": "Stardex (YC S21) is hiring customer success engineers",
+    "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration\">https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47271858\">https://news.ycombinator.com/item?id=47271858</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-06T07:02:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
-    "link": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
-    "summary": "<p>Article URL: <a href=\"https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/\">https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258885\">https://news.ycombinator.com/item?id=47258885</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
-    "published": "2026-03-05T07:57:25",
+    "title": "TeX Live 2026 is available for download now",
+    "link": "https://www.tug.org/texlive/acquire.html",
+    "summary": "<p>Article URL: <a href=\"https://www.tug.org/texlive/acquire.html\">https://www.tug.org/texlive/acquire.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47271187\">https://news.ycombinator.com/item?id=47271187</a></p>\n<p>Points: 59</p>\n<p># Comments: 31</p>",
+    "published": "2026-03-06T05:20:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-    "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
-    "summary": "<p>Article URL: <a href=\"https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23\">https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258801\">https://news.ycombinator.com/item?id=47258801</a></p>\n<p>Points: 59</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-05T07:43:41",
+    "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+    "link": "https://dev.moment.com/",
+    "summary": "<p>We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.<p>You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Each ant can sense nearby cells (food, pheromones, home, other ants) but has no global view. The only coordination mechanism is pheromone trails, which ants can emit and sense them, but that's it. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps. Different map layouts (clustered food, scattered, obstacles) reward very different strategies. The leaderboard is live.<p>Grand prize is a trip to Maui for two paid for by Moment. Challenge closes March 12.<p>Curious what strategies people discover. We've seen some surprisingly clever emergent behavior internally.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47270807\">https://news.ycombinator.com/item?id=47270807</a></p>\n<p>Points: 64</p>\n<p># Comments: 16</p>",
+    "published": "2026-03-06T04:15:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
-    "link": "https://netbsd-jails.petermann-digital.de/",
-    "summary": "<p>Article URL: <a href=\"https://netbsd-jails.petermann-digital.de/\">https://netbsd-jails.petermann-digital.de/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258641\">https://news.ycombinator.com/item?id=47258641</a></p>\n<p>Points: 9</p>\n<p># Comments: 2</p>",
-    "published": "2026-03-05T07:23:40",
+    "title": "System76 on Age Verification Laws",
+    "link": "https://blog.system76.com/post/system76-on-age-verification/",
+    "summary": "<p>Article URL: <a href=\"https://blog.system76.com/post/system76-on-age-verification/\">https://blog.system76.com/post/system76-on-age-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47270784\">https://news.ycombinator.com/item?id=47270784</a></p>\n<p>Points: 294</p>\n<p># Comments: 184</p>",
+    "published": "2026-03-06T04:12:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
-    "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
-    "summary": "<p>Article URL: <a href=\"https://tim.blog/2026/03/04/the-self-help-trap/\">https://tim.blog/2026/03/04/the-self-help-trap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258455\">https://news.ycombinator.com/item?id=47258455</a></p>\n<p>Points: 42</p>\n<p># Comments: 33</p>",
-    "published": "2026-03-05T06:59:30",
+    "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
+    "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
+    "summary": "<p>Article URL: <a href=\"https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/\">https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47270672\">https://news.ycombinator.com/item?id=47270672</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-06T03:56:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Relax NG is a schema language for XML (2014)",
-    "link": "https://relaxng.org/",
-    "summary": "<p>Article URL: <a href=\"https://relaxng.org/\">https://relaxng.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47258076\">https://news.ycombinator.com/item?id=47258076</a></p>\n<p>Points: 23</p>\n<p># Comments: 9</p>",
-    "published": "2026-03-05T06:01:18",
+    "title": "The home computer war",
+    "link": "https://technicshistory.com/2026/03/06/the-home-computer-war/",
+    "summary": "<p>Article URL: <a href=\"https://technicshistory.com/2026/03/06/the-home-computer-war/\">https://technicshistory.com/2026/03/06/the-home-computer-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47269914\">https://news.ycombinator.com/item?id=47269914</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+    "published": "2026-03-06T02:04:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Relicensing with AI-Assisted Rewrite",
-    "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-    "summary": "<p>Article URL: <a href=\"https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/\">https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257803\">https://news.ycombinator.com/item?id=47257803</a></p>\n<p>Points: 87</p>\n<p># Comments: 68</p>",
-    "published": "2026-03-05T05:07:33",
+    "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
+    "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+    "summary": "Anthropic has said it will sue the Defense Department over the designation, which could prevent the start-up from doing business with the U.S. government.",
+    "published": "2026-03-06T01:23:35",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to install and start using LineageOS on your phone",
+    "link": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
+    "summary": "<p>Article URL: <a href=\"https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html\">https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47269288\">https://news.ycombinator.com/item?id=47269288</a></p>\n<p>Points: 55</p>\n<p># Comments: 16</p>",
+    "published": "2026-03-06T00:43:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "You Just Reveived",
-    "link": "https://dylan.gr/1772520728",
-    "summary": "<p>Article URL: <a href=\"https://dylan.gr/1772520728\">https://dylan.gr/1772520728</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257637\">https://news.ycombinator.com/item?id=47257637</a></p>\n<p>Points: 157</p>\n<p># Comments: 40</p>",
-    "published": "2026-03-05T04:37:43",
+    "title": "Where things stand with the Department of War",
+    "link": "https://www.anthropic.com/news/where-stand-department-war",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/where-stand-department-war\">https://www.anthropic.com/news/where-stand-department-war</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47269263\">https://news.ycombinator.com/item?id=47269263</a></p>\n<p>Points: 435</p>\n<p># Comments: 447</p>",
+    "published": "2026-03-06T00:40:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The L in \"LLM\" Stands for Lying",
-    "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-    "summary": "<p>Article URL: <a href=\"https://acko.net/blog/the-l-in-llm-stands-for-lying/\">https://acko.net/blog/the-l-in-llm-stands-for-lying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257394\">https://news.ycombinator.com/item?id=47257394</a></p>\n<p>Points: 114</p>\n<p># Comments: 51</p>",
-    "published": "2026-03-05T04:02:32",
+    "title": "Labor market impacts of AI: A new measure and early evidence",
+    "link": "https://www.anthropic.com/research/labor-market-impacts",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/labor-market-impacts\">https://www.anthropic.com/research/labor-market-impacts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47268391\">https://news.ycombinator.com/item?id=47268391</a></p>\n<p>Points: 187</p>\n<p># Comments: 261</p>",
+    "published": "2026-03-05T22:55:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Poppy – A simple app to stay intentional with relationships",
-    "link": "https://poppy-connection-keeper.netlify.app/",
-    "summary": "<p>I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47257352\">https://news.ycombinator.com/item?id=47257352</a></p>\n<p>Points: 83</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-05T03:56:38",
+    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "link": "https://406.fail/",
+    "summary": "<p>Article URL: <a href=\"https://406.fail/\">https://406.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47267947\">https://news.ycombinator.com/item?id=47267947</a></p>\n<p>Points: 177</p>\n<p># Comments: 63</p>",
+    "published": "2026-03-05T22:04:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "What Python’s asyncio primitives get wrong about shared state",
-    "link": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
-    "summary": "<p>Article URL: <a href=\"https://www.inngest.com/blog/no-lost-updates-python-asyncio\">https://www.inngest.com/blog/no-lost-updates-python-asyncio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47256923\">https://news.ycombinator.com/item?id=47256923</a></p>\n<p>Points: 53</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-05T02:55:57",
+    "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
+    "link": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
+    "summary": "Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry.",
+    "published": "2026-03-05T21:13:39",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Structured AI (YC F25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant\">https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47267236\">https://news.ycombinator.com/item?id=47267236</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-05T21:01:30",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Remotely unlocking an encrypted hard disk",
+    "link": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+    "summary": "<p>Article URL: <a href=\"https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/\">https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47265521\">https://news.ycombinator.com/item?id=47265521</a></p>\n<p>Points: 137</p>\n<p># Comments: 63</p>",
+    "published": "2026-03-05T18:43:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT-5.4",
+    "link": "https://openai.com/index/introducing-gpt-5-4/",
+    "summary": "<p><a href=\"https://openai.com/index/gpt-5-4-thinking-system-card/\" rel=\"nofollow\">https://openai.com/index/gpt-5-4-thinking-system-card/</a><p><a href=\"https://x.com/OpenAI/status/2029620619743219811\" rel=\"nofollow\">https://x.com/OpenAI/status/2029620619743219811</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47265045\">https://news.ycombinator.com/item?id=47265045</a></p>\n<p>Points: 819</p>\n<p># Comments: 659</p>",
+    "published": "2026-03-05T18:08:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Brand Age",
+    "link": "https://paulgraham.com/brandage.html",
+    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/brandage.html\">https://paulgraham.com/brandage.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47264756\">https://news.ycombinator.com/item?id=47264756</a></p>\n<p>Points: 344</p>\n<p># Comments: 269</p>",
+    "published": "2026-03-05T17:44:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
+    "link": "https://news.ycombinator.com/item?id=47264741",
+    "summary": "<p>Hi HN! We're Gobhanu and Saatvik (brothers), building Vela (<a href=\"https://tryvela.ai\">https://tryvela.ai</a>) - AI agents that handle multi-party, multi-channel scheduling.<p>Scheduling is a constraint satisfaction problem disguised as email! It’s easy when it’s two people, one timezone, one channel. But it becomes a constraint satisfaction problem when inputs are unstructured natural language across multiple communication channels, constraints change mid-solve, and the objective function includes social dynamics that don't exist formally anywhere.<p>What if scheduling just happened? For example: a recruiter sends one message, and every interview across five candidates, three hiring managers, and two time zones gets booked, confirmed, and updated automatically. No links, no back-and-forth, no one spending hours with 20 emails. Everyone just gets the right invite at the right time, on whatever channel they actually use. That's what we built Vela to do.<p>You loop in Vela into your emails, SMS, WhatsApp, Slack, phone or integrate into an ATS etc and it takes over: reads context, checks calendars, proposes times, follows up when people ghost, and rebooks when things shift.<p>One of our first customers is a staffing firm that searched for a scheduling solution for almost eight years. Their coordinators manage hundreds of candidate-client interviews where each side needs separate email threads, separate Zoom accounts to avoid double-booking links, and calendar invites connecting parties who never directly communicate. A client reschedules one interview and it cascades into four others. A candidate responds on SMS to a thread that started on email. Vela solved this in just 10 minutes of onboarding.<p>The hardest part has been the data problem. Scheduling behavior varies enormously across populations. C-suite folks respond to email within hours and expect formal 3-option proposals. Truck drivers applying for logistics roles respond to SMS at odd hours from shared devices with \"y tm wrks.\" The failure mode isn't parsing -- it's applying the wrong interaction pattern for the wrong segment and watching the conversation die. We've been building behavioral datasets from thousands of real interactions: response latency by role, channel preference by demographic, follow-up timing curves, how many options to propose before you hit decision paralysis. This data doesn't exist anywhere.<p>The core agent challenge is state across channels. When someone responds on SMS to a thread that started in email, Vela needs to unify identity, merge context, and continue without losing information. Phone numbers don't map cleanly to emails, people use nicknames on text, shared devices mean the responder might not be who you reached out to. Temporal NLU is its own problem -- \"next Friday\" means different things on Monday versus Thursday. We extract structured constraints from natural language and resolve against calendar state. When ambiguity can't be resolved, Vela asks -- but deciding when to ask versus infer depends on the stakes of getting it wrong.<p>We're live with paying enterprise customers and every client still surfaces edge cases that surprise us. Case studies on our site (<a href=\"https://tryvela.ai/case-studies/\">https://tryvela.ai/case-studies/</a>). You can check out a demo here: <a href=\"https://www.youtube.com/watch?v=MzUOjSG5Uvw\" rel=\"nofollow\">https://www.youtube.com/watch?v=MzUOjSG5Uvw</a>.<p>We'd love feedback from anyone who's worked on multi-agent coordination, conversational AI across channels, or constraint satisfaction in messy real-world domains. Looking forward to your comments!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47264741\">https://news.ycombinator.com/item?id=47264741</a></p>\n<p>Points: 45</p>\n<p># Comments: 37</p>",
+    "published": "2026-03-05T17:43:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+    "link": "https://alibaba.github.io/page-agent/",
+    "summary": "<p>Title: Show HN: PageAgent, A GUI agent that lives inside your web app<p>Hi HN,<p>I'm building PageAgent, an open-source (MIT) library that embeds an AI agent directly into your frontend.<p>I built this because I believe there's a massive design space for deploying general agents natively inside the web apps we already use, rather than treating the web merely as a dumb target for isolated bots.<p>Currently, most AI agents operate from external clients or server-side programs, effectively leaving web development out of the AI ecosystem. I'm experimenting with an \"inside-out\" paradigm instead. By dropping the library into a page, you get a client-side agent that interacts natively with the live DOM tree and inherits the user's active session out of the box, which works perfectly for SPAs.<p>To handle cross-page tasks, I built an optional browser extension that acts as a \"bridge\". This allows the web-page agent to control the entire browser with explicit user authorization. Instead of a desktop app controlling your browser, your web app is empowered to act as a general agent that can navigate the broader web.<p>I'd love to start a conversation about the viability of this architecture, and what you all think about the future of in-app general agents. Happy to answer any questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47264138\">https://news.ycombinator.com/item?id=47264138</a></p>\n<p>Points: 99</p>\n<p># Comments: 53</p>",
+    "published": "2026-03-05T17:01:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+    "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+    "summary": "Brian Janous, a former Microsoft executive, and his firm Cloverleaf have become modern-day land men, packaging electricity and land for data centers.",
+    "published": "2026-03-05T16:30:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
+    "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+    "summary": "Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved.",
+    "published": "2026-03-05T16:30:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+    "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "summary": "<p>Original report: <a href=\"https://adnanthekhan.com/posts/clinejection/\" rel=\"nofollow\">https://adnanthekhan.com/posts/clinejection/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47263595\">https://news.ycombinator.com/item?id=47263595</a></p>\n<p>Points: 423</p>\n<p># Comments: 112</p>",
+    "published": "2026-03-05T16:22:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wikipedia was in read-only mode following mass admin account compromise",
+    "link": "https://www.wikimediastatus.net",
+    "summary": "<p><a href=\"https://wikipediocracy.com/forum/viewtopic.php?f=8&amp;t=14555\" rel=\"nofollow\">https://wikipediocracy.com/forum/viewtopic.php?f=8&amp;t=14555</a><p><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(technical)#Meta-Wiki_compromised\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(techni...</a><p><a href=\"https://old.reddit.com/r/wikipedia/comments/1rllcdg/megathread_wikimedia_wikis_locked_accounts/\" rel=\"nofollow\">https://old.reddit.com/r/wikipedia/comments/1rllcdg/megathre...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47263323\">https://news.ycombinator.com/item?id=47263323</a></p>\n<p>Points: 962</p>\n<p># Comments: 336</p>",
+    "published": "2026-03-05T16:04:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI and the Ship of Theseus",
+    "link": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/3/5/theseus/\">https://lucumr.pocoo.org/2026/3/5/theseus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47263048\">https://news.ycombinator.com/item?id=47263048</a></p>\n<p>Points: 100</p>\n<p># Comments: 108</p>",
+    "published": "2026-03-05T15:49:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "You’ve Never Seen Ants Like This Before",
+    "link": "https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html",
+    "summary": "The Antscan database captures the tiny insects’ diversity and shows how the world’s living things could be rendered in three dimensions.",
+    "published": "2026-03-05T10:03:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A Word to the Wise: Don’t Trust A.I. to File Your Taxes",
+    "link": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
+    "summary": "The world’s smartest technology is no match for the U.S. tax code.",
+    "published": "2026-03-05T10:01:46",
+    "source": "NYT > Technology"
   },
   {
     "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
     "link": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
     "summary": "Mr. Musk said he did not expect his posts in the lead-up to his 2022 acquisition of the social media site, now X, to affect the company’s share price.",
-    "published": "2026-03-05T02:40:24",
+    "published": "2026-03-05T02:40:25",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "US tech firms pledge at White House to bear costs of energy for datacenters",
-    "link": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house\">https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47256545\">https://news.ycombinator.com/item?id=47256545</a></p>\n<p>Points: 67</p>\n<p># Comments: 51</p>",
-    "published": "2026-03-05T02:00:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Chaos and Dystopian news for the dead internet survivors",
-    "link": "https://www.fubardaily.com",
-    "summary": "<p>Article URL: <a href=\"https://www.fubardaily.com\">https://www.fubardaily.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47256478\">https://news.ycombinator.com/item?id=47256478</a></p>\n<p>Points: 95</p>\n<p># Comments: 35</p>",
-    "published": "2026-03-05T01:50:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google Workspace CLI",
-    "link": "https://github.com/googleworkspace/cli",
-    "summary": "<p>Article URL: <a href=\"https://github.com/googleworkspace/cli\">https://github.com/googleworkspace/cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47255881\">https://news.ycombinator.com/item?id=47255881</a></p>\n<p>Points: 558</p>\n<p># Comments: 192</p>",
-    "published": "2026-03-05T00:22:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-    "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/\">https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47255662\">https://news.ycombinator.com/item?id=47255662</a></p>\n<p>Points: 557</p>\n<p># Comments: 301</p>",
-    "published": "2026-03-04T23:51:10",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
     "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
     "summary": "State media and online propagandists are striking a confident posture, despite heavy losses. Some of the content was generated by artificial intelligence.",
-    "published": "2026-03-04T23:35:06",
+    "published": "2026-03-04T23:35:07",
     "source": "NYT > Technology"
   },
   {
@@ -131,34 +201,6 @@
     "summary": "Companies including Google, Microsoft and OpenAI committed to pay for the power plants and grid upgrades needed to run their data centers.",
     "published": "2026-03-04T22:25:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
-    "link": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
-    "summary": "<p>Article URL: <a href=\"https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf\">https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47254516\">https://news.ycombinator.com/item?id=47254516</a></p>\n<p>Points: 106</p>\n<p># Comments: 70</p>",
-    "published": "2026-03-04T21:56:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Dulce et Decorum Est (1921)",
-    "link": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
-    "summary": "<p>Article URL: <a href=\"https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est\">https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47254322\">https://news.ycombinator.com/item?id=47254322</a></p>\n<p>Points: 126</p>\n<p># Comments: 69</p>",
-    "published": "2026-03-04T21:41:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
-    "link": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
-    "summary": "<p>Article URL: <a href=\"https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en\">https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47253892\">https://news.ycombinator.com/item?id=47253892</a></p>\n<p>Points: 127</p>\n<p># Comments: 112</p>",
-    "published": "2026-03-04T21:11:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Building a new Flash",
-    "link": "https://bill.newgrounds.com/news/post/1607118",
-    "summary": "<p>Article URL: <a href=\"https://bill.newgrounds.com/news/post/1607118\">https://bill.newgrounds.com/news/post/1607118</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47253177\">https://news.ycombinator.com/item?id=47253177</a></p>\n<p>Points: 533</p>\n<p># Comments: 154</p>",
-    "published": "2026-03-04T20:16:03",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Lawmakers Question Intel’s Use of Tools From Blacklisted Chinese Firm",
@@ -266,24 +308,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
-    "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
-    "summary": "Anthropic said it was standing firm on not having its A.I. used in certain scenarios by the Pentagon, which has imposed a Friday deadline on the company to give unfettered access to its technology.",
-    "published": "2026-02-27T13:15:43",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Is A.I. Eating the Labor Market? + The Latest on the Pentagon, OpenClaw and Alpha School",
     "link": "https://www.nytimes.com/2026/02/27/podcasts/is-ai-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
     "summary": "“I think the mere fact that the markets can move so much, based on almost nothing, underscores how high anxiety is right now.”",
     "published": "2026-02-27T12:00:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "South Korea Clears Way for Google Maps to Fully Operate",
-    "link": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html",
-    "summary": "South Korea approved Google’s request to export detailed map data, reversing a longstanding restriction that made the tool largely nonfunctional.",
-    "published": "2026-02-27T10:32:25",
     "source": "NYT > Technology"
   },
   {
@@ -298,69 +326,6 @@
     "link": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
     "summary": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump’s re-election, according to a Times examination.",
     "published": "2026-02-27T10:00:35",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "India Built the World’s Back Office. A.I. Is Starting to Shrink It.",
-    "link": "https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html",
-    "summary": "Artificial intelligence promises to automate the white-collar work that made India a tech powerhouse. The country is racing to adapt before it’s too late.",
-    "published": "2026-02-27T05:01:15",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Workers Seek ‘Red Lines’ on Military A.I., Echoing Anthropic",
-    "link": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-    "summary": "More than 100 Google A.I. employees sent a letter to Jeff Dean, a chief scientist, opposing Gemini’s use for U.S. surveillance and some autonomous weapons.",
-    "published": "2026-02-27T02:53:20",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Block Cuts 40% of Its Work Force Because of Its Embrace of A.I.",
-    "link": "https://www.nytimes.com/2026/02/26/technology/block-square-job-cuts-ai.html",
-    "summary": "About 4,000 workers will lose their jobs as the payments company does more work with new artificial intelligence tools, its top executive said.",
-    "published": "2026-02-27T01:08:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In Landmark Trial, Plaintiff Says Social Media Harm Started at Age 6",
-    "link": "https://www.nytimes.com/2026/02/26/technology/social-media-addiction-testimony.html",
-    "summary": "The plaintiff, a 20-year-old identified only as K.G.M., took the stand to testify against Meta and Instagram in a bellwether case over tech addiction.",
-    "published": "2026-02-27T00:56:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The A.I. Videos on Kids’ YouTube Feeds",
-    "link": "https://www.nytimes.com/video/technology/100000010717886/the-ai-videos-on-kids-youtube-feeds.html",
-    "summary": "The YouTube algorithm is pushing bizarre, often nonsensical A.I.-generated videos targeting children. Our video journalist Arijeta Lajka explains why experts say that these videos could affect their cognitive development, and how parents can identify this type of content.",
-    "published": "2026-02-26T23:03:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed",
-    "link": "https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html",
-    "summary": "Experts caution that low-quality, A.I.-generated videos on YouTube geared toward children often feature conflicting information, lack plot structure and can be cognitively overwhelming — all of which could affect young children’s development.",
-    "published": "2026-02-26T17:34:35",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
-    "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
-    "summary": "The founders of HateAid, a German human-rights group that helps victims of online attacks, were accused by the Trump administration of being part of a “global censorship-industrial complex.”",
-    "published": "2026-02-26T15:52:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn?",
-    "link": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
-    "summary": "People are revealing sensitive personal information to A.I. chatbots — including plans to commit violent acts.",
-    "published": "2026-02-26T10:33:19",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Complicates Old Internet Privacy Risks",
-    "link": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html",
-    "summary": "Artificial intelligence is convenient and easy to use, but you should think about what you say to the chatbots.",
-    "published": "2026-02-26T10:06:05",
     "source": "NYT > Technology"
   }
 ]
