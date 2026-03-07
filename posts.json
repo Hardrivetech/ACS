@@ -1,52 +1,157 @@
 [
   {
-    "title": "GPL upgrades via section 14 proxy delegation",
-    "link": "https://runxiyu.org/comp/gplproxy/",
-    "summary": "<p>Article URL: <a href=\"https://runxiyu.org/comp/gplproxy/\">https://runxiyu.org/comp/gplproxy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47272534\">https://news.ycombinator.com/item?id=47272534</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
-    "published": "2026-03-06T08:41:51",
+    "title": "Sarvam 105B, the first competitive Indian open source LLM",
+    "link": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "summary": "<p>Article URL: <a href=\"https://www.sarvam.ai/blogs/sarvam-30b-105b\">https://www.sarvam.ai/blogs/sarvam-30b-105b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47285422\">https://news.ycombinator.com/item?id=47285422</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-07T07:43:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stardex (YC S21) is hiring customer success engineers",
-    "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration\">https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47271858\">https://news.ycombinator.com/item?id=47271858</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-06T07:02:08",
+    "title": "Worming out molecular secrets behind collective behaviour",
+    "link": "https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/",
+    "summary": "<p>Article URL: <a href=\"https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/\">https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47284699\">https://news.ycombinator.com/item?id=47284699</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-07T05:12:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TeX Live 2026 is available for download now",
-    "link": "https://www.tug.org/texlive/acquire.html",
-    "summary": "<p>Article URL: <a href=\"https://www.tug.org/texlive/acquire.html\">https://www.tug.org/texlive/acquire.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47271187\">https://news.ycombinator.com/item?id=47271187</a></p>\n<p>Points: 59</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-06T05:20:10",
+    "title": "UUID package coming to Go standard library",
+    "link": "https://github.com/golang/go/issues/62026",
+    "summary": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/62026\">https://github.com/golang/go/issues/62026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47283665\">https://news.ycombinator.com/item?id=47283665</a></p>\n<p>Points: 170</p>\n<p># Comments: 92</p>",
+    "published": "2026-03-07T02:03:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-    "link": "https://dev.moment.com/",
-    "summary": "<p>We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.<p>You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Each ant can sense nearby cells (food, pheromones, home, other ants) but has no global view. The only coordination mechanism is pheromone trails, which ants can emit and sense them, but that's it. Your program runs identically on every ant.<p>The goal is to collect the highest percentage of food across a set of maps. Different map layouts (clustered food, scattered, obstacles) reward very different strategies. The leaderboard is live.<p>Grand prize is a trip to Maui for two paid for by Moment. Challenge closes March 12.<p>Curious what strategies people discover. We've seen some surprisingly clever emergent behavior internally.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47270807\">https://news.ycombinator.com/item?id=47270807</a></p>\n<p>Points: 64</p>\n<p># Comments: 16</p>",
-    "published": "2026-03-06T04:15:40",
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "summary": "<p>Article URL: <a href=\"https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code\">https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47283337\">https://news.ycombinator.com/item?id=47283337</a></p>\n<p>Points: 199</p>\n<p># Comments: 169</p>",
+    "published": "2026-03-07T01:17:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "System76 on Age Verification Laws",
-    "link": "https://blog.system76.com/post/system76-on-age-verification/",
-    "summary": "<p>Article URL: <a href=\"https://blog.system76.com/post/system76-on-age-verification/\">https://blog.system76.com/post/system76-on-age-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47270784\">https://news.ycombinator.com/item?id=47270784</a></p>\n<p>Points: 294</p>\n<p># Comments: 184</p>",
-    "published": "2026-03-06T04:12:26",
+    "title": "Game about Data of America",
+    "link": "https://americaindata.com/",
+    "summary": "<p>Article URL: <a href=\"https://americaindata.com/\">https://americaindata.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47282980\">https://news.ycombinator.com/item?id=47282980</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+    "published": "2026-03-07T00:28:56",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages",
-    "link": "https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/",
-    "summary": "<p>Article URL: <a href=\"https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/\">https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47270672\">https://news.ycombinator.com/item?id=47270672</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-06T03:56:52",
+    "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+    "link": "https://github.com/c0m4r/kula",
+    "summary": "<p>Zero dependencies. No external databases. Single binary. Just deploy and go. I needed something that would allow for real-time monitoring, and installation is as simple as dropping a single file and running it. That's exactly what Kula is. Kula is the Polish word for \"ball,\" as in \"crystal ball.\" The project is in constant development, but I'm already using it on multiple servers in production. It still has some rough edges and needs to mature, but I wanted to share it with the world now—perhaps someone else will find it useful and be willing to help me develop it by testing or providing feedback. Cheers! Github: <a href=\"https://github.com/c0m4r/kula\" rel=\"nofollow\">https://github.com/c0m4r/kula</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47282807\">https://news.ycombinator.com/item?id=47282807</a></p>\n<p>Points: 48</p>\n<p># Comments: 23</p>",
+    "published": "2026-03-07T00:07:25",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The home computer war",
-    "link": "https://technicshistory.com/2026/03/06/the-home-computer-war/",
-    "summary": "<p>Article URL: <a href=\"https://technicshistory.com/2026/03/06/the-home-computer-war/\">https://technicshistory.com/2026/03/06/the-home-computer-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47269914\">https://news.ycombinator.com/item?id=47269914</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
-    "published": "2026-03-06T02:04:04",
+    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "link": "https://news.ycombinator.com/item?id=47282777",
+    "summary": "<p>I’m ready to retire. In my younger days, I remember a few pivotal moments for me as a young nerd. Active Server Pages. COM components. VB6. I know these are laughable today but back then it was the greatest thing in the world to be able to call server-side commands. It kept me up nights trying to absorb it all. Fast forward decades and Claude Code is giving me that same energy and drive. I love it. It feels like it did back then. I’m chasing the midnight hour and not getting any sleep.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47282777\">https://news.ycombinator.com/item?id=47282777</a></p>\n<p>Points: 413</p>\n<p># Comments: 287</p>",
+    "published": "2026-03-07T00:05:06",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+    "link": "https://plasma-bigscreen.org",
+    "summary": "<p>Article URL: <a href=\"https://plasma-bigscreen.org\">https://plasma-bigscreen.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47282736\">https://news.ycombinator.com/item?id=47282736</a></p>\n<p>Points: 399</p>\n<p># Comments: 113</p>",
+    "published": "2026-03-06T23:59:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Helix: A post-modern text editor",
+    "link": "https://helix-editor.com/",
+    "summary": "<p>Article URL: <a href=\"https://helix-editor.com/\">https://helix-editor.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47282701\">https://news.ycombinator.com/item?id=47282701</a></p>\n<p>Points: 122</p>\n<p># Comments: 40</p>",
+    "published": "2026-03-06T23:53:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "C# strings silently kill your SQL Server indexes in Dapper",
+    "link": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
+    "summary": "<p>Article URL: <a href=\"https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap\">https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47282230\">https://news.ycombinator.com/item?id=47282230</a></p>\n<p>Points: 97</p>\n<p># Comments: 68</p>",
+    "published": "2026-03-06T22:55:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "this css proves me human",
+    "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
+    "summary": "<p>Article URL: <a href=\"https://will-keleher.com/posts/this-css-makes-me-human/\">https://will-keleher.com/posts/this-css-makes-me-human/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47281593\">https://news.ycombinator.com/item?id=47281593</a></p>\n<p>Points: 254</p>\n<p># Comments: 86</p>",
+    "published": "2026-03-06T21:52:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The shady world of IP leasing",
+    "link": "https://acid.vegas/blog/the-shady-world-of-ip-leasing/",
+    "summary": "<p>Article URL: <a href=\"https://acid.vegas/blog/the-shady-world-of-ip-leasing/\">https://acid.vegas/blog/the-shady-world-of-ip-leasing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47281221\">https://news.ycombinator.com/item?id=47281221</a></p>\n<p>Points: 109</p>\n<p># Comments: 60</p>",
+    "published": "2026-03-06T21:19:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ada 2022",
+    "link": "https://www.adaic.org/ada-resources/standards/ada22/",
+    "summary": "<p>Article URL: <a href=\"https://www.adaic.org/ada-resources/standards/ada22/\">https://www.adaic.org/ada-resources/standards/ada22/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47280352\">https://news.ycombinator.com/item?id=47280352</a></p>\n<p>Points: 134</p>\n<p># Comments: 34</p>",
+    "published": "2026-03-06T20:03:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+    "link": "https://news.ycombinator.com/item?id=47278980",
+    "summary": "<p>Hi HN! We’re Sam and Michael from Palus Finance (<a href=\"https://palus.finance\" rel=\"nofollow\">https://palus.finance</a>). We’re building a treasury management platform for startups and SMBs to earn higher yields with a high-yield bond portfolio.<p>We were funded by YC for a consumer-focused product for higher-yield savings. But when we joined YC and got our funding, we realized we needed the product for our own startup’s cash reserves, and other startups in the batch started telling us they wanted this too.<p>We realized that traditional startup treasury products do much the same thing: open a brokerage account, sweep your cash into a money market fund (MMF), and charge a management fee. No strategy involved. (There <i>is</i> actually one widely-advertised treasury product that differentiates on yield, but instead of an MMF it uses a mutual fund where your principal is at considerable risk – it had a 9% loss in 2022 that took years to recover.)<p>I come from a finance background, so this norm felt weird to me. The typical startup cashflow pattern is a large infusion from a raise covering 18–24 months of burn, drawn down gradually. That's a lot of capital sitting idle for a long time, where even a modest yield improvement compounds into real money.<p>MMFs are the lowest rung of what's available in fixed income. Yes, they’re very safe and liquid, but when you leave your whole treasury in one, you’re giving up yield to get same-day liquidity on cash you won’t touch for six months or more. \nBig companies have treasury teams that actively manage their holdings and invest in a range of safe assets to maximize yield. But those sophisticated bond portfolios were just never made accessible to startups. That’s what we’re building.<p>Our bond portfolio holds short-duration floating-rate agency mortgage-backed securities (MBS), which are an ideal, safe, high-yielding asset for long-term startup cash reserves under most circumstances.[1]<p>The bond portfolio is managed by Regan Capital, which runs MBSF, the largest floating-rate agency MBS ETF in the country. Right now we're using MBSF to generate yields for customers (you can see its historical returns, including dividends, here: <a href=\"https://totalrealreturns.com/n/USDOLLAR,MBSF\" rel=\"nofollow\">https://totalrealreturns.com/n/USDOLLAR,MBSF</a>). We're working with Regan to set up a dedicated account with the same strategy, which will let us reduce fees and give each startup direct ownership of the underlying securities. All assets are held with an SEC-licensed custodian.<p>Based on historical returns, we target 4.5–5% returns vs. roughly 3.5% from most money market funds.[2] Liquidity is typically available in 1-2 business days. We will charge a flat 0.25% annual fee on AUM, compared to the 0.15–0.60%, depending on balance, charged by other treasury providers.<p>We think that startup banking products themselves (Brex, Mercury, etc.) are genuinely good at what they do: payments, payroll, card management. The problem is the treasury product bundled with them, not the bank. So rather than building another neobank, we built Palus to connect to your existing bank account via Plaid. Our goal was to create the simplest possible UX for this product: two buttons and a giant number that goes up.<p>See here: <a href=\"https://www.youtube.com/watch?v=8Q_gwSqtnxM\" rel=\"nofollow\">https://www.youtube.com/watch?v=8Q_gwSqtnxM</a><p>We are live with early customers from within YC, and accepting new customers on a rolling basis; you can sign up at <a href=\"https://palus.finance/\" rel=\"nofollow\">https://palus.finance/</a>.<p>We'd love feedback from founders who've thought about idle cash management or people with a background in fixed-income and structured products. Happy to go deep in the comments.<p>[1] Agency MBS are pools of residential mortgages guaranteed by federal government agencies (Ginnie Mae, Fannie Mae, and Freddie Mac). It's a $9T market with the same government backing and AAA/AA+ rating as the Treasuries in a money market fund. No investor has ever lost money in agency MBS due to borrower default.<p>It's worth acknowledging that many people associate “mortgage-backed securities” with the 2008 financial crisis. But the assets that blew up in 2008 were private-label MBS, bundles of risky subprime mortgages without federal guarantees. Agency MBS holders suffered no credit losses during the crisis, and post-2008 underwriting standards became even stricter. If anything, 2008 was evidence for the safety of agency MBS, not against it.<p>The agency guarantee eliminates credit risk. Our short-duration, floating-rate strategy addresses the other main risk: price risk. Fixed-rate bonds lose value when rates rise, but floating-rate bonds reset their coupon based on the SOFR benchmark, protecting against interest rate movements.<p>[2] This comes from the historical spread between MMFs and floating-rate agency MBS; MMFs typically pay very close to SOFR, while the MBS pay SOFR + 1 to 1.5%. This means that if the Federal Reserve changes interest rates and SOFR moves, both asset types will move by about the same amount, and that 1-1.5% premium will remain.<p><i>This post is for educational purposes only and does not constitute financial, investment, or legal advice. Past performance does not guarantee future results. Yields and spreads referenced are approximate and based on historical data.</i></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47278980\">https://news.ycombinator.com/item?id=47278980</a></p>\n<p>Points: 50</p>\n<p># Comments: 72</p>",
+    "published": "2026-03-06T18:26:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+    "link": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+    "summary": "<p><a href=\"https://xcancel.com/JosephPolitano/status/2029916364664611242\" rel=\"nofollow\">https://xcancel.com/JosephPolitano/status/202991636466461124...</a><p><a href=\"https://bsky.app/profile/josephpolitano.bsky.social/post/3mgfh6ddrxs26\" rel=\"nofollow\">https://bsky.app/profile/josephpolitano.bsky.social/post/3mg...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47278426\">https://news.ycombinator.com/item?id=47278426</a></p>\n<p>Points: 869</p>\n<p># Comments: 577</p>",
+    "published": "2026-03-06T17:46:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+    "link": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead\">https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47277679\">https://news.ycombinator.com/item?id=47277679</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-06T17:00:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
+    "link": "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
+    "summary": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
+    "published": "2026-03-06T16:52:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Entomologists use a particle accelerator to image ants at scale",
+    "link": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan\">https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47276539\">https://news.ycombinator.com/item?id=47276539</a></p>\n<p>Points: 127</p>\n<p># Comments: 24</p>",
+    "published": "2026-03-06T15:53:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "link": "https://github.com/elder-plinius/OBLITERATUS",
+    "summary": "<p>Article URL: <a href=\"https://github.com/elder-plinius/OBLITERATUS\">https://github.com/elder-plinius/OBLITERATUS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47275291\">https://news.ycombinator.com/item?id=47275291</a></p>\n<p>Points: 159</p>\n<p># Comments: 75</p>",
+    "published": "2026-03-06T14:27:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "link": "https://github.com/moongate-community/moongatev2",
+    "summary": "<p>I've been building a modern Ultima Online server emulator from scratch. It's not feature-complete (no combat, no skills yet), but the foundation is solid and I wanted to share it early.<p>What it does today:\n- Full packet layer for the classic UO client (login, movement, items, mobiles)\n- Lua scripting for item behaviors (double-click a potion, open a door — all defined in Lua, no C# recompile)\n- Spatial world partitioned into sectors with delta sync (only sends packets for new sectors when crossing boundaries)\n- Snapshot-based persistence with MessagePack\n- Source generators for automatic DI wiring, packet handler registration, and Lua module exposure\n- NativeAOT support — the server compiles to a single native binary\n- Embedded HTTP admin API + React management UI\n- Auto-generated doors from map statics (same algorithm as ModernUO/RunUO)<p>Tech stack: .NET 10, NativeAOT, NLua, MessagePack, DryIoc, Kestrel<p>What's missing: Combat, skills, weather integration, NPC AI. This is still early — the focus so far has been on getting the architecture right so adding those systems doesn't require rewiring everything.<p>Why not just use ModernUO/RunUO? Those are mature and battle-tested. I started this because I wanted to rethink the architecture from scratch: strict network/domain separation, event-driven game loop, no\n  inheritance-heavy item hierarchies, and Lua for rapid iteration on game logic without recompiling.<p>GitHub: <a href=\"https://github.com/moongate-community/moongatev2\" rel=\"nofollow\">https://github.com/moongate-community/moongatev2</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47275236\">https://news.ycombinator.com/item?id=47275236</a></p>\n<p>Points: 252</p>\n<p># Comments: 139</p>",
+    "published": "2026-03-06T14:22:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CT Scans of Health Wearables",
+    "link": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+    "summary": "<p>Article URL: <a href=\"https://www.lumafield.com/scan-of-the-month/health-wearables\">https://www.lumafield.com/scan-of-the-month/health-wearables</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47275152\">https://news.ycombinator.com/item?id=47275152</a></p>\n<p>Points: 215</p>\n<p># Comments: 44</p>",
+    "published": "2026-03-06T14:16:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+    "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
+    "summary": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
+    "published": "2026-03-06T12:00:08",
+    "source": "NYT > Technology"
   },
   {
     "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
@@ -56,32 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How to install and start using LineageOS on your phone",
-    "link": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
-    "summary": "<p>Article URL: <a href=\"https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html\">https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47269288\">https://news.ycombinator.com/item?id=47269288</a></p>\n<p>Points: 55</p>\n<p># Comments: 16</p>",
-    "published": "2026-03-06T00:43:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Where things stand with the Department of War",
-    "link": "https://www.anthropic.com/news/where-stand-department-war",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/where-stand-department-war\">https://www.anthropic.com/news/where-stand-department-war</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47269263\">https://news.ycombinator.com/item?id=47269263</a></p>\n<p>Points: 435</p>\n<p># Comments: 447</p>",
-    "published": "2026-03-06T00:40:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Labor market impacts of AI: A new measure and early evidence",
-    "link": "https://www.anthropic.com/research/labor-market-impacts",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/labor-market-impacts\">https://www.anthropic.com/research/labor-market-impacts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47268391\">https://news.ycombinator.com/item?id=47268391</a></p>\n<p>Points: 187</p>\n<p># Comments: 261</p>",
-    "published": "2026-03-05T22:55:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-    "link": "https://406.fail/",
-    "summary": "<p>Article URL: <a href=\"https://406.fail/\">https://406.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47267947\">https://news.ycombinator.com/item?id=47267947</a></p>\n<p>Points: 177</p>\n<p># Comments: 63</p>",
-    "published": "2026-03-05T22:04:59",
-    "source": "Hacker News: Front Page"
+    "title": "S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps’ Crypto Coins",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
+    "summary": "The decision to settle the court action is particularly striking because the defendant was accused of a serious violation of securities laws. He denied the charges.",
+    "published": "2026-03-06T00:26:29",
+    "source": "NYT > Technology"
   },
   {
     "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
@@ -89,48 +173,6 @@
     "summary": "Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry.",
     "published": "2026-03-05T21:13:39",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Structured AI (YC F25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant\">https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47267236\">https://news.ycombinator.com/item?id=47267236</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-05T21:01:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Remotely unlocking an encrypted hard disk",
-    "link": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
-    "summary": "<p>Article URL: <a href=\"https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/\">https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47265521\">https://news.ycombinator.com/item?id=47265521</a></p>\n<p>Points: 137</p>\n<p># Comments: 63</p>",
-    "published": "2026-03-05T18:43:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPT-5.4",
-    "link": "https://openai.com/index/introducing-gpt-5-4/",
-    "summary": "<p><a href=\"https://openai.com/index/gpt-5-4-thinking-system-card/\" rel=\"nofollow\">https://openai.com/index/gpt-5-4-thinking-system-card/</a><p><a href=\"https://x.com/OpenAI/status/2029620619743219811\" rel=\"nofollow\">https://x.com/OpenAI/status/2029620619743219811</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47265045\">https://news.ycombinator.com/item?id=47265045</a></p>\n<p>Points: 819</p>\n<p># Comments: 659</p>",
-    "published": "2026-03-05T18:08:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Brand Age",
-    "link": "https://paulgraham.com/brandage.html",
-    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/brandage.html\">https://paulgraham.com/brandage.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47264756\">https://news.ycombinator.com/item?id=47264756</a></p>\n<p>Points: 344</p>\n<p># Comments: 269</p>",
-    "published": "2026-03-05T17:44:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
-    "link": "https://news.ycombinator.com/item?id=47264741",
-    "summary": "<p>Hi HN! We're Gobhanu and Saatvik (brothers), building Vela (<a href=\"https://tryvela.ai\">https://tryvela.ai</a>) - AI agents that handle multi-party, multi-channel scheduling.<p>Scheduling is a constraint satisfaction problem disguised as email! It’s easy when it’s two people, one timezone, one channel. But it becomes a constraint satisfaction problem when inputs are unstructured natural language across multiple communication channels, constraints change mid-solve, and the objective function includes social dynamics that don't exist formally anywhere.<p>What if scheduling just happened? For example: a recruiter sends one message, and every interview across five candidates, three hiring managers, and two time zones gets booked, confirmed, and updated automatically. No links, no back-and-forth, no one spending hours with 20 emails. Everyone just gets the right invite at the right time, on whatever channel they actually use. That's what we built Vela to do.<p>You loop in Vela into your emails, SMS, WhatsApp, Slack, phone or integrate into an ATS etc and it takes over: reads context, checks calendars, proposes times, follows up when people ghost, and rebooks when things shift.<p>One of our first customers is a staffing firm that searched for a scheduling solution for almost eight years. Their coordinators manage hundreds of candidate-client interviews where each side needs separate email threads, separate Zoom accounts to avoid double-booking links, and calendar invites connecting parties who never directly communicate. A client reschedules one interview and it cascades into four others. A candidate responds on SMS to a thread that started on email. Vela solved this in just 10 minutes of onboarding.<p>The hardest part has been the data problem. Scheduling behavior varies enormously across populations. C-suite folks respond to email within hours and expect formal 3-option proposals. Truck drivers applying for logistics roles respond to SMS at odd hours from shared devices with \"y tm wrks.\" The failure mode isn't parsing -- it's applying the wrong interaction pattern for the wrong segment and watching the conversation die. We've been building behavioral datasets from thousands of real interactions: response latency by role, channel preference by demographic, follow-up timing curves, how many options to propose before you hit decision paralysis. This data doesn't exist anywhere.<p>The core agent challenge is state across channels. When someone responds on SMS to a thread that started in email, Vela needs to unify identity, merge context, and continue without losing information. Phone numbers don't map cleanly to emails, people use nicknames on text, shared devices mean the responder might not be who you reached out to. Temporal NLU is its own problem -- \"next Friday\" means different things on Monday versus Thursday. We extract structured constraints from natural language and resolve against calendar state. When ambiguity can't be resolved, Vela asks -- but deciding when to ask versus infer depends on the stakes of getting it wrong.<p>We're live with paying enterprise customers and every client still surfaces edge cases that surprise us. Case studies on our site (<a href=\"https://tryvela.ai/case-studies/\">https://tryvela.ai/case-studies/</a>). You can check out a demo here: <a href=\"https://www.youtube.com/watch?v=MzUOjSG5Uvw\" rel=\"nofollow\">https://www.youtube.com/watch?v=MzUOjSG5Uvw</a>.<p>We'd love feedback from anyone who's worked on multi-agent coordination, conversational AI across channels, or constraint satisfaction in messy real-world domains. Looking forward to your comments!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47264741\">https://news.ycombinator.com/item?id=47264741</a></p>\n<p>Points: 45</p>\n<p># Comments: 37</p>",
-    "published": "2026-03-05T17:43:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-    "link": "https://alibaba.github.io/page-agent/",
-    "summary": "<p>Title: Show HN: PageAgent, A GUI agent that lives inside your web app<p>Hi HN,<p>I'm building PageAgent, an open-source (MIT) library that embeds an AI agent directly into your frontend.<p>I built this because I believe there's a massive design space for deploying general agents natively inside the web apps we already use, rather than treating the web merely as a dumb target for isolated bots.<p>Currently, most AI agents operate from external clients or server-side programs, effectively leaving web development out of the AI ecosystem. I'm experimenting with an \"inside-out\" paradigm instead. By dropping the library into a page, you get a client-side agent that interacts natively with the live DOM tree and inherits the user's active session out of the box, which works perfectly for SPAs.<p>To handle cross-page tasks, I built an optional browser extension that acts as a \"bridge\". This allows the web-page agent to control the entire browser with explicit user authorization. Instead of a desktop app controlling your browser, your web app is empowered to act as a general agent that can navigate the broader web.<p>I'd love to start a conversation about the viability of this architecture, and what you all think about the future of in-app general agents. Happy to answer any questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47264138\">https://news.ycombinator.com/item?id=47264138</a></p>\n<p>Points: 99</p>\n<p># Comments: 53</p>",
-    "published": "2026-03-05T17:01:47",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
@@ -145,27 +187,6 @@
     "summary": "Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved.",
     "published": "2026-03-05T16:30:06",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-    "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-    "summary": "<p>Original report: <a href=\"https://adnanthekhan.com/posts/clinejection/\" rel=\"nofollow\">https://adnanthekhan.com/posts/clinejection/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47263595\">https://news.ycombinator.com/item?id=47263595</a></p>\n<p>Points: 423</p>\n<p># Comments: 112</p>",
-    "published": "2026-03-05T16:22:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Wikipedia was in read-only mode following mass admin account compromise",
-    "link": "https://www.wikimediastatus.net",
-    "summary": "<p><a href=\"https://wikipediocracy.com/forum/viewtopic.php?f=8&amp;t=14555\" rel=\"nofollow\">https://wikipediocracy.com/forum/viewtopic.php?f=8&amp;t=14555</a><p><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(technical)#Meta-Wiki_compromised\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Wikipedia:Village_pump_(techni...</a><p><a href=\"https://old.reddit.com/r/wikipedia/comments/1rllcdg/megathread_wikimedia_wikis_locked_accounts/\" rel=\"nofollow\">https://old.reddit.com/r/wikipedia/comments/1rllcdg/megathre...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47263323\">https://news.ycombinator.com/item?id=47263323</a></p>\n<p>Points: 962</p>\n<p># Comments: 336</p>",
-    "published": "2026-03-05T16:04:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AI and the Ship of Theseus",
-    "link": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/3/5/theseus/\">https://lucumr.pocoo.org/2026/3/5/theseus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47263048\">https://news.ycombinator.com/item?id=47263048</a></p>\n<p>Points: 100</p>\n<p># Comments: 108</p>",
-    "published": "2026-03-05T15:49:45",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "You’ve Never Seen Ants Like This Before",
@@ -186,13 +207,6 @@
     "link": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
     "summary": "Mr. Musk said he did not expect his posts in the lead-up to his 2022 acquisition of the social media site, now X, to affect the company’s share price.",
     "published": "2026-03-05T02:40:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-    "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
-    "summary": "State media and online propagandists are striking a confident posture, despite heavy losses. Some of the content was generated by artificial intelligence.",
-    "published": "2026-03-04T23:35:07",
     "source": "NYT > Technology"
   },
   {
@@ -270,62 +284,6 @@
     "link": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
     "summary": "It’s been a crazy 48 hours in the A.I. industry.",
     "published": "2026-03-01T00:18:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
-    "link": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
-    "summary": "The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.",
-    "published": "2026-02-28T15:53:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump",
-    "link": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
-    "summary": "Actions by the president and the Pentagon appeared to drive a wedge between Washington and the tech industry, whose leaders and workers spoke out for the start-up.",
-    "published": "2026-02-28T04:46:11",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Instagram to Alert Parents to Teens’ Self-Harm Searches",
-    "link": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
-    "summary": "Parents will receive notifications if a child has used the platform repeatedly to search for terms related to suicide or self-harm, but users must opt in to get them.",
-    "published": "2026-02-28T02:39:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In a Memoir Draft, Changpeng Zhao of Binance Details the Talks Leading to His Prison Time",
-    "link": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
-    "summary": "In a draft of his memoir, Changpeng Zhao, the founder of Binance, laid out the secret negotiations that led to his imprisonment and a run-in with ICE.",
-    "published": "2026-02-28T02:26:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Pentagon-Anthropic Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
-    "link": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
-    "summary": "The Pentagon’s contract dispute with Anthropic is part of a wider clash about the use of artificial intelligence for national security and who decides on any safeguards.",
-    "published": "2026-02-27T21:06:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Is A.I. Eating the Labor Market? + The Latest on the Pentagon, OpenClaw and Alpha School",
-    "link": "https://www.nytimes.com/2026/02/27/podcasts/is-ai-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
-    "summary": "“I think the mere fact that the markets can move so much, based on almost nothing, underscores how high anxiety is right now.”",
-    "published": "2026-02-27T12:00:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A World Where All Is Free? That’s Elon Musk’s Theory of ‘Sustainable Abundance.’",
-    "link": "https://www.nytimes.com/2026/02/27/business/a-world-where-all-is-free-thats-elon-musks-theory-of-sustainable-abundance.html",
-    "summary": "The Tesla and SpaceX chief has told his followers that they will live in a world where robots will take care of every need and people do not have to work, in what has become his latest slogan.",
-    "published": "2026-02-27T10:02:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk’s Secret Web of Companies in Texas",
-    "link": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
-    "summary": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump’s re-election, according to a Times examination.",
-    "published": "2026-02-27T10:00:35",
     "source": "NYT > Technology"
   }
 ]
