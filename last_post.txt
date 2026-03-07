@@ -1,1 +1,1 @@
-GPL upgrades via section 14 proxy delegation https://runxiyu.org/comp/gplproxy/
+Sarvam 105B, the first competitive Indian open source LLM https://www.sarvam.ai/blogs/sarvam-30b-105b
