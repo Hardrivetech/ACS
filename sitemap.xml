@@ -1,91 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-03-07</lastmod>
+    <lastmod>2026-03-08</lastmod>
   </url>
   <url>
-    <loc>https://www.sarvam.ai/blogs/sarvam-30b-105b</loc>
-    <lastmod>2026-03-07T07:43:57</lastmod>
+    <loc>https://github.com/NERVsystems/llm9p</loc>
+    <lastmod>2026-03-08T08:52:19</lastmod>
   </url>
   <url>
-    <loc>https://iisc.ac.in/events/worming-out-molecular-secrets-behind-collective-behaviour/</loc>
-    <lastmod>2026-03-07T05:12:53</lastmod>
+    <loc>https://arxiv.org/abs/2603.03823</loc>
+    <lastmod>2026-03-08T08:11:50</lastmod>
   </url>
   <url>
-    <loc>https://github.com/golang/go/issues/62026</loc>
-    <lastmod>2026-03-07T02:03:21</lastmod>
+    <loc>https://www.infoq.com/news/2026/03/agents-context-file-value-review/</loc>
+    <lastmod>2026-03-08T07:52:38</lastmod>
   </url>
   <url>
-    <loc>https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code</loc>
-    <lastmod>2026-03-07T01:17:57</lastmod>
+    <loc>https://curiosity-telescope.vercel.app/</loc>
+    <lastmod>2026-03-08T07:16:15</lastmod>
   </url>
   <url>
-    <loc>https://americaindata.com/</loc>
-    <lastmod>2026-03-07T00:28:56</lastmod>
+    <loc>https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers</loc>
+    <lastmod>2026-03-08T06:21:28</lastmod>
   </url>
   <url>
-    <loc>https://github.com/c0m4r/kula</loc>
-    <lastmod>2026-03-07T00:07:25</lastmod>
+    <loc>https://github.com/MonoGame/MonoGame</loc>
+    <lastmod>2026-03-08T02:16:02</lastmod>
   </url>
   <url>
-    <loc>https://news.ycombinator.com/item?id=47282777</loc>
-    <lastmod>2026-03-07T00:05:06</lastmod>
+    <loc>https://github.com/astral-sh/uv/pull/17643</loc>
+    <lastmod>2026-03-08T01:35:21</lastmod>
   </url>
   <url>
-    <loc>https://plasma-bigscreen.org</loc>
-    <lastmod>2026-03-06T23:59:16</lastmod>
+    <loc>https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html</loc>
+    <lastmod>2026-03-08T00:44:32</lastmod>
   </url>
   <url>
-    <loc>https://helix-editor.com/</loc>
-    <lastmod>2026-03-06T23:53:29</lastmod>
+    <loc>https://unsloth.ai/docs/models/qwen3.5</loc>
+    <lastmod>2026-03-07T23:32:17</lastmod>
   </url>
   <url>
-    <loc>https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap</loc>
-    <lastmod>2026-03-06T22:55:37</lastmod>
+    <loc>https://github.com/mistivia/lmp</loc>
+    <lastmod>2026-03-07T22:21:57</lastmod>
   </url>
   <url>
-    <loc>https://will-keleher.com/posts/this-css-makes-me-human/</loc>
-    <lastmod>2026-03-06T21:52:44</lastmod>
+    <loc>https://tropes.fyi/tropes-md</loc>
+    <lastmod>2026-03-07T21:08:40</lastmod>
   </url>
   <url>
-    <loc>https://acid.vegas/blog/the-shady-world-of-ip-leasing/</loc>
-    <lastmod>2026-03-06T21:19:25</lastmod>
+    <loc>https://github.com/0x0mer/CasNum</loc>
+    <lastmod>2026-03-07T20:43:51</lastmod>
   </url>
   <url>
-    <loc>https://www.adaic.org/ada-resources/standards/ada22/</loc>
-    <lastmod>2026-03-06T20:03:48</lastmod>
+    <loc>https://github.com/karpathy/autoresearch</loc>
+    <lastmod>2026-03-07T20:22:45</lastmod>
   </url>
   <url>
-    <loc>https://news.ycombinator.com/item?id=47278980</loc>
-    <lastmod>2026-03-06T18:26:21</lastmod>
+    <loc>https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html</loc>
+    <lastmod>2026-03-07T19:36:22</lastmod>
   </url>
   <url>
-    <loc>https://twitter.com/JosephPolitano/status/2029916364664611242</loc>
-    <lastmod>2026-03-06T17:46:45</lastmod>
+    <loc>https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html</loc>
+    <lastmod>2026-03-07T18:35:56</lastmod>
   </url>
   <url>
-    <loc>https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead</loc>
-    <lastmod>2026-03-06T17:00:38</lastmod>
+    <loc>https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/</loc>
+    <lastmod>2026-03-07T18:32:05</lastmod>
+  </url>
+  <url>
+    <loc>https://signoz.io/careers</loc>
+    <lastmod>2026-03-07T17:01:14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html</loc>
+    <lastmod>2026-03-07T16:58:09</lastmod>
+  </url>
+  <url>
+    <loc>https://cacm.acm.org/research/a-decade-of-docker-containers/</loc>
+    <lastmod>2026-03-07T16:55:18</lastmod>
+  </url>
+  <url>
+    <loc>https://spectrum.ieee.org/flash-radiotherapy</loc>
+    <lastmod>2026-03-07T15:33:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan</loc>
+    <lastmod>2026-03-07T13:12:40</lastmod>
+  </url>
+  <url>
+    <loc>https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/</loc>
+    <lastmod>2026-03-07T10:48:43</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html</loc>
+    <lastmod>2026-03-07T10:00:56</lastmod>
+  </url>
+  <url>
+    <loc>https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/</loc>
+    <lastmod>2026-03-06T20:57:07</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html</loc>
     <lastmod>2026-03-06T16:52:09</lastmod>
-  </url>
-  <url>
-    <loc>https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan</loc>
-    <lastmod>2026-03-06T15:53:32</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/elder-plinius/OBLITERATUS</loc>
-    <lastmod>2026-03-06T14:27:55</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/moongate-community/moongatev2</loc>
-    <lastmod>2026-03-06T14:22:59</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lumafield.com/scan-of-the-month/health-wearables</loc>
-    <lastmod>2026-03-06T14:16:06</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html</loc>
@@ -136,10 +152,6 @@
     <lastmod>2026-03-03T23:38:36</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/02/28/fashion/watches-apiar-3d-printing.html</loc>
-    <lastmod>2026-03-03T15:56:55</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html</loc>
     <lastmod>2026-03-03T03:57:04</lastmod>
   </url>
@@ -162,9 +174,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html</loc>
     <lastmod>2026-03-01T10:01:10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html</loc>
-    <lastmod>2026-03-01T00:18:16</lastmod>
   </url>
 </urlset>
