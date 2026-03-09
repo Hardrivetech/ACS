@@ -1,93 +1,142 @@
 [
   {
-    "title": "Llm9p: LLM as a Plan 9 file system",
-    "link": "https://github.com/NERVsystems/llm9p",
-    "summary": "<p>Article URL: <a href=\"https://github.com/NERVsystems/llm9p\">https://github.com/NERVsystems/llm9p</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47295708\">https://news.ycombinator.com/item?id=47295708</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-08T08:52:19",
+    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+    "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+    "summary": "<p>Article URL: <a href=\"https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf\">https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47305461\">https://news.ycombinator.com/item?id=47305461</a></p>\n<p>Points: 149</p>\n<p># Comments: 60</p>",
+    "published": "2026-03-09T06:28:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-    "link": "https://arxiv.org/abs/2603.03823",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.03823\">https://arxiv.org/abs/2603.03823</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47295537\">https://news.ycombinator.com/item?id=47295537</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-    "published": "2026-03-08T08:11:50",
+    "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
+    "link": "https://github.com/knowsuchagency/mcp2cli",
+    "summary": "<p>Every MCP server injects its full tool schemas into context on every turn — 30 tools costs ~3,600 tokens/turn whether the model uses them or not. Over 25 turns with 120 tools, that's 362,000 tokens just for schemas.<p>mcp2cli turns any MCP server or OpenAPI spec into a CLI at runtime. The LLM discovers tools on demand:<p><pre><code>    mcp2cli --mcp https://mcp.example.com/sse --list             # ~16 tokens/tool\n    mcp2cli --mcp https://mcp.example.com/sse create-task --help  # ~120 tokens, once\n    mcp2cli --mcp https://mcp.example.com/sse create-task --title \"Fix bug\"\n</code></pre>\nNo codegen, no rebuild when the server changes. Works with any LLM — it's just a CLI the model shells out to. Also handles OpenAPI specs (JSON/YAML, local or remote) with the same interface.<p>Token savings are real, measured with cl100k_base: 96% for 30 tools over 15 turns, 99% for 120 tools over 25 turns.<p>It also ships as an installable skill for AI coding agents (Claude Code, Cursor, Codex): `npx skills add knowsuchagency/mcp2cli --skill mcp2cli`<p>Inspired by Kagan Yilmaz's CLI vs MCP analysis and CLIHub.<p><a href=\"https://github.com/knowsuchagency/mcp2cli\" rel=\"nofollow\">https://github.com/knowsuchagency/mcp2cli</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47305149\">https://news.ycombinator.com/item?id=47305149</a></p>\n<p>Points: 61</p>\n<p># Comments: 31</p>",
+    "published": "2026-03-09T05:18:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-    "link": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
-    "summary": "<p>Article URL: <a href=\"https://www.infoq.com/news/2026/03/agents-context-file-value-review/\">https://www.infoq.com/news/2026/03/agents-context-file-value-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47295454\">https://news.ycombinator.com/item?id=47295454</a></p>\n<p>Points: 8</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-08T07:52:38",
+    "title": "The death of social media is the renaissance of RSS (2025)",
+    "link": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+    "summary": "<p>Article URL: <a href=\"https://www.smartlab.at/rss-revival-life-after-social-media/\">https://www.smartlab.at/rss-revival-life-after-social-media/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47304886\">https://news.ycombinator.com/item?id=47304886</a></p>\n<p>Points: 133</p>\n<p># Comments: 74</p>",
+    "published": "2026-03-09T04:27:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
-    "link": "https://curiosity-telescope.vercel.app/",
-    "summary": "<p>A DIY Newtonian reflector telescope with dobsonian mount. A fun to do hobby project taking us closer to the moon and beyond. A lot of plans ahead on how  to make it much better and portable but this was the first time me and my friend implemented or rather built a telescope.<p>Have a look at what all we have captured.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47295279\">https://news.ycombinator.com/item?id=47295279</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-08T07:16:15",
+    "title": "How the Sriracha guys screwed over their supplier",
+    "link": "https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/",
+    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/\">https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47304831\">https://news.ycombinator.com/item?id=47304831</a></p>\n<p>Points: 164</p>\n<p># Comments: 36</p>",
+    "published": "2026-03-09T04:16:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "To the Polypropylene Makers",
-    "link": "https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers",
-    "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers\">https://www.lesswrong.com/posts/HQTueNS4mLaGy3BBL/here-s-to-the-polypropylene-makers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47295040\">https://news.ycombinator.com/item?id=47295040</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
-    "published": "2026-03-08T06:21:28",
+    "title": "Ask HN: What Are You Working On? (March 2026)",
+    "link": "https://news.ycombinator.com/item?id=47303111",
+    "summary": "<p>What are you working on?  Any new ideas that you're thinking about?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47303111\">https://news.ycombinator.com/item?id=47303111</a></p>\n<p>Points: 143</p>\n<p># Comments: 489</p>",
+    "published": "2026-03-09T00:07:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "MonoGame: A .NET framework for making cross-platform games",
-    "link": "https://github.com/MonoGame/MonoGame",
-    "summary": "<p>Article URL: <a href=\"https://github.com/MonoGame/MonoGame\">https://github.com/MonoGame/MonoGame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47293682\">https://news.ycombinator.com/item?id=47293682</a></p>\n<p>Points: 70</p>\n<p># Comments: 39</p>",
-    "published": "2026-03-08T02:16:02",
+    "title": "Linux Internals: How /proc/self/mem writes to unwritable memory (2021)",
+    "link": "https://offlinemark.com/an-obscure-quirk-of-proc/",
+    "summary": "<p>Article URL: <a href=\"https://offlinemark.com/an-obscure-quirk-of-proc/\">https://offlinemark.com/an-obscure-quirk-of-proc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47302463\">https://news.ycombinator.com/item?id=47302463</a></p>\n<p>Points: 80</p>\n<p># Comments: 18</p>",
+    "published": "2026-03-08T22:50:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "\"Warn about PyPy being unmaintained\"",
-    "link": "https://github.com/astral-sh/uv/pull/17643",
-    "summary": "<p>Article URL: <a href=\"https://github.com/astral-sh/uv/pull/17643\">https://github.com/astral-sh/uv/pull/17643</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47293415\">https://news.ycombinator.com/item?id=47293415</a></p>\n<p>Points: 159</p>\n<p># Comments: 48</p>",
-    "published": "2026-03-08T01:35:21",
+    "title": "Artificial-life: A simple (300 lines of code) reproduction of Computational Life",
+    "link": "https://github.com/Rabrg/artificial-life",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Rabrg/artificial-life\">https://github.com/Rabrg/artificial-life</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47301233\">https://news.ycombinator.com/item?id=47301233</a></p>\n<p>Points: 110</p>\n<p># Comments: 11</p>",
+    "published": "2026-03-08T20:42:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Cloud VM benchmarks 2026",
-    "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
-    "summary": "<p>Article URL: <a href=\"https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html\">https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47293119\">https://news.ycombinator.com/item?id=47293119</a></p>\n<p>Points: 212</p>\n<p># Comments: 97</p>",
-    "published": "2026-03-08T00:44:32",
+    "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+    "link": "https://agent-safehouse.dev/",
+    "summary": "<p>Article URL: <a href=\"https://agent-safehouse.dev/\">https://agent-safehouse.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47301085\">https://news.ycombinator.com/item?id=47301085</a></p>\n<p>Points: 563</p>\n<p># Comments: 141</p>",
+    "published": "2026-03-08T20:30:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How to run Qwen 3.5 locally",
-    "link": "https://unsloth.ai/docs/models/qwen3.5",
-    "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/qwen3.5\">https://unsloth.ai/docs/models/qwen3.5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47292522\">https://news.ycombinator.com/item?id=47292522</a></p>\n<p>Points: 129</p>\n<p># Comments: 30</p>",
-    "published": "2026-03-07T23:32:17",
+    "title": "We should revisit literate programming in the agent era",
+    "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+    "summary": "<p>Article URL: <a href=\"https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/\">https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47300747\">https://news.ycombinator.com/item?id=47300747</a></p>\n<p>Points: 233</p>\n<p># Comments: 138</p>",
+    "published": "2026-03-08T19:58:15",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Lisp-style C++ template meta programming",
-    "link": "https://github.com/mistivia/lmp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mistivia/lmp\">https://github.com/mistivia/lmp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47292029\">https://news.ycombinator.com/item?id=47292029</a></p>\n<p>Points: 45</p>\n<p># Comments: 7</p>",
-    "published": "2026-03-07T22:21:57",
+    "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+    "link": "https://github.com/BigBodyCobain/Shadowbroker",
+    "summary": "<p>Sup HN,<p>So I got tired of bouncing between Flightradar, MarineTraffic, and Twitter every time something kicked off globally, so I wrote a dashboard to aggregate it all locally. It’s called Shadowbroker.<p>I’ll admit I leaned way too hard into the \"movie hacker\" aesthetic for the UI, but the actual pipeline underneath is real. It pulls commercial/military ADS-B, the AIS WebSocket stream (about 25,000+ ships), N2YO satellite telemetry, and GDELT conflict data into a single MapLibre instance.<p>Getting this to run without melting my browser was the hardest part. I'm running this on a laptop with an i5 and an RTX 3050, and initially, dumping 30k+ moving GeoJSON features onto the map just crashed everything. I ended up having to write pretty aggressive viewport culling, debounce the state updates, and compress the FastAPI payloads by like 90% just to make it usable.<p>My favorite part is the signal layer—it actually calculates live GPS jamming zones by aggregating the real-time navigation degradation (NAC-P) of commercial flights overhead.<p>It’s Next.js and Python. I threw a quick-start script in the releases if you just want to spin it up, but the repo is open if you want to dig into the backend.<p>Let me know if my MapLibre implementation is terrible, I'm always looking for ways to optimize the rendering.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47300102\">https://news.ycombinator.com/item?id=47300102</a></p>\n<p>Points: 234</p>\n<p># Comments: 99</p>",
+    "published": "2026-03-08T19:07:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "LLM Writing Tropes.md",
-    "link": "https://tropes.fyi/tropes-md",
-    "summary": "<p>Article URL: <a href=\"https://tropes.fyi/tropes-md\">https://tropes.fyi/tropes-md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47291513\">https://news.ycombinator.com/item?id=47291513</a></p>\n<p>Points: 187</p>\n<p># Comments: 76</p>",
-    "published": "2026-03-07T21:08:40",
+    "title": "I made a programming language with M&Ms",
+    "link": "https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/",
+    "summary": "<p>Article URL: <a href=\"https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/\">https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47299606\">https://news.ycombinator.com/item?id=47299606</a></p>\n<p>Points: 79</p>\n<p># Comments: 34</p>",
+    "published": "2026-03-08T18:18:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "CasNum",
-    "link": "https://github.com/0x0mer/CasNum",
-    "summary": "<p>Article URL: <a href=\"https://github.com/0x0mer/CasNum\">https://github.com/0x0mer/CasNum</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47291292\">https://news.ycombinator.com/item?id=47291292</a></p>\n<p>Points: 276</p>\n<p># Comments: 36</p>",
-    "published": "2026-03-07T20:43:51",
+    "title": "WSL Manager",
+    "link": "https://github.com/bostrot/wsl2-distro-manager",
+    "summary": "<p>Article URL: <a href=\"https://github.com/bostrot/wsl2-distro-manager\">https://github.com/bostrot/wsl2-distro-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47299505\">https://news.ycombinator.com/item?id=47299505</a></p>\n<p>Points: 104</p>\n<p># Comments: 55</p>",
+    "published": "2026-03-08T18:08:36",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-    "link": "https://github.com/karpathy/autoresearch",
-    "summary": "<p>Article URL: <a href=\"https://github.com/karpathy/autoresearch\">https://github.com/karpathy/autoresearch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47291123\">https://news.ycombinator.com/item?id=47291123</a></p>\n<p>Points: 110</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-07T20:22:45",
+    "title": "Show HN: Skir – like Protocol Buffer but better",
+    "link": "https://skir.build/",
+    "summary": "<p>Why I built Skir: <a href=\"https://medium.com/@gepheum/i-spent-15-years-with-protobuf-then-i-built-skir-9cf61cc65631\" rel=\"nofollow\">https://medium.com/@gepheum/i-spent-15-years-with-protobuf-t...</a><p>Quick start: npx skir init<p>All the config lives in one YML file.<p>Website: <a href=\"https://skir.build\" rel=\"nofollow\">https://skir.build</a><p>GitHub: <a href=\"https://github.com/gepheum/skir\" rel=\"nofollow\">https://github.com/gepheum/skir</a><p>Would love feedback especially from teams running mixed-language stacks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47299022\">https://news.ycombinator.com/item?id=47299022</a></p>\n<p>Points: 88</p>\n<p># Comments: 45</p>",
+    "published": "2026-03-08T17:17:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "My Homelab Setup",
+    "link": "https://bryananthonio.com/blog/my-homelab-setup/",
+    "summary": "<p>Article URL: <a href=\"https://bryananthonio.com/blog/my-homelab-setup/\">https://bryananthonio.com/blog/my-homelab-setup/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47298743\">https://news.ycombinator.com/item?id=47298743</a></p>\n<p>Points: 228</p>\n<p># Comments: 150</p>",
+    "published": "2026-03-08T16:46:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FrameBook",
+    "link": "https://fb.edoo.gg",
+    "summary": "<p>Article URL: <a href=\"https://fb.edoo.gg\">https://fb.edoo.gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47298044\">https://news.ycombinator.com/item?id=47298044</a></p>\n<p>Points: 430</p>\n<p># Comments: 72</p>",
+    "published": "2026-03-08T15:21:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Living human brain cells play DOOM on a CL1 [video]",
+    "link": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=yRV8fSw6HaE\">https://www.youtube.com/watch?v=yRV8fSw6HaE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47297919\">https://news.ycombinator.com/item?id=47297919</a></p>\n<p>Points: 187</p>\n<p># Comments: 183</p>",
+    "published": "2026-03-08T15:07:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ask HN: How to be alone?",
+    "link": "https://news.ycombinator.com/item?id=47296547",
+    "summary": "<p>For the first time in my life, at 38, I'm alone. When I was 18 I basically moved out of my parents' straight in with my highschool sweetheart, and we were together ever since. That chapter of my life is over now, and I'm finding the adjustment very difficult.<p>There are a few parts to the difficulty. One is that when I have something to say about my day, there's nowhere to say it; no one on HN cares whether I fixed up the blinds or cooked pork steaks. I hang out in an IRC chatroom for that, but sometimes nobody's around for hours.<p>Another is that weekends are hard. I used to be in a house filled with life each weekend, and now it's me and my dog (and my cat, when he decides to grace me with his presence). Having animals helps somewhat, but it's still hard simply being alone with myself for ~60 hours.<p>I'm also finding it difficult to think of things to do. My default action is to play games, but it feels empty, both because I used to be able to play games alongside someone else and because I have no one to share the cool moments with.<p>I understand that many of you find alone-ness to be natural, and even required. All I can say is that I haven't ever lived that way. I sometimes panic when it's been too long since I've seen another person.<p>There are the usual suggestions: go to the dog park more often, pick something and build it, read books, hop on dating sites, find a hobby, and so on. But I'm finding it hard to actually do any of that. I would blame depression, but I have a great psychiatrist who has me on antidepressants, anti-anxiety meds, and mood stabilizers.<p>I work remote, and that's currently my main way to gratify social cravings. But it's not a consistent way, since the time zone difference is quite large (I'm -7 hours vs them).<p>Everything feels hollow now. That's the main thing that's hard to adjust to. I was hoping for some psychological tricks to deal with that, or just to hear stories from other people who have had to undergo similar situations. In many ways it feels like being imprisoned, except at least in prison there are other inmates to socialize with. \"Solitary confinement with internet\" is probably a better analogy.<p>I was hoping to hear from anyone in the community who's transitioned from a family dynamic to being on your own, and to learn from any lessons you've picked up along the way. Or just to hear some stories in general about your experiences. Thanks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47296547\">https://news.ycombinator.com/item?id=47296547</a></p>\n<p>Points: 458</p>\n<p># Comments: 325</p>",
+    "published": "2026-03-08T11:41:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "PCB devboard the size of a USB-C plug",
+    "link": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Dieu-de-l-elec/AngstromIO-devboard\">https://github.com/Dieu-de-l-elec/AngstromIO-devboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47294582\">https://news.ycombinator.com/item?id=47294582</a></p>\n<p>Points: 170</p>\n<p># Comments: 32</p>",
+    "published": "2026-03-08T05:04:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pushing and Pulling: Three reactivity algorithms",
+    "link": "https://jonathan-frere.com/posts/reactivity-algorithms/",
+    "summary": "<p>Article URL: <a href=\"https://jonathan-frere.com/posts/reactivity-algorithms/\">https://jonathan-frere.com/posts/reactivity-algorithms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47293195\">https://news.ycombinator.com/item?id=47293195</a></p>\n<p>Points: 99</p>\n<p># Comments: 16</p>",
+    "published": "2026-03-08T00:57:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microscopes can see video on a laserdisc",
+    "link": "https://www.youtube.com/watch?v=qZuR-772cks",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=qZuR-772cks\">https://www.youtube.com/watch?v=qZuR-772cks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47291876\">https://news.ycombinator.com/item?id=47291876</a></p>\n<p>Points: 428</p>\n<p># Comments: 49</p>",
+    "published": "2026-03-07T22:03:37",
     "source": "Hacker News: Front Page"
   },
   {
@@ -105,53 +154,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The surprising whimsy of the Time Zone Database",
-    "link": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
-    "summary": "<p>Article URL: <a href=\"https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/\">https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47290198\">https://news.ycombinator.com/item?id=47290198</a></p>\n<p>Points: 115</p>\n<p># Comments: 34</p>",
-    "published": "2026-03-07T18:32:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SigNoz (YC W21) is hiring for engineering, growth and product roles",
-    "link": "https://signoz.io/careers",
-    "summary": "<p>Article URL: <a href=\"https://signoz.io/careers\">https://signoz.io/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47289357\">https://news.ycombinator.com/item?id=47289357</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-07T17:01:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
     "link": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
     "summary": "A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry.",
-    "published": "2026-03-07T16:58:09",
+    "published": "2026-03-07T16:58:10",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "A decade of Docker containers",
-    "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-    "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/research/a-decade-of-docker-containers/\">https://cacm.acm.org/research/a-decade-of-docker-containers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47289311\">https://news.ycombinator.com/item?id=47289311</a></p>\n<p>Points: 295</p>\n<p># Comments: 202</p>",
-    "published": "2026-03-07T16:55:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FLASH radiotherapy's bold approach to cancer treatment",
-    "link": "https://spectrum.ieee.org/flash-radiotherapy",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/flash-radiotherapy\">https://spectrum.ieee.org/flash-radiotherapy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47288533\">https://news.ycombinator.com/item?id=47288533</a></p>\n<p>Points: 208</p>\n<p># Comments: 62</p>",
-    "published": "2026-03-07T15:33:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Yoghurt delivery women combatting loneliness in Japan",
-    "link": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan\">https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47287344\">https://news.ycombinator.com/item?id=47287344</a></p>\n<p>Points: 280</p>\n<p># Comments: 152</p>",
-    "published": "2026-03-07T13:12:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Files are the interface humans and agents interact with",
-    "link": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-    "summary": "<p>Article URL: <a href=\"https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/\">https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47286408\">https://news.ycombinator.com/item?id=47286408</a></p>\n<p>Points: 216</p>\n<p># Comments: 118</p>",
-    "published": "2026-03-07T10:48:43",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Are A.I.-Generated Videos Changing How We See Animals?",
@@ -159,13 +166,6 @@
     "summary": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
     "published": "2026-03-07T10:00:56",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Re-creating the complex cuisine of prehistoric Europeans",
-    "link": "https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/\">https://arstechnica.com/science/2026/03/recreating-the-complex-cuisine-of-prehistoric-europeans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47280958\">https://news.ycombinator.com/item?id=47280958</a></p>\n<p>Points: 78</p>\n<p># Comments: 32</p>",
-    "published": "2026-03-06T20:57:07",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
@@ -273,13 +273,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
-    "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
-    "summary": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal.",
-    "published": "2026-03-02T21:16:52",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
     "link": "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
     "summary": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
@@ -291,13 +284,6 @@
     "link": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
     "summary": "Accurate journalism requires full and fair reporting. It means pushing hard to hear from those you’re writing about.",
     "published": "2026-03-02T16:38:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
-    "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
-    "summary": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
-    "published": "2026-03-01T10:01:10",
     "source": "NYT > Technology"
   }
 ]
