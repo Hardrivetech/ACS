@@ -1,30 +1,198 @@
 [
   {
-    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-    "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-    "summary": "<p>Article URL: <a href=\"https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md\">https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47320661\">https://news.ycombinator.com/item?id=47320661</a></p>\n<p>Points: 48</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-10T08:54:53",
+    "title": "They Don’t Want Their Company’s Surveillance Tool Used by ICE",
+    "link": "https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html",
+    "summary": "Thomson Reuters, best known for its media outlet and legal research tools, provides an investigative tool to immigration enforcers. Its Minnesota employees want that to stop.",
+    "published": "2026-03-11T09:02:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "AutoKernel: Autoresearch for GPU Kernels",
+    "link": "https://github.com/RightNow-AI/autokernel",
+    "summary": "<p>Article URL: <a href=\"https://github.com/RightNow-AI/autokernel\">https://github.com/RightNow-AI/autokernel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47332688\">https://news.ycombinator.com/item?id=47332688</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+    "published": "2026-03-11T07:42:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-    "link": "https://loger-project.github.io",
-    "summary": "<p>Article URL: <a href=\"https://loger-project.github.io\">https://loger-project.github.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47319620\">https://news.ycombinator.com/item?id=47319620</a></p>\n<p>Points: 25</p>\n<p># Comments: 12</p>",
-    "published": "2026-03-10T06:16:06",
+    "title": "I'm going to build my own OpenClaw, with blackjack and bun",
+    "link": "https://github.com/rcarmo/piclaw",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rcarmo/piclaw\">https://github.com/rcarmo/piclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47332649\">https://news.ycombinator.com/item?id=47332649</a></p>\n<p>Points: 27</p>\n<p># Comments: 20</p>",
+    "published": "2026-03-11T07:36:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: I Was Here – Draw on street view, others can find your drawings",
-    "link": "https://washere.live",
-    "summary": "<p>Hey HN, I made a site where you can draw on street-level panoramas. Your drawings persist and other people can see them in real time.<p>Strokes get projected onto the 3D panorama so they wrap around buildings and follow the geometry, not just a flat overlay. Uses WebGL2 for rendering, Mapillary for the street imagery.<p>The idea is for it to become a global canvas, anyone can leave a mark anywhere and others stumble onto it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47319255\">https://news.ycombinator.com/item?id=47319255</a></p>\n<p>Points: 23</p>\n<p># Comments: 17</p>",
-    "published": "2026-03-10T05:04:23",
+    "title": "Create value for others and don’t worry about the returns",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+    "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html\">https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47332074\">https://news.ycombinator.com/item?id=47332074</a></p>\n<p>Points: 298</p>\n<p># Comments: 139</p>",
+    "published": "2026-03-11T05:45:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+    "link": "https://www.hume.ai/blog/opensource-tada",
+    "summary": "<p>Article URL: <a href=\"https://www.hume.ai/blog/opensource-tada\">https://www.hume.ai/blog/opensource-tada</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47332054\">https://news.ycombinator.com/item?id=47332054</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
+    "published": "2026-03-11T05:42:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Standardizing source maps",
+    "link": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+    "summary": "<p>Article URL: <a href=\"https://bloomberg.github.io/js-blog/post/standardizing-source-maps/\">https://bloomberg.github.io/js-blog/post/standardizing-source-maps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47331802\">https://news.ycombinator.com/item?id=47331802</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+    "published": "2026-03-11T04:42:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Writing my own text editor, and daily-driving it",
+    "link": "https://blog.jsbarretto.com/post/text-editor",
+    "summary": "<p>Article URL: <a href=\"https://blog.jsbarretto.com/post/text-editor\">https://blog.jsbarretto.com/post/text-editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47331034\">https://news.ycombinator.com/item?id=47331034</a></p>\n<p>Points: 98</p>\n<p># Comments: 25</p>",
+    "published": "2026-03-11T02:04:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zig – Type Resolution Redesign and Language Changes",
+    "link": "https://ziglang.org/devlog/2026/#2026-03-10",
+    "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-03-10\">https://ziglang.org/devlog/2026/#2026-03-10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47330836\">https://news.ycombinator.com/item?id=47330836</a></p>\n<p>Points: 200</p>\n<p># Comments: 64</p>",
+    "published": "2026-03-11T01:24:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Universal vaccine against respiratory infections and allergens",
+    "link": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+    "summary": "<p>Article URL: <a href=\"https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html\">https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47329608\">https://news.ycombinator.com/item?id=47329608</a></p>\n<p>Points: 244</p>\n<p># Comments: 79</p>",
+    "published": "2026-03-10T22:33:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "U+237C ⍼ Is Azimuth",
+    "link": "https://ionathan.ch/2026/02/16/angzarr.html",
+    "summary": "<p>Article URL: <a href=\"https://ionathan.ch/2026/02/16/angzarr.html\">https://ionathan.ch/2026/02/16/angzarr.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47329605\">https://news.ycombinator.com/item?id=47329605</a></p>\n<p>Points: 288</p>\n<p># Comments: 28</p>",
+    "published": "2026-03-10T22:33:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare crawl endpoint",
+    "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+    "summary": "<p>Article URL: <a href=\"https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/\">https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47329557\">https://news.ycombinator.com/item?id=47329557</a></p>\n<p>Points: 290</p>\n<p># Comments: 114</p>",
+    "published": "2026-03-10T22:27:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RISC-V Is Sloooow",
+    "link": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+    "summary": "<p>Article URL: <a href=\"https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/\">https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47328214\">https://news.ycombinator.com/item?id=47328214</a></p>\n<p>Points: 236</p>\n<p># Comments: 223</p>",
+    "published": "2026-03-10T20:11:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Agents that run while I sleep",
+    "link": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "summary": "<p>Article URL: <a href=\"https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep\">https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47327559\">https://news.ycombinator.com/item?id=47327559</a></p>\n<p>Points: 326</p>\n<p># Comments: 342</p>",
+    "published": "2026-03-10T19:09:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
+    "link": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
+    "summary": "Matt Schlicht, the site’s creator, helped kick off Silicon Valley’s obsession with artificial intelligence agents. Two months later, he is joining the Meta Superintelligence Lab.",
+    "published": "2026-03-10T19:03:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
+    "link": "https://github.com/torlando-tech/columba",
+    "summary": "<p>Article URL: <a href=\"https://github.com/torlando-tech/columba\">https://github.com/torlando-tech/columba</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47327473\">https://news.ycombinator.com/item?id=47327473</a></p>\n<p>Points: 90</p>\n<p># Comments: 10</p>",
+    "published": "2026-03-10T19:02:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
+    "link": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
+    "summary": "Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.",
+    "published": "2026-03-10T18:35:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
+    "link": "https://github.com/steelbrain/ffmpeg-over-ip",
+    "summary": "<p>Article URL: <a href=\"https://github.com/steelbrain/ffmpeg-over-ip\">https://github.com/steelbrain/ffmpeg-over-ip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47327015\">https://news.ycombinator.com/item?id=47327015</a></p>\n<p>Points: 181</p>\n<p># Comments: 59</p>",
+    "published": "2026-03-10T18:26:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+    "link": "https://github.com/RunanywhereAI/rcli",
+    "summary": "<p>Hi HN, we're Sanchit and Shubham (YC W26). We built a fast inference engine for Apple Silicon. LLMs, speech-to-text, text-to-speech – MetalRT beats llama.cpp, Apple's MLX, Ollama, and sherpa-onnx on every modality we tested. Custom Metal shaders, no framework overhead.<p>Also, we've open-sourced RCLI, the fastest end-to-end voice AI pipeline on Apple Silicon. Mic to spoken response, entirely on-device. No cloud, no API keys.<p>To get started:<p><pre><code>  brew tap RunanywhereAI/rcli https://github.com/RunanywhereAI/RCLI.git\n  brew install rcli\n  rcli setup   # downloads ~1 GB of models\n  rcli         # interactive mode with push-to-talk\n</code></pre>\nOr:<p><pre><code>  curl -fsSL https://raw.githubusercontent.com/RunanywhereAI/RCLI/main/install.sh | bash\n</code></pre>\nThe numbers (M4 Max, 64 GB, reproducible via `rcli bench`):<p>LLM decode – 1.67x faster than llama.cpp, 1.19x faster than Apple MLX (same model files):\n- Qwen3-0.6B: 658 tok/s (vs mlx-lm 552, llama.cpp 295)\n- Qwen3-4B: 186 tok/s (vs mlx-lm 170, llama.cpp 87)\n- LFM2.5-1.2B: 570 tok/s (vs mlx-lm 509, llama.cpp 372)\n- Time-to-first-token: 6.6 ms<p>STT – 70 seconds of audio transcribed in *101 ms*. That's 714x real-time. 4.6x faster than mlx-whisper.<p>TTS – 178 ms synthesis. 2.8x faster than mlx-audio and sherpa-onnx.<p>We built this because demoing on-device AI is easy but shipping it is brutal. Voice is the hardest test: you're chaining STT, LLM, and TTS sequentially, and if any stage is slow, the user feels it. Most teams fall back to cloud APIs not because local models are bad, but because local inference infrastructure is.<p>The thing that's hard to solve is latency compounding. In a voice pipeline, you're stacking three models in sequence. If each adds 200ms, you're at 600ms before the user hears a word, and that feels broken. You can't optimize one stage and call it done. Every stage needs to be fast, on one device, with no network round-trip to hide behind.<p>We went straight to Metal. Custom GPU compute shaders, all memory pre-allocated at init (zero allocations during inference), and one unified engine for all three modalities instead of stitching separate runtimes together.<p>MetalRT is the first engine to handle all three modalities natively on Apple Silicon. Full methodology:<p>LLM benchmarks: <a href=\"https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon\">https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-e...</a><p>Speech benchmarks: <a href=\"https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-tts-apple-silicon\">https://www.runanywhere.ai/blog/metalrt-speech-fastest-stt-t...</a><p>How: Most inference engines add layers between you and the GPU: graph schedulers, runtime dispatchers, memory managers. MetalRT skips all of it. Custom Metal compute shaders for quantized matmul, attention, and activation - compiled ahead of time, dispatched directly.<p>Voice Pipeline optimizations details: <a href=\"https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon\">https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai...</a>\nRAG optimizations: <a href=\"https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai\">https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retr...</a><p>RCLI is the open-source voice pipeline (MIT) built on MetalRT: three concurrent threads with lock-free ring buffers, double-buffered TTS, 38 macOS actions by voice, local RAG (~4 ms over 5K+ chunks), 20 hot-swappable models, and a full-screen TUI with per-op latency readouts. Falls back to llama.cpp when MetalRT isn't installed.<p>Source: <a href=\"https://github.com/RunanywhereAI/RCLI\" rel=\"nofollow\">https://github.com/RunanywhereAI/RCLI</a> (MIT)<p>Demo: <a href=\"https://www.youtube.com/watch?v=eTYwkgNoaKg\" rel=\"nofollow\">https://www.youtube.com/watch?v=eTYwkgNoaKg</a><p>What would you build if on-device AI were genuinely as fast as cloud?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47326101\">https://news.ycombinator.com/item?id=47326101</a></p>\n<p>Points: 209</p>\n<p># Comments: 130</p>",
+    "published": "2026-03-10T17:14:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries",
+    "link": "https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html",
+    "summary": "The aerospace company said the delay would not prevent it from meeting its 2026 sales goal of about 500 Max jets.",
+    "published": "2026-03-10T16:45:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
+    "link": "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
+    "summary": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
+    "published": "2026-03-10T15:28:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Surpassing vLLM with a Generated Inference Stack",
+    "link": "https://infinity.inc/case-studies/qwen3-optimization",
+    "summary": "<p>Article URL: <a href=\"https://infinity.inc/case-studies/qwen3-optimization\">https://infinity.inc/case-studies/qwen3-optimization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47324364\">https://news.ycombinator.com/item?id=47324364</a></p>\n<p>Points: 36</p>\n<p># Comments: 14</p>",
+    "published": "2026-03-10T15:12:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+    "link": "https://news.ycombinator.com/item?id=47324296",
+    "summary": "<p>Hi HN, I’m Alberto. I co-founded Didit (<a href=\"https://didit.me\">https://didit.me</a>) with my identical twin brother Alejandro. We are building a unified identity layer—a single integration that handles KYC, AML, biometrics, authentication, and fraud prevention globally. Here’s a demo: <a href=\"https://www.youtube.com/watch?v=eTdcg7JCc4M&amp;t=7s\" rel=\"nofollow\">https://www.youtube.com/watch?v=eTdcg7JCc4M&amp;t=7s</a>.<p>Being identical twins, we’ve spent our whole lives dealing with identity confusion, so it is a bit of irony that we ended up building a company to solve it for the internet.<p>Growing up in Barcelona, we spent years working on products where identity issues were a massive pain. We eventually realized that for most engineering teams, \"global identity\" is a fiction—in reality it is a fragmented mess. You end up stitching together one provider for US driver's licenses, another for NFC chip extraction in Europe, a third for AML screening, a fourth for government database validation in Brazil, a fifth for liveness detection on low-end Android devices, and yet another for biometric authentication and age estimation. Orchestrating these into a cohesive flow while adapting to localized regulations like GDPR or CCPA is a nightmare that makes no sense for most teams to be working on.<p>When we looked at the existing \"enterprise\" solutions, we were baffled. Most require a three-week sales cycle just to see a single page of documentation. Pricing is hidden behind \"Contact Us\" buttons, and the products themselves are often bloated legacy systems with high latency and abysmal accuracy.<p>We also noticed a recurring pattern: these tools are frequently optimized only for the latest iOS hardware, performing poorly on the mid-range or older Android devices that make up a huge percentage of the market. This results in a \"leaky\" funnel where legitimate users drop off due to technical friction and fraud goes undetected because data points are spread across disparate systems. Also, these systems are expensive, often requiring massive annual commits that price out early-stage startups.<p>We wanted to build a system that is accessible to everyone—a tool that works like Stripe for identity, where you can get a sandbox key in thirty seconds and start running real verifications with world-class UX and transparent pricing.<p>To solve this, we took the \"delusional\" path of full vertical integration. Rather than just wrapping existing APIs, we built our own ID verification and biometric AI models—from classification and fraud detection to OCR models for almost every language. This vertical integration is fundamental to how we handle user data. Because we own the entire stack, we control the flow of sensitive information from end-to-end. Your users' data doesn't get bounced around through a chain of third-party black boxes or regional middle-men. This allows us to provide a level of security and privacy that is impossible when you are just an orchestration layer for other people's APIs.<p>We believe that identity verification is one of the most critical problems on the internet, and must be solved correctly and ethically. Many people are rightfully skeptical, especially given recent news about projects that have turned identity into a tool for mass data collection or surveillance. We don’t do anything of the sort, but we also don’t want to be coerced in the future, so we facilitate data minimization on the customer side. Instead of a business asking for a full ID scan, we allow them to simply verify a specific attribute—like \"is this person over 18?\"—without ever seeing the document itself. Our goal is to move the industry away from data hoarding and toward zero knowledge, or at least minimal knowledge, verification.<p>The result of our all-in-one approach is a platform that increases onboarding rates while lowering identity costs. We’ve focused on building a high-confidence automated loop that reduces the need for manual review by up to 90%, catching sophisticated deepfakes and spoofing attempts that standard vision models miss. Our SDK is optimized for low bandwidth connections, ensuring it works on spotty 3G networks where legacy providers usually fail.<p>We are fully live, and you can jump into the dashboard at \n<a href=\"https://business.didit.me\">https://business.didit.me</a> to see the workflow orchestration immediately. Our pricing is transparent and success-based; we don’t believe in hiding costs behind a sales call.<p>We’re here all day to answer any question—whether it’s about how we handle NFC verification, our approach to deepfake detection, the general ethics behind biometric data retention, or how we think about the future of identity. We’d love your brutal HN feedback on our APIs, platform, and integration flow!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47324296\">https://news.ycombinator.com/item?id=47324296</a></p>\n<p>Points: 68</p>\n<p># Comments: 59</p>",
+    "published": "2026-03-10T15:08:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Do You Use A.I. for Daily Life?",
+    "link": "https://www.nytimes.com/2026/03/10/technology/ai-daily-life-callout.html",
+    "summary": "We want to hear how artificial intelligence helps you with tasks like meal prep, translation and planning a trip.",
+    "published": "2026-03-10T14:59:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "link": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1061544/125f911834966dd0/\">https://lwn.net/SubscriberLink/1061544/125f911834966dd0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47324087\">https://news.ycombinator.com/item?id=47324087</a></p>\n<p>Points: 324</p>\n<p># Comments: 252</p>",
+    "published": "2026-03-10T14:53:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tony Hoare has died",
+    "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html\">https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47324054\">https://news.ycombinator.com/item?id=47324054</a></p>\n<p>Points: 1769</p>\n<p># Comments: 226</p>",
+    "published": "2026-03-10T14:50:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta acquires Moltbook",
+    "link": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+    "summary": "<p><a href=\"https://web.archive.org/web/20260310154640/https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network\" rel=\"nofollow\">https://web.archive.org/web/20260310154640/https://www.axios...</a>, <a href=\"https://archive.ph/igqsh\" rel=\"nofollow\">https://archive.ph/igqsh</a><p><a href=\"https://www.reuters.com/business/meta-acquires-ai-agent-social-network-moltbook-2026-03-10/\" rel=\"nofollow\">https://www.reuters.com/business/meta-acquires-ai-agent-soci...</a><p><a href=\"https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/\" rel=\"nofollow\">https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47323900\">https://news.ycombinator.com/item?id=47323900</a></p>\n<p>Points: 491</p>\n<p># Comments: 327</p>",
+    "published": "2026-03-10T14:38:06",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion",
     "link": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
     "summary": "Advanced Machine Intelligence Labs, founded by Yann LeCun and other ex-Meta researchers, has raised more than $1 billion from investors.",
-    "published": "2026-03-10T05:00:10",
+    "published": "2026-03-10T14:36:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+    "link": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+    "summary": "Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people.",
+    "published": "2026-03-10T14:00:06",
     "source": "NYT > Technology"
   },
   {
@@ -35,137 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Learnings from paying artists royalties for AI-generated art",
-    "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-    "summary": "<p>Article URL: <a href=\"https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/\">https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47318421\">https://news.ycombinator.com/item?id=47318421</a></p>\n<p>Points: 129</p>\n<p># Comments: 100</p>",
-    "published": "2026-03-10T02:24:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The “JVG algorithm” only wins on tiny numbers",
-    "link": "https://scottaaronson.blog/?p=9615",
-    "summary": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=9615\">https://scottaaronson.blog/?p=9615</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317739\">https://news.ycombinator.com/item?id=47317739</a></p>\n<p>Points: 64</p>\n<p># Comments: 35</p>",
-    "published": "2026-03-10T00:35:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Two Years of Emacs Solo",
-    "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-    "summary": "<p>Article URL: <a href=\"https://www.rahuljuliato.com/posts/emacs-solo-two-years\">https://www.rahuljuliato.com/posts/emacs-solo-two-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317616\">https://news.ycombinator.com/item?id=47317616</a></p>\n<p>Points: 247</p>\n<p># Comments: 68</p>",
-    "published": "2026-03-10T00:16:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Getting Started in Common Lisp",
-    "link": "https://lisp-stat.dev/blog/2026/03/09/getting-started/",
-    "summary": "<p>Article URL: <a href=\"https://lisp-stat.dev/blog/2026/03/09/getting-started/\">https://lisp-stat.dev/blog/2026/03/09/getting-started/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317348\">https://news.ycombinator.com/item?id=47317348</a></p>\n<p>Points: 41</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-09T23:43:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-    "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "summary": "<p>Article URL: <a href=\"https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/\">https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47317132\">https://news.ycombinator.com/item?id=47317132</a></p>\n<p>Points: 203</p>\n<p># Comments: 140</p>",
-    "published": "2026-03-09T23:22:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label",
     "link": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
     "summary": "The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds.",
     "published": "2026-03-09T22:12:34",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-    "link": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html\">https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47315128\">https://news.ycombinator.com/item?id=47315128</a></p>\n<p>Points: 349</p>\n<p># Comments: 202</p>",
-    "published": "2026-03-09T20:36:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Notes on Baking at the South Pole",
-    "link": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
-    "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world\">https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47313934\">https://news.ycombinator.com/item?id=47313934</a></p>\n<p>Points: 57</p>\n<p># Comments: 21</p>",
-    "published": "2026-03-09T19:12:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Florida judge rules red light camera tickets are unconstitutional",
-    "link": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-    "summary": "<p>Article URL: <a href=\"https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional\">https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47312090\">https://news.ycombinator.com/item?id=47312090</a></p>\n<p>Points: 426</p>\n<p># Comments: 540</p>",
-    "published": "2026-03-09T17:20:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Building a Procedural Hex Map with Wave Function Collapse",
-    "link": "https://felixturner.github.io/hex-map-wfc/article/",
-    "summary": "<p>Article URL: <a href=\"https://felixturner.github.io/hex-map-wfc/article/\">https://felixturner.github.io/hex-map-wfc/article/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47311815\">https://news.ycombinator.com/item?id=47311815</a></p>\n<p>Points: 487</p>\n<p># Comments: 71</p>",
-    "published": "2026-03-09T17:02:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DARPA’s new X-76",
-    "link": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-    "summary": "<p>Article URL: <a href=\"https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter\">https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47311669\">https://news.ycombinator.com/item?id=47311669</a></p>\n<p>Points: 195</p>\n<p># Comments: 181</p>",
-    "published": "2026-03-09T16:54:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-    "link": "https://news.ycombinator.com/item?id=47311657",
-    "summary": "<p>Hello Hacker News! We're Filip, Stavros, and Vivek from Terminal Use (<a href=\"https://www.terminaluse.com/\">https://www.terminaluse.com/</a>). We built Terminal Use to make it easier to deploy agents that work in a sandboxed environment and need filesystems to do work. This includes coding agents, research agents, document processing agents, and internal tools that read and write files.<p>Here's a demo: <a href=\"https://www.youtube.com/watch?v=ttMl96l9xPA\" rel=\"nofollow\">https://www.youtube.com/watch?v=ttMl96l9xPA</a>.<p>Our biggest pain point with hosting agents was that you'd need to stitch together multiple pieces: packaging your agent, running it in a sandbox, streaming messages back to users, persisting state across turns, and managing getting files to and from the agent workspace.<p>We wanted something like Cog from Replicate, but for agents: a simple way to package agent code from a repo and serve it behind a clean API/SDK. We wanted to provide a protocol to communicate with your agent, but not constraint the agent logic or harness itself.<p>On Terminal Use, you package your agent from a repo with a config.yaml and Dockerfile, then deploy it with our CLI. You define the logic of three endpoints (on_create, on_event, and on_cancel) which track the lifecycle of a task (conversation). The config.yaml contains details about resources, build context, etc.<p>Out of the box, we support Claude Agent SDK and Codex SDK agents. By support, we mean that we have an adapter that converts from the SDK message types to ours. If you'd like to use your own custom harness, you can convert and send messages with our types (Vercel AI SDK v6 compatible). For the frontend, we have a Vercel AI SDK provider that lets you use your agent with Vercel's AI SDK, and have a messages module so that you don't have to manage streaming and persistence yourself.<p>The part we think is most different is storage.<p>We treat filesystems as first-class primitives, separate from the lifecycle of a task. That means you can persist a workspace across turns, share it between different agents, or upload / download files independent of the sandbox being active. Further, our filesystem SDK provides presigned urls which makes it easy for your users to directly upload and download files which means that you don't need to proxy file transfer through your backend.<p>Since your agent logic and filesystem storage are decoupled, this makes it easy to iterate on your agents without worrying about the files in the sandbox: if you ship a bug, you can deploy and auto-migrate all your tasks to the new deployment. If you make a breaking change, you can specify that existing tasks stay on the existing version, and only new tasks use the new version.<p>We're also adding support for multi-filesystem mounts with configurable mount paths and read/write modes, so storage stays durable and reusable while mount layout stays task-specific.<p>On the deployment side, we've been influenced by modern developer platforms: simple CLI deployments, preview/production environments, git-based environment targeting, logs, and rollback. All the configuration you need to build, deploy & manage resources for your agent is stored in the config.yaml file which makes it easy to build & deploy your agent in CI/CD pipelines.<p>Finally, we've explicitly designed our platform for your CLI coding agents to help you build, test, & iterate with your agents. With our CLI, your coding agents can send messages to your deployed agents, and download filesystem contents to help you understand your agent's output. A common way we test our agents is that we make markdown files with user scenarios we'd like to test, and then ask Claude Code to impersonate our users and chat with our deployed agent.<p>What we do not have yet: full parity with general-purpose sandbox providers. For example, preview URLs and lower-level sandbox.exec(...) style APIs are still on the roadmap.<p>We're excited to hear any thoughts, insights, questions, and concerns in the comments below!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47311657\">https://news.ycombinator.com/item?id=47311657</a></p>\n<p>Points: 101</p>\n<p># Comments: 74</p>",
-    "published": "2026-03-09T16:53:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "JSLinux Now Supports x86_64",
-    "link": "https://bellard.org/jslinux/",
-    "summary": "<p>Article URL: <a href=\"https://bellard.org/jslinux/\">https://bellard.org/jslinux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47311484\">https://news.ycombinator.com/item?id=47311484</a></p>\n<p>Points: 315</p>\n<p># Comments: 92</p>",
-    "published": "2026-03-09T16:43:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An opinionated take on how to do important research that matters",
-    "link": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
-    "summary": "<p>Article URL: <a href=\"https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html\">https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47311179\">https://news.ycombinator.com/item?id=47311179</a></p>\n<p>Points: 127</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-09T16:24:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-    "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-    "summary": "<p>Article URL: <a href=\"https://writings.hongminhee.org/2026/03/legal-vs-legitimate/\">https://writings.hongminhee.org/2026/03/legal-vs-legitimate/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47310160\">https://news.ycombinator.com/item?id=47310160</a></p>\n<p>Points: 456</p>\n<p># Comments: 483</p>",
-    "published": "2026-03-09T15:12:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-    "link": "https://github.com/DenchHQ/DenchClaw",
-    "summary": "<p>Hi everyone, I am Kumar, co-founder of Dench (<a href=\"https://denchclaw.com\" rel=\"nofollow\">https://denchclaw.com</a>). We were part of YC S24, an agentic workflow company that previously worked with sales floors automating niche enterprise tasks such as outbound calling, legal intake, etc.<p>Building consumer / power-user software always gave me more joy than FDEing into an enterprise. It did not give me joy to manually add AI tools to a cloud harness for every small new thing, at least not as much as completely local software that is open source and has all the powers of OpenClaw (I can now talk to my CRM on Telegram!).<p>A week ago, we launched Ironclaw, an Open Source OpenClaw CRM Framework (<a href=\"https://x.com/garrytan/status/2023518514120937672?s=20\" rel=\"nofollow\">https://x.com/garrytan/status/2023518514120937672?s=20</a>) but people confused us with NearAI’s Ironclaw, so we changed our name to DenchClaw (<a href=\"https://denchclaw.com\" rel=\"nofollow\">https://denchclaw.com</a>).<p>OpenClaw today feels like early React: the primitive is incredibly powerful, but the patterns are still forming, and everyone is piecing together their own way to actually use it. What made React explode was the emergence of frameworks like Gatsby and Next.js that turned raw capability into something opinionated, repeatable, and easy to adopt.<p>That is how we think about DenchClaw. We are trying to make it one of the clearest, most practical, and most complete ways to use OpenClaw in the real world.<p>Demo: <a href=\"https://www.youtube.com/watch?v=pfACTbc3Bh4#t=43\" rel=\"nofollow\">https://www.youtube.com/watch?v=pfACTbc3Bh4#t=43</a><p><pre><code>  npx denchclaw\n</code></pre>\nI use DenchClaw daily for almost everything I do. It also works as a coding agent like Cursor - DenchClaw built DenchClaw. I am addicted now that I can ask it, “hey in the companies table only show me the ones who have more than 5 employees” and it updates it live than me having to manually add a filter.<p>On Dench, everything sits in a file system, the table filters, views, column toggles, calendar/gantt views, etc, so OpenClaw can directly work with it using Dench’s CRM skill.<p>The CRM is built on top of DuckDB, the smallest, most performant and at the same time also feature rich database we could find. Thank you DuckDB team!<p>It creates a new OpenClaw profile called “dench”, and opens a new OpenClaw Gateway… that means you can run all your usual openclaw commands by just prefixing every command with `openclaw --profile dench` . It will start your gateway on port 19001 range. You will be able to access the DenchClaw frontend at localhost:3100. Once you open it on Safari, just add it to your Dock to use it as a PWA.<p>Think of it as Cursor for your Mac (also works on Linux and Windows) which is based on OpenClaw. DenchClaw has a file tree view for you to use it as an elevated finder tool to do anything on your mac. I use it to create slides, do linkedin outreach using MY browser.<p>DenchClaw finds your Chrome Profile and copies it fully into its own, so you won’t have to log in into all your websites again. DenchClaw sees what you see, does what you do. It’s an everything app, that sits locally on your mac.<p>Just ask it “hey import my notion”, “hey import everything from my hubspot”, and it will literally go into your browser, export all objects and documents and put it in its own workspace that you can use.<p>We would love you all to break it, stress test its CRM capabilities, how it streams subagents for lead enrichment, hook it into your Apollo, Gmail, Notion and everything there is. Looking forward to comments/feedback!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47309953\">https://news.ycombinator.com/item?id=47309953</a></p>\n<p>Points: 116</p>\n<p># Comments: 96</p>",
-    "published": "2026-03-09T14:55:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
-    "link": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
-    "summary": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
-    "published": "2026-03-09T14:41:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "No leap second will be introduced at the end of June 2026",
-    "link": "https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/",
-    "summary": "<p>Article URL: <a href=\"https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/\">https://lists.iana.org/hyperkitty/list/tz@iana.org/thread/P6D36VZSZBUSSTSMZKFXKF4T4IXWN23P/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47308059\">https://news.ycombinator.com/item?id=47308059</a></p>\n<p>Points: 110</p>\n<p># Comments: 115</p>",
-    "published": "2026-03-09T12:15:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
-    "link": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
-    "summary": "<p>Article URL: <a href=\"https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/\">https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47307055\">https://news.ycombinator.com/item?id=47307055</a></p>\n<p>Points: 958</p>\n<p># Comments: 592</p>",
-    "published": "2026-03-09T10:14:59",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know",
@@ -193,13 +235,6 @@
     "link": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
     "summary": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
     "published": "2026-03-07T10:00:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
-    "link": "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
-    "summary": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
-    "published": "2026-03-06T16:52:09",
     "source": "NYT > Technology"
   },
   {
@@ -270,13 +305,6 @@
     "link": "https://www.nytimes.com/2026/03/04/technology/intel-senators-china-tools.html",
     "summary": "A bipartisan group of senators raised national security concerns about the chipmaker, which is now partly owned by taxpayers.",
     "published": "2026-03-04T18:12:33",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
-    "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
-    "summary": "General Motors, Ford and other established automakers risk becoming relics if they don’t catch up to Chinese carmakers and technology companies in electric vehicles and self-driving cars.",
-    "published": "2026-03-03T23:38:36",
     "source": "NYT > Technology"
   }
 ]
