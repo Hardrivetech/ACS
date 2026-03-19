@@ -1,17 +1,178 @@
 [
   {
-    "title": "Turing Award Goes to Inventors of Quantum Cryptography",
-    "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-    "summary": "In the 1980s, Charles Bennett and Gilles Brassard created a new kind of encryption that would be impregnable.",
-    "published": "2026-03-18T09:01:54",
+    "title": "A.I. Agents: They’re Fun. They’re Useful. But Don’t Give Them the Credit Card.",
+    "link": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
+    "summary": "New A.I. bots can do more than just chat. They can edit files, send emails, book trips and cause trouble.",
+    "published": "2026-03-19T09:00:35",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Eniac, the First General-Purpose Digital Computer, Turns 80",
+    "link": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/eniac-80-ieee-milestone\">https://spectrum.ieee.org/eniac-80-ieee-milestone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47435453\">https://news.ycombinator.com/item?id=47435453</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+    "published": "2026-03-19T05:53:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What 81,000 people want from AI",
+    "link": "https://www.anthropic.com/features/81k-interviews",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/features/81k-interviews\">https://www.anthropic.com/features/81k-interviews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47435156\">https://news.ycombinator.com/item?id=47435156</a></p>\n<p>Points: 120</p>\n<p># Comments: 98</p>",
+    "published": "2026-03-19T05:00:56",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
     "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
     "summary": "After years of criticism and financial risk, Palantir, Anthropic and small start-ups are generating rewards from their investments in defense tech.",
-    "published": "2026-03-18T09:01:26",
+    "published": "2026-03-19T03:58:29",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Conway's Game of Life, in real life",
+    "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+    "summary": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life\">https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434732\">https://news.ycombinator.com/item?id=47434732</a></p>\n<p>Points: 102</p>\n<p># Comments: 27</p>",
+    "published": "2026-03-19T03:55:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
+    "link": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
+    "summary": "<p>Article URL: <a href=\"https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/\">https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434567\">https://news.ycombinator.com/item?id=47434567</a></p>\n<p>Points: 122</p>\n<p># Comments: 74</p>",
+    "published": "2026-03-19T03:31:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A sufficiently detailed spec is code",
+    "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "summary": "<p>Article URL: <a href=\"https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code\">https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434047\">https://news.ycombinator.com/item?id=47434047</a></p>\n<p>Points: 342</p>\n<p># Comments: 183</p>",
+    "published": "2026-03-19T02:23:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "link": "https://rjcorwin.github.io/cook/",
+    "summary": "<p>Article URL: <a href=\"https://rjcorwin.github.io/cook/\">https://rjcorwin.github.io/cook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434024\">https://news.ycombinator.com/item?id=47434024</a></p>\n<p>Points: 188</p>\n<p># Comments: 43</p>",
+    "published": "2026-03-19T02:20:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Autoresearch for SAT Solvers",
+    "link": "https://github.com/iliazintchenko/agent-sat",
+    "summary": "<p>Article URL: <a href=\"https://github.com/iliazintchenko/agent-sat\">https://github.com/iliazintchenko/agent-sat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47433265\">https://news.ycombinator.com/item?id=47433265</a></p>\n<p>Points: 123</p>\n<p># Comments: 23</p>",
+    "published": "2026-03-19T00:40:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Austin’s surge of new housing construction drove down rents",
+    "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+    "summary": "<p>Article URL: <a href=\"https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents\">https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47433058\">https://news.ycombinator.com/item?id=47433058</a></p>\n<p>Points: 521</p>\n<p># Comments: 608</p>",
+    "published": "2026-03-19T00:15:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RX – a new random-access JSON alternative",
+    "link": "https://github.com/creationix/rx",
+    "summary": "<p>Article URL: <a href=\"https://github.com/creationix/rx\">https://github.com/creationix/rx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47432915\">https://news.ycombinator.com/item?id=47432915</a></p>\n<p>Points: 82</p>\n<p># Comments: 31</p>",
+    "published": "2026-03-18T23:58:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What’s on HTTP?",
+    "link": "https://whatsonhttp.com/",
+    "summary": "<p>Article URL: <a href=\"https://whatsonhttp.com/\">https://whatsonhttp.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431930\">https://news.ycombinator.com/item?id=47431930</a></p>\n<p>Points: 60</p>\n<p># Comments: 26</p>",
+    "published": "2026-03-18T21:57:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+    "link": "https://github.com/alainnothere/llm-circuit-finder",
+    "summary": "<p>I replicated David Ng's RYS method (<a href=\"https://dnhkng.github.io/posts/rys/\" rel=\"nofollow\">https://dnhkng.github.io/posts/rys/</a>) on consumer AMD GPUs \n(RX 7900 XT + RX 6950 XT) and found something I didn't expect.<p>Transformers appear to have discrete \"reasoning circuits\" — contiguous blocks of 3-4 layers that \nact as indivisible cognitive units. Duplicate the right block and the model runs its reasoning \npipeline twice. No weights change. No training. The model just thinks longer.<p>The results on standard benchmarks (lm-evaluation-harness, n=50):<p>Devstral-24B, layers 12-14 duplicated once:\n- BBH Logical Deduction: 0.22 → 0.76\n- GSM8K (strict): 0.48 → 0.64\n- MBPP (code gen): 0.72 → 0.78\n- Nothing degraded<p>Qwen2.5-Coder-32B, layers 7-9 duplicated once:\n- Reasoning probe: 76% → 94%<p>The weird part: different duplication patterns create different cognitive \"modes\" from the same \nweights. Double-pass boosts math. Triple-pass boosts emotional reasoning. Interleaved doubling \n(13,13,14,14,15,15,16) creates a pure math specialist. Same model, same VRAM, different routing.<p>The circuit boundaries are sharp — shift by one layer and the effect disappears or inverts. \nSmaller models (24B) have tighter circuits (3 layers) than larger ones (Ng found 7 layers in 72B).<p>Tools to find circuits in any GGUF model and apply arbitrary layer routing are in the repo. \nThe whole thing — sweep, discovery, validation — took one evening.<p>Happy to answer questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431671\">https://news.ycombinator.com/item?id=47431671</a></p>\n<p>Points: 108</p>\n<p># Comments: 36</p>",
+    "published": "2026-03-18T21:31:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Warranty Void If Regenerated",
+    "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+    "summary": "<p>As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly.<p>Over the last couple months, I've been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. After that, this was about two weeks of additional polish work to cut out a lot of fluff and a lot of the LLM-isms. Happy to answer any questions about the process too if that would be interesting to anybody.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431237\">https://news.ycombinator.com/item?id=47431237</a></p>\n<p>Points: 325</p>\n<p># Comments: 185</p>",
+    "published": "2026-03-18T20:45:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+    "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+    "summary": "Tech companies have been reluctant to directly confront Trump administration officials over their contract feud with the A.I. start-up.",
+    "published": "2026-03-18T19:17:18",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Will my flight have Starlink?",
+    "link": "https://news.ycombinator.com/item?id=47428650",
+    "summary": "<p>Hey HN, If you’ve been lucky enough to be on a flight with Starlink, you understand the hype. It actually works!<p>However, its availability on flights is patchy and hard to predict. So we built a database of all airlines that have rolled out Starlink (beyond just a trial), and a flight search tool to predict it. Plug in a flight number and date, and we'll estimate the likelihood of Starlink on-board based on aircraft type and tail number.<p>If you don’t have any trips coming up, you can also look up specific routes to see what flights offer Starlink. You can find it here: <a href=\"https://stardrift.ai/starlink\">https://stardrift.ai/starlink</a> .<p>-<p>I wanted to add a few notes on how this works too. There are three things we check, in order, when we answer a query:<p>- Does this airline have Starlink?<p>- Does this aircraft body have Starlink?<p>- Does <i>this specific aircraft</i> have Starlink?<p>Only a few airlines at all have Starlink right now: United, Hawaiian, Alaskan, Air France, Qatar, JSX, and a handful of others. So if an aircraft is operated by any other airline, we can issue a blanket no immediately.<p>Then, we check the actual body that's flying on the plane. Airlines usually publish equipment assignments in advance, and they're also rolling out Starlink body-by-body. So we know, for instance, that all JSX E145s have Starlink and that none of Air France's A320s have Starlink. (You can see a summary of our data at <a href=\"https://stardrift.ai/starlink/fleet-summary\">https://stardrift.ai/starlink/fleet-summary</a>, though the live logic has a few rules not encoded there.)<p>If there's a complete match at the body type level, we can confidently tell you your flight will have Starlink. However, in most cases, the airline has only rolled out a <i>partial</i> upgrade to that aircraft type. In that case, we need to drill down a little more and figure out exactly <i>which</i> plane is flying on your route.<p>We can do this by looking up the 'tail number' (think of it as a license plate for the plane). <i>Unfortunately</i>, the tail number is usually only assigned a few days before a flight. So, before that, the best we can do is calculate the probability that your plane will be assigned an aircraft with Starlink enabled.<p>To do this, we had to build a mapping of aircraft tails to Starlink status. Here, I have to thank online airline enthusiasts who maintain meticulous spreadsheets and forum threads to track this data! As I understand it, <i>they</i> usually get this data from airline staff who are enthusiastic about Starlink rollouts, so it's a reliable, frequently updated source. Most of <i>our</i> work was finding each source, normalizing their formats, building a reliable & responsible system to pull them in, and then tying them together with our other data sources.<p>Basically, it's a data normalization problem! I used to work on financial data systems and I was surprised how similar this problem was.<p>-<p>Starlink itself is also a pretty cool technology. I also wrote a blog post (<a href=\"https://stardrift.ai/blog/why-is-starlink-so-good\">https://stardrift.ai/blog/why-is-starlink-so-good</a>) on why it's so much better than all the other aircraft wifi options out there. At a high level, it's only possible because rocket launches are so cheap nowadays, which is incredibly cool.<p>The performance is great, so it's well worth planning your flights around it where possible. Right now, your best bet in the US is on United regional flights and JSX/Hawaiian. Internationally, Qatar is the best option (though obviously not right now), with Air France a distance second. This will change throughout the year as more airlines roll it out though, and we'll keep our database updated!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47428650\">https://news.ycombinator.com/item?id=47428650</a></p>\n<p>Points: 223</p>\n<p># Comments: 287</p>",
+    "published": "2026-03-18T17:29:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+    "link": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+    "summary": "<p>Article URL: <a href=\"https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/\">https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47427299\">https://news.ycombinator.com/item?id=47427299</a></p>\n<p>Points: 260</p>\n<p># Comments: 52</p>",
+    "published": "2026-03-18T15:50:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+    "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+    "summary": "<p>Article URL: <a href=\"https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root\">https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47427208\">https://news.ycombinator.com/item?id=47427208</a></p>\n<p>Points: 133</p>\n<p># Comments: 83</p>",
+    "published": "2026-03-18T15:43:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nvidia NemoClaw",
+    "link": "https://github.com/NVIDIA/NemoClaw",
+    "summary": "<p>Article URL: <a href=\"https://github.com/NVIDIA/NemoClaw\">https://github.com/NVIDIA/NemoClaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47427027\">https://news.ycombinator.com/item?id=47427027</a></p>\n<p>Points: 302</p>\n<p># Comments: 210</p>",
+    "published": "2026-03-18T15:31:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor",
+    "link": "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html",
+    "summary": "The tech giant has been rebuilding its relationship with the Defense Department and is poised to benefit as it sidesteps competitors’ controversies.",
+    "published": "2026-03-18T15:30:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to Follow the Game, Even When You Can’t See It Live",
+    "link": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
+    "summary": "When previous commitments keep you from catching your team on television, keep up with it using free apps that quietly deliver scores and more to your phone.",
+    "published": "2026-03-18T13:00:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Turing Award Goes to Inventors of Quantum Cryptography",
+    "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+    "summary": "In the 1980s, Charles Bennett and Gilles Brassard created a new kind of encryption that would be impregnable.",
+    "published": "2026-03-18T12:19:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenAI Has New Focus (on the IPO)",
+    "link": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+    "summary": "<p>Article URL: <a href=\"https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/\">https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47423976\">https://news.ycombinator.com/item?id=47423976</a></p>\n<p>Points: 227</p>\n<p># Comments: 201</p>",
+    "published": "2026-03-18T10:49:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Rob Pike’s Rules of Programming (1989)",
+    "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "summary": "<p>Article URL: <a href=\"https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html\">https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47423647\">https://news.ycombinator.com/item?id=47423647</a></p>\n<p>Points: 928</p>\n<p># Comments: 432</p>",
+    "published": "2026-03-18T09:59:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wander – A tiny, decentralised tool to explore the small web",
+    "link": "https://susam.net/wander/",
+    "summary": "<p>Article URL: <a href=\"https://susam.net/wander/\">https://susam.net/wander/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422759\">https://news.ycombinator.com/item?id=47422759</a></p>\n<p>Points: 272</p>\n<p># Comments: 69</p>",
+    "published": "2026-03-18T07:43:13",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
@@ -21,60 +182,11 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Celebrating Tony Hoare's mark on computer science",
-    "link": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-    "summary": "<p>Article URL: <a href=\"https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/\">https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422228\">https://news.ycombinator.com/item?id=47422228</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-18T06:31:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Review of Microsoft's ClearType Font Collection (2005)",
-    "link": "https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/",
-    "summary": "<p>Article URL: <a href=\"https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/\">https://typographica.org/on-typography/microsofts-cleartype-font-collection-a-fair-and-balanced-review/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47421670\">https://news.ycombinator.com/item?id=47421670</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-18T04:44:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Forget Flags and Scripts: Just Rename the File",
-    "link": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
-    "summary": "<p>Article URL: <a href=\"https://robertsdotpm.github.io/software_engineering/program_names_as_input.html\">https://robertsdotpm.github.io/software_engineering/program_names_as_input.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47421513\">https://news.ycombinator.com/item?id=47421513</a></p>\n<p>Points: 35</p>\n<p># Comments: 32</p>",
-    "published": "2026-03-18T04:11:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Have a fucking website",
-    "link": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-    "summary": "<p>Article URL: <a href=\"https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/\">https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47421442\">https://news.ycombinator.com/item?id=47421442</a></p>\n<p>Points: 384</p>\n<p># Comments: 214</p>",
-    "published": "2026-03-18T03:53:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk",
     "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
     "summary": "In a legal filing, the government said it questioned whether the A.I. start-up could be a “trusted partner” in wartime, which led it to label the company a supply chain risk.",
-    "published": "2026-03-18T03:51:54",
+    "published": "2026-03-18T03:51:55",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-    "link": "https://amaiya.github.io/onprem/examples_agent.html",
-    "summary": "<p>Article URL: <a href=\"https://amaiya.github.io/onprem/examples_agent.html\">https://amaiya.github.io/onprem/examples_agent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47420493\">https://news.ycombinator.com/item?id=47420493</a></p>\n<p>Points: 38</p>\n<p># Comments: 14</p>",
-    "published": "2026-03-18T01:10:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The pleasures of poor product design",
-    "link": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-    "summary": "<p>Article URL: <a href=\"https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design\">https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47420432\">https://news.ycombinator.com/item?id=47420432</a></p>\n<p>Points: 111</p>\n<p># Comments: 35</p>",
-    "published": "2026-03-18T01:00:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
-    "link": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-    "summary": "<p>Article URL: <a href=\"https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/\">https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47420388\">https://news.ycombinator.com/item?id=47420388</a></p>\n<p>Points: 93</p>\n<p># Comments: 5</p>",
-    "published": "2026-03-18T00:53:10",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
@@ -84,53 +196,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-    "link": "https://arxiv.org/abs/2603.15381",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.15381\">https://arxiv.org/abs/2603.15381</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47418722\">https://news.ycombinator.com/item?id=47418722</a></p>\n<p>Points: 113</p>\n<p># Comments: 42</p>",
-    "published": "2026-03-17T21:42:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mistral AI Releases Forge",
-    "link": "https://mistral.ai/news/forge",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/forge\">https://mistral.ai/news/forge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47418295\">https://news.ycombinator.com/item?id=47418295</a></p>\n<p>Points: 433</p>\n<p># Comments: 82</p>",
-    "published": "2026-03-17T21:04:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
     "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
     "summary": "The country appears to be cracking down on people linked to the acquisition of Manus, a Singapore company with Chinese roots, as President Trump prepares to visit Beijing.",
     "published": "2026-03-17T20:45:18",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-    "link": "https://github.com/gsd-build/get-shit-done",
-    "summary": "<p>Article URL: <a href=\"https://github.com/gsd-build/get-shit-done\">https://github.com/gsd-build/get-shit-done</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47417804\">https://news.ycombinator.com/item?id=47417804</a></p>\n<p>Points: 332</p>\n<p># Comments: 162</p>",
-    "published": "2026-03-17T20:23:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
-    "link": "https://news.ycombinator.com/item?id=47417335",
-    "summary": "<p>Hey HN! We’re Carmel and Rhea, the founders of Kita (<a href=\"https://www.usekita.com/\">https://www.usekita.com/</a>). We automate credit review for lenders in emerging markets using VLMs.<p>In many emerging markets, like the Philippines and Mexico, credit infrastructure is weak. Open finance is still nascent, and credit bureaus are unreliable. So to apply for a loan, lenders rely on borrowers submitting documentation to understand their ability to repay. A borrower can submit financial documents, such as bank statements and payslips, in any format, from pdfs, images of physical documents and screenshots. On top of that, financial documents in these markets are highly unstandardized, with no consistent templates lenders can rely on.<p>Existing OCR and document AI tools break on these highly variant, messy real-world documents. Generic tools are not built for lending workflows like verification, fraud detection, and risk extraction. As a result, credit teams fall back on manual review, making underwriting slower, more expensive, and more error-prone.<p>We met before college and stayed best friends. After graduating, Rhea visited Carmel in the Philippines, where we heard firsthand from fintech operators that document-based underwriting was their biggest pain point. We started building together and tested every OCR and document AI tool we could find. They all failed on the messy real-world documents lenders actually receive, and even when extraction worked, they still could not produce the structured financial data or fraud checks lenders needed.<p>The problem was even bigger than we thought. Across Indonesia, Mexico, the Philippines, South Africa, and even in the US, most of lending can be boiled down to credit analysts looking at documents. In 2025, 13.3T was lended globally, and 90% of those transactions involved document review. This includes in developed markets.<p>Kita uses VLM-based agents to parse documents, detect fraud, and extract underwriting signals from messy financial files. Today, we support 50+ document types across PDFs, scans, photos, and screenshots. Our pipeline enhances low-quality inputs, extracts structured financial data, and verifies it through cross-document checks, validation against our historical database, and market-specific fraud detection.<p>Our architecture’s base VLM is model agnostic, and simultaneously, we train language models finetuned to hyperlocalized credit signals in each market, using localized lender data – every new model improves our base layer, and every new market makes our overall stack stronger. We link document-level signals to repayment outcomes, allowing our models to continuously improve fraud detection and risk assessment over time.<p>Kita Capture is our first document intelligence product for lenders. We’re also launching Kita Credit Agent, which automates borrower follow-up during origination over WhatsApp and email to collect missing documents and complete loan applications.<p>Kita Capture is free to try (with email signup): <a href=\"https://portal.usekita.com/\">https://portal.usekita.com/</a>. Here’s a quick demo: <a href=\"https://www.youtube.com/watch?v=4-t_UhPNAvQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=4-t_UhPNAvQ</a>.<p>We’d love to get feedback from the community, especially if you’ve worked on document AI, fraud detection, or fintech infrastructure. Thanks for reading!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47417335\">https://news.ycombinator.com/item?id=47417335</a></p>\n<p>Points: 43</p>\n<p># Comments: 9</p>",
-    "published": "2026-03-17T19:46:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Decade of Slug",
-    "link": "https://terathon.com/blog/decade-slug.html",
-    "summary": "<p><a href=\"https://web.archive.org/web/20260317185928/https://terathon.com/blog/decade-slug.html\" rel=\"nofollow\">https://web.archive.org/web/20260317185928/https://terathon....</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47416736\">https://news.ycombinator.com/item?id=47416736</a></p>\n<p>Points: 604</p>\n<p># Comments: 56</p>",
-    "published": "2026-03-17T18:59:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Python 3.15's JIT is now back on track",
-    "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-    "summary": "<p>Article URL: <a href=\"https://fidget-spinner.github.io/posts/jit-on-track.html\">https://fidget-spinner.github.io/posts/jit-on-track.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47416486\">https://news.ycombinator.com/item?id=47416486</a></p>\n<p>Points: 370</p>\n<p># Comments: 190</p>",
-    "published": "2026-03-17T18:37:27",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
@@ -145,48 +215,6 @@
     "summary": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
     "published": "2026-03-17T17:22:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
-    "link": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad\">https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47415350\">https://news.ycombinator.com/item?id=47415350</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-17T17:00:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Unsloth Studio",
-    "link": "https://unsloth.ai/docs/new/studio",
-    "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/new/studio\">https://unsloth.ai/docs/new/studio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47414032\">https://news.ycombinator.com/item?id=47414032</a></p>\n<p>Points: 276</p>\n<p># Comments: 53</p>",
-    "published": "2026-03-17T15:26:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-    "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level\">https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47413876\">https://news.ycombinator.com/item?id=47413876</a></p>\n<p>Points: 674</p>\n<p># Comments: 232</p>",
-    "published": "2026-03-17T15:16:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-    "link": "https://github.com/adammiribyan/zeroboot",
-    "summary": "<p>I wanted to see how fast an isolated code sandbox could start if I never had to boot a fresh VM.<p>So instead of launching a new microVM per execution, I boot Firecracker once with Python and numpy already loaded, then snapshot the full VM state. Every execution after that creates a new KVM VM backed by a `MAP_PRIVATE` mapping of the snapshot memory, so Linux gives me copy-on-write pages automatically.<p>That means each sandbox starts from an already-running Python process inside a real VM, runs the code, and exits.<p>These are real KVM VMs, not containers: separate guest kernel, separate guest memory, separate page tables. When a VM writes to memory, it gets a private copy of that page.<p>The hard part was not CoW itself. The hard part was resuming the snapshotted VM correctly.<p>Rust, Apache 2.0.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47412569\">https://news.ycombinator.com/item?id=47412569</a></p>\n<p>Points: 149</p>\n<p># Comments: 38</p>",
-    "published": "2026-03-17T13:43:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-    "link": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-    "summary": "<p>Article URL: <a href=\"https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html\">https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47411480\">https://news.ycombinator.com/item?id=47411480</a></p>\n<p>Points: 241</p>\n<p># Comments: 130</p>",
-    "published": "2026-03-17T12:01:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
-    "link": "https://oseifert.ch/blog/building-pgit",
-    "summary": "<p>Article URL: <a href=\"https://oseifert.ch/blog/building-pgit\">https://oseifert.ch/blog/building-pgit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47409222\">https://news.ycombinator.com/item?id=47409222</a></p>\n<p>Points: 31</p>\n<p># Comments: 11</p>",
-    "published": "2026-03-17T06:11:17",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
@@ -214,13 +242,6 @@
     "link": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
     "summary": "The maker of Photoshop agreed to pay $75 million to the government, which had accused it of hiding details of expensive fees.",
     "published": "2026-03-13T19:16:49",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Coding After Coders: The End of Computer Programming as We Know It",
-    "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
-    "summary": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.",
-    "published": "2026-03-13T18:54:23",
     "source": "NYT > Technology"
   },
   {
@@ -256,27 +277,6 @@
     "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
     "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track your health. There are benefits and risks to consider.",
     "published": "2026-03-12T14:21:20",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
-    "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
-    "summary": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
-    "published": "2026-03-12T09:03:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Silicon Valley’s Image Takes a Dark Turn in Pop Culture",
-    "link": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
-    "summary": "In television and movies, depictions of nihilistic billionaires and amoral opportunists are replacing the quirky strivers of older shows like HBO’s “Silicon Valley.”",
-    "published": "2026-03-12T09:02:49",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "They Don’t Want Their Company’s Surveillance Tool Used by ICE",
-    "link": "https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html",
-    "summary": "Thomson Reuters, best known for its media outlet and legal research tools, provides an investigative tool to immigration enforcers. Its Minnesota employees want that to stop.",
-    "published": "2026-03-11T09:02:10",
     "source": "NYT > Technology"
   }
 ]
