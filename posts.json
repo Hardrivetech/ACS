@@ -1,24 +1,192 @@
 [
   {
-    "title": "A.I. Agents: They’re Fun. They’re Useful. But Don’t Give Them the Credit Card.",
-    "link": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
-    "summary": "New A.I. bots can do more than just chat. They can edit files, send emails, book trips and cause trouble.",
-    "published": "2026-03-19T09:00:35",
+    "title": "FSFE supporters affected: Payment provider Nexi cancelled us",
+    "link": "https://fsfe.org/news/2026/news-20260316-01.en.html",
+    "summary": "<p>Article URL: <a href=\"https://fsfe.org/news/2026/news-20260316-01.en.html\">https://fsfe.org/news/2026/news-20260316-01.en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47451429\">https://news.ycombinator.com/item?id=47451429</a></p>\n<p>Points: 45</p>\n<p># Comments: 10</p>",
+    "published": "2026-03-20T07:09:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "ArXiv Declares Independence from Cornell",
+    "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell\">https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47450478\">https://news.ycombinator.com/item?id=47450478</a></p>\n<p>Points: 253</p>\n<p># Comments: 59</p>",
+    "published": "2026-03-20T04:24:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+    "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+    "summary": "<p>Article URL: <a href=\"https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found\">https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47448994\">https://news.ycombinator.com/item?id=47448994</a></p>\n<p>Points: 137</p>\n<p># Comments: 28</p>",
+    "published": "2026-03-20T01:09:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
+    "link": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
+    "summary": "Prosecutors said the men, including a co-founder of the company, Super Micro, had diverted servers containing Nvidia A.I. chips to China.",
+    "published": "2026-03-20T00:50:37",
     "source": "NYT > Technology"
   },
   {
-    "title": "Eniac, the First General-Purpose Digital Computer, Turns 80",
-    "link": "https://spectrum.ieee.org/eniac-80-ieee-milestone",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/eniac-80-ieee-milestone\">https://spectrum.ieee.org/eniac-80-ieee-milestone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47435453\">https://news.ycombinator.com/item?id=47435453</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
-    "published": "2026-03-19T05:53:04",
+    "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+    "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+    "summary": "<p>Article URL: <a href=\"https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404\">https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47448566\">https://news.ycombinator.com/item?id=47448566</a></p>\n<p>Points: 137</p>\n<p># Comments: 52</p>",
+    "published": "2026-03-20T00:26:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "What 81,000 people want from AI",
-    "link": "https://www.anthropic.com/features/81k-interviews",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/features/81k-interviews\">https://www.anthropic.com/features/81k-interviews</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47435156\">https://news.ycombinator.com/item?id=47435156</a></p>\n<p>Points: 120</p>\n<p># Comments: 98</p>",
-    "published": "2026-03-19T05:00:56",
+    "title": "Push events into a running session with channels",
+    "link": "https://code.claude.com/docs/en/channels",
+    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/channels\">https://code.claude.com/docs/en/channels</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47448524\">https://news.ycombinator.com/item?id=47448524</a></p>\n<p>Points: 329</p>\n<p># Comments: 186</p>",
+    "published": "2026-03-20T00:22:08",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.",
+    "link": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
+    "summary": "The new fund would operate alongside the Amazon founder’s A.I. start-up, Project Prometheus.",
+    "published": "2026-03-19T23:48:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Be intentional about how AI changes your codebase",
+    "link": "https://aicode.swerdlow.dev",
+    "summary": "<p>Article URL: <a href=\"https://aicode.swerdlow.dev\">https://aicode.swerdlow.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47446373\">https://news.ycombinator.com/item?id=47446373</a></p>\n<p>Points: 116</p>\n<p># Comments: 48</p>",
+    "published": "2026-03-19T21:23:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cockpit is a web-based graphical interface for servers",
+    "link": "https://github.com/cockpit-project/cockpit",
+    "summary": "<p>Article URL: <a href=\"https://github.com/cockpit-project/cockpit\">https://github.com/cockpit-project/cockpit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47445599\">https://news.ycombinator.com/item?id=47445599</a></p>\n<p>Points: 255</p>\n<p># Comments: 146</p>",
+    "published": "2026-03-19T20:33:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Waymo Safety Impact",
+    "link": "https://waymo.com/safety/impact/",
+    "summary": "<p>Article URL: <a href=\"https://waymo.com/safety/impact/\">https://waymo.com/safety/impact/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47445246\">https://news.ycombinator.com/item?id=47445246</a></p>\n<p>Points: 308</p>\n<p># Comments: 322</p>",
+    "published": "2026-03-19T20:13:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Clockwise acquired by Salesforce",
+    "link": "https://www.getclockwise.com",
+    "summary": "<p>Article URL: <a href=\"https://www.getclockwise.com\">https://www.getclockwise.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47444906\">https://news.ycombinator.com/item?id=47444906</a></p>\n<p>Points: 120</p>\n<p># Comments: 60</p>",
+    "published": "2026-03-19T19:50:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Have You Turned to A.I. For Advice on a Romantic Relationship?",
+    "link": "https://www.nytimes.com/2026/03/19/technology/have-you-turned-to-ai-for-advice-on-a-romantic-relationship.html",
+    "summary": "People are using generative A.I. chatbots for help on everything from starting to ending a relationship. Have you? How did it turn out?",
+    "published": "2026-03-19T19:28:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "From Oscilloscope to Wireshark: A UDP Story (2022)",
+    "link": "https://www.mattkeeter.com/blog/2022-08-11-udp/",
+    "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/blog/2022-08-11-udp/\">https://www.mattkeeter.com/blog/2022-08-11-udp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47444460\">https://news.ycombinator.com/item?id=47444460</a></p>\n<p>Points: 112</p>\n<p># Comments: 24</p>",
+    "published": "2026-03-19T19:18:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
+    "link": "https://qlabs.sh/10x",
+    "summary": "<p>Article URL: <a href=\"https://qlabs.sh/10x\">https://qlabs.sh/10x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47444072\">https://news.ycombinator.com/item?id=47444072</a></p>\n<p>Points: 148</p>\n<p># Comments: 29</p>",
+    "published": "2026-03-19T18:51:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks",
+    "link": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
+    "summary": "New A.I. bots can do more than just chat. They can edit files, send emails, book trips and cause trouble.",
+    "published": "2026-03-19T18:22:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Noq: n0's new QUIC implementation in Rust",
+    "link": "https://www.iroh.computer/blog/noq-announcement",
+    "summary": "<p>Article URL: <a href=\"https://www.iroh.computer/blog/noq-announcement\">https://www.iroh.computer/blog/noq-announcement</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47443588\">https://news.ycombinator.com/item?id=47443588</a></p>\n<p>Points: 204</p>\n<p># Comments: 29</p>",
+    "published": "2026-03-19T18:17:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "summary": "<p><a href=\"https://android-developers.googleblog.com/2026/03/android-developer-verification.html\" rel=\"nofollow\">https://android-developers.googleblog.com/2026/03/android-de...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47442690\">https://news.ycombinator.com/item?id=47442690</a></p>\n<p>Points: 800</p>\n<p># Comments: 886</p>",
+    "published": "2026-03-19T17:16:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
+    "link": "https://news.ycombinator.com/item?id=47442452",
+    "summary": "<p>Hey HN! We’re Hayden, Ronan, Avi, and Warren of Voltair (<a href=\"https://voltairlabs.com/\">https://voltairlabs.com/</a>). We’re making weatherized, hybrid-fixed drones deployed for power utility inspections.<p>Here’s some footage: <a href=\"https://vimeo.com/1173862237/ac28095cc6?share=copy&amp;fl=sv&amp;fe=ci\" rel=\"nofollow\">https://vimeo.com/1173862237/ac28095cc6?share=copy&amp;fl=sv&amp;fe=...</a> and a photo of our latest prototype: <a href=\"https://imgur.com/a/bYHnqZ4\" rel=\"nofollow\">https://imgur.com/a/bYHnqZ4</a>.<p>The U.S. has 7M miles of power lines (enough to go to the moon and back 14 times), and they're aging. Over 50% of all power flows through transformers that are at least 30 years old, which is about when they start to fail.<p>Power line conductors are just bare metal with 4,000-765,000 volts sitting on ceramic insulators, usually held up by pieces of wood. It’s a cost effective and relatively reliable way to move power. But when the wood starts to rot, or the cotter pin falls out, and a live conductor is dropped on a dead tree on a windy day, you get devastating wildfires like the Palisades Fire in LA last year.<p>Most utilities solve this problem with foot patrols. Linemen drive out with a clipboard or an iPad, and run through a checklist with binoculars to visually confirm everything is in order.  A lineman can inspect about 50-150 poles per day, yet even the smallest rural electric cooperatives (with about ~20 employees) have about 50,000 distribution poles. Clearly the math doesn’t work out. As a result, a given utility pole is inspected about every 10 years (at least that’s what they tell their insurance adjuster).<p>Helicopters are also used, but cost $25k to get off the ground, and more importantly, every year linemen die in helicopter crashes. Satellites can’t deliver the mm precision needed for these inspections. So drones have emerged as the best solution. Georgia Power saved 60% on operating expenses when they switched to using drones, and Xcel power found drones to find 60% more defects than foot patrols (because of pole-top vantage point).<p>Problem #2: Drones are held back by the need to constantly recharge and FAA beyond-visual-line-of-sight (BVLOS) regulations. In response, the most well funded utilities (e.g., PG&amp;E, SCE) primarily send out pilots in trucks to collect the data.<p>Current leaders in the drone space – Skydio and DJI – have built drone-in-a-box solutions. Their charging stations have inherent concurrency constraints (only one drone at a time) and don’t scale easily over large land areas. Skydio charges $250,000 / box, and has a there-and-back range of about 15 miles (assuming ideal performance). They are expensive and inflexible.<p>Our first solution (and why it didn’t work): We entered YC wanting to build drones that charge inductively from the magnetic fields around power lines. We used a split-core current transformer, wrapped it around the conductor with a clamp, and harvested power. We spent about 4 months testing and developing this hardware, and successfully recharged a few batteries in the field. It was a really cool proof of concept.<p>But we ran into a big problem. There’s not enough current on distribution lines! These are the wooden poles outside your home, as opposed to the tall steel transmission towers you might see in the countryside. Generally speaking, we needed about a MW of power – or about 1000 homes – to flow through the lines to charge our drone performantly.<p>We also found the risk-reward calculus didn’t make sense for utilities. Line attachments (and even inductive power harvesting) is common in the utility space. Fault indicators and smart sensors like the Heimdall Power “Neuron” do this. But they are installed one time with lineman supervision and left in place for years. The risk of landing a drone multiple times per day at myriad points around the network felt too risky for utility engineers.<p>We wondered if we could solve the range and battery swap issue from another angle. Reexamining drone-in-a-box solutions, we realized they had the tech backwards: expensive, overengineered boxes to protect fragile drones. A network of these big enough to cover a utility’s service area would cost hundreds of millions, and the drones still wouldn’t be able to fly when it matters most (during a wildfire, storm, or power outage). What if instead, the drone was ultra-rugged while the charging stations were cheap and attritable?<p>What we’re building now:  We’re making weatherized, long-range (well over 70 miles), fixed-wing drones that can live outside for months at a time. They recharge inductively (no connections or moving parts) on stripped-down charging pads that cost a couple thousand dollars apiece. It doesn’t take many of these pads along a transmission line corridor for our drones to hop between them and inspect the entire length. We reason we could cover the continental U.S. with about 1000-5000 pads.<p>Having dedicated charging stations also solves the backhaul problem. When you LiDAR scan and take high-res photos of 50 miles of transmission corridor, you accumulate terabytes of data. Manual drone operators can pull out the SD card. We have to offload it wirelessly. Trying to do this directly from the drone over spotty LTE doesn’t work. Instead, we use the charging station as an intermediary, dumping the data from our drone to a hard drive on the station over a high-speed WiFi link. The station can then push this to our servers over Starlink, LTE, or a fiber link asynchronously, freeing the drone to get back in the field and inspect more.<p>One cool thing we can do this way is reactive inspections. If there’s a weird harmonic on a feeder, or a utility needs a rapid scan after a storm, we can get on-site within minutes to inspect. Contractors often spend months coordinating their on-site data collection, and dedicated storm response contractors are very expensive to keep on-site.<p>Power utilities are our first customers, but the applications for telecom, rail, oil+gas, forestry, search+rescue, and agriculture are also exciting. One thing that’s <i>not</i> exciting is a drone surveillance state. Unfortunately, we are now in a world where drones are increasingly weaponized, and examples of government overreach are numerous (case in point: Sonoma County, California spying on landowners). We have zero interest in supporting uses like this.<p>(Our backstory, if you’re interested: Ronan has always had an unhealthy obsession with flying machines, from designing remote controlled planes growing up, to building eVTOL tech for DARPA and the Air Force while still a university student. Warren and Ronan met during a startup competition with a UAV solution in agriculture. Hayden, a childhood friend of Ronan, was deeply ingrained in the power utility space, and realized the true pain point there. Shortly after graduating, Ronan, Hayden, and Warren quit their jobs to take the idea full time in the Summer of 2025. Around the same time Avi dropped out of college, bringing sales skill and regulatory expertise as our fourth cofounder.)<p>We just secured our first major contract and are working out the details of pilots with some big utilities. Our first paid flight is mid-April. Our business model is straightforward: inspection as a service. We charge per pole or tower.<p>We are very interested in your opinion! Maybe some of you all work in the energy industry and know a thing or two about infrastructure inspections that we could learn from? We’d love all feedback (good and bad).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47442452\">https://news.ycombinator.com/item?id=47442452</a></p>\n<p>Points: 72</p>\n<p># Comments: 26</p>",
+    "published": "2026-03-19T16:57:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+    "link": "https://blog.skypilot.co/scaling-autoresearch/",
+    "summary": "<p>Article URL: <a href=\"https://blog.skypilot.co/scaling-autoresearch/\">https://blog.skypilot.co/scaling-autoresearch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47442435\">https://news.ycombinator.com/item?id=47442435</a></p>\n<p>Points: 173</p>\n<p># Comments: 72</p>",
+    "published": "2026-03-19T16:55:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
+    "link": "https://news.ycombinator.com/item?id=47441629",
+    "summary": "<p>Hey HN! We're Aakash and Viswesh, and we're building Canary (<a href=\"https://www.runcanary.ai\">https://www.runcanary.ai</a>). We build AI agents that read your codebase, figure out what a pull request actually changed, and generate and execute tests for every affected user workflow.<p>Aakash and I previously built AI coding tools at Windsurf, Cognition, and Google. AI tools were making every team faster at shipping, but nobody was testing real user behavior before merge. PRs got bigger, reviews still happened in file diffs, and changes that looked clean broke checkout, auth, and billing in production. We saw it firsthand. We started Canary to close that gap. Here's how it works:<p>Canary starts by connecting to your codebase and understands how your app is built: routes, controllers, validation logic. You push a PR and Canary reads the diff, understands the intent behind the changes, then generates and runs tests against your preview app checking real user flows end to end. It comments directly on the PR with test results and recordings showing what changed and flagging anything that doesn't behave as expected. You can also trigger specific user workflow tests via a PR comment.<p>Beyond PR testing, tests generated from the PR can be moved into regression suites. You can also create tests by just prompting what you want tested in plain English. Canary generates a full test suite from your codebase, schedules it, and runs it continuously. One of our construction tech customers had an invoicing flow where the amount due drifted from the original proposal total by ~$1,600. Canary caught the regression in their invoice flow before release.<p>This isn't something a single family of foundation models can do on its own. QA spans across many modalities like source code, DOM/ARIA, device emulators, visual verifications, analyzing screen recordings, network/console logs, live browser state etc. for any single model to be specialized in. You also need custom browser fleets, user sessions, ephemeral environments, on-device farms and data seeding to run the tests reliably. On top of that, catching second-order effects of code changes requires a specialized harness that breaks the application in multiple possible ways across different types of users that a normal happy path testing flow wouldn't.<p>To measure how well our purpose built QA agent works, we published QA-Bench v0, the first benchmark for code verification. Given a real PR, can an AI model identify every affected user workflow and produce relevant tests? We tested our purpose-built QA agent against GPT 5.4, Claude Code (Opus 4.6), and Sonnet 4.6 across 35 real PRs on Grafana, Mattermost, Cal.com, and Apache Superset on three dimensions: Relevance, Coverage, and Coherence. Coverage is where the gap was largest. Canary leads by 11 points over GPT 5.4, 18 over Claude Code, and 26 over Sonnet 4.6. For full methodology and per-repo breakdowns give our benchmark report a read: <a href=\"https://www.runcanary.ai/blog/qa-bench-v0\">https://www.runcanary.ai/blog/qa-bench-v0</a><p>You can check out the product demo here: <a href=\"https://youtu.be/NeD9g1do_BU\" rel=\"nofollow\">https://youtu.be/NeD9g1do_BU</a><p>We'd love feedback from anyone working on code verification or thinking about how to measure this differently.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47441629\">https://news.ycombinator.com/item?id=47441629</a></p>\n<p>Points: 54</p>\n<p># Comments: 20</p>",
+    "published": "2026-03-19T16:01:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+    "link": "https://github.com/KittenML/KittenTTS",
+    "summary": "<p>Kitten TTS (<a href=\"https://github.com/KittenML/KittenTTS\" rel=\"nofollow\">https://github.com/KittenML/KittenTTS</a>) is an open-source series of tiny and expressive text-to-speech models for on-device applications. We had a thread last year here: <a href=\"https://news.ycombinator.com/item?id=44807868\">https://news.ycombinator.com/item?id=44807868</a>.<p>Today we're releasing three new models with 80M, 40M and 14M parameters.<p>The largest model (80M) has the highest quality. The 14M variant reaches new SOTA in expressivity among similar sized models, despite being <25MB in size. This release is a major upgrade from the previous one and supports English text-to-speech applications in eight voices: four male and four female.<p>Here's a short demo: <a href=\"https://www.youtube.com/watch?v=ge3u5qblqZA\" rel=\"nofollow\">https://www.youtube.com/watch?v=ge3u5qblqZA</a>.<p>Most models are quantized to int8 + fp16, and they use ONNX for runtime. Our models are designed to run anywhere eg. raspberry pi, low-end smartphones, wearables, browsers etc. No GPU required! This release aims to bridge the gap between on-device and cloud models for tts applications. Multi-lingual model release is coming soon.<p>On-device AI is bottlenecked by one thing: a lack of tiny models that actually perform. Our goal is to open-source more models to run production-ready voice agents and apps entirely on-device.<p>We would love your feedback!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47441546\">https://news.ycombinator.com/item?id=47441546</a></p>\n<p>Points: 422</p>\n<p># Comments: 158</p>",
+    "published": "2026-03-19T15:56:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Long Farewell to Mark Zuckerberg’s Metaverse",
+    "link": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
+    "summary": "Meta announced changes that effectively leave Mr. Zuckerberg’s vision of an immersive digital world based in virtual reality only on life support.",
+    "published": "2026-03-19T15:29:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "4Chan mocks £520k fine for UK online safety breaches",
+    "link": "https://www.bbc.com/news/articles/c624330lg1ko",
+    "summary": "<p><a href=\"https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/4chan-fined-450000-for-not-protecting-children-from-online-pornography\" rel=\"nofollow\">https://www.ofcom.org.uk/online-safety/illegal-and-harmful-c...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47440430\">https://news.ycombinator.com/item?id=47440430</a></p>\n<p>Points: 366</p>\n<p># Comments: 626</p>",
+    "published": "2026-03-19T14:46:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenBSD: PF queues break the 4 Gbps barrier",
+    "link": "https://undeadly.org/cgi?action=article;sid=20260319125859",
+    "summary": "<p>Article URL: <a href=\"https://undeadly.org/cgi?action=article;sid=20260319125859\">https://undeadly.org/cgi?action=article;sid=20260319125859</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47439320\">https://news.ycombinator.com/item?id=47439320</a></p>\n<p>Points: 201</p>\n<p># Comments: 60</p>",
+    "published": "2026-03-19T13:43:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI Replica of Val Kilmer to Appear in ‘As Deep as the Grave’",
+    "link": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
+    "summary": "Kilmer’s estate collaborated with the filmmakers to make a digital likeness of the actor, who died of cancer last year.",
+    "published": "2026-03-19T13:11:21",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Astral to Join OpenAI",
+    "link": "https://astral.sh/blog/openai",
+    "summary": "<p><a href=\"https://openai.com/index/openai-to-acquire-astral/\" rel=\"nofollow\">https://openai.com/index/openai-to-acquire-astral/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47438723\">https://news.ycombinator.com/item?id=47438723</a></p>\n<p>Points: 1354</p>\n<p># Comments: 835</p>",
+    "published": "2026-03-19T13:05:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.",
+    "link": "https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html",
+    "summary": "Silicon Valley’s young coders are getting creative with this new technology. They also worry they’re not spending enough time with it.",
+    "published": "2026-03-19T09:01:42",
+    "source": "NYT > Technology"
   },
   {
     "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
@@ -28,109 +196,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Conway's Game of Life, in real life",
-    "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-    "summary": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life\">https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434732\">https://news.ycombinator.com/item?id=47434732</a></p>\n<p>Points: 102</p>\n<p># Comments: 27</p>",
-    "published": "2026-03-19T03:55:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
-    "link": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
-    "summary": "<p>Article URL: <a href=\"https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/\">https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434567\">https://news.ycombinator.com/item?id=47434567</a></p>\n<p>Points: 122</p>\n<p># Comments: 74</p>",
-    "published": "2026-03-19T03:31:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A sufficiently detailed spec is code",
-    "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-    "summary": "<p>Article URL: <a href=\"https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code\">https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434047\">https://news.ycombinator.com/item?id=47434047</a></p>\n<p>Points: 342</p>\n<p># Comments: 183</p>",
-    "published": "2026-03-19T02:23:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cook: A simple CLI for orchestrating Claude Code",
-    "link": "https://rjcorwin.github.io/cook/",
-    "summary": "<p>Article URL: <a href=\"https://rjcorwin.github.io/cook/\">https://rjcorwin.github.io/cook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47434024\">https://news.ycombinator.com/item?id=47434024</a></p>\n<p>Points: 188</p>\n<p># Comments: 43</p>",
-    "published": "2026-03-19T02:20:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Autoresearch for SAT Solvers",
-    "link": "https://github.com/iliazintchenko/agent-sat",
-    "summary": "<p>Article URL: <a href=\"https://github.com/iliazintchenko/agent-sat\">https://github.com/iliazintchenko/agent-sat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47433265\">https://news.ycombinator.com/item?id=47433265</a></p>\n<p>Points: 123</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-19T00:40:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Austin’s surge of new housing construction drove down rents",
-    "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-    "summary": "<p>Article URL: <a href=\"https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents\">https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47433058\">https://news.ycombinator.com/item?id=47433058</a></p>\n<p>Points: 521</p>\n<p># Comments: 608</p>",
-    "published": "2026-03-19T00:15:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "RX – a new random-access JSON alternative",
-    "link": "https://github.com/creationix/rx",
-    "summary": "<p>Article URL: <a href=\"https://github.com/creationix/rx\">https://github.com/creationix/rx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47432915\">https://news.ycombinator.com/item?id=47432915</a></p>\n<p>Points: 82</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-18T23:58:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What’s on HTTP?",
-    "link": "https://whatsonhttp.com/",
-    "summary": "<p>Article URL: <a href=\"https://whatsonhttp.com/\">https://whatsonhttp.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431930\">https://news.ycombinator.com/item?id=47431930</a></p>\n<p>Points: 60</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-18T21:57:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-    "link": "https://github.com/alainnothere/llm-circuit-finder",
-    "summary": "<p>I replicated David Ng's RYS method (<a href=\"https://dnhkng.github.io/posts/rys/\" rel=\"nofollow\">https://dnhkng.github.io/posts/rys/</a>) on consumer AMD GPUs \n(RX 7900 XT + RX 6950 XT) and found something I didn't expect.<p>Transformers appear to have discrete \"reasoning circuits\" — contiguous blocks of 3-4 layers that \nact as indivisible cognitive units. Duplicate the right block and the model runs its reasoning \npipeline twice. No weights change. No training. The model just thinks longer.<p>The results on standard benchmarks (lm-evaluation-harness, n=50):<p>Devstral-24B, layers 12-14 duplicated once:\n- BBH Logical Deduction: 0.22 → 0.76\n- GSM8K (strict): 0.48 → 0.64\n- MBPP (code gen): 0.72 → 0.78\n- Nothing degraded<p>Qwen2.5-Coder-32B, layers 7-9 duplicated once:\n- Reasoning probe: 76% → 94%<p>The weird part: different duplication patterns create different cognitive \"modes\" from the same \nweights. Double-pass boosts math. Triple-pass boosts emotional reasoning. Interleaved doubling \n(13,13,14,14,15,15,16) creates a pure math specialist. Same model, same VRAM, different routing.<p>The circuit boundaries are sharp — shift by one layer and the effect disappears or inverts. \nSmaller models (24B) have tighter circuits (3 layers) than larger ones (Ng found 7 layers in 72B).<p>Tools to find circuits in any GGUF model and apply arbitrary layer routing are in the repo. \nThe whole thing — sweep, discovery, validation — took one evening.<p>Happy to answer questions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431671\">https://news.ycombinator.com/item?id=47431671</a></p>\n<p>Points: 108</p>\n<p># Comments: 36</p>",
-    "published": "2026-03-18T21:31:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Warranty Void If Regenerated",
-    "link": "https://nearzero.software/p/warranty-void-if-regenerated",
-    "summary": "<p>As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly.<p>Over the last couple months, I've been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. After that, this was about two weeks of additional polish work to cut out a lot of fluff and a lot of the LLM-isms. Happy to answer any questions about the process too if that would be interesting to anybody.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431237\">https://news.ycombinator.com/item?id=47431237</a></p>\n<p>Points: 325</p>\n<p># Comments: 185</p>",
-    "published": "2026-03-18T20:45:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
     "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
     "summary": "Tech companies have been reluctant to directly confront Trump administration officials over their contract feud with the A.I. start-up.",
     "published": "2026-03-18T19:17:18",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: Will my flight have Starlink?",
-    "link": "https://news.ycombinator.com/item?id=47428650",
-    "summary": "<p>Hey HN, If you’ve been lucky enough to be on a flight with Starlink, you understand the hype. It actually works!<p>However, its availability on flights is patchy and hard to predict. So we built a database of all airlines that have rolled out Starlink (beyond just a trial), and a flight search tool to predict it. Plug in a flight number and date, and we'll estimate the likelihood of Starlink on-board based on aircraft type and tail number.<p>If you don’t have any trips coming up, you can also look up specific routes to see what flights offer Starlink. You can find it here: <a href=\"https://stardrift.ai/starlink\">https://stardrift.ai/starlink</a> .<p>-<p>I wanted to add a few notes on how this works too. There are three things we check, in order, when we answer a query:<p>- Does this airline have Starlink?<p>- Does this aircraft body have Starlink?<p>- Does <i>this specific aircraft</i> have Starlink?<p>Only a few airlines at all have Starlink right now: United, Hawaiian, Alaskan, Air France, Qatar, JSX, and a handful of others. So if an aircraft is operated by any other airline, we can issue a blanket no immediately.<p>Then, we check the actual body that's flying on the plane. Airlines usually publish equipment assignments in advance, and they're also rolling out Starlink body-by-body. So we know, for instance, that all JSX E145s have Starlink and that none of Air France's A320s have Starlink. (You can see a summary of our data at <a href=\"https://stardrift.ai/starlink/fleet-summary\">https://stardrift.ai/starlink/fleet-summary</a>, though the live logic has a few rules not encoded there.)<p>If there's a complete match at the body type level, we can confidently tell you your flight will have Starlink. However, in most cases, the airline has only rolled out a <i>partial</i> upgrade to that aircraft type. In that case, we need to drill down a little more and figure out exactly <i>which</i> plane is flying on your route.<p>We can do this by looking up the 'tail number' (think of it as a license plate for the plane). <i>Unfortunately</i>, the tail number is usually only assigned a few days before a flight. So, before that, the best we can do is calculate the probability that your plane will be assigned an aircraft with Starlink enabled.<p>To do this, we had to build a mapping of aircraft tails to Starlink status. Here, I have to thank online airline enthusiasts who maintain meticulous spreadsheets and forum threads to track this data! As I understand it, <i>they</i> usually get this data from airline staff who are enthusiastic about Starlink rollouts, so it's a reliable, frequently updated source. Most of <i>our</i> work was finding each source, normalizing their formats, building a reliable & responsible system to pull them in, and then tying them together with our other data sources.<p>Basically, it's a data normalization problem! I used to work on financial data systems and I was surprised how similar this problem was.<p>-<p>Starlink itself is also a pretty cool technology. I also wrote a blog post (<a href=\"https://stardrift.ai/blog/why-is-starlink-so-good\">https://stardrift.ai/blog/why-is-starlink-so-good</a>) on why it's so much better than all the other aircraft wifi options out there. At a high level, it's only possible because rocket launches are so cheap nowadays, which is incredibly cool.<p>The performance is great, so it's well worth planning your flights around it where possible. Right now, your best bet in the US is on United regional flights and JSX/Hawaiian. Internationally, Qatar is the best option (though obviously not right now), with Air France a distance second. This will change throughout the year as more airlines roll it out though, and we'll keep our database updated!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47428650\">https://news.ycombinator.com/item?id=47428650</a></p>\n<p>Points: 223</p>\n<p># Comments: 287</p>",
-    "published": "2026-03-18T17:29:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-    "link": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
-    "summary": "<p>Article URL: <a href=\"https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/\">https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47427299\">https://news.ycombinator.com/item?id=47427299</a></p>\n<p>Points: 260</p>\n<p># Comments: 52</p>",
-    "published": "2026-03-18T15:50:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-    "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-    "summary": "<p>Article URL: <a href=\"https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root\">https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47427208\">https://news.ycombinator.com/item?id=47427208</a></p>\n<p>Points: 133</p>\n<p># Comments: 83</p>",
-    "published": "2026-03-18T15:43:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nvidia NemoClaw",
-    "link": "https://github.com/NVIDIA/NemoClaw",
-    "summary": "<p>Article URL: <a href=\"https://github.com/NVIDIA/NemoClaw\">https://github.com/NVIDIA/NemoClaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47427027\">https://news.ycombinator.com/item?id=47427027</a></p>\n<p>Points: 302</p>\n<p># Comments: 210</p>",
-    "published": "2026-03-18T15:31:07",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor",
@@ -152,34 +222,6 @@
     "summary": "In the 1980s, Charles Bennett and Gilles Brassard created a new kind of encryption that would be impregnable.",
     "published": "2026-03-18T12:19:10",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Has New Focus (on the IPO)",
-    "link": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-    "summary": "<p>Article URL: <a href=\"https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/\">https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47423976\">https://news.ycombinator.com/item?id=47423976</a></p>\n<p>Points: 227</p>\n<p># Comments: 201</p>",
-    "published": "2026-03-18T10:49:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rob Pike’s Rules of Programming (1989)",
-    "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-    "summary": "<p>Article URL: <a href=\"https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html\">https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47423647\">https://news.ycombinator.com/item?id=47423647</a></p>\n<p>Points: 928</p>\n<p># Comments: 432</p>",
-    "published": "2026-03-18T09:59:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Wander – A tiny, decentralised tool to explore the small web",
-    "link": "https://susam.net/wander/",
-    "summary": "<p>Article URL: <a href=\"https://susam.net/wander/\">https://susam.net/wander/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422759\">https://news.ycombinator.com/item?id=47422759</a></p>\n<p>Points: 272</p>\n<p># Comments: 69</p>",
-    "published": "2026-03-18T07:43:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
-    "link": "https://ndea.com/jobs/search-guidance",
-    "summary": "<p>Article URL: <a href=\"https://ndea.com/jobs/search-guidance\">https://ndea.com/jobs/search-guidance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47422408\">https://news.ycombinator.com/item?id=47422408</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-18T07:00:13",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk",
@@ -256,27 +298,6 @@
     "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
     "summary": "“When there is an attack that kills civilians or doesn’t hit its intended target, people are going to be asking, Oh, was that a human who made that mistake or was that an A.I. system?”",
     "published": "2026-03-13T11:00:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Delays Rollout of New A.I. Model After Performance Concerns",
-    "link": "https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html",
-    "summary": "The tech giant pushed back the timeline after spending billions to be on the cutting edge of artificial intelligence.",
-    "published": "2026-03-13T00:05:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.",
-    "link": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
-    "summary": "Closing arguments began Thursday in a landmark trial that put online behavior under a microscope. In many ways, it has already been decided.",
-    "published": "2026-03-12T18:32:48",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
-    "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
-    "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track your health. There are benefits and risks to consider.",
-    "published": "2026-03-12T14:21:20",
     "source": "NYT > Technology"
   }
 ]
