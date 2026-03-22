@@ -1,30 +1,149 @@
 [
   {
-    "title": "What to Know About Electric Cars When Gas Prices Are Surging",
-    "link": "https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html",
-    "summary": "War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”",
-    "published": "2026-03-21T09:01:39",
+    "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+    "link": "https://zenodo.org/records/18976656",
+    "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/18976656\">https://zenodo.org/records/18976656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47475155\">https://news.ycombinator.com/item?id=47475155</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+    "published": "2026-03-22T07:07:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "HopTab–free,open source macOS app switcher and tiler that replaces Cmd+Tab",
+    "link": "https://www.royalbhati.com/hoptab",
+    "summary": "<p>Article URL: <a href=\"https://www.royalbhati.com/hoptab\">https://www.royalbhati.com/hoptab</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47474967\">https://news.ycombinator.com/item?id=47474967</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+    "published": "2026-03-22T06:23:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sashiko: An agentic Linux kernel code review system",
+    "link": "https://sashiko.dev/",
+    "summary": "<p>Article URL: <a href=\"https://sashiko.dev/\">https://sashiko.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47474323\">https://news.ycombinator.com/item?id=47474323</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+    "published": "2026-03-22T03:59:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+    "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+    "summary": "<p>Article URL: <a href=\"https://radar.cloudflare.com/domains/domain/archive.today\">https://radar.cloudflare.com/domains/domain/archive.today</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47474255\">https://news.ycombinator.com/item?id=47474255</a></p>\n<p>Points: 147</p>\n<p># Comments: 90</p>",
+    "published": "2026-03-22T03:43:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Alpha Micro AM-1000E and AM-1200",
+    "link": "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html",
+    "summary": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html\">http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47474236\">https://news.ycombinator.com/item?id=47474236</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+    "published": "2026-03-22T03:38:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The three pillars of JavaScript bloat",
+    "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+    "summary": "<p>Article URL: <a href=\"https://43081j.com/2026/03/three-pillars-of-javascript-bloat\">https://43081j.com/2026/03/three-pillars-of-javascript-bloat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47473718\">https://news.ycombinator.com/item?id=47473718</a></p>\n<p>Points: 248</p>\n<p># Comments: 120</p>",
+    "published": "2026-03-22T02:04:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chest Fridge (2009)",
+    "link": "https://mtbest.net/chest-fridge/",
+    "summary": "<p>Article URL: <a href=\"https://mtbest.net/chest-fridge/\">https://mtbest.net/chest-fridge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47473279\">https://news.ycombinator.com/item?id=47473279</a></p>\n<p>Points: 98</p>\n<p># Comments: 61</p>",
+    "published": "2026-03-22T01:02:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Floci – A free, open-source local AWS emulator",
+    "link": "https://github.com/hectorvent/floci",
+    "summary": "<p>Article URL: <a href=\"https://github.com/hectorvent/floci\">https://github.com/hectorvent/floci</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47471801\">https://news.ycombinator.com/item?id=47471801</a></p>\n<p>Points: 177</p>\n<p># Comments: 49</p>",
+    "published": "2026-03-21T21:49:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Professional video editing, right in the browser with WebGPU and WASM",
+    "link": "https://tooscut.app/",
+    "summary": "<p>Article URL: <a href=\"https://tooscut.app/\">https://tooscut.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47471601\">https://news.ycombinator.com/item?id=47471601</a></p>\n<p>Points: 253</p>\n<p># Comments: 84</p>",
+    "published": "2026-03-21T21:27:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Do Not Turn Child Protection into Internet Access Control",
+    "link": "https://news.dyne.org/child-protection-is-not-access-control/",
+    "summary": "<p>Article URL: <a href=\"https://news.dyne.org/child-protection-is-not-access-control/\">https://news.dyne.org/child-protection-is-not-access-control/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47470991\">https://news.ycombinator.com/item?id=47470991</a></p>\n<p>Points: 666</p>\n<p># Comments: 355</p>",
+    "published": "2026-03-21T20:32:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tinybox – A powerful computer for deep learning",
+    "link": "https://tinygrad.org/#tinybox",
+    "summary": "<p>Article URL: <a href=\"https://tinygrad.org/#tinybox\">https://tinygrad.org/#tinybox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47470773\">https://news.ycombinator.com/item?id=47470773</a></p>\n<p>Points: 478</p>\n<p># Comments: 283</p>",
+    "published": "2026-03-21T20:08:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Common Lisp Development Tooling",
+    "link": "https://www.creativetension.co/posts/common-lisp-development-tooling",
+    "summary": "<p>Article URL: <a href=\"https://www.creativetension.co/posts/common-lisp-development-tooling\">https://www.creativetension.co/posts/common-lisp-development-tooling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47470734\">https://news.ycombinator.com/item?id=47470734</a></p>\n<p>Points: 88</p>\n<p># Comments: 17</p>",
+    "published": "2026-03-21T20:04:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Termcraft – Terminal-first 2D sandbox survival in Rust",
+    "link": "https://github.com/pagel-s/termcraft",
+    "summary": "<p>I’ve been building termcraft, a terminal-first 2D sandbox survival game in Rust.<p>The idea is to take the classic early survival progression and adapt it to a side-on terminal format instead of a tile or pixel-art engine.<p>Current build includes:\n  - procedural Overworld, Nether, and End generation\n  - mining, placement, crafting, furnaces, brewing, and boats\n  - hostile and passive mobs\n  - villages, dungeons, strongholds, Nether fortresses, and dragon progression<p>This is still early alpha, but it’s already playable.<p>Project:\n<a href=\"https://github.com/pagel-s/termcraft\" rel=\"nofollow\">https://github.com/pagel-s/termcraft</a><p>Docs:\n<a href=\"https://pagel-s.github.io/termcraft/\" rel=\"nofollow\">https://pagel-s.github.io/termcraft/</a><p>Demo:\n<a href=\"https://youtu.be/kR986Xqzj7E\" rel=\"nofollow\">https://youtu.be/kR986Xqzj7E</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47469949\">https://news.ycombinator.com/item?id=47469949</a></p>\n<p>Points: 113</p>\n<p># Comments: 20</p>",
+    "published": "2026-03-21T18:42:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hide macOS Tahoe's Menu Icons",
+    "link": "https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/",
+    "summary": "<p>Article URL: <a href=\"https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/\">https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47469331\">https://news.ycombinator.com/item?id=47469331</a></p>\n<p>Points: 199</p>\n<p># Comments: 71</p>",
+    "published": "2026-03-21T17:46:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Paul Brainerd Dies at 78; Pioneered Desktop Publishing With PageMaker",
+    "link": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
+    "summary": "His software brought printing into the digital age, allowing users to stop manually splicing columns of text and graphics and instead create layouts on a virtual pasteboard.",
+    "published": "2026-03-21T16:14:24",
     "source": "NYT > Technology"
   },
   {
-    "title": "Man pleads guilty to $8M AI-generated music scheme",
-    "link": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
-    "summary": "<p>Article URL: <a href=\"https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme\">https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47464859\">https://news.ycombinator.com/item?id=47464859</a></p>\n<p>Points: 30</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-21T07:36:07",
+    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "summary": "<p>Article URL: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646\">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47467913\">https://news.ycombinator.com/item?id=47467913</a></p>\n<p>Points: 143</p>\n<p># Comments: 76</p>",
+    "published": "2026-03-21T15:30:29",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Ford burned $12B in Brazil (2021)",
+    "link": "https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/\">https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47467623\">https://news.ycombinator.com/item?id=47467623</a></p>\n<p>Points: 54</p>\n<p># Comments: 29</p>",
+    "published": "2026-03-21T14:55:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+    "link": "https://grafeo.dev/",
+    "summary": "<p>Article URL: <a href=\"https://grafeo.dev/\">https://grafeo.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47467567\">https://news.ycombinator.com/item?id=47467567</a></p>\n<p>Points: 220</p>\n<p># Comments: 76</p>",
+    "published": "2026-03-21T14:50:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Some things just take time",
+    "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/\">https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47467537\">https://news.ycombinator.com/item?id=47467537</a></p>\n<p>Points: 679</p>\n<p># Comments: 205</p>",
+    "published": "2026-03-21T14:46:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What to Know About Electric Cars When Gas Prices Are Surging",
+    "link": "https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html",
+    "summary": "War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”",
+    "published": "2026-03-21T14:14:53",
+    "source": "NYT > Technology"
   },
   {
     "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
     "link": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-    "summary": "<p>Article URL: <a href=\"https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/\">https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47464134\">https://news.ycombinator.com/item?id=47464134</a></p>\n<p>Points: 92</p>\n<p># Comments: 92</p>",
+    "summary": "<p>Article URL: <a href=\"https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/\">https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47464134\">https://news.ycombinator.com/item?id=47464134</a></p>\n<p>Points: 369</p>\n<p># Comments: 360</p>",
     "published": "2026-03-21T05:06:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FFmpeg 101 (2024)",
-    "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-    "summary": "<p>Article URL: <a href=\"https://blogs.igalia.com/llepage/ffmpeg-101/\">https://blogs.igalia.com/llepage/ffmpeg-101/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47463547\">https://news.ycombinator.com/item?id=47463547</a></p>\n<p>Points: 71</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-21T02:47:13",
     "source": "Hacker News: Front Page"
   },
   {
@@ -35,81 +154,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "purl: a curl-esque CLI for making HTTP requests that require payment",
-    "link": "https://www.purl.dev/",
-    "summary": "<p>Article URL: <a href=\"https://www.purl.dev/\">https://www.purl.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47463354\">https://news.ycombinator.com/item?id=47463354</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
-    "published": "2026-03-21T02:09:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
-    "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
-    "summary": "<p>Article URL: <a href=\"https://github.com/arnoldrobbins/LinuxByExample-2e\">https://github.com/arnoldrobbins/LinuxByExample-2e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47462483\">https://news.ycombinator.com/item?id=47462483</a></p>\n<p>Points: 87</p>\n<p># Comments: 9</p>",
-    "published": "2026-03-20T23:57:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Elon Musk Is Responsible for Some Twitter Investor Losses, Jury Finds",
     "link": "https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html",
     "summary": "The verdict was a rare loss for Mr. Musk, who investors claimed had tried to drive down the share price of the social media company, now called X, to renegotiate his $44 billion offer.",
-    "published": "2026-03-20T23:16:50",
+    "published": "2026-03-20T23:16:51",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
-    "link": "https://github.com/RedGridTactical/RedGridLink",
-    "summary": "<p>I go on a lot of backcountry trips where I barely get cell service. If my group splits, nobody knows knows where anyone is until you regroup at camp or at your destination. You can buy Garmin radios or try to set up an ATAK, but ATAK is Android-only and assumes you have a TAK Server running somewhere to make use of all of the functionality. Cool tools themselves, but expensive to set up correctly. I just wanted two iPhones to share their location directly over Bluetooth when cell coverage was lacking.<p>Red Grid Link does that. Start a session, and anyone nearby running the app shows up on your offline map. When they walk out of range their marker stays as a \"ghost\" that slowly fades.<p>The hard part was making sync reliable over BLE. The connections drop all the time. Someone turns a corner, walks behind a vehicle, whatever. I built a CRDT sync layer (LWW Register + G-Counter) so there's never merge conflicts. Each update is just under 200 bytes (from what I have tested so far). When a user/teammate disappears the app does exponential backoff from 2 to 30 seconds before giving up and marking them as a ghost.<p>Everything is encrypted (AES-256-GCM, ECDH P-256 key exchange per peer pair). Sessions can require a PIN or QR code to join. It also offers offline topo maps with MGRS grid coordinates, same system as in my other app, Red Grid MGRS.<p>The app is free, and I'm looking for some honest feedback from other real-world users. Let me know if you have any questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47461529\">https://news.ycombinator.com/item?id=47461529</a></p>\n<p>Points: 42</p>\n<p># Comments: 16</p>",
-    "published": "2026-03-20T22:25:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ghostling",
-    "link": "https://github.com/ghostty-org/ghostling",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ghostty-org/ghostling\">https://github.com/ghostty-org/ghostling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47461378\">https://news.ycombinator.com/item?id=47461378</a></p>\n<p>Points: 203</p>\n<p># Comments: 35</p>",
-    "published": "2026-03-20T22:11:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
-    "link": "https://github.com/FormerLab/fortransky",
-    "summary": "<p>Yes, that Fortran.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47461321\">https://news.ycombinator.com/item?id=47461321</a></p>\n<p>Points: 78</p>\n<p># Comments: 44</p>",
-    "published": "2026-03-20T22:06:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-    "link": "https://www.openui.com/blog/rust-wasm-parser",
-    "summary": "<p>Article URL: <a href=\"https://www.openui.com/blog/rust-wasm-parser\">https://www.openui.com/blog/rust-wasm-parser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47461094\">https://news.ycombinator.com/item?id=47461094</a></p>\n<p>Points: 197</p>\n<p># Comments: 116</p>",
-    "published": "2026-03-20T21:48:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenCode – Open source AI coding agent",
-    "link": "https://opencode.ai/",
-    "summary": "<p>Article URL: <a href=\"https://opencode.ai/\">https://opencode.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47460525\">https://news.ycombinator.com/item?id=47460525</a></p>\n<p>Points: 754</p>\n<p># Comments: 335</p>",
-    "published": "2026-03-20T21:03:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Japanese glossary of chopsticks faux pas",
-    "link": "https://www.nippon.com/en/japan-data/h01362/",
-    "summary": "<p>Article URL: <a href=\"https://www.nippon.com/en/japan-data/h01362/\">https://www.nippon.com/en/japan-data/h01362/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47460452\">https://news.ycombinator.com/item?id=47460452</a></p>\n<p>Points: 252</p>\n<p># Comments: 183</p>",
-    "published": "2026-03-20T20:54:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Our commitment to Windows quality",
-    "link": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-    "summary": "<p>Article URL: <a href=\"https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/\">https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47459296\">https://news.ycombinator.com/item?id=47459296</a></p>\n<p>Points: 514</p>\n<p># Comments: 933</p>",
-    "published": "2026-03-20T19:16:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Attention Residuals",
-    "link": "https://github.com/MoonshotAI/Attention-Residuals",
-    "summary": "<p>Article URL: <a href=\"https://github.com/MoonshotAI/Attention-Residuals\">https://github.com/MoonshotAI/Attention-Residuals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47458595\">https://news.ycombinator.com/item?id=47458595</a></p>\n<p>Points: 176</p>\n<p># Comments: 22</p>",
-    "published": "2026-03-20T18:23:41",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "More! More! More! Tech Workers Max Out Their A.I. Use.",
@@ -119,6 +168,13 @@
     "source": "NYT > Technology"
   },
   {
+    "title": "Boomloom: Think with your hands",
+    "link": "https://www.theboomloom.com",
+    "summary": "<p>Article URL: <a href=\"https://www.theboomloom.com\">https://www.theboomloom.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47457570\">https://news.ycombinator.com/item?id=47457570</a></p>\n<p>Points: 113</p>\n<p># Comments: 9</p>",
+    "published": "2026-03-20T17:13:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
     "link": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
     "summary": "The Trump administration on Friday released new guidelines for federal legislation on the technology, recommending some safeguards for children and consumer protections for energy costs.",
@@ -126,39 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Molly Guard",
-    "link": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-    "summary": "<p><a href=\"https://en.wiktionary.org/wiki/molly-guard\" rel=\"nofollow\">https://en.wiktionary.org/wiki/molly-guard</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47455138\">https://news.ycombinator.com/item?id=47455138</a></p>\n<p>Points: 97</p>\n<p># Comments: 36</p>",
-    "published": "2026-03-20T14:33:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-    "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-    "summary": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html\">https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47453942\">https://news.ycombinator.com/item?id=47453942</a></p>\n<p>Points: 561</p>\n<p># Comments: 452</p>",
-    "published": "2026-03-20T13:01:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Entso-E final report on Iberian 2025 blackout",
-    "link": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-    "summary": "<p>Article URL: <a href=\"https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/\">https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47452955\">https://news.ycombinator.com/item?id=47452955</a></p>\n<p>Points: 192</p>\n<p># Comments: 90</p>",
-    "published": "2026-03-20T11:03:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "‘A.I.-Washing’ Layoffs? + Why L.L.M.s Can’t Write Well + Tokenmaxxing",
     "link": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
     "summary": "Companies are using A.I. as a reason for layoffs, but the truth may be more complex.",
     "published": "2026-03-20T11:00:03",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "ArXiv declares independence from Cornell",
-    "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell\">https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47450478\">https://news.ycombinator.com/item?id=47450478</a></p>\n<p>Points: 755</p>\n<p># Comments: 265</p>",
-    "published": "2026-03-20T04:24:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
@@ -182,13 +210,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Delve – Fake Compliance as a Service",
-    "link": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-    "summary": "<p>Article URL: <a href=\"https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service\">https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47444319\">https://news.ycombinator.com/item?id=47444319</a></p>\n<p>Points: 667</p>\n<p># Comments: 215</p>",
-    "published": "2026-03-19T19:08:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks",
     "link": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
     "summary": "New A.I. bots can do more than just chat. They can edit files, send emails, book trips and cause trouble.",
@@ -210,25 +231,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Fujifilm X RAW STUDIO webapp clone",
-    "link": "https://github.com/eggricesoy/filmkit",
-    "summary": "<p>Article URL: <a href=\"https://github.com/eggricesoy/filmkit\">https://github.com/eggricesoy/filmkit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47435081\">https://news.ycombinator.com/item?id=47435081</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
-    "published": "2026-03-19T04:49:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
     "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
     "summary": "After years of criticism and financial risk, Palantir, Anthropic and small start-ups are generating rewards from their investments in defense tech.",
     "published": "2026-03-19T03:58:29",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "A look at content scrambling in DVDs",
-    "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
-    "summary": "<p>Article URL: <a href=\"https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/\">https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47431653\">https://news.ycombinator.com/item?id=47431653</a></p>\n<p>Points: 43</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-18T21:29:14",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
