@@ -1,91 +1,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-03-23</lastmod>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.web-rewind.com</loc>
+    <lastmod>2026-03-24T07:54:02</lastmod>
+  </url>
+  <url>
+    <loc>https://proofshot.argil.io/</loc>
+    <lastmod>2026-03-24T07:46:46</lastmod>
+  </url>
+  <url>
+    <loc>https://burntsushi.net/ripgrep/</loc>
+    <lastmod>2026-03-24T06:31:39</lastmod>
+  </url>
+  <url>
+    <loc>https://lnav.org/</loc>
+    <lastmod>2026-03-24T05:32:53</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932</loc>
+    <lastmod>2026-03-24T01:54:03</lastmod>
+  </url>
+  <url>
+    <loc>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</loc>
+    <lastmod>2026-03-24T01:53:09</lastmod>
+  </url>
+  <url>
+    <loc>https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/</loc>
+    <lastmod>2026-03-23T22:37:15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/</loc>
+    <lastmod>2026-03-23T22:01:15</lastmod>
+  </url>
+  <url>
+    <loc>https://cc.storyfox.cz</loc>
+    <lastmod>2026-03-23T21:44:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers</loc>
+    <lastmod>2026-03-23T21:28:02</lastmod>
+  </url>
+  <url>
+    <loc>https://neilkakkar.com/productive-with-claude-code.html</loc>
+    <lastmod>2026-03-23T20:49:10</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/bjarneo/cliamp</loc>
+    <lastmod>2026-03-23T20:42:22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html</loc>
+    <lastmod>2026-03-23T20:39:49</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/localstack/localstack</loc>
+    <lastmod>2026-03-23T18:57:08</lastmod>
+  </url>
+  <url>
+    <loc>https://ykumar.me/blog/eclip-autoresearch/</loc>
+    <lastmod>2026-03-23T18:40:58</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.mozilla.ai/cq-stack-overflow-for-agents/</loc>
+    <lastmod>2026-03-23T16:11:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.boxyuwu.blog/posts/an-incoherent-rust/</loc>
+    <lastmod>2026-03-23T15:13:22</lastmod>
+  </url>
+  <url>
+    <loc>https://twitter.com/anemll/status/2035901335984611412</loc>
+    <lastmod>2026-03-23T14:30:10</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html</loc>
-    <lastmod>2026-03-23T09:00:19</lastmod>
+    <lastmod>2026-03-23T14:04:54</lastmod>
   </url>
   <url>
-    <loc>https://indieweb.org/POSSE</loc>
-    <lastmod>2026-03-23T08:29:27</lastmod>
+    <loc>https://www.jackhogan.me/blog/box-of-secrets/</loc>
+    <lastmod>2026-03-23T12:42:00</lastmod>
   </url>
   <url>
-    <loc>https://gzw1987-bit.github.io/iching-math/</loc>
-    <lastmod>2026-03-23T08:21:57</lastmod>
+    <loc>https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/</loc>
+    <lastmod>2026-03-23T10:32:33</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cy01g522ww4o</loc>
-    <lastmod>2026-03-23T07:24:19</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/oguzbilgic/agent-kernel</loc>
-    <lastmod>2026-03-23T07:06:42</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bohrium.com/competitions/9813928053?tab=introduce</loc>
-    <lastmod>2026-03-23T06:42:39</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</loc>
-    <lastmod>2026-03-23T03:33:41</lastmod>
-  </url>
-  <url>
-    <loc>https://www.connorjdavis.com/p/intuitions-for-transformer-circuits</loc>
-    <lastmod>2026-03-23T01:06:35</lastmod>
-  </url>
-  <url>
-    <loc>https://americanexpress.io/migrating-the-payments-network-twice/</loc>
-    <lastmod>2026-03-23T00:15:10</lastmod>
-  </url>
-  <url>
-    <loc>https://tedium.co/2026/02/25/vibe-coded-email-spam/</loc>
-    <lastmod>2026-03-22T22:11:54</lastmod>
-  </url>
-  <url>
-    <loc>https://grapheneos.social/@GrapheneOS/116261301913660830</loc>
-    <lastmod>2026-03-22T21:14:11</lastmod>
-  </url>
-  <url>
-    <loc>https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/</loc>
-    <lastmod>2026-03-22T19:02:43</lastmod>
-  </url>
-  <url>
-    <loc>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</loc>
-    <lastmod>2026-03-22T18:23:40</lastmod>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284</loc>
-    <lastmod>2026-03-22T18:18:01</lastmod>
-  </url>
-  <url>
-    <loc>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</loc>
-    <lastmod>2026-03-22T17:17:06</lastmod>
-  </url>
-  <url>
-    <loc>https://armaansood.com/posts/systems-reading-group/</loc>
-    <lastmod>2026-03-22T17:06:38</lastmod>
-  </url>
-  <url>
-    <loc>https://avaloniaui.net/blog/maui-avalonia-preview-1</loc>
-    <lastmod>2026-03-22T15:43:21</lastmod>
-  </url>
-  <url>
-    <loc>https://jry.io/writing/you-are-not-your-job/</loc>
-    <lastmod>2026-03-22T15:30:54</lastmod>
-  </url>
-  <url>
-    <loc>https://bramcohen.com/p/manyana</loc>
-    <lastmod>2026-03-22T15:16:28</lastmod>
-  </url>
-  <url>
-    <loc>https://noquiche.fyi/voodoo</loc>
-    <lastmod>2026-03-22T13:24:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.projectnomad.us</loc>
-    <lastmod>2026-03-22T12:28:38</lastmod>
+    <loc>https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise</loc>
+    <lastmod>2026-03-22T09:45:14</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html</loc>
@@ -174,17 +178,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html</loc>
     <lastmod>2026-03-17T17:52:47</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html</loc>
-    <lastmod>2026-03-17T17:22:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html</loc>
-    <lastmod>2026-03-16T22:18:24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html</loc>
-    <lastmod>2026-03-16T20:05:48</lastmod>
   </url>
 </urlset>

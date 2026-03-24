@@ -1,149 +1,156 @@
 [
   {
-    "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
-    "link": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
-    "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
-    "published": "2026-03-23T09:00:19",
+    "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+    "link": "https://www.web-rewind.com",
+    "summary": "<p>Article URL: <a href=\"https://www.web-rewind.com\">https://www.web-rewind.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47499721\">https://news.ycombinator.com/item?id=47499721</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
+    "published": "2026-03-24T07:54:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
+    "link": "https://proofshot.argil.io/",
+    "summary": "<p>I use AI agents to build UI features daily. The thing that kept annoying me: the agent writes code but never sees what it actually looks like in the browser. It can’t tell if the layout is broken or if the console is throwing errors.<p>So I built a CLI that lets the agent open a browser, interact with the page, record what happens, and collect any errors. Then it bundles everything — video, screenshots, logs — into a self-contained HTML file I can review in seconds.<p>proofshot start --run \"npm run dev\" --port 3000\n# agent navigates, clicks, takes screenshots\nproofshot stop<p>It works with whatever agent you use (Claude Code, Cursor, Codex, etc.) — it’s just shell commands. It's packaged as a skill so your AI coding agent knows exactly how it works. It's built on agent-browser from Vercel Labs which is far better and faster than Playwright MCP.<p>It’s not a testing framework. The agent doesn’t decide pass/fail. It just gives me the evidence so I don’t have to open the browser myself every time.<p>Open source and completely free.<p><a href=\"https://github.com/AmElmo/proofshot\" rel=\"nofollow\">https://github.com/AmElmo/proofshot</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47499672\">https://news.ycombinator.com/item?id=47499672</a></p>\n<p>Points: 22</p>\n<p># Comments: 22</p>",
+    "published": "2026-03-24T07:46:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}",
+    "link": "https://burntsushi.net/ripgrep/",
+    "summary": "<p>Article URL: <a href=\"https://burntsushi.net/ripgrep/\">https://burntsushi.net/ripgrep/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47499245\">https://news.ycombinator.com/item?id=47499245</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+    "published": "2026-03-24T06:31:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Log File Viewer for the Terminal",
+    "link": "https://lnav.org/",
+    "summary": "<p>Article URL: <a href=\"https://lnav.org/\">https://lnav.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47498924\">https://news.ycombinator.com/item?id=47498924</a></p>\n<p>Points: 112</p>\n<p># Comments: 15</p>",
+    "published": "2026-03-24T05:32:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sunsetting the Techempower Framework Benchmarks",
+    "link": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
+    "summary": "<p>Article URL: <a href=\"https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932\">https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47497763\">https://news.ycombinator.com/item?id=47497763</a></p>\n<p>Points: 39</p>\n<p># Comments: 8</p>",
+    "published": "2026-03-24T01:54:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "summary": "<p>Article URL: <a href=\"https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs\">https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47497757\">https://news.ycombinator.com/item?id=47497757</a></p>\n<p>Points: 334</p>\n<p># Comments: 354</p>",
+    "published": "2026-03-24T01:53:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
+    "link": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
+    "summary": "<p>Article URL: <a href=\"https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/\">https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47496089\">https://news.ycombinator.com/item?id=47496089</a></p>\n<p>Points: 68</p>\n<p># Comments: 8</p>",
+    "published": "2026-03-23T22:37:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Resolv hack: How one compromised key printed $23M",
+    "link": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
+    "summary": "<p>Article URL: <a href=\"https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/\">https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47495719\">https://news.ycombinator.com/item?id=47495719</a></p>\n<p>Points: 93</p>\n<p># Comments: 124</p>",
+    "published": "2026-03-23T22:01:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Code Cheat Sheet",
+    "link": "https://cc.storyfox.cz",
+    "summary": "<p>Article URL: <a href=\"https://cc.storyfox.cz\">https://cc.storyfox.cz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47495527\">https://news.ycombinator.com/item?id=47495527</a></p>\n<p>Points: 386</p>\n<p># Comments: 114</p>",
+    "published": "2026-03-23T21:44:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FCC updates covered list to include foreign-made consumer routers",
+    "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+    "summary": "<p><a href=\"https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf\" rel=\"nofollow\">https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf</a><p><a href=\"https://www.fcc.gov/document/fcc-adds-routers-produced-foreign-countries-covered-list\" rel=\"nofollow\">https://www.fcc.gov/document/fcc-adds-routers-produced-forei...</a><p><a href=\"https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf\" rel=\"nofollow\">https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf</a><p><a href=\"https://www.bbc.com/news/articles/c74787w149zo\" rel=\"nofollow\">https://www.bbc.com/news/articles/c74787w149zo</a><p><a href=\"https://www.cnet.com/home/internet/fcc-bans-foreign-made-routers-as-national-security-risk/\" rel=\"nofollow\">https://www.cnet.com/home/internet/fcc-bans-foreign-made-rou...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47495344\">https://news.ycombinator.com/item?id=47495344</a></p>\n<p>Points: 313</p>\n<p># Comments: 214</p>",
+    "published": "2026-03-23T21:28:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How I'm Productive with Claude Code",
+    "link": "https://neilkakkar.com/productive-with-claude-code.html",
+    "summary": "<p>Article URL: <a href=\"https://neilkakkar.com/productive-with-claude-code.html\">https://neilkakkar.com/productive-with-claude-code.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47494890\">https://news.ycombinator.com/item?id=47494890</a></p>\n<p>Points: 200</p>\n<p># Comments: 119</p>",
+    "published": "2026-03-23T20:49:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A retro terminal music player inspired by Winamp",
+    "link": "https://github.com/bjarneo/cliamp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/bjarneo/cliamp\">https://github.com/bjarneo/cliamp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47494821\">https://news.ycombinator.com/item?id=47494821</a></p>\n<p>Points: 93</p>\n<p># Comments: 26</p>",
+    "published": "2026-03-23T20:42:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Judge Hears State Challenge to Trump’s Tech Deal Settlement",
+    "link": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+    "summary": "Democratic state attorneys general are fighting the Justice Department’s clearance of a $14 billion deal by Hewlett Packard Enterprise, arguing it was ineffective and corrupt.",
+    "published": "2026-03-23T20:39:49",
     "source": "NYT > Technology"
   },
   {
-    "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-    "link": "https://indieweb.org/POSSE",
-    "summary": "<p>Article URL: <a href=\"https://indieweb.org/POSSE\">https://indieweb.org/POSSE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47486726\">https://news.ycombinator.com/item?id=47486726</a></p>\n<p>Points: 95</p>\n<p># Comments: 20</p>",
-    "published": "2026-03-23T08:29:27",
+    "title": "Local Stack Archived their GitHub repo and requires an account to run",
+    "link": "https://github.com/localstack/localstack",
+    "summary": "<p>Article URL: <a href=\"https://github.com/localstack/localstack\">https://github.com/localstack/localstack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493657\">https://news.ycombinator.com/item?id=47493657</a></p>\n<p>Points: 195</p>\n<p># Comments: 112</p>",
+    "published": "2026-03-23T18:57:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: The King Wen Permutation: [52, 10, 2]",
-    "link": "https://gzw1987-bit.github.io/iching-math/",
-    "summary": "<p>I analyzed two orderings of the 64 I Ching hexagrams and found\n  the permutation cycle decomposition between them is [52, 10, 2]\n  with zero fixed points. Nobody has done this kind of analysis before\n  and this cycle type has not been reported in the literature.\n  You can verify it yourself.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47486680\">https://news.ycombinator.com/item?id=47486680</a></p>\n<p>Points: 11</p>\n<p># Comments: 6</p>",
-    "published": "2026-03-23T08:21:57",
+    "title": "Autoresearch on an old research idea",
+    "link": "https://ykumar.me/blog/eclip-autoresearch/",
+    "summary": "<p>Article URL: <a href=\"https://ykumar.me/blog/eclip-autoresearch/\">https://ykumar.me/blog/eclip-autoresearch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493460\">https://news.ycombinator.com/item?id=47493460</a></p>\n<p>Points: 355</p>\n<p># Comments: 73</p>",
+    "published": "2026-03-23T18:40:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Plane and ground vehicle collide at New York's LaGuardia airport halting flights",
-    "link": "https://www.bbc.com/news/articles/cy01g522ww4o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cy01g522ww4o\">https://www.bbc.com/news/articles/cy01g522ww4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47486386\">https://news.ycombinator.com/item?id=47486386</a></p>\n<p>Points: 40</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-23T07:24:19",
+    "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+    "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+    "summary": "<p>Hi all, I'm Peter at Staff Engineer and Mozilla.ai and I want to share our idea for a standard for shared agent learning, conceptually it seemed to fit easily in my mental model as a Stack Overflow for agents.<p>The project is trying to see if we can get agents (any agent, any model) to propose 'knowledge units' (KUs) as a standard schema based on gotchas it runs into during use, and proactively query for existing KUs in order to get insights which it can verify and confirm if they prove useful.<p>It's currently very much a PoC with a more lofty proposal in the repo, we're trying to iterate from local use, up to team level, and ideally eventually have some kind of public commons.<p>At the team level (see our Docker compose example) and your coding agent configured to point to the API address for the team to send KUs there instead - where they can be reviewed by a human in the loop (HITL) via a UI in the browser, before they're allowed to appear in queries by other agents in your team.<p>We're learning a lot even from using it locally on various repos internally, not just in the kind of KUs it generates, but also from a UX perspective on trying to make it easy to get using it and approving KUs in the browser dashboard. There are bigger, complex problems to solve in the future around data privacy, governance etc. but for now we're super focussed on getting something that people can see some value from really quickly in their day-to-day.<p>Tech stack:<p>* Skills - markdown<p>* Local Python MCP server (FastMCP) - managing a local SQLite knowledge store<p>* Optional team API (FastAPI, Docker) for sharing knowledge across an org<p>* Installs as a Claude Code plugin or OpenCode MCP server<p>* Local-first by default; your knowledge stays on your machine unless you opt into team sync by setting the address in config<p>* OSS (Apache 2.0 licensed)<p>Here's an example of something which seemed straight forward, when asking Claude Code to write a GitHub action it often used actions that were multiple major versions out of date because of its training data. In this case I told the agent what I saw when I reviewed the GitHub action YAML file it created and it proposed the knowledge unit to be persisted. Next time in a completely different repo using OpenCode and an OpenAI model, the cq skill was used up front before it started the task and it got the information about the gotcha on major versions in training data and checked GitHub proactively, using the correct, latest major versions. It then confirmed the KU, increasing the confidence score.<p>I guess some folks might say: well there's a CLAUDE.md in your repo, or in ~/.claude/ but we're looking further than that, we want this to be available to all agents, to all models, and maybe more importantly we don't want to stuff AGENTS.md or CLAUDE.md with loads of rules that lead to unpredictable behaviour, this is targetted information on a particular task and seems a lot more useful.<p>Right now it can be installed locally as a plugin for Claude Code and OpenCode:<p>claude plugin marketplace add mozilla-ai/cq\nclaude plugin install cq<p>This allows you to capture data in your local ~/.cq/local.db (the data doesn't get sent anywhere else).<p>We'd love feedback on this, the repo is open and public - so GitHub issues are welcome. We've posted on some of our social media platforms with a link to the blog post (below) so feel free to reply to us if you found it useful, or ran into friction, we want to make this something that's accessible to everyone.<p>Blog post with the full story: <a href=\"https://blog.mozilla.ai/cq-stack-overflow-for-agents/\" rel=\"nofollow\">https://blog.mozilla.ai/cq-stack-overflow-for-agents/</a>\nGitHub repo: <a href=\"https://github.com/mozilla-ai/cq\" rel=\"nofollow\">https://github.com/mozilla-ai/cq</a><p>Thanks again for your time.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47491466\">https://news.ycombinator.com/item?id=47491466</a></p>\n<p>Points: 141</p>\n<p># Comments: 53</p>",
+    "published": "2026-03-23T16:11:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful",
-    "link": "https://github.com/oguzbilgic/agent-kernel",
-    "summary": "<p>Article URL: <a href=\"https://github.com/oguzbilgic/agent-kernel\">https://github.com/oguzbilgic/agent-kernel</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47486287\">https://news.ycombinator.com/item?id=47486287</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
-    "published": "2026-03-23T07:06:42",
+    "title": "An incoherent Rust",
+    "link": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
+    "summary": "<p>Article URL: <a href=\"https://www.boxyuwu.blog/posts/an-incoherent-rust/\">https://www.boxyuwu.blog/posts/an-incoherent-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47490648\">https://news.ycombinator.com/item?id=47490648</a></p>\n<p>Points: 188</p>\n<p># Comments: 92</p>",
+    "published": "2026-03-23T15:13:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support",
-    "link": "https://www.bohrium.com/competitions/9813928053?tab=introduce",
-    "summary": "<p>Article URL: <a href=\"https://www.bohrium.com/competitions/9813928053?tab=introduce\">https://www.bohrium.com/competitions/9813928053?tab=introduce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47486135\">https://news.ycombinator.com/item?id=47486135</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-    "published": "2026-03-23T06:42:39",
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "link": "https://twitter.com/anemll/status/2035901335984611412",
+    "summary": "<p><a href=\"https://xcancel.com/anemll/status/2035901335984611412\" rel=\"nofollow\">https://xcancel.com/anemll/status/2035901335984611412</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47490070\">https://news.ycombinator.com/item?id=47490070</a></p>\n<p>Points: 605</p>\n<p># Comments: 273</p>",
+    "published": "2026-03-23T14:30:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-    "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47485231\">https://news.ycombinator.com/item?id=47485231</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-23T03:33:41",
+    "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
+    "link": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+    "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
+    "published": "2026-03-23T14:04:54",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+    "link": "https://www.jackhogan.me/blog/box-of-secrets/",
+    "summary": "<p>Article URL: <a href=\"https://www.jackhogan.me/blog/box-of-secrets/\">https://www.jackhogan.me/blog/box-of-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47488686\">https://news.ycombinator.com/item?id=47488686</a></p>\n<p>Points: 123</p>\n<p># Comments: 35</p>",
+    "published": "2026-03-23T12:42:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Intuitions for Tranformer Circuits",
-    "link": "https://www.connorjdavis.com/p/intuitions-for-transformer-circuits",
-    "summary": "<p>Article URL: <a href=\"https://www.connorjdavis.com/p/intuitions-for-transformer-circuits\">https://www.connorjdavis.com/p/intuitions-for-transformer-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47484227\">https://news.ycombinator.com/item?id=47484227</a></p>\n<p>Points: 58</p>\n<p># Comments: 4</p>",
-    "published": "2026-03-23T01:06:35",
+    "title": "I built an AI receptionist for a mechanic shop",
+    "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+    "summary": "<p>Article URL: <a href=\"https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/\">https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47487536\">https://news.ycombinator.com/item?id=47487536</a></p>\n<p>Points: 275</p>\n<p># Comments: 282</p>",
+    "published": "2026-03-23T10:32:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Migrating the American express payment network, twice",
-    "link": "https://americanexpress.io/migrating-the-payments-network-twice/",
-    "summary": "<p>Article URL: <a href=\"https://americanexpress.io/migrating-the-payments-network-twice/\">https://americanexpress.io/migrating-the-payments-network-twice/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47483830\">https://news.ycombinator.com/item?id=47483830</a></p>\n<p>Points: 75</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-23T00:15:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "They’re vibe-coding spam now",
-    "link": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-    "summary": "<p>Article URL: <a href=\"https://tedium.co/2026/02/25/vibe-coded-email-spam/\">https://tedium.co/2026/02/25/vibe-coded-email-spam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47482760\">https://news.ycombinator.com/item?id=47482760</a></p>\n<p>Points: 94</p>\n<p># Comments: 53</p>",
-    "published": "2026-03-22T22:11:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-    "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-    "summary": "<p>Article URL: <a href=\"https://grapheneos.social/@GrapheneOS/116261301913660830\">https://grapheneos.social/@GrapheneOS/116261301913660830</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47482217\">https://news.ycombinator.com/item?id=47482217</a></p>\n<p>Points: 414</p>\n<p># Comments: 114</p>",
-    "published": "2026-03-22T21:14:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-    "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-    "summary": "<p>Article URL: <a href=\"https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/\">https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47480886\">https://news.ycombinator.com/item?id=47480886</a></p>\n<p>Points: 384</p>\n<p># Comments: 114</p>",
-    "published": "2026-03-22T19:02:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-    "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-    "summary": "<p>Article URL: <a href=\"https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/\">https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47480507\">https://news.ycombinator.com/item?id=47480507</a></p>\n<p>Points: 614</p>\n<p># Comments: 281</p>",
-    "published": "2026-03-22T18:23:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What young workers are doing to AI-proof themselves",
-    "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284\">https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47480447\">https://news.ycombinator.com/item?id=47480447</a></p>\n<p>Points: 136</p>\n<p># Comments: 222</p>",
-    "published": "2026-03-22T18:18:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why I love NixOS",
-    "link": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-    "summary": "<p>Article URL: <a href=\"https://www.birkey.co/2026-03-22-why-i-love-nixos.html\">https://www.birkey.co/2026-03-22-why-i-love-nixos.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47479751\">https://news.ycombinator.com/item?id=47479751</a></p>\n<p>Points: 323</p>\n<p># Comments: 228</p>",
-    "published": "2026-03-22T17:17:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Five years of running a systems reading group at Microsoft",
-    "link": "https://armaansood.com/posts/systems-reading-group/",
-    "summary": "<p>Article URL: <a href=\"https://armaansood.com/posts/systems-reading-group/\">https://armaansood.com/posts/systems-reading-group/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47479627\">https://news.ycombinator.com/item?id=47479627</a></p>\n<p>Points: 164</p>\n<p># Comments: 49</p>",
-    "published": "2026-03-22T17:06:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "MAUI Is Coming to Linux",
-    "link": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-    "summary": "<p>Article URL: <a href=\"https://avaloniaui.net/blog/maui-avalonia-preview-1\">https://avaloniaui.net/blog/maui-avalonia-preview-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47478687\">https://news.ycombinator.com/item?id=47478687</a></p>\n<p>Points: 214</p>\n<p># Comments: 114</p>",
-    "published": "2026-03-22T15:43:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "You are not your job",
-    "link": "https://jry.io/writing/you-are-not-your-job/",
-    "summary": "<p>Article URL: <a href=\"https://jry.io/writing/you-are-not-your-job/\">https://jry.io/writing/you-are-not-your-job/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47478548\">https://news.ycombinator.com/item?id=47478548</a></p>\n<p>Points: 180</p>\n<p># Comments: 191</p>",
-    "published": "2026-03-22T15:30:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The future of version control",
-    "link": "https://bramcohen.com/p/manyana",
-    "summary": "<p>Article URL: <a href=\"https://bramcohen.com/p/manyana\">https://bramcohen.com/p/manyana</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47478401\">https://news.ycombinator.com/item?id=47478401</a></p>\n<p>Points: 527</p>\n<p># Comments: 293</p>",
-    "published": "2026-03-22T15:16:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
-    "link": "https://noquiche.fyi/voodoo",
-    "summary": "<p>Article URL: <a href=\"https://noquiche.fyi/voodoo\">https://noquiche.fyi/voodoo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47477284\">https://news.ycombinator.com/item?id=47477284</a></p>\n<p>Points: 195</p>\n<p># Comments: 42</p>",
-    "published": "2026-03-22T13:24:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Project Nomad – Knowledge That Never Goes Offline",
-    "link": "https://www.projectnomad.us",
-    "summary": "<p>Article URL: <a href=\"https://www.projectnomad.us\">https://www.projectnomad.us</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47476821\">https://news.ycombinator.com/item?id=47476821</a></p>\n<p>Points: 451</p>\n<p># Comments: 152</p>",
-    "published": "2026-03-22T12:28:38",
+    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+    "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+    "summary": "<p>Article URL: <a href=\"https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise\">https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47475888\">https://news.ycombinator.com/item?id=47475888</a></p>\n<p>Points: 202</p>\n<p># Comments: 70</p>",
+    "published": "2026-03-22T09:45:14",
     "source": "Hacker News: Front Page"
   },
   {
@@ -298,27 +305,6 @@
     "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
     "summary": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
     "published": "2026-03-17T17:52:47",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
-    "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
-    "summary": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
-    "published": "2026-03-17T17:22:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
-    "link": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
-    "summary": "At the opening of the company’s annual conference, Jensen Huang leaned on technology from a recent deal to show how artificial intelligence is changing.",
-    "published": "2026-03-16T22:18:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
-    "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
-    "summary": "A Florida bill that would have regulated artificial intelligence, backed by Gov. Ron DeSantis, failed to gain traction after President Trump made it clear he did not want states to rein in the technology.",
-    "published": "2026-03-16T20:05:48",
     "source": "NYT > Technology"
   }
 ]
