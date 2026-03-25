@@ -1,86 +1,170 @@
 [
   {
-    "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-    "link": "https://www.web-rewind.com",
-    "summary": "<p>Article URL: <a href=\"https://www.web-rewind.com\">https://www.web-rewind.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47499721\">https://news.ycombinator.com/item?id=47499721</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
-    "published": "2026-03-24T07:54:02",
+    "title": "I Forked Httpx",
+    "link": "https://tildeweb.nl/~michiel/httpxyz.html",
+    "summary": "<p>Article URL: <a href=\"https://tildeweb.nl/~michiel/httpxyz.html\">https://tildeweb.nl/~michiel/httpxyz.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47514603\">https://news.ycombinator.com/item?id=47514603</a></p>\n<p>Points: 64</p>\n<p># Comments: 31</p>",
+    "published": "2026-03-25T08:05:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-    "link": "https://proofshot.argil.io/",
-    "summary": "<p>I use AI agents to build UI features daily. The thing that kept annoying me: the agent writes code but never sees what it actually looks like in the browser. It can’t tell if the layout is broken or if the console is throwing errors.<p>So I built a CLI that lets the agent open a browser, interact with the page, record what happens, and collect any errors. Then it bundles everything — video, screenshots, logs — into a self-contained HTML file I can review in seconds.<p>proofshot start --run \"npm run dev\" --port 3000\n# agent navigates, clicks, takes screenshots\nproofshot stop<p>It works with whatever agent you use (Claude Code, Cursor, Codex, etc.) — it’s just shell commands. It's packaged as a skill so your AI coding agent knows exactly how it works. It's built on agent-browser from Vercel Labs which is far better and faster than Playwright MCP.<p>It’s not a testing framework. The agent doesn’t decide pass/fail. It just gives me the evidence so I don’t have to open the browser myself every time.<p>Open source and completely free.<p><a href=\"https://github.com/AmElmo/proofshot\" rel=\"nofollow\">https://github.com/AmElmo/proofshot</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47499672\">https://news.ycombinator.com/item?id=47499672</a></p>\n<p>Points: 22</p>\n<p># Comments: 22</p>",
-    "published": "2026-03-24T07:46:46",
+    "title": "Implementing automatic eSIM installation on Android",
+    "link": "https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb",
+    "summary": "<p>Article URL: <a href=\"https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb\">https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47513728\">https://news.ycombinator.com/item?id=47513728</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
+    "published": "2026-03-25T05:42:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Ripgrep is faster than {grep, ag, Git grep, ucg, pt, sift}",
-    "link": "https://burntsushi.net/ripgrep/",
-    "summary": "<p>Article URL: <a href=\"https://burntsushi.net/ripgrep/\">https://burntsushi.net/ripgrep/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47499245\">https://news.ycombinator.com/item?id=47499245</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-24T06:31:39",
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "summary": "<p>Article URL: <a href=\"https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/\">https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47513475\">https://news.ycombinator.com/item?id=47513475</a></p>\n<p>Points: 146</p>\n<p># Comments: 27</p>",
+    "published": "2026-03-25T05:00:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Log File Viewer for the Terminal",
-    "link": "https://lnav.org/",
-    "summary": "<p>Article URL: <a href=\"https://lnav.org/\">https://lnav.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47498924\">https://news.ycombinator.com/item?id=47498924</a></p>\n<p>Points: 112</p>\n<p># Comments: 15</p>",
-    "published": "2026-03-24T05:32:53",
+    "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+    "link": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+    "summary": "<p>Hey folks! As someone doing hybrid search daily and wishing I could have a pgvector-like experience but with actual prefiltered approximate nearest neighbours, I decided to just take a punt on implementing ACORN on a fork of the DuckDB VSS extension. I had to make some changes to (vendored) usearch that I'm thinking of submitting upstream. But this does the business. Approximate nearest neighbours with WHERE prefiltering.<p>Edit: Just to clarify, this has been accepted into the community extensions repo. So you can use it like:<p>```<p>INSTALL hnsw_acorn FROM community;<p>LOAD hnsw_acorn;<p>```</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47512891\">https://news.ycombinator.com/item?id=47512891</a></p>\n<p>Points: 46</p>\n<p># Comments: 3</p>",
+    "published": "2026-03-25T03:28:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Sunsetting the Techempower Framework Benchmarks",
-    "link": "https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932",
-    "summary": "<p>Article URL: <a href=\"https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932\">https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47497763\">https://news.ycombinator.com/item?id=47497763</a></p>\n<p>Points: 39</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-24T01:54:03",
+    "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+    "link": "https://v-os.dev",
+    "summary": "<p>Article URL: <a href=\"https://v-os.dev\">https://v-os.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47512816\">https://news.ycombinator.com/item?id=47512816</a></p>\n<p>Points: 131</p>\n<p># Comments: 65</p>",
+    "published": "2026-03-25T03:17:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-    "link": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "summary": "<p>Article URL: <a href=\"https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs\">https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47497757\">https://news.ycombinator.com/item?id=47497757</a></p>\n<p>Points: 334</p>\n<p># Comments: 354</p>",
-    "published": "2026-03-24T01:53:09",
+    "title": "Flighty Airports",
+    "link": "https://flighty.com/airports",
+    "summary": "<p>Article URL: <a href=\"https://flighty.com/airports\">https://flighty.com/airports</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47511589\">https://news.ycombinator.com/item?id=47511589</a></p>\n<p>Points: 315</p>\n<p># Comments: 102</p>",
+    "published": "2026-03-25T00:29:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
-    "link": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
-    "summary": "<p>Article URL: <a href=\"https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/\">https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47496089\">https://news.ycombinator.com/item?id=47496089</a></p>\n<p>Points: 68</p>\n<p># Comments: 8</p>",
-    "published": "2026-03-23T22:37:15",
+    "title": "A Compiler Writing Journey",
+    "link": "https://github.com/DoctorWkt/acwj",
+    "summary": "<p>Article URL: <a href=\"https://github.com/DoctorWkt/acwj\">https://github.com/DoctorWkt/acwj</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47511208\">https://news.ycombinator.com/item?id=47511208</a></p>\n<p>Points: 77</p>\n<p># Comments: 7</p>",
+    "published": "2026-03-24T23:44:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Resolv hack: How one compromised key printed $23M",
-    "link": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-    "summary": "<p>Article URL: <a href=\"https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/\">https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47495719\">https://news.ycombinator.com/item?id=47495719</a></p>\n<p>Points: 93</p>\n<p># Comments: 124</p>",
-    "published": "2026-03-23T22:01:15",
+    "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
+    "link": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+    "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
+    "published": "2026-03-24T23:07:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
+    "link": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+    "summary": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
+    "published": "2026-03-24T22:27:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+    "link": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "summary": "<p>Article URL: <a href=\"https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead\">https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47509571\">https://news.ycombinator.com/item?id=47509571</a></p>\n<p>Points: 295</p>\n<p># Comments: 122</p>",
+    "published": "2026-03-24T21:24:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Claude Code Cheat Sheet",
-    "link": "https://cc.storyfox.cz",
-    "summary": "<p>Article URL: <a href=\"https://cc.storyfox.cz\">https://cc.storyfox.cz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47495527\">https://news.ycombinator.com/item?id=47495527</a></p>\n<p>Points: 386</p>\n<p># Comments: 114</p>",
-    "published": "2026-03-23T21:44:20",
+    "title": "Goodbye to Sora",
+    "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+    "summary": "<p><a href=\"https://xcancel.com/soraofficialapp/status/2036532795984715896\" rel=\"nofollow\">https://xcancel.com/soraofficialapp/status/20365327959847158...</a><p><a href=\"https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\" rel=\"nofollow\">https://www.hollywoodreporter.com/business/digital/openai-sh...</a>, <a href=\"https://archive.ph/ABkeI\" rel=\"nofollow\">https://archive.ph/ABkeI</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47508246\">https://news.ycombinator.com/item?id=47508246</a></p>\n<p>Points: 704</p>\n<p># Comments: 506</p>",
+    "published": "2026-03-24T20:01:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FCC updates covered list to include foreign-made consumer routers",
-    "link": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-    "summary": "<p><a href=\"https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf\" rel=\"nofollow\">https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf</a><p><a href=\"https://www.fcc.gov/document/fcc-adds-routers-produced-foreign-countries-covered-list\" rel=\"nofollow\">https://www.fcc.gov/document/fcc-adds-routers-produced-forei...</a><p><a href=\"https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf\" rel=\"nofollow\">https://docs.fcc.gov/public/attachments/DA-26-278A1.pdf</a><p><a href=\"https://www.bbc.com/news/articles/c74787w149zo\" rel=\"nofollow\">https://www.bbc.com/news/articles/c74787w149zo</a><p><a href=\"https://www.cnet.com/home/internet/fcc-bans-foreign-made-routers-as-national-security-risk/\" rel=\"nofollow\">https://www.cnet.com/home/internet/fcc-bans-foreign-made-rou...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47495344\">https://news.ycombinator.com/item?id=47495344</a></p>\n<p>Points: 313</p>\n<p># Comments: 214</p>",
-    "published": "2026-03-23T21:28:02",
+    "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
+    "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+    "summary": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
+    "published": "2026-03-24T19:12:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "summary": "<p>Article URL: <a href=\"https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/\">https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47507150\">https://news.ycombinator.com/item?id=47507150</a></p>\n<p>Points: 925</p>\n<p># Comments: 330</p>",
+    "published": "2026-03-24T18:34:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How I'm Productive with Claude Code",
-    "link": "https://neilkakkar.com/productive-with-claude-code.html",
-    "summary": "<p>Article URL: <a href=\"https://neilkakkar.com/productive-with-claude-code.html\">https://neilkakkar.com/productive-with-claude-code.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47494890\">https://news.ycombinator.com/item?id=47494890</a></p>\n<p>Points: 200</p>\n<p># Comments: 119</p>",
-    "published": "2026-03-23T20:49:10",
+    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+    "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "summary": "<p>What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.<p>Video.js is used by billions of people every month, on sites like Amazon.com, Linkedin, and Dropbox, and yet it wasn’t in great shape. A skeleton crew of maintainers were doing their best with a dated architecture, but it needed more. So Sam from Plyr, Rahim from Vidstack, and Wes and Christain from Media Chrome jumped in to help me rebuild it better, faster, and smaller.<p>It’s in beta now. Please give it a try and tell us what breaks.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47506713\">https://news.ycombinator.com/item?id=47506713</a></p>\n<p>Points: 397</p>\n<p># Comments: 75</p>",
+    "published": "2026-03-24T18:03:48",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A retro terminal music player inspired by Winamp",
-    "link": "https://github.com/bjarneo/cliamp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/bjarneo/cliamp\">https://github.com/bjarneo/cliamp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47494821\">https://news.ycombinator.com/item?id=47494821</a></p>\n<p>Points: 93</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-23T20:42:22",
+    "title": "Lago (YC S21) Is Hiring",
+    "link": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
+    "summary": "<p>Article URL: <a href=\"https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link\">https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47506490\">https://news.ycombinator.com/item?id=47506490</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-24T17:47:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Arm AGI CPU",
+    "link": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "summary": "<p>Article URL: <a href=\"https://newsroom.arm.com/blog/introducing-arm-agi-cpu\">https://newsroom.arm.com/blog/introducing-arm-agi-cpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47506251\">https://news.ycombinator.com/item?id=47506251</a></p>\n<p>Points: 342</p>\n<p># Comments: 258</p>",
+    "published": "2026-03-24T17:30:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
+    "link": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+    "summary": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
+    "published": "2026-03-24T17:00:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+    "link": "https://www.emailmd.dev/",
+    "summary": "<p>Article URL: <a href=\"https://www.emailmd.dev/\">https://www.emailmd.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47505144\">https://news.ycombinator.com/item?id=47505144</a></p>\n<p>Points: 290</p>\n<p># Comments: 68</p>",
+    "published": "2026-03-24T16:26:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+    "link": "https://github.com/t8/hypura",
+    "summary": "<p>Article URL: <a href=\"https://github.com/t8/hypura\">https://github.com/t8/hypura</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47504695\">https://news.ycombinator.com/item?id=47504695</a></p>\n<p>Points: 203</p>\n<p># Comments: 76</p>",
+    "published": "2026-03-24T16:02:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Business",
+    "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/\">https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47504112\">https://news.ycombinator.com/item?id=47504112</a></p>\n<p>Points: 623</p>\n<p># Comments: 357</p>",
+    "published": "2026-03-24T15:29:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hypothesis, Antithesis, synthesis",
+    "link": "https://antithesis.com/blog/2026/hegel/",
+    "summary": "<p>Article URL: <a href=\"https://antithesis.com/blog/2026/hegel/\">https://antithesis.com/blog/2026/hegel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47504094\">https://news.ycombinator.com/item?id=47504094</a></p>\n<p>Points: 250</p>\n<p># Comments: 86</p>",
+    "published": "2026-03-24T15:28:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+    "link": "https://github.com/ssrajadh/sentrysearch",
+    "summary": "<p>Gemini Embedding 2 can project raw video directly into a 768-dimensional vector space alongside text. No transcription, no frame captioning, no intermediate text. A query like \"green car cutting me off\" is directly comparable to a 30-second video clip at the vector level.<p>I used this to build a CLI that indexes hours of footage into ChromaDB, then searches it with natural language and auto-trims the matching clip. Demo video on the GitHub README.\nIndexing costs ~$2.50/hr of footage. Still-frame detection skips idle chunks, so security camera / sentry mode footage is much cheaper.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47503617\">https://news.ycombinator.com/item?id=47503617</a></p>\n<p>Points: 325</p>\n<p># Comments: 90</p>",
+    "published": "2026-03-24T14:58:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Missile defense is NP-complete",
+    "link": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+    "summary": "<p>Article URL: <a href=\"https://smu160.github.io/posts/missile-defense-is-np-complete/\">https://smu160.github.io/posts/missile-defense-is-np-complete/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47501950\">https://news.ycombinator.com/item?id=47501950</a></p>\n<p>Points: 337</p>\n<p># Comments: 339</p>",
+    "published": "2026-03-24T13:00:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+    "link": "https://github.com/BerriAI/litellm/issues/24512",
+    "summary": "<p>About an hour ago new versions have been deployed to PyPI.<p>I was just setting up a new project, and things behaved weirdly. My laptop ran out of RAM, it looked like a forkbomb was running.<p>I've investigated, and found that a base64 encoded blob has been added to proxy_server.py.<p>It writes and decodes another file which it then runs.<p>I'm in the process of reporting this upstream, but wanted to give everyone here a headsup.<p>It is also reported in this issue:\n<a href=\"https://github.com/BerriAI/litellm/issues/24512\" rel=\"nofollow\">https://github.com/BerriAI/litellm/issues/24512</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47501426\">https://news.ycombinator.com/item?id=47501426</a></p>\n<p>Points: 673</p>\n<p># Comments: 422</p>",
+    "published": "2026-03-24T12:06:29",
     "source": "Hacker News: Front Page"
   },
   {
@@ -91,67 +175,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Local Stack Archived their GitHub repo and requires an account to run",
-    "link": "https://github.com/localstack/localstack",
-    "summary": "<p>Article URL: <a href=\"https://github.com/localstack/localstack\">https://github.com/localstack/localstack</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493657\">https://news.ycombinator.com/item?id=47493657</a></p>\n<p>Points: 195</p>\n<p># Comments: 112</p>",
-    "published": "2026-03-23T18:57:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Autoresearch on an old research idea",
-    "link": "https://ykumar.me/blog/eclip-autoresearch/",
-    "summary": "<p>Article URL: <a href=\"https://ykumar.me/blog/eclip-autoresearch/\">https://ykumar.me/blog/eclip-autoresearch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47493460\">https://news.ycombinator.com/item?id=47493460</a></p>\n<p>Points: 355</p>\n<p># Comments: 73</p>",
-    "published": "2026-03-23T18:40:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-    "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "summary": "<p>Hi all, I'm Peter at Staff Engineer and Mozilla.ai and I want to share our idea for a standard for shared agent learning, conceptually it seemed to fit easily in my mental model as a Stack Overflow for agents.<p>The project is trying to see if we can get agents (any agent, any model) to propose 'knowledge units' (KUs) as a standard schema based on gotchas it runs into during use, and proactively query for existing KUs in order to get insights which it can verify and confirm if they prove useful.<p>It's currently very much a PoC with a more lofty proposal in the repo, we're trying to iterate from local use, up to team level, and ideally eventually have some kind of public commons.<p>At the team level (see our Docker compose example) and your coding agent configured to point to the API address for the team to send KUs there instead - where they can be reviewed by a human in the loop (HITL) via a UI in the browser, before they're allowed to appear in queries by other agents in your team.<p>We're learning a lot even from using it locally on various repos internally, not just in the kind of KUs it generates, but also from a UX perspective on trying to make it easy to get using it and approving KUs in the browser dashboard. There are bigger, complex problems to solve in the future around data privacy, governance etc. but for now we're super focussed on getting something that people can see some value from really quickly in their day-to-day.<p>Tech stack:<p>* Skills - markdown<p>* Local Python MCP server (FastMCP) - managing a local SQLite knowledge store<p>* Optional team API (FastAPI, Docker) for sharing knowledge across an org<p>* Installs as a Claude Code plugin or OpenCode MCP server<p>* Local-first by default; your knowledge stays on your machine unless you opt into team sync by setting the address in config<p>* OSS (Apache 2.0 licensed)<p>Here's an example of something which seemed straight forward, when asking Claude Code to write a GitHub action it often used actions that were multiple major versions out of date because of its training data. In this case I told the agent what I saw when I reviewed the GitHub action YAML file it created and it proposed the knowledge unit to be persisted. Next time in a completely different repo using OpenCode and an OpenAI model, the cq skill was used up front before it started the task and it got the information about the gotcha on major versions in training data and checked GitHub proactively, using the correct, latest major versions. It then confirmed the KU, increasing the confidence score.<p>I guess some folks might say: well there's a CLAUDE.md in your repo, or in ~/.claude/ but we're looking further than that, we want this to be available to all agents, to all models, and maybe more importantly we don't want to stuff AGENTS.md or CLAUDE.md with loads of rules that lead to unpredictable behaviour, this is targetted information on a particular task and seems a lot more useful.<p>Right now it can be installed locally as a plugin for Claude Code and OpenCode:<p>claude plugin marketplace add mozilla-ai/cq\nclaude plugin install cq<p>This allows you to capture data in your local ~/.cq/local.db (the data doesn't get sent anywhere else).<p>We'd love feedback on this, the repo is open and public - so GitHub issues are welcome. We've posted on some of our social media platforms with a link to the blog post (below) so feel free to reply to us if you found it useful, or ran into friction, we want to make this something that's accessible to everyone.<p>Blog post with the full story: <a href=\"https://blog.mozilla.ai/cq-stack-overflow-for-agents/\" rel=\"nofollow\">https://blog.mozilla.ai/cq-stack-overflow-for-agents/</a>\nGitHub repo: <a href=\"https://github.com/mozilla-ai/cq\" rel=\"nofollow\">https://github.com/mozilla-ai/cq</a><p>Thanks again for your time.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47491466\">https://news.ycombinator.com/item?id=47491466</a></p>\n<p>Points: 141</p>\n<p># Comments: 53</p>",
-    "published": "2026-03-23T16:11:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An incoherent Rust",
-    "link": "https://www.boxyuwu.blog/posts/an-incoherent-rust/",
-    "summary": "<p>Article URL: <a href=\"https://www.boxyuwu.blog/posts/an-incoherent-rust/\">https://www.boxyuwu.blog/posts/an-incoherent-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47490648\">https://news.ycombinator.com/item?id=47490648</a></p>\n<p>Points: 188</p>\n<p># Comments: 92</p>",
-    "published": "2026-03-23T15:13:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-    "link": "https://twitter.com/anemll/status/2035901335984611412",
-    "summary": "<p><a href=\"https://xcancel.com/anemll/status/2035901335984611412\" rel=\"nofollow\">https://xcancel.com/anemll/status/2035901335984611412</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47490070\">https://news.ycombinator.com/item?id=47490070</a></p>\n<p>Points: 605</p>\n<p># Comments: 273</p>",
-    "published": "2026-03-23T14:30:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
     "link": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
     "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
     "published": "2026-03-23T14:04:54",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-    "link": "https://www.jackhogan.me/blog/box-of-secrets/",
-    "summary": "<p>Article URL: <a href=\"https://www.jackhogan.me/blog/box-of-secrets/\">https://www.jackhogan.me/blog/box-of-secrets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47488686\">https://news.ycombinator.com/item?id=47488686</a></p>\n<p>Points: 123</p>\n<p># Comments: 35</p>",
-    "published": "2026-03-23T12:42:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I built an AI receptionist for a mechanic shop",
-    "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-    "summary": "<p>Article URL: <a href=\"https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/\">https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47487536\">https://news.ycombinator.com/item?id=47487536</a></p>\n<p>Points: 275</p>\n<p># Comments: 282</p>",
-    "published": "2026-03-23T10:32:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-    "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-    "summary": "<p>Article URL: <a href=\"https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise\">https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47475888\">https://news.ycombinator.com/item?id=47475888</a></p>\n<p>Points: 202</p>\n<p># Comments: 70</p>",
-    "published": "2026-03-22T09:45:14",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Paul Brainerd Dies at 78; Pioneered Desktop Publishing With PageMaker",
@@ -186,13 +214,6 @@
     "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
     "summary": "At a number of companies, employees compete on leaderboards to show how much A.I. they’re using. They’re racking up big bills along the way.",
     "published": "2026-03-20T18:06:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
-    "link": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
-    "summary": "The Trump administration on Friday released new guidelines for federal legislation on the technology, recommending some safeguards for children and consumer protections for energy costs.",
-    "published": "2026-03-20T16:52:19",
     "source": "NYT > Technology"
   },
   {
@@ -245,13 +266,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
-    "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
-    "summary": "After years of criticism and financial risk, Palantir, Anthropic and small start-ups are generating rewards from their investments in defense tech.",
-    "published": "2026-03-19T03:58:29",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
     "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
     "summary": "Tech companies have been reluctant to directly confront Trump administration officials over their contract feud with the A.I. start-up.",
@@ -270,41 +284,6 @@
     "link": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
     "summary": "When previous commitments keep you from catching your team on television, keep up with it using free apps that quietly deliver scores and more to your phone.",
     "published": "2026-03-18T13:00:13",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Turing Award Goes to Inventors of Quantum Cryptography",
-    "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-    "summary": "In the 1980s, Charles Bennett and Gilles Brassard created a new kind of encryption that would be impregnable.",
-    "published": "2026-03-18T12:19:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk",
-    "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
-    "summary": "In a legal filing, the government said it questioned whether the A.I. start-up could be a “trusted partner” in wartime, which led it to label the company a supply chain risk.",
-    "published": "2026-03-18T03:51:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
-    "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
-    "summary": "The state accused Kalshi of operating an illegal gambling business, escalating the legal battle between states and prediction markets.",
-    "published": "2026-03-17T22:46:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
-    "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
-    "summary": "The country appears to be cracking down on people linked to the acquisition of Manus, a Singapore company with Chinese roots, as President Trump prepares to visit Beijing.",
-    "published": "2026-03-17T20:45:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
-    "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
-    "summary": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
-    "published": "2026-03-17T17:52:47",
     "source": "NYT > Technology"
   }
 ]
