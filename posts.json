@@ -1,129 +1,227 @@
 [
   {
+    "title": "Suddenly energy independence feels practical:Europeans building mini solar farms",
+    "link": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
+    "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho\">https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47540383\">https://news.ycombinator.com/item?id=47540383</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+    "published": "2026-03-27T08:55:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Faster Alternative to Jq",
+    "link": "https://micahkepe.com/blog/jsongrep/",
+    "summary": "<p>Article URL: <a href=\"https://micahkepe.com/blog/jsongrep/\">https://micahkepe.com/blog/jsongrep/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47539825\">https://news.ycombinator.com/item?id=47539825</a></p>\n<p>Points: 91</p>\n<p># Comments: 45</p>",
+    "published": "2026-03-27T07:12:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The European AllSky7 fireball network",
+    "link": "https://www.allsky7.net/#archive",
+    "summary": "<p>Article URL: <a href=\"https://www.allsky7.net/#archive\">https://www.allsky7.net/#archive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47539767\">https://news.ycombinator.com/item?id=47539767</a></p>\n<p>Points: 39</p>\n<p># Comments: 4</p>",
+    "published": "2026-03-27T07:00:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Schedule tasks on the web",
+    "link": "https://code.claude.com/docs/en/web-scheduled-tasks",
+    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/web-scheduled-tasks\">https://code.claude.com/docs/en/web-scheduled-tasks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47539188\">https://news.ycombinator.com/item?id=47539188</a></p>\n<p>Points: 134</p>\n<p># Comments: 87</p>",
+    "published": "2026-03-27T04:47:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
+    "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+    "summary": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.",
+    "published": "2026-03-27T04:00:21",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Agent-to-agent pair programming",
+    "link": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+    "summary": "<p>Article URL: <a href=\"https://axeldelafosse.com/blog/agent-to-agent-pair-programming\">https://axeldelafosse.com/blog/agent-to-agent-pair-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47538190\">https://news.ycombinator.com/item?id=47538190</a></p>\n<p>Points: 69</p>\n<p># Comments: 21</p>",
+    "published": "2026-03-27T01:47:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
+    "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
+    "summary": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
+    "published": "2026-03-27T01:06:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why the Verdict Against Meta and YouTube Could Change Social Media",
+    "link": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+    "summary": "In a landmark case, a jury found Meta and YouTube guilty of creating products that were addictive. Ryan Mac explains the outcome and what it could mean for tech companies going forward.",
+    "published": "2026-03-27T00:39:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
+    "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+    "summary": "The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars.",
+    "published": "2026-03-27T00:24:47",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Chicago artist creates tourism posters for city's neighborhoods",
+    "link": "https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/",
+    "summary": "<p>Article URL: <a href=\"https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/\">https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47537106\">https://news.ycombinator.com/item?id=47537106</a></p>\n<p>Points: 89</p>\n<p># Comments: 41</p>",
+    "published": "2026-03-26T23:18:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+    "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "summary": "<p>The stack: two agents on separate boxes. The public one (nullclaw) is a 678 KB Zig binary using ~1 MB RAM, connected to an Ergo IRC server. Visitors talk to it via a gamja web client embedded in my site. The private one (ironclaw) handles email and scheduling, reachable only over Tailscale via Google's A2A protocol.<p>Tiered inference: Haiku 4.5 for conversation (sub-second, cheap), Sonnet 4.6 for tool use (only when needed). Hard cap at $2/day.<p>A2A passthrough: the private-side agent borrows the gateway's own inference pipeline, so there's one API key and one billing relationship regardless of who initiated the request.<p>You can talk to nully at <a href=\"https://georgelarson.me/chat/\" rel=\"nofollow\">https://georgelarson.me/chat/</a> or connect with any IRC client to irc.georgelarson.me:6697 (TLS), channel #lobby.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47536761\">https://news.ycombinator.com/item?id=47536761</a></p>\n<p>Points: 237</p>\n<p># Comments: 73</p>",
+    "published": "2026-03-26T22:41:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+    "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "summary": "<p>Article URL: <a href=\"https://www.reco.ai/blog/we-rewrote-jsonata-with-ai\">https://www.reco.ai/blog/we-rewrote-jsonata-with-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47536712\">https://news.ycombinator.com/item?id=47536712</a></p>\n<p>Points: 154</p>\n<p># Comments: 140</p>",
+    "published": "2026-03-26T22:36:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic Subprocessor Changes",
+    "link": "https://trust.anthropic.com",
+    "summary": "<p>Article URL: <a href=\"https://trust.anthropic.com\">https://trust.anthropic.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47536110\">https://news.ycombinator.com/item?id=47536110</a></p>\n<p>Points: 75</p>\n<p># Comments: 37</p>",
+    "published": "2026-03-26T21:37:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple discontinues the Mac Pro",
+    "link": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
+    "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/\">https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47535708\">https://news.ycombinator.com/item?id=47535708</a></p>\n<p>Points: 347</p>\n<p># Comments: 277</p>",
+    "published": "2026-03-26T21:04:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Fio: 3D World editor/game engine – inspired by Radiant and Hammer",
+    "link": "https://github.com/ViciousSquid/Fio",
+    "summary": "<p>A liminal brush-based CSG editor and game engine with unified (forward) renderer\ninspired by Radiant and Worldcraft/Hammer<p>Compact and lightweight (target: Snapdragon 8CX, OpenGL 3.3)<p>Real-time lighting with stencil shadows without the need for pre-baked compilation</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47535626\">https://news.ycombinator.com/item?id=47535626</a></p>\n<p>Points: 67</p>\n<p># Comments: 6</p>",
+    "published": "2026-03-26T20:58:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Using FireWire on a Raspberry Pi",
+    "link": "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/",
+    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/\">https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47535249\">https://news.ycombinator.com/item?id=47535249</a></p>\n<p>Points: 84</p>\n<p># Comments: 38</p>",
+    "published": "2026-03-26T20:23:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We haven't seen the worst of what gambling and prediction markets will do",
+    "link": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+    "summary": "<p>Article URL: <a href=\"https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what\">https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47534848\">https://news.ycombinator.com/item?id=47534848</a></p>\n<p>Points: 722</p>\n<p># Comments: 500</p>",
+    "published": "2026-03-26T19:48:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CERN to host a new phase of Open Research Europe",
+    "link": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
+    "summary": "<p>Article URL: <a href=\"https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform\">https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47534629\">https://news.ycombinator.com/item?id=47534629</a></p>\n<p>Points: 221</p>\n<p># Comments: 21</p>",
+    "published": "2026-03-26T19:30:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+    "link": "https://www.trychroma.com/research/context-1",
+    "summary": "<p><a href=\"https://x.com/trychroma/status/2037243681988894950\" rel=\"nofollow\">https://x.com/trychroma/status/2037243681988894950</a><p><a href=\"https://xcancel.com/trychroma/status/2037243681988894950\" rel=\"nofollow\">https://xcancel.com/trychroma/status/2037243681988894950</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47534564\">https://news.ycombinator.com/item?id=47534564</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
+    "published": "2026-03-26T19:25:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "John Bradley, author of xv, has died",
+    "link": "https://voxday.net/2026/03/25/rip-john-bradley/",
+    "summary": "<p>Article URL: <a href=\"https://voxday.net/2026/03/25/rip-john-bradley/\">https://voxday.net/2026/03/25/rip-john-bradley/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47534086\">https://news.ycombinator.com/item?id=47534086</a></p>\n<p>Points: 262</p>\n<p># Comments: 81</p>",
+    "published": "2026-03-26T18:38:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
+    "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+    "summary": "The world’s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to entities linked to Iran. Clues about those accounts were in plain sight for over a year.",
+    "published": "2026-03-26T18:37:34",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Safety Experts Considered LaGuardia Challenging but Not an Outlier",
+    "link": "https://www.nytimes.com/2026/03/26/business/laguardia-airport-air-canada-safety.html",
+    "summary": "Regulators, pilots and others in aviation have worried about the kind of runway accident that happened at LaGuardia Airport on Sunday.",
+    "published": "2026-03-26T18:32:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
+    "link": "https://www.nytimes.com/2026/03/26/business/federal-lawsuit-newyork-presbyterian.html",
+    "summary": "The Justice Department sued the large New York health system, saying it restricted insurance companies from offering patients cheaper options.",
+    "published": "2026-03-26T18:09:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Snapchat Investigated in Europe Over Child Safety Policies",
+    "link": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
+    "summary": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
+    "published": "2026-03-26T18:04:39",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "link": "https://github.com/itigges22/ATLAS",
+    "summary": "<p>Article URL: <a href=\"https://github.com/itigges22/ATLAS\">https://github.com/itigges22/ATLAS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47533297\">https://news.ycombinator.com/item?id=47533297</a></p>\n<p>Points: 244</p>\n<p># Comments: 110</p>",
+    "published": "2026-03-26T17:31:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
+    "link": "https://colibri.social/",
+    "summary": "<p>Article URL: <a href=\"https://colibri.social/\">https://colibri.social/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47533283\">https://news.ycombinator.com/item?id=47533283</a></p>\n<p>Points: 120</p>\n<p># Comments: 73</p>",
+    "published": "2026-03-26T17:29:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
+    "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+    "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
+    "published": "2026-03-26T16:21:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenTelemetry profiles enters public alpha",
+    "link": "https://opentelemetry.io/blog/2026/profiles-alpha/",
+    "summary": "<p>Article URL: <a href=\"https://opentelemetry.io/blog/2026/profiles-alpha/\">https://opentelemetry.io/blog/2026/profiles-alpha/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47532339\">https://news.ycombinator.com/item?id=47532339</a></p>\n<p>Points: 167</p>\n<p># Comments: 24</p>",
+    "published": "2026-03-26T16:14:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "link": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+    "summary": "<p>Related: <i>Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised</i> - <a href=\"https://news.ycombinator.com/item?id=47501426\">https://news.ycombinator.com/item?id=47501426</a> (483 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47531967\">https://news.ycombinator.com/item?id=47531967</a></p>\n<p>Points: 365</p>\n<p># Comments: 138</p>",
+    "published": "2026-03-26T15:48:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Juries Take the Lead in the Push for Child Online Safety",
     "link": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
     "summary": "A pair of verdicts held social media companies accountable for harming young users, highlighting a growing backlash as Congress struggles to pass legislation.",
-    "published": "2026-03-26T09:03:14",
+    "published": "2026-03-26T15:00:41",
     "source": "NYT > Technology"
   },
   {
     "title": "In ‘The AI Doc,’ Sam Altman and Dario Amodei Go on the Record",
     "link": "https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html",
     "summary": "“The AI Doc: Or How I Became an Apocaloptimist” tries to cover so much that it ends up being more confusing than clarifying, but parts are fascinating.",
-    "published": "2026-03-26T09:00:27",
+    "published": "2026-03-26T09:00:28",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "You probably don't want to buy a retro console",
-    "link": "https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21",
-    "summary": "<p>Article URL: <a href=\"https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21\">https://medium.com/@razorbeamz/you-probably-dont-want-to-buy-a-retro-console-a-guide-for-people-who-aren-t-freaks-90031659bd21</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47528006\">https://news.ycombinator.com/item?id=47528006</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
-    "published": "2026-03-26T08:41:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
     "link": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
     "summary": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
-    "published": "2026-03-26T08:02:46",
+    "published": "2026-03-26T08:02:47",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Swift 6.3 Released",
-    "link": "https://www.swift.org/blog/swift-6.3-released/",
-    "summary": "<p>Article URL: <a href=\"https://www.swift.org/blog/swift-6.3-released/\">https://www.swift.org/blog/swift-6.3-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47527590\">https://news.ycombinator.com/item?id=47527590</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
-    "published": "2026-03-26T07:27:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
-    "link": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
-    "summary": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&amp;utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&amp;utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47527399\">https://news.ycombinator.com/item?id=47527399</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-26T07:00:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Data is everywhere. The government is buying it without a warrant",
-    "link": "https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic",
-    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic\">https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47527130\">https://news.ycombinator.com/item?id=47527130</a></p>\n<p>Points: 49</p>\n<p># Comments: 20</p>",
-    "published": "2026-03-26T06:11:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-    "link": "https://github.com/lightfeed/extractor",
-    "summary": "<p>We've been building data pipelines that scrape websites and extract structured data for a while now. If you've done this, you know the drill: you write CSS selectors, the site changes its layout, everything breaks at 2am, and you spend your morning rewriting parsers.<p>LLMs seemed like the obvious fix — just throw the HTML at GPT and ask for JSON. Except in practice, it's more painful than that:<p>- Raw HTML is full of nav bars, footers, and tracking junk that eats your token budget. A typical product page is 80% noise.\n- LLMs return malformed JSON more often than you'd expect, especially with nested arrays and complex schemas. One bad bracket and your pipeline crashes.\n- Relative URLs, markdown-escaped links, tracking parameters — the \"small\" URL issues compound fast when you're processing thousands of pages.\n- You end up writing the same boilerplate: HTML cleanup → markdown conversion → LLM call → JSON parsing → error recovery → schema validation. Over and over.<p>We got tired of rebuilding this stack for every project, so we extracted it into a library.<p>Lightfeed Extractor is a TypeScript library that handles the full pipeline from raw HTML to validated, structured data:<p>- Converts HTML to LLM-ready markdown with main content extraction (strips nav, headers, footers), optional image inclusion, and URL cleaning\n- Works with any LangChain-compatible LLM (OpenAI, Gemini, Claude, Ollama, etc.)\n- Uses Zod schemas for type-safe extraction with real validation\n- Recovers partial data from malformed LLM output instead of failing entirely — if 19 out of 20 products parsed correctly, you get those 19\n- Built-in browser automation via Playwright (local, serverless, or remote) with anti-bot patches\n- Pairs with our browser agent (@lightfeed/browser-agent) for AI-driven page navigation before extraction<p>We use this ourselves in production at Lightfeed, and it's been solid enough that we decided to open-source it.<p>GitHub: <a href=\"https://github.com/lightfeed/extractor\" rel=\"nofollow\">https://github.com/lightfeed/extractor</a> npm: npm install @lightfeed/extractor Apache 2.0 licensed.<p>Happy to answer questions or hear feedback.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47526486\">https://news.ycombinator.com/item?id=47526486</a></p>\n<p>Points: 41</p>\n<p># Comments: 30</p>",
-    "published": "2026-03-26T03:55:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Obsolete Sounds",
-    "link": "https://citiesandmemory.com/obsolete-sounds/",
-    "summary": "<p>Article URL: <a href=\"https://citiesandmemory.com/obsolete-sounds/\">https://citiesandmemory.com/obsolete-sounds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47526478\">https://news.ycombinator.com/item?id=47526478</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-    "published": "2026-03-26T03:54:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
-    "link": "https://www.metropolitanreview.org/p/the-last-contract",
-    "summary": "<p>Article URL: <a href=\"https://www.metropolitanreview.org/p/the-last-contract\">https://www.metropolitanreview.org/p/the-last-contract</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47526473\">https://news.ycombinator.com/item?id=47526473</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-26T03:54:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Cassandra of 'The Machine'",
-    "link": "https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine",
-    "summary": "<p>Article URL: <a href=\"https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine\">https://www.thenewatlantis.com/publications/the-cassandra-of-the-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47526467\">https://news.ycombinator.com/item?id=47526467</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-    "published": "2026-03-26T03:53:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
-    "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-    "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
-    "published": "2026-03-26T00:52:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "False claims in a widely-cited paper",
-    "link": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-    "summary": "<p>Article URL: <a href=\"https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/\">https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47525378\">https://news.ycombinator.com/item?id=47525378</a></p>\n<p>Points: 276</p>\n<p># Comments: 108</p>",
-    "published": "2026-03-26T00:46:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Shell Tricks That Make Life Easier (and Save Your Sanity)",
-    "link": "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/",
-    "summary": "<p>Article URL: <a href=\"https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/\">https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47525243\">https://news.ycombinator.com/item?id=47525243</a></p>\n<p>Points: 78</p>\n<p># Comments: 24</p>",
-    "published": "2026-03-26T00:28:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-    "link": "https://lab.puga.com.br/cog/",
-    "summary": "<p>Article URL: <a href=\"https://lab.puga.com.br/cog/\">https://lab.puga.com.br/cog/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47524704\">https://news.ycombinator.com/item?id=47524704</a></p>\n<p>Points: 98</p>\n<p># Comments: 30</p>",
-    "published": "2026-03-25T23:29:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-    "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "summary": "<p>Article URL: <a href=\"https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/\">https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47523330\">https://news.ycombinator.com/item?id=47523330</a></p>\n<p>Points: 625</p>\n<p># Comments: 195</p>",
-    "published": "2026-03-25T21:11:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The EU still wants to scan  your private messages and photos",
-    "link": "https://fightchatcontrol.eu/?foo=bar",
-    "summary": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/?foo=bar\">https://fightchatcontrol.eu/?foo=bar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47522709\">https://news.ycombinator.com/item?id=47522709</a></p>\n<p>Points: 1150</p>\n<p># Comments: 306</p>",
-    "published": "2026-03-25T20:27:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Personal Encyclopedias",
-    "link": "https://whoami.wiki/blog/personal-encyclopedias",
-    "summary": "<p>Article URL: <a href=\"https://whoami.wiki/blog/personal-encyclopedias\">https://whoami.wiki/blog/personal-encyclopedias</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47522173\">https://news.ycombinator.com/item?id=47522173</a></p>\n<p>Points: 152</p>\n<p># Comments: 39</p>",
-    "published": "2026-03-25T19:41:51",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
@@ -131,48 +229,6 @@
     "summary": "The jobs cuts and a new stock program for executives come as Meta continues to shift its focus to artificial intelligence.",
     "published": "2026-03-25T19:22:34",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-    "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
-    "summary": "<p>Article URL: <a href=\"https://lapcatsoftware.com/articles/2026/3/11.html\">https://lapcatsoftware.com/articles/2026/3/11.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47521876\">https://news.ycombinator.com/item?id=47521876</a></p>\n<p>Points: 401</p>\n<p># Comments: 226</p>",
-    "published": "2026-03-25T19:14:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-    "link": "https://www.claudescode.dev/?window=since_launch",
-    "summary": "<p>Article URL: <a href=\"https://www.claudescode.dev/?window=since_launch\">https://www.claudescode.dev/?window=since_launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47521157\">https://news.ycombinator.com/item?id=47521157</a></p>\n<p>Points: 284</p>\n<p># Comments: 173</p>",
-    "published": "2026-03-25T18:16:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ARC-AGI-3",
-    "link": "https://arcprize.org/arc-agi/3",
-    "summary": "<p><a href=\"https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf\">https://arcprize.org/media/ARC_AGI_3_Technical_Report.pdf</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47521150\">https://news.ycombinator.com/item?id=47521150</a></p>\n<p>Points: 391</p>\n<p># Comments: 261</p>",
-    "published": "2026-03-25T18:16:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
-    "link": "https://github.com/jonwiggins/optio",
-    "summary": "<p>I think like many of you, I've been jumping between many claude code/codex sessions at a time, managing multiple lines of work and worktrees in multiple repos. I wanted a way to easily manage multiple lines of work and reduce the amount of input I need to give, allowing the agents to remove me as a bottleneck from as much of the process as I can. So I built an orchestration tool for AI coding agents:<p>Optio is an open-source orchestration system that turns tickets into merged pull requests using AI coding agents. You point it at your repos, and it handles the full lifecycle:<p>- Intake — pull tasks from GitHub Issues, Linear, or create them manually<p>- Execution — spin up isolated K8s pods per repo, run Claude Code or Codex in git worktrees<p>- PR monitoring — watch CI checks, review status, and merge readiness every 30s<p>- Self-healing — auto-resume the agent on CI failures, merge conflicts, or reviewer change requests<p>- Completion — squash-merge the PR and close the linked issue<p>The key idea is the feedback loop. Optio doesn't just run an agent and walk away — when CI breaks, it feeds the failure back to the agent. When a reviewer requests changes, the comments become the agent's next prompt. It keeps going until the PR merges or you tell it to stop.<p>Built with Fastify, Next.js, BullMQ, and Drizzle on Postgres. Ships with a Helm chart for production deployment.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47520220\">https://news.ycombinator.com/item?id=47520220</a></p>\n<p>Points: 53</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-25T17:10:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Quantization from the Ground Up",
-    "link": "https://ngrok.com/blog/quantization",
-    "summary": "<p>Article URL: <a href=\"https://ngrok.com/blog/quantization\">https://ngrok.com/blog/quantization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47519295\">https://news.ycombinator.com/item?id=47519295</a></p>\n<p>Points: 251</p>\n<p># Comments: 47</p>",
-    "published": "2026-03-25T16:06:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
-    "link": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
-    "summary": "<p><a href=\"https://archive.is/mEgaK\" rel=\"nofollow\">https://archive.is/mEgaK</a><p><a href=\"https://www.supremecourt.gov/opinions/25pdf/24-171_bq7d.pdf\" rel=\"nofollow\">https://www.supremecourt.gov/opinions/25pdf/24-171_bq7d.pdf</a><p><a href=\"https://supreme.justia.com/cases/federal/us/607/24-171/\" rel=\"nofollow\">https://supreme.justia.com/cases/federal/us/607/24-171/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47518281\">https://news.ycombinator.com/item?id=47518281</a></p>\n<p>Points: 346</p>\n<p># Comments: 267</p>",
-    "published": "2026-03-25T15:02:56",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
@@ -256,34 +312,6 @@
     "link": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
     "summary": "Companies are using A.I. as a reason for layoffs, but the truth may be more complex.",
     "published": "2026-03-20T11:00:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
-    "link": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
-    "summary": "Prosecutors said the men, including a co-founder of the company, Super Micro, had diverted servers containing Nvidia A.I. chips to China.",
-    "published": "2026-03-20T00:50:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.",
-    "link": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
-    "summary": "The new fund would operate alongside the Amazon founder’s A.I. start-up, Project Prometheus.",
-    "published": "2026-03-19T23:48:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Have You Turned to A.I. For Advice on a Romantic Relationship?",
-    "link": "https://www.nytimes.com/2026/03/19/technology/have-you-turned-to-ai-for-advice-on-a-romantic-relationship.html",
-    "summary": "People are using generative A.I. chatbots for help on everything from starting to ending a relationship. Have you? How did it turn out?",
-    "published": "2026-03-19T19:28:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Long Farewell to Mark Zuckerberg’s Metaverse",
-    "link": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
-    "summary": "Meta announced changes that effectively leave Mr. Zuckerberg’s vision of an immersive digital world based in virtual reality only on life support.",
-    "published": "2026-03-19T15:29:45",
     "source": "NYT > Technology"
   }
 ]
