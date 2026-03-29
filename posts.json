@@ -1,37 +1,156 @@
 [
   {
-    "title": "What Is YouTube’s Dominance Doing to Us? We Asked Its C.E.O.",
-    "link": "https://www.nytimes.com/2026/03/28/magazine/neal-mohan-interview.html",
-    "summary": "Neal Mohan on A.I. slop, parental controls and his platform’s impact on our lives.",
-    "published": "2026-03-28T09:15:06",
+    "title": "Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones",
+    "link": "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html",
+    "summary": "No more YouTube or video games on school laptops. Textbooks and pencils are back. Some seventh graders say they prefer learning offline.",
+    "published": "2026-03-29T09:00:25",
     "source": "NYT > Technology"
   },
   {
-    "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-    "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "summary": "<p>Article URL: <a href=\"https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering\">https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552562\">https://news.ycombinator.com/item?id=47552562</a></p>\n<p>Points: 26</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-28T08:06:19",
+    "title": "What if AI doesn't need more RAM but better math?",
+    "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+    "summary": "<p>Article URL: <a href=\"https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more\">https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47561297\">https://news.ycombinator.com/item?id=47561297</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+    "published": "2026-03-29T08:18:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-    "link": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/\">https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47550878\">https://news.ycombinator.com/item?id=47550878</a></p>\n<p>Points: 155</p>\n<p># Comments: 76</p>",
-    "published": "2026-03-28T02:17:04",
+    "title": "The road to electric – in charts and data [UK]",
+    "link": "https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/",
+    "summary": "<p>Article URL: <a href=\"https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/\">https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47560981\">https://news.ycombinator.com/item?id=47560981</a></p>\n<p>Points: 28</p>\n<p># Comments: 7</p>",
+    "published": "2026-03-29T07:00:48",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Go hard on agents, not on your filesystem",
-    "link": "https://jai.scs.stanford.edu/",
-    "summary": "<p>Article URL: <a href=\"https://jai.scs.stanford.edu/\">https://jai.scs.stanford.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47550282\">https://news.ycombinator.com/item?id=47550282</a></p>\n<p>Points: 320</p>\n<p># Comments: 181</p>",
-    "published": "2026-03-28T00:39:54",
+    "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+    "link": "https://www.bmj.com/content/387/bmj-2024-082194",
+    "summary": "<p>Article URL: <a href=\"https://www.bmj.com/content/387/bmj-2024-082194\">https://www.bmj.com/content/387/bmj-2024-082194</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47559481\">https://news.ycombinator.com/item?id=47559481</a></p>\n<p>Points: 118</p>\n<p># Comments: 70</p>",
+    "published": "2026-03-29T00:53:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-    "link": "https://twitchroulette.net/",
-    "summary": "<p>Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of new features and stats and I would love for people to check it out. The idea is you can easily browse the less browsed parts of twitch and find cool and new streamers to say hi to, and maybe make some new friends.<p>I also added some real time stats and breakdowns per channel and I think some of the things they show are pretty interesting. Check it out!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47549160\">https://news.ycombinator.com/item?id=47549160</a></p>\n<p>Points: 114</p>\n<p># Comments: 52</p>",
-    "published": "2026-03-27T22:22:20",
+    "title": "Attie.ai",
+    "link": "https://attie.ai/login",
+    "summary": "<p>Article URL: <a href=\"https://attie.ai/login\">https://attie.ai/login</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47559026\">https://news.ycombinator.com/item?id=47559026</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-28T23:33:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+    "link": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+    "summary": "<p>Article URL: <a href=\"https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ\">https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47558997\">https://news.ycombinator.com/item?id=47558997</a></p>\n<p>Points: 293</p>\n<p># Comments: 166</p>",
+    "published": "2026-03-28T23:29:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A laser-based process that enables adhesive-free paper packaging",
+    "link": "https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html",
+    "summary": "<p>Article URL: <a href=\"https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html\">https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47558782\">https://news.ycombinator.com/item?id=47558782</a></p>\n<p>Points: 73</p>\n<p># Comments: 30</p>",
+    "published": "2026-03-28T22:50:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+    "link": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+    "summary": "<p>Article URL: <a href=\"https://inpharmd.com/jobs/senior-ruby-on-rails-engineer\">https://inpharmd.com/jobs/senior-ruby-on-rails-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47558305\">https://news.ycombinator.com/item?id=47558305</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-28T21:35:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CSS is DOOMed",
+    "link": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+    "summary": "<p><a href=\"https://cssdoom.wtf/\" rel=\"nofollow\">https://cssdoom.wtf/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557960\">https://news.ycombinator.com/item?id=47557960</a></p>\n<p>Points: 324</p>\n<p># Comments: 71</p>",
+    "published": "2026-03-28T20:39:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Android’s new sideload settings will carry over to new devices",
+    "link": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+    "summary": "<p>Article URL: <a href=\"https://www.androidauthority.com/android-sideload-carry-over-3652845/\">https://www.androidauthority.com/android-sideload-carry-over-3652845/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557901\">https://news.ycombinator.com/item?id=47557901</a></p>\n<p>Points: 86</p>\n<p># Comments: 121</p>",
+    "published": "2026-03-28T20:28:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Is YouTube’s Dominance Doing to Us? We Asked Its C.E.O.",
+    "link": "https://www.nytimes.com/2026/03/28/magazine/neal-mohan-interview.html",
+    "summary": "Neal Mohan on A.I. slop, parental controls and his platform’s impact on our lives.",
+    "published": "2026-03-28T18:51:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The first 40 months of the AI era",
+    "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "summary": "<p>Article URL: <a href=\"https://lzon.ca/posts/other/thoughts-ai-era/\">https://lzon.ca/posts/other/thoughts-ai-era/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557185\">https://news.ycombinator.com/item?id=47557185</a></p>\n<p>Points: 180</p>\n<p># Comments: 94</p>",
+    "published": "2026-03-28T18:42:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+    "link": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "summary": "<p><i>Knuth Claude's Cycles note update: problem now fully solved, by LLMs</i> - <a href=\"https://news.ycombinator.com/item?id=47306926\">https://news.ycombinator.com/item?id=47306926</a> - March 2026 (2 comments)<p><a href=\"https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791\" rel=\"nofollow\">https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...</a><p><i>Claude's Cycles [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=47230710\">https://news.ycombinator.com/item?id=47230710</a> - March 2026 (362 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557166\">https://news.ycombinator.com/item?id=47557166</a></p>\n<p>Points: 203</p>\n<p># Comments: 132</p>",
+    "published": "2026-03-28T18:38:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenCiv1 – open-source rewrite of Civ1",
+    "link": "https://github.com/rajko-horvat/OpenCiv1",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rajko-horvat/OpenCiv1\">https://github.com/rajko-horvat/OpenCiv1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47557064\">https://news.ycombinator.com/item?id=47557064</a></p>\n<p>Points: 144</p>\n<p># Comments: 39</p>",
+    "published": "2026-03-28T18:22:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Founder of GitLab battles cancer by founding companies",
+    "link": "https://sytse.com/cancer/",
+    "summary": "<p>Article URL: <a href=\"https://sytse.com/cancer/\">https://sytse.com/cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47556729\">https://news.ycombinator.com/item?id=47556729</a></p>\n<p>Points: 1009</p>\n<p># Comments: 206</p>",
+    "published": "2026-03-28T17:39:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Linux is an interpreter",
+    "link": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+    "summary": "<p>Article URL: <a href=\"https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/\">https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47556359\">https://news.ycombinator.com/item?id=47556359</a></p>\n<p>Points: 199</p>\n<p># Comments: 43</p>",
+    "published": "2026-03-28T16:59:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I decompiled the White House's new app",
+    "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+    "summary": "<p>Article URL: <a href=\"https://thereallo.dev/blog/decompiling-the-white-house-app\">https://thereallo.dev/blog/decompiling-the-white-house-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47555556\">https://news.ycombinator.com/item?id=47555556</a></p>\n<p>Points: 510</p>\n<p># Comments: 185</p>",
+    "published": "2026-03-28T15:37:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI overly affirms users asking for personal advice",
+    "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "summary": "<p><a href=\"https://arxiv.org/abs/2602.14270\" rel=\"nofollow\">https://arxiv.org/abs/2602.14270</a><p><a href=\"https://www.science.org/doi/10.1126/science.aec8352\" rel=\"nofollow\">https://www.science.org/doi/10.1126/science.aec8352</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47554773\">https://news.ycombinator.com/item?id=47554773</a></p>\n<p>Points: 638</p>\n<p># Comments: 478</p>",
+    "published": "2026-03-28T14:08:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Spanish legislation as a Git repo",
+    "link": "https://github.com/EnriqueLop/legalize-es",
+    "summary": "<p>Article URL: <a href=\"https://github.com/EnriqueLop/legalize-es\">https://github.com/EnriqueLop/legalize-es</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553798\">https://news.ycombinator.com/item?id=47553798</a></p>\n<p>Points: 738</p>\n<p># Comments: 220</p>",
+    "published": "2026-03-28T12:01:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+    "link": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer\">https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553796\">https://news.ycombinator.com/item?id=47553796</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-03-28T12:01:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I Built an Open-World Engine for the N64 [video]",
+    "link": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lXxmIw9axWw\">https://www.youtube.com/watch?v=lXxmIw9axWw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47553717\">https://news.ycombinator.com/item?id=47553717</a></p>\n<p>Points: 390</p>\n<p># Comments: 66</p>",
+    "published": "2026-03-28T11:49:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cat Itecture: Better Cat Window Boxes (2023)",
+    "link": "https://gwern.net/catitecture",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/catitecture\">https://gwern.net/catitecture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47552643\">https://news.ycombinator.com/item?id=47552643</a></p>\n<p>Points: 54</p>\n<p># Comments: 6</p>",
+    "published": "2026-03-28T08:23:26",
     "source": "Hacker News: Front Page"
   },
   {
@@ -42,46 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-    "link": "https://github.com/davidmonterocrespo24/velxio",
-    "summary": "<p>Article URL: <a href=\"https://github.com/davidmonterocrespo24/velxio\">https://github.com/davidmonterocrespo24/velxio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47548013\">https://news.ycombinator.com/item?id=47548013</a></p>\n<p>Points: 145</p>\n<p># Comments: 43</p>",
-    "published": "2026-03-27T20:44:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Colorado House passes bill to limit surveillance pricing and wage setting",
-    "link": "https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/",
-    "summary": "<p>Article URL: <a href=\"https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/\">https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47547602\">https://news.ycombinator.com/item?id=47547602</a></p>\n<p>Points: 111</p>\n<p># Comments: 31</p>",
-    "published": "2026-03-27T20:10:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ISBN Visualization",
-    "link": "https://annas-archive.gd/isbn-visualization?",
-    "summary": "<p>Article URL: <a href=\"https://annas-archive.gd/isbn-visualization?\">https://annas-archive.gd/isbn-visualization?</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47547508\">https://news.ycombinator.com/item?id=47547508</a></p>\n<p>Points: 163</p>\n<p># Comments: 27</p>",
-    "published": "2026-03-27T20:02:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Make macOS consistently bad unironically",
-    "link": "https://lr0.org/blog/p/macos/",
-    "summary": "<p>Article URL: <a href=\"https://lr0.org/blog/p/macos/\">https://lr0.org/blog/p/macos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47547009\">https://news.ycombinator.com/item?id=47547009</a></p>\n<p>Points: 400</p>\n<p># Comments: 283</p>",
-    "published": "2026-03-27T19:15:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
     "link": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
     "summary": "Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.",
     "published": "2026-03-27T19:11:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Capability-Based Security for Redox: Namespace and CWD as Capabilities",
-    "link": "https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/",
-    "summary": "<p>Article URL: <a href=\"https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/\">https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47546911\">https://news.ycombinator.com/item?id=47546911</a></p>\n<p>Points: 55</p>\n<p># Comments: 6</p>",
-    "published": "2026-03-27T19:06:44",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "U.S. Accuses NewYork-Presbyterian of Reaching Deals That Kept Costs High",
@@ -91,60 +175,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The Future of SCIP",
-    "link": "https://sourcegraph.com/blog/the-future-of-scip",
-    "summary": "<p>Article URL: <a href=\"https://sourcegraph.com/blog/the-future-of-scip\">https://sourcegraph.com/blog/the-future-of-scip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47544238\">https://news.ycombinator.com/item?id=47544238</a></p>\n<p>Points: 70</p>\n<p># Comments: 21</p>",
-    "published": "2026-03-27T15:46:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Desk for people who work at home with a cat",
-    "link": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-    "summary": "<p>Article URL: <a href=\"https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/\">https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543943\">https://news.ycombinator.com/item?id=47543943</a></p>\n<p>Points: 406</p>\n<p># Comments: 146</p>",
-    "published": "2026-03-27T15:31:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
     "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
     "summary": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
     "published": "2026-03-27T14:45:53",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Meow.camera",
-    "link": "https://meow.camera/#4258783365322591678",
-    "summary": "<p>Article URL: <a href=\"https://meow.camera/#4258783365322591678\">https://meow.camera/#4258783365322591678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543204\">https://news.ycombinator.com/item?id=47543204</a></p>\n<p>Points: 269</p>\n<p># Comments: 60</p>",
-    "published": "2026-03-27T14:41:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Iran-linked hackers breach FBI director's personal email",
-    "link": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "summary": "<p><a href=\"https://ddosecrets.org/article/kash-patel-emails\" rel=\"nofollow\">https://ddosecrets.org/article/kash-patel-emails</a><p><a href=\"https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/\" rel=\"nofollow\">https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543167\">https://news.ycombinator.com/item?id=47543167</a></p>\n<p>Points: 243</p>\n<p># Comments: 349</p>",
-    "published": "2026-03-27T14:38:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Anatomy of the .claude/ folder",
-    "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "summary": "<p>Article URL: <a href=\"https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder\">https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47543139\">https://news.ycombinator.com/item?id=47543139</a></p>\n<p>Points: 480</p>\n<p># Comments: 222</p>",
-    "published": "2026-03-27T14:35:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "People inside Microsoft are fighting to drop mandatory Microsoft Account",
-    "link": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-    "summary": "<p>Article URL: <a href=\"https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup\">https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542695\">https://news.ycombinator.com/item?id=47542695</a></p>\n<p>Points: 637</p>\n<p># Comments: 487</p>",
-    "published": "2026-03-27T13:54:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
-    "link": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-    "summary": "<p>Article URL: <a href=\"https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)\">https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47542644\">https://news.ycombinator.com/item?id=47542644</a></p>\n<p>Points: 215</p>\n<p># Comments: 52</p>",
-    "published": "2026-03-27T13:49:51",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Safety Experts Considered LaGuardia Challenging but Not an Outlier",
@@ -168,20 +203,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Telnyx package compromised on PyPI",
-    "link": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
-    "summary": "<p><a href=\"https://github.com/team-telnyx/telnyx-python/issues/235\" rel=\"nofollow\">https://github.com/team-telnyx/telnyx-python/issues/235</a><p><a href=\"https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm\" rel=\"nofollow\">https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47540388\">https://news.ycombinator.com/item?id=47540388</a></p>\n<p>Points: 100</p>\n<p># Comments: 103</p>",
-    "published": "2026-03-27T08:57:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "‘Energy independence feels practical’: Europeans building mini solar farms",
-    "link": "https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho",
-    "summary": "<p>Article URL: <a href=\"https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho\">https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47540383\">https://news.ycombinator.com/item?id=47540383</a></p>\n<p>Points: 280</p>\n<p># Comments: 263</p>",
-    "published": "2026-03-27T08:55:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
     "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
     "summary": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.",
@@ -201,20 +222,6 @@
     "summary": "The world’s largest crypto exchange is under fire after investigators found accounts moving $1.7 billion to entities linked to Iran. Clues about those accounts were in plain sight for over a year.",
     "published": "2026-03-26T18:37:34",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Building FireStriker: Making Civic Tech Free",
-    "link": "https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free",
-    "summary": "<p>Article URL: <a href=\"https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free\">https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47533709\">https://news.ycombinator.com/item?id=47533709</a></p>\n<p>Points: 121</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-26T18:03:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Improving Composer through real-time RL",
-    "link": "https://cursor.com/blog/real-time-rl-for-composer",
-    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/real-time-rl-for-composer\">https://cursor.com/blog/real-time-rl-for-composer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47532770\">https://news.ycombinator.com/item?id=47532770</a></p>\n<p>Points: 81</p>\n<p># Comments: 23</p>",
-    "published": "2026-03-26T16:48:12",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
@@ -284,13 +291,6 @@
     "link": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
     "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
     "published": "2026-03-23T14:04:54",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Paul Brainerd Dies at 78; Pioneered Desktop Publishing With PageMaker",
-    "link": "https://www.nytimes.com/2026/03/21/technology/personaltech/paul-brainerd-dead.html",
-    "summary": "His software brought printing into the digital age, allowing users to stop manually splicing columns of text and graphics and instead create layouts on a virtual pasteboard.",
-    "published": "2026-03-21T16:14:24",
     "source": "NYT > Technology"
   }
 ]
