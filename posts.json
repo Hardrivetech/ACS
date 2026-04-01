@@ -1,38 +1,157 @@
 [
   {
+    "title": "One of Apple’s First Employees Looks Back at 50 Years",
+    "link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
+    "summary": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed a bit since then.",
+    "published": "2026-04-01T09:02:40",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "CERN levels up with new superconducting karts",
+    "link": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+    "summary": "<p>Article URL: <a href=\"https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts\">https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47597935\">https://news.ycombinator.com/item?id=47597935</a></p>\n<p>Points: 102</p>\n<p># Comments: 18</p>",
+    "published": "2026-04-01T07:27:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Remembering Magnetic Memories and the Apollo AGC",
+    "link": "https://2earth.github.io/website/20260304.html",
+    "summary": "<p>Article URL: <a href=\"https://2earth.github.io/website/20260304.html\">https://2earth.github.io/website/20260304.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47597908\">https://news.ycombinator.com/item?id=47597908</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+    "published": "2026-04-01T07:22:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "link": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md\">https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47597119\">https://news.ycombinator.com/item?id=47597119</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-01T05:21:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Code Unpacked : A visual guide",
+    "link": "https://ccunpacked.dev/",
+    "summary": "<p>Related ongoing threads:<p><i>The Claude Code Source Leak: fake tools, frustration regexes, undercover mode</i> - <a href=\"https://news.ycombinator.com/item?id=47586778\">https://news.ycombinator.com/item?id=47586778</a> - March 2026 (406 comments)<p><i>Claude Code's source code has been leaked via a map file in their NPM registry</i> - <a href=\"https://news.ycombinator.com/item?id=47584540\">https://news.ycombinator.com/item?id=47584540</a> - March 2026 (956 comments)<p>Also related: <a href=\"https://www.ccleaks.com\" rel=\"nofollow\">https://www.ccleaks.com</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47597085\">https://news.ycombinator.com/item?id=47597085</a></p>\n<p>Points: 380</p>\n<p># Comments: 100</p>",
+    "published": "2026-04-01T05:15:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Analyzing Geekbench 6 under Intel's BOT",
+    "link": "https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/",
+    "summary": "<p>Article URL: <a href=\"https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/\">https://www.geekbench.com/blog/2026/03/analyzing-geekbench-6-under-intels-bot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47596457\">https://news.ycombinator.com/item?id=47596457</a></p>\n<p>Points: 27</p>\n<p># Comments: 13</p>",
+    "published": "2026-04-01T03:27:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Neanderthals survived on a knife's edge for 350k years",
+    "link": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years\">https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47595572\">https://news.ycombinator.com/item?id=47595572</a></p>\n<p>Points: 143</p>\n<p># Comments: 104</p>",
+    "published": "2026-04-01T01:12:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
+    "link": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+    "summary": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
+    "published": "2026-03-31T21:38:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+    "link": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+    "summary": "<p>Article URL: <a href=\"https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386\">https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47593634\">https://news.ycombinator.com/item?id=47593634</a></p>\n<p>Points: 107</p>\n<p># Comments: 40</p>",
+    "published": "2026-03-31T21:22:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A dot a day keeps the clutter away",
+    "link": "https://scottlawsonbc.com/post/dot-system",
+    "summary": "<p>Article URL: <a href=\"https://scottlawsonbc.com/post/dot-system\">https://scottlawsonbc.com/post/dot-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47593556\">https://news.ycombinator.com/item?id=47593556</a></p>\n<p>Points: 314</p>\n<p># Comments: 88</p>",
+    "published": "2026-03-31T21:15:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "link": "https://prismml.com/",
+    "summary": "<p>Article URL: <a href=\"https://prismml.com/\">https://prismml.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47593422\">https://news.ycombinator.com/item?id=47593422</a></p>\n<p>Points: 251</p>\n<p># Comments: 109</p>",
+    "published": "2026-03-31T21:01:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MiniStack (replacement for LocalStack)",
+    "link": "https://ministack.org/",
+    "summary": "<p>Article URL: <a href=\"https://ministack.org/\">https://ministack.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47593285\">https://news.ycombinator.com/item?id=47593285</a></p>\n<p>Points: 224</p>\n<p># Comments: 41</p>",
+    "published": "2026-03-31T20:48:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "summary": "<p><a href=\"https://openai.com/index/accelerating-the-next-phase-ai\" rel=\"nofollow\">https://openai.com/index/accelerating-the-next-phase-ai</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47592755\">https://news.ycombinator.com/item?id=47592755</a></p>\n<p>Points: 445</p>\n<p># Comments: 387</p>",
+    "published": "2026-03-31T20:07:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "link": "https://github.com/timescale/pg_textsearch",
+    "summary": "<p>Last summer we faced a conundrum at my company, Tiger Data, a Postgres cloud vendor whose main business is in timeseries data.  We were trying to grow our business towards emerging AI-centric workloads and wanted to provide a state-of-the-art hybrid search stack in Postgres.  We'd already built pgvectorscale in house with the goal of scaling semantic search beyond pgvector's main memory limitations.  We just needed a scalable ranked keyword search solution too.<p>The problem: core Postgres doesn't provide this; the leading Postgres BM25 extension, ParadeDB, is guarded behind AGPL; developing our own extension appeared daunting.  We'd need a small team of sharp engineers and 6-12 months, I figured.  And we'd probably still fall short of the performance of a mature system like Parade/Tantivy.<p>Or would we?  I'd be experimenting long enough with AI-boosted development at that point to realize that with the latest tools (Claude Code + Opus) and an experienced hand (I've been working in database systems internals for 25 years now), the old time estimates pretty much go out the window.<p>I told our CTO I thought I could solo the project in one quarter.  This raised some eyebrows.<p>It did take a little more time than that (two quarters), and we got some real help from the community (amazing!) after open-sourcing the pre-release.  But I'm thrilled/exhausted today to share that pg_textsearch v1.0 is freely available via open source (Postgres license), on Tiger Data cloud, and hopefully soon, a hyperscalar near you:<p><a href=\"https://github.com/timescale/pg_textsearch\" rel=\"nofollow\">https://github.com/timescale/pg_textsearch</a><p>In the blog post accompanying the release, I overview the architecture and present benchmark results using MS-MARCO.  To my surprise, we were not only able to meet Parade/Tantivy's query performance, but exceed it substantially, measuring a 4.7x advantage on query throughput at scale:<p><a href=\"https://www.tigerdata.com/blog/pg-textsearch-bm25-full-text-search-postgres\" rel=\"nofollow\">https://www.tigerdata.com/blog/pg-textsearch-bm25-full-text-...</a><p>It's exciting (and, to be honest, a little unnerving) to see a field I've spent so much time toiling in change so quickly in ways that enable us to be more ambitious in our technical objectives.  Technical moats are moats no longer.<p>The benchmark scripts and methodology are available in the github repo.  Happy to answer any questions in the thread.<p>Thanks,<p>TJ (tj@tigerdata.com)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47589856\">https://news.ycombinator.com/item?id=47589856</a></p>\n<p>Points: 151</p>\n<p># Comments: 44</p>",
+    "published": "2026-03-31T16:29:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cohere Transcribe: Speech Recognition",
+    "link": "https://cohere.com/blog/transcribe",
+    "summary": "<p>Article URL: <a href=\"https://cohere.com/blog/transcribe\">https://cohere.com/blog/transcribe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47589818\">https://news.ycombinator.com/item?id=47589818</a></p>\n<p>Points: 197</p>\n<p># Comments: 58</p>",
+    "published": "2026-03-31T16:27:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Slop is not necessarily the future",
+    "link": "https://www.greptile.com/blog/ai-slopware-future",
+    "summary": "<p>Article URL: <a href=\"https://www.greptile.com/blog/ai-slopware-future\">https://www.greptile.com/blog/ai-slopware-future</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47587953\">https://news.ycombinator.com/item?id=47587953</a></p>\n<p>Points: 239</p>\n<p># Comments: 397</p>",
+    "published": "2026-03-31T14:32:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "summary": "<p>Related ongoing thread: <i>Claude Code's source code has been leaked via a map file in their NPM registry</i> - <a href=\"https://news.ycombinator.com/item?id=47584540\">https://news.ycombinator.com/item?id=47584540</a><p>Also related: <a href=\"https://www.ccleaks.com\" rel=\"nofollow\">https://www.ccleaks.com</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47586778\">https://news.ycombinator.com/item?id=47586778</a></p>\n<p>Points: 1174</p>\n<p># Comments: 467</p>",
+    "published": "2026-03-31T13:04:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
+    "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
+    "summary": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
+    "published": "2026-03-31T13:00:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Open source CAD in the browser (Solvespace)",
+    "link": "https://solvespace.com/webver.pl",
+    "summary": "<p>Article URL: <a href=\"https://solvespace.com/webver.pl\">https://solvespace.com/webver.pl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47586614\">https://news.ycombinator.com/item?id=47586614</a></p>\n<p>Points: 337</p>\n<p># Comments: 103</p>",
+    "published": "2026-03-31T12:50:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
     "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
     "summary": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
-    "published": "2026-03-31T09:12:40",
+    "published": "2026-03-31T10:36:33",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+    "link": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+    "summary": "<p>Article URL: <a href=\"https://responsiblestatecraft.org/iran-strait-of-hormuz/\">https://responsiblestatecraft.org/iran-strait-of-hormuz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47584795\">https://news.ycombinator.com/item?id=47584795</a></p>\n<p>Points: 312</p>\n<p># Comments: 849</p>",
+    "published": "2026-03-31T09:30:43",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
-    "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-a-wearable-health-device-maker-raises-575-million.html",
+    "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
     "summary": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
-    "published": "2026-03-31T09:06:55",
+    "published": "2026-03-31T09:06:56",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/Fried_rice/status/2038894956459290963\">https://twitter.com/Fried_rice/status/2038894956459290963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47584540\">https://news.ycombinator.com/item?id=47584540</a></p>\n<p>Points: 55</p>\n<p># Comments: 22</p>",
-    "published": "2026-03-31T09:00:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Closed Source AI = Neofeudalism",
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html",
-    "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html\">https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47584304\">https://news.ycombinator.com/item?id=47584304</a></p>\n<p>Points: 28</p>\n<p># Comments: 9</p>",
-    "published": "2026-03-31T08:29:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Free AI Coding Skills for Rails",
-    "link": "https://www.railsreviews.com/skills",
-    "summary": "<p>Article URL: <a href=\"https://www.railsreviews.com/skills\">https://www.railsreviews.com/skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47584009\">https://news.ycombinator.com/item?id=47584009</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
-    "published": "2026-03-31T07:47:50",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "RamAIn (YC W26) Is Hiring",
@@ -42,123 +161,25 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Google's 200M-parameter time-series foundation model with 16k context",
-    "link": "https://github.com/google-research/timesfm",
-    "summary": "<p>Article URL: <a href=\"https://github.com/google-research/timesfm\">https://github.com/google-research/timesfm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47583045\">https://news.ycombinator.com/item?id=47583045</a></p>\n<p>Points: 113</p>\n<p># Comments: 53</p>",
-    "published": "2026-03-31T05:21:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sony halts memory card shipments due to NAND shortage",
-    "link": "https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/",
-    "summary": "<p>Article URL: <a href=\"https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/\">https://www.techzine.eu/news/devices/140058/sony-halts-memory-card-shipments-due-to-nand-shortage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582990\">https://news.ycombinator.com/item?id=47582990</a></p>\n<p>Points: 52</p>\n<p># Comments: 20</p>",
-    "published": "2026-03-31T05:12:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-    "link": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/\">https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582984\">https://news.ycombinator.com/item?id=47582984</a></p>\n<p>Points: 216</p>\n<p># Comments: 131</p>",
-    "published": "2026-03-31T05:11:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-    "link": "https://ollama.com/blog/mlx",
-    "summary": "<p>Article URL: <a href=\"https://ollama.com/blog/mlx\">https://ollama.com/blog/mlx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582482\">https://news.ycombinator.com/item?id=47582482</a></p>\n<p>Points: 253</p>\n<p># Comments: 113</p>",
-    "published": "2026-03-31T03:40:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
     "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-    "summary": "<p>Article URL: <a href=\"https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582220\">https://news.ycombinator.com/item?id=47582220</a></p>\n<p>Points: 770</p>\n<p># Comments: 277</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582220\">https://news.ycombinator.com/item?id=47582220</a></p>\n<p>Points: 1843</p>\n<p># Comments: 739</p>",
     "published": "2026-03-31T02:54:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
-    "link": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
-    "summary": "Lawmakers have asked the Treasury Department for information on how Mr. Musk may have influenced the decision to end enforcement of the Corporate Transparency Act.",
-    "published": "2026-03-31T02:36:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
-    "link": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Mar/30/mr-chatterbox/\">https://simonwillison.net/2026/Mar/30/mr-chatterbox/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582056\">https://news.ycombinator.com/item?id=47582056</a></p>\n<p>Points: 46</p>\n<p># Comments: 26</p>",
-    "published": "2026-03-31T02:26:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Artemis II is not safe to fly",
-    "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-    "summary": "<p>Article URL: <a href=\"https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm\">https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47582043\">https://news.ycombinator.com/item?id=47582043</a></p>\n<p>Points: 327</p>\n<p># Comments: 202</p>",
-    "published": "2026-03-31T02:23:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Incident March 30th, 2026 – Accidental CDN Caching",
-    "link": "https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching",
-    "summary": "<p>Article URL: <a href=\"https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching\">https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47581721\">https://news.ycombinator.com/item?id=47581721</a></p>\n<p>Points: 57</p>\n<p># Comments: 22</p>",
-    "published": "2026-03-31T01:28:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Universal Claude.md – cut Claude output tokens",
-    "link": "https://github.com/drona23/claude-token-efficient",
-    "summary": "<p>Article URL: <a href=\"https://github.com/drona23/claude-token-efficient\">https://github.com/drona23/claude-token-efficient</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47581701\">https://news.ycombinator.com/item?id=47581701</a></p>\n<p>Points: 302</p>\n<p># Comments: 120</p>",
-    "published": "2026-03-31T01:23:34",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "What to Know About California’s Executive Order on A.I.",
     "link": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
     "summary": "Gov. Gavin Newsom, a Democrat, issued an order requiring safety and privacy guardrails for artificial intelligence companies contracting with the state.",
-    "published": "2026-03-31T00:39:15",
+    "published": "2026-03-31T00:39:16",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Android Developer Verification",
-    "link": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-    "summary": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html\">https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47580297\">https://news.ycombinator.com/item?id=47580297</a></p>\n<p>Points: 254</p>\n<p># Comments: 255</p>",
-    "published": "2026-03-30T22:05:21",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
     "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
     "summary": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop.",
-    "published": "2026-03-30T22:03:22",
+    "published": "2026-03-30T22:03:23",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenGridWorks: The Electricity Infrasctructure, Mapped",
-    "link": "https://www.opengridworks.com",
-    "summary": "<p>Article URL: <a href=\"https://www.opengridworks.com\">https://www.opengridworks.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47579754\">https://news.ycombinator.com/item?id=47579754</a></p>\n<p>Points: 109</p>\n<p># Comments: 14</p>",
-    "published": "2026-03-30T21:12:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-    "link": "https://anishathalye.com/macbook-touchscreen/",
-    "summary": "<p>Article URL: <a href=\"https://anishathalye.com/macbook-touchscreen/\">https://anishathalye.com/macbook-touchscreen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47578572\">https://news.ycombinator.com/item?id=47578572</a></p>\n<p>Points: 320</p>\n<p># Comments: 149</p>",
-    "published": "2026-03-30T19:22:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Vulnerability research is cooked",
-    "link": "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/",
-    "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/\">https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47578086\">https://news.ycombinator.com/item?id=47578086</a></p>\n<p>Points: 182</p>\n<p># Comments: 125</p>",
-    "published": "2026-03-30T18:43:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fedware: Government apps that spy harder than the apps they ban",
-    "link": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-    "summary": "<p>Article URL: <a href=\"https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/\">https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47577761\">https://news.ycombinator.com/item?id=47577761</a></p>\n<p>Points: 562</p>\n<p># Comments: 187</p>",
-    "published": "2026-03-30T18:16:00",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
@@ -168,17 +189,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "CodingFont: A game to help you pick a coding font",
-    "link": "https://www.codingfont.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.codingfont.com/\">https://www.codingfont.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47575403\">https://news.ycombinator.com/item?id=47575403</a></p>\n<p>Points: 416</p>\n<p># Comments: 209</p>",
-    "published": "2026-03-30T15:16:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to turn anything into a router",
-    "link": "https://nbailey.ca/post/router/",
-    "summary": "<p>Article URL: <a href=\"https://nbailey.ca/post/router/\">https://nbailey.ca/post/router/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47574034\">https://news.ycombinator.com/item?id=47574034</a></p>\n<p>Points: 680</p>\n<p># Comments: 231</p>",
-    "published": "2026-03-30T13:28:54",
+    "title": "In Case of Emergency, Make Burrito Bison 3",
+    "link": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
+    "summary": "<p>Article URL: <a href=\"https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/\">https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47575039\">https://news.ycombinator.com/item?id=47575039</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-03-30T14:45:35",
     "source": "Hacker News: Front Page"
   },
   {
@@ -291,34 +305,6 @@
     "link": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
     "summary": "The jobs cuts and a new stock program for executives come as Meta continues to shift its focus to artificial intelligence.",
     "published": "2026-03-25T19:22:34",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
-    "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
-    "summary": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
-    "published": "2026-03-25T11:22:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
-    "link": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
-    "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
-    "published": "2026-03-24T23:07:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
-    "link": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
-    "summary": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
-    "published": "2026-03-24T22:27:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
-    "link": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
-    "summary": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
-    "published": "2026-03-24T17:00:07",
     "source": "NYT > Technology"
   }
 ]
