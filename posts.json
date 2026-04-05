@@ -1,94 +1,157 @@
 [
   {
+    "title": "Lisette a little language inspired by Rust that compiles to Go",
+    "link": "https://lisette.run/",
+    "summary": "<p>Article URL: <a href=\"https://lisette.run/\">https://lisette.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47646843\">https://news.ycombinator.com/item?id=47646843</a></p>\n<p>Points: 29</p>\n<p># Comments: 16</p>",
+    "published": "2026-04-05T06:57:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Aegis – open-source FPGA silicon",
+    "link": "https://github.com/MidstallSoftware/aegis",
+    "summary": "<p>Article URL: <a href=\"https://github.com/MidstallSoftware/aegis\">https://github.com/MidstallSoftware/aegis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47646472\">https://news.ycombinator.com/item?id=47646472</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+    "published": "2026-04-05T05:50:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Modern Generic SVGA driver for Windows 3.1",
+    "link": "https://github.com/PluMGMK/vbesvga.drv",
+    "summary": "<p>Article URL: <a href=\"https://github.com/PluMGMK/vbesvga.drv\">https://github.com/PluMGMK/vbesvga.drv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47646363\">https://news.ycombinator.com/item?id=47646363</a></p>\n<p>Points: 35</p>\n<p># Comments: 5</p>",
+    "published": "2026-04-05T05:28:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Introduction to Computer Music (2009) [pdf]",
+    "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+    "summary": "<p>Article URL: <a href=\"https://composerprogrammer.com/introductiontocomputermusic.pdf\">https://composerprogrammer.com/introductiontocomputermusic.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47645432\">https://news.ycombinator.com/item?id=47645432</a></p>\n<p>Points: 149</p>\n<p># Comments: 46</p>",
+    "published": "2026-04-05T01:54:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
+    "link": "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/",
+    "summary": "<p>Article URL: <a href=\"http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/\">http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47645305\">https://news.ycombinator.com/item?id=47645305</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+    "published": "2026-04-05T01:32:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
+    "link": "https://contrapunk.com/",
+    "summary": "<p>Article URL: <a href=\"https://contrapunk.com/\">https://contrapunk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47645025\">https://news.ycombinator.com/item?id=47645025</a></p>\n<p>Points: 64</p>\n<p># Comments: 25</p>",
+    "published": "2026-04-05T00:40:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+    "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
+    "summary": "<p><a href=\"https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqkn37qzlvvzgad5hfd7ut@xv4cihno76wu/\" rel=\"nofollow\">https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqk...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644864\">https://news.ycombinator.com/item?id=47644864</a></p>\n<p>Points: 277</p>\n<p># Comments: 82</p>",
+    "published": "2026-04-05T00:13:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nvim-treesitter (13K+ Stars) is Archived",
+    "link": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
+    "summary": "<p>Article URL: <a href=\"https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627\">https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644667\">https://news.ycombinator.com/item?id=47644667</a></p>\n<p>Points: 119</p>\n<p># Comments: 38</p>",
+    "published": "2026-04-04T23:39:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Advice to young people, the lies I tell myself (2024)",
+    "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
+    "summary": "<p>Article URL: <a href=\"https://jxnl.co/writing/2024/06/01/advice-to-young-people/\">https://jxnl.co/writing/2024/06/01/advice-to-young-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644566\">https://news.ycombinator.com/item?id=47644566</a></p>\n<p>Points: 102</p>\n<p># Comments: 29</p>",
+    "published": "2026-04-04T23:18:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "German implementation of eIDAS will require an Apple/Google account to function",
+    "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+    "summary": "<p>Article URL: <a href=\"https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\">https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644406\">https://news.ycombinator.com/item?id=47644406</a></p>\n<p>Points: 238</p>\n<p># Comments: 162</p>",
+    "published": "2026-04-04T22:57:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
+    "link": "https://static.laszlokorte.de/escher/",
+    "summary": "<p>The latest 3Blue1Brown video [1] about the M. C. Escher print gallery effect inspired me to re-implement the effect as WebGL fragment shader on my own.<p>[1]: <a href=\"https://www.youtube.com/watch?v=ldxFjLJ3rVY\" rel=\"nofollow\">https://www.youtube.com/watch?v=ldxFjLJ3rVY</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47642601\">https://news.ycombinator.com/item?id=47642601</a></p>\n<p>Points: 77</p>\n<p># Comments: 12</p>",
+    "published": "2026-04-04T19:43:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How many products does Microsoft have named 'Copilot'?",
+    "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+    "summary": "<p>Article URL: <a href=\"https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html\">https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47642569\">https://news.ycombinator.com/item?id=47642569</a></p>\n<p>Points: 632</p>\n<p># Comments: 301</p>",
+    "published": "2026-04-04T19:39:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Teens Are Doing With Those Role-Playing Chatbots",
+    "link": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
+    "summary": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
+    "published": "2026-04-04T18:10:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "LLM Wiki – example of an \"idea file\"",
+    "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "summary": "<p><a href=\"https://x.com/karpathy/status/2040470801506541998\" rel=\"nofollow\">https://x.com/karpathy/status/2040470801506541998</a><p><a href=\"https://xcancel.com/karpathy/status/2040470801506541998\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2040470801506541998</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640875\">https://news.ycombinator.com/item?id=47640875</a></p>\n<p>Points: 183</p>\n<p># Comments: 53</p>",
+    "published": "2026-04-04T16:57:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: A game where you build a GPU",
+    "link": "https://jaso1024.com/mvidia/",
+    "summary": "<p>Thought the resources for GPU arch were lacking, so here we are</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640728\">https://news.ycombinator.com/item?id=47640728</a></p>\n<p>Points: 733</p>\n<p># Comments: 156</p>",
+    "published": "2026-04-04T16:45:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+    "link": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs\">https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640380\">https://news.ycombinator.com/item?id=47640380</a></p>\n<p>Points: 427</p>\n<p># Comments: 189</p>",
+    "published": "2026-04-04T16:16:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+    "link": "https://sllm.cloud",
+    "summary": "<p>Running DeepSeek V3 (685B) requires 8×H100 GPUs which is about $14k/month. Most developers only need 15-25 tok/s. sllm lets you join a cohort of developers sharing a dedicated node. You reserve a spot with your card, and nobody is charged until the cohort fills. Prices start at $5/mo for smaller models.<p>The LLMs are completely private (we don't log any traffic).<p>The API is OpenAI-compatible (we run vLLM), so you just swap the base URL. Currently offering a few models.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639779\">https://news.ycombinator.com/item?id=47639779</a></p>\n<p>Points: 158</p>\n<p># Comments: 78</p>",
+    "published": "2026-04-04T15:18:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+    "link": "https://github.com/teamchong/turboquant-wasm",
+    "summary": "<p>Article URL: <a href=\"https://github.com/teamchong/turboquant-wasm\">https://github.com/teamchong/turboquant-wasm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639567\">https://news.ycombinator.com/item?id=47639567</a></p>\n<p>Points: 153</p>\n<p># Comments: 6</p>",
+    "published": "2026-04-04T14:53:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I made open source, zero power PCB hackathon badges",
+    "link": "https://github.com/KaiPereira/Overglade-Badges",
+    "summary": "<p>I love getting cool swag from hackathons and I also love designing PCB's, so when my friend asked me if I would design hackathon badges for a large game jam in singapore, I was absolutely down!<p>The theme of overglade was a \"The game jam within a game\", pretty cool concept right! High schoolers from around the world were flown out to the event by hackclub after they spent about 70 hours designing their own game.<p>These badges needed to be really cheap and simple, because we were going to manufacture about a hundred in a pretty limited amount of time. I went with a zero-power approach, which means sticking with e-inks, and I decided to include NFC if the organizers wanted to introduce it into the roleplay of the event, and so participants could add their website or github if they so choose!<p>I used an RP2040-based architecture because it's really easy and cheap to get on the first try, and then added an ST25 passive NFC tag which was really simple to configure. The badge is in the shape of a ticket, because you got a \"ticket\" to the event after spending a lot of time designing games to qualify! 20 GPIO's are broken out onto the edges if you're ever in a pinch at a hackathon, and I wanted the badges to feel really fun so there's a lot of art designed by various people in the community!<p>The badge worked really well and I learned quite a lot in the process. My takeaways are to manufacture a BUNCH of extra badges, because some will end up breaking; to think about your PCB in 3D, because one of the inductors was a bit tall and caused more badges to break; and to have a strong vision of your final product, because it really helped me to create something unique and beautiful :D<p>I like to journal about all my projects, so if you'd like to read my full design process, feel free to take a look at my journal (<a href=\"https://github.com/KaiPereira/Overglade-Badges/blob/master/JOURNAL.md\" rel=\"nofollow\">https://github.com/KaiPereira/Overglade-Badges/blob/master/J...</a>). If you also have any questions or feedback, I'd be happy to answer them!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639303\">https://news.ycombinator.com/item?id=47639303</a></p>\n<p>Points: 97</p>\n<p># Comments: 10</p>",
+    "published": "2026-04-04T14:20:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Indie Internet Index – submit your favorite sites",
+    "link": "https://iii.social",
+    "summary": "<p>Article URL: <a href=\"https://iii.social\">https://iii.social</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639291\">https://news.ycombinator.com/item?id=47639291</a></p>\n<p>Points: 143</p>\n<p># Comments: 28</p>",
+    "published": "2026-04-04T14:18:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Components of a Coding Agent",
+    "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/components-of-a-coding-agent\">https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47638810\">https://news.ycombinator.com/item?id=47638810</a></p>\n<p>Points: 232</p>\n<p># Comments: 73</p>",
+    "published": "2026-04-04T13:16:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Uber and Lyft Offer Gas Price Relief, but Drivers Say It’s Not Enough",
     "link": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
     "summary": "As fuel costs go up, making a living as a gig driver is harder than ever.",
     "published": "2026-04-04T09:01:00",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Emotion concepts and their function in a large language model",
-    "link": "https://www.anthropic.com/research/emotion-concepts-function",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/emotion-concepts-function\">https://www.anthropic.com/research/emotion-concepts-function</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47636435\">https://news.ycombinator.com/item?id=47636435</a></p>\n<p>Points: 43</p>\n<p># Comments: 34</p>",
-    "published": "2026-04-04T06:30:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Scientists are working on \"everything vaccines\"",
-    "link": "https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines",
-    "summary": "<p>Article URL: <a href=\"https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines\">https://economist.com/science-and-technology/2026/04/01/scientists-are-working-on-everything-vaccines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47636203\">https://news.ycombinator.com/item?id=47636203</a></p>\n<p>Points: 21</p>\n<p># Comments: 15</p>",
-    "published": "2026-04-04T05:47:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
-    "link": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
-    "summary": "<p>Article URL: <a href=\"https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr\">https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47635056\">https://news.ycombinator.com/item?id=47635056</a></p>\n<p>Points: 176</p>\n<p># Comments: 114</p>",
-    "published": "2026-04-04T02:30:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-    "link": "https://github.com/borski/travel-hacking-toolkit",
-    "summary": "<p>I use points and miles for most of my travel. Every booking comes down to the same decision: use points or pay cash? To answer that, you need award availability across multiple programs, cash prices, your current balances, transfer partner ratios, and the math to compare them. I got tired of doing it manually across a dozen tabs.<p>This toolkit teaches Claude Code and OpenCode how to do it. 7 skills (markdown files with API docs and curl examples) and 6 MCP servers (real-time tools the AI calls directly).<p>It searches award flights across 25+ mileage programs (Seats.aero), compares cash prices (Google Flights, Skiplagged, Kiwi.com, Duffel), pulls your loyalty balances (AwardWallet), searches hotels (Trivago, LiteAPI, Airbnb, Booking.com), finds ferry routes across 33 countries, and looks up weird hidden gems near your destination (Atlas Obscura).<p>Reference data is included: transfer partner ratios for Chase UR, Amex MR, Bilt, Capital One, and Citi TY. Point valuations sourced from TPG, Upgraded Points, OMAAT, and View From The Wing. Alliance membership, sweet spot redemptions, booking windows, hotel chain brand lookups.<p>5 of the 6 MCP servers need zero API keys. Clone, run setup.sh, start \nsearching.<p>Skills are, as usual, plain markdown. They work in OpenCode and Claude Code automatically (I added a tiny setup script), and they'll work in anything else that supports skills.<p>PRs welcome! Help me expand the toolkit! :)<p><a href=\"https://github.com/borski/travel-hacking-toolkit\" rel=\"nofollow\">https://github.com/borski/travel-hacking-toolkit</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47635033\">https://news.ycombinator.com/item?id=47635033</a></p>\n<p>Points: 70</p>\n<p># Comments: 30</p>",
-    "published": "2026-04-04T02:26:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Delve removed from Y Combinator",
-    "link": "https://www.ycombinator.com/companies/delve",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/delve\">https://www.ycombinator.com/companies/delve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47634690\">https://news.ycombinator.com/item?id=47634690</a></p>\n<p>Points: 285</p>\n<p># Comments: 175</p>",
-    "published": "2026-04-04T01:37:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The FAA’s flight restriction for drones is an attempt to criminalize filming ICE",
-    "link": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice\">https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633947\">https://news.ycombinator.com/item?id=47633947</a></p>\n<p>Points: 387</p>\n<p># Comments: 111</p>",
-    "published": "2026-04-03T23:56:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "link": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "summary": "<p>Article URL: <a href=\"https://mtlynch.io/claude-code-found-linux-vulnerability/\">https://mtlynch.io/claude-code-found-linux-vulnerability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633855\">https://news.ycombinator.com/item?id=47633855</a></p>\n<p>Points: 38</p>\n<p># Comments: 14</p>",
-    "published": "2026-04-03T23:46:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "link": "https://news.ycombinator.com/item?id=47633396",
-    "summary": "<p>Received the following email from Anthropic:<p>Hi,<p>Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.<p>Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).<p>To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).<p>We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633396\">https://news.ycombinator.com/item?id=47633396</a></p>\n<p>Points: 655</p>\n<p># Comments: 542</p>",
-    "published": "2026-04-03T22:55:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fake Fans",
-    "link": "https://www.wordsfromeliza.com/p/fake-fans",
-    "summary": "<p>Article URL: <a href=\"https://www.wordsfromeliza.com/p/fake-fans\">https://www.wordsfromeliza.com/p/fake-fans</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633157\">https://news.ycombinator.com/item?id=47633157</a></p>\n<p>Points: 108</p>\n<p># Comments: 20</p>",
-    "published": "2026-04-03T22:26:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Run Linux containers on Android, no root required",
-    "link": "https://github.com/ExTV/Podroid",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ExTV/Podroid\">https://github.com/ExTV/Podroid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633131\">https://news.ycombinator.com/item?id=47633131</a></p>\n<p>Points: 117</p>\n<p># Comments: 40</p>",
-    "published": "2026-04-03T22:23:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The house is a work of art: Frank Lloyd Wright",
-    "link": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
-    "summary": "<p>Article URL: <a href=\"https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition\">https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47633116\">https://news.ycombinator.com/item?id=47633116</a></p>\n<p>Points: 83</p>\n<p># Comments: 35</p>",
-    "published": "2026-04-03T22:22:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
-    "link": "https://jobs.ashbyhq.com/charge-robotics",
-    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/charge-robotics\">https://jobs.ashbyhq.com/charge-robotics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47632460\">https://news.ycombinator.com/item?id=47632460</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-03T21:21:13",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "NASA’s Artemis II Astronauts Took iPhones Into Space",
@@ -98,20 +161,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Artemis II crew take “spectacular” image of Earth",
-    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-    "summary": "<p><a href=\"https://www.nasa.gov/image-detail/fd02_for-pao/\" rel=\"nofollow\">https://www.nasa.gov/image-detail/fd02_for-pao/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47631118\">https://news.ycombinator.com/item?id=47631118</a></p>\n<p>Points: 745</p>\n<p># Comments: 259</p>",
-    "published": "2026-04-03T19:35:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
-    "link": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-    "summary": "<p>Article URL: <a href=\"https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/\">https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47630576\">https://news.ycombinator.com/item?id=47630576</a></p>\n<p>Points: 105</p>\n<p># Comments: 46</p>",
-    "published": "2026-04-03T18:54:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok",
     "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
     "summary": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
@@ -119,53 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why are we still using Markdown?",
-    "link": "https://bgslabs.org/blog/why-are-we-using-markdown/",
-    "summary": "<p>Article URL: <a href=\"https://bgslabs.org/blog/why-are-we-using-markdown/\">https://bgslabs.org/blog/why-are-we-using-markdown/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47629903\">https://news.ycombinator.com/item?id=47629903</a></p>\n<p>Points: 121</p>\n<p># Comments: 187</p>",
-    "published": "2026-04-03T18:03:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
     "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
     "summary": "OpenAI said the deal would help it “create a space for a real, constructive conversation about the changes A.I. creates.”",
     "published": "2026-04-03T17:53:29",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "iNaturalist",
-    "link": "https://www.inaturalist.org/",
-    "summary": "<p>Article URL: <a href=\"https://www.inaturalist.org/\">https://www.inaturalist.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47629433\">https://news.ycombinator.com/item?id=47629433</a></p>\n<p>Points: 417</p>\n<p># Comments: 107</p>",
-    "published": "2026-04-03T17:22:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Go on Embedded Systems and WebAssembly",
-    "link": "https://tinygo.org/",
-    "summary": "<p>Article URL: <a href=\"https://tinygo.org/\">https://tinygo.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47629116\">https://news.ycombinator.com/item?id=47629116</a></p>\n<p>Points: 160</p>\n<p># Comments: 20</p>",
-    "published": "2026-04-03T16:57:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenClaw privilege escalation vulnerability",
-    "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-    "summary": "<p><a href=\"https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/\" rel=\"nofollow\">https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_...</a><p><a href=\"https://web.archive.org/web/20260403174514/https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_running_openclaw_you_probably_got_hacked/\" rel=\"nofollow\">https://web.archive.org/web/20260403174514/https://old.reddi...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47628608\">https://news.ycombinator.com/item?id=47628608</a></p>\n<p>Points: 362</p>\n<p># Comments: 189</p>",
-    "published": "2026-04-03T16:21:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "F-15E jet shot down over Iran",
-    "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-    "summary": "<p><a href=\"https://theaviationist.com/2026/04/03/iran-f-15e-debris/\" rel=\"nofollow\">https://theaviationist.com/2026/04/03/iran-f-15e-debris/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47628326\">https://news.ycombinator.com/item?id=47628326</a></p>\n<p>Points: 483</p>\n<p># Comments: 1086</p>",
-    "published": "2026-04-03T16:00:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Build your own Dial-up ISP with a Raspberry Pi",
-    "link": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/\">https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47627527\">https://news.ycombinator.com/item?id=47627527</a></p>\n<p>Points: 154</p>\n<p># Comments: 29</p>",
-    "published": "2026-04-03T15:08:16",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "The Revival of the Fashion-Tech Love Affair",
@@ -305,13 +312,6 @@
     "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
     "summary": "The embrace of crypto by financial regulators under President Trump has entered a new, cozier phase.",
     "published": "2026-03-30T15:28:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones",
-    "link": "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html",
-    "summary": "No more YouTube or video games on school laptops. Textbooks and pencils are back. Some seventh graders say they prefer learning offline.",
-    "published": "2026-03-29T16:04:03",
     "source": "NYT > Technology"
   }
 ]
