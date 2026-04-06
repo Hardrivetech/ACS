@@ -1,86 +1,149 @@
 [
   {
-    "title": "Lisette a little language inspired by Rust that compiles to Go",
-    "link": "https://lisette.run/",
-    "summary": "<p>Article URL: <a href=\"https://lisette.run/\">https://lisette.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47646843\">https://news.ycombinator.com/item?id=47646843</a></p>\n<p>Points: 29</p>\n<p># Comments: 16</p>",
-    "published": "2026-04-05T06:57:19",
+    "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
+    "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
+    "summary": "From our jokes and slang to the White House’s policy messaging, internet “brain rot” has escaped our phones to take over … well, everything.",
+    "published": "2026-04-06T09:00:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "France pulls last gold held in US for $15B gain",
+    "link": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "summary": "<p>Article URL: <a href=\"https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/\">https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47658146\">https://news.ycombinator.com/item?id=47658146</a></p>\n<p>Points: 92</p>\n<p># Comments: 66</p>",
+    "published": "2026-04-06T08:03:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Aegis – open-source FPGA silicon",
-    "link": "https://github.com/MidstallSoftware/aegis",
-    "summary": "<p>Article URL: <a href=\"https://github.com/MidstallSoftware/aegis\">https://github.com/MidstallSoftware/aegis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47646472\">https://news.ycombinator.com/item?id=47646472</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
-    "published": "2026-04-05T05:50:04",
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "link": "https://drop.com/",
+    "summary": "<p>Article URL: <a href=\"https://drop.com/\">https://drop.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656981\">https://news.ycombinator.com/item?id=47656981</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+    "published": "2026-04-06T04:24:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Modern Generic SVGA driver for Windows 3.1",
-    "link": "https://github.com/PluMGMK/vbesvga.drv",
-    "summary": "<p>Article URL: <a href=\"https://github.com/PluMGMK/vbesvga.drv\">https://github.com/PluMGMK/vbesvga.drv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47646363\">https://news.ycombinator.com/item?id=47646363</a></p>\n<p>Points: 35</p>\n<p># Comments: 5</p>",
-    "published": "2026-04-05T05:28:41",
+    "title": "Make your own ColecoVision at home, part 5",
+    "link": "https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html",
+    "summary": "<p>Article URL: <a href=\"https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html\">https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656758\">https://news.ycombinator.com/item?id=47656758</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-06T03:45:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Introduction to Computer Music (2009) [pdf]",
-    "link": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-    "summary": "<p>Article URL: <a href=\"https://composerprogrammer.com/introductiontocomputermusic.pdf\">https://composerprogrammer.com/introductiontocomputermusic.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47645432\">https://news.ycombinator.com/item?id=47645432</a></p>\n<p>Points: 149</p>\n<p># Comments: 46</p>",
-    "published": "2026-04-05T01:54:29",
+    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice",
+    "link": "https://github.com/mikf/gallery-dl/discussions/9304",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mikf/gallery-dl/discussions/9304\">https://github.com/mikf/gallery-dl/discussions/9304</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656659\">https://news.ycombinator.com/item?id=47656659</a></p>\n<p>Points: 144</p>\n<p># Comments: 46</p>",
+    "published": "2026-04-06T03:28:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
-    "link": "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/",
-    "summary": "<p>Article URL: <a href=\"http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/\">http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47645305\">https://news.ycombinator.com/item?id=47645305</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-    "published": "2026-04-05T01:32:28",
+    "title": "An open-source 240-antenna array to bounce signals off the Moon",
+    "link": "https://moonrf.com/",
+    "summary": "<p>Article URL: <a href=\"https://moonrf.com/\">https://moonrf.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656622\">https://news.ycombinator.com/item?id=47656622</a></p>\n<p>Points: 108</p>\n<p># Comments: 12</p>",
+    "published": "2026-04-06T03:22:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",
-    "link": "https://contrapunk.com/",
-    "summary": "<p>Article URL: <a href=\"https://contrapunk.com/\">https://contrapunk.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47645025\">https://news.ycombinator.com/item?id=47645025</a></p>\n<p>Points: 64</p>\n<p># Comments: 25</p>",
-    "published": "2026-04-05T00:40:18",
+    "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+    "link": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/exQUIZitely/status/2040777977521398151\">https://twitter.com/exQUIZitely/status/2040777977521398151</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656501\">https://news.ycombinator.com/item?id=47656501</a></p>\n<p>Points: 117</p>\n<p># Comments: 68</p>",
+    "published": "2026-04-06T03:03:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
-    "link": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-    "summary": "<p><a href=\"https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqkn37qzlvvzgad5hfd7ut@xv4cihno76wu/\" rel=\"nofollow\">https://lore.kernel.org/lkml/yr3inlzesdb45n6i6lpbimwr7b25kqk...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644864\">https://news.ycombinator.com/item?id=47644864</a></p>\n<p>Points: 277</p>\n<p># Comments: 82</p>",
-    "published": "2026-04-05T00:13:55",
+    "title": "Does coding with LLMs mean more microservices?",
+    "link": "https://ben.page/microservices",
+    "summary": "<p>Article URL: <a href=\"https://ben.page/microservices\">https://ben.page/microservices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656335\">https://news.ycombinator.com/item?id=47656335</a></p>\n<p>Points: 27</p>\n<p># Comments: 12</p>",
+    "published": "2026-04-06T02:33:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Nvim-treesitter (13K+ Stars) is Archived",
-    "link": "https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627",
-    "summary": "<p>Article URL: <a href=\"https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627\">https://github.com/nvim-treesitter/nvim-treesitter/discussions/8627</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644667\">https://news.ycombinator.com/item?id=47644667</a></p>\n<p>Points: 119</p>\n<p># Comments: 38</p>",
-    "published": "2026-04-04T23:39:44",
+    "title": "Case study: recovery of a corrupted 12 TB multi-device pool",
+    "link": "https://github.com/kdave/btrfs-progs/issues/1107",
+    "summary": "<p>Article URL: <a href=\"https://github.com/kdave/btrfs-progs/issues/1107\">https://github.com/kdave/btrfs-progs/issues/1107</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47656303\">https://news.ycombinator.com/item?id=47656303</a></p>\n<p>Points: 64</p>\n<p># Comments: 23</p>",
+    "published": "2026-04-06T02:28:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Advice to young people, the lies I tell myself (2024)",
-    "link": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-    "summary": "<p>Article URL: <a href=\"https://jxnl.co/writing/2024/06/01/advice-to-young-people/\">https://jxnl.co/writing/2024/06/01/advice-to-young-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644566\">https://news.ycombinator.com/item?id=47644566</a></p>\n<p>Points: 102</p>\n<p># Comments: 29</p>",
-    "published": "2026-04-04T23:18:54",
+    "title": "Usenet Archives",
+    "link": "https://usenetarchives.com",
+    "summary": "<p>Article URL: <a href=\"https://usenetarchives.com\">https://usenetarchives.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47655905\">https://news.ycombinator.com/item?id=47655905</a></p>\n<p>Points: 51</p>\n<p># Comments: 15</p>",
+    "published": "2026-04-06T01:33:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "German implementation of eIDAS will require an Apple/Google account to function",
-    "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-    "summary": "<p>Article URL: <a href=\"https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\">https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47644406\">https://news.ycombinator.com/item?id=47644406</a></p>\n<p>Points: 238</p>\n<p># Comments: 162</p>",
-    "published": "2026-04-04T22:57:44",
+    "title": "Employers use your personal data to figure out the lowest salary you'll accept",
+    "link": "https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb",
+    "summary": "<p>Article URL: <a href=\"https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb\">https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47655466\">https://news.ycombinator.com/item?id=47655466</a></p>\n<p>Points: 222</p>\n<p># Comments: 119</p>",
+    "published": "2026-04-06T00:29:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
-    "link": "https://static.laszlokorte.de/escher/",
-    "summary": "<p>The latest 3Blue1Brown video [1] about the M. C. Escher print gallery effect inspired me to re-implement the effect as WebGL fragment shader on my own.<p>[1]: <a href=\"https://www.youtube.com/watch?v=ldxFjLJ3rVY\" rel=\"nofollow\">https://www.youtube.com/watch?v=ldxFjLJ3rVY</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47642601\">https://news.ycombinator.com/item?id=47642601</a></p>\n<p>Points: 77</p>\n<p># Comments: 12</p>",
-    "published": "2026-04-04T19:43:54",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "link": "https://github.com/arman-bd/guppylm",
+    "summary": "<p>Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.<p>Fork it and swap the personality for your own character.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47655408\">https://news.ycombinator.com/item?id=47655408</a></p>\n<p>Points: 475</p>\n<p># Comments: 43</p>",
+    "published": "2026-04-06T00:20:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How many products does Microsoft have named 'Copilot'?",
-    "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-    "summary": "<p>Article URL: <a href=\"https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html\">https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47642569\">https://news.ycombinator.com/item?id=47642569</a></p>\n<p>Points: 632</p>\n<p># Comments: 301</p>",
-    "published": "2026-04-04T19:39:43",
+    "title": "Show HN: I made a YouTube search form with advanced filters",
+    "link": "https://playlists.at/youtube/search/",
+    "summary": "<p>Article URL: <a href=\"https://playlists.at/youtube/search/\">https://playlists.at/youtube/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47655392\">https://news.ycombinator.com/item?id=47655392</a></p>\n<p>Points: 225</p>\n<p># Comments: 136</p>",
+    "published": "2026-04-06T00:18:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "link": "https://github.com/kessler/gemma-gem",
+    "summary": "<p>Gemma Gem is a Chrome extension that loads Google's Gemma 4 (2B) through WebGPU in an offscreen document and gives it tools to interact with any webpage: read content, take screenshots, click elements, type text, scroll, and run JavaScript.<p>You get a small chat overlay on every page. Ask it about the page and it (usually) figures out which tools to call. It has a thinking mode that shows chain-of-thought reasoning as it works.<p>It's a 2B model in a browser. It works for simple page questions and running JavaScript, but multi-step tool chains are unreliable and it sometimes ignores its tools entirely. The agent loop has zero external dependencies and can be extracted as a standalone library if anyone wants to experiment with it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47655367\">https://news.ycombinator.com/item?id=47655367</a></p>\n<p>Points: 80</p>\n<p># Comments: 14</p>",
+    "published": "2026-04-06T00:14:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",
+    "link": "https://github.com/mohshomis/modo",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mohshomis/modo\">https://github.com/mohshomis/modo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47655268\">https://news.ycombinator.com/item?id=47655268</a></p>\n<p>Points: 49</p>\n<p># Comments: 10</p>",
+    "published": "2026-04-05T23:59:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gemma 4 on iPhone",
+    "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "summary": "<p>Article URL: <a href=\"https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337\">https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47652561\">https://news.ycombinator.com/item?id=47652561</a></p>\n<p>Points: 640</p>\n<p># Comments: 172</p>",
+    "published": "2026-04-05T18:45:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Switzerland has 25 Gbit internet and America doesn't",
+    "link": "https://sschueller.github.io/posts/the-free-market-lie/",
+    "summary": "<p>Article URL: <a href=\"https://sschueller.github.io/posts/the-free-market-lie/\">https://sschueller.github.io/posts/the-free-market-lie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47652400\">https://news.ycombinator.com/item?id=47652400</a></p>\n<p>Points: 498</p>\n<p># Comments: 373</p>",
+    "published": "2026-04-05T18:29:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Music for Programming",
+    "link": "https://musicforprogramming.net",
+    "summary": "<p>Article URL: <a href=\"https://musicforprogramming.net\">https://musicforprogramming.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47652322\">https://news.ycombinator.com/item?id=47652322</a></p>\n<p>Points: 204</p>\n<p># Comments: 85</p>",
+    "published": "2026-04-05T18:23:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "link": "https://github.com/fikrikarim/parlor",
+    "summary": "<p>Related: <a href=\"https://news.ycombinator.com/item?id=47653752\">https://news.ycombinator.com/item?id=47653752</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47652007\">https://news.ycombinator.com/item?id=47652007</a></p>\n<p>Points: 87</p>\n<p># Comments: 5</p>",
+    "published": "2026-04-05T17:53:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "link": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "summary": "<p>See also <a href=\"https://x.com/stevesi/status/2036921223150440542\" rel=\"nofollow\">https://x.com/stevesi/status/2036921223150440542</a> (<a href=\"https://xcancel.com/stevesi/status/2036921223150440542\" rel=\"nofollow\">https://xcancel.com/stevesi/status/2036921223150440542</a>)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47651703\">https://news.ycombinator.com/item?id=47651703</a></p>\n<p>Points: 455</p>\n<p># Comments: 283</p>",
+    "published": "2026-04-05T17:27:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "link": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "summary": "<p>Article URL: <a href=\"https://ai.georgeliu.com/p/running-google-gemma-4-locally-with\">https://ai.georgeliu.com/p/running-google-gemma-4-locally-with</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47651540\">https://news.ycombinator.com/item?id=47651540</a></p>\n<p>Points: 280</p>\n<p># Comments: 67</p>",
+    "published": "2026-04-05T17:13:51",
     "source": "Hacker News: Front Page"
   },
   {
@@ -89,62 +152,6 @@
     "summary": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
     "published": "2026-04-04T18:10:37",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "LLM Wiki – example of an \"idea file\"",
-    "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "summary": "<p><a href=\"https://x.com/karpathy/status/2040470801506541998\" rel=\"nofollow\">https://x.com/karpathy/status/2040470801506541998</a><p><a href=\"https://xcancel.com/karpathy/status/2040470801506541998\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2040470801506541998</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640875\">https://news.ycombinator.com/item?id=47640875</a></p>\n<p>Points: 183</p>\n<p># Comments: 53</p>",
-    "published": "2026-04-04T16:57:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: A game where you build a GPU",
-    "link": "https://jaso1024.com/mvidia/",
-    "summary": "<p>Thought the resources for GPU arch were lacking, so here we are</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640728\">https://news.ycombinator.com/item?id=47640728</a></p>\n<p>Points: 733</p>\n<p># Comments: 156</p>",
-    "published": "2026-04-04T16:45:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-    "link": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs\">https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47640380\">https://news.ycombinator.com/item?id=47640380</a></p>\n<p>Points: 427</p>\n<p># Comments: 189</p>",
-    "published": "2026-04-04T16:16:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-    "link": "https://sllm.cloud",
-    "summary": "<p>Running DeepSeek V3 (685B) requires 8×H100 GPUs which is about $14k/month. Most developers only need 15-25 tok/s. sllm lets you join a cohort of developers sharing a dedicated node. You reserve a spot with your card, and nobody is charged until the cohort fills. Prices start at $5/mo for smaller models.<p>The LLMs are completely private (we don't log any traffic).<p>The API is OpenAI-compatible (we run vLLM), so you just swap the base URL. Currently offering a few models.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639779\">https://news.ycombinator.com/item?id=47639779</a></p>\n<p>Points: 158</p>\n<p># Comments: 78</p>",
-    "published": "2026-04-04T15:18:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
-    "link": "https://github.com/teamchong/turboquant-wasm",
-    "summary": "<p>Article URL: <a href=\"https://github.com/teamchong/turboquant-wasm\">https://github.com/teamchong/turboquant-wasm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639567\">https://news.ycombinator.com/item?id=47639567</a></p>\n<p>Points: 153</p>\n<p># Comments: 6</p>",
-    "published": "2026-04-04T14:53:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: I made open source, zero power PCB hackathon badges",
-    "link": "https://github.com/KaiPereira/Overglade-Badges",
-    "summary": "<p>I love getting cool swag from hackathons and I also love designing PCB's, so when my friend asked me if I would design hackathon badges for a large game jam in singapore, I was absolutely down!<p>The theme of overglade was a \"The game jam within a game\", pretty cool concept right! High schoolers from around the world were flown out to the event by hackclub after they spent about 70 hours designing their own game.<p>These badges needed to be really cheap and simple, because we were going to manufacture about a hundred in a pretty limited amount of time. I went with a zero-power approach, which means sticking with e-inks, and I decided to include NFC if the organizers wanted to introduce it into the roleplay of the event, and so participants could add their website or github if they so choose!<p>I used an RP2040-based architecture because it's really easy and cheap to get on the first try, and then added an ST25 passive NFC tag which was really simple to configure. The badge is in the shape of a ticket, because you got a \"ticket\" to the event after spending a lot of time designing games to qualify! 20 GPIO's are broken out onto the edges if you're ever in a pinch at a hackathon, and I wanted the badges to feel really fun so there's a lot of art designed by various people in the community!<p>The badge worked really well and I learned quite a lot in the process. My takeaways are to manufacture a BUNCH of extra badges, because some will end up breaking; to think about your PCB in 3D, because one of the inductors was a bit tall and caused more badges to break; and to have a strong vision of your final product, because it really helped me to create something unique and beautiful :D<p>I like to journal about all my projects, so if you'd like to read my full design process, feel free to take a look at my journal (<a href=\"https://github.com/KaiPereira/Overglade-Badges/blob/master/JOURNAL.md\" rel=\"nofollow\">https://github.com/KaiPereira/Overglade-Badges/blob/master/J...</a>). If you also have any questions or feedback, I'd be happy to answer them!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639303\">https://news.ycombinator.com/item?id=47639303</a></p>\n<p>Points: 97</p>\n<p># Comments: 10</p>",
-    "published": "2026-04-04T14:20:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Indie Internet Index – submit your favorite sites",
-    "link": "https://iii.social",
-    "summary": "<p>Article URL: <a href=\"https://iii.social\">https://iii.social</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47639291\">https://news.ycombinator.com/item?id=47639291</a></p>\n<p>Points: 143</p>\n<p># Comments: 28</p>",
-    "published": "2026-04-04T14:18:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Components of a Coding Agent",
-    "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/components-of-a-coding-agent\">https://magazine.sebastianraschka.com/p/components-of-a-coding-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47638810\">https://news.ycombinator.com/item?id=47638810</a></p>\n<p>Points: 232</p>\n<p># Comments: 73</p>",
-    "published": "2026-04-04T13:16:33",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Uber and Lyft Offer Gas Price Relief, but Drivers Say It’s Not Enough",
