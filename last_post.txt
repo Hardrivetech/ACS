@@ -1,1 +1,1 @@
-How Accurate Are Google’s A.I. Overviews? https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html
+The Git Commands I Run Before Reading Any Code https://piechowski.io/post/git-commands-before-reading-code/
