@@ -1,99 +1,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-04-09</lastmod>
+    <lastmod>2026-04-10</lastmod>
   </url>
   <url>
-    <loc>https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html</loc>
-    <lastmod>2026-04-09T09:25:28</lastmod>
+    <loc>https://www.nature.com/articles/d41586-026-01100-y</loc>
+    <lastmod>2026-04-10T08:44:37</lastmod>
   </url>
   <url>
-    <loc>https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element</loc>
-    <lastmod>2026-04-09T09:11:37</lastmod>
+    <loc>https://www.openpolicy.sh/blog/no-build-astro</loc>
+    <lastmod>2026-04-10T08:13:38</lastmod>
   </url>
   <url>
-    <loc>https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/</loc>
-    <lastmod>2026-04-09T08:55:18</lastmod>
+    <loc>https://www.ansto.gov.au/news/artemis-ii-and-invisible-hazard-on-way-to-moon-part-1</loc>
+    <lastmod>2026-04-10T07:04:17</lastmod>
   </url>
   <url>
-    <loc>https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/</loc>
-    <lastmod>2026-04-09T07:27:25</lastmod>
+    <loc>https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia</loc>
+    <lastmod>2026-04-10T06:15:46</lastmod>
+  </url>
+  <url>
+    <loc>https://pocketables.com/2026/04/ai-music-corporate-control-and-the-creator-who-cant-even-leave.html</loc>
+    <lastmod>2026-04-10T05:03:22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer</loc>
+    <lastmod>2026-04-10T04:43:05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.co.uk/news/articles/c2evppm30p7o</loc>
+    <lastmod>2026-04-10T04:17:28</lastmod>
+  </url>
+  <url>
+    <loc>https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html</loc>
+    <lastmod>2026-04-10T04:04:57</lastmod>
+  </url>
+  <url>
+    <loc>https://jcs.org/2026/04/09/openbsd-dm250</loc>
+    <lastmod>2026-04-10T03:29:14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cockroachlabs.com/blog/raft-is-so-fetch/</loc>
+    <lastmod>2026-04-10T03:03:14</lastmod>
+  </url>
+  <url>
+    <loc>https://david.coffee/i-still-prefer-mcp-over-skills/</loc>
+    <lastmod>2026-04-10T02:01:48</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.gitbutler.com/series-a</loc>
+    <lastmod>2026-04-10T01:52:58</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html</loc>
+    <lastmod>2026-04-09T21:52:09</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.kagi.com/tips/redirects</loc>
+    <lastmod>2026-04-09T21:34:11</lastmod>
+  </url>
+  <url>
+    <loc>https://charcuterie.elastiq.ch/</loc>
+    <lastmod>2026-04-09T20:12:07</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/aloshdenny/reverse-SynthID</loc>
+    <lastmod>2026-04-09T20:10:25</lastmod>
+  </url>
+  <url>
+    <loc>https://arhan.sh/blog/native-instant-space-switching-on-macos/</loc>
+    <lastmod>2026-04-09T19:48:26</lastmod>
+  </url>
+  <url>
+    <loc>https://eaw.app/picoz80/</loc>
+    <lastmod>2026-04-09T18:53:20</lastmod>
+  </url>
+  <url>
+    <loc>https://hegel.dev</loc>
+    <lastmod>2026-04-09T18:37:45</lastmod>
+  </url>
+  <url>
+    <loc>https://www.instantdb.com/essays/architecture</loc>
+    <lastmod>2026-04-09T18:30:59</lastmod>
+  </url>
+  <url>
+    <loc>https://colaptop.pages.dev/</loc>
+    <lastmod>2026-04-09T18:22:39</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html</loc>
+    <lastmod>2026-04-09T17:58:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html</loc>
+    <lastmod>2026-04-09T16:01:35</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html</loc>
     <lastmod>2026-04-09T07:23:07</lastmod>
   </url>
   <url>
-    <loc>https://botctl.dev/</loc>
-    <lastmod>2026-04-09T06:00:55</lastmod>
-  </url>
-  <url>
-    <loc>https://astral.sh/blog/open-source-security-at-astral</loc>
-    <lastmod>2026-04-09T04:11:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html</loc>
-    <lastmod>2026-04-09T04:01:11</lastmod>
-  </url>
-  <url>
-    <loc>https://obdev.at/products/littlesnitch-linux/index.html</loc>
-    <lastmod>2026-04-09T00:26:08</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html</loc>
     <lastmod>2026-04-09T00:19:59</lastmod>
-  </url>
-  <url>
-    <loc>https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement</loc>
-    <lastmod>2026-04-08T20:46:27</lastmod>
-  </url>
-  <url>
-    <loc>https://werwolv.net/posts/usb_for_sw_devs/</loc>
-    <lastmod>2026-04-08T19:23:34</lastmod>
-  </url>
-  <url>
-    <loc>https://swift.org/blog/expanding-swift-ide-support/</loc>
-    <lastmod>2026-04-08T19:21:41</lastmod>
-  </url>
-  <url>
-    <loc>https://kalmanfilter.net</loc>
-    <lastmod>2026-04-08T17:11:46</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html</loc>
     <lastmod>2026-04-08T16:50:33</lastmod>
   </url>
   <url>
-    <loc>https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1</loc>
-    <lastmod>2026-04-08T16:01:32</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html</loc>
     <lastmod>2026-04-08T15:55:56</lastmod>
-  </url>
-  <url>
-    <loc>https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html</loc>
-    <lastmod>2026-04-08T15:40:00</lastmod>
-  </url>
-  <url>
-    <loc>https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess</loc>
-    <lastmod>2026-04-08T13:06:33</lastmod>
-  </url>
-  <url>
-    <loc>https://arxiv.org/abs/2604.05091</loc>
-    <lastmod>2026-04-08T12:19:00</lastmod>
-  </url>
-  <url>
-    <loc>http://www.terrybisson.com/theyre-made-out-of-meat-2/</loc>
-    <lastmod>2026-04-08T11:20:50</lastmod>
-  </url>
-  <url>
-    <loc>https://piechowski.io/post/git-commands-before-reading-code/</loc>
-    <lastmod>2026-04-08T08:53:42</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html</loc>
-    <lastmod>2026-04-08T04:37:57</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html</loc>
@@ -110,14 +126,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html</loc>
     <lastmod>2026-04-07T17:57:16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.perfectlynormal.co.uk/blog-kl-divergence</loc>
-    <lastmod>2026-04-07T17:34:13</lastmod>
-  </url>
-  <url>
-    <loc>https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/</loc>
-    <lastmod>2026-04-07T15:07:45</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html</loc>
@@ -152,15 +160,7 @@
     <lastmod>2026-04-02T09:04:00</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html</loc>
-    <lastmod>2026-04-02T09:02:30</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html</loc>
     <lastmod>2026-04-02T09:01:52</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html</loc>
-    <lastmod>2026-04-01T22:14:50</lastmod>
   </url>
 </urlset>
