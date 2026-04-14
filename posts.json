@@ -1,93 +1,163 @@
 [
   {
-    "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
-    "summary": "<p>Article URL: <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880\">https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47749222\">https://news.ycombinator.com/item?id=47749222</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
-    "published": "2026-04-13T08:13:40",
+    "title": "I Feel So Sorry for My A.I. Sunglasses",
+    "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+    "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
+    "published": "2026-04-14T09:02:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "An AI Vibe Coding Horror Story",
+    "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "summary": "<p>Article URL: <a href=\"https://www.tobru.ch/an-ai-vibe-coding-horror-story/\">https://www.tobru.ch/an-ai-vibe-coding-horror-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762901\">https://news.ycombinator.com/item?id=47762901</a></p>\n<p>Points: 101</p>\n<p># Comments: 71</p>",
+    "published": "2026-04-14T08:35:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
-    "link": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-    "summary": "<p>Article URL: <a href=\"https://www.viktorcessan.com/the-economics-of-software-teams/\">https://www.viktorcessan.com/the-economics-of-software-teams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47748064\">https://news.ycombinator.com/item?id=47748064</a></p>\n<p>Points: 146</p>\n<p># Comments: 72</p>",
-    "published": "2026-04-13T05:45:32",
+    "title": "Backblaze has stopped backing up your data",
+    "link": "https://rareese.com/posts/backblaze/",
+    "summary": "<p>Article URL: <a href=\"https://rareese.com/posts/backblaze/\">https://rareese.com/posts/backblaze/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762864\">https://news.ycombinator.com/item?id=47762864</a></p>\n<p>Points: 60</p>\n<p># Comments: 22</p>",
+    "published": "2026-04-14T08:30:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A Canonical Generalization of OBDD",
-    "link": "https://arxiv.org/abs/2604.05537",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.05537\">https://arxiv.org/abs/2604.05537</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47747595\">https://news.ycombinator.com/item?id=47747595</a></p>\n<p>Points: 15</p>\n<p># Comments: 6</p>",
-    "published": "2026-04-13T04:26:15",
+    "title": "Introspective Diffusion Language Models",
+    "link": "https://introspective-diffusion.github.io/",
+    "summary": "<p>Article URL: <a href=\"https://introspective-diffusion.github.io/\">https://introspective-diffusion.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762641\">https://news.ycombinator.com/item?id=47762641</a></p>\n<p>Points: 36</p>\n<p># Comments: 9</p>",
+    "published": "2026-04-14T07:57:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Haunt, the 70s text adventure game, is now playable on a website",
-    "link": "https://haunt.madebywindmill.com",
-    "summary": "<p>Article URL: <a href=\"https://haunt.madebywindmill.com\">https://haunt.madebywindmill.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47747248\">https://news.ycombinator.com/item?id=47747248</a></p>\n<p>Points: 59</p>\n<p># Comments: 19</p>",
-    "published": "2026-04-13T03:31:02",
+    "title": "The secrets of the Shinkansen",
+    "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+    "summary": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/the-secret-behind-japans-railways\">https://www.worksinprogress.news/p/the-secret-behind-japans-railways</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762060\">https://news.ycombinator.com/item?id=47762060</a></p>\n<p>Points: 76</p>\n<p># Comments: 58</p>",
+    "published": "2026-04-14T06:41:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-    "link": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-    "summary": "<p>Article URL: <a href=\"https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end\">https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47747017\">https://news.ycombinator.com/item?id=47747017</a></p>\n<p>Points: 196</p>\n<p># Comments: 197</p>",
-    "published": "2026-04-13T02:53:10",
+    "title": "Distributed DuckDB Instance",
+    "link": "https://github.com/citguru/openduck",
+    "summary": "<p>Article URL: <a href=\"https://github.com/citguru/openduck\">https://github.com/citguru/openduck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761997\">https://news.ycombinator.com/item?id=47761997</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
+    "published": "2026-04-14T06:31:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "All elementary functions from a single binary operator",
-    "link": "https://arxiv.org/abs/2603.21852",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.21852\">https://arxiv.org/abs/2603.21852</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47746610\">https://news.ycombinator.com/item?id=47746610</a></p>\n<p>Points: 410</p>\n<p># Comments: 115</p>",
-    "published": "2026-04-13T01:49:32",
+    "title": "Roblox devs now need a subscription to share their games freely",
+    "link": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+    "summary": "<p>Article URL: <a href=\"https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166\">https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761825\">https://news.ycombinator.com/item?id=47761825</a></p>\n<p>Points: 51</p>\n<p># Comments: 47</p>",
+    "published": "2026-04-14T06:04:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+    "link": "https://github.com/lasect/pg_6502",
+    "summary": "<p>Article URL: <a href=\"https://github.com/lasect/pg_6502\">https://github.com/lasect/pg_6502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761723\">https://news.ycombinator.com/item?id=47761723</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+    "published": "2026-04-14T05:46:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+    "link": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "summary": "<p>Article URL: <a href=\"https://kirancodes.me/posts/log-distributed-llms.html\">https://kirancodes.me/posts/log-distributed-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761625\">https://news.ycombinator.com/item?id=47761625</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
+    "published": "2026-04-14T05:32:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TanStack Start Now Support React Server Components",
+    "link": "https://tanstack.com/blog/react-server-components",
+    "summary": "<p>Article URL: <a href=\"https://tanstack.com/blog/react-server-components\">https://tanstack.com/blog/react-server-components</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761609\">https://news.ycombinator.com/item?id=47761609</a></p>\n<p>Points: 58</p>\n<p># Comments: 44</p>",
+    "published": "2026-04-14T05:28:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A new spam policy for “back button hijacking”",
+    "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+    "summary": "<p>Article URL: <a href=\"https://developers.google.com/search/blog/2026/04/back-button-hijacking\">https://developers.google.com/search/blog/2026/04/back-button-hijacking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47760764\">https://news.ycombinator.com/item?id=47760764</a></p>\n<p>Points: 352</p>\n<p># Comments: 212</p>",
+    "published": "2026-04-14T03:06:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DaVinci Resolve – Photo",
+    "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+    "summary": "<p>Article URL: <a href=\"https://www.blackmagicdesign.com/products/davinciresolve/photo\">https://www.blackmagicdesign.com/products/davinciresolve/photo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47760529\">https://news.ycombinator.com/item?id=47760529</a></p>\n<p>Points: 563</p>\n<p># Comments: 140</p>",
+    "published": "2026-04-14T02:25:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Man Held in Attack on OpenAI Chief’s Home Had List of A.I. Leaders, Officials Say",
+    "link": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
+    "summary": "The authorities said a 20-year-old Texas man charged with throwing a homemade bomb at the gate of Sam Altman’s home had written at length about the threat of A.I.",
+    "published": "2026-04-14T01:57:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Lean proved this program correct; then I found a bug",
+    "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+    "summary": "<p>Article URL: <a href=\"https://kirancodes.me/posts/log-who-watches-the-watchers.html\">https://kirancodes.me/posts/log-who-watches-the-watchers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759709\">https://news.ycombinator.com/item?id=47759709</a></p>\n<p>Points: 249</p>\n<p># Comments: 123</p>",
+    "published": "2026-04-14T00:25:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SnapState - Persistent state for AI agent workflows",
+    "link": "https://snapstate.dev",
+    "summary": "<p>Article URL: <a href=\"https://snapstate.dev\">https://snapstate.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759400\">https://news.ycombinator.com/item?id=47759400</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-13T23:42:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+    "link": "https://github.com/fabienmillet/WiiFin",
+    "summary": "<p>Article URL: <a href=\"https://github.com/fabienmillet/WiiFin\">https://github.com/fabienmillet/WiiFin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759341\">https://news.ycombinator.com/item?id=47759341</a></p>\n<p>Points: 158</p>\n<p># Comments: 69</p>",
+    "published": "2026-04-13T23:33:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "link": "https://ndaybench.winfunc.com",
+    "summary": "<p>N-Day-Bench tests whether frontier LLMs can find known security vulnerabilities in real repository code. Each month it pulls fresh cases from GitHub security advisories, checks out the repo at the last commit before the patch, and gives models a sandboxed bash shell to explore the codebase.<p>Static vulnerability discovery benchmarks become outdated quickly. Cases leak into training data, and scores start measuring memorization. The monthly refresh keeps the test set ahead of contamination — or at least makes the contamination window honest.<p>Each case runs three agents: a Curator reads the advisory and builds an answer key, a Finder (the model under test) gets 24 shell steps to explore the code and write a structured report, and a Judge scores the blinded submission. The Finder never sees the patch. It starts from sink hints and must trace the bug through actual code.<p>Only repos with 10k+ stars qualify. A diversity pass prevents any single repo from dominating the set. Ambiguous advisories (merge commits, multi-repo references, unresolvable refs) are dropped.<p>Currently evaluating GPT-5.4, Claude Opus 4.6, Gemini 3.1 Pro, GLM-5.1, and Kimi K2.5. All traces are public.<p>Methodology: <a href=\"https://ndaybench.winfunc.com/methodology\">https://ndaybench.winfunc.com/methodology</a><p>Live Leaderboard: <a href=\"https://ndaybench.winfunc.com/leaderboard\">https://ndaybench.winfunc.com/leaderboard</a><p>Live Traces: <a href=\"https://ndaybench.winfunc.com/traces\">https://ndaybench.winfunc.com/traces</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47758347\">https://news.ycombinator.com/item?id=47758347</a></p>\n<p>Points: 70</p>\n<p># Comments: 19</p>",
+    "published": "2026-04-13T21:54:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GitHub Stacked PRs",
+    "link": "https://github.github.com/gh-stack/",
+    "summary": "<p>Article URL: <a href=\"https://github.github.com/gh-stack/\">https://github.github.com/gh-stack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47757495\">https://news.ycombinator.com/item?id=47757495</a></p>\n<p>Points: 711</p>\n<p># Comments: 375</p>",
+    "published": "2026-04-13T20:36:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How to make Firefox builds 17% faster",
+    "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+    "summary": "<p>Article URL: <a href=\"https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/\">https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47756321\">https://news.ycombinator.com/item?id=47756321</a></p>\n<p>Points: 180</p>\n<p># Comments: 34</p>",
+    "published": "2026-04-13T18:50:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+    "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "summary": "<p>Article URL: <a href=\"https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/\">https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47755629\">https://news.ycombinator.com/item?id=47755629</a></p>\n<p>Points: 946</p>\n<p># Comments: 266</p>",
+    "published": "2026-04-13T17:54:39",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
     "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
     "summary": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
-    "published": "2026-04-12T23:43:47",
+    "published": "2026-04-13T17:54:38",
     "source": "NYT > Technology"
   },
   {
-    "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-    "link": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-    "summary": "<p>Article URL: <a href=\"https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/\">https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47745284\">https://news.ycombinator.com/item?id=47745284</a></p>\n<p>Points: 175</p>\n<p># Comments: 135</p>",
-    "published": "2026-04-12T22:38:45",
+    "title": "Building a CLI for all of Cloudflare",
+    "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cf-cli-local-explorer/\">https://blog.cloudflare.com/cf-cli-local-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47753689\">https://news.ycombinator.com/item?id=47753689</a></p>\n<p>Points: 309</p>\n<p># Comments: 100</p>",
+    "published": "2026-04-13T15:44:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A perfectable programming language",
-    "link": "https://alok.github.io/lean-pages/perfectable-lean/",
-    "summary": "<p>Article URL: <a href=\"https://alok.github.io/lean-pages/perfectable-lean/\">https://alok.github.io/lean-pages/perfectable-lean/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47744540\">https://news.ycombinator.com/item?id=47744540</a></p>\n<p>Points: 130</p>\n<p># Comments: 45</p>",
-    "published": "2026-04-12T21:11:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I ran Gemma 4 as a local model in Codex CLI",
-    "link": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
-    "summary": "<p>Article URL: <a href=\"https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4\">https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47744255\">https://news.ycombinator.com/item?id=47744255</a></p>\n<p>Points: 68</p>\n<p># Comments: 27</p>",
-    "published": "2026-04-12T20:43:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-    "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-    "summary": "<p>Article URL: <a href=\"https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t\">https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47743730\">https://news.ycombinator.com/item?id=47743730</a></p>\n<p>Points: 460</p>\n<p># Comments: 230</p>",
-    "published": "2026-04-12T19:53:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The peril of laziness lost",
-    "link": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-    "summary": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/\">https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47743628\">https://news.ycombinator.com/item?id=47743628</a></p>\n<p>Points: 396</p>\n<p># Comments: 130</p>",
-    "published": "2026-04-12T19:44:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Zed, A sans for the needs of 21st century (2024)",
-    "link": "https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century",
-    "summary": "<p>Article URL: <a href=\"https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century\">https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47743096\">https://news.ycombinator.com/item?id=47743096</a></p>\n<p>Points: 38</p>\n<p># Comments: 15</p>",
-    "published": "2026-04-12T18:55:06",
+    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+    "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "summary": "<p>Article URL: <a href=\"https://github.com/sterlingcrispin/nothing-ever-happens\">https://github.com/sterlingcrispin/nothing-ever-happens</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47753472\">https://news.ycombinator.com/item?id=47753472</a></p>\n<p>Points: 418</p>\n<p># Comments: 234</p>",
+    "published": "2026-04-13T15:31:06",
     "source": "Hacker News: Front Page"
   },
   {
@@ -96,62 +166,6 @@
     "summary": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
     "published": "2026-04-12T18:24:26",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-    "link": "https://boringbar.app/",
-    "summary": "<p>Hi HN!<p>I recently switched from a Fedora/GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar that shows the windows in the current workspace instead of a Dock that mixes everything together.<p>I built boringBar so I would not have to use the Dock. It shows only the windows in the current Space, lets you switch Spaces by scrolling on the bar, and adds a desktop switcher so you can jump directly to any Space. You can also hide the system Dock, pin apps, preview windows with thumbnails, and launch apps from a searchable menu (I keep Spotlight disabled because for some reason it uses a lot of system resources on my machine).<p>I’ve been dogfooding it for a few months now, and it finally felt polished enough to share.<p>It’s for people who like macOS but want window management to feel a bit more like GNOME, Windows, or a traditional taskbar. It’s also for people like me who wanted an easier transition to macOS, especially now that Windows feels increasingly user-hostile.<p>I’d love feedback on the UX, bugs, and whether this solves the same Dock/Spaces pain for anyone else.<p>P.S. It might also appeal to people who feel nostalgic for the GNOME 2 desktop of yore. I started my Linux journey with it, and boringBar brings back some of that feeling for me.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47742200\">https://news.ycombinator.com/item?id=47742200</a></p>\n<p>Points: 378</p>\n<p># Comments: 207</p>",
-    "published": "2026-04-12T17:25:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "EasyPost (YC S13) Is Hiring",
-    "link": "https://www.easypost.com/careers",
-    "summary": "<p>Article URL: <a href=\"https://www.easypost.com/careers\">https://www.easypost.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47741953\">https://news.ycombinator.com/item?id=47741953</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-12T17:01:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DIY Soft Drinks",
-    "link": "https://blinry.org/diy-soft-drinks/",
-    "summary": "<p>Article URL: <a href=\"https://blinry.org/diy-soft-drinks/\">https://blinry.org/diy-soft-drinks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47741701\">https://news.ycombinator.com/item?id=47741701</a></p>\n<p>Points: 455</p>\n<p># Comments: 129</p>",
-    "published": "2026-04-12T16:38:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: What Are You Working On? (April 2026)",
-    "link": "https://news.ycombinator.com/item?id=47741527",
-    "summary": "<p>What are you working on?  Any new ideas that you're thinking about?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47741527\">https://news.ycombinator.com/item?id=47741527</a></p>\n<p>Points: 227</p>\n<p># Comments: 721</p>",
-    "published": "2026-04-12T16:24:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How long-distance couples use digital games to facilitate intimacy (2025)",
-    "link": "https://arxiv.org/abs/2505.09509",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2505.09509\">https://arxiv.org/abs/2505.09509</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47741460\">https://news.ycombinator.com/item?id=47741460</a></p>\n<p>Points: 99</p>\n<p># Comments: 31</p>",
-    "published": "2026-04-12T16:17:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Seven countries now generate nearly all their electricity from renewables (2024)",
-    "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-    "summary": "<p>Article URL: <a href=\"https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html\">https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739313\">https://news.ycombinator.com/item?id=47739313</a></p>\n<p>Points: 582</p>\n<p># Comments: 353</p>",
-    "published": "2026-04-12T13:21:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-    "link": "https://github.com/anthropics/claude-code/issues/45756",
-    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/45756\">https://github.com/anthropics/claude-code/issues/45756</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739260\">https://news.ycombinator.com/item?id=47739260</a></p>\n<p>Points: 647</p>\n<p># Comments: 575</p>",
-    "published": "2026-04-12T13:15:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-    "link": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-    "summary": "<p>Article URL: <a href=\"https://github.com/rochus-keller/OberonSystem3Native/releases\">https://github.com/rochus-keller/OberonSystem3Native/releases</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47739174\">https://news.ycombinator.com/item?id=47739174</a></p>\n<p>Points: 196</p>\n<p># Comments: 49</p>",
-    "published": "2026-04-12T13:06:44",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO",
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
     "summary": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
     "published": "2026-04-03T18:23:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
-    "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
-    "summary": "OpenAI said the deal would help it “create a space for a real, constructive conversation about the changes A.I. creates.”",
-    "published": "2026-04-03T17:53:29",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Europe Pushes for a Gentler Internet for Children",
-    "link": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
-    "summary": "The European Union and national capitals are trying to make social media and algorithms less addictive and safer, especially for children.",
-    "published": "2026-04-02T09:06:33",
     "source": "NYT > Technology"
   }
 ]

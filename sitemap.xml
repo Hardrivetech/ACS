@@ -1,95 +1,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-04-14</lastmod>
   </url>
   <url>
-    <loc>https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880</loc>
-    <lastmod>2026-04-13T08:13:40</lastmod>
+    <loc>https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html</loc>
+    <lastmod>2026-04-14T09:02:11</lastmod>
   </url>
   <url>
-    <loc>https://www.viktorcessan.com/the-economics-of-software-teams/</loc>
-    <lastmod>2026-04-13T05:45:32</lastmod>
+    <loc>https://www.tobru.ch/an-ai-vibe-coding-horror-story/</loc>
+    <lastmod>2026-04-14T08:35:45</lastmod>
   </url>
   <url>
-    <loc>https://arxiv.org/abs/2604.05537</loc>
-    <lastmod>2026-04-13T04:26:15</lastmod>
+    <loc>https://rareese.com/posts/backblaze/</loc>
+    <lastmod>2026-04-14T08:30:27</lastmod>
   </url>
   <url>
-    <loc>https://haunt.madebywindmill.com</loc>
-    <lastmod>2026-04-13T03:31:02</lastmod>
+    <loc>https://introspective-diffusion.github.io/</loc>
+    <lastmod>2026-04-14T07:57:33</lastmod>
   </url>
   <url>
-    <loc>https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end</loc>
-    <lastmod>2026-04-13T02:53:10</lastmod>
+    <loc>https://www.worksinprogress.news/p/the-secret-behind-japans-railways</loc>
+    <lastmod>2026-04-14T06:41:01</lastmod>
   </url>
   <url>
-    <loc>https://arxiv.org/abs/2603.21852</loc>
-    <lastmod>2026-04-13T01:49:32</lastmod>
+    <loc>https://github.com/citguru/openduck</loc>
+    <lastmod>2026-04-14T06:31:44</lastmod>
+  </url>
+  <url>
+    <loc>https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166</loc>
+    <lastmod>2026-04-14T06:04:31</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/lasect/pg_6502</loc>
+    <lastmod>2026-04-14T05:46:49</lastmod>
+  </url>
+  <url>
+    <loc>https://kirancodes.me/posts/log-distributed-llms.html</loc>
+    <lastmod>2026-04-14T05:32:48</lastmod>
+  </url>
+  <url>
+    <loc>https://tanstack.com/blog/react-server-components</loc>
+    <lastmod>2026-04-14T05:28:51</lastmod>
+  </url>
+  <url>
+    <loc>https://developers.google.com/search/blog/2026/04/back-button-hijacking</loc>
+    <lastmod>2026-04-14T03:06:27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.blackmagicdesign.com/products/davinciresolve/photo</loc>
+    <lastmod>2026-04-14T02:25:15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html</loc>
+    <lastmod>2026-04-14T01:57:23</lastmod>
+  </url>
+  <url>
+    <loc>https://kirancodes.me/posts/log-who-watches-the-watchers.html</loc>
+    <lastmod>2026-04-14T00:25:08</lastmod>
+  </url>
+  <url>
+    <loc>https://snapstate.dev</loc>
+    <lastmod>2026-04-13T23:42:32</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/fabienmillet/WiiFin</loc>
+    <lastmod>2026-04-13T23:33:18</lastmod>
+  </url>
+  <url>
+    <loc>https://ndaybench.winfunc.com</loc>
+    <lastmod>2026-04-13T21:54:03</lastmod>
+  </url>
+  <url>
+    <loc>https://github.github.com/gh-stack/</loc>
+    <lastmod>2026-04-13T20:36:49</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/</loc>
+    <lastmod>2026-04-13T18:50:08</lastmod>
+  </url>
+  <url>
+    <loc>https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</loc>
+    <lastmod>2026-04-13T17:54:39</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html</loc>
-    <lastmod>2026-04-12T23:43:47</lastmod>
+    <lastmod>2026-04-13T17:54:38</lastmod>
   </url>
   <url>
-    <loc>https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/</loc>
-    <lastmod>2026-04-12T22:38:45</lastmod>
+    <loc>https://blog.cloudflare.com/cf-cli-local-explorer/</loc>
+    <lastmod>2026-04-13T15:44:02</lastmod>
   </url>
   <url>
-    <loc>https://alok.github.io/lean-pages/perfectable-lean/</loc>
-    <lastmod>2026-04-12T21:11:24</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4</loc>
-    <lastmod>2026-04-12T20:43:08</lastmod>
-  </url>
-  <url>
-    <loc>https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t</loc>
-    <lastmod>2026-04-12T19:53:08</lastmod>
-  </url>
-  <url>
-    <loc>https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/</loc>
-    <lastmod>2026-04-12T19:44:40</lastmod>
-  </url>
-  <url>
-    <loc>https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century</loc>
-    <lastmod>2026-04-12T18:55:06</lastmod>
+    <loc>https://github.com/sterlingcrispin/nothing-ever-happens</loc>
+    <lastmod>2026-04-13T15:31:06</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html</loc>
     <lastmod>2026-04-12T18:24:26</lastmod>
-  </url>
-  <url>
-    <loc>https://boringbar.app/</loc>
-    <lastmod>2026-04-12T17:25:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.easypost.com/careers</loc>
-    <lastmod>2026-04-12T17:01:26</lastmod>
-  </url>
-  <url>
-    <loc>https://blinry.org/diy-soft-drinks/</loc>
-    <lastmod>2026-04-12T16:38:43</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=47741527</loc>
-    <lastmod>2026-04-12T16:24:43</lastmod>
-  </url>
-  <url>
-    <loc>https://arxiv.org/abs/2505.09509</loc>
-    <lastmod>2026-04-12T16:17:59</lastmod>
-  </url>
-  <url>
-    <loc>https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html</loc>
-    <lastmod>2026-04-12T13:21:39</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/anthropics/claude-code/issues/45756</loc>
-    <lastmod>2026-04-12T13:15:31</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/rochus-keller/OberonSystem3Native/releases</loc>
-    <lastmod>2026-04-12T13:06:44</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html</loc>
@@ -154,13 +162,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html</loc>
     <lastmod>2026-04-03T18:23:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html</loc>
-    <lastmod>2026-04-03T17:53:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html</loc>
-    <lastmod>2026-04-02T09:06:33</lastmod>
   </url>
 </urlset>
