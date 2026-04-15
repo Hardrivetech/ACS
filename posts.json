@@ -1,86 +1,170 @@
 [
   {
-    "title": "I Feel So Sorry for My A.I. Sunglasses",
-    "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
-    "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
-    "published": "2026-04-14T09:02:11",
+    "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+    "link": "https://prog21.dadgum.com/30.html",
+    "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/30.html\">https://prog21.dadgum.com/30.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47776796\">https://news.ycombinator.com/item?id=47776796</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+    "published": "2026-04-15T09:41:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
+    "link": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
+    "summary": "<p>Article URL: <a href=\"https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows\">https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47776667\">https://news.ycombinator.com/item?id=47776667</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-15T09:24:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Good Sleep, Good Learning (2012)",
+    "link": "https://super-memory.com/articles/sleep.htm",
+    "summary": "<p>Article URL: <a href=\"https://super-memory.com/articles/sleep.htm\">https://super-memory.com/articles/sleep.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47776557\">https://news.ycombinator.com/item?id=47776557</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-04-15T09:11:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Spice Up Your Cooking Skills With Help From Your Phone",
+    "link": "https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html",
+    "summary": "Recipe apps and artificial intelligence can give you a boost, but free tools already on your device can also assist with meal planning and preparation.",
+    "published": "2026-04-15T09:04:06",
     "source": "NYT > Technology"
   },
   {
-    "title": "An AI Vibe Coding Horror Story",
-    "link": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-    "summary": "<p>Article URL: <a href=\"https://www.tobru.ch/an-ai-vibe-coding-horror-story/\">https://www.tobru.ch/an-ai-vibe-coding-horror-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762901\">https://news.ycombinator.com/item?id=47762901</a></p>\n<p>Points: 101</p>\n<p># Comments: 71</p>",
-    "published": "2026-04-14T08:35:45",
+    "title": "Why It’s Crucial We Understand How A.I. ‘Thinks’",
+    "link": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
+    "summary": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain.",
+    "published": "2026-04-15T09:03:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+    "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+    "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
+    "published": "2026-04-15T09:00:48",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How Older Adults Are Using VR to Counter Social Isolation",
+    "link": "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html",
+    "summary": "New tools tailored for use in senior living communities allow for shared experiences and social bonding.",
+    "published": "2026-04-15T09:00:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "My AI-Assisted Workflow",
+    "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+    "summary": "<p>Article URL: <a href=\"https://www.maiobarbero.dev/articles/ai-assisted-workflow/\">https://www.maiobarbero.dev/articles/ai-assisted-workflow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775653\">https://news.ycombinator.com/item?id=47775653</a></p>\n<p>Points: 35</p>\n<p># Comments: 17</p>",
+    "published": "2026-04-15T07:08:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Backblaze has stopped backing up your data",
-    "link": "https://rareese.com/posts/backblaze/",
-    "summary": "<p>Article URL: <a href=\"https://rareese.com/posts/backblaze/\">https://rareese.com/posts/backblaze/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762864\">https://news.ycombinator.com/item?id=47762864</a></p>\n<p>Points: 60</p>\n<p># Comments: 22</p>",
-    "published": "2026-04-14T08:30:27",
+    "title": "Wacli – WhatsApp CLI: sync, search, send",
+    "link": "https://github.com/steipete/wacli",
+    "summary": "<p>Article URL: <a href=\"https://github.com/steipete/wacli\">https://github.com/steipete/wacli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775628\">https://news.ycombinator.com/item?id=47775628</a></p>\n<p>Points: 95</p>\n<p># Comments: 72</p>",
+    "published": "2026-04-15T07:04:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Introspective Diffusion Language Models",
-    "link": "https://introspective-diffusion.github.io/",
-    "summary": "<p>Article URL: <a href=\"https://introspective-diffusion.github.io/\">https://introspective-diffusion.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762641\">https://news.ycombinator.com/item?id=47762641</a></p>\n<p>Points: 36</p>\n<p># Comments: 9</p>",
-    "published": "2026-04-14T07:57:33",
+    "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
+    "link": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup\">https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775606\">https://news.ycombinator.com/item?id=47775606</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-15T07:00:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The secrets of the Shinkansen",
-    "link": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-    "summary": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/the-secret-behind-japans-railways\">https://www.worksinprogress.news/p/the-secret-behind-japans-railways</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47762060\">https://news.ycombinator.com/item?id=47762060</a></p>\n<p>Points: 76</p>\n<p># Comments: 58</p>",
-    "published": "2026-04-14T06:41:01",
+    "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
+    "link": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
+    "summary": "<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network\">https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775183\">https://news.ycombinator.com/item?id=47775183</a></p>\n<p>Points: 64</p>\n<p># Comments: 35</p>",
+    "published": "2026-04-15T05:54:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Distributed DuckDB Instance",
-    "link": "https://github.com/citguru/openduck",
-    "summary": "<p>Article URL: <a href=\"https://github.com/citguru/openduck\">https://github.com/citguru/openduck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761997\">https://news.ycombinator.com/item?id=47761997</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
-    "published": "2026-04-14T06:31:44",
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "summary": "<p>Article URL: <a href=\"https://www.gizmoweek.com/gemma-4-runs-iphone/\">https://www.gizmoweek.com/gemma-4-runs-iphone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47774971\">https://news.ycombinator.com/item?id=47774971</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
+    "published": "2026-04-15T05:19:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Roblox devs now need a subscription to share their games freely",
-    "link": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
-    "summary": "<p>Article URL: <a href=\"https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166\">https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761825\">https://news.ycombinator.com/item?id=47761825</a></p>\n<p>Points: 51</p>\n<p># Comments: 47</p>",
-    "published": "2026-04-14T06:04:31",
+    "title": "Fixing a 20-year-old bug in Enlightenment E16",
+    "link": "https://iczelia.net/posts/e16-20-year-old-bug/",
+    "summary": "<p>Article URL: <a href=\"https://iczelia.net/posts/e16-20-year-old-bug/\">https://iczelia.net/posts/e16-20-year-old-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47774789\">https://news.ycombinator.com/item?id=47774789</a></p>\n<p>Points: 143</p>\n<p># Comments: 42</p>",
+    "published": "2026-04-15T04:47:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
-    "link": "https://github.com/lasect/pg_6502",
-    "summary": "<p>Article URL: <a href=\"https://github.com/lasect/pg_6502\">https://github.com/lasect/pg_6502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761723\">https://news.ycombinator.com/item?id=47761723</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
-    "published": "2026-04-14T05:46:49",
+    "title": "Dependency cooldowns turn you into a free-rider",
+    "link": "https://calpaterson.com/deps.html",
+    "summary": "<p>Article URL: <a href=\"https://calpaterson.com/deps.html\">https://calpaterson.com/deps.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47773812\">https://news.ycombinator.com/item?id=47773812</a></p>\n<p>Points: 119</p>\n<p># Comments: 81</p>",
+    "published": "2026-04-15T02:03:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
-    "link": "https://kirancodes.me/posts/log-distributed-llms.html",
-    "summary": "<p>Article URL: <a href=\"https://kirancodes.me/posts/log-distributed-llms.html\">https://kirancodes.me/posts/log-distributed-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761625\">https://news.ycombinator.com/item?id=47761625</a></p>\n<p>Points: 35</p>\n<p># Comments: 9</p>",
-    "published": "2026-04-14T05:32:48",
+    "title": "Not all elementary functions can be expressed with exp-minus-log",
+    "link": "https://www.stylewarning.com/posts/not-all-elementary/",
+    "summary": "<p>Article URL: <a href=\"https://www.stylewarning.com/posts/not-all-elementary/\">https://www.stylewarning.com/posts/not-all-elementary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47773788\">https://news.ycombinator.com/item?id=47773788</a></p>\n<p>Points: 99</p>\n<p># Comments: 79</p>",
+    "published": "2026-04-15T01:59:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TanStack Start Now Support React Server Components",
-    "link": "https://tanstack.com/blog/react-server-components",
-    "summary": "<p>Article URL: <a href=\"https://tanstack.com/blog/react-server-components\">https://tanstack.com/blog/react-server-components</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47761609\">https://news.ycombinator.com/item?id=47761609</a></p>\n<p>Points: 58</p>\n<p># Comments: 44</p>",
-    "published": "2026-04-14T05:28:51",
+    "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
+    "link": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html",
+    "summary": "The maker of ChatGPT announced the limited release of GPT-5.4-Cyber, a technology designed to find security holes in software.",
+    "published": "2026-04-15T00:25:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Stop Flock",
+    "link": "https://stopflock.com",
+    "summary": "<p>Article URL: <a href=\"https://stopflock.com\">https://stopflock.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47772012\">https://news.ycombinator.com/item?id=47772012</a></p>\n<p>Points: 673</p>\n<p># Comments: 175</p>",
+    "published": "2026-04-14T21:56:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A new spam policy for “back button hijacking”",
-    "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-    "summary": "<p>Article URL: <a href=\"https://developers.google.com/search/blog/2026/04/back-button-hijacking\">https://developers.google.com/search/blog/2026/04/back-button-hijacking</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47760764\">https://news.ycombinator.com/item?id=47760764</a></p>\n<p>Points: 352</p>\n<p># Comments: 212</p>",
-    "published": "2026-04-14T03:06:27",
+    "title": "Tell HN: Fiverr left customer files public and searchable",
+    "link": "https://news.ycombinator.com/item?id=47769796",
+    "summary": "<p>Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client.<p>Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed/expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.<p>Moreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.<p>Example query: site:fiverr-res.cloudinary.com form 1040<p>In fact, Fiverr actively buys Google Ads for keywords like \"form 1234 filing\" despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA/FTC Safeguards Rule.<p>Responsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn't seem eligible for CVE/CERT processing as it is not really a code vulnerability, and I don't know anyone else who would care about it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47769796\">https://news.ycombinator.com/item?id=47769796</a></p>\n<p>Points: 659</p>\n<p># Comments: 163</p>",
+    "published": "2026-04-14T18:56:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DaVinci Resolve – Photo",
-    "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-    "summary": "<p>Article URL: <a href=\"https://www.blackmagicdesign.com/products/davinciresolve/photo\">https://www.blackmagicdesign.com/products/davinciresolve/photo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47760529\">https://news.ycombinator.com/item?id=47760529</a></p>\n<p>Points: 563</p>\n<p># Comments: 140</p>",
-    "published": "2026-04-14T02:25:15",
+    "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
+    "link": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
+    "summary": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk’s Starlink.",
+    "published": "2026-04-14T17:53:43",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/\">https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47768339\">https://news.ycombinator.com/item?id=47768339</a></p>\n<p>Points: 162</p>\n<p># Comments: 82</p>",
+    "published": "2026-04-14T17:09:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I Feel So Sorry for My A.I. Sunglasses",
+    "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+    "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
+    "published": "2026-04-14T17:02:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Claude Code Routines",
+    "link": "https://code.claude.com/docs/en/routines",
+    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/routines\">https://code.claude.com/docs/en/routines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47768133\">https://news.ycombinator.com/item?id=47768133</a></p>\n<p>Points: 611</p>\n<p># Comments: 355</p>",
+    "published": "2026-04-14T16:54:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "5NF and Database Design",
+    "link": "https://kb.databasedesignbook.com/posts/5nf/",
+    "summary": "<p>Article URL: <a href=\"https://kb.databasedesignbook.com/posts/5nf/\">https://kb.databasedesignbook.com/posts/5nf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47767676\">https://news.ycombinator.com/item?id=47767676</a></p>\n<p>Points: 165</p>\n<p># Comments: 60</p>",
+    "published": "2026-04-14T16:22:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Rare concert recordings are landing on the Internet Archive",
+    "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/\">https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47765604\">https://news.ycombinator.com/item?id=47765604</a></p>\n<p>Points: 646</p>\n<p># Comments: 188</p>",
+    "published": "2026-04-14T13:46:31",
     "source": "Hacker News: Front Page"
   },
   {
@@ -91,10 +175,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Lean proved this program correct; then I found a bug",
-    "link": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-    "summary": "<p>Article URL: <a href=\"https://kirancodes.me/posts/log-who-watches-the-watchers.html\">https://kirancodes.me/posts/log-who-watches-the-watchers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759709\">https://news.ycombinator.com/item?id=47759709</a></p>\n<p>Points: 249</p>\n<p># Comments: 123</p>",
-    "published": "2026-04-14T00:25:08",
+    "title": "The dangers of California's legislation to censor 3D printing",
+    "link": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing\">https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759420\">https://news.ycombinator.com/item?id=47759420</a></p>\n<p>Points: 402</p>\n<p># Comments: 367</p>",
+    "published": "2026-04-13T23:44:24",
     "source": "Hacker News: Front Page"
   },
   {
@@ -105,38 +189,10 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-    "link": "https://github.com/fabienmillet/WiiFin",
-    "summary": "<p>Article URL: <a href=\"https://github.com/fabienmillet/WiiFin\">https://github.com/fabienmillet/WiiFin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759341\">https://news.ycombinator.com/item?id=47759341</a></p>\n<p>Points: 158</p>\n<p># Comments: 69</p>",
-    "published": "2026-04-13T23:33:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-    "link": "https://ndaybench.winfunc.com",
-    "summary": "<p>N-Day-Bench tests whether frontier LLMs can find known security vulnerabilities in real repository code. Each month it pulls fresh cases from GitHub security advisories, checks out the repo at the last commit before the patch, and gives models a sandboxed bash shell to explore the codebase.<p>Static vulnerability discovery benchmarks become outdated quickly. Cases leak into training data, and scores start measuring memorization. The monthly refresh keeps the test set ahead of contamination — or at least makes the contamination window honest.<p>Each case runs three agents: a Curator reads the advisory and builds an answer key, a Finder (the model under test) gets 24 shell steps to explore the code and write a structured report, and a Judge scores the blinded submission. The Finder never sees the patch. It starts from sink hints and must trace the bug through actual code.<p>Only repos with 10k+ stars qualify. A diversity pass prevents any single repo from dominating the set. Ambiguous advisories (merge commits, multi-repo references, unresolvable refs) are dropped.<p>Currently evaluating GPT-5.4, Claude Opus 4.6, Gemini 3.1 Pro, GLM-5.1, and Kimi K2.5. All traces are public.<p>Methodology: <a href=\"https://ndaybench.winfunc.com/methodology\">https://ndaybench.winfunc.com/methodology</a><p>Live Leaderboard: <a href=\"https://ndaybench.winfunc.com/leaderboard\">https://ndaybench.winfunc.com/leaderboard</a><p>Live Traces: <a href=\"https://ndaybench.winfunc.com/traces\">https://ndaybench.winfunc.com/traces</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47758347\">https://news.ycombinator.com/item?id=47758347</a></p>\n<p>Points: 70</p>\n<p># Comments: 19</p>",
-    "published": "2026-04-13T21:54:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GitHub Stacked PRs",
-    "link": "https://github.github.com/gh-stack/",
-    "summary": "<p>Article URL: <a href=\"https://github.github.com/gh-stack/\">https://github.github.com/gh-stack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47757495\">https://news.ycombinator.com/item?id=47757495</a></p>\n<p>Points: 711</p>\n<p># Comments: 375</p>",
-    "published": "2026-04-13T20:36:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to make Firefox builds 17% faster",
-    "link": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-    "summary": "<p>Article URL: <a href=\"https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/\">https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47756321\">https://news.ycombinator.com/item?id=47756321</a></p>\n<p>Points: 180</p>\n<p># Comments: 34</p>",
-    "published": "2026-04-13T18:50:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-    "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-    "summary": "<p>Article URL: <a href=\"https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/\">https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47755629\">https://news.ycombinator.com/item?id=47755629</a></p>\n<p>Points: 946</p>\n<p># Comments: 266</p>",
-    "published": "2026-04-13T17:54:39",
+    "title": "Let's talk space toilets",
+    "link": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+    "summary": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/lets-talk-space-toilets\">https://mceglowski.substack.com/p/lets-talk-space-toilets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47758870\">https://news.ycombinator.com/item?id=47758870</a></p>\n<p>Points: 182</p>\n<p># Comments: 50</p>",
+    "published": "2026-04-13T22:41:19",
     "source": "Hacker News: Front Page"
   },
   {
@@ -147,31 +203,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Building a CLI for all of Cloudflare",
-    "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cf-cli-local-explorer/\">https://blog.cloudflare.com/cf-cli-local-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47753689\">https://news.ycombinator.com/item?id=47753689</a></p>\n<p>Points: 309</p>\n<p># Comments: 100</p>",
-    "published": "2026-04-13T15:44:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-    "link": "https://github.com/sterlingcrispin/nothing-ever-happens",
-    "summary": "<p>Article URL: <a href=\"https://github.com/sterlingcrispin/nothing-ever-happens\">https://github.com/sterlingcrispin/nothing-ever-happens</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47753472\">https://news.ycombinator.com/item?id=47753472</a></p>\n<p>Points: 418</p>\n<p># Comments: 234</p>",
-    "published": "2026-04-13T15:31:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "The Escalating Global A.I. Arms Race",
     "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
     "summary": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
     "published": "2026-04-12T18:24:26",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO",
-    "link": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
-    "summary": "The device burned an exterior gate of the house in San Francisco, the police said, and it was unclear whether the artificial intelligence executive was home. The authorities arrested a suspect.",
-    "published": "2026-04-10T23:52:32",
     "source": "NYT > Technology"
   },
   {
@@ -238,45 +273,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
-    "link": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
-    "summary": "“The platforms should be absolutely begging Congress to regulate them, because the alternative is they get sued into oblivion by a bunch of law firms.”",
-    "published": "2026-04-07T17:57:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Teens Are Doing With Those Role-Playing Chatbots",
-    "link": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
-    "summary": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
-    "published": "2026-04-06T21:38:55",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
     "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
     "summary": "From our jokes and slang to the White House’s policy messaging, internet “brain rot” has escaped our phones to take over … well, everything.",
     "published": "2026-04-06T14:54:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Uber and Lyft Offer Gas Price Relief, but Drivers Say It’s Not Enough",
-    "link": "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
-    "summary": "As fuel costs go up, making a living as a gig driver is harder than ever.",
-    "published": "2026-04-04T09:01:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "NASA’s Artemis II Astronauts Took iPhones Into Space",
-    "link": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
-    "summary": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet.",
-    "published": "2026-04-03T20:36:47",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok",
-    "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
-    "summary": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
-    "published": "2026-04-03T18:23:06",
     "source": "NYT > Technology"
   }
 ]
