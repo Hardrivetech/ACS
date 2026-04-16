@@ -1,23 +1,191 @@
 [
   {
-    "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-    "link": "https://prog21.dadgum.com/30.html",
-    "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/30.html\">https://prog21.dadgum.com/30.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47776796\">https://news.ycombinator.com/item?id=47776796</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
-    "published": "2026-04-15T09:41:19",
+    "title": "RamAIn (YC W26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead\">https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789607\">https://news.ycombinator.com/item?id=47789607</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-16T07:01:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-    "link": "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows",
-    "summary": "<p>Article URL: <a href=\"https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows\">https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47776667\">https://news.ycombinator.com/item?id=47776667</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-15T09:24:31",
+    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+    "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+    "summary": "<p>Full disclosure - I formerly worked for Grafana Labs.<p>The size of this Grafana Mimir deployment would rank it in the top echelon of customers. The irony is that this may be a $0 revenue user for Grafana Labs.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788818\">https://news.ycombinator.com/item?id=47788818</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
+    "published": "2026-04-16T05:01:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Good Sleep, Good Learning (2012)",
-    "link": "https://super-memory.com/articles/sleep.htm",
-    "summary": "<p>Article URL: <a href=\"https://super-memory.com/articles/sleep.htm\">https://super-memory.com/articles/sleep.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47776557\">https://news.ycombinator.com/item?id=47776557</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-    "published": "2026-04-15T09:11:18",
+    "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+    "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+    "summary": "<p>Article URL: <a href=\"https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service\">https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788633\">https://news.ycombinator.com/item?id=47788633</a></p>\n<p>Points: 49</p>\n<p># Comments: 4</p>",
+    "published": "2026-04-16T04:22:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Darkbloom – Private inference on idle Macs",
+    "link": "https://darkbloom.dev",
+    "summary": "<p>Article URL: <a href=\"https://darkbloom.dev\">https://darkbloom.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788542\">https://news.ycombinator.com/item?id=47788542</a></p>\n<p>Points: 246</p>\n<p># Comments: 125</p>",
+    "published": "2026-04-16T04:06:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+    "link": "https://github.com/Nightmare-Eclipse/RedSun",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Nightmare-Eclipse/RedSun\">https://github.com/Nightmare-Eclipse/RedSun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788473\">https://news.ycombinator.com/item?id=47788473</a></p>\n<p>Points: 81</p>\n<p># Comments: 16</p>",
+    "published": "2026-04-16T03:54:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "link": "https://daedal.io/@thomzane/116410863009847575",
+    "summary": "<p>Article URL: <a href=\"https://daedal.io/@thomzane/116410863009847575\">https://daedal.io/@thomzane/116410863009847575</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788424\">https://news.ycombinator.com/item?id=47788424</a></p>\n<p>Points: 160</p>\n<p># Comments: 91</p>",
+    "published": "2026-04-16T03:44:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "North American English Dialects",
+    "link": "https://aschmann.net/AmEng/",
+    "summary": "<p>Article URL: <a href=\"https://aschmann.net/AmEng/\">https://aschmann.net/AmEng/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788398\">https://news.ycombinator.com/item?id=47788398</a></p>\n<p>Points: 30</p>\n<p># Comments: 8</p>",
+    "published": "2026-04-16T03:38:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.",
+    "link": "https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html",
+    "summary": "After selling its business for $39 million last month, the company said it planned to buy powerful computer chips and rebrand itself NewBird AI.",
+    "published": "2026-04-16T00:31:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Agent - Native Mac OS X coding ide/harness",
+    "link": "https://github.com/macOS26/Agent",
+    "summary": "<p>Article URL: <a href=\"https://github.com/macOS26/Agent\">https://github.com/macOS26/Agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47787127\">https://news.ycombinator.com/item?id=47787127</a></p>\n<p>Points: 50</p>\n<p># Comments: 21</p>",
+    "published": "2026-04-16T00:19:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I made a terminal pager",
+    "link": "https://theleo.zone/posts/pager/",
+    "summary": "<p>Article URL: <a href=\"https://theleo.zone/posts/pager/\">https://theleo.zone/posts/pager/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47786164\">https://news.ycombinator.com/item?id=47786164</a></p>\n<p>Points: 132</p>\n<p># Comments: 30</p>",
+    "published": "2026-04-15T22:27:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
+    "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
+    "summary": "<p>Article URL: <a href=\"https://www.mcdonalds.co.jp/en/menu/burger/\">https://www.mcdonalds.co.jp/en/menu/burger/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785738\">https://news.ycombinator.com/item?id=47785738</a></p>\n<p>Points: 446</p>\n<p># Comments: 220</p>",
+    "published": "2026-04-15T21:48:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ford Says Doug Field, Who Led Company's E.V. Push, is Leaving",
+    "link": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
+    "summary": "Doug Field, a former Tesla and Apple executive, had returned to Ford Motor in 2021 to help develop new electric models and software.",
+    "published": "2026-04-15T21:22:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "ChatGPT for Excel",
+    "link": "https://chatgpt.com/apps/spreadsheets/",
+    "summary": "<p>Article URL: <a href=\"https://chatgpt.com/apps/spreadsheets/\">https://chatgpt.com/apps/spreadsheets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785397\">https://news.ycombinator.com/item?id=47785397</a></p>\n<p>Points: 209</p>\n<p># Comments: 144</p>",
+    "published": "2026-04-15T21:21:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
+    "link": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
+    "summary": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance.",
+    "published": "2026-04-15T21:01:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+    "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+    "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
+    "published": "2026-04-15T19:56:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
+    "link": "http://tinycorelinux.net/5.x/armv6/releases/README",
+    "summary": "<p>Article URL: <a href=\"http://tinycorelinux.net/5.x/armv6/releases/README\">http://tinycorelinux.net/5.x/armv6/releases/README</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47784244\">https://news.ycombinator.com/item?id=47784244</a></p>\n<p>Points: 112</p>\n<p># Comments: 13</p>",
+    "published": "2026-04-15T19:45:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Live Nation illegally monopolized ticketing market, jury finds",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
+    "summary": "<p><a href=\"https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html\" rel=\"nofollow\">https://www.nytimes.com/2026/04/15/arts/music/live-nation-an...</a>, <a href=\"https://archive.ph/KA1wV\" rel=\"nofollow\">https://archive.ph/KA1wV</a><p><a href=\"https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict\" rel=\"nofollow\">https://www.theverge.com/policy/912689/live-nation-ticketmas...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47783713\">https://news.ycombinator.com/item?id=47783713</a></p>\n<p>Points: 546</p>\n<p># Comments: 158</p>",
+    "published": "2026-04-15T19:06:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ad Companies Settle With F.T.C. Over Claims of Harm to Conservative Sites",
+    "link": "https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html",
+    "summary": "WPP, Dentsu and Publicis settled claims they colluded on policies to combat misinformation, denying ad revenue to publishers on the right.",
+    "published": "2026-04-15T18:08:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Google broke its promise to me – now ICE has my data",
+    "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data\">https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47782570\">https://news.ycombinator.com/item?id=47782570</a></p>\n<p>Points: 1481</p>\n<p># Comments: 629</p>",
+    "published": "2026-04-15T17:44:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Gemini app is now on Mac",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/\">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47782256\">https://news.ycombinator.com/item?id=47782256</a></p>\n<p>Points: 141</p>\n<p># Comments: 74</p>",
+    "published": "2026-04-15T17:25:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Adaptional (YC S25) is hiring AI engineers",
+    "link": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer\">https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47781912\">https://news.ycombinator.com/item?id=47781912</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-15T17:00:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
+    "link": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
+    "summary": "<p>Article URL: <a href=\"https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html\">https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47781286\">https://news.ycombinator.com/item?id=47781286</a></p>\n<p>Points: 160</p>\n<p># Comments: 96</p>",
+    "published": "2026-04-15T16:19:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Libretto – Making AI browser automations deterministic",
+    "link": "https://github.com/saffron-health/libretto",
+    "summary": "<p>Libretto (<a href=\"https://libretto.sh\" rel=\"nofollow\">https://libretto.sh</a>) is a Skill+CLI that makes it easy for your coding agent to generate deterministic browser automations and debug existing ones. Key shift is going from “give an agent a prompt at runtime and hope it figures things out” to: “Use coding agents to generate real scripts you can inspect, run, and debug”.<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=0cDpIntmHAM\" rel=\"nofollow\">https://www.youtube.com/watch?v=0cDpIntmHAM</a>. Docs start at <a href=\"https://libretto.sh/docs/get-started/introduction\" rel=\"nofollow\">https://libretto.sh/docs/get-started/introduction</a>.<p>We spent a year building and maintaining browser automations for EHR and payer portal integrations at our healthcare startup. Building these automations and debugging failed ones was incredibly time-consuming.<p>There’s lots of tools that use runtime AI like Browseruse and Stagehand which we tried, but (1) they’re reliant on custom DOM parsing that's unreliable on older and complicated websites (including all of healthcare). Using a website’s internal network calls is faster and more reliable when possible. (2) They can be expensive since they rely on lots of AI calls and for workflows with complicated logic you can’t always rely on caching actions to make sure it will work. (3) They’re at runtime so it’s not interpretable what the agent is going to do. You kind of hope you prompted it correctly to do the right thing, but legacy workflows are often unintuitive and inconsistent across sites so you can’t trust an agent to just figure it out at runtime. (4) They don’t really help you generate new automations or help you debug automation failures.<p>We wanted a way to reliably generate and maintain browser automations in messy, high-stakes environments, without relying on fragile runtime agents.<p>Libretto is different because instead of runtime agents it uses “development-time AI”: scripts are generated ahead of time as actual code you can read and control, not opaque agent behavior at runtime. Instead of a black box, you own the code and can inspect, modify, version, and debug everything.<p>Rather than relying on runtime DOM parsing, Libretto takes a hybrid approach combining Playwright UI automation with direct network/API requests within the browser session for better reliability and bot detection evasion.<p>It records manual user actions to help agents generate and update scripts, supports step-through debugging, has an optional read-only mode to prevent agents from accidentally submitting or modifying data, and generates code that follows all the abstractions and conventions you have already in your coding repo.<p>Would love to hear how others are building and maintaining browser automations in practice, and any feedback on the approach we’ve taken here.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47780971\">https://news.ycombinator.com/item?id=47780971</a></p>\n<p>Points: 102</p>\n<p># Comments: 36</p>",
+    "published": "2026-04-15T15:57:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We Don’t Really Know How A.I. Works. That’s a Problem.",
+    "link": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
+    "summary": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain.",
+    "published": "2026-04-15T15:27:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Cal.com is going closed source",
+    "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
+    "summary": "<p>Article URL: <a href=\"https://cal.com/blog/cal-com-goes-closed-source-why\">https://cal.com/blog/cal-com-goes-closed-source-why</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47780456\">https://news.ycombinator.com/item?id=47780456</a></p>\n<p>Points: 311</p>\n<p># Comments: 237</p>",
+    "published": "2026-04-15T15:26:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
+    "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+    "summary": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
+    "published": "2026-04-15T15:19:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+    "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "summary": "<p>Article URL: <a href=\"https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf\">https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47778920\">https://news.ycombinator.com/item?id=47778920</a></p>\n<p>Points: 138</p>\n<p># Comments: 98</p>",
+    "published": "2026-04-15T13:47:40",
     "source": "Hacker News: Front Page"
   },
   {
@@ -28,81 +196,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why It’s Crucial We Understand How A.I. ‘Thinks’",
-    "link": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
-    "summary": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain.",
-    "published": "2026-04-15T09:03:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
-    "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
-    "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
-    "published": "2026-04-15T09:00:48",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "How Older Adults Are Using VR to Counter Social Isolation",
     "link": "https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html",
     "summary": "New tools tailored for use in senior living communities allow for shared experiences and social bonding.",
     "published": "2026-04-15T09:00:11",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "My AI-Assisted Workflow",
-    "link": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-    "summary": "<p>Article URL: <a href=\"https://www.maiobarbero.dev/articles/ai-assisted-workflow/\">https://www.maiobarbero.dev/articles/ai-assisted-workflow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775653\">https://news.ycombinator.com/item?id=47775653</a></p>\n<p>Points: 35</p>\n<p># Comments: 17</p>",
-    "published": "2026-04-15T07:08:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Wacli – WhatsApp CLI: sync, search, send",
-    "link": "https://github.com/steipete/wacli",
-    "summary": "<p>Article URL: <a href=\"https://github.com/steipete/wacli\">https://github.com/steipete/wacli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775628\">https://news.ycombinator.com/item?id=47775628</a></p>\n<p>Points: 95</p>\n<p># Comments: 72</p>",
-    "published": "2026-04-15T07:04:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
-    "link": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup\">https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775606\">https://news.ycombinator.com/item?id=47775606</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-15T07:00:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Amazon to acquire Globalstar and expand Amazon Leo satellite network",
-    "link": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
-    "summary": "<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network\">https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47775183\">https://news.ycombinator.com/item?id=47775183</a></p>\n<p>Points: 64</p>\n<p># Comments: 35</p>",
-    "published": "2026-04-15T05:54:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-    "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "summary": "<p>Article URL: <a href=\"https://www.gizmoweek.com/gemma-4-runs-iphone/\">https://www.gizmoweek.com/gemma-4-runs-iphone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47774971\">https://news.ycombinator.com/item?id=47774971</a></p>\n<p>Points: 14</p>\n<p># Comments: 2</p>",
-    "published": "2026-04-15T05:19:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fixing a 20-year-old bug in Enlightenment E16",
-    "link": "https://iczelia.net/posts/e16-20-year-old-bug/",
-    "summary": "<p>Article URL: <a href=\"https://iczelia.net/posts/e16-20-year-old-bug/\">https://iczelia.net/posts/e16-20-year-old-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47774789\">https://news.ycombinator.com/item?id=47774789</a></p>\n<p>Points: 143</p>\n<p># Comments: 42</p>",
-    "published": "2026-04-15T04:47:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Dependency cooldowns turn you into a free-rider",
-    "link": "https://calpaterson.com/deps.html",
-    "summary": "<p>Article URL: <a href=\"https://calpaterson.com/deps.html\">https://calpaterson.com/deps.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47773812\">https://news.ycombinator.com/item?id=47773812</a></p>\n<p>Points: 119</p>\n<p># Comments: 81</p>",
-    "published": "2026-04-15T02:03:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Not all elementary functions can be expressed with exp-minus-log",
-    "link": "https://www.stylewarning.com/posts/not-all-elementary/",
-    "summary": "<p>Article URL: <a href=\"https://www.stylewarning.com/posts/not-all-elementary/\">https://www.stylewarning.com/posts/not-all-elementary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47773788\">https://news.ycombinator.com/item?id=47773788</a></p>\n<p>Points: 99</p>\n<p># Comments: 79</p>",
-    "published": "2026-04-15T01:59:18",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
@@ -112,32 +210,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Stop Flock",
-    "link": "https://stopflock.com",
-    "summary": "<p>Article URL: <a href=\"https://stopflock.com\">https://stopflock.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47772012\">https://news.ycombinator.com/item?id=47772012</a></p>\n<p>Points: 673</p>\n<p># Comments: 175</p>",
-    "published": "2026-04-14T21:56:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tell HN: Fiverr left customer files public and searchable",
-    "link": "https://news.ycombinator.com/item?id=47769796",
-    "summary": "<p>Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client.<p>Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed/expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.<p>Moreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.<p>Example query: site:fiverr-res.cloudinary.com form 1040<p>In fact, Fiverr actively buys Google Ads for keywords like \"form 1234 filing\" despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA/FTC Safeguards Rule.<p>Responsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn't seem eligible for CVE/CERT processing as it is not really a code vulnerability, and I don't know anyone else who would care about it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47769796\">https://news.ycombinator.com/item?id=47769796</a></p>\n<p>Points: 659</p>\n<p># Comments: 163</p>",
-    "published": "2026-04-14T18:56:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
     "link": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
     "summary": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk’s Starlink.",
     "published": "2026-04-14T17:53:43",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/\">https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47768339\">https://news.ycombinator.com/item?id=47768339</a></p>\n<p>Points: 162</p>\n<p># Comments: 82</p>",
-    "published": "2026-04-14T17:09:43",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "I Feel So Sorry for My A.I. Sunglasses",
@@ -147,53 +224,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Claude Code Routines",
-    "link": "https://code.claude.com/docs/en/routines",
-    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/routines\">https://code.claude.com/docs/en/routines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47768133\">https://news.ycombinator.com/item?id=47768133</a></p>\n<p>Points: 611</p>\n<p># Comments: 355</p>",
-    "published": "2026-04-14T16:54:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "5NF and Database Design",
-    "link": "https://kb.databasedesignbook.com/posts/5nf/",
-    "summary": "<p>Article URL: <a href=\"https://kb.databasedesignbook.com/posts/5nf/\">https://kb.databasedesignbook.com/posts/5nf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47767676\">https://news.ycombinator.com/item?id=47767676</a></p>\n<p>Points: 165</p>\n<p># Comments: 60</p>",
-    "published": "2026-04-14T16:22:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rare concert recordings are landing on the Internet Archive",
-    "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/\">https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47765604\">https://news.ycombinator.com/item?id=47765604</a></p>\n<p>Points: 646</p>\n<p># Comments: 188</p>",
-    "published": "2026-04-14T13:46:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Man Held in Attack on OpenAI Chief’s Home Had List of A.I. Leaders, Officials Say",
     "link": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
     "summary": "The authorities said a 20-year-old Texas man charged with throwing a homemade bomb at the gate of Sam Altman’s home had written at length about the threat of A.I.",
     "published": "2026-04-14T01:57:23",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "The dangers of California's legislation to censor 3D printing",
-    "link": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing\">https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759420\">https://news.ycombinator.com/item?id=47759420</a></p>\n<p>Points: 402</p>\n<p># Comments: 367</p>",
-    "published": "2026-04-13T23:44:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SnapState - Persistent state for AI agent workflows",
-    "link": "https://snapstate.dev",
-    "summary": "<p>Article URL: <a href=\"https://snapstate.dev\">https://snapstate.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47759400\">https://news.ycombinator.com/item?id=47759400</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-13T23:42:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Let's talk space toilets",
-    "link": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
-    "summary": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/lets-talk-space-toilets\">https://mceglowski.substack.com/p/lets-talk-space-toilets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47758870\">https://news.ycombinator.com/item?id=47758870</a></p>\n<p>Points: 182</p>\n<p># Comments: 50</p>",
-    "published": "2026-04-13T22:41:19",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
@@ -231,13 +266,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The Big Bang: A.I. Has Created a Code Overload",
-    "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
-    "summary": "Companies are scrambling to deal with the glut.",
-    "published": "2026-04-09T07:23:07",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label",
     "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html",
     "summary": "The ruling was a setback for the artificial intelligence start-up in its battle with the Defense Department over the use of A.I. in warfare.",
@@ -249,34 +277,6 @@
     "link": "https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html",
     "summary": "The model, Muse Spark, performed better than Meta’s previous A.I. models but lags rivals on coding ability.",
     "published": "2026-04-08T16:50:33",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Accurate Are Google’s A.I. Overviews?",
-    "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
-    "summary": "The company’s A.I.-generated answers look authoritative, but they draw on an array of sources, from trustworthy sites to Facebook posts.",
-    "published": "2026-04-07T18:48:13",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Is on Its Way to Upending Cybersecurity",
-    "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
-    "summary": "With new systems from companies like Anthropic and OpenAI, hackers can attack with greater speed. The defense is more A.I.",
-    "published": "2026-04-07T18:29:48",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’",
-    "link": "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
-    "summary": "The company said on Tuesday that it was holding back on releasing the new technology but was working with 40 companies to explore how it could prevent cyberattacks.",
-    "published": "2026-04-07T18:00:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
-    "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
-    "summary": "From our jokes and slang to the White House’s policy messaging, internet “brain rot” has escaped our phones to take over … well, everything.",
-    "published": "2026-04-06T14:54:31",
     "source": "NYT > Technology"
   }
 ]
