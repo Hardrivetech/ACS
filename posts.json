@@ -1,51 +1,177 @@
 [
   {
-    "title": "RamAIn (YC W26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead\">https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47789607\">https://news.ycombinator.com/item?id=47789607</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-16T07:01:29",
+    "title": "Ada, Its Design, and the Language That Built the Languages",
+    "link": "https://www.iqiipi.com/the-quiet-colossus.html",
+    "summary": "<p>Article URL: <a href=\"https://www.iqiipi.com/the-quiet-colossus.html\">https://www.iqiipi.com/the-quiet-colossus.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803844\">https://news.ycombinator.com/item?id=47803844</a></p>\n<p>Points: 45</p>\n<p># Comments: 8</p>",
+    "published": "2026-04-17T08:51:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-    "link": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-    "summary": "<p>Full disclosure - I formerly worked for Grafana Labs.<p>The size of this Grafana Mimir deployment would rank it in the top echelon of customers. The irony is that this may be a $0 revenue user for Grafana Labs.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788818\">https://news.ycombinator.com/item?id=47788818</a></p>\n<p>Points: 32</p>\n<p># Comments: 8</p>",
-    "published": "2026-04-16T05:01:05",
+    "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+    "link": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+    "summary": "<p>Article URL: <a href=\"https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint\">https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803745\">https://news.ycombinator.com/item?id=47803745</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-17T08:32:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-    "link": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-    "summary": "<p>Article URL: <a href=\"https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service\">https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788633\">https://news.ycombinator.com/item?id=47788633</a></p>\n<p>Points: 49</p>\n<p># Comments: 4</p>",
-    "published": "2026-04-16T04:22:56",
+    "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
+    "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+    "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
+    "published": "2026-04-17T07:44:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "FIM – Linux framebuffer image viewer",
+    "link": "https://www.nongnu.org/fbi-improved/",
+    "summary": "<p>Article URL: <a href=\"https://www.nongnu.org/fbi-improved/\">https://www.nongnu.org/fbi-improved/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47803323\">https://news.ycombinator.com/item?id=47803323</a></p>\n<p>Points: 42</p>\n<p># Comments: 22</p>",
+    "published": "2026-04-17T07:20:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Darkbloom – Private inference on idle Macs",
-    "link": "https://darkbloom.dev",
-    "summary": "<p>Article URL: <a href=\"https://darkbloom.dev\">https://darkbloom.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788542\">https://news.ycombinator.com/item?id=47788542</a></p>\n<p>Points: 246</p>\n<p># Comments: 125</p>",
-    "published": "2026-04-16T04:06:39",
+    "title": "PROBoter – Open-source platform for automated PCB analysis",
+    "link": "https://www.schutzwerk.com/en/blog/proboter-01/",
+    "summary": "<p>Article URL: <a href=\"https://www.schutzwerk.com/en/blog/proboter-01/\">https://www.schutzwerk.com/en/blog/proboter-01/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47802971\">https://news.ycombinator.com/item?id=47802971</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-17T06:19:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-    "link": "https://github.com/Nightmare-Eclipse/RedSun",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Nightmare-Eclipse/RedSun\">https://github.com/Nightmare-Eclipse/RedSun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788473\">https://news.ycombinator.com/item?id=47788473</a></p>\n<p>Points: 81</p>\n<p># Comments: 16</p>",
-    "published": "2026-04-16T03:54:21",
+    "title": "Bluesky has been dealing with a DDoS attack for nearly a full day",
+    "link": "https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day\">https://www.theverge.com/tech/913638/bluesky-has-been-dealing-with-a-ddos-attack-for-nearly-a-full-day</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47802330\">https://news.ycombinator.com/item?id=47802330</a></p>\n<p>Points: 92</p>\n<p># Comments: 34</p>",
+    "published": "2026-04-17T03:59:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-    "link": "https://daedal.io/@thomzane/116410863009847575",
-    "summary": "<p>Article URL: <a href=\"https://daedal.io/@thomzane/116410863009847575\">https://daedal.io/@thomzane/116410863009847575</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788424\">https://news.ycombinator.com/item?id=47788424</a></p>\n<p>Points: 160</p>\n<p># Comments: 91</p>",
-    "published": "2026-04-16T03:44:38",
+    "title": "Human Accelerated Region 1",
+    "link": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
+    "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Human_accelerated_region_1\">https://en.wikipedia.org/wiki/Human_accelerated_region_1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47802312\">https://news.ycombinator.com/item?id=47802312</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+    "published": "2026-04-17T03:55:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "North American English Dialects",
-    "link": "https://aschmann.net/AmEng/",
-    "summary": "<p>Article URL: <a href=\"https://aschmann.net/AmEng/\">https://aschmann.net/AmEng/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47788398\">https://news.ycombinator.com/item?id=47788398</a></p>\n<p>Points: 30</p>\n<p># Comments: 8</p>",
-    "published": "2026-04-16T03:38:45",
+    "title": "Discourse Is Not Going Closed Source",
+    "link": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
+    "summary": "<p>Article URL: <a href=\"https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/\">https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47802233\">https://news.ycombinator.com/item?id=47802233</a></p>\n<p>Points: 125</p>\n<p># Comments: 43</p>",
+    "published": "2026-04-17T03:36:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Substrate AI Is Hiring Harness Engineers",
+    "link": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer\">https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47802016\">https://news.ycombinator.com/item?id=47802016</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-17T02:53:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US Bill Mandates On-Device Age Verification",
+    "link": "https://reclaimthenet.org/us-bill-mandates-on-device-age-verification",
+    "summary": "<p>Article URL: <a href=\"https://reclaimthenet.org/us-bill-mandates-on-device-age-verification\">https://reclaimthenet.org/us-bill-mandates-on-device-age-verification</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801991\">https://news.ycombinator.com/item?id=47801991</a></p>\n<p>Points: 156</p>\n<p># Comments: 82</p>",
+    "published": "2026-04-17T02:50:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+    "link": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "summary": "<p>I built MCP servers for my oscilloscope and SPICE simulator so Claude Code can close the loop between simulation and real hardware.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47801255\">https://news.ycombinator.com/item?id=47801255</a></p>\n<p>Points: 78</p>\n<p># Comments: 15</p>",
+    "published": "2026-04-17T00:37:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit\">https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47800166\">https://news.ycombinator.com/item?id=47800166</a></p>\n<p>Points: 221</p>\n<p># Comments: 54</p>",
+    "published": "2026-04-16T22:08:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "link": "https://github.com/gainsec/autoprober",
+    "summary": "<p>Article URL: <a href=\"https://github.com/gainsec/autoprober\">https://github.com/gainsec/autoprober</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47800033\">https://news.ycombinator.com/item?id=47800033</a></p>\n<p>Points: 179</p>\n<p># Comments: 39</p>",
+    "published": "2026-04-16T21:56:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pentagon Seeks Help From Ford and G.M.",
+    "link": "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
+    "summary": "Concerned about the slow pace and high cost of weapons production, Pentagon officials have begun talks with General Motors and Ford Motor about producing certain parts.",
+    "published": "2026-04-16T21:23:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A Better R Programming Experience Thanks to Tree-sitter",
+    "link": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+    "summary": "<p>Article URL: <a href=\"https://ropensci.org/blog/2026/04/02/tree-sitter-overview/\">https://ropensci.org/blog/2026/04/02/tree-sitter-overview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47799573\">https://news.ycombinator.com/item?id=47799573</a></p>\n<p>Points: 128</p>\n<p># Comments: 16</p>",
+    "published": "2026-04-16T21:14:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The beginning of scarcity in AI",
+    "link": "https://tomtunguz.com/ai-compute-crisis-2026/",
+    "summary": "<p>Article URL: <a href=\"https://tomtunguz.com/ai-compute-crisis-2026/\">https://tomtunguz.com/ai-compute-crisis-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47799322\">https://news.ycombinator.com/item?id=47799322</a></p>\n<p>Points: 81</p>\n<p># Comments: 104</p>",
+    "published": "2026-04-16T20:49:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I Feel So Sorry for My A.I. Sunglasses",
+    "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+    "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
+    "published": "2026-04-16T20:12:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+    "link": "https://clojure.org/about/documentary",
+    "summary": "<p>Article URL: <a href=\"https://clojure.org/about/documentary\">https://clojure.org/about/documentary</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798345\">https://news.ycombinator.com/item?id=47798345</a></p>\n<p>Points: 208</p>\n<p># Comments: 53</p>",
+    "published": "2026-04-16T19:32:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Playdate’s handheld changed how Duke University teaches game design",
+    "link": "https://news.play.date/news/duke-playdate-education/",
+    "summary": "<p>Article URL: <a href=\"https://news.play.date/news/duke-playdate-education/\">https://news.play.date/news/duke-playdate-education/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47798176\">https://news.ycombinator.com/item?id=47798176</a></p>\n<p>Points: 145</p>\n<p># Comments: 59</p>",
+    "published": "2026-04-16T19:18:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "link": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "summary": "<p>Article URL: <a href=\"https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html\">https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47797665\">https://news.ycombinator.com/item?id=47797665</a></p>\n<p>Points: 241</p>\n<p># Comments: 91</p>",
+    "published": "2026-04-16T18:39:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
+    "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+    "summary": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
+    "published": "2026-04-16T17:36:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Codex for almost everything",
+    "link": "https://openai.com/index/codex-for-almost-everything/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/codex-for-almost-everything/\">https://openai.com/index/codex-for-almost-everything/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47796469\">https://news.ycombinator.com/item?id=47796469</a></p>\n<p>Points: 879</p>\n<p># Comments: 454</p>",
+    "published": "2026-04-16T17:12:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+    "link": "https://www.zatanna.ai/kampala",
+    "summary": "<p>Hey! I am Alex and together with my co-founder Tarun built Kampala (<a href=\"https://www.zatanna.ai/kampala\">https://www.zatanna.ai/kampala</a>). It’s a man-in-the-middle (MITM) style proxy that allows you to agentically reverse engineer existing workflows without brittle browser automation or computer use agents. It works for websites, mobile apps, desktop apps.<p>Demo: <a href=\"https://www.youtube.com/watch?v=z_PeostC-b4\" rel=\"nofollow\">https://www.youtube.com/watch?v=z_PeostC-b4</a>.\nMany people spend hours per day in legacy dashboards and on-prem solutions reconciling data across platforms. Current attempts at automation use browser automations or computer use agents which are brittle, slow, and nondeterministic. \nI come from a web reverse engineering background and spent the last 7-8 years building integrations by hand for sneaker/ticket releases, sportsbooks logins, and everything in\\ between. During that time I consulted for several companies and brought them off of browser based infrastructure into the requests layer.<p>When we started Zatanna (that’s our company name) we worked in dental tech, which meant we had to deal with tons of insurance payer dashboards and legacy dental-practice solutions. Our superpower (as a fairly undifferentiated voice agent/front desk assistant company) was that we could integrate with nearly any system requested. During this time we built extensive tooling (including what we’re now calling Kampala) to allow us to spin up these integrations quickly. \nExisting MITM proxies and tooling didn’t work for a few reasons: (1) They manipulated the TLS and HTTP2 fingerprint over the wire which was detected by strict anti-bots. (2) They had bad MCPs which did not adequately expose necessary features like scripts/replay. (3) They did not allow for building workflows or actions given a sample or sequence of requests.<p>As the tools we built got more powerful, we began to use them internally to scrape conference attendees, connect to external PMS systems, and interact with slack apps. I even sent it to my property manager mom, who (with a lot of help from me lol), automated 2-3 hours of billing information entry in Yardi. At that point we realized that this wasn’t really about dentistry :)<p>Because Kampala is a MITM, it is able to leverage existing session tokens/anti-bot cookies and automate things deterministically in seconds. You can either use our agent harness that directly creates scripts/apis by prompting you with what actions to make, or our MCP by manually doing a  workflow once, and asking your preferred coding agent to use Kampala to make a script/API to replicate it. Once you have an API/script, you can export, run, or even have us host it for you.<p>We think the future of automation does not consist of sending screenshots of webpages to LLMs, but instead using the layer below that computers actually understand. Excited to hear your thoughts/questions/feedback!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47794514\">https://news.ycombinator.com/item?id=47794514</a></p>\n<p>Points: 89</p>\n<p># Comments: 74</p>",
+    "published": "2026-04-16T15:19:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+    "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+    "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
+    "published": "2026-04-16T14:30:51",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Claude Opus 4.7",
+    "link": "https://www.anthropic.com/news/claude-opus-4-7",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-7\">https://www.anthropic.com/news/claude-opus-4-7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47793411\">https://news.ycombinator.com/item?id=47793411</a></p>\n<p>Points: 1756</p>\n<p># Comments: 1262</p>",
+    "published": "2026-04-16T14:23:50",
     "source": "Hacker News: Front Page"
   },
   {
@@ -56,27 +182,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Agent - Native Mac OS X coding ide/harness",
-    "link": "https://github.com/macOS26/Agent",
-    "summary": "<p>Article URL: <a href=\"https://github.com/macOS26/Agent\">https://github.com/macOS26/Agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47787127\">https://news.ycombinator.com/item?id=47787127</a></p>\n<p>Points: 50</p>\n<p># Comments: 21</p>",
-    "published": "2026-04-16T00:19:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I made a terminal pager",
-    "link": "https://theleo.zone/posts/pager/",
-    "summary": "<p>Article URL: <a href=\"https://theleo.zone/posts/pager/\">https://theleo.zone/posts/pager/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47786164\">https://news.ycombinator.com/item?id=47786164</a></p>\n<p>Points: 132</p>\n<p># Comments: 30</p>",
-    "published": "2026-04-15T22:27:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-    "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-    "summary": "<p>Article URL: <a href=\"https://www.mcdonalds.co.jp/en/menu/burger/\">https://www.mcdonalds.co.jp/en/menu/burger/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785738\">https://news.ycombinator.com/item?id=47785738</a></p>\n<p>Points: 446</p>\n<p># Comments: 220</p>",
-    "published": "2026-04-15T21:48:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Ford Says Doug Field, Who Led Company's E.V. Push, is Leaving",
     "link": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
     "summary": "Doug Field, a former Tesla and Apple executive, had returned to Ford Motor in 2021 to help develop new electric models and software.",
@@ -84,39 +189,18 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "ChatGPT for Excel",
-    "link": "https://chatgpt.com/apps/spreadsheets/",
-    "summary": "<p>Article URL: <a href=\"https://chatgpt.com/apps/spreadsheets/\">https://chatgpt.com/apps/spreadsheets/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47785397\">https://news.ycombinator.com/item?id=47785397</a></p>\n<p>Points: 209</p>\n<p># Comments: 144</p>",
-    "published": "2026-04-15T21:21:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
     "link": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
     "summary": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance.",
-    "published": "2026-04-15T21:01:24",
+    "published": "2026-04-15T21:01:25",
     "source": "NYT > Technology"
   },
   {
-    "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
-    "link": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
-    "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
-    "published": "2026-04-15T19:56:11",
+    "title": "Snap Is Laying Off 16% of Full-Time Staff as It Embraces A.I.",
+    "link": "https://www.nytimes.com/2026/04/15/business/snap-layoffs-snapchat.html",
+    "summary": "The company, which owns the social media app Snapchat, said it was laying off about 1,000 employees as it increased its reliance on artificial intelligence.",
+    "published": "2026-04-15T18:21:18",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "PiCore - Raspberry Pi Port of Tiny Core Linux",
-    "link": "http://tinycorelinux.net/5.x/armv6/releases/README",
-    "summary": "<p>Article URL: <a href=\"http://tinycorelinux.net/5.x/armv6/releases/README\">http://tinycorelinux.net/5.x/armv6/releases/README</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47784244\">https://news.ycombinator.com/item?id=47784244</a></p>\n<p>Points: 112</p>\n<p># Comments: 13</p>",
-    "published": "2026-04-15T19:45:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Live Nation illegally monopolized ticketing market, jury finds",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-    "summary": "<p><a href=\"https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html\" rel=\"nofollow\">https://www.nytimes.com/2026/04/15/arts/music/live-nation-an...</a>, <a href=\"https://archive.ph/KA1wV\" rel=\"nofollow\">https://archive.ph/KA1wV</a><p><a href=\"https://www.theverge.com/policy/912689/live-nation-ticketmaster-antitrust-monopoly-trial-verdict\" rel=\"nofollow\">https://www.theverge.com/policy/912689/live-nation-ticketmas...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47783713\">https://news.ycombinator.com/item?id=47783713</a></p>\n<p>Points: 546</p>\n<p># Comments: 158</p>",
-    "published": "2026-04-15T19:06:39",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Ad Companies Settle With F.T.C. Over Claims of Harm to Conservative Sites",
@@ -126,67 +210,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Google broke its promise to me – now ICE has my data",
-    "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data\">https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47782570\">https://news.ycombinator.com/item?id=47782570</a></p>\n<p>Points: 1481</p>\n<p># Comments: 629</p>",
-    "published": "2026-04-15T17:44:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Gemini app is now on Mac",
-    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/\">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47782256\">https://news.ycombinator.com/item?id=47782256</a></p>\n<p>Points: 141</p>\n<p># Comments: 74</p>",
-    "published": "2026-04-15T17:25:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Adaptional (YC S25) is hiring AI engineers",
-    "link": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer\">https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47781912\">https://news.ycombinator.com/item?id=47781912</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-15T17:00:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CRISPR takes important step toward silencing Down syndrome’s extra chromosome",
-    "link": "https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html",
-    "summary": "<p>Article URL: <a href=\"https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html\">https://medicalxpress.com/news/2026-04-crispr-bold-silencing-syndrome-extra.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47781286\">https://news.ycombinator.com/item?id=47781286</a></p>\n<p>Points: 160</p>\n<p># Comments: 96</p>",
-    "published": "2026-04-15T16:19:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Libretto – Making AI browser automations deterministic",
-    "link": "https://github.com/saffron-health/libretto",
-    "summary": "<p>Libretto (<a href=\"https://libretto.sh\" rel=\"nofollow\">https://libretto.sh</a>) is a Skill+CLI that makes it easy for your coding agent to generate deterministic browser automations and debug existing ones. Key shift is going from “give an agent a prompt at runtime and hope it figures things out” to: “Use coding agents to generate real scripts you can inspect, run, and debug”.<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=0cDpIntmHAM\" rel=\"nofollow\">https://www.youtube.com/watch?v=0cDpIntmHAM</a>. Docs start at <a href=\"https://libretto.sh/docs/get-started/introduction\" rel=\"nofollow\">https://libretto.sh/docs/get-started/introduction</a>.<p>We spent a year building and maintaining browser automations for EHR and payer portal integrations at our healthcare startup. Building these automations and debugging failed ones was incredibly time-consuming.<p>There’s lots of tools that use runtime AI like Browseruse and Stagehand which we tried, but (1) they’re reliant on custom DOM parsing that's unreliable on older and complicated websites (including all of healthcare). Using a website’s internal network calls is faster and more reliable when possible. (2) They can be expensive since they rely on lots of AI calls and for workflows with complicated logic you can’t always rely on caching actions to make sure it will work. (3) They’re at runtime so it’s not interpretable what the agent is going to do. You kind of hope you prompted it correctly to do the right thing, but legacy workflows are often unintuitive and inconsistent across sites so you can’t trust an agent to just figure it out at runtime. (4) They don’t really help you generate new automations or help you debug automation failures.<p>We wanted a way to reliably generate and maintain browser automations in messy, high-stakes environments, without relying on fragile runtime agents.<p>Libretto is different because instead of runtime agents it uses “development-time AI”: scripts are generated ahead of time as actual code you can read and control, not opaque agent behavior at runtime. Instead of a black box, you own the code and can inspect, modify, version, and debug everything.<p>Rather than relying on runtime DOM parsing, Libretto takes a hybrid approach combining Playwright UI automation with direct network/API requests within the browser session for better reliability and bot detection evasion.<p>It records manual user actions to help agents generate and update scripts, supports step-through debugging, has an optional read-only mode to prevent agents from accidentally submitting or modifying data, and generates code that follows all the abstractions and conventions you have already in your coding repo.<p>Would love to hear how others are building and maintaining browser automations in practice, and any feedback on the approach we’ve taken here.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47780971\">https://news.ycombinator.com/item?id=47780971</a></p>\n<p>Points: 102</p>\n<p># Comments: 36</p>",
-    "published": "2026-04-15T15:57:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "We Don’t Really Know How A.I. Works. That’s a Problem.",
     "link": "https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html",
     "summary": "For us to trust it on certain subjects, researchers in the growing field of interpretability might need to learn how to open the black box of its brain.",
     "published": "2026-04-15T15:27:27",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Cal.com is going closed source",
-    "link": "https://cal.com/blog/cal-com-goes-closed-source-why",
-    "summary": "<p>Article URL: <a href=\"https://cal.com/blog/cal-com-goes-closed-source-why\">https://cal.com/blog/cal-com-goes-closed-source-why</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47780456\">https://news.ycombinator.com/item?id=47780456</a></p>\n<p>Points: 311</p>\n<p># Comments: 237</p>",
-    "published": "2026-04-15T15:26:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
-    "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
-    "summary": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
-    "published": "2026-04-15T15:19:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-    "link": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-    "summary": "<p>Article URL: <a href=\"https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf\">https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47778920\">https://news.ycombinator.com/item?id=47778920</a></p>\n<p>Points: 138</p>\n<p># Comments: 98</p>",
-    "published": "2026-04-15T13:47:40",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Spice Up Your Cooking Skills With Help From Your Phone",
@@ -214,13 +242,6 @@
     "link": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
     "summary": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk’s Starlink.",
     "published": "2026-04-14T17:53:43",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "I Feel So Sorry for My A.I. Sunglasses",
-    "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
-    "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
-    "published": "2026-04-14T17:02:45",
     "source": "NYT > Technology"
   },
   {
@@ -256,27 +277,6 @@
     "link": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
     "summary": "Whether you’re looking to manage a health condition, lose weight or simply eat better, we want to hear from you.",
     "published": "2026-04-10T16:41:15",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Half of Gen Z Uses AI, but Their Feelings Are Souring, Study Shows",
-    "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
-    "summary": "A new study from Gallup found that young adults have grown less hopeful and more angry about artificial intelligence.",
-    "published": "2026-04-09T16:01:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label",
-    "link": "https://www.nytimes.com/2026/04/08/technology/anthropic-pentagon-risk-circuit-court.html",
-    "summary": "The ruling was a setback for the artificial intelligence start-up in its battle with the Defense Department over the use of A.I. in warfare.",
-    "published": "2026-04-09T00:19:59",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Unveils New A.I. Model, Its First From the Superintelligence Lab",
-    "link": "https://www.nytimes.com/2026/04/08/technology/meta-muse-spark-ai-model.html",
-    "summary": "The model, Muse Spark, performed better than Meta’s previous A.I. models but lags rivals on coding ability.",
-    "published": "2026-04-08T16:50:33",
     "source": "NYT > Technology"
   }
 ]
