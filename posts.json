@@ -1,73 +1,143 @@
 [
   {
-    "title": "America Lost the Mandate of Heaven",
-    "link": "https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html",
-    "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html\">https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47814073\">https://news.ycombinator.com/item?id=47814073</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
-    "published": "2026-04-18T07:56:18",
+    "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+    "link": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
+    "summary": "<p>Article URL: <a href=\"https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf\">https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822805\">https://news.ycombinator.com/item?id=47822805</a></p>\n<p>Points: 23</p>\n<p># Comments: 7</p>",
+    "published": "2026-04-19T08:45:48",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Category Theory Illustrated – Orders",
-    "link": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-    "summary": "<p>Article URL: <a href=\"https://abuseofnotation.github.io/category-theory-illustrated/04_order/\">https://abuseofnotation.github.io/category-theory-illustrated/04_order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47813668\">https://news.ycombinator.com/item?id=47813668</a></p>\n<p>Points: 61</p>\n<p># Comments: 13</p>",
-    "published": "2026-04-18T06:40:47",
+    "title": "The RAM shortage could last years",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years\">https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822414\">https://news.ycombinator.com/item?id=47822414</a></p>\n<p>Points: 35</p>\n<p># Comments: 27</p>",
+    "published": "2026-04-19T07:18:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Amiga Graphics",
-    "link": "https://amiga.lychesis.net/",
-    "summary": "<p>Article URL: <a href=\"https://amiga.lychesis.net/\">https://amiga.lychesis.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47813566\">https://news.ycombinator.com/item?id=47813566</a></p>\n<p>Points: 58</p>\n<p># Comments: 2</p>",
-    "published": "2026-04-18T06:20:04",
+    "title": "Keep Pushing: We Get 10 More Days to Reform Section 702",
+    "link": "https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702\">https://www.eff.org/deeplinks/2026/04/keep-pushing-we-get-10-more-days-reform-section-702</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47822356\">https://news.ycombinator.com/item?id=47822356</a></p>\n<p>Points: 52</p>\n<p># Comments: 4</p>",
+    "published": "2026-04-19T07:05:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "It is incorrect to \"normalize\" // in HTTP URL paths",
-    "link": "https://runxiyu.org/comp/doubleslash/",
-    "summary": "<p>Article URL: <a href=\"https://runxiyu.org/comp/doubleslash/\">https://runxiyu.org/comp/doubleslash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47813454\">https://news.ycombinator.com/item?id=47813454</a></p>\n<p>Points: 29</p>\n<p># Comments: 18</p>",
-    "published": "2026-04-18T05:47:10",
+    "title": "The world in which IPv6 was a good design",
+    "link": "https://apenwarr.ca/log/20170810",
+    "summary": "<p>Article URL: <a href=\"https://apenwarr.ca/log/20170810\">https://apenwarr.ca/log/20170810</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47821429\">https://news.ycombinator.com/item?id=47821429</a></p>\n<p>Points: 47</p>\n<p># Comments: 9</p>",
+    "published": "2026-04-19T02:50:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
+    "link": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+    "summary": "<p>Article URL: <a href=\"https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/\">https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47820531\">https://news.ycombinator.com/item?id=47820531</a></p>\n<p>Points: 172</p>\n<p># Comments: 78</p>",
+    "published": "2026-04-18T23:47:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
+    "link": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+    "summary": "<p>Article URL: <a href=\"https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/\">https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47820195\">https://news.ycombinator.com/item?id=47820195</a></p>\n<p>Points: 80</p>\n<p># Comments: 28</p>",
+    "published": "2026-04-18T22:46:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "My first impressions on ROCm and Strix Halo",
+    "link": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
+    "summary": "<p>Article URL: <a href=\"https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/\">https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47819823\">https://news.ycombinator.com/item?id=47819823</a></p>\n<p>Points: 44</p>\n<p># Comments: 33</p>",
+    "published": "2026-04-18T21:50:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NIST scientists create 'any wavelength' lasers",
+    "link": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+    "summary": "<p>Article URL: <a href=\"https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits\">https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47819453\">https://news.ycombinator.com/item?id=47819453</a></p>\n<p>Points: 306</p>\n<p># Comments: 134</p>",
+    "published": "2026-04-18T20:54:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Optimizing Ruby Path Methods",
+    "link": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+    "summary": "<p>Article URL: <a href=\"https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html\">https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47819369\">https://news.ycombinator.com/item?id=47819369</a></p>\n<p>Points: 100</p>\n<p># Comments: 35</p>",
+    "published": "2026-04-18T20:42:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Thoughts and feelings around Claude Design",
+    "link": "https://samhenri.gold/blog/20260418-claude-design/",
+    "summary": "<p>Article URL: <a href=\"https://samhenri.gold/blog/20260418-claude-design/\">https://samhenri.gold/blog/20260418-claude-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47818700\">https://news.ycombinator.com/item?id=47818700</a></p>\n<p>Points: 303</p>\n<p># Comments: 196</p>",
+    "published": "2026-04-18T19:19:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "summary": "<p>Article URL: <a href=\"https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/\">https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47818485\">https://news.ycombinator.com/item?id=47818485</a></p>\n<p>Points: 277</p>\n<p># Comments: 266</p>",
+    "published": "2026-04-18T19:00:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
+    "link": "https://up.codes/careers?utm_source=HN",
+    "summary": "<p>Article URL: <a href=\"https://up.codes/careers?utm_source=HN\">https://up.codes/careers?utm_source=HN</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47817473\">https://news.ycombinator.com/item?id=47817473</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-18T17:01:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+    "link": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+    "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html\">https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47817132\">https://news.ycombinator.com/item?id=47817132</a></p>\n<p>Points: 333</p>\n<p># Comments: 91</p>",
+    "published": "2026-04-18T16:26:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+    "link": "https://tokens.billchambers.me/leaderboard",
+    "summary": "<p>Article URL: <a href=\"https://tokens.billchambers.me/leaderboard\">https://tokens.billchambers.me/leaderboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47816960\">https://news.ycombinator.com/item?id=47816960</a></p>\n<p>Points: 516</p>\n<p># Comments: 507</p>",
+    "published": "2026-04-18T16:05:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data",
+    "link": "https://github.com/drasimwagan/mdv",
+    "summary": "<p>Article URL: <a href=\"https://github.com/drasimwagan/mdv\">https://github.com/drasimwagan/mdv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47816629\">https://news.ycombinator.com/item?id=47816629</a></p>\n<p>Points: 113</p>\n<p># Comments: 43</p>",
+    "published": "2026-04-18T15:24:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Migrating from DigitalOcean to Hetzner",
+    "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+    "summary": "<p>Article URL: <a href=\"https://isayeter.com/posts/digitalocean-to-hetzner-migration/\">https://isayeter.com/posts/digitalocean-to-hetzner-migration/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47815774\">https://news.ycombinator.com/item?id=47815774</a></p>\n<p>Points: 778</p>\n<p># Comments: 389</p>",
+    "published": "2026-04-18T13:29:04",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
     "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
     "summary": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
-    "published": "2026-04-18T04:42:04",
+    "published": "2026-04-18T13:16:22",
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Sfsym – Export Apple SF Symbols as Vector SVG/PDF/PNG",
-    "link": "https://github.com/yapstudios/sfsym",
-    "summary": "<p>I found myself reaching for SF Symbols' 'Copy Image As…' quite often during agentic design sessions, so I made a command-line tool that the agent can use by itself. It exports Apple SF Symbols as SVG, PDF, or PNG.<p>The vector paths come directly from macOS's symbol renderer. Internally it reaches a private ivar on NSSymbolImageRep to get the CUINamedVectorGlyph, draws into a CGPDFContext, then walks the PDF content stream back out as SVG `d` commands. The output matches what the system draws, rather than an approximation traced from rasters.<p>A few things about it:<p>- Every subcommand accepts `--json`, and `sfsym schema` returns a machine-readable description of the whole CLI.\n- Symbol enumeration reads the OS's Assets.car BOM tree, so the list of 8,300+ names stays current with macOS updates without a version table in the binary.\n- Each SVG `` carries a `data-layer` attribute, so you can retheme in CSS without touching geometry.<p>It's been saving me a bunch of clicking. Please let me know if you have any other ideas for it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47812964\">https://news.ycombinator.com/item?id=47812964</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-18T03:44:54",
+    "title": "Why Japan has such good railways",
+    "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "summary": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/why-japan-has-such-good-railways/\">https://worksinprogress.co/issue/why-japan-has-such-good-railways/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47815395\">https://news.ycombinator.com/item?id=47815395</a></p>\n<p>Points: 405</p>\n<p># Comments: 370</p>",
+    "published": "2026-04-18T12:29:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-    "link": "https://victorpoughon.github.io/interval-calculator/",
-    "summary": "<p>I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has never really gotten the recognition that it deserves, IMO.<p>One reason for this is that standard interval arithmetic has really poor handling of division by intervals containing zero. If you compute 1 / [-1, 2] in regular interval arithmetic, you get either [-∞, +∞], or you have to say that the operation is undefined. Both solutions are virtually useless. The real answer of course is [-∞, -1] U [0.5, +∞]: i.e. a union of two disjoint intervals.<p>This is useful because you can confidently exclude a non empty set of the real numbers ([-1, 0.5]) from the set of possible values that you can get by dividing 1 by a number between -1 and 2.<p>But this definition of interval division yields a value that is not an interval. This is a problem if you want to define a closed arithmetic system, where you can build and evaluate arbitrary expression over interval values.<p>(This behavior extends to any non continuous function like tan() for example, which is implemented in my project - not without difficulties!)<p>Well the obvious solution is to define your arithmetic over disjoint unions of intervals. This is the subject of a 2017 paper called \"Interval Unions\" by by Schichl, H., Domes, F., Montanher, T. and Kofler, K..<p>This open-source project I made implements interval union arithmetic in TypeScript in the form of a simple interactive calculator, so you can try it out for yourself! The underlying TypeScript library is dependency free and implements interval union arithmetic over IEEE 754 double precision floats (JS native number type) with outward rounding. This guarantees accuracy of interval results in the presence of rounding issue inherent to floating point.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47812341\">https://news.ycombinator.com/item?id=47812341</a></p>\n<p>Points: 152</p>\n<p># Comments: 27</p>",
-    "published": "2026-04-18T01:15:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Casus Belli Engineering",
-    "link": "https://marcosmagueta.com/blog/casus-belli-engineering/",
-    "summary": "<p>Article URL: <a href=\"https://marcosmagueta.com/blog/casus-belli-engineering/\">https://marcosmagueta.com/blog/casus-belli-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47812331\">https://news.ycombinator.com/item?id=47812331</a></p>\n<p>Points: 38</p>\n<p># Comments: 12</p>",
-    "published": "2026-04-18T01:14:02",
+    "title": "State of Kdenlive",
+    "link": "https://kdenlive.org/news/2026/state-2026/",
+    "summary": "<p>Article URL: <a href=\"https://kdenlive.org/news/2026/state-2026/\">https://kdenlive.org/news/2026/state-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47815118\">https://news.ycombinator.com/item?id=47815118</a></p>\n<p>Points: 398</p>\n<p># Comments: 122</p>",
+    "published": "2026-04-18T11:42:37",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise",
     "link": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
     "summary": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
-    "published": "2026-04-17T23:45:45",
+    "published": "2026-04-17T23:45:46",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
-    "link": "https://www.nature.com/articles/d41586-026-01204-5",
-    "summary": "<p>Related: <i>Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]</i> - <a href=\"https://news.ycombinator.com/item?id=47791282\">https://news.ycombinator.com/item?id=47791282</a> (64 comments)<p><a href=\"https://x.com/doctorveera/status/2044679999450664967\" rel=\"nofollow\">https://x.com/doctorveera/status/2044679999450664967</a> (<a href=\"https://xcancel.com/doctorveera/status/2044679999450664967\" rel=\"nofollow\">https://xcancel.com/doctorveera/status/2044679999450664967</a>)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47811283\">https://news.ycombinator.com/item?id=47811283</a></p>\n<p>Points: 79</p>\n<p># Comments: 67</p>",
-    "published": "2026-04-17T22:30:28",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
@@ -77,38 +147,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "A simplified model of Fil-C",
-    "link": "https://www.corsix.org/content/simplified-model-of-fil-c",
-    "summary": "<p>Article URL: <a href=\"https://www.corsix.org/content/simplified-model-of-fil-c\">https://www.corsix.org/content/simplified-model-of-fil-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47810872\">https://news.ycombinator.com/item?id=47810872</a></p>\n<p>Points: 175</p>\n<p># Comments: 94</p>",
-    "published": "2026-04-17T21:38:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
     "link": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
     "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead\">https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47810507\">https://news.ycombinator.com/item?id=47810507</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
     "published": "2026-04-17T21:00:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "\"cat readme.txt\" is not safe if you use iTerm2",
-    "link": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
-    "summary": "<p>Article URL: <a href=\"https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not\">https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47809190\">https://news.ycombinator.com/item?id=47809190</a></p>\n<p>Points: 185</p>\n<p># Comments: 99</p>",
-    "published": "2026-04-17T18:43:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-    "link": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-    "summary": "<p>Article URL: <a href=\"https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon\">https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47808913\">https://news.ycombinator.com/item?id=47808913</a></p>\n<p>Points: 332</p>\n<p># Comments: 194</p>",
-    "published": "2026-04-17T18:17:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-    "link": "https://github.com/smol-machines/smolvm",
-    "summary": "<p>Article URL: <a href=\"https://github.com/smol-machines/smolvm\">https://github.com/smol-machines/smolvm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47808268\">https://news.ycombinator.com/item?id=47808268</a></p>\n<p>Points: 332</p>\n<p># Comments: 102</p>",
-    "published": "2026-04-17T17:18:58",
     "source": "Hacker News: Front Page"
   },
   {
@@ -119,27 +161,6 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-    "link": "https://github.com/paniclock/paniclock/",
-    "summary": "<p>I wrote this after the case of a Washington Post reporter, Hannah Natanson, was compelled to unlock her computer with her fingerprint. This resulted in access to her Desktop Signal on her computer, revealing sources and their conversations.<p><a href=\"https://www.yahoo.com/news/articles/washington-post-raid-proves-face-153402560.html\" rel=\"nofollow\">https://www.yahoo.com/news/articles/washington-post-raid-pro...</a><p>Edit: I've a lot more details about the legality and precedence on the apps landing page <a href=\"https://paniclock.github.io/\" rel=\"nofollow\">https://paniclock.github.io/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47807809\">https://news.ycombinator.com/item?id=47807809</a></p>\n<p>Points: 192</p>\n<p># Comments: 83</p>",
-    "published": "2026-04-17T16:38:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hyperscalers have already outspent most famous US megaprojects",
-    "link": "https://twitter.com/finmoorhouse/status/2044933442236776794",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/finmoorhouse/status/2044933442236776794\">https://twitter.com/finmoorhouse/status/2044933442236776794</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47807619\">https://news.ycombinator.com/item?id=47807619</a></p>\n<p>Points: 193</p>\n<p># Comments: 156</p>",
-    "published": "2026-04-17T16:23:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Spending 3 months coding by hand",
-    "link": "https://miguelconner.substack.com/p/im-coding-by-hand",
-    "summary": "<p>Article URL: <a href=\"https://miguelconner.substack.com/p/im-coding-by-hand\">https://miguelconner.substack.com/p/im-coding-by-hand</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47807583\">https://news.ycombinator.com/item?id=47807583</a></p>\n<p>Points: 206</p>\n<p># Comments: 209</p>",
-    "published": "2026-04-17T16:19:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How Do You Measure an A.I. Boom?",
     "link": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
     "summary": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
@@ -147,32 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "NASA Force",
-    "link": "https://nasaforce.gov/",
-    "summary": "<p>Article URL: <a href=\"https://nasaforce.gov/\">https://nasaforce.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47807209\">https://news.ycombinator.com/item?id=47807209</a></p>\n<p>Points: 273</p>\n<p># Comments: 268</p>",
-    "published": "2026-04-17T15:47:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
     "link": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
     "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
-    "published": "2026-04-17T15:32:15",
+    "published": "2026-04-17T15:32:16",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "summary": "<p>Article URL: <a href=\"https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you\">https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47807006\">https://news.ycombinator.com/item?id=47807006</a></p>\n<p>Points: 608</p>\n<p># Comments: 433</p>",
-    "published": "2026-04-17T15:29:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Slop Cop",
-    "link": "https://awnist.com/slop-cop",
-    "summary": "<p>Article URL: <a href=\"https://awnist.com/slop-cop\">https://awnist.com/slop-cop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47806845\">https://news.ycombinator.com/item?id=47806845</a></p>\n<p>Points: 175</p>\n<p># Comments: 106</p>",
-    "published": "2026-04-17T15:15:24",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
@@ -277,13 +277,6 @@
     "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
     "summary": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
     "published": "2026-04-13T17:54:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Escalating Global A.I. Arms Race",
-    "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-    "summary": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of the nuclear weapons age.",
-    "published": "2026-04-12T18:24:26",
     "source": "NYT > Technology"
   }
 ]
