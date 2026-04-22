@@ -1,111 +1,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://social.hails.org/@hailey/116446826733136456</loc>
+    <lastmod>2026-04-22T09:52:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4</loc>
+    <lastmod>2026-04-22T09:02:46</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html</loc>
+    <lastmod>2026-04-22T09:01:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html</loc>
+    <lastmod>2026-04-22T09:00:07</lastmod>
+  </url>
+  <url>
+    <loc>https://causality.blog/essays/what-async-promised/</loc>
+    <lastmod>2026-04-22T05:28:58</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/justrach/kuri</loc>
+    <lastmod>2026-04-22T02:15:38</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html</loc>
+    <lastmod>2026-04-22T00:22:29</lastmod>
+  </url>
+  <url>
+    <loc>https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as</loc>
+    <lastmod>2026-04-21T23:53:45</lastmod>
+  </url>
+  <url>
+    <loc>https://twitter.com/spacex/status/2046713419978453374</loc>
+    <lastmod>2026-04-21T22:13:18</lastmod>
+  </url>
+  <url>
+    <loc>https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a</loc>
+    <lastmod>2026-04-21T21:03:04</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/introducing-chatgpt-images-2-0/</loc>
+    <lastmod>2026-04-21T18:50:00</lastmod>
+  </url>
+  <url>
+    <loc>https://frame.work/laptop13pro</loc>
+    <lastmod>2026-04-21T18:00:34</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/calcom/cal.diy</loc>
+    <lastmod>2026-04-21T17:58:21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</loc>
+    <lastmod>2026-04-21T17:40:39</lastmod>
+  </url>
+  <url>
+    <loc>https://britannica11.org/</loc>
+    <lastmod>2026-04-21T17:33:50</lastmod>
+  </url>
+  <url>
+    <loc>https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html</loc>
+    <lastmod>2026-04-21T17:14:35</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time</loc>
+    <lastmod>2026-04-21T17:01:15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html</loc>
+    <lastmod>2026-04-21T16:16:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html</loc>
+    <lastmod>2026-04-21T15:43:25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.brex.com/crabtrap</loc>
+    <lastmod>2026-04-21T15:29:16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html</loc>
+    <lastmod>2026-04-21T14:51:29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.fusionenergybase.com/fusion-power-plant-simulator</loc>
+    <lastmod>2026-04-21T14:26:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html</loc>
+    <lastmod>2026-04-21T14:19:03</lastmod>
+  </url>
+  <url>
+    <loc>https://lawsofsoftwareengineering.com</loc>
+    <lastmod>2026-04-21T11:04:56</lastmod>
+  </url>
+  <url>
+    <loc>https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/</loc>
+    <lastmod>2026-04-21T10:19:49</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/21/technology/apple-cook-ternus-wish-list.html</loc>
     <lastmod>2026-04-21T09:03:32</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html</loc>
-    <lastmod>2026-04-21T08:46:19</lastmod>
-  </url>
-  <url>
-    <loc>https://luke.hsiao.dev/blog/changesets-polyglot-monorepo/</loc>
-    <lastmod>2026-04-21T06:25:50</lastmod>
-  </url>
-  <url>
-    <loc>https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice</loc>
-    <lastmod>2026-04-21T06:19:15</lastmod>
-  </url>
-  <url>
-    <loc>https://aadamjacobscollection.org/</loc>
-    <lastmod>2026-04-21T06:12:41</lastmod>
-  </url>
-  <url>
-    <loc>https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html</loc>
-    <lastmod>2026-04-21T05:59:53</lastmod>
-  </url>
-  <url>
-    <loc>https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust</loc>
-    <lastmod>2026-04-21T05:27:35</lastmod>
-  </url>
-  <url>
-    <loc>https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles</loc>
-    <lastmod>2026-04-21T04:31:30</lastmod>
-  </url>
-  <url>
-    <loc>https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform</loc>
-    <lastmod>2026-04-21T04:12:12</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.openclaw.ai/providers/anthropic</loc>
-    <lastmod>2026-04-21T03:43:03</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html</loc>
-    <lastmod>2026-04-21T01:11:04</lastmod>
+    <lastmod>2026-04-21T01:11:05</lastmod>
   </url>
   <url>
-    <loc>https://zef-lang.dev/implementation</loc>
-    <lastmod>2026-04-21T00:48:07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html</loc>
-    <lastmod>2026-04-20T21:49:39</lastmod>
-  </url>
-  <url>
-    <loc>https://ccs.getmonero.org/ideas/</loc>
-    <lastmod>2026-04-20T21:33:15</lastmod>
-  </url>
-  <url>
-    <loc>https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit</loc>
-    <lastmod>2026-04-20T21:32:10</lastmod>
+    <loc>https://www.youtube.com/watch?v=h6GWikWlAQA</loc>
+    <lastmod>2026-04-20T23:35:06</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html</loc>
     <lastmod>2026-04-20T21:29:04</lastmod>
   </url>
   <url>
-    <loc>https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/</loc>
-    <lastmod>2026-04-20T20:39:32</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/gizmo64k/soulplayer-c64</loc>
-    <lastmod>2026-04-20T19:51:07</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html</loc>
     <lastmod>2026-04-20T18:54:59</lastmod>
   </url>
   <url>
-    <loc>https://www.kimi.com/blog/kimi-vendor-verifier</loc>
-    <lastmod>2026-04-20T18:39:53</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/trybloom/jobs</loc>
-    <lastmod>2026-04-20T17:00:45</lastmod>
-  </url>
-  <url>
-    <loc>https://words.filippo.io/128-bits/</loc>
-    <lastmod>2026-04-20T16:37:48</lastmod>
-  </url>
-  <url>
-    <loc>https://mediator.ai/</loc>
-    <lastmod>2026-04-20T15:07:04</lastmod>
-  </url>
-  <url>
-    <loc>http://mnt.stanleylieber.com/reform/</loc>
-    <lastmod>2026-04-20T14:14:52</lastmod>
-  </url>
-  <url>
-    <loc>https://qwen.ai/blog?id=qwen3.6-max-preview</loc>
-    <lastmod>2026-04-20T14:05:34</lastmod>
-  </url>
-  <url>
-    <loc>https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/</loc>
-    <lastmod>2026-04-20T13:41:25</lastmod>
+    <loc>https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/</loc>
+    <lastmod>2026-04-20T18:24:05</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html</loc>
@@ -136,10 +156,6 @@
     <lastmod>2026-04-16T17:36:09</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html</loc>
-    <lastmod>2026-04-16T14:30:51</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html</loc>
     <lastmod>2026-04-16T00:31:58</lastmod>
   </url>
@@ -150,25 +166,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html</loc>
     <lastmod>2026-04-15T18:08:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/15/magazine/ai-black-box-interpretability-research.html</loc>
-    <lastmod>2026-04-15T15:27:27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html</loc>
-    <lastmod>2026-04-15T09:04:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/15/technology/vr-technology-elderly-community-social-isolation.html</loc>
-    <lastmod>2026-04-15T09:00:11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html</loc>
-    <lastmod>2026-04-15T00:25:41</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html</loc>
-    <lastmod>2026-04-14T17:53:43</lastmod>
   </url>
 </urlset>
