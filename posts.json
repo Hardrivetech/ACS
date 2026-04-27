@@ -1,150 +1,178 @@
 [
   {
-    "title": "APL is more French than English",
-    "link": "https://www.jsoftware.com/papers/perlis78.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.jsoftware.com/papers/perlis78.htm\">https://www.jsoftware.com/papers/perlis78.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908166\">https://news.ycombinator.com/item?id=47908166</a></p>\n<p>Points: 15</p>\n<p># Comments: 7</p>",
-    "published": "2026-04-26T07:24:07",
+    "title": "It's OK to abandon your side-project (2024)",
+    "link": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+    "summary": "<p>Article URL: <a href=\"https://robbowen.digital/wrote-about/abandoned-side-projects/\">https://robbowen.digital/wrote-about/abandoned-side-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47918961\">https://news.ycombinator.com/item?id=47918961</a></p>\n<p>Points: 88</p>\n<p># Comments: 40</p>",
+    "published": "2026-04-27T08:11:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Knight Programming Language",
-    "link": "https://github.com/knight-lang/knight-lang/tree/master",
-    "summary": "<p>Article URL: <a href=\"https://github.com/knight-lang/knight-lang/tree/master\">https://github.com/knight-lang/knight-lang/tree/master</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908158\">https://news.ycombinator.com/item?id=47908158</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-26T07:22:22",
+    "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+    "link": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+    "summary": "<p>Article URL: <a href=\"https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/\">https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47918657\">https://news.ycombinator.com/item?id=47918657</a></p>\n<p>Points: 50</p>\n<p># Comments: 24</p>",
+    "published": "2026-04-27T07:21:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Exposing Floating Point – Bartosz Ciechanowski (2019)",
-    "link": "https://ciechanow.ski/exposing-floating-point/",
-    "summary": "<p>Article URL: <a href=\"https://ciechanow.ski/exposing-floating-point/\">https://ciechanow.ski/exposing-floating-point/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908139\">https://news.ycombinator.com/item?id=47908139</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
-    "published": "2026-04-26T07:19:20",
+    "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+    "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+    "summary": "Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
+    "published": "2026-04-27T03:03:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Prompt API",
+    "link": "https://developer.chrome.com/docs/ai/prompt-api",
+    "summary": "<p>Article URL: <a href=\"https://developer.chrome.com/docs/ai/prompt-api\">https://developer.chrome.com/docs/ai/prompt-api</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47917026\">https://news.ycombinator.com/item?id=47917026</a></p>\n<p>Points: 140</p>\n<p># Comments: 79</p>",
+    "published": "2026-04-27T02:18:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Tip: Web requests should not be measured in Hz [Hertz]",
-    "link": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
-    "summary": "<p>Article URL: <a href=\"https://mastodon.catgirl.cloud/@sophie/116467789133733136\">https://mastodon.catgirl.cloud/@sophie/116467789133733136</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908105\">https://news.ycombinator.com/item?id=47908105</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
-    "published": "2026-04-26T07:13:08",
+    "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+    "link": "https://github.com/evanklem/evanflow",
+    "summary": "<p>Article URL: <a href=\"https://github.com/evanklem/evanflow\">https://github.com/evanklem/evanflow</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47916909\">https://news.ycombinator.com/item?id=47916909</a></p>\n<p>Points: 71</p>\n<p># Comments: 30</p>",
+    "published": "2026-04-27T01:56:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+    "title": "TurboQuant: A first-principles walkthrough",
+    "link": "https://arkaung.github.io/interactive-turboquant/",
+    "summary": "<p>Article URL: <a href=\"https://arkaung.github.io/interactive-turboquant/\">https://arkaung.github.io/interactive-turboquant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47916890\">https://news.ycombinator.com/item?id=47916890</a></p>\n<p>Points: 166</p>\n<p># Comments: 37</p>",
+    "published": "2026-04-27T01:54:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FreeBSD Device Drivers Book",
+    "link": "https://github.com/ebrandi/FDD-book",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ebrandi/FDD-book\">https://github.com/ebrandi/FDD-book</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47915632\">https://news.ycombinator.com/item?id=47915632</a></p>\n<p>Points: 89</p>\n<p># Comments: 18</p>",
+    "published": "2026-04-26T22:53:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+    "link": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/\">https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914677\">https://news.ycombinator.com/item?id=47914677</a></p>\n<p>Points: 213</p>\n<p># Comments: 64</p>",
+    "published": "2026-04-26T21:23:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+    "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+    "summary": "<p><a href=\"https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-shatters-the-2-hour-barrier-at-2026-london-marathon/\" rel=\"nofollow\">https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh...</a><p><a href=\"https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca\" rel=\"nofollow\">https://news.adidas.com/running/two-adidas-athletes-sabastia...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914350\">https://news.ycombinator.com/item?id=47914350</a></p>\n<p>Points: 397</p>\n<p># Comments: 272</p>",
+    "published": "2026-04-26T20:56:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
+    "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
+    "summary": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
+    "published": "2026-04-26T20:54:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+    "summary": "<p>Article URL: <a href=\"https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d\">https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47914165\">https://news.ycombinator.com/item?id=47914165</a></p>\n<p>Points: 837</p>\n<p># Comments: 427</p>",
+    "published": "2026-04-26T20:41:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+    "link": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "summary": "<p>Article URL: <a href=\"https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/\">https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913855\">https://news.ycombinator.com/item?id=47913855</a></p>\n<p>Points: 271</p>\n<p># Comments: 55</p>",
+    "published": "2026-04-26T20:18:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI should elevate your thinking, not replace it",
+    "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "summary": "<p>Article URL: <a href=\"https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/\">https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913650\">https://news.ycombinator.com/item?id=47913650</a></p>\n<p>Points: 521</p>\n<p># Comments: 378</p>",
+    "published": "2026-04-26T20:03:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chernobyl wildlife forty years on",
+    "link": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on\">https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47913382\">https://news.ycombinator.com/item?id=47913382</a></p>\n<p>Points: 113</p>\n<p># Comments: 59</p>",
+    "published": "2026-04-26T19:42:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
+    "summary": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
+    "published": "2026-04-26T17:03:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Visible Zorker: Zork 1",
+    "link": "https://eblong.com/infocom/visi/zork1/",
+    "summary": "<p>Article URL: <a href=\"https://eblong.com/infocom/visi/zork1/\">https://eblong.com/infocom/visi/zork1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911644\">https://news.ycombinator.com/item?id=47911644</a></p>\n<p>Points: 131</p>\n<p># Comments: 28</p>",
+    "published": "2026-04-26T16:42:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/lifeof_jer/status/2048103471019434248\">https://twitter.com/lifeof_jer/status/2048103471019434248</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911524\">https://news.ycombinator.com/item?id=47911524</a></p>\n<p>Points: 707</p>\n<p># Comments: 851</p>",
+    "published": "2026-04-26T16:27:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Free textbook on engineering thermodynamics",
+    "link": "https://thermodynamicsbook.com/",
+    "summary": "<p>Author here. Feel free to send questions of any kind.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47911013\">https://news.ycombinator.com/item?id=47911013</a></p>\n<p>Points: 146</p>\n<p># Comments: 39</p>",
+    "published": "2026-04-26T15:17:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+    "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/\">https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47910388\">https://news.ycombinator.com/item?id=47910388</a></p>\n<p>Points: 311</p>\n<p># Comments: 169</p>",
+    "published": "2026-04-26T13:58:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+    "link": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html\">https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47909860\">https://news.ycombinator.com/item?id=47909860</a></p>\n<p>Points: 57</p>\n<p># Comments: 36</p>",
+    "published": "2026-04-26T12:42:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Self-updating screenshots",
+    "link": "https://interblah.net/self-updating-screenshots",
+    "summary": "<p>Article URL: <a href=\"https://interblah.net/self-updating-screenshots\">https://interblah.net/self-updating-screenshots</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908051\">https://news.ycombinator.com/item?id=47908051</a></p>\n<p>Points: 318</p>\n<p># Comments: 47</p>",
+    "published": "2026-04-26T07:00:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence)",
     "link": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
     "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health\">https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47908047\">https://news.ycombinator.com/item?id=47908047</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
     "published": "2026-04-26T07:00:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
-    "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-    "summary": "<p>Article URL: <a href=\"https://techtrenches.dev/p/the-west-forgot-how-to-make-things\">https://techtrenches.dev/p/the-west-forgot-how-to-make-things</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907879\">https://news.ycombinator.com/item?id=47907879</a></p>\n<p>Points: 337</p>\n<p># Comments: 163</p>",
-    "published": "2026-04-26T06:24:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AGPLv3§74 Empowers Users to Thwart Badgeware Like OnlyOffice",
-    "link": "https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/",
-    "summary": "<p>Article URL: <a href=\"https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/\">https://sfconservancy.org/blog/2026/apr/16/badgeware-onlyoffice-nextcloud-affero-gpl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907543\">https://news.ycombinator.com/item?id=47907543</a></p>\n<p>Points: 70</p>\n<p># Comments: 11</p>",
-    "published": "2026-04-26T05:06:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "EU Age Control: The trojan horse for digital IDs",
-    "link": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-    "summary": "<p><a href=\"https://web.archive.org/web/20260426040218/https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/\" rel=\"nofollow\">https://web.archive.org/web/20260426040218/https://juraj.bed...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907130\">https://news.ycombinator.com/item?id=47907130</a></p>\n<p>Points: 173</p>\n<p># Comments: 78</p>",
-    "published": "2026-04-26T03:44:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GnuPG – post-quantum crypto landing in mainline",
-    "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-    "summary": "<p>Article URL: <a href=\"https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html\">https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47907018\">https://news.ycombinator.com/item?id=47907018</a></p>\n<p>Points: 68</p>\n<p># Comments: 20</p>",
-    "published": "2026-04-26T03:25:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reviving BrowserID in 2026",
-    "link": "https://wakamoleguy.com/p/reviving-browserid-in-2026",
-    "summary": "<p>Article URL: <a href=\"https://wakamoleguy.com/p/reviving-browserid-in-2026\">https://wakamoleguy.com/p/reviving-browserid-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47906770\">https://news.ycombinator.com/item?id=47906770</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
-    "published": "2026-04-26T02:38:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-    "link": "https://news.ycombinator.com/item?id=47906253",
-    "summary": "<p>Every day for the past 3 days around 1pm EST the 'Headspace' app has been silently appearing on my iPhone (13 Pro). Automatic downloads are turned off and I've updated to the latest iOS since this started happening.<p>I googled around and found a couple reddit threads with people reporting the exact same thing starting 2 or 3 days ago. There were reports from people on iPhone 12 and iPhone 17 so it doesn't seem device-specific.<p>Anyone else seeing this? Does anyone understand how or why this is happening?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47906253\">https://news.ycombinator.com/item?id=47906253</a></p>\n<p>Points: 270</p>\n<p># Comments: 112</p>",
-    "published": "2026-04-26T00:50:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Super Nintendo Cartridges (2024)",
-    "link": "https://fabiensanglard.net/snes_carts/",
-    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/snes_carts/\">https://fabiensanglard.net/snes_carts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47906161\">https://news.ycombinator.com/item?id=47906161</a></p>\n<p>Points: 56</p>\n<p># Comments: 10</p>",
-    "published": "2026-04-26T00:38:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why has there been so little progress on Alzheimer's disease?",
-    "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-    "summary": "<p>Article URL: <a href=\"https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/\">https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47905984\">https://news.ycombinator.com/item?id=47905984</a></p>\n<p>Points: 228</p>\n<p># Comments: 126</p>",
-    "published": "2026-04-26T00:12:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "USB Cheat Sheet (2022)",
-    "link": "https://fabiensanglard.net/usbcheat/index.html",
-    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/usbcheat/index.html\">https://fabiensanglard.net/usbcheat/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47904876\">https://news.ycombinator.com/item?id=47904876</a></p>\n<p>Points: 317</p>\n<p># Comments: 58</p>",
-    "published": "2026-04-25T21:51:18",
+    "title": "A Guide to CubeSat Mission and Bus Design",
+    "link": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+    "summary": "<p>Article URL: <a href=\"https://pressbooks-dev.oer.hawaii.edu/epet302/\">https://pressbooks-dev.oer.hawaii.edu/epet302/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47906666\">https://news.ycombinator.com/item?id=47906666</a></p>\n<p>Points: 34</p>\n<p># Comments: 2</p>",
+    "published": "2026-04-26T02:15:36",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
     "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
     "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
-    "published": "2026-04-25T19:57:07",
+    "published": "2026-04-25T19:57:08",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "America's Geothermal Breakthrough",
-    "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-    "summary": "<p>Article URL: <a href=\"https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html\">https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903945\">https://news.ycombinator.com/item?id=47903945</a></p>\n<p>Points: 110</p>\n<p># Comments: 128</p>",
-    "published": "2026-04-25T19:38:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Amateur armed with ChatGPT solves an Erdős problem",
-    "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-    "summary": "<p><a href=\"https://www.erdosproblems.com/1196\" rel=\"nofollow\">https://www.erdosproblems.com/1196</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47903126\">https://news.ycombinator.com/item?id=47903126</a></p>\n<p>Points: 374</p>\n<p># Comments: 236</p>",
-    "published": "2026-04-25T17:40:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hokusai and Tesselations",
-    "link": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-    "summary": "<p>Article URL: <a href=\"https://dl.ndl.go.jp/pid/1899550/1/11/\">https://dl.ndl.go.jp/pid/1899550/1/11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902993\">https://news.ycombinator.com/item?id=47902993</a></p>\n<p>Points: 108</p>\n<p># Comments: 14</p>",
-    "published": "2026-04-25T17:21:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Simulacrum of Knowledge Work",
-    "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
-    "summary": "<p>Article URL: <a href=\"https://blog.happyfellow.dev/simulacrum-of-knowledge-work/\">https://blog.happyfellow.dev/simulacrum-of-knowledge-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902987\">https://news.ycombinator.com/item?id=47902987</a></p>\n<p>Points: 149</p>\n<p># Comments: 59</p>",
-    "published": "2026-04-25T17:20:34",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
     "link": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
     "summary": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
-    "published": "2026-04-25T16:33:21",
+    "published": "2026-04-25T16:33:22",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Using coding assistance tools to revive projects you never were going to finish",
-    "link": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-    "summary": "<p>Article URL: <a href=\"https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/\">https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47902525\">https://news.ycombinator.com/item?id=47902525</a></p>\n<p>Points: 271</p>\n<p># Comments: 165</p>",
-    "published": "2026-04-25T16:11:50",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
@@ -152,13 +180,6 @@
     "summary": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
     "published": "2026-04-25T09:02:23",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Quirks of Human Anatomy",
-    "link": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm\">https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47898660\">https://news.ycombinator.com/item?id=47898660</a></p>\n<p>Points: 31</p>\n<p># Comments: 13</p>",
-    "published": "2026-04-25T04:31:14",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "New Phishing Scam: Fake Invitations",
@@ -186,13 +207,6 @@
     "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
     "summary": "The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
     "published": "2026-04-24T16:53:32",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
-    "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
-    "summary": "Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
-    "published": "2026-04-24T15:42:48",
     "source": "NYT > Technology"
   },
   {
