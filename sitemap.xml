@@ -1,99 +1,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-04-27</lastmod>
+    <lastmod>2026-04-28</lastmod>
   </url>
   <url>
-    <loc>https://robbowen.digital/wrote-about/abandoned-side-projects/</loc>
-    <lastmod>2026-04-27T08:11:16</lastmod>
+    <loc>https://www.theideasletter.org/essay/the-social-edge-of-intelligence/</loc>
+    <lastmod>2026-04-28T10:08:38</lastmod>
   </url>
   <url>
-    <loc>https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/</loc>
-    <lastmod>2026-04-27T07:21:17</lastmod>
+    <loc>https://github.blog/news-insights/company-news/an-update-on-github-availability/</loc>
+    <lastmod>2026-04-28T10:05:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html</loc>
+    <lastmod>2026-04-28T09:03:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html</loc>
+    <lastmod>2026-04-28T09:02:04</lastmod>
+  </url>
+  <url>
+    <loc>https://gtfobins.org/</loc>
+    <lastmod>2026-04-28T06:27:39</lastmod>
+  </url>
+  <url>
+    <loc>https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/</loc>
+    <lastmod>2026-04-28T04:34:29</lastmod>
+  </url>
+  <url>
+    <loc>https://technology.robbyant.com/lingbot-map</loc>
+    <lastmod>2026-04-28T03:27:40</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html</loc>
+    <lastmod>2026-04-28T01:50:52</lastmod>
+  </url>
+  <url>
+    <loc>https://gitperf.com/</loc>
+    <lastmod>2026-04-28T00:32:04</lastmod>
+  </url>
+  <url>
+    <loc>https://vivianvoss.net/blog/integrated-by-design-launch</loc>
+    <lastmod>2026-04-27T23:14:26</lastmod>
+  </url>
+  <url>
+    <loc>https://talkie-lm.com/introducing-talkie</loc>
+    <lastmod>2026-04-27T21:55:48</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/</loc>
+    <lastmod>2026-04-27T20:44:16</lastmod>
+  </url>
+  <url>
+    <loc>https://ismy.blue/</loc>
+    <lastmod>2026-04-27T20:24:33</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html</loc>
+    <lastmod>2026-04-27T20:12:38</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Hanqaqa/Easyduino</loc>
+    <lastmod>2026-04-27T17:45:02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html</loc>
+    <lastmod>2026-04-27T16:34:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html</loc>
+    <lastmod>2026-04-27T16:11:56</lastmod>
+  </url>
+  <url>
+    <loc>https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</loc>
+    <lastmod>2026-04-27T16:03:08</lastmod>
+  </url>
+  <url>
+    <loc>https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/</loc>
+    <lastmod>2026-04-27T15:36:12</lastmod>
+  </url>
+  <url>
+    <loc>https://muffin.ink/blog/scratch-svg-sanitization/</loc>
+    <lastmod>2026-04-27T15:31:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html</loc>
+    <lastmod>2026-04-27T14:08:53</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai</loc>
+    <lastmod>2026-04-27T13:22:42</lastmod>
+  </url>
+  <url>
+    <loc>https://www.alexselimov.com/posts/men_who_stare_at_walls/</loc>
+    <lastmod>2026-04-27T11:08:26</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/pgbackrest/pgbackrest</loc>
+    <lastmod>2026-04-27T10:56:34</lastmod>
+  </url>
+  <url>
+    <loc>https://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher</loc>
+    <lastmod>2026-04-27T10:15:17</lastmod>
+  </url>
+  <url>
+    <loc>https://app.oravys.com/blog/mercor-breach-2026</loc>
+    <lastmod>2026-04-27T09:57:10</lastmod>
+  </url>
+  <url>
+    <loc>https://quarkdown.com/</loc>
+    <lastmod>2026-04-27T08:54:57</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html</loc>
     <lastmod>2026-04-27T03:03:00</lastmod>
   </url>
   <url>
-    <loc>https://developer.chrome.com/docs/ai/prompt-api</loc>
-    <lastmod>2026-04-27T02:18:58</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/evanklem/evanflow</loc>
-    <lastmod>2026-04-27T01:56:39</lastmod>
-  </url>
-  <url>
-    <loc>https://arkaung.github.io/interactive-turboquant/</loc>
-    <lastmod>2026-04-27T01:54:32</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ebrandi/FDD-book</loc>
-    <lastmod>2026-04-26T22:53:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/</loc>
-    <lastmod>2026-04-26T21:23:20</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo</loc>
-    <lastmod>2026-04-26T20:56:30</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html</loc>
     <lastmod>2026-04-26T20:54:26</lastmod>
   </url>
   <url>
-    <loc>https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d</loc>
-    <lastmod>2026-04-26T20:41:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</loc>
-    <lastmod>2026-04-26T20:18:37</lastmod>
-  </url>
-  <url>
-    <loc>https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/</loc>
-    <lastmod>2026-04-26T20:03:12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on</loc>
-    <lastmod>2026-04-26T19:42:59</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html</loc>
     <lastmod>2026-04-26T17:03:20</lastmod>
-  </url>
-  <url>
-    <loc>https://eblong.com/infocom/visi/zork1/</loc>
-    <lastmod>2026-04-26T16:42:19</lastmod>
-  </url>
-  <url>
-    <loc>https://twitter.com/lifeof_jer/status/2048103471019434248</loc>
-    <lastmod>2026-04-26T16:27:29</lastmod>
-  </url>
-  <url>
-    <loc>https://thermodynamicsbook.com/</loc>
-    <lastmod>2026-04-26T15:17:34</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</loc>
-    <lastmod>2026-04-26T13:58:13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html</loc>
-    <lastmod>2026-04-26T12:42:11</lastmod>
-  </url>
-  <url>
-    <loc>https://interblah.net/self-updating-screenshots</loc>
-    <lastmod>2026-04-26T07:00:39</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health</loc>
-    <lastmod>2026-04-26T07:00:10</lastmod>
-  </url>
-  <url>
-    <loc>https://pressbooks-dev.oer.hawaii.edu/epet302/</loc>
-    <lastmod>2026-04-26T02:15:36</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html</loc>
@@ -166,29 +194,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html</loc>
     <lastmod>2026-04-22T14:37:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html</loc>
-    <lastmod>2026-04-21T16:16:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html</loc>
-    <lastmod>2026-04-21T14:51:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/21/technology/apple-cook-ternus-wish-list.html</loc>
-    <lastmod>2026-04-21T09:03:32</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html</loc>
-    <lastmod>2026-04-21T01:11:05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html</loc>
-    <lastmod>2026-04-20T21:29:04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html</loc>
-    <lastmod>2026-04-20T18:54:59</lastmod>
   </url>
 </urlset>
