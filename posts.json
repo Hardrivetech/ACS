@@ -1,122 +1,262 @@
 [
   {
-    "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
-    "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-    "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring internet access.",
-    "published": "2026-04-29T10:15:38",
+    "title": "Palantir Is Making a French Chore Coat. Yes, That Palantir.",
+    "link": "https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html",
+    "summary": "The data analysis company is selling a version of the jacket that it says will show its commitment to “re-industrializing America.”",
+    "published": "2026-04-30T09:03:00",
     "source": "NYT > Technology"
   },
   {
-    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
-    "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
-    "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
-    "published": "2026-04-29T09:32:20",
+    "title": "Struggling With Phone Addiction? Try These Remedies.",
+    "link": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
+    "summary": "Counting minutes is a poor way to curb phone habits. Real antidotes, experts say, include mindful parenting, curated content and human connection.",
+    "published": "2026-04-30T09:01:48",
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Rip.so – a graveyard for dead internet things",
-    "link": "https://rip.so",
-    "summary": "<p>Article URL: <a href=\"https://rip.so\">https://rip.so</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945955\">https://news.ycombinator.com/item?id=47945955</a></p>\n<p>Points: 33</p>\n<p># Comments: 22</p>",
-    "published": "2026-04-29T09:21:32",
+    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "link": "https://datacenter.fm/",
+    "summary": "<p>Article URL: <a href=\"https://datacenter.fm/\">https://datacenter.fm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959513\">https://news.ycombinator.com/item?id=47959513</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+    "published": "2026-04-30T07:52:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Soft launch of open-source code platform for government",
-    "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-    "summary": "<p>Article URL: <a href=\"https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/\">https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945918\">https://news.ycombinator.com/item?id=47945918</a></p>\n<p>Points: 55</p>\n<p># Comments: 27</p>",
-    "published": "2026-04-29T09:14:37",
+    "title": "Mozilla's Opposition to Chrome's Prompt API",
+    "link": "https://github.com/mozilla/standards-positions/issues/1213",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mozilla/standards-positions/issues/1213\">https://github.com/mozilla/standards-positions/issues/1213</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959463\">https://news.ycombinator.com/item?id=47959463</a></p>\n<p>Points: 84</p>\n<p># Comments: 34</p>",
+    "published": "2026-04-30T07:43:55",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Monad Tutorials Timeline",
+    "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
+    "summary": "<p>Article URL: <a href=\"https://wiki.haskell.org/Monad_tutorials_timeline\">https://wiki.haskell.org/Monad_tutorials_timeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47958106\">https://news.ycombinator.com/item?id=47958106</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+    "published": "2026-04-30T04:28:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lessons from Building an OTel Normalizer for GenAI",
+    "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+    "summary": "<p>Article URL: <a href=\"https://www.groundcover.com/blog/otel-normalizer-genai-part-1\">https://www.groundcover.com/blog/otel-normalizer-genai-part-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47958081\">https://news.ycombinator.com/item?id=47958081</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-30T04:23:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+    "link": "https://burrito.bio/essays/biology-is-a-burrito",
+    "summary": "<p>Article URL: <a href=\"https://burrito.bio/essays/biology-is-a-burrito\">https://burrito.bio/essays/biology-is-a-burrito</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957714\">https://news.ycombinator.com/item?id=47957714</a></p>\n<p>Points: 104</p>\n<p># Comments: 16</p>",
+    "published": "2026-04-30T03:24:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 651</p>\n<p># Comments: 349</p>",
+    "published": "2026-04-30T03:21:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "summary": "<p>Article URL: <a href=\"https://github.com/cauchy221/Alignment-Whack-a-Mole-Code\">https://github.com/cauchy221/Alignment-Whack-a-Mole-Code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957627\">https://news.ycombinator.com/item?id=47957627</a></p>\n<p>Points: 137</p>\n<p># Comments: 105</p>",
+    "published": "2026-04-30T03:11:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Functional programmers need to take a look at Zig",
+    "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+    "summary": "<p>Article URL: <a href=\"https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html\">https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957624\">https://news.ycombinator.com/item?id=47957624</a></p>\n<p>Points: 125</p>\n<p># Comments: 92</p>",
+    "published": "2026-04-30T03:11:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Zig project's rationale for their anti-AI contribution policy",
+    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\">https://simonwillison.net/2026/Apr/30/zig-anti-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957294\">https://news.ycombinator.com/item?id=47957294</a></p>\n<p>Points: 300</p>\n<p># Comments: 134</p>",
+    "published": "2026-04-30T02:15:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A grounded conceptual model for ownership types in Rust",
+    "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+    "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/\">https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957116\">https://news.ycombinator.com/item?id=47957116</a></p>\n<p>Points: 37</p>\n<p># Comments: 1</p>",
+    "published": "2026-04-30T01:47:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Craig Venter has died",
+    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "summary": "<p>Article URL: <a href=\"https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79\">https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957101\">https://news.ycombinator.com/item?id=47957101</a></p>\n<p>Points: 239</p>\n<p># Comments: 42</p>",
+    "published": "2026-04-30T01:44:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+    "link": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+    "summary": "<p>Article URL: <a href=\"https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/\">https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47956781\">https://news.ycombinator.com/item?id=47956781</a></p>\n<p>Points: 52</p>\n<p># Comments: 133</p>",
+    "published": "2026-04-30T01:01:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mike: open-source legal AI",
+    "link": "https://mikeoss.com/",
+    "summary": "<p>Article URL: <a href=\"https://mikeoss.com/\">https://mikeoss.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47956739\">https://news.ycombinator.com/item?id=47956739</a></p>\n<p>Points: 100</p>\n<p># Comments: 41</p>",
+    "published": "2026-04-30T00:56:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
+    "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+    "summary": "In the second day of a trial pitting Mr. Musk against OpenAI, he said the company’s chief executive, Sam Altman, had misled him. But OpenAI’s lawyer said evidence showed the opposite.",
+    "published": "2026-04-29T23:25:14",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A.I. Spending Sets a Record, With No End in Sight",
+    "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+    "summary": "Google, Amazon, Microsoft and Meta reported more than $130 billion in quarterly capital expenditures on Wednesday as they build A.I. data centers. There’s more to come.",
+    "published": "2026-04-29T22:53:54",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+    "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47955226\">https://news.ycombinator.com/item?id=47955226</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-04-29T21:50:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
+    "link": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+    "summary": "Beijing’s insistence that Meta unwind its deal with a Chinese A.I. start-up escalates the geopolitical fight over advanced tech.",
+    "published": "2026-04-29T21:08:05",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Ford Reports Higher Profit Thanks Partly to Tariff Refund",
+    "link": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
+    "summary": "Ford Motor said it expected the federal government to refund $1.3 billion the company paid in tariffs that the Supreme Court later struck down.",
+    "published": "2026-04-29T21:01:00",
+    "source": "NYT > Technology"
   },
   {
     "title": "A.I. Helps Online Ad Businesses Boom",
     "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
     "summary": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
-    "published": "2026-04-29T09:04:14",
+    "published": "2026-04-29T20:59:48",
     "source": "NYT > Technology"
   },
   {
-    "title": "Why Law Is Law-Shaped",
-    "link": "https://lawvm.org/why-law-is-law-shaped/",
-    "summary": "<p>Article URL: <a href=\"https://lawvm.org/why-law-is-law-shaped/\">https://lawvm.org/why-law-is-law-shaped/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945861\">https://news.ycombinator.com/item?id=47945861</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
-    "published": "2026-04-29T09:03:31",
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+    "summary": "",
+    "published": "2026-04-29T20:40:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenTrafficMap",
+    "link": "https://opentrafficmap.org/",
+    "summary": "<p>Article URL: <a href=\"https://opentrafficmap.org/\">https://opentrafficmap.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47953541\">https://news.ycombinator.com/item?id=47953541</a></p>\n<p>Points: 278</p>\n<p># Comments: 67</p>",
+    "published": "2026-04-29T19:49:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Even without OpenAI, Elon Musk has made A.I. a big part of his business empire.",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
+    "summary": "",
+    "published": "2026-04-29T19:20:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
+    "link": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
+    "summary": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
+    "published": "2026-04-29T18:59:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+    "link": "https://github.com/anthropics/claude-code/issues/53262",
+    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1135</p>\n<p># Comments: 485</p>",
+    "published": "2026-04-29T18:54:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Copy Fail",
+    "link": "https://copy.fail/",
+    "summary": "<p>Article URL: <a href=\"https://copy.fail/\">https://copy.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a></p>\n<p>Points: 997</p>\n<p># Comments: 366</p>",
+    "published": "2026-04-29T18:13:53",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
     "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
     "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-    "published": "2026-04-29T09:00:11",
+    "published": "2026-04-29T17:57:21",
     "source": "NYT > Technology"
   },
   {
-    "title": "Tell HN: An update from the new Tindie team",
-    "link": "https://news.ycombinator.com/item?id=47945522",
-    "summary": "<p><i>Received by email tonight about two hours ago:</i><p>Dear Tindie Community,<p>My name is Gongyu Su, and I am writing on behalf of the new Tindie ownership team.<p>First, we sincerely apologize for the recent downtime and the disruption it caused. We understand that many buyers and community members were left without clear information during the transition, and that this created frustration and concern.<p>Tindie is now owned by EETree LLC, a Washington State company. Our team took over Tindie because we believe it remains an important platform for makers, hardware creators, engineers, and independent sellers around the world.\nThe recent transition was more complex than expected. Tindie runs on an older technical framework with many connected services, and the migration from the previous operating environment to the new one took longer and caused more disruption than anyone wanted.<p>We know this was not the experience the Tindie community deserved.<p>Our immediate focus is to stabilize the platform, resolve payment and order-related issues, and support sellers and buyers through the transition. If you have an order-related concern, please contact Tindie support so the team can review your case directly.<p>WHAT WE ARE FOCUSED ON<p>Stabilizing the platform<p>Restoring reliable access for buyers, sellers, and the community.<p>Resolving open issues<p>Working through payment, refund, and order concerns case by case.<p>Investing for the long term<p>Renewing attention, support, and improvements for the community.<p>We also want to be clear about our long-term intention: we did not take over Tindie to let it fade away. We took it over because we believe it deserves renewed attention, investment, and support.<p>Tindie has always been more than just a marketplace. It is a place where independent creators, makers, and hardware enthusiasts can share useful products, tools, kits, modules, and ideas with the world. We want to preserve that spirit while improving the platform step by step.<p>Over the coming weeks and months, we will share more about our plans and will listen carefully to feedback from sellers, buyers, and the broader community.<p>Thank you for your patience and continued support. We know trust must be earned through action, and we are committed to doing that.<p>Sincerely,<p>Gongyu Su<p>On behalf of the Tindie Team</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47945522\">https://news.ycombinator.com/item?id=47945522</a></p>\n<p>Points: 38</p>\n<p># Comments: 22</p>",
-    "published": "2026-04-29T08:16:37",
+    "title": "Who is the judge in the case?",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+    "summary": "",
+    "published": "2026-04-29T17:41:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Laws of UX",
+    "link": "https://lawsofux.com/",
+    "summary": "<p>Article URL: <a href=\"https://lawsofux.com/\">https://lawsofux.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47951137\">https://news.ycombinator.com/item?id=47951137</a></p>\n<p>Points: 276</p>\n<p># Comments: 41</p>",
+    "published": "2026-04-29T16:58:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
-    "link": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-    "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/abs/10.1145/3767295.3803591\">https://dl.acm.org/doi/abs/10.1145/3767295.3803591</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47944931\">https://news.ycombinator.com/item?id=47944931</a></p>\n<p>Points: 30</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-29T06:47:53",
+    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+    "summary": "<p>Article URL: <a href=\"https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies\">https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47950510\">https://news.ycombinator.com/item?id=47950510</a></p>\n<p>Points: 344</p>\n<p># Comments: 81</p>",
+    "published": "2026-04-29T16:16:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "HardenedBSD Is Now Officially on Radicle",
-    "link": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-    "summary": "<p>Article URL: <a href=\"https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle\">https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47944864\">https://news.ycombinator.com/item?id=47944864</a></p>\n<p>Points: 72</p>\n<p># Comments: 10</p>",
-    "published": "2026-04-29T06:38:44",
+    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+    "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+    "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+    "published": "2026-04-29T16:04:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Cursor Camp",
+    "link": "https://neal.fun/cursor-camp/",
+    "summary": "<p>Article URL: <a href=\"https://neal.fun/cursor-camp/\">https://neal.fun/cursor-camp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949939\">https://news.ycombinator.com/item?id=47949939</a></p>\n<p>Points: 960</p>\n<p># Comments: 156</p>",
+    "published": "2026-04-29T15:39:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Bugs Rust won't catch",
-    "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-    "summary": "<p>Article URL: <a href=\"https://corrode.dev/blog/bugs-rust-wont-catch/\">https://corrode.dev/blog/bugs-rust-wont-catch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943499\">https://news.ycombinator.com/item?id=47943499</a></p>\n<p>Points: 315</p>\n<p># Comments: 138</p>",
-    "published": "2026-04-29T02:19:11",
-    "source": "Hacker News: Front Page"
+    "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+    "summary": "",
+    "published": "2026-04-29T14:35:23",
+    "source": "NYT > Technology"
   },
   {
-    "title": "When the Internet Was a Place",
-    "link": "https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/",
-    "summary": "<p>Article URL: <a href=\"https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/\">https://www.frontporchrepublic.com/2025/09/when-the-internet-was-a-place/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47943190\">https://news.ycombinator.com/item?id=47943190</a></p>\n<p>Points: 60</p>\n<p># Comments: 20</p>",
-    "published": "2026-04-29T01:36:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Regression: malware reminder on every read still causes subagent refusals",
-    "link": "https://github.com/anthropics/claude-code/issues/49363",
-    "summary": "<p>Not sure if anybody else has experienced this, but for my job I've been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is appended with a system prompt instructing Claude to scan the file for malware; Claude then wastes a bunch of time and tokens (money) performing the analysis; then, once the agent has confirmed that it is <i>not</i> malware, it still interprets the appended prompt to mean that it is disallowed to augment or write <i>any</i> code, and quits. And we're charged for every session that this happens in. Posting here because apparently they only addressed the issue in the past because of a Hacker News discussion. So here's hoping they'll see this and prioritize fixing it again so we can stop losing money.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47942492\">https://news.ycombinator.com/item?id=47942492</a></p>\n<p>Points: 219</p>\n<p># Comments: 114</p>",
-    "published": "2026-04-28T23:59:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How ChatGPT serves ads",
-    "link": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "summary": "<p>Article URL: <a href=\"https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/\">https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47942437\">https://news.ycombinator.com/item?id=47942437</a></p>\n<p>Points: 352</p>\n<p># Comments: 238</p>",
-    "published": "2026-04-28T23:54:14",
-    "source": "Hacker News: Front Page"
+    "title": "Here’s what Musk’s lawyer argued in his opening statement.",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-musks-lawyers-argued-in-their-opening-statement",
+    "summary": "",
+    "published": "2026-04-29T14:14:22",
+    "source": "NYT > Technology"
   },
   {
     "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
     "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
     "summary": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
-    "published": "2026-04-28T23:45:07",
+    "published": "2026-04-29T13:20:57",
     "source": "NYT > Technology"
   },
   {
-    "title": "Apple CMF (Color-Matching Functions) 2026",
-    "link": "https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results",
-    "summary": "<p>Article URL: <a href=\"https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results\">https://www.lttlabs.com/articles/2026/04/11/apple-studio-display-xdr-display-testing-results</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47942353\">https://news.ycombinator.com/item?id=47942353</a></p>\n<p>Points: 69</p>\n<p># Comments: 2</p>",
-    "published": "2026-04-28T23:43:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Before GitHub",
-    "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/4/28/before-github/\">https://lucumr.pocoo.org/2026/4/28/before-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47940921\">https://news.ycombinator.com/item?id=47940921</a></p>\n<p>Points: 481</p>\n<p># Comments: 150</p>",
-    "published": "2026-04-28T21:17:40",
-    "source": "Hacker News: Front Page"
+    "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
+    "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
+    "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring internet access.",
+    "published": "2026-04-29T10:15:38",
+    "source": "NYT > Technology"
   },
   {
     "title": "Here’s the latest.",
@@ -126,22 +266,15 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "I won a championship that doesn't exist",
-    "link": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-    "summary": "<p>Article URL: <a href=\"https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/\">https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47940389\">https://news.ycombinator.com/item?id=47940389</a></p>\n<p>Points: 176</p>\n<p># Comments: 90</p>",
-    "published": "2026-04-28T20:38:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "G.M.’s Profit Bolstered by a $500 Million Tariff Refund",
     "link": "https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html",
     "summary": "Because of a February Supreme Court decision, General Motors said it would receive refunds on some of the tariffs it had paid.",
-    "published": "2026-04-28T20:32:40",
+    "published": "2026-04-28T20:32:41",
     "source": "NYT > Technology"
   },
   {
     "title": "Here’s what OpenAI’s lawyer argued in his opening statement.",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-openais-lawyer-argued-in-his-opening-statement",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-openais-lawyer-argued-in-his-opening-statement",
     "summary": "",
     "published": "2026-04-28T20:24:53",
     "source": "NYT > Technology"
@@ -155,24 +288,10 @@
   },
   {
     "title": "Why does Elon Musk talk so much about saving humanity?",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/why-does-elon-musk-talk-so-much-about-saving-humanity",
     "summary": "",
     "published": "2026-04-28T19:55:10",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Ghostty is leaving GitHub",
-    "link": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/ghostty-leaving-github\">https://mitchellh.com/writing/ghostty-leaving-github</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939579\">https://news.ycombinator.com/item?id=47939579</a></p>\n<p>Points: 2653</p>\n<p># Comments: 779</p>",
-    "published": "2026-04-28T19:44:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-    "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "summary": "<p><a href=\"https://aws.amazon.com/bedrock/openai/\" rel=\"nofollow\">https://aws.amazon.com/bedrock/openai/</a><p><a href=\"https://www.aboutamazon.com/news/aws/bedrock-openai-models\" rel=\"nofollow\">https://www.aboutamazon.com/news/aws/bedrock-openai-models</a><p><a href=\"https://openai.com/index/openai-on-aws/\" rel=\"nofollow\">https://openai.com/index/openai-on-aws/</a><p><a href=\"https://x.com/amazon/status/2049178618639839427\" rel=\"nofollow\">https://x.com/amazon/status/2049178618639839427</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47939320\">https://news.ycombinator.com/item?id=47939320</a></p>\n<p>Points: 276</p>\n<p># Comments: 89</p>",
-    "published": "2026-04-28T19:24:43",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Supreme Court Appears Skeptical of Falun Gong Lawsuit Against Cisco",
@@ -182,39 +301,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Here’s what Musk’s lawyers argued in their opening statement.",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-musks-lawyers-argued-in-their-opening-statement",
-    "summary": "",
-    "published": "2026-04-28T18:47:29",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-    "link": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md\">https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47937380\">https://news.ycombinator.com/item?id=47937380</a></p>\n<p>Points: 164</p>\n<p># Comments: 34</p>",
-    "published": "2026-04-28T17:12:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Who are the lawyers representing Elon Musk, OpenAI and Microsoft?",
     "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/who-are-the-lawyers-representing-elon-musk-openai-and-microsoft",
     "summary": "",
     "published": "2026-04-28T17:03:56",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
-    "link": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
-    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628\">https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47937203\">https://news.ycombinator.com/item?id=47937203</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-28T17:00:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-    "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854\">https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936479\">https://news.ycombinator.com/item?id=47936479</a></p>\n<p>Points: 366</p>\n<p># Comments: 76</p>",
-    "published": "2026-04-28T16:15:43",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk Assails Sam Altman on Social Media Before OpenAI Trial",
@@ -231,20 +322,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-    "link": "https://github.com/trycua/cua",
-    "summary": "<p>Hi HN, Francesco from Cua here.\nI hacked this project together last weekend, inspired by the Codex Computer-Use release and lessons learned from deploying GUI-operating agents for our customers.<p>The main problem: when a UI automation process controls a desktop app today, it usually takes over the human’s session. Your cursor moves, keyboard focus gets stolen, windows jump to the front, and you have to stop working until the agent is done. That is why we have historically avoided encouraging users to run these processes directly on their host machine, instead relying on VMs or GUI containers for concurrency and background execution.<p>But computer-use - the tools we give agents to operate computers like humans - does not scale cleanly that way. As models get smarter, agents need to share hosts safely, run in the background, and avoid collisions with the human or other agents using the same machine.<p>We realized macOS has no first-class API for \"drive this app without touching the cursor\". CGEventPost routes through the hardware input stream, so it moves your cursor. CGEvent.postToPid avoids the cursor warp, but Chromium treats those events as untrusted and silently drops clicks at the renderer boundary. Activating the target app first raises the window and pulls focus, defeating the point of background execution.<p>Cua Driver is our attempt at a real fix: a background computer-use driver for macOS that lets an agent click, type, scroll, and read native apps while your cursor, frontmost app, and Space stay where they are. The default interface is a CLI, so it is easy to script or call from any coding agent shell.<p>Try it on macOS 14+:<p>/bin/bash -c \"$(curl -fsSL <a href=\"https://raw.githubusercontent.com/trycua/cua/main/libs/cua-driver/scripts/install.sh\" rel=\"nofollow\">https://raw.githubusercontent.com/trycua/cua/main/libs/cua-d...</a>)\"<p>The first internal use case was delegated demo recording. We ask Claude Code to drive an app while 'cua-driver recording start' captures the trajectory, screenshots, actions, and click markers. The result is an agent-generated product demo, Screen Studio inspired.<p>Other things we have used it for:<p>- Replacing Vercel’s agent-browser and other browser-use CLIs. With Claude Code and Cua Driver, you do not need Chrome DevTools Protocol at all.<p>- A dev-loop QA agent that reproduces a visual bug, edits code, rebuilds, and verifies the UI while my editor stays frontmost.<p>- Personal-assistant flows that use iMessage from Claude Code, Hermes, or other general-purpose agent CLIs.<p>- Pulling visual context from Chrome, Figma, Preview, or YouTube windows I am not looking at, without relying on their APIs.<p>What made this harder than expected:<p>- CGEventPost warps the cursor because it goes through the HID stream.<p>- CGEvent.postToPid does not warp the cursor, but Chromium drops it at the renderer IPC boundary.<p>- Activating the target first raises the window and can drag you across Spaces.<p>- Electron apps stop keeping useful AX trees alive when windows are occluded without a private remote-aware SPI.<p>The unlock was SkyLight. SLEventPostToPid is a sibling of the public per-PID call, but it travels through a WindowServer channel Chromium accepts as trusted. Pair it with yabai’s focus-without-raise pattern, plus an off-screen primer click at (-1, -1), and the click lands without the window ever raising.<p>One thing we learned: the right addressing mode depends on the app. Native macOS apps usually have rich AX trees, Chromium-family apps often need a hybrid of AX and screenshots, and apps like Blender or CAD tools may expose almost no useful AX surface. The mistake is defaulting to pixels everywhere - or defaulting to AX everywhere.<p>Long technical writeup: <a href=\"https://github.com/trycua/cua/blob/main/blog/inside-macos-window-internals.md\" rel=\"nofollow\">https://github.com/trycua/cua/blob/main/blog/inside-macos-wi...</a><p>I would like feedback from people building Mac automation, agent harnesses, or accessibility tooling. If it breaks on an macOS app you care about, that is useful data for us.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936312\">https://news.ycombinator.com/item?id=47936312</a></p>\n<p>Points: 135</p>\n<p># Comments: 32</p>",
-    "published": "2026-04-28T16:03:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Warp is now open-source",
-    "link": "https://www.warp.dev/blog/warp-is-now-open-source",
-    "summary": "<p>Article URL: <a href=\"https://www.warp.dev/blog/warp-is-now-open-source\">https://www.warp.dev/blog/warp-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47936264\">https://news.ycombinator.com/item?id=47936264</a></p>\n<p>Points: 280</p>\n<p># Comments: 75</p>",
-    "published": "2026-04-28T15:58:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "This trial comes amid a growing national backlash against A.I.",
     "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/this-trial-comes-amid-a-growing-national-backlash-against-ai",
     "summary": "",
@@ -255,7 +332,7 @@
     "title": "What are Elon Musk’s claims against Altman and OpenAI?",
     "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/what-are-elon-musks-claims-against-altman-and-openai",
     "summary": "",
-    "published": "2026-04-28T14:20:05",
+    "published": "2026-04-28T14:20:06",
     "source": "NYT > Technology"
   },
   {
@@ -267,7 +344,7 @@
   },
   {
     "title": "Here’s the contentious history behind OpenAI.",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-the-contentious-history-behind-openai",
+    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai",
     "summary": "",
     "published": "2026-04-28T14:01:03",
     "source": "NYT > Technology"
@@ -350,13 +427,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "New Phishing Scam: Fake Invitations",
-    "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
-    "summary": "Hackers are spoofing Paperless Post, Evite and Punchbowl to creep into your hard drive.",
-    "published": "2026-04-24T20:44:40",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
     "link": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
     "summary": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
@@ -385,13 +455,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
-    "link": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
-    "summary": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
-    "published": "2026-04-24T11:00:03",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
     "link": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
     "summary": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
@@ -417,27 +480,6 @@
     "link": "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html",
     "summary": "A jury trial that is set to start on Monday could shift the course of the A.I. race, with Mr. Musk seeking billions of dollars in damages from Mr. Altman’s OpenAI.",
     "published": "2026-04-23T18:40:57",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
-    "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
-    "summary": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model.",
-    "published": "2026-04-22T19:48:53",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Crypto Entrepreneur Justin Sun Sues Trump Family’s World Liberty Financial, Accusing It of Fraud",
-    "link": "https://www.nytimes.com/2026/04/22/technology/justin-sun-crypto-world-liberty-trump.html",
-    "summary": "Justin Sun, one of the largest backers of World Liberty Financial, sued the Trump family’s crypto start-up, accusing it of a fraudulent scheme to pressure him into buying digital coins.",
-    "published": "2026-04-22T17:58:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Leaked Code for Anthropic’s Claude Code Tests Copyright Challenges in A.I. Era",
-    "link": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
-    "summary": "Artificial intelligence tools are making it faster than ever to reproduce creative work. Does copyright even matter anymore?",
-    "published": "2026-04-22T14:37:38",
     "source": "NYT > Technology"
   }
 ]
