@@ -1,10 +1,206 @@
 [
   {
+    "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+    "link": "https://news.ycombinator.com/item?id=47972888",
+    "summary": "<p>Hi HN, I'm Erwin. I built a small free open-source utility that bridges Bluetooth LE MIDI keyboards into the new Windows MIDI Services stack so any DAW or Web MIDI app can use them as if they were wired.<p>I bought a Roland FP-90X piano partly because it had Bluetooth MIDI. On my Windows 11 PC, pairing succeeded, but my DAW couldn't see the keyboard, and notes I sent from the PC never made the piano sing. After a regrettable number of evenings, I'd separated this into three independent bugs stacked on top of each other.<p>The first one is the famous one: Windows only natively exposes BLE-MIDI through the WinRT API, which almost no DAW polls. So even when pairing succeeds, MIDI apps still don't see the device. The usual workaround is MIDIberry + loopMIDI, but I couldn't get that combination to work reliably in my case, and I wanted a single-app solution. The new Windows MIDI Services stack ships with a feature called loopback endpoints: anything written to one comes out the other, and any winmm/WinRT/WMS app sees them as normal MIDI ports. So the app does WinRT BLE-MIDI in, WMS loopback out. That solved direction one, piano to PC.<p>Direction two, PC to piano, still didn't work. NoteOn writes were getting ATT-acked, but the piano stayed silent. I tried both write modes (some BLE-MIDI firmware silently drops one or the other), poked the proprietary ISSC characteristic. Every variant ATT-acked, every variant produced silence. So the bytes were reaching the piano. Something above the GATT layer was discarding them.<p>After ruling out pairing, encryption, write-mode, and proprietary characteristics, the only obvious lever left was the MIDI channel itself. The FP-90X has a panel setting called Transmit Channel, default 1. Yet it turns out the FP-90X actually receives on channel 4 (and it can't be changed). Notes I sent on channel 1 were being GATT-acked and silently dropped at the synth engine because they weren't on the channel the engine was listening to. Zero feedback at any layer. The fix had to live up at the application layer, so I added a Detect button that plays N test notes ascending on each channel from 1 to 16: you count the notes you actually hear, and that number is the receive channel. Saved per BLE MAC, about 75 seconds, done forever per piano.<p>Tech stack: .NET 10, Avalonia for the UI (the BLE/MIDI side is Windows-only but the UI layer is portable), Microsoft.Windows.Devices.Midi2 packages for WMS, Windows.Devices.Midi (WinRT) directly for BLE rather than relying on Korg's older WinMM driver. MIT, single self-contained ~21 MB exe, no installer, no telemetry, no account.<p>I built it for myself and use it with my FP-90X to play through a few apps and Web MIDI sites. Pete from the Microsoft Windows MIDI Services team commented positively on the BLE integration when I shared it on r/synthesizers (<a href=\"https://www.reddit.com/r/synthesizers/comments/1szvuiq/comment/oj5ew9b/\" rel=\"nofollow\">https://www.reddit.com/r/synthesizers/comments/1szvuiq/comme...</a>).<p>Site (with screenshots): <a href=\"https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/\" rel=\"nofollow\">https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Window...</a>\nSource: <a href=\"https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windows\" rel=\"nofollow\">https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windo...</a>\nLong-form technical writeup with the full debugging story: <a href=\"https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-silently-drops-notes-on-windows-2i84\" rel=\"nofollow\">https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-sil...</a><p>Personally tested with my FP-90X only. The BLE side is generic, so other keyboards (WIDI Master, CME, Yamaha MD-BT01, Korg microKey Air, ROLI Seaboard, etc.) should work, but I haven't confirmed individually. Device test reports, issues, and PRs very welcome.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972888\">https://news.ycombinator.com/item?id=47972888</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-01T09:52:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Rotary Un-Smartphone",
+    "link": "https://skysedge.com/telecom/RUSP/index.html",
+    "summary": "<p>Article URL: <a href=\"https://skysedge.com/telecom/RUSP/index.html\">https://skysedge.com/telecom/RUSP/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972807\">https://news.ycombinator.com/item?id=47972807</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-01T09:39:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
+    "link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+    "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
+    "published": "2026-05-01T09:01:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "link": "https://github.com/darrylmorley/whatcable",
+    "summary": "<p>USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.<p>WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.<p>Built in Swift/SwiftUI. Open source, free, no tracking.<p>GitHub: <a href=\"https://github.com/darrylmorley/whatcable\" rel=\"nofollow\">https://github.com/darrylmorley/whatcable</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972511\">https://news.ycombinator.com/item?id=47972511</a></p>\n<p>Points: 42</p>\n<p># Comments: 6</p>",
+    "published": "2026-05-01T08:43:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Grok 4.3",
+    "link": "https://docs.x.ai/developers/models/grok-4.3",
+    "summary": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 63</p>\n<p># Comments: 56</p>",
+    "published": "2026-05-01T08:29:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
+    "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
+    "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==\">https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972213\">https://news.ycombinator.com/item?id=47972213</a></p>\n<p>Points: 48</p>\n<p># Comments: 10</p>",
+    "published": "2026-05-01T07:44:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "If I could make my own GitHub",
+    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
+    "summary": "<p>Article URL: <a href=\"https://matduggan.com/if-i-could-make-my-own-github/\">https://matduggan.com/if-i-could-make-my-own-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47971771\">https://news.ycombinator.com/item?id=47971771</a></p>\n<p>Points: 40</p>\n<p># Comments: 30</p>",
+    "published": "2026-05-01T06:21:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+    "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+    "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/\">https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47971768\">https://news.ycombinator.com/item?id=47971768</a></p>\n<p>Points: 75</p>\n<p># Comments: 58</p>",
+    "published": "2026-05-01T06:20:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenWarp",
+    "link": "https://openwarp.zerx.dev",
+    "summary": "<p>Article URL: <a href=\"https://openwarp.zerx.dev\">https://openwarp.zerx.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970622\">https://news.ycombinator.com/item?id=47970622</a></p>\n<p>Points: 91</p>\n<p># Comments: 78</p>",
+    "published": "2026-05-01T02:10:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Hearts of the Super Nintendo (2024)",
+    "link": "https://fabiensanglard.net/snes_hearts/",
+    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/snes_hearts/\">https://fabiensanglard.net/snes_hearts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970578\">https://news.ycombinator.com/item?id=47970578</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
+    "published": "2026-05-01T02:02:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Musk vs. Altman: What Is This Really About?",
+    "link": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+    "summary": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
+    "published": "2026-05-01T00:01:39",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
+    "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+    "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
+    "published": "2026-04-30T23:24:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
+    "link": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+    "summary": "John Ternus, who will take over in September, spoke publicly on an investor call for the first time since his new job was announced.",
+    "published": "2026-04-30T23:22:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
+    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
+    "summary": "<p>Article URL: <a href=\"https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/\">https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47969288\">https://news.ycombinator.com/item?id=47969288</a></p>\n<p>Points: 106</p>\n<p># Comments: 40</p>",
+    "published": "2026-04-30T22:48:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Can I disable all data collection from my vehicle?",
+    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+    "summary": "<p>Article URL: <a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\">https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967786\">https://news.ycombinator.com/item?id=47967786</a></p>\n<p>Points: 634</p>\n<p># Comments: 262</p>",
+    "published": "2026-04-30T20:27:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Palantir Is Making a French Chore Coat. Yes, That Palantir.",
     "link": "https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html",
     "summary": "The data analysis company is selling a version of the jacket that it says will show its commitment to “re-industrializing America.”",
-    "published": "2026-04-30T09:03:00",
+    "published": "2026-04-30T19:37:37",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Full-Text Search with DuckDB",
+    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "summary": "<p>Article URL: <a href=\"https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html\">https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966254\">https://news.ycombinator.com/item?id=47966254</a></p>\n<p>Points: 138</p>\n<p># Comments: 31</p>",
+    "published": "2026-04-30T18:14:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+    "summary": "",
+    "published": "2026-04-30T17:48:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I built a Game Boy emulator in F#",
+    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+    "summary": "<p>Article URL: <a href=\"https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/\">https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965503\">https://news.ycombinator.com/item?id=47965503</a></p>\n<p>Points: 277</p>\n<p># Comments: 65</p>",
+    "published": "2026-04-30T17:14:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "summary": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 503</p>\n<p># Comments: 396</p>",
+    "published": "2026-04-30T16:43:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 602</p>\n<p># Comments: 197</p>",
+    "published": "2026-04-30T16:41:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+    "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+    "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+    "published": "2026-04-30T16:23:49",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/\">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964617\">https://news.ycombinator.com/item?id=47964617</a></p>\n<p>Points: 397</p>\n<p># Comments: 137</p>",
+    "published": "2026-04-30T16:09:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elon Musk suffered a rare loss in his last jury trial.",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
+    "summary": "",
+    "published": "2026-04-30T15:14:16",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Musk says he ‘was a fool’ to provide OpenAI’s early funding.",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding",
+    "summary": "",
+    "published": "2026-04-30T14:59:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
+    "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+    "summary": "In the second day of a trial pitting Mr. Musk against OpenAI, he said the company’s chief executive, Sam Altman, had misled him. But OpenAI’s lawyer said evidence showed the opposite.",
+    "published": "2026-04-30T14:53:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "link": "https://twitter.com/theo/status/2049645973350363168",
+    "summary": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1163</p>\n<p># Comments: 640</p>",
+    "published": "2026-04-30T14:36:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How an oil refinery works",
+    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+    "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-an-oil-refinery-works\">https://www.construction-physics.com/p/how-an-oil-refinery-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47962548\">https://news.ycombinator.com/item?id=47962548</a></p>\n<p>Points: 423</p>\n<p># Comments: 129</p>",
+    "published": "2026-04-30T13:54:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Belgium stops decommissioning nuclear power plants",
+    "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+    "summary": "<p>Article URL: <a href=\"https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/\">https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961319\">https://news.ycombinator.com/item?id=47961319</a></p>\n<p>Points: 824</p>\n<p># Comments: 835</p>",
+    "published": "2026-04-30T12:17:14",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Struggling With Phone Addiction? Try These Remedies.",
@@ -14,25 +210,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-    "link": "https://datacenter.fm/",
-    "summary": "<p>Article URL: <a href=\"https://datacenter.fm/\">https://datacenter.fm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959513\">https://news.ycombinator.com/item?id=47959513</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
-    "published": "2026-04-30T07:52:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mozilla's Opposition to Chrome's Prompt API",
-    "link": "https://github.com/mozilla/standards-positions/issues/1213",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mozilla/standards-positions/issues/1213\">https://github.com/mozilla/standards-positions/issues/1213</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47959463\">https://news.ycombinator.com/item?id=47959463</a></p>\n<p>Points: 84</p>\n<p># Comments: 34</p>",
-    "published": "2026-04-30T07:43:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Monad Tutorials Timeline",
-    "link": "https://wiki.haskell.org/Monad_tutorials_timeline",
-    "summary": "<p>Article URL: <a href=\"https://wiki.haskell.org/Monad_tutorials_timeline\">https://wiki.haskell.org/Monad_tutorials_timeline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47958106\">https://news.ycombinator.com/item?id=47958106</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
-    "published": "2026-04-30T04:28:07",
-    "source": "Hacker News: Front Page"
+    "title": "How Good Is Google’s Gemini AI at Making Travel Plans?",
+    "link": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
+    "summary": "Gemini is a digital Swiss Army knife for planning flights, activities and routes, but it isn’t perfect. Why did it forget to put underwear on the packing list?",
+    "published": "2026-04-30T09:01:13",
+    "source": "NYT > Technology"
   },
   {
     "title": "Lessons from Building an OTel Normalizer for GenAI",
@@ -42,94 +224,10 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-    "link": "https://burrito.bio/essays/biology-is-a-burrito",
-    "summary": "<p>Article URL: <a href=\"https://burrito.bio/essays/biology-is-a-burrito\">https://burrito.bio/essays/biology-is-a-burrito</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957714\">https://news.ycombinator.com/item?id=47957714</a></p>\n<p>Points: 104</p>\n<p># Comments: 16</p>",
-    "published": "2026-04-30T03:24:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Where the goblins came from",
-    "link": "https://openai.com/index/where-the-goblins-came-from/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957688\">https://news.ycombinator.com/item?id=47957688</a></p>\n<p>Points: 651</p>\n<p># Comments: 349</p>",
-    "published": "2026-04-30T03:21:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "link": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "summary": "<p>Article URL: <a href=\"https://github.com/cauchy221/Alignment-Whack-a-Mole-Code\">https://github.com/cauchy221/Alignment-Whack-a-Mole-Code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957627\">https://news.ycombinator.com/item?id=47957627</a></p>\n<p>Points: 137</p>\n<p># Comments: 105</p>",
-    "published": "2026-04-30T03:11:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Functional programmers need to take a look at Zig",
-    "link": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
-    "summary": "<p>Article URL: <a href=\"https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html\">https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957624\">https://news.ycombinator.com/item?id=47957624</a></p>\n<p>Points: 125</p>\n<p># Comments: 92</p>",
-    "published": "2026-04-30T03:11:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
-    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/30/zig-anti-ai/\">https://simonwillison.net/2026/Apr/30/zig-anti-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957294\">https://news.ycombinator.com/item?id=47957294</a></p>\n<p>Points: 300</p>\n<p># Comments: 134</p>",
-    "published": "2026-04-30T02:15:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A grounded conceptual model for ownership types in Rust",
-    "link": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
-    "summary": "<p>Article URL: <a href=\"https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/\">https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957116\">https://news.ycombinator.com/item?id=47957116</a></p>\n<p>Points: 37</p>\n<p># Comments: 1</p>",
-    "published": "2026-04-30T01:47:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Craig Venter has died",
-    "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "summary": "<p>Article URL: <a href=\"https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79\">https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47957101\">https://news.ycombinator.com/item?id=47957101</a></p>\n<p>Points: 239</p>\n<p># Comments: 42</p>",
-    "published": "2026-04-30T01:44:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-    "link": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-    "summary": "<p>Article URL: <a href=\"https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/\">https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47956781\">https://news.ycombinator.com/item?id=47956781</a></p>\n<p>Points: 52</p>\n<p># Comments: 133</p>",
-    "published": "2026-04-30T01:01:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mike: open-source legal AI",
-    "link": "https://mikeoss.com/",
-    "summary": "<p>Article URL: <a href=\"https://mikeoss.com/\">https://mikeoss.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47956739\">https://news.ycombinator.com/item?id=47956739</a></p>\n<p>Points: 100</p>\n<p># Comments: 41</p>",
-    "published": "2026-04-30T00:56:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
-    "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
-    "summary": "In the second day of a trial pitting Mr. Musk against OpenAI, he said the company’s chief executive, Sam Altman, had misled him. But OpenAI’s lawyer said evidence showed the opposite.",
-    "published": "2026-04-29T23:25:14",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "A.I. Spending Sets a Record, With No End in Sight",
     "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
     "summary": "Google, Amazon, Microsoft and Meta reported more than $130 billion in quarterly capital expenditures on Wednesday as they build A.I. data centers. There’s more to come.",
-    "published": "2026-04-29T22:53:54",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-    "link": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer\">https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47955226\">https://news.ycombinator.com/item?id=47955226</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-29T21:50:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
-    "link": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
-    "summary": "Beijing’s insistence that Meta unwind its deal with a Chinese A.I. start-up escalates the geopolitical fight over advanced tech.",
-    "published": "2026-04-29T21:08:05",
+    "published": "2026-04-29T22:53:55",
     "source": "NYT > Technology"
   },
   {
@@ -154,13 +252,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "OpenTrafficMap",
-    "link": "https://opentrafficmap.org/",
-    "summary": "<p>Article URL: <a href=\"https://opentrafficmap.org/\">https://opentrafficmap.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47953541\">https://news.ycombinator.com/item?id=47953541</a></p>\n<p>Points: 278</p>\n<p># Comments: 67</p>",
-    "published": "2026-04-29T19:49:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Even without OpenAI, Elon Musk has made A.I. a big part of his business empire.",
     "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
     "summary": "",
@@ -175,20 +266,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-    "link": "https://github.com/anthropics/claude-code/issues/53262",
-    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/53262\">https://github.com/anthropics/claude-code/issues/53262</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952722\">https://news.ycombinator.com/item?id=47952722</a></p>\n<p>Points: 1135</p>\n<p># Comments: 485</p>",
-    "published": "2026-04-29T18:54:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Copy Fail",
-    "link": "https://copy.fail/",
-    "summary": "<p>Article URL: <a href=\"https://copy.fail/\">https://copy.fail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a></p>\n<p>Points: 997</p>\n<p># Comments: 366</p>",
-    "published": "2026-04-29T18:13:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
     "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
     "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
@@ -197,42 +274,14 @@
   },
   {
     "title": "Who is the judge in the case?",
-    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
     "summary": "",
     "published": "2026-04-29T17:41:36",
     "source": "NYT > Technology"
   },
   {
-    "title": "Laws of UX",
-    "link": "https://lawsofux.com/",
-    "summary": "<p>Article URL: <a href=\"https://lawsofux.com/\">https://lawsofux.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47951137\">https://news.ycombinator.com/item?id=47951137</a></p>\n<p>Points: 276</p>\n<p># Comments: 41</p>",
-    "published": "2026-04-29T16:58:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-    "link": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-    "summary": "<p>Article URL: <a href=\"https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies\">https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47950510\">https://news.ycombinator.com/item?id=47950510</a></p>\n<p>Points: 344</p>\n<p># Comments: 81</p>",
-    "published": "2026-04-29T16:16:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
-    "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
-    "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
-    "published": "2026-04-29T16:04:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Cursor Camp",
-    "link": "https://neal.fun/cursor-camp/",
-    "summary": "<p>Article URL: <a href=\"https://neal.fun/cursor-camp/\">https://neal.fun/cursor-camp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47949939\">https://news.ycombinator.com/item?id=47949939</a></p>\n<p>Points: 960</p>\n<p># Comments: 156</p>",
-    "published": "2026-04-29T15:39:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
-    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
     "summary": "",
     "published": "2026-04-29T14:35:23",
     "source": "NYT > Technology"
@@ -344,7 +393,7 @@
   },
   {
     "title": "Here’s the contentious history behind OpenAI.",
-    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai",
+    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai",
     "summary": "",
     "published": "2026-04-28T14:01:03",
     "source": "NYT > Technology"
@@ -382,13 +431,6 @@
     "link": "https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html",
     "summary": "The widening movement is pulling in people from all walks of life, united by a worry that Big Tech will cash in while average Americans bear the costs.",
     "published": "2026-04-27T16:11:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
-    "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
-    "summary": "Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
-    "published": "2026-04-27T03:03:00",
     "source": "NYT > Technology"
   },
   {
@@ -438,48 +480,6 @@
     "link": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
     "summary": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
     "published": "2026-04-24T17:58:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
-    "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
-    "summary": "The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
-    "published": "2026-04-24T16:53:32",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Elon Musk Used SpaceX to Benefit Himself and His Businesses",
-    "link": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
-    "summary": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
-    "published": "2026-04-24T13:27:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
-    "link": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
-    "summary": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
-    "published": "2026-04-24T09:02:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Intel’s Revenues Soar, Aided by A.I. Boom",
-    "link": "https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html",
-    "summary": "The chip maker reported a 7 percent rise to $13.6 billion in its latest quarter, more than $1 billion more than Wall Street expected.",
-    "published": "2026-04-23T22:35:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model",
-    "link": "https://www.nytimes.com/2026/04/23/technology/openai-new-model.html",
-    "summary": "The maker of ChatGPT is taking a more open approach to cybersecurity than its chief rival, Anthropic.",
-    "published": "2026-04-23T19:15:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk and Sam Altman’s Epic Fight Heads to Court",
-    "link": "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html",
-    "summary": "A jury trial that is set to start on Monday could shift the course of the A.I. race, with Mr. Musk seeking billions of dollars in damages from Mr. Altman’s OpenAI.",
-    "published": "2026-04-23T18:40:57",
     "source": "NYT > Technology"
   }
 ]

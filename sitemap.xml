@@ -1,83 +1,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=47972888</loc>
+    <lastmod>2026-05-01T09:52:15</lastmod>
+  </url>
+  <url>
+    <loc>https://skysedge.com/telecom/RUSP/index.html</loc>
+    <lastmod>2026-05-01T09:39:07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html</loc>
+    <lastmod>2026-05-01T09:01:10</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/darrylmorley/whatcable</loc>
+    <lastmod>2026-05-01T08:43:45</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.x.ai/developers/models/grok-4.3</loc>
+    <lastmod>2026-05-01T08:29:31</lastmod>
+  </url>
+  <url>
+    <loc>https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==</loc>
+    <lastmod>2026-05-01T07:44:17</lastmod>
+  </url>
+  <url>
+    <loc>https://matduggan.com/if-i-could-make-my-own-github/</loc>
+    <lastmod>2026-05-01T06:21:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/</loc>
+    <lastmod>2026-05-01T06:20:33</lastmod>
+  </url>
+  <url>
+    <loc>https://openwarp.zerx.dev</loc>
+    <lastmod>2026-05-01T02:10:46</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiensanglard.net/snes_hearts/</loc>
+    <lastmod>2026-05-01T02:02:11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html</loc>
+    <lastmod>2026-05-01T00:01:39</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html</loc>
+    <lastmod>2026-04-30T23:24:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html</loc>
+    <lastmod>2026-04-30T23:22:26</lastmod>
+  </url>
+  <url>
+    <loc>https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/</loc>
+    <lastmod>2026-04-30T22:48:51</lastmod>
+  </url>
+  <url>
+    <loc>https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</loc>
+    <lastmod>2026-04-30T20:27:22</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html</loc>
-    <lastmod>2026-04-30T09:03:00</lastmod>
+    <lastmod>2026-04-30T19:37:37</lastmod>
+  </url>
+  <url>
+    <loc>https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html</loc>
+    <lastmod>2026-04-30T18:14:18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-latest</loc>
+    <lastmod>2026-04-30T17:48:32</lastmod>
+  </url>
+  <url>
+    <loc>https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/</loc>
+    <lastmod>2026-04-30T17:14:21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.openwall.com/lists/oss-security/2026/04/30/10</loc>
+    <lastmod>2026-04-30T16:43:47</lastmod>
+  </url>
+  <url>
+    <loc>https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</loc>
+    <lastmod>2026-04-30T16:41:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html</loc>
+    <lastmod>2026-04-30T16:23:49</lastmod>
+  </url>
+  <url>
+    <loc>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</loc>
+    <lastmod>2026-04-30T16:09:26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial</loc>
+    <lastmod>2026-04-30T15:14:16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding</loc>
+    <lastmod>2026-04-30T14:59:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html</loc>
+    <lastmod>2026-04-30T14:53:07</lastmod>
+  </url>
+  <url>
+    <loc>https://twitter.com/theo/status/2049645973350363168</loc>
+    <lastmod>2026-04-30T14:36:58</lastmod>
+  </url>
+  <url>
+    <loc>https://www.construction-physics.com/p/how-an-oil-refinery-works</loc>
+    <lastmod>2026-04-30T13:54:20</lastmod>
+  </url>
+  <url>
+    <loc>https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/</loc>
+    <lastmod>2026-04-30T12:17:14</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html</loc>
     <lastmod>2026-04-30T09:01:48</lastmod>
   </url>
   <url>
-    <loc>https://datacenter.fm/</loc>
-    <lastmod>2026-04-30T07:52:12</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/mozilla/standards-positions/issues/1213</loc>
-    <lastmod>2026-04-30T07:43:55</lastmod>
-  </url>
-  <url>
-    <loc>https://wiki.haskell.org/Monad_tutorials_timeline</loc>
-    <lastmod>2026-04-30T04:28:07</lastmod>
+    <loc>https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html</loc>
+    <lastmod>2026-04-30T09:01:13</lastmod>
   </url>
   <url>
     <loc>https://www.groundcover.com/blog/otel-normalizer-genai-part-1</loc>
     <lastmod>2026-04-30T04:23:40</lastmod>
   </url>
   <url>
-    <loc>https://burrito.bio/essays/biology-is-a-burrito</loc>
-    <lastmod>2026-04-30T03:24:41</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/where-the-goblins-came-from/</loc>
-    <lastmod>2026-04-30T03:21:04</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/cauchy221/Alignment-Whack-a-Mole-Code</loc>
-    <lastmod>2026-04-30T03:11:51</lastmod>
-  </url>
-  <url>
-    <loc>https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html</loc>
-    <lastmod>2026-04-30T03:11:33</lastmod>
-  </url>
-  <url>
-    <loc>https://simonwillison.net/2026/Apr/30/zig-anti-ai/</loc>
-    <lastmod>2026-04-30T02:15:47</lastmod>
-  </url>
-  <url>
-    <loc>https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/</loc>
-    <lastmod>2026-04-30T01:47:19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</loc>
-    <lastmod>2026-04-30T01:44:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/</loc>
-    <lastmod>2026-04-30T01:01:55</lastmod>
-  </url>
-  <url>
-    <loc>https://mikeoss.com/</loc>
-    <lastmod>2026-04-30T00:56:23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html</loc>
-    <lastmod>2026-04-29T23:25:14</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html</loc>
-    <lastmod>2026-04-29T22:53:54</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer</loc>
-    <lastmod>2026-04-29T21:50:57</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html</loc>
-    <lastmod>2026-04-29T21:08:05</lastmod>
+    <lastmod>2026-04-29T22:53:55</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html</loc>
@@ -92,10 +148,6 @@
     <lastmod>2026-04-29T20:40:42</lastmod>
   </url>
   <url>
-    <loc>https://opentrafficmap.org/</loc>
-    <lastmod>2026-04-29T19:49:30</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire</loc>
     <lastmod>2026-04-29T19:20:42</lastmod>
   </url>
@@ -104,39 +156,15 @@
     <lastmod>2026-04-29T18:59:03</lastmod>
   </url>
   <url>
-    <loc>https://github.com/anthropics/claude-code/issues/53262</loc>
-    <lastmod>2026-04-29T18:54:31</lastmod>
-  </url>
-  <url>
-    <loc>https://copy.fail/</loc>
-    <lastmod>2026-04-29T18:13:53</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html</loc>
     <lastmod>2026-04-29T17:57:21</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case</loc>
+    <loc>https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case</loc>
     <lastmod>2026-04-29T17:41:36</lastmod>
   </url>
   <url>
-    <loc>https://lawsofux.com/</loc>
-    <lastmod>2026-04-29T16:58:13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</loc>
-    <lastmod>2026-04-29T16:16:39</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html</loc>
-    <lastmod>2026-04-29T16:04:58</lastmod>
-  </url>
-  <url>
-    <loc>https://neal.fun/cursor-camp/</loc>
-    <lastmod>2026-04-29T15:39:43</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about</loc>
+    <loc>https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about</loc>
     <lastmod>2026-04-29T14:35:23</lastmod>
   </url>
   <url>
@@ -200,7 +228,7 @@
     <lastmod>2026-04-28T14:02:12</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai</loc>
+    <loc>https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai</loc>
     <lastmod>2026-04-28T14:01:03</lastmod>
   </url>
   <url>
@@ -222,10 +250,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html</loc>
     <lastmod>2026-04-27T16:11:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html</loc>
-    <lastmod>2026-04-27T03:03:00</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html</loc>
@@ -254,29 +278,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html</loc>
     <lastmod>2026-04-24T17:58:24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html</loc>
-    <lastmod>2026-04-24T16:53:32</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html</loc>
-    <lastmod>2026-04-24T13:27:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html</loc>
-    <lastmod>2026-04-24T09:02:25</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/23/technology/intel-ai-earnings.html</loc>
-    <lastmod>2026-04-23T22:35:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/23/technology/openai-new-model.html</loc>
-    <lastmod>2026-04-23T19:15:08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html</loc>
-    <lastmod>2026-04-23T18:40:57</lastmod>
   </url>
 </urlset>
