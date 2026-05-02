@@ -1,86 +1,184 @@
 [
   {
-    "title": "Show HN: Perfect Bluetooth MIDI for Windows",
-    "link": "https://news.ycombinator.com/item?id=47972888",
-    "summary": "<p>Hi HN, I'm Erwin. I built a small free open-source utility that bridges Bluetooth LE MIDI keyboards into the new Windows MIDI Services stack so any DAW or Web MIDI app can use them as if they were wired.<p>I bought a Roland FP-90X piano partly because it had Bluetooth MIDI. On my Windows 11 PC, pairing succeeded, but my DAW couldn't see the keyboard, and notes I sent from the PC never made the piano sing. After a regrettable number of evenings, I'd separated this into three independent bugs stacked on top of each other.<p>The first one is the famous one: Windows only natively exposes BLE-MIDI through the WinRT API, which almost no DAW polls. So even when pairing succeeds, MIDI apps still don't see the device. The usual workaround is MIDIberry + loopMIDI, but I couldn't get that combination to work reliably in my case, and I wanted a single-app solution. The new Windows MIDI Services stack ships with a feature called loopback endpoints: anything written to one comes out the other, and any winmm/WinRT/WMS app sees them as normal MIDI ports. So the app does WinRT BLE-MIDI in, WMS loopback out. That solved direction one, piano to PC.<p>Direction two, PC to piano, still didn't work. NoteOn writes were getting ATT-acked, but the piano stayed silent. I tried both write modes (some BLE-MIDI firmware silently drops one or the other), poked the proprietary ISSC characteristic. Every variant ATT-acked, every variant produced silence. So the bytes were reaching the piano. Something above the GATT layer was discarding them.<p>After ruling out pairing, encryption, write-mode, and proprietary characteristics, the only obvious lever left was the MIDI channel itself. The FP-90X has a panel setting called Transmit Channel, default 1. Yet it turns out the FP-90X actually receives on channel 4 (and it can't be changed). Notes I sent on channel 1 were being GATT-acked and silently dropped at the synth engine because they weren't on the channel the engine was listening to. Zero feedback at any layer. The fix had to live up at the application layer, so I added a Detect button that plays N test notes ascending on each channel from 1 to 16: you count the notes you actually hear, and that number is the receive channel. Saved per BLE MAC, about 75 seconds, done forever per piano.<p>Tech stack: .NET 10, Avalonia for the UI (the BLE/MIDI side is Windows-only but the UI layer is portable), Microsoft.Windows.Devices.Midi2 packages for WMS, Windows.Devices.Midi (WinRT) directly for BLE rather than relying on Korg's older WinMM driver. MIT, single self-contained ~21 MB exe, no installer, no telemetry, no account.<p>I built it for myself and use it with my FP-90X to play through a few apps and Web MIDI sites. Pete from the Microsoft Windows MIDI Services team commented positively on the BLE integration when I shared it on r/synthesizers (<a href=\"https://www.reddit.com/r/synthesizers/comments/1szvuiq/comment/oj5ew9b/\" rel=\"nofollow\">https://www.reddit.com/r/synthesizers/comments/1szvuiq/comme...</a>).<p>Site (with screenshots): <a href=\"https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Windows/\" rel=\"nofollow\">https://mayerwin.github.io/Perfect-Bluetooth-MIDI-For-Window...</a>\nSource: <a href=\"https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windows\" rel=\"nofollow\">https://github.com/mayerwin/Perfect-Bluetooth-MIDI-For-Windo...</a>\nLong-form technical writeup with the full debugging story: <a href=\"https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-silently-drops-notes-on-windows-2i84\" rel=\"nofollow\">https://dev.to/mayerwin/why-your-bluetooth-midi-keyboard-sil...</a><p>Personally tested with my FP-90X only. The BLE side is generic, so other keyboards (WIDI Master, CME, Yamaha MD-BT01, Korg microKey Air, ROLI Seaboard, etc.) should work, but I haven't confirmed individually. Device test reports, issues, and PRs very welcome.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972888\">https://news.ycombinator.com/item?id=47972888</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-01T09:52:15",
+    "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+    "link": "https://iesna.eu/?wasm=skyglow_demo",
+    "summary": "<p>Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculations against EN 13201 / ANSI/IES RP-8 / CJJ 45 / IES-IDA MLO, and (the part I most want to show off here) rendering real urban scenes in Bevy with the photometric data driving actual streetlight behavior, including sky-glow contribution.\nThe Skyglow Analysis demo loads a real LDT file into a Bevy scene (Khronos Bistro test asset). \nThe luminaire's intensity distribution drives the streetlight rendering directly — no fudging — and the sky-glow grade updates live as you adjust the uplight percentage. Swap to a full-cutoff fixture and the sky goes from F (Severe) back to A (Excellent). You can see the difference on the buildings as well as in the sky.\nStack: Rust core (eulumdat-rs and friends, ~20 crates handling photometric formats), Bevy for the 3D rendering, WASM for browser deployment. No backend; everything runs client-side. About a thousand lines of new code on top of the existing photometric library to make the Bevy integration work.\nThings I'd love feedback on:<p>The atmospheric scattering model is currently single-scattering Rayleigh+Mie. Is that defensible for the use case, or should I move toward multi-scattering?\nThe Bistro test scene works well visually but isn't a controlled environment. \nAnyone know of a public urban geometry asset that's more typical of real road-lighting evaluation?\nThe CJJ 45 implementation (China's national road lighting standard) is the only one I've had to reverse-engineer from translated PDFs. \nIf anyone has primary-source experience with it, I'd value a sanity check.<p>Open-source on GitHub (eulumdat-rs and the related crates).\nCrates.io: eulumdat</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984734\">https://news.ycombinator.com/item?id=47984734</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-02T09:08:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Rotary Un-Smartphone",
-    "link": "https://skysedge.com/telecom/RUSP/index.html",
-    "summary": "<p>Article URL: <a href=\"https://skysedge.com/telecom/RUSP/index.html\">https://skysedge.com/telecom/RUSP/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972807\">https://news.ycombinator.com/item?id=47972807</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-01T09:39:07",
+    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+    "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+    "summary": "<p>Hey HN!<p>I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on.<p>It's built on top of SimplePDF that I started 7 years ago, pioneering privacy-respecting client-side pdf editing, now used monthly by 200k+ people.<p>As for the privacy model: the PDF itself never leaves the browser. Parsing, rendering, and field detection all run client-side.<p>The text the model needs (and your messages) goes to whatever LLM you point at. By default that's our demo proxy (DeepSeek V4 Flash, rate-capped), but you can BYOK and point it at any cloud provider, or go fully local (I've been testing with LM Studio).<p>Unlike the existing \"Chat with PDF\" tools that only retrieve the text/OCR layer, Copilot can act on the PDF: filling fields, adding fields (detected client-side using CommonForms by Joe Barrow [1], jbarrow on HN with some post-processing heuristics I added on top), focusing on fields, deleting pages, and so on.<p>I built this because SimplePDF is mostly used by healthcare customers where document privacy is paramount, and I wanted an AI experience that didn't require shipping PII to a third party.\nStack is pretty standard:<p>- Tanstack Start<p>- AI SDK from Vercel<p>- Tailwind (I personally prefer CSS modules, I'm old-school but the goal since I open source it, I figured that Tailwind would be a better fit)<p>The more interesting part is the client-side tool calling: events are passed back and forth via iframe postMessage.<p>If you're not familiar with \"tool calling\" and \"client-side tool calling\", a quick primer:<p>Tool calling is what LLMs use to take actions. When Claude runs grep or ls, or hits an MCP server, those are tool calls.<p>Client-side tool calling means the intent to call a tool comes from the LLM, but the execution happens in the browser.<p>That matters for: speed, you can't go faster than client-to-client operations and also gives you the ability to limit the data you expose to the LLM. For the demo I do feed the content of the document to the LLM, but that connection could be severed as simply as removing the tool that exposes the content data.<p>The demo is fully open source, available on Github [2] and the demo is the same as the link of this post [3]<p>What's not open source is SimplePDF itself (loaded as the iframe).<p>I could talk on and on about this, let me know if you have any questions, anything goes!<p>[1] <a href=\"https://github.com/jbarrow/commonforms\" rel=\"nofollow\">https://github.com/jbarrow/commonforms</a><p>[2] <a href=\"https://github.com/SimplePDF/simplepdf-embed/tree/main/copilot\" rel=\"nofollow\">https://github.com/SimplePDF/simplepdf-embed/tree/main/copil...</a><p>[3] <a href=\"https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&amp;form=w9&amp;lang=en\" rel=\"nofollow\">https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984675\">https://news.ycombinator.com/item?id=47984675</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-02T08:54:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
-    "link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
-    "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
-    "published": "2026-05-01T09:01:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-    "link": "https://github.com/darrylmorley/whatcable",
-    "summary": "<p>USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.<p>WhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.<p>Built in Swift/SwiftUI. Open source, free, no tracking.<p>GitHub: <a href=\"https://github.com/darrylmorley/whatcable\" rel=\"nofollow\">https://github.com/darrylmorley/whatcable</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972511\">https://news.ycombinator.com/item?id=47972511</a></p>\n<p>Points: 42</p>\n<p># Comments: 6</p>",
-    "published": "2026-05-01T08:43:45",
+    "title": "SKILL.make: Makefile Styled Skill File",
+    "link": "https://github.com/Teaonly/SKILL.make",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Teaonly/SKILL.make\">https://github.com/Teaonly/SKILL.make</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984486\">https://news.ycombinator.com/item?id=47984486</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-02T08:18:15",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Grok 4.3",
-    "link": "https://docs.x.ai/developers/models/grok-4.3",
-    "summary": "<p>Article URL: <a href=\"https://docs.x.ai/developers/models/grok-4.3\">https://docs.x.ai/developers/models/grok-4.3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972447\">https://news.ycombinator.com/item?id=47972447</a></p>\n<p>Points: 63</p>\n<p># Comments: 56</p>",
-    "published": "2026-05-01T08:29:31",
+    "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+    "link": "https://github.com/InsaneInfinity/Balistic",
+    "summary": "<p>Article URL: <a href=\"https://github.com/InsaneInfinity/Balistic\">https://github.com/InsaneInfinity/Balistic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984291\">https://news.ycombinator.com/item?id=47984291</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-02T07:42:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Canonical/Ubuntu have been under DDoS for more than 15h",
-    "link": "https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==",
-    "summary": "<p>Article URL: <a href=\"https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==\">https://status.canonical.com/#/incident/KNms6QK9ewuzz-7xUsPsNylV20jEt5kyKsd8A-3ptQEHpOd8VQ40ZQs-KD81fboQXeGZB94okNHdHBGlCv58Sw==</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47972213\">https://news.ycombinator.com/item?id=47972213</a></p>\n<p>Points: 48</p>\n<p># Comments: 10</p>",
-    "published": "2026-05-01T07:44:17",
+    "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+    "link": "https://mathstick.github.io",
+    "summary": "<p>Article URL: <a href=\"https://mathstick.github.io\">https://mathstick.github.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983485\">https://news.ycombinator.com/item?id=47983485</a></p>\n<p>Points: 12</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-02T05:04:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "If I could make my own GitHub",
-    "link": "https://matduggan.com/if-i-could-make-my-own-github/",
-    "summary": "<p>Article URL: <a href=\"https://matduggan.com/if-i-could-make-my-own-github/\">https://matduggan.com/if-i-could-make-my-own-github/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47971771\">https://news.ycombinator.com/item?id=47971771</a></p>\n<p>Points: 40</p>\n<p># Comments: 30</p>",
-    "published": "2026-05-01T06:21:01",
+    "title": "CollectWise (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983385\">https://news.ycombinator.com/item?id=47983385</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-02T04:43:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
-    "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
-    "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/\">https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47971768\">https://news.ycombinator.com/item?id=47971768</a></p>\n<p>Points: 75</p>\n<p># Comments: 58</p>",
-    "published": "2026-05-01T06:20:33",
+    "title": "Why does it take so long to release black fan versions?",
+    "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+    "summary": "<p>Article URL: <a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\">https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983352\">https://news.ycombinator.com/item?id=47983352</a></p>\n<p>Points: 227</p>\n<p># Comments: 106</p>",
+    "published": "2026-05-02T04:38:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "OpenWarp",
-    "link": "https://openwarp.zerx.dev",
-    "summary": "<p>Article URL: <a href=\"https://openwarp.zerx.dev\">https://openwarp.zerx.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970622\">https://news.ycombinator.com/item?id=47970622</a></p>\n<p>Points: 91</p>\n<p># Comments: 78</p>",
-    "published": "2026-05-01T02:10:46",
+    "title": "Ask.com has closed",
+    "link": "https://www.ask.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 261</p>\n<p># Comments: 131</p>",
+    "published": "2026-05-02T04:12:35",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Hearts of the Super Nintendo (2024)",
-    "link": "https://fabiensanglard.net/snes_hearts/",
-    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/snes_hearts/\">https://fabiensanglard.net/snes_hearts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47970578\">https://news.ycombinator.com/item?id=47970578</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
-    "published": "2026-05-01T02:02:11",
+    "title": "K3k: Kubernetes in Kubernetes",
+    "link": "https://github.com/rancher/k3k",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rancher/k3k\">https://github.com/rancher/k3k</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983176\">https://news.ycombinator.com/item?id=47983176</a></p>\n<p>Points: 52</p>\n<p># Comments: 28</p>",
+    "published": "2026-05-02T04:00:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Create an MP4 video of a web page scrolling at a steady speed",
+    "link": "https://github.com/upenn/web-scroll-video",
+    "summary": "<p>Article URL: <a href=\"https://github.com/upenn/web-scroll-video\">https://github.com/upenn/web-scroll-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47982763\">https://news.ycombinator.com/item?id=47982763</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
+    "published": "2026-05-02T02:26:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I built the Playwright for desktop apps. 80% token savings",
+    "link": "https://github.com/lahfir/agent-desktop",
+    "summary": "<p>Article URL: <a href=\"https://github.com/lahfir/agent-desktop\">https://github.com/lahfir/agent-desktop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47982708\">https://news.ycombinator.com/item?id=47982708</a></p>\n<p>Points: 77</p>\n<p># Comments: 24</p>",
+    "published": "2026-05-02T02:18:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+    "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+    "summary": "<p>Article URL: <a href=\"https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf\">https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47981669\">https://news.ycombinator.com/item?id=47981669</a></p>\n<p>Points: 76</p>\n<p># Comments: 23</p>",
+    "published": "2026-05-01T23:24:10",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Musk vs. Altman: What Is This Really About?",
     "link": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
     "summary": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
-    "published": "2026-05-01T00:01:39",
+    "published": "2026-05-01T22:21:43",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
+    "link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+    "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
+    "published": "2026-05-01T20:32:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Ti-84 Evo",
+    "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+    "summary": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 454</p>\n<p># Comments: 381</p>",
+    "published": "2026-05-01T20:06:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Whimsical Animations Course Open House",
+    "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+    "summary": "<p>Article URL: <a href=\"https://courses.joshwcomeau.com/wham/open-house/00-introduction\">https://courses.joshwcomeau.com/wham/open-house/00-introduction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979190\">https://news.ycombinator.com/item?id=47979190</a></p>\n<p>Points: 97</p>\n<p># Comments: 9</p>",
+    "published": "2026-05-01T19:35:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+    "link": "https://github.com/microsoft/lib0xc",
+    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/lib0xc\">https://github.com/microsoft/lib0xc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978834\">https://news.ycombinator.com/item?id=47978834</a></p>\n<p>Points: 149</p>\n<p># Comments: 54</p>",
+    "published": "2026-05-01T19:10:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New research suggests people can communicate and practice skills while dreaming",
+    "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+    "summary": "<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 338</p>\n<p># Comments: 194</p>",
+    "published": "2026-05-01T17:47:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+    "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/24/deepseek-v4/\">https://simonwillison.net/2026/Apr/24/deepseek-v4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977026\">https://news.ycombinator.com/item?id=47977026</a></p>\n<p>Points: 103</p>\n<p># Comments: 44</p>",
+    "published": "2026-05-01T16:52:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
+    "link": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
+    "summary": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon.",
+    "published": "2026-05-01T16:35:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Apocalypse Early Warning System",
+    "link": "https://ews.kylemcdonald.net/",
+    "summary": "<p>Article URL: <a href=\"https://ews.kylemcdonald.net/\">https://ews.kylemcdonald.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976566\">https://news.ycombinator.com/item?id=47976566</a></p>\n<p>Points: 186</p>\n<p># Comments: 95</p>",
+    "published": "2026-05-01T16:21:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
+    "summary": "The agreements with the technology companies come amid the Defense Department’s dispute with Anthropic.",
+    "published": "2026-05-01T15:59:40",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+    "link": "https://news.ycombinator.com/item?id=47975676",
+    "summary": "<p>I'll be here for the next 6 hours. As usual, there are lots of possible topics and I'll be guided by whatever you're interested in. Please remember that I can't provide legal advice on specific cases because I won't have access to all the facts. Please try to stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!<p>Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47975676\">https://news.ycombinator.com/item?id=47975676</a></p>\n<p>Points: 160</p>\n<p># Comments: 216</p>",
+    "published": "2026-05-01T15:07:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+    "link": "https://github.com/whohas/whohas",
+    "summary": "<p>Article URL: <a href=\"https://github.com/whohas/whohas\">https://github.com/whohas/whohas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47975592\">https://news.ycombinator.com/item?id=47975592</a></p>\n<p>Points: 142</p>\n<p># Comments: 35</p>",
+    "published": "2026-05-01T15:01:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
+    "link": "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
+    "summary": "Will the rising tide of A.I. adoption lift all boats?",
+    "published": "2026-05-01T11:00:03",
     "source": "NYT > Technology"
   },
   {
     "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
     "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
     "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
-    "published": "2026-04-30T23:24:17",
+    "published": "2026-04-30T23:24:18",
     "source": "NYT > Technology"
   },
   {
@@ -91,32 +189,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "CPanel and WHM Authentication Bypass – CVE-2026-41940",
-    "link": "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/",
-    "summary": "<p>Article URL: <a href=\"https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/\">https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47969288\">https://news.ycombinator.com/item?id=47969288</a></p>\n<p>Points: 106</p>\n<p># Comments: 40</p>",
-    "published": "2026-04-30T22:48:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Can I disable all data collection from my vehicle?",
-    "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "summary": "<p>Article URL: <a href=\"https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\">https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47967786\">https://news.ycombinator.com/item?id=47967786</a></p>\n<p>Points: 634</p>\n<p># Comments: 262</p>",
-    "published": "2026-04-30T20:27:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Palantir Is Making a French Chore Coat. Yes, That Palantir.",
     "link": "https://www.nytimes.com/2026/04/30/style/palantir-ai-coat-french-chore-coat.html",
     "summary": "The data analysis company is selling a version of the jacket that it says will show its commitment to “re-industrializing America.”",
     "published": "2026-04-30T19:37:37",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Full-Text Search with DuckDB",
-    "link": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
-    "summary": "<p>Article URL: <a href=\"https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html\">https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47966254\">https://news.ycombinator.com/item?id=47966254</a></p>\n<p>Points: 138</p>\n<p># Comments: 31</p>",
-    "published": "2026-04-30T18:14:18",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Here’s the latest.",
@@ -126,39 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "I built a Game Boy emulator in F#",
-    "link": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-    "summary": "<p>Article URL: <a href=\"https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/\">https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965503\">https://news.ycombinator.com/item?id=47965503</a></p>\n<p>Points: 277</p>\n<p># Comments: 65</p>",
-    "published": "2026-04-30T17:14:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "link": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "summary": "<p>Recent: <i>Copy Fail</i> - <a href=\"https://news.ycombinator.com/item?id=47952181\">https://news.ycombinator.com/item?id=47952181</a> - April 2026 (466 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965108\">https://news.ycombinator.com/item?id=47965108</a></p>\n<p>Points: 503</p>\n<p># Comments: 396</p>",
-    "published": "2026-04-30T16:43:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-    "link": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/\">https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47965060\">https://news.ycombinator.com/item?id=47965060</a></p>\n<p>Points: 602</p>\n<p># Comments: 197</p>",
-    "published": "2026-04-30T16:41:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
     "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
     "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
     "published": "2026-04-30T16:23:49",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "link": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/\">https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47964617\">https://news.ycombinator.com/item?id=47964617</a></p>\n<p>Points: 397</p>\n<p># Comments: 137</p>",
-    "published": "2026-04-30T16:09:26",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk suffered a rare loss in his last jury trial.",
@@ -182,46 +231,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "link": "https://twitter.com/theo/status/2049645973350363168",
-    "summary": "<p><a href=\"https://xcancel.com/theo/status/2049645973350363168\" rel=\"nofollow\">https://xcancel.com/theo/status/2049645973350363168</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47963204\">https://news.ycombinator.com/item?id=47963204</a></p>\n<p>Points: 1163</p>\n<p># Comments: 640</p>",
-    "published": "2026-04-30T14:36:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How an oil refinery works",
-    "link": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-    "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/how-an-oil-refinery-works\">https://www.construction-physics.com/p/how-an-oil-refinery-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47962548\">https://news.ycombinator.com/item?id=47962548</a></p>\n<p>Points: 423</p>\n<p># Comments: 129</p>",
-    "published": "2026-04-30T13:54:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Belgium stops decommissioning nuclear power plants",
-    "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-    "summary": "<p>Article URL: <a href=\"https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/\">https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47961319\">https://news.ycombinator.com/item?id=47961319</a></p>\n<p>Points: 824</p>\n<p># Comments: 835</p>",
-    "published": "2026-04-30T12:17:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Struggling With Phone Addiction? Try These Remedies.",
     "link": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
     "summary": "Counting minutes is a poor way to curb phone habits. Real antidotes, experts say, include mindful parenting, curated content and human connection.",
     "published": "2026-04-30T09:01:48",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "How Good Is Google’s Gemini AI at Making Travel Plans?",
-    "link": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
-    "summary": "Gemini is a digital Swiss Army knife for planning flights, activities and routes, but it isn’t perfect. Why did it forget to put underwear on the packing list?",
-    "published": "2026-04-30T09:01:13",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Lessons from Building an OTel Normalizer for GenAI",
-    "link": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
-    "summary": "<p>Article URL: <a href=\"https://www.groundcover.com/blog/otel-normalizer-genai-part-1\">https://www.groundcover.com/blog/otel-normalizer-genai-part-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47958081\">https://news.ycombinator.com/item?id=47958081</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-04-30T04:23:40",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A.I. Spending Sets a Record, With No End in Sight",
@@ -256,13 +270,6 @@
     "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
     "summary": "",
     "published": "2026-04-29T19:20:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
-    "link": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
-    "summary": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
-    "published": "2026-04-29T18:59:03",
     "source": "NYT > Technology"
   },
   {
@@ -452,34 +459,6 @@
     "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
     "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
     "published": "2026-04-25T19:57:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
-    "link": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
-    "summary": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
-    "published": "2026-04-25T16:33:22",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
-    "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
-    "summary": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
-    "published": "2026-04-25T09:02:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
-    "link": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
-    "summary": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
-    "published": "2026-04-24T19:47:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
-    "link": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
-    "summary": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
-    "published": "2026-04-24T17:58:24",
     "source": "NYT > Technology"
   }
 ]
