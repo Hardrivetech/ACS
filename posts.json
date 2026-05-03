@@ -1,37 +1,142 @@
 [
   {
-    "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-    "link": "https://iesna.eu/?wasm=skyglow_demo",
-    "summary": "<p>Hi HN — author here. iesna.eu is a browser-based ecosystem for working with photometric data: parsing standard luminaire files (LDT/EULUMDAT, IES LM-63, Oxytech, ATLA-S001), running design calculations against EN 13201 / ANSI/IES RP-8 / CJJ 45 / IES-IDA MLO, and (the part I most want to show off here) rendering real urban scenes in Bevy with the photometric data driving actual streetlight behavior, including sky-glow contribution.\nThe Skyglow Analysis demo loads a real LDT file into a Bevy scene (Khronos Bistro test asset). \nThe luminaire's intensity distribution drives the streetlight rendering directly — no fudging — and the sky-glow grade updates live as you adjust the uplight percentage. Swap to a full-cutoff fixture and the sky goes from F (Severe) back to A (Excellent). You can see the difference on the buildings as well as in the sky.\nStack: Rust core (eulumdat-rs and friends, ~20 crates handling photometric formats), Bevy for the 3D rendering, WASM for browser deployment. No backend; everything runs client-side. About a thousand lines of new code on top of the existing photometric library to make the Bevy integration work.\nThings I'd love feedback on:<p>The atmospheric scattering model is currently single-scattering Rayleigh+Mie. Is that defensible for the use case, or should I move toward multi-scattering?\nThe Bistro test scene works well visually but isn't a controlled environment. \nAnyone know of a public urban geometry asset that's more typical of real road-lighting evaluation?\nThe CJJ 45 implementation (China's national road lighting standard) is the only one I've had to reverse-engineer from translated PDFs. \nIf anyone has primary-source experience with it, I'd value a sanity check.<p>Open-source on GitHub (eulumdat-rs and the related crates).\nCrates.io: eulumdat</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984734\">https://news.ycombinator.com/item?id=47984734</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-02T09:08:18",
+    "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
+    "link": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
+    "summary": "The charging network is spotty, but it’s a small country.",
+    "published": "2026-05-03T09:00:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
+    "link": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
+    "summary": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.",
+    "published": "2026-05-03T09:00:35",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+    "link": "https://acai.sh/blog/specsmaxxing",
+    "summary": "<p>Article URL: <a href=\"https://acai.sh/blog/specsmaxxing\">https://acai.sh/blog/specsmaxxing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47994012\">https://news.ycombinator.com/item?id=47994012</a></p>\n<p>Points: 108</p>\n<p># Comments: 100</p>",
+    "published": "2026-05-03T06:33:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-    "link": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-    "summary": "<p>Hey HN!<p>I built SimplePDF Copilot: an AI assistant that can interact with the PDF editor. It fills fields, answers questions, focuses on a specific field, adds fields, deletes pages, and so on.<p>It's built on top of SimplePDF that I started 7 years ago, pioneering privacy-respecting client-side pdf editing, now used monthly by 200k+ people.<p>As for the privacy model: the PDF itself never leaves the browser. Parsing, rendering, and field detection all run client-side.<p>The text the model needs (and your messages) goes to whatever LLM you point at. By default that's our demo proxy (DeepSeek V4 Flash, rate-capped), but you can BYOK and point it at any cloud provider, or go fully local (I've been testing with LM Studio).<p>Unlike the existing \"Chat with PDF\" tools that only retrieve the text/OCR layer, Copilot can act on the PDF: filling fields, adding fields (detected client-side using CommonForms by Joe Barrow [1], jbarrow on HN with some post-processing heuristics I added on top), focusing on fields, deleting pages, and so on.<p>I built this because SimplePDF is mostly used by healthcare customers where document privacy is paramount, and I wanted an AI experience that didn't require shipping PII to a third party.\nStack is pretty standard:<p>- Tanstack Start<p>- AI SDK from Vercel<p>- Tailwind (I personally prefer CSS modules, I'm old-school but the goal since I open source it, I figured that Tailwind would be a better fit)<p>The more interesting part is the client-side tool calling: events are passed back and forth via iframe postMessage.<p>If you're not familiar with \"tool calling\" and \"client-side tool calling\", a quick primer:<p>Tool calling is what LLMs use to take actions. When Claude runs grep or ls, or hits an MCP server, those are tool calls.<p>Client-side tool calling means the intent to call a tool comes from the LLM, but the execution happens in the browser.<p>That matters for: speed, you can't go faster than client-to-client operations and also gives you the ability to limit the data you expose to the LLM. For the demo I do feed the content of the document to the LLM, but that connection could be severed as simply as removing the tool that exposes the content data.<p>The demo is fully open source, available on Github [2] and the demo is the same as the link of this post [3]<p>What's not open source is SimplePDF itself (loaded as the iframe).<p>I could talk on and on about this, let me know if you have any questions, anything goes!<p>[1] <a href=\"https://github.com/jbarrow/commonforms\" rel=\"nofollow\">https://github.com/jbarrow/commonforms</a><p>[2] <a href=\"https://github.com/SimplePDF/simplepdf-embed/tree/main/copilot\" rel=\"nofollow\">https://github.com/SimplePDF/simplepdf-embed/tree/main/copil...</a><p>[3] <a href=\"https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&amp;form=w9&amp;lang=en\" rel=\"nofollow\">https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984675\">https://news.ycombinator.com/item?id=47984675</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-02T08:54:27",
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "link": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "summary": "<p>Article URL: <a href=\"https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\">https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47993235\">https://news.ycombinator.com/item?id=47993235</a></p>\n<p>Points: 279</p>\n<p># Comments: 138</p>",
+    "published": "2026-05-03T04:05:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "SKILL.make: Makefile Styled Skill File",
-    "link": "https://github.com/Teaonly/SKILL.make",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Teaonly/SKILL.make\">https://github.com/Teaonly/SKILL.make</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984486\">https://news.ycombinator.com/item?id=47984486</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-02T08:18:15",
+    "title": "AI, Intimacy, and the Data You Never Meant to Share",
+    "link": "https://fshot.org/techzone/the-algorithm-knows.php",
+    "summary": "<p>Article URL: <a href=\"https://fshot.org/techzone/the-algorithm-knows.php\">https://fshot.org/techzone/the-algorithm-knows.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47992802\">https://news.ycombinator.com/item?id=47992802</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-03T02:42:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
-    "link": "https://github.com/InsaneInfinity/Balistic",
-    "summary": "<p>Article URL: <a href=\"https://github.com/InsaneInfinity/Balistic\">https://github.com/InsaneInfinity/Balistic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984291\">https://news.ycombinator.com/item?id=47984291</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-02T07:42:29",
+    "title": "Care homes and hotels in Japan shut as expansion strategy unravels",
+    "link": "https://www.newsonjapan.com/article/149075.php",
+    "summary": "<p>Article URL: <a href=\"https://www.newsonjapan.com/article/149075.php\">https://www.newsonjapan.com/article/149075.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47992446\">https://news.ycombinator.com/item?id=47992446</a></p>\n<p>Points: 41</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-03T01:38:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-    "link": "https://mathstick.github.io",
-    "summary": "<p>Article URL: <a href=\"https://mathstick.github.io\">https://mathstick.github.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983485\">https://news.ycombinator.com/item?id=47983485</a></p>\n<p>Points: 12</p>\n<p># Comments: 12</p>",
-    "published": "2026-05-02T05:04:39",
+    "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+    "link": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html\">https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47992349\">https://news.ycombinator.com/item?id=47992349</a></p>\n<p>Points: 153</p>\n<p># Comments: 113</p>",
+    "published": "2026-05-03T01:24:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A couple million lines of Haskell: Production engineering at Mercury",
+    "link": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+    "summary": "<p>Article URL: <a href=\"https://blog.haskell.org/a-couple-million-lines-of-haskell/\">https://blog.haskell.org/a-couple-million-lines-of-haskell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47991802\">https://news.ycombinator.com/item?id=47991802</a></p>\n<p>Points: 212</p>\n<p># Comments: 86</p>",
+    "published": "2026-05-03T00:01:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+    "link": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+    "summary": "<p>Article URL: <a href=\"https://www.clojuriststogether.org/news/q2-2026-funding-announcement/\">https://www.clojuriststogether.org/news/q2-2026-funding-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990789\">https://news.ycombinator.com/item?id=47990789</a></p>\n<p>Points: 107</p>\n<p># Comments: 11</p>",
+    "published": "2026-05-02T21:34:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "link": "https://hnup.date/hn-sota",
+    "summary": "<p>Hello HN,<p>I was away from my computer for two weeks, and after coming back and reading the latest discussions on HN about coding assistants (models, harnesses), I felt very out of the loop. My normal process would have been to keep reading and figure out the latest and greatest from people's comments, but I wanted to try and automate this process.<p>Basically the goal is to get a quick overview over which coding models are popular on HN. A next iteration could also scan for harnesses that people use, or info on self-hosting or hardware setups.<p>I wrote a short intro on the page about the pipeline that collects and analyzes the data, but feel free to ask for more details or check the Google Sheet for more info.<p><a href=\"https://hnup.date/hn-sota\" rel=\"nofollow\">https://hnup.date/hn-sota</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990708\">https://news.ycombinator.com/item?id=47990708</a></p>\n<p>Points: 106</p>\n<p># Comments: 58</p>",
+    "published": "2026-05-02T21:25:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The agent harness belongs outside the sandbox",
+    "link": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "summary": "<p>Article URL: <a href=\"https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox\">https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990675\">https://news.ycombinator.com/item?id=47990675</a></p>\n<p>Points: 102</p>\n<p># Comments: 78</p>",
+    "published": "2026-05-02T21:21:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Six Years Perfecting Maps on WatchOS",
+    "link": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "summary": "<p>Article URL: <a href=\"https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/\">https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990606\">https://news.ycombinator.com/item?id=47990606</a></p>\n<p>Points: 288</p>\n<p># Comments: 67</p>",
+    "published": "2026-05-02T21:14:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "This Month in Ladybird – April 2026",
+    "link": "https://ladybird.org/newsletter/2026-04-30/",
+    "summary": "<p>Article URL: <a href=\"https://ladybird.org/newsletter/2026-04-30/\">https://ladybird.org/newsletter/2026-04-30/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990318\">https://news.ycombinator.com/item?id=47990318</a></p>\n<p>Points: 327</p>\n<p># Comments: 72</p>",
+    "published": "2026-05-02T20:46:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Neanderthals ran 'fat factories' 125,000 years ago (2025)",
+    "link": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+    "summary": "<p>Article URL: <a href=\"https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago\">https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47990284\">https://news.ycombinator.com/item?id=47990284</a></p>\n<p>Points: 189</p>\n<p># Comments: 80</p>",
+    "published": "2026-05-02T20:42:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+    "link": "https://github.com/microsoft/vscode/pull/310226",
+    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/vscode/pull/310226\">https://github.com/microsoft/vscode/pull/310226</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47989883\">https://news.ycombinator.com/item?id=47989883</a></p>\n<p>Points: 1175</p>\n<p># Comments: 601</p>",
+    "published": "2026-05-02T19:57:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NetHack 5.0.0",
+    "link": "https://nethack.org/v500/release.html",
+    "summary": "<p>Article URL: <a href=\"https://nethack.org/v500/release.html\">https://nethack.org/v500/release.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988776\">https://news.ycombinator.com/item?id=47988776</a></p>\n<p>Points: 453</p>\n<p># Comments: 139</p>",
+    "published": "2026-05-02T18:03:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Do_not_track",
+    "link": "https://donottrack.sh/",
+    "summary": "<p>Article URL: <a href=\"https://donottrack.sh/\">https://donottrack.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988592\">https://news.ycombinator.com/item?id=47988592</a></p>\n<p>Points: 325</p>\n<p># Comments: 108</p>",
+    "published": "2026-05-02T17:40:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dav2d",
+    "link": "https://code.videolan.org/videolan/dav2d",
+    "summary": "<p>Article URL: <a href=\"https://code.videolan.org/videolan/dav2d\">https://code.videolan.org/videolan/dav2d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988504\">https://news.ycombinator.com/item?id=47988504</a></p>\n<p>Points: 477</p>\n<p># Comments: 131</p>",
+    "published": "2026-05-02T17:32:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
+    "link": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
+    "summary": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon.",
+    "published": "2026-05-02T14:17:46",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How fast is a macOS VM, and how small could it be?",
+    "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+    "summary": "<p>Article URL: <a href=\"https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/\">https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47984852\">https://news.ycombinator.com/item?id=47984852</a></p>\n<p>Points: 248</p>\n<p># Comments: 90</p>",
+    "published": "2026-05-02T09:30:49",
     "source": "Hacker News: Front Page"
   },
   {
@@ -42,45 +147,10 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Why does it take so long to release black fan versions?",
-    "link": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-    "summary": "<p>Article URL: <a href=\"https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions\">https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983352\">https://news.ycombinator.com/item?id=47983352</a></p>\n<p>Points: 227</p>\n<p># Comments: 106</p>",
-    "published": "2026-05-02T04:38:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask.com has closed",
-    "link": "https://www.ask.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.ask.com/\">https://www.ask.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983226\">https://news.ycombinator.com/item?id=47983226</a></p>\n<p>Points: 261</p>\n<p># Comments: 131</p>",
-    "published": "2026-05-02T04:12:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "K3k: Kubernetes in Kubernetes",
-    "link": "https://github.com/rancher/k3k",
-    "summary": "<p>Article URL: <a href=\"https://github.com/rancher/k3k\">https://github.com/rancher/k3k</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47983176\">https://news.ycombinator.com/item?id=47983176</a></p>\n<p>Points: 52</p>\n<p># Comments: 28</p>",
-    "published": "2026-05-02T04:00:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Create an MP4 video of a web page scrolling at a steady speed",
-    "link": "https://github.com/upenn/web-scroll-video",
-    "summary": "<p>Article URL: <a href=\"https://github.com/upenn/web-scroll-video\">https://github.com/upenn/web-scroll-video</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47982763\">https://news.ycombinator.com/item?id=47982763</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
-    "published": "2026-05-02T02:26:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I built the Playwright for desktop apps. 80% token savings",
-    "link": "https://github.com/lahfir/agent-desktop",
-    "summary": "<p>Article URL: <a href=\"https://github.com/lahfir/agent-desktop\">https://github.com/lahfir/agent-desktop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47982708\">https://news.ycombinator.com/item?id=47982708</a></p>\n<p>Points: 77</p>\n<p># Comments: 24</p>",
-    "published": "2026-05-02T02:18:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
-    "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
-    "summary": "<p>Article URL: <a href=\"https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf\">https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47981669\">https://news.ycombinator.com/item?id=47981669</a></p>\n<p>Points: 76</p>\n<p># Comments: 23</p>",
-    "published": "2026-05-01T23:24:10",
+    "title": "A physics engine with incremental rollback for multiplayer games",
+    "link": "https://easel.games/blog/2026-rollback-physics",
+    "summary": "<p>Article URL: <a href=\"https://easel.games/blog/2026-rollback-physics\">https://easel.games/blog/2026-rollback-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47981979\">https://news.ycombinator.com/item?id=47981979</a></p>\n<p>Points: 88</p>\n<p># Comments: 30</p>",
+    "published": "2026-05-02T00:12:00",
     "source": "Hacker News: Front Page"
   },
   {
@@ -98,52 +168,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Ti-84 Evo",
-    "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-    "summary": "<p>Article URL: <a href=\"https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\">https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979583\">https://news.ycombinator.com/item?id=47979583</a></p>\n<p>Points: 454</p>\n<p># Comments: 381</p>",
-    "published": "2026-05-01T20:06:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Whimsical Animations Course Open House",
-    "link": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
-    "summary": "<p>Article URL: <a href=\"https://courses.joshwcomeau.com/wham/open-house/00-introduction\">https://courses.joshwcomeau.com/wham/open-house/00-introduction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47979190\">https://news.ycombinator.com/item?id=47979190</a></p>\n<p>Points: 97</p>\n<p># Comments: 9</p>",
-    "published": "2026-05-01T19:35:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-    "link": "https://github.com/microsoft/lib0xc",
-    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/lib0xc\">https://github.com/microsoft/lib0xc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47978834\">https://news.ycombinator.com/item?id=47978834</a></p>\n<p>Points: 149</p>\n<p># Comments: 54</p>",
-    "published": "2026-05-01T19:10:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New research suggests people can communicate and practice skills while dreaming",
-    "link": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-    "summary": "<p><a href=\"https://archive.ph/6wKhx\" rel=\"nofollow\">https://archive.ph/6wKhx</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977748\">https://news.ycombinator.com/item?id=47977748</a></p>\n<p>Points: 338</p>\n<p># Comments: 194</p>",
-    "published": "2026-05-01T17:47:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+    "title": "DeepSeek V4—almost on the frontier",
     "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/24/deepseek-v4/\">https://simonwillison.net/2026/Apr/24/deepseek-v4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977026\">https://news.ycombinator.com/item?id=47977026</a></p>\n<p>Points: 103</p>\n<p># Comments: 44</p>",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Apr/24/deepseek-v4/\">https://simonwillison.net/2026/Apr/24/deepseek-v4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47977026\">https://news.ycombinator.com/item?id=47977026</a></p>\n<p>Points: 541</p>\n<p># Comments: 329</p>",
     "published": "2026-05-01T16:52:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
-    "link": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
-    "summary": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon.",
-    "published": "2026-05-01T16:35:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apocalypse Early Warning System",
-    "link": "https://ews.kylemcdonald.net/",
-    "summary": "<p>Article URL: <a href=\"https://ews.kylemcdonald.net/\">https://ews.kylemcdonald.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47976566\">https://news.ycombinator.com/item?id=47976566</a></p>\n<p>Points: 186</p>\n<p># Comments: 95</p>",
-    "published": "2026-05-01T16:21:23",
     "source": "Hacker News: Front Page"
   },
   {
@@ -152,20 +180,6 @@
     "summary": "The agreements with the technology companies come amid the Defense Department’s dispute with Anthropic.",
     "published": "2026-05-01T15:59:40",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-    "link": "https://news.ycombinator.com/item?id=47975676",
-    "summary": "<p>I'll be here for the next 6 hours. As usual, there are lots of possible topics and I'll be guided by whatever you're interested in. Please remember that I can't provide legal advice on specific cases because I won't have access to all the facts. Please try to stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!<p>Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47975676\">https://news.ycombinator.com/item?id=47975676</a></p>\n<p>Points: 160</p>\n<p># Comments: 216</p>",
-    "published": "2026-05-01T15:07:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
-    "link": "https://github.com/whohas/whohas",
-    "summary": "<p>Article URL: <a href=\"https://github.com/whohas/whohas\">https://github.com/whohas/whohas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47975592\">https://news.ycombinator.com/item?id=47975592</a></p>\n<p>Points: 142</p>\n<p># Comments: 35</p>",
-    "published": "2026-05-01T15:01:08",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
@@ -452,13 +466,6 @@
     "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
     "summary": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
     "published": "2026-04-26T17:03:20",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
-    "link": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
-    "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
-    "published": "2026-04-25T19:57:08",
     "source": "NYT > Technology"
   }
 ]
