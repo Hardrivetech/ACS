@@ -1,80 +1,178 @@
 [
   {
-    "title": "Ruflo: Multi-agent AI orchestration for Claude Code",
-    "link": "https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md\">https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006522\">https://news.ycombinator.com/item?id=48006522</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
-    "published": "2026-05-04T09:52:38",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "summary": "<p>Article URL: <a href=\"https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019219\">https://news.ycombinator.com/item?id=48019219</a></p>\n<p>Points: 235</p>\n<p># Comments: 242</p>",
+    "published": "2026-05-05T07:34:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Trademark violation: Fake Notepad++ for Mac",
-    "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-    "summary": "<p>Article URL: <a href=\"https://notepad-plus-plus.org/news/npp-trademark-infringement/\">https://notepad-plus-plus.org/news/npp-trademark-infringement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006445\">https://news.ycombinator.com/item?id=48006445</a></p>\n<p>Points: 128</p>\n<p># Comments: 37</p>",
-    "published": "2026-05-04T09:40:06",
+    "title": "The Frog for Whom the Bell Tolls",
+    "link": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+    "summary": "<p>Article URL: <a href=\"https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls\">https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019165\">https://news.ycombinator.com/item?id=48019165</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+    "published": "2026-05-05T07:26:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GameStop makes $55.5B takeover offer for eBay",
-    "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/cn0p8yled1do\">https://www.bbc.co.uk/news/articles/cn0p8yled1do</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006402\">https://news.ycombinator.com/item?id=48006402</a></p>\n<p>Points: 90</p>\n<p># Comments: 57</p>",
-    "published": "2026-05-04T09:31:12",
+    "title": "Async Rust never left the MVP state",
+    "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "summary": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\">https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019163\">https://news.ycombinator.com/item?id=48019163</a></p>\n<p>Points: 147</p>\n<p># Comments: 71</p>",
+    "published": "2026-05-05T07:26:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Over 8M Thermos jars and bottles recalled after 3 people lost vision",
-    "link": "https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152",
-    "summary": "<p>Article URL: <a href=\"https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152\">https://www.goodmorningamerica.com/living/story/8-million-thermos-jars-bottles-recalled-after-3-132568152</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48006123\">https://news.ycombinator.com/item?id=48006123</a></p>\n<p>Points: 50</p>\n<p># Comments: 35</p>",
-    "published": "2026-05-04T08:40:41",
+    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html\">https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019025\">https://news.ycombinator.com/item?id=48019025</a></p>\n<p>Points: 56</p>\n<p># Comments: 48</p>",
+    "published": "2026-05-05T07:05:25",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stitch together lots of little HTML pages with navigations for interactions",
-    "link": "https://blog.jim-nielsen.com/2026/small-html-pages/",
-    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/small-html-pages/\">https://blog.jim-nielsen.com/2026/small-html-pages/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48004734\">https://news.ycombinator.com/item?id=48004734</a></p>\n<p>Points: 55</p>\n<p># Comments: 31</p>",
-    "published": "2026-05-04T04:43:36",
+    "title": "Kids bypass age verification with fake moustaches",
+    "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/\">https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018080\">https://news.ycombinator.com/item?id=48018080</a></p>\n<p>Points: 102</p>\n<p># Comments: 63</p>",
+    "published": "2026-05-05T04:36:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Humanoid Robot Actuators",
-    "link": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-    "summary": "<p>Article URL: <a href=\"https://www.firgelli.com/pages/humanoid-robot-actuators\">https://www.firgelli.com/pages/humanoid-robot-actuators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48004380\">https://news.ycombinator.com/item?id=48004380</a></p>\n<p>Points: 134</p>\n<p># Comments: 58</p>",
-    "published": "2026-05-04T03:42:09",
+    "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
+    "link": "https://walzr.com/empty-screenings",
+    "summary": "<p>Article URL: <a href=\"https://walzr.com/empty-screenings\">https://walzr.com/empty-screenings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018066\">https://news.ycombinator.com/item?id=48018066</a></p>\n<p>Points: 151</p>\n<p># Comments: 122</p>",
+    "published": "2026-05-05T04:33:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Debunking the CIA's “magic” heartbeat sensor [video]",
-    "link": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=SVTPv4sI_Jc\">https://www.youtube.com/watch?v=SVTPv4sI_Jc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002839\">https://news.ycombinator.com/item?id=48002839</a></p>\n<p>Points: 30</p>\n<p># Comments: 23</p>",
-    "published": "2026-05-03T23:45:50",
+    "title": "2-D Mathematical Curves",
+    "link": "https://www.2dcurves.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.2dcurves.com/\">https://www.2dcurves.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018034\">https://news.ycombinator.com/item?id=48018034</a></p>\n<p>Points: 31</p>\n<p># Comments: 2</p>",
+    "published": "2026-05-05T04:27:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Let's Buy Spirit Air",
-    "link": "https://letsbuyspiritair.com/",
-    "summary": "<p>Article URL: <a href=\"https://letsbuyspiritair.com/\">https://letsbuyspiritair.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002777\">https://news.ycombinator.com/item?id=48002777</a></p>\n<p>Points: 358</p>\n<p># Comments: 336</p>",
-    "published": "2026-05-03T23:36:11",
+    "title": "Train Your Own LLM from Scratch",
+    "link": "https://github.com/angelos-p/llm-from-scratch",
+    "summary": "<p>Article URL: <a href=\"https://github.com/angelos-p/llm-from-scratch\">https://github.com/angelos-p/llm-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017948\">https://news.ycombinator.com/item?id=48017948</a></p>\n<p>Points: 263</p>\n<p># Comments: 28</p>",
+    "published": "2026-05-05T04:09:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The 'Hidden' Costs of Great Abstractions",
-    "link": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-    "summary": "<p>Article URL: <a href=\"https://jdgr.net/the-hidden-costs-of-great-abstractions\">https://jdgr.net/the-hidden-costs-of-great-abstractions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002607\">https://news.ycombinator.com/item?id=48002607</a></p>\n<p>Points: 176</p>\n<p># Comments: 76</p>",
-    "published": "2026-05-03T23:12:02",
+    "title": "Hand Drawn QR Codes",
+    "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
+    "summary": "<p>Article URL: <a href=\"https://sethmlarson.dev/hand-drawn-qr-codes\">https://sethmlarson.dev/hand-drawn-qr-codes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017907\">https://news.ycombinator.com/item?id=48017907</a></p>\n<p>Points: 111</p>\n<p># Comments: 20</p>",
+    "published": "2026-05-05T04:02:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-    "link": "https://github.com/aattaran/deepclaude",
-    "summary": "<p>Article URL: <a href=\"https://github.com/aattaran/deepclaude\">https://github.com/aattaran/deepclaude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002136\">https://news.ycombinator.com/item?id=48002136</a></p>\n<p>Points: 483</p>\n<p># Comments: 191</p>",
-    "published": "2026-05-03T22:13:20",
+    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "summary": "<p>Article URL: <a href=\"https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/\">https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017813\">https://news.ycombinator.com/item?id=48017813</a></p>\n<p>Points: 108</p>\n<p># Comments: 42</p>",
+    "published": "2026-05-05T03:43:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Introduction to Atom",
-    "link": "https://validator.w3.org/feed/docs/atom.html",
-    "summary": "<p>Article URL: <a href=\"https://validator.w3.org/feed/docs/atom.html\">https://validator.w3.org/feed/docs/atom.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48002089\">https://news.ycombinator.com/item?id=48002089</a></p>\n<p>Points: 102</p>\n<p># Comments: 36</p>",
-    "published": "2026-05-03T22:08:47",
+    "title": "Biscuit",
+    "link": "https://github.com/yattsu/biscuit",
+    "summary": "<p>Article URL: <a href=\"https://github.com/yattsu/biscuit\">https://github.com/yattsu/biscuit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017641\">https://news.ycombinator.com/item?id=48017641</a></p>\n<p>Points: 50</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-05T03:09:56",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
+    "link": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
+    "summary": "Blackstone and Goldman Sachs are among the investors in the new firm, which will help integrate Anthropic’s A.I. model Claude into their systems.",
+    "published": "2026-05-05T02:03:14",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
+    "link": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+    "summary": "The agency, which has been pulling back on lawsuits against major companies, ended a case that had accused Mr. Musk of hiding his purchases of Twitter stock. He agreed to pay $1.5 million.",
+    "published": "2026-05-05T01:22:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Bun is being ported from Zig to Rust",
+    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+    "summary": "<p>Article URL: <a href=\"https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48016880\">https://news.ycombinator.com/item?id=48016880</a></p>\n<p>Points: 518</p>\n<p># Comments: 364</p>",
+    "published": "2026-05-05T01:08:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "White House Considers Vetting A.I. Models Before They Are Released",
+    "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+    "summary": "The Trump administration, which took a noninterventionist approach to artificial intelligence, is now discussing imposing oversight on A.I. models before they are made publicly available.",
+    "published": "2026-05-04T22:37:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion",
+    "link": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+    "summary": "The legal team implied in a federal trial that Greg Brockman, OpenAI’s president and co-founder, was driven by greed rather than building safe A.I.",
+    "published": "2026-05-04T22:24:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Agent Skills",
+    "link": "https://addyosmani.com/blog/agent-skills/",
+    "summary": "<p>Article URL: <a href=\"https://addyosmani.com/blog/agent-skills/\">https://addyosmani.com/blog/agent-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48015397\">https://news.ycombinator.com/item?id=48015397</a></p>\n<p>Points: 257</p>\n<p># Comments: 120</p>",
+    "published": "2026-05-04T21:40:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When networking doesn't work",
+    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+    "summary": "<p>Article URL: <a href=\"https://www.os2museum.com/wp/when-networking-doesnt-work/\">https://www.os2museum.com/wp/when-networking-doesnt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48014868\">https://news.ycombinator.com/item?id=48014868</a></p>\n<p>Points: 64</p>\n<p># Comments: 11</p>",
+    "published": "2026-05-04T20:56:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Formatting a 25M-line codebase overnight",
+    "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "summary": "<p>Article URL: <a href=\"https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story\">https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48014325\">https://news.ycombinator.com/item?id=48014325</a></p>\n<p>Points: 167</p>\n<p># Comments: 85</p>",
+    "published": "2026-05-04T20:11:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\">https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48013919\">https://news.ycombinator.com/item?id=48013919</a></p>\n<p>Points: 409</p>\n<p># Comments: 128</p>",
+    "published": "2026-05-04T19:42:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+    "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\">https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48012735\">https://news.ycombinator.com/item?id=48012735</a></p>\n<p>Points: 554</p>\n<p># Comments: 195</p>",
+    "published": "2026-05-04T18:22:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+    "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+    "summary": "<p>Article URL: <a href=\"https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup\">https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48012162\">https://news.ycombinator.com/item?id=48012162</a></p>\n<p>Points: 197</p>\n<p># Comments: 81</p>",
+    "published": "2026-05-04T17:46:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Let's talk about LLMs",
+    "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+    "summary": "<p>Article URL: <a href=\"https://www.b-list.org/weblog/2026/apr/09/llms/\">https://www.b-list.org/weblog/2026/apr/09/llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48011904\">https://news.ycombinator.com/item?id=48011904</a></p>\n<p>Points: 161</p>\n<p># Comments: 141</p>",
+    "published": "2026-05-04T17:29:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+    "link": "https://www.nber.org/papers/w35117",
+    "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35117\">https://www.nber.org/papers/w35117</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009983\">https://news.ycombinator.com/item?id=48009983</a></p>\n<p>Points: 292</p>\n<p># Comments: 270</p>",
+    "published": "2026-05-04T15:32:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
+    "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+    "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
+    "published": "2026-05-04T15:07:07",
+    "source": "NYT > Technology"
   },
   {
     "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
@@ -91,48 +189,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-    "link": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/\">https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48000152\">https://news.ycombinator.com/item?id=48000152</a></p>\n<p>Points: 417</p>\n<p># Comments: 370</p>",
-    "published": "2026-05-03T18:54:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-    "link": "https://partyon.xyz/@nullagent/116499715071759135",
-    "summary": "<p>Article URL: <a href=\"https://partyon.xyz/@nullagent/116499715071759135\">https://partyon.xyz/@nullagent/116499715071759135</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47999636\">https://news.ycombinator.com/item?id=47999636</a></p>\n<p>Points: 387</p>\n<p># Comments: 124</p>",
-    "published": "2026-05-03T18:03:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Southwest Headquarters Tour",
-    "link": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-    "summary": "<p>After years of flying Southwest, I recently had the opportunity to tour the headquarters in Dallas. I particularly enjoyed seeing the full-motion 737 simulators, Network Operations Center, and TechOps maintenance hangar up close.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47998946\">https://news.ycombinator.com/item?id=47998946</a></p>\n<p>Points: 257</p>\n<p># Comments: 80</p>",
-    "published": "2026-05-03T17:02:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bad Connection: Global telecom exploitation by covert surveillance actors",
-    "link": "https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/",
-    "summary": "<p><a href=\"https://www.haaretz.com/israel-news/security-aviation/2026-05-03/ty-article-magazine/ghost-operators-how-israeli-telecoms-were-exploited-to-track-citizens-worldwide/0000019d-e9c0-dd9a-a79d-ede90a450000\" rel=\"nofollow\">https://www.haaretz.com/israel-news/security-aviation/2026-0...</a> (<a href=\"https://archive.ph/0QYbN\" rel=\"nofollow\">https://archive.ph/0QYbN</a>)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47998449\">https://news.ycombinator.com/item?id=47998449</a></p>\n<p>Points: 156</p>\n<p># Comments: 11</p>",
-    "published": "2026-05-03T16:15:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A desktop made for one",
-    "link": "https://isene.org/2026/05/Audience-of-One.html",
-    "summary": "<p>Article URL: <a href=\"https://isene.org/2026/05/Audience-of-One.html\">https://isene.org/2026/05/Audience-of-One.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47997947\">https://news.ycombinator.com/item?id=47997947</a></p>\n<p>Points: 355</p>\n<p># Comments: 191</p>",
-    "published": "2026-05-03T15:32:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mercedes-Benz commits to bringing back physical buttons",
-    "link": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-    "summary": "<p>Article URL: <a href=\"https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/\">https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47997418\">https://news.ycombinator.com/item?id=47997418</a></p>\n<p>Points: 724</p>\n<p># Comments: 397</p>",
-    "published": "2026-05-03T14:43:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
     "link": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
     "summary": "The pioneering search engine shut down on May 1, after nearly 30 years in operation.",
@@ -147,32 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-    "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\">https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47991981\">https://news.ycombinator.com/item?id=47991981</a></p>\n<p>Points: 401</p>\n<p># Comments: 355</p>",
-    "published": "2026-05-03T00:30:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "World's biggest RC A380 [video]",
-    "link": "https://www.youtube.com/watch?v=wr9YLGbhxng",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=wr9YLGbhxng\">https://www.youtube.com/watch?v=wr9YLGbhxng</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47988781\">https://news.ycombinator.com/item?id=47988781</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-02T18:04:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
     "link": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
     "summary": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon.",
     "published": "2026-05-02T14:17:46",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "From CVS to Git, thirty years of source control",
-    "link": "https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control",
-    "summary": "<p>Article URL: <a href=\"https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control\">https://evilgeniuslabs.ca/blog/from-cvs-to-git-thirty-years-of-source-control</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47985589\">https://news.ycombinator.com/item?id=47985589</a></p>\n<p>Points: 30</p>\n<p># Comments: 33</p>",
-    "published": "2026-05-02T11:51:31",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Musk vs. Altman: What Is This Really About?",
@@ -294,13 +329,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
-    "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-    "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-    "published": "2026-04-29T17:57:21",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Who is the judge in the case?",
     "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
     "summary": "",
@@ -326,13 +354,6 @@
     "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
     "summary": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
     "published": "2026-04-29T13:20:57",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Internet Restrictions Spur Russians to Openly Question Putin’s Moves",
-    "link": "https://www.nytimes.com/2026/04/28/world/europe/russia-internet-restrictions-putin.html",
-    "summary": "From beauty influencers to the token political opposition, Russians are openly questioning President Vladimir V. Putin’s moves to hamstring internet access.",
-    "published": "2026-04-29T10:15:38",
     "source": "NYT > Technology"
   },
   {
@@ -424,41 +445,6 @@
     "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai",
     "summary": "",
     "published": "2026-04-28T14:01:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Elon Musk’s Clash With Sam Altman of OpenAI Is Really About",
-    "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
-    "summary": "Mr. Musk’s lawsuit against Mr. Altman and OpenAI makes the case that all-encompassing greed is Silicon Valley’s defining feature.",
-    "published": "2026-04-28T09:02:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Microsoft and OpenAI Loosen Their Partnership",
-    "link": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
-    "summary": "Microsoft, OpenAI’s biggest financial partner, will continue to license the start-up’s technology but will no longer be its exclusive licensee.",
-    "published": "2026-04-28T01:50:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Sergey Brin Moves to the Right, With a ‘MAGA Girlfriend’ by His Side",
-    "link": "https://www.nytimes.com/2026/04/27/us/politics/sergey-brin-gg-soto-trump-california-billionaire-tax.html",
-    "summary": "After once backing liberal causes, the Google co-founder has praised President Trump, donated to Republicans and spent $57 million to try to block a California billionaire tax.",
-    "published": "2026-04-27T20:12:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
-    "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
-    "summary": "Oakland, Calif., where Elon Musk’s trial against OpenAI and its chief executive, Sam Altman, starts on Monday, is not exactly known as a hub of the tech industry.",
-    "published": "2026-04-27T16:34:17",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum",
-    "link": "https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html",
-    "summary": "The widening movement is pulling in people from all walks of life, united by a worry that Big Tech will cash in while average Americans bear the costs.",
-    "published": "2026-04-27T16:11:56",
     "source": "NYT > Technology"
   }
 ]
