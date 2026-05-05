@@ -1,1 +1,1 @@
-Ruflo: Multi-agent AI orchestration for Claude Code https://github.com/ruvnet/ruflo/blob/main/docs/USERGUIDE.md
+Google Chrome silently installs a 4 GB AI model on your device without consent https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
