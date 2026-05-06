@@ -1,80 +1,185 @@
 [
   {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "summary": "<p>Article URL: <a href=\"https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\">https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019219\">https://news.ycombinator.com/item?id=48019219</a></p>\n<p>Points: 235</p>\n<p># Comments: 242</p>",
-    "published": "2026-05-05T07:34:55",
+    "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
+    "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
+    "summary": "A Bristol Myers Squibb plant that makes cancer drugs was the only manufacturer in the U.S. recognized for innovation by the World Economic Forum this year.",
+    "published": "2026-05-06T09:02:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The AI operator: Biggest role in Silicon Valley",
+    "link": "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley",
+    "summary": "<p>Article URL: <a href=\"https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley\">https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48033952\">https://news.ycombinator.com/item?id=48033952</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-06T09:00:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Frog for Whom the Bell Tolls",
-    "link": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
-    "summary": "<p>Article URL: <a href=\"https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls\">https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019165\">https://news.ycombinator.com/item?id=48019165</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
-    "published": "2026-05-05T07:26:18",
+    "title": "The Boring Internet",
+    "link": "https://www.terrygodier.com/the-boring-internet",
+    "summary": "<p>Article URL: <a href=\"https://www.terrygodier.com/the-boring-internet\">https://www.terrygodier.com/the-boring-internet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48033689\">https://news.ycombinator.com/item?id=48033689</a></p>\n<p>Points: 22</p>\n<p># Comments: 25</p>",
+    "published": "2026-05-06T08:23:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Async Rust never left the MVP state",
-    "link": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-    "summary": "<p>Article URL: <a href=\"https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\">https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019163\">https://news.ycombinator.com/item?id=48019163</a></p>\n<p>Points: 147</p>\n<p># Comments: 71</p>",
-    "published": "2026-05-05T07:26:03",
+    "title": "Reverse-engineering the 1998 Ultima Online demo server",
+    "link": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
+    "summary": "<p>Article URL: <a href=\"https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\">https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48032976\">https://news.ycombinator.com/item?id=48032976</a></p>\n<p>Points: 49</p>\n<p># Comments: 7</p>",
+    "published": "2026-05-06T06:31:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-    "summary": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html\">https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48019025\">https://news.ycombinator.com/item?id=48019025</a></p>\n<p>Points: 56</p>\n<p># Comments: 48</p>",
-    "published": "2026-05-05T07:05:25",
+    "title": "Behavior-Oriented Concurrency for Python",
+    "link": "https://microsoft.github.io/bocpy/",
+    "summary": "<p>Article URL: <a href=\"https://microsoft.github.io/bocpy/\">https://microsoft.github.io/bocpy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48032617\">https://news.ycombinator.com/item?id=48032617</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-06T05:34:48",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Kids bypass age verification with fake moustaches",
-    "link": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/\">https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018080\">https://news.ycombinator.com/item?id=48018080</a></p>\n<p>Points: 102</p>\n<p># Comments: 63</p>",
-    "published": "2026-05-05T04:36:24",
+    "title": "Knitting bullshit",
+    "link": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+    "summary": "<p>Article URL: <a href=\"https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\">https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48032461\">https://news.ycombinator.com/item?id=48032461</a></p>\n<p>Points: 85</p>\n<p># Comments: 38</p>",
+    "published": "2026-05-06T05:13:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Empty Screenings – Finds AMC movie screenings with few or no tickets sold",
-    "link": "https://walzr.com/empty-screenings",
-    "summary": "<p>Article URL: <a href=\"https://walzr.com/empty-screenings\">https://walzr.com/empty-screenings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018066\">https://news.ycombinator.com/item?id=48018066</a></p>\n<p>Points: 151</p>\n<p># Comments: 122</p>",
-    "published": "2026-05-05T04:33:22",
+    "title": "Multi-stroke text effect in CSS",
+    "link": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+    "summary": "<p>Article URL: <a href=\"https://yuanchuan.dev/multi-stroke-text-effect-in-css\">https://yuanchuan.dev/multi-stroke-text-effect-in-css</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48032265\">https://news.ycombinator.com/item?id=48032265</a></p>\n<p>Points: 59</p>\n<p># Comments: 5</p>",
+    "published": "2026-05-06T04:43:25",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "2-D Mathematical Curves",
-    "link": "https://www.2dcurves.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.2dcurves.com/\">https://www.2dcurves.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018034\">https://news.ycombinator.com/item?id=48018034</a></p>\n<p>Points: 31</p>\n<p># Comments: 2</p>",
-    "published": "2026-05-05T04:27:32",
+    "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+    "link": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+    "summary": "<p>Article URL: <a href=\"https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\">https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48031867\">https://news.ycombinator.com/item?id=48031867</a></p>\n<p>Points: 96</p>\n<p># Comments: 70</p>",
+    "published": "2026-05-06T03:37:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Train Your Own LLM from Scratch",
-    "link": "https://github.com/angelos-p/llm-from-scratch",
-    "summary": "<p>Article URL: <a href=\"https://github.com/angelos-p/llm-from-scratch\">https://github.com/angelos-p/llm-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017948\">https://news.ycombinator.com/item?id=48017948</a></p>\n<p>Points: 263</p>\n<p># Comments: 28</p>",
-    "published": "2026-05-05T04:09:17",
+    "title": "Ombudsman column: The Pentagon is trying to silence me",
+    "link": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+    "summary": "<p>Article URL: <a href=\"https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\">https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48031769\">https://news.ycombinator.com/item?id=48031769</a></p>\n<p>Points: 243</p>\n<p># Comments: 71</p>",
+    "published": "2026-05-06T03:24:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Hand Drawn QR Codes",
-    "link": "https://sethmlarson.dev/hand-drawn-qr-codes",
-    "summary": "<p>Article URL: <a href=\"https://sethmlarson.dev/hand-drawn-qr-codes\">https://sethmlarson.dev/hand-drawn-qr-codes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017907\">https://news.ycombinator.com/item?id=48017907</a></p>\n<p>Points: 111</p>\n<p># Comments: 20</p>",
-    "published": "2026-05-05T04:02:01",
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/agents-stripe-projects/\">https://blog.cloudflare.com/agents-stripe-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48031684\">https://news.ycombinator.com/item?id=48031684</a></p>\n<p>Points: 348</p>\n<p># Comments: 195</p>",
+    "published": "2026-05-06T03:10:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-    "summary": "<p>Article URL: <a href=\"https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/\">https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017813\">https://news.ycombinator.com/item?id=48017813</a></p>\n<p>Points: 108</p>\n<p># Comments: 42</p>",
-    "published": "2026-05-05T03:43:08",
+    "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
+    "link": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
+    "summary": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.",
+    "published": "2026-05-06T02:37:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "StarFighter 16-Inch",
+    "link": "https://us.starlabs.systems/pages/starfighter",
+    "summary": "<p>Article URL: <a href=\"https://us.starlabs.systems/pages/starfighter\">https://us.starlabs.systems/pages/starfighter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48031261\">https://news.ycombinator.com/item?id=48031261</a></p>\n<p>Points: 368</p>\n<p># Comments: 194</p>",
+    "published": "2026-05-06T02:03:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Biscuit",
-    "link": "https://github.com/yattsu/biscuit",
-    "summary": "<p>Article URL: <a href=\"https://github.com/yattsu/biscuit\">https://github.com/yattsu/biscuit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48017641\">https://news.ycombinator.com/item?id=48017641</a></p>\n<p>Points: 50</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-05T03:09:56",
+    "title": "Telus Uses AI to Alter Call-Agent Accents",
+    "link": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+    "summary": "<p>Article URL: <a href=\"https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63\">https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48031109\">https://news.ycombinator.com/item?id=48031109</a></p>\n<p>Points: 157</p>\n<p># Comments: 124</p>",
+    "published": "2026-05-06T01:38:44",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "YouTube, your RSS feeds are broken",
+    "link": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+    "summary": "<p>Article URL: <a href=\"https://openrss.org/blog/youtube-your-feeds-are-broken\">https://openrss.org/blog/youtube-your-feeds-are-broken</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48030964\">https://news.ycombinator.com/item?id=48030964</a></p>\n<p>Points: 140</p>\n<p># Comments: 57</p>",
+    "published": "2026-05-06T01:15:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies",
+    "link": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
+    "summary": "Greg Brockman, OpenAI’s president, testified in a trial pitting Mr. Musk against his company that the world’s richest man was eager to change how it operated as a nonprofit.",
+    "published": "2026-05-06T00:52:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Write some software, give it away for free",
+    "link": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+    "summary": "<p>Article URL: <a href=\"https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026\">https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48028842\">https://news.ycombinator.com/item?id=48028842</a></p>\n<p>Points: 274</p>\n<p># Comments: 185</p>",
+    "published": "2026-05-05T21:26:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why most product tours get skipped",
+    "link": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+    "summary": "<p>Article URL: <a href=\"https://productonboarding.com/articles/why-product-tours-get-skipped\">https://productonboarding.com/articles/why-product-tours-get-skipped</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48028546\">https://news.ycombinator.com/item?id=48028546</a></p>\n<p>Points: 159</p>\n<p># Comments: 131</p>",
+    "published": "2026-05-05T21:05:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Reaches $250 Million Settlement Over Claims It Misled People on A.I.",
+    "link": "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html",
+    "summary": "Some iPhone owners will be eligible to receive $25 to $95 over claims that the tech giant oversold its artificial intelligence system, Apple Intelligence.",
+    "published": "2026-05-05T20:57:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "DNSSEC disruption affecting .de domains – Resolved",
+    "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+    "summary": "<p>Article URL: <a href=\"https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\">https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48027897\">https://news.ycombinator.com/item?id=48027897</a></p>\n<p>Points: 679</p>\n<p># Comments: 348</p>",
+    "published": "2026-05-05T20:16:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Coinbase Lays Off 14% of Employees as A.I. Changes Work",
+    "link": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
+    "summary": "The largest U.S. crypto exchange said it was cutting jobs because of cryptocurrency market volatility and to “optimize” for the artificial intelligence era.",
+    "published": "2026-05-05T18:19:51",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+    "link": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer\">https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48025244\">https://news.ycombinator.com/item?id=48025244</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-05T17:00:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Computer Use is 45x more expensive than structured APIs",
+    "link": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "summary": "<p>Article URL: <a href=\"https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/\">https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48024859\">https://news.ycombinator.com/item?id=48024859</a></p>\n<p>Points: 405</p>\n<p># Comments: 231</p>",
+    "published": "2026-05-05T16:34:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48024540\">https://news.ycombinator.com/item?id=48024540</a></p>\n<p>Points: 582</p>\n<p># Comments: 273</p>",
+    "published": "2026-05-05T16:14:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I'm scared about biological computing",
+    "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+    "summary": "<p>Article URL: <a href=\"https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing\">https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48024358\">https://news.ycombinator.com/item?id=48024358</a></p>\n<p>Points: 226</p>\n<p># Comments: 182</p>",
+    "published": "2026-05-05T16:03:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EEVblog: The 555 Timer is 55 years old [video]",
+    "link": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=6JhK8iCQuqI\">https://www.youtube.com/watch?v=6JhK8iCQuqI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48024129\">https://news.ycombinator.com/item?id=48024129</a></p>\n<p>Points: 290</p>\n<p># Comments: 74</p>",
+    "published": "2026-05-05T15:47:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ford Says an Affordable Electric Pickup Truck is Still Coming Next Year",
+    "link": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
+    "summary": "Ford Motor has written off $20 billion in electric vehicle investments but says it is forging ahead with an electric pickup that will sell for $30,000 next year.",
+    "published": "2026-05-05T13:00:06",
+    "source": "NYT > Technology"
   },
   {
     "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
@@ -91,13 +196,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Bun is being ported from Zig to Rust",
-    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "summary": "<p>Article URL: <a href=\"https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\">https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48016880\">https://news.ycombinator.com/item?id=48016880</a></p>\n<p>Points: 518</p>\n<p># Comments: 364</p>",
-    "published": "2026-05-05T01:08:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "White House Considers Vetting A.I. Models Before They Are Released",
     "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
     "summary": "The Trump administration, which took a noninterventionist approach to artificial intelligence, is now discussing imposing oversight on A.I. models before they are made publicly available.",
@@ -112,69 +210,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Agent Skills",
-    "link": "https://addyosmani.com/blog/agent-skills/",
-    "summary": "<p>Article URL: <a href=\"https://addyosmani.com/blog/agent-skills/\">https://addyosmani.com/blog/agent-skills/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48015397\">https://news.ycombinator.com/item?id=48015397</a></p>\n<p>Points: 257</p>\n<p># Comments: 120</p>",
-    "published": "2026-05-04T21:40:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "When networking doesn't work",
-    "link": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
-    "summary": "<p>Article URL: <a href=\"https://www.os2museum.com/wp/when-networking-doesnt-work/\">https://www.os2museum.com/wp/when-networking-doesnt-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48014868\">https://news.ycombinator.com/item?id=48014868</a></p>\n<p>Points: 64</p>\n<p># Comments: 11</p>",
-    "published": "2026-05-04T20:56:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Formatting a 25M-line codebase overnight",
-    "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-    "summary": "<p>Article URL: <a href=\"https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story\">https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48014325\">https://news.ycombinator.com/item?id=48014325</a></p>\n<p>Points: 167</p>\n<p># Comments: 85</p>",
-    "published": "2026-05-04T20:11:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\">https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48013919\">https://news.ycombinator.com/item?id=48013919</a></p>\n<p>Points: 409</p>\n<p># Comments: 128</p>",
-    "published": "2026-05-04T19:42:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-    "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\">https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48012735\">https://news.ycombinator.com/item?id=48012735</a></p>\n<p>Points: 554</p>\n<p># Comments: 195</p>",
-    "published": "2026-05-04T18:22:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-    "link": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-    "summary": "<p>Article URL: <a href=\"https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup\">https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48012162\">https://news.ycombinator.com/item?id=48012162</a></p>\n<p>Points: 197</p>\n<p># Comments: 81</p>",
-    "published": "2026-05-04T17:46:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Let's talk about LLMs",
-    "link": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "summary": "<p>Article URL: <a href=\"https://www.b-list.org/weblog/2026/apr/09/llms/\">https://www.b-list.org/weblog/2026/apr/09/llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48011904\">https://news.ycombinator.com/item?id=48011904</a></p>\n<p>Points: 161</p>\n<p># Comments: 141</p>",
-    "published": "2026-05-04T17:29:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-    "link": "https://www.nber.org/papers/w35117",
-    "summary": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35117\">https://www.nber.org/papers/w35117</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009983\">https://news.ycombinator.com/item?id=48009983</a></p>\n<p>Points: 292</p>\n<p># Comments: 270</p>",
-    "published": "2026-05-04T15:32:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
-    "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-    "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-    "published": "2026-05-04T15:07:07",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
     "link": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
     "summary": "The charging network is spotty, but it’s a small country.",
@@ -182,24 +217,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
-    "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
-    "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
-    "published": "2026-05-03T19:16:42",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
     "link": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
     "summary": "The pioneering search engine shut down on May 1, after nearly 30 years in operation.",
     "published": "2026-05-03T14:36:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
-    "link": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
-    "summary": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.",
-    "published": "2026-05-03T09:00:36",
     "source": "NYT > Technology"
   },
   {
@@ -308,13 +329,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "A.I. Helps Online Ad Businesses Boom",
-    "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
-    "summary": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
-    "published": "2026-04-29T20:59:48",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
     "summary": "",
@@ -340,111 +354,6 @@
     "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
     "summary": "",
     "published": "2026-04-29T14:35:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Here’s what Musk’s lawyer argued in his opening statement.",
-    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-musks-lawyers-argued-in-their-opening-statement",
-    "summary": "",
-    "published": "2026-04-29T14:14:22",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
-    "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
-    "summary": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
-    "published": "2026-04-29T13:20:57",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/openai-trial-opening-comments",
-    "summary": "",
-    "published": "2026-04-28T20:47:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "G.M.’s Profit Bolstered by a $500 Million Tariff Refund",
-    "link": "https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html",
-    "summary": "Because of a February Supreme Court decision, General Motors said it would receive refunds on some of the tariffs it had paid.",
-    "published": "2026-04-28T20:32:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Here’s what OpenAI’s lawyer argued in his opening statement.",
-    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-openais-lawyer-argued-in-his-opening-statement",
-    "summary": "",
-    "published": "2026-04-28T20:24:53",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Signs A.I. Deal With the Pentagon",
-    "link": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
-    "summary": "The Pentagon has also signed deals for using A.I. on classified networks with OpenAI and Elon Musk’s xAI, amid a dispute with Anthropic.",
-    "published": "2026-04-28T20:16:02",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why does Elon Musk talk so much about saving humanity?",
-    "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/why-does-elon-musk-talk-so-much-about-saving-humanity",
-    "summary": "",
-    "published": "2026-04-28T19:55:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Supreme Court Appears Skeptical of Falun Gong Lawsuit Against Cisco",
-    "link": "https://www.nytimes.com/2026/04/28/us/politics/supreme-court-falun-gong-tech.html",
-    "summary": "The court’s decision could have broader implications for lawsuits seeking to hold companies liable for international human rights abuses.",
-    "published": "2026-04-28T19:05:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Who are the lawyers representing Elon Musk, OpenAI and Microsoft?",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/who-are-the-lawyers-representing-elon-musk-openai-and-microsoft",
-    "summary": "",
-    "published": "2026-04-28T17:03:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk Assails Sam Altman on Social Media Before OpenAI Trial",
-    "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-social-posts-sam-altman-openai.html",
-    "summary": "Mr. Musk’s posts on X have pushed his narrative that OpenAI has lost its way.",
-    "published": "2026-04-28T16:12:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Here Are the Key Players in the OpenAI Trial",
-    "link": "https://www.nytimes.com/2026/04/28/technology/key-players-openai-trial.html",
-    "summary": "Elon Musk, Sam Altman and several other key artificial intelligence industry figures are slated to testify in the trial, which is expected to last several weeks.",
-    "published": "2026-04-28T16:09:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "This trial comes amid a growing national backlash against A.I.",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/this-trial-comes-amid-a-growing-national-backlash-against-ai",
-    "summary": "",
-    "published": "2026-04-28T15:19:40",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What are Elon Musk’s claims against Altman and OpenAI?",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/what-are-elon-musks-claims-against-altman-and-openai",
-    "summary": "",
-    "published": "2026-04-28T14:20:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Oakland, which is playing host to the trial, is not exactly known as a tech hub.",
-    "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/oakland-which-is-playing-host-to-the-trial-is-not-exactly-known-as-a-tech-hub",
-    "summary": "",
-    "published": "2026-04-28T14:02:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Here’s the contentious history behind OpenAI.",
-    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-contentious-history-behind-openai",
-    "summary": "",
-    "published": "2026-04-28T14:01:03",
     "source": "NYT > Technology"
   }
 ]
