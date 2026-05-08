@@ -1,5 +1,159 @@
 [
   {
+    "title": "The Hopelessness of ‘The Audacity’",
+    "link": "https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html",
+    "summary": "In AMC’s merciless satire, the tech lords are extracting all they can from the business (and us) before everything goes to hell.",
+    "published": "2026-05-08T09:02:15",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Ask HN: We just had an actual UUID v4 collision...",
+    "link": "https://news.ycombinator.com/item?id=48060054",
+    "summary": "<p>I know what you're thinking... and I still can't believe it, but...<p>This morning, our database flagged a duplicate UUID (v4). I checked, thinking it may have been a double-insert bug or something, but no.<p>The original UUID was from a record added in 2025 (about a year ago), and today the system inserted a new document with a fresh UUIDv4 and it came up with the exact same one:<p>b6133fd6-70fe-4fe3-bed6-8ca8fc9386cd<p>We're using this:\nhttps://www.npmjs.com/package/uuid<p>I thought this is technically impossible, and it will never happen, and since we're not modifying the UUIDs in any way, I really wonder how that.... is possible!? We're literally only calling:<p>import { v4 as uuidv4 } from \"uuid\";<p>const document_id = uuidv4();<p>... and then insert into the database, that's it.<p>Additionally, the database only has about 15.000 records, and now one collision. Statistically... impossible.<p>Has that ever happened to anyone?! What in the...</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48060054\">https://news.ycombinator.com/item?id=48060054</a></p>\n<p>Points: 26</p>\n<p># Comments: 29</p>",
+    "published": "2026-05-08T07:57:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "ClojureScript Gets Async/Await",
+    "link": "https://clojurescript.org/news/2026-05-07-release",
+    "summary": "<p>Article URL: <a href=\"https://clojurescript.org/news/2026-05-07-release\">https://clojurescript.org/news/2026-05-07-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48059662\">https://news.ycombinator.com/item?id=48059662</a></p>\n<p>Points: 63</p>\n<p># Comments: 16</p>",
+    "published": "2026-05-08T07:04:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nintendo announces price increases for Nintendo Switch 2",
+    "link": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\">https://www.nintendo.co.jp/corporate/release/en/2026/260508.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48059606\">https://news.ycombinator.com/item?id=48059606</a></p>\n<p>Points: 19</p>\n<p># Comments: 14</p>",
+    "published": "2026-05-08T06:56:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "link": "https://github.com/graemeg/blaise",
+    "summary": "<p>Article URL: <a href=\"https://github.com/graemeg/blaise\">https://github.com/graemeg/blaise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48058644\">https://news.ycombinator.com/item?id=48058644</a></p>\n<p>Points: 48</p>\n<p># Comments: 16</p>",
+    "published": "2026-05-08T04:44:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Digging into Drama at the Document Foundation",
+    "link": "https://lwn.net/Articles/1066418/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1066418/\">https://lwn.net/Articles/1066418/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48058337\">https://news.ycombinator.com/item?id=48058337</a></p>\n<p>Points: 33</p>\n<p># Comments: 3</p>",
+    "published": "2026-05-08T03:51:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "link": "https://github.com/robertdfrench/ifuncd-up",
+    "summary": "<p>Article URL: <a href=\"https://github.com/robertdfrench/ifuncd-up\">https://github.com/robertdfrench/ifuncd-up</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48056749\">https://news.ycombinator.com/item?id=48056749</a></p>\n<p>Points: 81</p>\n<p># Comments: 36</p>",
+    "published": "2026-05-08T00:03:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Plasticity and language in the anaesthetized human hippocampus",
+    "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+    "summary": "<p><a href=\"https://www.nature.com/articles/s41586-026-10448-0\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-10448-0</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48056268\">https://news.ycombinator.com/item?id=48056268</a></p>\n<p>Points: 108</p>\n<p># Comments: 42</p>",
+    "published": "2026-05-07T23:06:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Maybe you shouldn't install new software for a bit",
+    "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
+    "summary": "<p>Article URL: <a href=\"https://xeiaso.net/blog/2026/abstain-from-install/\">https://xeiaso.net/blog/2026/abstain-from-install/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48056227\">https://news.ycombinator.com/item?id=48056227</a></p>\n<p>Points: 529</p>\n<p># Comments: 281</p>",
+    "published": "2026-05-07T23:02:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "link": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
+    "summary": "<p>Article URL: <a href=\"https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\">https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48056158\">https://news.ycombinator.com/item?id=48056158</a></p>\n<p>Points: 155</p>\n<p># Comments: 53</p>",
+    "published": "2026-05-07T22:54:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "summary": "<p><a href=\"https://thetech.com/2026/05/07/canvas-breach-26\" rel=\"nofollow\">https://thetech.com/2026/05/07/canvas-breach-26</a><p><a href=\"https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/\" rel=\"nofollow\">https://techcrunch.com/2026/05/07/hackers-deface-school-logi...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48055913\">https://news.ycombinator.com/item?id=48055913</a></p>\n<p>Points: 651</p>\n<p># Comments: 399</p>",
+    "published": "2026-05-07T22:22:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare to cut about 20% workforce",
+    "link": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+    "summary": "<p><a href=\"https://blog.cloudflare.com/building-for-the-future/\" rel=\"nofollow\">https://blog.cloudflare.com/building-for-the-future/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48054423\">https://news.ycombinator.com/item?id=48054423</a></p>\n<p>Points: 755</p>\n<p># Comments: 491</p>",
+    "published": "2026-05-07T20:23:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "summary": "<p>Article URL: <a href=\"https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\">https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48053842\">https://news.ycombinator.com/item?id=48053842</a></p>\n<p>Points: 100</p>\n<p># Comments: 22</p>",
+    "published": "2026-05-07T19:38:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "summary": "<p>Article URL: <a href=\"https://www.openwall.com/lists/oss-security/2026/05/07/8\">https://www.openwall.com/lists/oss-security/2026/05/07/8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48053623\">https://news.ycombinator.com/item?id=48053623</a></p>\n<p>Points: 648</p>\n<p># Comments: 262</p>",
+    "published": "2026-05-07T19:21:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI slop is killing online communities",
+    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "summary": "<p>Article URL: <a href=\"https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\">https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48053203\">https://news.ycombinator.com/item?id=48053203</a></p>\n<p>Points: 669</p>\n<p># Comments: 572</p>",
+    "published": "2026-05-07T18:46:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+    "link": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+    "summary": "The rocket company’s new semiconductor factory, called Terafab, is part of the billionaire’s increasing efforts to dominate artificial intelligence.",
+    "published": "2026-05-07T18:02:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/natural-language-autoencoders\">https://www.anthropic.com/research/natural-language-autoencoders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48052537\">https://news.ycombinator.com/item?id=48052537</a></p>\n<p>Points: 282</p>\n<p># Comments: 94</p>",
+    "published": "2026-05-07T17:54:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+    "link": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "summary": "<p>Article URL: <a href=\"https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/\">https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48052371\">https://news.ycombinator.com/item?id=48052371</a></p>\n<p>Points: 204</p>\n<p># Comments: 179</p>",
+    "published": "2026-05-07T17:42:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Agents need control flow, not more prompts",
+    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "summary": "<p>Article URL: <a href=\"https://bsuh.bearblog.dev/agents-need-control-flow/\">https://bsuh.bearblog.dev/agents-need-control-flow/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48051562\">https://news.ycombinator.com/item?id=48051562</a></p>\n<p>Points: 470</p>\n<p># Comments: 228</p>",
+    "published": "2026-05-07T16:43:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hardening Firefox with Claude Mythos Preview",
+    "link": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "summary": "<p><a href=\"https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/\" rel=\"nofollow\">https://arstechnica.com/information-technology/2026/05/mozil...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48051079\">https://news.ycombinator.com/item?id=48051079</a></p>\n<p>Points: 197</p>\n<p># Comments: 92</p>",
+    "published": "2026-05-07T16:05:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek 4 Flash local inference engine for Metal",
+    "link": "https://github.com/antirez/ds4",
+    "summary": "<p>Article URL: <a href=\"https://github.com/antirez/ds4\">https://github.com/antirez/ds4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48050751\">https://news.ycombinator.com/item?id=48050751</a></p>\n<p>Points: 393</p>\n<p># Comments: 109</p>",
+    "published": "2026-05-07T15:40:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "link": "https://deepmind.google/blog/alphaevolve-impact/",
+    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/alphaevolve-impact/\">https://deepmind.google/blog/alphaevolve-impact/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48050278\">https://news.ycombinator.com/item?id=48050278</a></p>\n<p>Points: 294</p>\n<p># Comments: 123</p>",
+    "published": "2026-05-07T15:02:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
     "link": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
     "summary": "Gabi, the newest monk at a temple in Seoul that is looking to spread Buddhism, vowed to not overcharge as it seeks enlightenment.",
@@ -14,81 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-    "link": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-    "summary": "<p>Article URL: <a href=\"https://firethering.com/zaya1-8b-open-source-math-coding-model/\">https://firethering.com/zaya1-8b-open-source-math-coding-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48047082\">https://news.ycombinator.com/item?id=48047082</a></p>\n<p>Points: 16</p>\n<p># Comments: 13</p>",
-    "published": "2026-05-07T08:56:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Social Network for Corporate Cringe",
-    "link": "https://CringeOut.com",
-    "summary": "<p>Built social network to make fun of corporate cringe. Post humblebrag content and react with direct emotions.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48046874\">https://news.ycombinator.com/item?id=48046874</a></p>\n<p>Points: 22</p>\n<p># Comments: 19</p>",
-    "published": "2026-05-07T08:26:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-    "link": "https://unsloth.ai/blog/nvidia-collab",
-    "summary": "<p>Article URL: <a href=\"https://unsloth.ai/blog/nvidia-collab\">https://unsloth.ai/blog/nvidia-collab</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48046397\">https://news.ycombinator.com/item?id=48046397</a></p>\n<p>Points: 54</p>\n<p># Comments: 8</p>",
-    "published": "2026-05-07T07:15:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-    "link": "https://github.com/darkrishabh/agent-skills-eval",
-    "summary": "<p>Article URL: <a href=\"https://github.com/darkrishabh/agent-skills-eval\">https://github.com/darkrishabh/agent-skills-eval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48046023\">https://news.ycombinator.com/item?id=48046023</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
-    "published": "2026-05-07T06:12:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Trust – Coding Rust like it's 1989",
-    "link": "https://github.com/wojtczyk/trust",
-    "summary": "<p>Article URL: <a href=\"https://github.com/wojtczyk/trust\">https://github.com/wojtczyk/trust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48045939\">https://news.ycombinator.com/item?id=48045939</a></p>\n<p>Points: 29</p>\n<p># Comments: 10</p>",
-    "published": "2026-05-07T05:58:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-    "link": "https://arxiv.org/abs/2605.03546",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.03546\">https://arxiv.org/abs/2605.03546</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48045174\">https://news.ycombinator.com/item?id=48045174</a></p>\n<p>Points: 59</p>\n<p># Comments: 34</p>",
-    "published": "2026-05-07T03:46:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "link": "https://aniket.foo/posts/20260505-netboot/",
-    "summary": "<p>Article URL: <a href=\"https://aniket.foo/posts/20260505-netboot/\">https://aniket.foo/posts/20260505-netboot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48045012\">https://news.ycombinator.com/item?id=48045012</a></p>\n<p>Points: 103</p>\n<p># Comments: 53</p>",
-    "published": "2026-05-07T03:13:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Permacomputing Principles",
-    "link": "https://permacomputing.net/principles/",
-    "summary": "<p>Article URL: <a href=\"https://permacomputing.net/principles/\">https://permacomputing.net/principles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48044638\">https://news.ycombinator.com/item?id=48044638</a></p>\n<p>Points: 155</p>\n<p># Comments: 74</p>",
-    "published": "2026-05-07T02:18:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Vatican's Website in Latin",
-    "link": "https://www.vatican.va/latin/latin_index.html",
-    "summary": "<p>Article URL: <a href=\"https://www.vatican.va/latin/latin_index.html\">https://www.vatican.va/latin/latin_index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48044311\">https://news.ycombinator.com/item?id=48044311</a></p>\n<p>Points: 155</p>\n<p># Comments: 93</p>",
-    "published": "2026-05-07T01:26:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Anthropic’s C.E.O. Says It Could Grow by 80 Times This Year",
     "link": "https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html",
     "summary": "The chief executive, Dario Amodei, said the rapid growth had exponentially increased the start-up’s need for more computing power.",
     "published": "2026-05-07T01:09:53",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "RSS feeds send me more traffic than Google",
-    "link": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-    "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\">https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48043964\">https://news.ycombinator.com/item?id=48043964</a></p>\n<p>Points: 127</p>\n<p># Comments: 25</p>",
-    "published": "2026-05-07T00:40:06",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
@@ -98,55 +182,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "SQLite Is a Library of Congress Recommended Storage Format",
-    "link": "https://sqlite.org/locrsf.html",
-    "summary": "<p>Article URL: <a href=\"https://sqlite.org/locrsf.html\">https://sqlite.org/locrsf.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48042434\">https://news.ycombinator.com/item?id=48042434</a></p>\n<p>Points: 278</p>\n<p># Comments: 76</p>",
-    "published": "2026-05-06T21:58:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Learning the Integral of a Diffusion Model",
-    "link": "https://sander.ai/2026/05/06/flow-maps.html",
-    "summary": "<p>Article URL: <a href=\"https://sander.ai/2026/05/06/flow-maps.html\">https://sander.ai/2026/05/06/flow-maps.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48040002\">https://news.ycombinator.com/item?id=48040002</a></p>\n<p>Points: 139</p>\n<p># Comments: 21</p>",
-    "published": "2026-05-06T18:46:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-    "link": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "summary": "<p>Article URL: <a href=\"https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\">https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48039362\">https://news.ycombinator.com/item?id=48039362</a></p>\n<p>Points: 314</p>\n<p># Comments: 321</p>",
-    "published": "2026-05-06T17:59:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "From Supabase to Clerk to Better Auth",
-    "link": "https://blog.val.town/better-auth",
-    "summary": "<p>Article URL: <a href=\"https://blog.val.town/better-auth\">https://blog.val.town/better-auth</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038827\">https://news.ycombinator.com/item?id=48038827</a></p>\n<p>Points: 263</p>\n<p># Comments: 192</p>",
-    "published": "2026-05-06T17:19:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
-    "link": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
-    "summary": "<p>Article URL: <a href=\"https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non\">https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038750\">https://news.ycombinator.com/item?id=48038750</a></p>\n<p>Points: 77</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-06T17:13:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Hallucinopedia",
-    "link": "http://halupedia.com/",
-    "summary": "<p>Article URL: <a href=\"http://halupedia.com/\">http://halupedia.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038257\">https://news.ycombinator.com/item?id=48038257</a></p>\n<p>Points: 237</p>\n<p># Comments: 213</p>",
-    "published": "2026-05-06T16:37:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Appearing productive in the workplace",
-    "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-    "summary": "<p>Article URL: <a href=\"https://nooneshappy.com/article/appearing-productive-in-the-workplace/\">https://nooneshappy.com/article/appearing-productive-in-the-workplace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48038001\">https://news.ycombinator.com/item?id=48038001</a></p>\n<p>Points: 1217</p>\n<p># Comments: 474</p>",
-    "published": "2026-05-06T16:18:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
     "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
     "summary": "A Bristol Myers Squibb plant that makes cancer drugs was the only manufacturer in the U.S. recognized for innovation by the World Economic Forum this year.",
@@ -154,32 +189,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-    "link": "https://tilde.run/",
-    "summary": "<p>Article URL: <a href=\"https://tilde.run/\">https://tilde.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037724\">https://news.ycombinator.com/item?id=48037724</a></p>\n<p>Points: 166</p>\n<p># Comments: 118</p>",
-    "published": "2026-05-06T15:58:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-    "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-    "summary": "<p>Article URL: <a href=\"https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license\">https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037555\">https://news.ycombinator.com/item?id=48037555</a></p>\n<p>Points: 1467</p>\n<p># Comments: 474</p>",
-    "published": "2026-05-06T15:44:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
     "link": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
     "summary": "The pioneering search engine shut down on May 1, after nearly 30 years in operation.",
     "published": "2026-05-06T15:13:42",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/\">https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48037128\">https://news.ycombinator.com/item?id=48037128</a></p>\n<p>Points: 622</p>\n<p># Comments: 673</p>",
-    "published": "2026-05-06T15:06:37",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
@@ -214,13 +228,6 @@
     "link": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
     "summary": "Ford Motor has written off $20 billion in electric vehicle investments but says it is forging ahead with an electric pickup that will sell for $30,000 next year.",
     "published": "2026-05-05T13:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
-    "link": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
-    "summary": "Blackstone and Goldman Sachs are among the investors in the new firm, which will help integrate Anthropic’s A.I. model Claude into their systems.",
-    "published": "2026-05-05T02:03:14",
     "source": "NYT > Technology"
   },
   {
@@ -259,20 +266,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Musk vs. Altman: What Is This Really About?",
-    "link": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
-    "summary": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
-    "published": "2026-05-01T22:21:43",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
-    "link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
-    "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
-    "published": "2026-05-01T20:32:45",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
     "link": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
     "summary": "The agreements with the technology companies come amid the Defense Department’s dispute with Anthropic.",
@@ -284,41 +277,6 @@
     "link": "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
     "summary": "Will the rising tide of A.I. adoption lift all boats?",
     "published": "2026-05-01T11:00:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
-    "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
-    "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
-    "published": "2026-04-30T23:24:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
-    "link": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
-    "summary": "John Ternus, who will take over in September, spoke publicly on an investor call for the first time since his new job was announced.",
-    "published": "2026-04-30T23:22:26",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
-    "summary": "",
-    "published": "2026-04-30T17:48:32",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk suffered a rare loss in his last jury trial.",
-    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
-    "summary": "",
-    "published": "2026-04-30T15:14:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Musk says he ‘was a fool’ to provide OpenAI’s early funding.",
-    "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/musk-says-he-was-a-fool-to-provide-openais-early-funding",
-    "summary": "",
-    "published": "2026-04-30T14:59:17",
     "source": "NYT > Technology"
   }
 ]
