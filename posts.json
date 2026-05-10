@@ -1,107 +1,142 @@
 [
   {
-    "title": "All my clients wanted a carousel, now it's an AI chatbot",
-    "link": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-    "summary": "<p>Article URL: <a href=\"https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md\">https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48072720\">https://news.ycombinator.com/item?id=48072720</a></p>\n<p>Points: 86</p>\n<p># Comments: 35</p>",
-    "published": "2026-05-09T07:23:40",
+    "title": "Rotten Dot Com",
+    "link": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+    "summary": "<p>Article URL: <a href=\"https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/\">https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48082039\">https://news.ycombinator.com/item?id=48082039</a></p>\n<p>Points: 58</p>\n<p># Comments: 35</p>",
+    "published": "2026-05-10T08:25:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+    "title": "Debian must ship reproducible packages",
+    "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+    "summary": "<p>Article URL: <a href=\"https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\">https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48081245\">https://news.ycombinator.com/item?id=48081245</a></p>\n<p>Points: 139</p>\n<p># Comments: 32</p>",
+    "published": "2026-05-10T05:26:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+    "link": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+    "summary": "<p>Article URL: <a href=\"https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\">https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48081094\">https://news.ycombinator.com/item?id=48081094</a></p>\n<p>Points: 15</p>\n<p># Comments: 13</p>",
+    "published": "2026-05-10T04:47:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gemini API File Search is now multimodal",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\">https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48080702\">https://news.ycombinator.com/item?id=48080702</a></p>\n<p>Points: 93</p>\n<p># Comments: 13</p>",
+    "published": "2026-05-10T03:22:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "link": "https://github.com/imtomt/ymawky",
+    "summary": "<p>This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations against slowloris-like attacks.<p>I’ve also written a more detailed writeup here: <a href=\"https://imtomt.github.io/ymawky/\" rel=\"nofollow\">https://imtomt.github.io/ymawky/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48080587\">https://news.ycombinator.com/item?id=48080587</a></p>\n<p>Points: 281</p>\n<p># Comments: 127</p>",
+    "published": "2026-05-10T03:01:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sparse Cholesky Elimination Tree",
+    "link": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+    "summary": "<p>Article URL: <a href=\"https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\">https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48080221\">https://news.ycombinator.com/item?id=48080221</a></p>\n<p>Points: 31</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-10T01:52:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Rust but Lisp",
+    "link": "https://github.com/ThatXliner/rust-but-lisp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ThatXliner/rust-but-lisp\">https://github.com/ThatXliner/rust-but-lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48078575\">https://news.ycombinator.com/item?id=48078575</a></p>\n<p>Points: 133</p>\n<p># Comments: 67</p>",
+    "published": "2026-05-09T21:46:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Local privilege escalation via execve()",
+    "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+    "summary": "<p>Article URL: <a href=\"https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\">https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48077971\">https://news.ycombinator.com/item?id=48077971</a></p>\n<p>Points: 151</p>\n<p># Comments: 78</p>",
+    "published": "2026-05-09T20:31:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Surfel-based global illumination on the web",
+    "link": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "summary": "<p>Article URL: <a href=\"https://juretriglav.si/surfel-based-global-illumination-on-the-web/\">https://juretriglav.si/surfel-based-global-illumination-on-the-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48077395\">https://news.ycombinator.com/item?id=48077395</a></p>\n<p>Points: 59</p>\n<p># Comments: 6</p>",
+    "published": "2026-05-09T19:09:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "link": "https://github.com/nooga/let-go",
+    "summary": "<p>Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed sci.<p>I started this project in 2021 as an elaborate practical joke: I wanted to have an excuse for writing Clojure while pretending to write Go.<p>Jokes aside, it turned out to be pretty decent: it feels like real Clojure, it has an nREPL server (supported in Calva, CIDER, etc.), it's easily embeddable in your Go programs (funcs, structs and channels cross the boundary without fuss). It's good for writing CLIs, web servers, data processing scripts and even doing some systems programming - I used it to write a deamonless container runtime. Oh, and it runs on Plan9.<p>Under the hood there is a fairly simple compiler and a stack VM, both handcrafted specifically for running Clojure-like code. The compiler can work in AOT mode producing portable bytecode blobs and standalone binaries (runtime+bytecode).<p>This is not a drop-in replacement for Clojure in general - it does not load JARs, it does not have all Java APIs and it most probably won't run your exiting Clojure projects without modifications. At least not at the moment.<p>Take it for a spin, tell me what you think. Issues and PRs are welcome!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48076815\">https://news.ycombinator.com/item?id=48076815</a></p>\n<p>Points: 169</p>\n<p># Comments: 44</p>",
+    "published": "2026-05-09T17:52:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zed Editor Theme-Builder",
+    "link": "https://zed.dev/theme-builder",
+    "summary": "<p>Article URL: <a href=\"https://zed.dev/theme-builder\">https://zed.dev/theme-builder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48076651\">https://news.ycombinator.com/item?id=48076651</a></p>\n<p>Points: 220</p>\n<p># Comments: 64</p>",
+    "published": "2026-05-09T17:30:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "link": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "summary": "<p>Article URL: <a href=\"https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\">https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48076465\">https://news.ycombinator.com/item?id=48076465</a></p>\n<p>Points: 127</p>\n<p># Comments: 72</p>",
+    "published": "2026-05-09T17:06:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I’ve banned query strings",
+    "link": "https://chrismorgan.info/no-query-strings",
+    "summary": "<p>Related: <a href=\"https://susam.net/no-query-strings.html\" rel=\"nofollow\">https://susam.net/no-query-strings.html</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48076173\">https://news.ycombinator.com/item?id=48076173</a></p>\n<p>Points: 410</p>\n<p># Comments: 218</p>",
+    "published": "2026-05-09T16:28:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Distributing Mac software is increasing my cortisol levels",
+    "link": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+    "summary": "<p>Article URL: <a href=\"https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels\">https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48075366\">https://news.ycombinator.com/item?id=48075366</a></p>\n<p>Points: 290</p>\n<p># Comments: 194</p>",
+    "published": "2026-05-09T14:40:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The hypocrisy of cyberlibertarianism",
+    "link": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "summary": "<p>Article URL: <a href=\"https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/\">https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48074952\">https://news.ycombinator.com/item?id=48074952</a></p>\n<p>Points: 336</p>\n<p># Comments: 293</p>",
+    "published": "2026-05-09T13:48:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Internet Archive Switzerland",
+    "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+    "summary": "<p><a href=\"https://internetarchive.ch/\" rel=\"nofollow\">https://internetarchive.ch/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48074265\">https://news.ycombinator.com/item?id=48074265</a></p>\n<p>Points: 611</p>\n<p># Comments: 99</p>",
+    "published": "2026-05-09T12:00:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "summary": "<p><a href=\"https://xunroll.com/thread/2053047748191232310\" rel=\"nofollow\">https://xunroll.com/thread/2053047748191232310</a><p>Recent and related: <i>Zig → Rust porting guide</i> - <a href=\"https://news.ycombinator.com/item?id=48016880\">https://news.ycombinator.com/item?id=48016880</a> - May 2026 (540 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48073680\">https://news.ycombinator.com/item?id=48073680</a></p>\n<p>Points: 557</p>\n<p># Comments: 522</p>",
+    "published": "2026-05-09T10:12:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LLMs corrupt your documents when you delegate",
+    "link": "https://arxiv.org/abs/2604.15597",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2604.15597\">https://arxiv.org/abs/2604.15597</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48073246\">https://news.ycombinator.com/item?id=48073246</a></p>\n<p>Points: 411</p>\n<p># Comments: 163</p>",
+    "published": "2026-05-09T08:44:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
     "link": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-    "summary": "<p>Article URL: <a href=\"https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\">https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48072190\">https://news.ycombinator.com/item?id=48072190</a></p>\n<p>Points: 205</p>\n<p># Comments: 145</p>",
+    "summary": "<p>Article URL: <a href=\"https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\">https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48072190\">https://news.ycombinator.com/item?id=48072190</a></p>\n<p>Points: 552</p>\n<p># Comments: 380</p>",
     "published": "2026-05-09T05:52:12",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
     "link": "https://twitter.com/trq212/status/2052809885763747935",
-    "summary": "<p>Examples: <a href=\"https://thariqs.github.io/html-effectiveness/\" rel=\"nofollow\">https://thariqs.github.io/html-effectiveness/</a><p>Related: <a href=\"https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/\" rel=\"nofollow\">https://simonwillison.net/2026/May/8/unreasonable-effectiven...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48071940\">https://news.ycombinator.com/item?id=48071940</a></p>\n<p>Points: 137</p>\n<p># Comments: 78</p>",
+    "summary": "<p>Examples: <a href=\"https://thariqs.github.io/html-effectiveness/\" rel=\"nofollow\">https://thariqs.github.io/html-effectiveness/</a><p>Related: <a href=\"https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/\" rel=\"nofollow\">https://simonwillison.net/2026/May/8/unreasonable-effectiven...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48071940\">https://news.ycombinator.com/item?id=48071940</a></p>\n<p>Points: 462</p>\n<p># Comments: 258</p>",
     "published": "2026-05-09T04:53:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A recent experience with ChatGPT 5.5 Pro",
-    "link": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "summary": "<p><a href=\"https://twitter.com/wtgowers/status/2052830948685676605\" rel=\"nofollow\">https://twitter.com/wtgowers/status/2052830948685676605</a><p><a href=\"https://xcancel.com/wtgowers/status/2052830948685676605\" rel=\"nofollow\">https://xcancel.com/wtgowers/status/2052830948685676605</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48071262\">https://news.ycombinator.com/item?id=48071262</a></p>\n<p>Points: 299</p>\n<p># Comments: 153</p>",
-    "published": "2026-05-09T02:41:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mux (YC W16) Is Hiring",
-    "link": "https://www.mux.com/jobs",
-    "summary": "<p>Article URL: <a href=\"https://www.mux.com/jobs\">https://www.mux.com/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48068732\">https://news.ycombinator.com/item?id=48068732</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-08T21:02:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "When is your birthday? The math behind hash collisions",
-    "link": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-    "summary": "<p>Article URL: <a href=\"https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\">https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48068254\">https://news.ycombinator.com/item?id=48068254</a></p>\n<p>Points: 46</p>\n<p># Comments: 8</p>",
-    "published": "2026-05-08T20:18:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Roadside Attraction",
-    "link": "https://theoffingmag.com/essay/roadside-attraction/",
-    "summary": "<p>Article URL: <a href=\"https://theoffingmag.com/essay/roadside-attraction/\">https://theoffingmag.com/essay/roadside-attraction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48067764\">https://news.ycombinator.com/item?id=48067764</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
-    "published": "2026-05-08T19:43:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "link": "https://ze3tar.github.io/post-zcrx.html",
-    "summary": "<p>Article URL: <a href=\"https://ze3tar.github.io/post-zcrx.html\">https://ze3tar.github.io/post-zcrx.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48067734\">https://news.ycombinator.com/item?id=48067734</a></p>\n<p>Points: 184</p>\n<p># Comments: 109</p>",
-    "published": "2026-05-08T19:40:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-    "summary": "<p>Related: <i>Google Cloud fraud defense, the next evolution of reCAPTCHA</i> - <a href=\"https://news.ycombinator.com/item?id=48039362\">https://news.ycombinator.com/item?id=48039362</a><p>also: <i>Google Cloud Fraud Defence is just WEI repackaged</i> - <a href=\"https://news.ycombinator.com/item?id=48063199\">https://news.ycombinator.com/item?id=48063199</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48067119\">https://news.ycombinator.com/item?id=48067119</a></p>\n<p>Points: 1024</p>\n<p># Comments: 346</p>",
-    "published": "2026-05-08T18:45:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Teaching Claude Why",
-    "link": "https://www.anthropic.com/research/teaching-claude-why",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/teaching-claude-why\">https://www.anthropic.com/research/teaching-claude-why</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48066592\">https://news.ycombinator.com/item?id=48066592</a></p>\n<p>Points: 164</p>\n<p># Comments: 78</p>",
-    "published": "2026-05-08T17:59:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AI is breaking two vulnerability cultures",
-    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "summary": "<p>Article URL: <a href=\"https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures\">https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48066524\">https://news.ycombinator.com/item?id=48066524</a></p>\n<p>Points: 331</p>\n<p># Comments: 133</p>",
-    "published": "2026-05-08T17:55:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The React2Shell Story",
-    "link": "https://lachlan.nz/blog/the-react2shell-story/",
-    "summary": "<p>Article URL: <a href=\"https://lachlan.nz/blog/the-react2shell-story/\">https://lachlan.nz/blog/the-react2shell-story/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48065511\">https://news.ycombinator.com/item?id=48065511</a></p>\n<p>Points: 141</p>\n<p># Comments: 8</p>",
-    "published": "2026-05-08T16:39:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cartoon Network Flash Games",
-    "link": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-    "summary": "<p>Article URL: <a href=\"https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games\">https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48065360\">https://news.ycombinator.com/item?id=48065360</a></p>\n<p>Points: 342</p>\n<p># Comments: 107</p>",
-    "published": "2026-05-08T16:29:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Can LLMs model real-world systems in TLA+?",
-    "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-    "summary": "<p>Article URL: <a href=\"https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/\">https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48065254\">https://news.ycombinator.com/item?id=48065254</a></p>\n<p>Points: 81</p>\n<p># Comments: 20</p>",
-    "published": "2026-05-08T16:21:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-    "link": "https://btxx.org/posts/memory/",
-    "summary": "<p>Article URL: <a href=\"https://btxx.org/posts/memory/\">https://btxx.org/posts/memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48064312\">https://news.ycombinator.com/item?id=48064312</a></p>\n<p>Points: 224</p>\n<p># Comments: 89</p>",
-    "published": "2026-05-08T15:10:35",
     "source": "Hacker News: Front Page"
   },
   {
@@ -126,46 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "US Government releases first batch of UAP documents and videos",
-    "link": "https://www.war.gov/UFO/",
-    "summary": "<p><a href=\"https://apnews.com/article/trump-ufos-uap-aliens-pentagon-records-investigation-3e658d2cf3742465127c0049c872240a\" rel=\"nofollow\">https://apnews.com/article/trump-ufos-uap-aliens-pentagon-re...</a><p><a href=\"https://www.war.gov/UFO/#release\" rel=\"nofollow\">https://www.war.gov/UFO/#release</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48061938\">https://news.ycombinator.com/item?id=48061938</a></p>\n<p>Points: 297</p>\n<p># Comments: 436</p>",
-    "published": "2026-05-08T12:10:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "David Attenborough's 100th Birthday",
-    "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cp3pww9g0p5o\">https://www.bbc.com/news/articles/cp3pww9g0p5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48061884\">https://news.ycombinator.com/item?id=48061884</a></p>\n<p>Points: 633</p>\n<p># Comments: 125</p>",
-    "published": "2026-05-08T12:03:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An Introduction to Meshtastic",
-    "link": "https://meshtastic.org/docs/introduction/",
-    "summary": "<p>Article URL: <a href=\"https://meshtastic.org/docs/introduction/\">https://meshtastic.org/docs/introduction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48061566\">https://news.ycombinator.com/item?id=48061566</a></p>\n<p>Points: 449</p>\n<p># Comments: 158</p>",
-    "published": "2026-05-08T11:22:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
     "link": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
     "summary": "“It seems every other day I am reading a story about a massive insider trading scandal.”",
     "published": "2026-05-08T11:00:03",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "AWS North Virginia data center outage – resolved",
-    "link": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-    "summary": "<p><a href=\"https://health.aws.amazon.com/health/status?t=2026-05-07\" rel=\"nofollow\">https://health.aws.amazon.com/health/status?t=2026-05-07</a><p><a href=\"https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509\" rel=\"nofollow\">https://www.theregister.com/off-prem/2026/05/08/aws-warns-of...</a><p><a href=\"https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/\" rel=\"nofollow\">https://www.reuters.com/business/retail-consumer/amazon-clou...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48058197\">https://news.ycombinator.com/item?id=48058197</a></p>\n<p>Points: 225</p>\n<p># Comments: 144</p>",
-    "published": "2026-05-08T03:31:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mojo 1.0 Beta",
-    "link": "https://mojolang.org/",
-    "summary": "<p>Article URL: <a href=\"https://mojolang.org/\">https://mojolang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48057901\">https://news.ycombinator.com/item?id=48057901</a></p>\n<p>Points: 348</p>\n<p># Comments: 221</p>",
-    "published": "2026-05-08T02:49:01",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
