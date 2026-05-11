@@ -1,87 +1,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
   </url>
   <url>
-    <loc>https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/</loc>
-    <lastmod>2026-05-10T08:25:55</lastmod>
+    <loc>https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/</loc>
+    <lastmod>2026-05-11T11:05:04</lastmod>
   </url>
   <url>
-    <loc>https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html</loc>
-    <lastmod>2026-05-10T05:26:03</lastmod>
+    <loc>https://ratty-term.org/</loc>
+    <lastmod>2026-05-11T10:13:04</lastmod>
   </url>
   <url>
-    <loc>https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/</loc>
-    <lastmod>2026-05-10T04:47:45</lastmod>
+    <loc>https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html</loc>
+    <lastmod>2026-05-11T10:04:47</lastmod>
   </url>
   <url>
-    <loc>https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/</loc>
-    <lastmod>2026-05-10T03:22:02</lastmod>
+    <loc>https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html</loc>
+    <lastmod>2026-05-11T08:53:07</lastmod>
   </url>
   <url>
-    <loc>https://github.com/imtomt/ymawky</loc>
-    <lastmod>2026-05-10T03:01:44</lastmod>
+    <loc>https://mipmip.org/advfamily/advfamily.html</loc>
+    <lastmod>2026-05-11T08:16:32</lastmod>
   </url>
   <url>
-    <loc>https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html</loc>
-    <lastmod>2026-05-10T01:52:55</lastmod>
+    <loc>https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082</loc>
+    <lastmod>2026-05-11T07:26:54</lastmod>
   </url>
   <url>
-    <loc>https://github.com/ThatXliner/rust-but-lisp</loc>
-    <lastmod>2026-05-09T21:46:27</lastmod>
+    <loc>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</loc>
+    <lastmod>2026-05-11T06:39:08</lastmod>
   </url>
   <url>
-    <loc>https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc</loc>
-    <lastmod>2026-05-09T20:31:21</lastmod>
+    <loc>https://matt.might.net/articles/implementing-a-programming-language/</loc>
+    <lastmod>2026-05-11T04:34:40</lastmod>
   </url>
   <url>
-    <loc>https://juretriglav.si/surfel-based-global-illumination-on-the-web/</loc>
-    <lastmod>2026-05-09T19:09:34</lastmod>
+    <loc>https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</loc>
+    <lastmod>2026-05-11T02:43:34</lastmod>
   </url>
   <url>
-    <loc>https://github.com/nooga/let-go</loc>
-    <lastmod>2026-05-09T17:52:13</lastmod>
+    <loc>https://github.com/adamjgmiller/adamsreview</loc>
+    <lastmod>2026-05-11T02:06:29</lastmod>
   </url>
   <url>
-    <loc>https://zed.dev/theme-builder</loc>
-    <lastmod>2026-05-09T17:30:39</lastmod>
+    <loc>https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</loc>
+    <lastmod>2026-05-11T01:23:51</lastmod>
   </url>
   <url>
-    <loc>https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/</loc>
-    <lastmod>2026-05-09T17:06:46</lastmod>
+    <loc>https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</loc>
+    <lastmod>2026-05-10T23:39:55</lastmod>
   </url>
   <url>
-    <loc>https://chrismorgan.info/no-query-strings</loc>
-    <lastmod>2026-05-09T16:28:36</lastmod>
+    <loc>https://jola.dev/posts/running-local-models-on-m4</loc>
+    <lastmod>2026-05-10T23:09:10</lastmod>
   </url>
   <url>
-    <loc>https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels</loc>
-    <lastmod>2026-05-09T14:40:58</lastmod>
+    <loc>https://dunkels.com/adam/claude-user-space-ip-stack-ping/</loc>
+    <lastmod>2026-05-10T23:02:31</lastmod>
   </url>
   <url>
-    <loc>https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</loc>
-    <lastmod>2026-05-09T13:48:32</lastmod>
+    <loc>https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/</loc>
+    <lastmod>2026-05-10T22:02:43</lastmod>
   </url>
   <url>
-    <loc>https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/</loc>
-    <lastmod>2026-05-09T12:00:30</lastmod>
+    <loc>https://grapheneos.social/@GrapheneOS/116550899908879585</loc>
+    <lastmod>2026-05-10T17:54:02</lastmod>
   </url>
   <url>
-    <loc>https://twitter.com/jarredsumner/status/2053047748191232310</loc>
-    <lastmod>2026-05-09T10:12:55</lastmod>
+    <loc>https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html</loc>
+    <lastmod>2026-05-10T17:43:10</lastmod>
   </url>
   <url>
-    <loc>https://arxiv.org/abs/2604.15597</loc>
-    <lastmod>2026-05-09T08:44:34</lastmod>
+    <loc>https://news.ycombinator.com/item?id=48085993</loc>
+    <lastmod>2026-05-10T17:34:41</lastmod>
   </url>
   <url>
-    <loc>https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/</loc>
-    <lastmod>2026-05-09T05:52:12</lastmod>
+    <loc>https://unix.foo/posts/local-ai-needs-to-be-norm/</loc>
+    <lastmod>2026-05-10T17:19:28</lastmod>
   </url>
   <url>
-    <loc>https://twitter.com/trq212/status/2052809885763747935</loc>
-    <lastmod>2026-05-09T04:53:52</lastmod>
+    <loc>https://tracesofhumanity.org/hello-world/</loc>
+    <lastmod>2026-05-10T17:15:10</lastmod>
+  </url>
+  <url>
+    <loc>https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q</loc>
+    <lastmod>2026-05-10T12:00:11</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html</loc>
@@ -94,10 +98,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html</loc>
     <lastmod>2026-05-08T13:05:05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html</loc>
-    <lastmod>2026-05-08T11:00:03</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html</loc>
