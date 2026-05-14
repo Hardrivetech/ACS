@@ -1,17 +1,192 @@
 [
   {
-    "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch",
-    "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
-    "summary": "OpenAI and Anthropic are opening offices in Washington, hiring lobbyists and spending more than ever to win over federal lawmakers.",
-    "published": "2026-05-13T09:14:36",
+    "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
+    "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
+    "summary": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity",
+    "published": "2026-05-14T09:04:10",
     "source": "NYT > Technology"
   },
   {
-    "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
-    "link": "https://www.nytimes.com/2026/05/13/technology/notable-researchers-join-4-billion-effort-to-build-self-improving-ai.html",
-    "summary": "Recursive Superintelligence, founded by former Google, Meta and OpenAI researchers, is part of a growing effort to automate the creation of artificial intelligence.",
-    "published": "2026-05-13T09:02:46",
+    "title": "Ishmael Reed Is Writing a Play About Elon Musk",
+    "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
+    "summary": "Ishmael Reed, provocateur and playwright, has a few words for the billionaires of Silicon Valley.",
+    "published": "2026-05-14T09:02:52",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor",
+    "link": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
+    "summary": "After a series of political victories under President Trump, firms are lobbying Congress for a sweeping framework they helped shape.",
+    "published": "2026-05-14T09:00:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Rewrite Bun in Rust has been merged",
+    "link": "https://github.com/oven-sh/bun/pull/30412",
+    "summary": "<p>Article URL: <a href=\"https://github.com/oven-sh/bun/pull/30412\">https://github.com/oven-sh/bun/pull/30412</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48132488\">https://news.ycombinator.com/item?id=48132488</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+    "published": "2026-05-14T08:15:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+    "link": "https://classic7.lol/",
+    "summary": "<p>Article URL: <a href=\"https://classic7.lol/\">https://classic7.lol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48132030\">https://news.ycombinator.com/item?id=48132030</a></p>\n<p>Points: 42</p>\n<p># Comments: 31</p>",
+    "published": "2026-05-14T07:03:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude for Small Business",
+    "link": "https://www.anthropic.com/news/claude-for-small-business",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-for-small-business\">https://www.anthropic.com/news/claude-for-small-business</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130950\">https://news.ycombinator.com/item?id=48130950</a></p>\n<p>Points: 245</p>\n<p># Comments: 177</p>",
+    "published": "2026-05-14T03:59:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Arena AI Model ELO History",
+    "link": "https://mayerwin.github.io/AI-Arena-History/",
+    "summary": "<p>Hi HN,<p>I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.<p>We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.<p>Instead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. \nIt dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. \nIt took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included.<p>However, I have a specific data blindspot that I'm hoping this community might have insights on.<p>Arena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don't fully capture this \"nerfing\" that everyday web users experience.<p>Does anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs?<p>I'd love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I'd appreciate any feedback, or pointers to datasets!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130711\">https://news.ycombinator.com/item?id=48130711</a></p>\n<p>Points: 59</p>\n<p># Comments: 42</p>",
+    "published": "2026-05-14T03:19:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "link": "https://github.com/DrCatHicks/learning-opportunities",
+    "summary": "<p>Article URL: <a href=\"https://github.com/DrCatHicks/learning-opportunities\">https://github.com/DrCatHicks/learning-opportunities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130679\">https://news.ycombinator.com/item?id=48130679</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-14T03:13:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microsoft BitLocker – YellowKey zero-day exploit",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor\">https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130519\">https://news.ycombinator.com/item?id=48130519</a></p>\n<p>Points: 156</p>\n<p># Comments: 88</p>",
+    "published": "2026-05-14T02:45:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Nibble",
+    "link": "https://github.com/glouw/nibble",
+    "summary": "<p>An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on one particular downfall</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130186\">https://news.ycombinator.com/item?id=48130186</a></p>\n<p>Points: 59</p>\n<p># Comments: 7</p>",
+    "published": "2026-05-14T01:46:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
+    "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
+    "summary": "The cases seek to use consumer product safety laws to rein in chatbot companies.",
+    "published": "2026-05-14T01:44:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Cisco workforce reductions",
+    "link": "https://blogs.cisco.com/news/our-path-forward",
+    "summary": "<p>Article URL: <a href=\"https://blogs.cisco.com/news/our-path-forward\">https://blogs.cisco.com/news/our-path-forward</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130123\">https://news.ycombinator.com/item?id=48130123</a></p>\n<p>Points: 198</p>\n<p># Comments: 192</p>",
+    "published": "2026-05-14T01:38:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "delta time",
+    "link": "https://www.deltatime.life/",
+    "summary": "<p>Article URL: <a href=\"https://www.deltatime.life/\">https://www.deltatime.life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48129953\">https://news.ycombinator.com/item?id=48129953</a></p>\n<p>Points: 51</p>\n<p># Comments: 30</p>",
+    "published": "2026-05-14T01:15:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Avoiding and reducing microplastic false positives from dry glove contact",
+    "link": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
+    "summary": "<p>Article URL: <a href=\"https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c\">https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48129934\">https://news.ycombinator.com/item?id=48129934</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
+    "published": "2026-05-14T01:13:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
+    "link": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+    "summary": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
+    "published": "2026-05-14T00:42:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Scorched Earth 2000 – Web",
+    "link": "http://www.scorch2000.com/web/",
+    "summary": "<p>Article URL: <a href=\"http://www.scorch2000.com/web/\">http://www.scorch2000.com/web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48129694\">https://news.ycombinator.com/item?id=48129694</a></p>\n<p>Points: 254</p>\n<p># Comments: 99</p>",
+    "published": "2026-05-14T00:41:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
+    "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+    "summary": "The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
+    "published": "2026-05-13T21:55:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Fuel Prices Drive Sales of E.V.s, Just Not in the U.S.",
+    "link": "https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html",
+    "summary": "Electric vehicle sales have soared in Europe and much of the rest of the world, but Americans are still hesitant.",
+    "published": "2026-05-13T20:17:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
+    "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+    "summary": "<p>Article URL: <a href=\"https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent\">https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48126848\">https://news.ycombinator.com/item?id=48126848</a></p>\n<p>Points: 328</p>\n<p># Comments: 480</p>",
+    "published": "2026-05-13T20:12:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
+    "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
+    "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
+    "published": "2026-05-13T18:48:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+    "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+    "summary": "<p>Article URL: <a href=\"https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/\">https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48125617\">https://news.ycombinator.com/item?id=48125617</a></p>\n<p>Points: 217</p>\n<p># Comments: 234</p>",
+    "published": "2026-05-13T18:30:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+    "link": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html",
+    "summary": "Recursive Superintelligence, founded by former Google, Meta and OpenAI researchers, is part of a growing effort to automate the creation of artificial intelligence.",
+    "published": "2026-05-13T18:14:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch",
+    "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
+    "summary": "OpenAI and Anthropic are opening offices in Washington, hiring lobbyists and spending more than ever to win over federal lawmakers.",
+    "published": "2026-05-13T17:02:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+    "link": "https://www.tryardent.com/",
+    "summary": "<p>Hey HN! We’re Vikram and Evan from Ardent (<a href=\"https://tryardent.com\">https://tryardent.com</a>). We're building database sandboxes for you and your coding agents.<p>In the last two years coding agents have gotten dramatically more capable at handling complex engineering tasks. But without access to a realistic sandbox at the DB layer for testing, they ship garbage that can take down production databases. I spent over a year building an AI Data Engineer that failed for this exact reason. Evan spent the last 12 years in data engineering and hit this wall building agents at his last company.<p>Ardent was built to make it possible for coding agents to get near instant access to production-like sandboxes so they can test their work. To do this we write a replication stream out of the target DB, scaling with kafka onto a read replica with copy on write enabled and autoscaling compute (we currently prefer neon as a primary branching engine due to their implementation of these properties).<p>Our replication stream uses logical replication + ddl triggers to enable usage on any hosted postgres DB since most platforms do not allow physical replication which is traditionally used for creating replicas.<p>This provides a few primary benefits:<p>1. Does not require a platform migration to a DB provider like neon, allowing strong separation of production and development concerns.\n2. Minimal impact on the production database while allowing clones to spin up in <6s, even at TB scale with copy-on-write<p>Security matters a lot with cloning production so we run a proxy layer to generate custom postgres URLs and route all connections to allow more granular access control to clones, prevent credential leak, and follow a split plane architecture to allow full data residency on your cloud through BYOC.<p>We also support anonymization through the ability to register SQL that runs on branches before they are returned. This has been used for PII redaction and branch modification.<p>Our goal is to make every data infrastructure platform “cloneable” in one place so agents can fully test the impact of their changes on production like data environments without risk.<p>Here's a demo of it: <a href=\"https://youtu.be/5S1kwPtiRU0\" rel=\"nofollow\">https://youtu.be/5S1kwPtiRU0</a><p>We’d love to understand how you work with coding agents on the DB and if you try Ardent (it's free to get started) what worked, what broke and what’s missing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48124436\">https://news.ycombinator.com/item?id=48124436</a></p>\n<p>Points: 85</p>\n<p># Comments: 34</p>",
+    "published": "2026-05-13T16:54:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "link": "https://fredchan.org/blog/locality-domains-guide/",
+    "summary": "<p>Article URL: <a href=\"https://fredchan.org/blog/locality-domains-guide/\">https://fredchan.org/blog/locality-domains-guide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48122635\">https://news.ycombinator.com/item?id=48122635</a></p>\n<p>Points: 559</p>\n<p># Comments: 173</p>",
+    "published": "2026-05-13T14:45:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "summary": "<p>Article URL: <a href=\"https://avkcode.github.io/blog/us-winning-ai-race.html\">https://avkcode.github.io/blog/us-winning-ai-race.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121929\">https://news.ycombinator.com/item?id=48121929</a></p>\n<p>Points: 199</p>\n<p># Comments: 546</p>",
+    "published": "2026-05-13T13:53:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+    "link": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager\">https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120776\">https://news.ycombinator.com/item?id=48120776</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-13T12:00:30",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Tired of Hacked Passwords? Help Is on the Way.",
@@ -24,14 +199,14 @@
     "title": "Andreessen Horowitz Is Playing Politics Like No Other",
     "link": "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
     "summary": "“If you think there’s a lot of money in politics now,” Marc Andreessen said in 2000, “you haven’t seen anything yet.” His firm is now the biggest known spender on this campaign cycle.",
-    "published": "2026-05-13T09:01:04",
+    "published": "2026-05-13T09:01:05",
     "source": "NYT > Technology"
   },
   {
-    "title": "SecurityBaseline.eu",
-    "link": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-    "summary": "<p>Article URL: <a href=\"https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/\">https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48118763\">https://news.ycombinator.com/item?id=48118763</a></p>\n<p>Points: 168</p>\n<p># Comments: 78</p>",
-    "published": "2026-05-13T07:11:17",
+    "title": "The Emacsification of Software",
+    "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
+    "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/05/12/emacsification/\">https://sockpuppet.org/blog/2026/05/12/emacsification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48118727\">https://news.ycombinator.com/item?id=48118727</a></p>\n<p>Points: 301</p>\n<p># Comments: 198</p>",
+    "published": "2026-05-13T07:06:14",
     "source": "Hacker News: Front Page"
   },
   {
@@ -42,25 +217,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-    "link": "https://arxiv.org/abs/2605.08419",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.08419\">https://arxiv.org/abs/2605.08419</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48117810\">https://news.ycombinator.com/item?id=48117810</a></p>\n<p>Points: 204</p>\n<p># Comments: 49</p>",
-    "published": "2026-05-13T04:25:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite",
     "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-china-summit-nvidia-jensen-huang.html",
     "summary": "Jensen Huang boarded Air Force One in Alaska, joining a delegation of more than a dozen business leaders accompanying President Trump on his trip to Beijing.",
     "published": "2026-05-13T03:41:22",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Starship V3",
-    "link": "https://www.spacex.com/updates#starship-v3",
-    "summary": "<p>Article URL: <a href=\"https://www.spacex.com/updates#starship-v3\">https://www.spacex.com/updates#starship-v3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48116781\">https://news.ycombinator.com/item?id=48116781</a></p>\n<p>Points: 243</p>\n<p># Comments: 380</p>",
-    "published": "2026-05-13T01:29:31",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
@@ -70,66 +231,17 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "My graduation cap runs Rust",
-    "link": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-    "summary": "<p>Article URL: <a href=\"https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\">https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48116207\">https://news.ycombinator.com/item?id=48116207</a></p>\n<p>Points: 158</p>\n<p># Comments: 60</p>",
-    "published": "2026-05-13T00:04:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
-    "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/quic-death-spiral-fix/\">https://blog.cloudflare.com/quic-death-spiral-fix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48116064\">https://news.ycombinator.com/item?id=48116064</a></p>\n<p>Points: 100</p>\n<p># Comments: 12</p>",
-    "published": "2026-05-12T23:46:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
-    "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
-    "summary": "The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
-    "published": "2026-05-12T23:40:35",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Kraftwerk's radical 1976 track",
-    "link": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem\">https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48115823\">https://news.ycombinator.com/item?id=48115823</a></p>\n<p>Points: 168</p>\n<p># Comments: 118</p>",
-    "published": "2026-05-12T23:13:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tell NYT, Atlantic, USA Today to keep Wayback Machine",
-    "link": "https://www.savethearchive.com/newsleaders/",
-    "summary": "<p>Article URL: <a href=\"https://www.savethearchive.com/newsleaders/\">https://www.savethearchive.com/newsleaders/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48115807\">https://news.ycombinator.com/item?id=48115807</a></p>\n<p>Points: 342</p>\n<p># Comments: 94</p>",
-    "published": "2026-05-12T23:11:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?",
     "link": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
     "summary": "Mr. Altman, the C.E.O. of OpenAI, said on Tuesday that he worried Elon Musk wanted control of the A.I. lab.",
-    "published": "2026-05-12T23:09:39",
+    "published": "2026-05-12T23:09:40",
     "source": "NYT > Technology"
   },
   {
-    "title": "Restore full BambuNetwork support for Bambu Lab printers",
-    "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-    "summary": "<p>Article URL: <a href=\"https://github.com/FULU-Foundation/OrcaSlicer-bambulab\">https://github.com/FULU-Foundation/OrcaSlicer-bambulab</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48115127\">https://news.ycombinator.com/item?id=48115127</a></p>\n<p>Points: 462</p>\n<p># Comments: 204</p>",
-    "published": "2026-05-12T21:55:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Scrcpy v4.0",
-    "link": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Genymobile/scrcpy/releases/tag/v4.0\">https://github.com/Genymobile/scrcpy/releases/tag/v4.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48114356\">https://news.ycombinator.com/item?id=48114356</a></p>\n<p>Points: 216</p>\n<p># Comments: 28</p>",
-    "published": "2026-05-12T20:50:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to make your text look futuristic (2016)",
-    "link": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-    "summary": "<p>Article URL: <a href=\"https://typesetinthefuture.com/2016/02/18/futuristic/\">https://typesetinthefuture.com/2016/02/18/futuristic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48113895\">https://news.ycombinator.com/item?id=48113895</a></p>\n<p>Points: 369</p>\n<p># Comments: 48</p>",
-    "published": "2026-05-12T20:16:26",
+    "title": "Twin brothers wipe 96 government databases minutes after being fired",
+    "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/\">https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48115438\">https://news.ycombinator.com/item?id=48115438</a></p>\n<p>Points: 427</p>\n<p># Comments: 334</p>",
+    "published": "2026-05-12T22:28:07",
     "source": "Hacker News: Front Page"
   },
   {
@@ -147,52 +259,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-    "link": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-    "summary": "<p>Article URL: <a href=\"https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\">https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48112042\">https://news.ycombinator.com/item?id=48112042</a></p>\n<p>Points: 324</p>\n<p># Comments: 162</p>",
-    "published": "2026-05-12T18:12:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
     "link": "https://github.com/cactus-compute/needle",
-    "summary": "<p>Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac/PC: <a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a><p>The full writeup on the architecture is here: <a href=\"https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md\" rel=\"nofollow\">https://github.com/cactus-compute/needle/blob/main/docs/simp...</a><p>We found that the \"no FFN\" finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn't need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope/capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href=\"https://github.com/cactus-compute/cactus\" rel=\"nofollow\">https://github.com/cactus-compute/cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href=\"https://news.ycombinator.com/item?id=44524544\">https://news.ycombinator.com/item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href=\"https://huggingface.co/Cactus-Compute/needle\" rel=\"nofollow\">https://huggingface.co/Cactus-Compute/needle</a>\nGitHub: <a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111896\">https://news.ycombinator.com/item?id=48111896</a></p>\n<p>Points: 489</p>\n<p># Comments: 154</p>",
+    "summary": "<p>Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac/PC: <a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a><p>The full writeup on the architecture is here: <a href=\"https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md\" rel=\"nofollow\">https://github.com/cactus-compute/needle/blob/main/docs/simp...</a><p>We found that the \"no FFN\" finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn't need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope/capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href=\"https://github.com/cactus-compute/cactus\" rel=\"nofollow\">https://github.com/cactus-compute/cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href=\"https://news.ycombinator.com/item?id=44524544\">https://news.ycombinator.com/item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href=\"https://huggingface.co/Cactus-Compute/needle\" rel=\"nofollow\">https://huggingface.co/Cactus-Compute/needle</a>\nGitHub: <a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111896\">https://news.ycombinator.com/item?id=48111896</a></p>\n<p>Points: 675</p>\n<p># Comments: 188</p>",
     "published": "2026-05-12T18:03:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Quack: The DuckDB Client-Server Protocol",
-    "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-    "summary": "<p>Article URL: <a href=\"https://duckdb.org/2026/05/12/quack-remote-protocol\">https://duckdb.org/2026/05/12/quack-remote-protocol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111765\">https://news.ycombinator.com/item?id=48111765</a></p>\n<p>Points: 296</p>\n<p># Comments: 61</p>",
-    "published": "2026-05-12T17:54:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reimagining the mouse pointer for the AI era",
-    "link": "https://deepmind.google/blog/ai-pointer/",
-    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/ai-pointer/\">https://deepmind.google/blog/ai-pointer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111581\">https://news.ycombinator.com/item?id=48111581</a></p>\n<p>Points: 210</p>\n<p># Comments: 178</p>",
-    "published": "2026-05-12T17:40:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Googlebook",
-    "link": "https://googlebook.google/",
-    "summary": "<p><a href=\"https://www.reddit.com/r/Android/comments/1tb8xls/introducing_googlebook_a_new_category_of_laptops/\" rel=\"nofollow\">https://www.reddit.com/r/Android/comments/1tb8xls/introducin...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111545\">https://news.ycombinator.com/item?id=48111545</a></p>\n<p>Points: 803</p>\n<p># Comments: 1312</p>",
-    "published": "2026-05-12T17:37:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "As researchers age, they produce less disruptive work",
-    "link": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
-    "summary": "<p>Article URL: <a href=\"https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650\">https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111243\">https://news.ycombinator.com/item?id=48111243</a></p>\n<p>Points: 81</p>\n<p># Comments: 83</p>",
-    "published": "2026-05-12T17:16:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Agentic interface for mainframes and COBOL",
-    "link": "https://www.hypercubic.ai/hopper",
-    "summary": "<p>Hi HN, we’re Sai and Aayush, and we’re building Hypercubic (<a href=\"https://www.hypercubic.ai/\">https://www.hypercubic.ai/</a>), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: <a href=\"https://news.ycombinator.com/item?id=45877517\">https://news.ycombinator.com/item?id=45877517</a>.) Today we’re launching Hopper, an agentic development environment for mainframes.<p>You can download it here: <a href=\"https://www.hypercubic.ai/hopper\">https://www.hypercubic.ai/hopper</a>, and you can also request access and immediately get a mainframe user account to play with.<p>There's also a video runthrough at <a href=\"https://www.youtube.com/watch?v=q81L5DcfBvE\" rel=\"nofollow\">https://www.youtube.com/watch?v=q81L5DcfBvE</a>.<p>Mainframes still run a surprising amount of critical infrastructure: banking, payments, insurance, airlines, government programs, logistics, and core operations at large institutions. Many of these systems are decades old, but they continue to process enormous transaction volumes because they are reliable, secure, and deeply embedded into business operations.<p>A lot of that software is written in COBOL and runs on IBM z/OS. The development environment looks very different from modern cloud or Unix-style development. Instead of GitHub, shell commands, package managers, and CI pipelines, developers often work through TN3270 terminal sessions, ISPF panels, partitioned datasets, JCL, JES queues, spool output, return codes, VSAM files, CICS transactions, and shop-specific conventions.<p>TN3270 is the terminal interface used to interact with many IBM mainframe systems. ISPF is the menu and panel system developers use inside that terminal to browse datasets, edit source, submit jobs, and inspect output. It is powerful and reliable, but it was designed for expert humans navigating screens, function keys, and fixed-width workflows, not AI agents.<p>A simple COBOL change might require finding the right source member, checking copybooks, locating compile JCL, submitting a job, reading JES/SYSPRINT output, interpreting condition codes, patching fixed-width source, and resubmitting.<p>Much of this work is so well-defined and repetitive that it's a good fit for agentic AI. To get that working, however, a chatbot next to a terminal is not enough. The agent needs to operate inside the mainframe environment.<p>Hopper combines three things: (1) A real TN3270 terminal, (2) Mainframe-aware panels for datasets, members, jobs, and spool output, and (3) An AI agent that can operate across those z/OS surfaces.<p>For example, here is a tiny version of the kind of thing Hopper can help debug:<p><pre><code>  COBOL:\n\n   IDENTIFICATION DIVISION.\n   PROGRAM-ID. PAYCALC.\n\n   DATA DIVISION.\n   WORKING-STORAGE SECTION.\n   01  CUSTOMER-BALANCE     PIC 9(7)V99.\n\n   PROCEDURE DIVISION.\n       ADD 100.00 TO CUSTOMER-BALNCE\n       DISPLAY \"UPDATED BALANCE: \" CUSTOMER-BALANCE\n       STOP RUN.\n\n\n  JCL:\n\n    //PAYCOMP  JOB (ACCT),'COMPILE',CLASS=A,MSGCLASS=X\n    \n    //COBOL    EXEC IGYWCL\n    \n    [//COBOL.SYSIN](https://cobol.sysin/) DD DSN=USER1.APP.COBOL(PAYCALC),DISP=SHR\n    \n    [//LKED.SYSLMOD](https://lked.syslmod/) DD DSN=USER1.APP.LOAD(PAYCALC),DISP=SHR\n\n</code></pre>\nA human would submit this job, inspect JES output, open `SYSPRINT`, find the undefined `CUSTOMER-BALNCE`, map it back to the source, patch the member, and resubmit. Hopper is designed to let an agent operate through that same loop autonomously.<p>Hopper is not trying to hide the mainframe behind a generic abstraction, and it's not a chatbot. The design principle is simple: preserve the fidelity of the mainframe environment, but make it accessible to AI agents.<p>Sensitive operations require approval, and the terminal remains visible at all times.<p>Once agents can operate inside the mainframe environment, new workflows become possible: faster job debugging, automated documentation, safer code changes, test generation, migration planning, traffic replay, and modernization verification.<p>We’re curious to hear your thoughts! especially from anyone who has worked with mainframes, COBOL or has done legacy enterprise modernization.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111143\">https://news.ycombinator.com/item?id=48111143</a></p>\n<p>Points: 81</p>\n<p># Comments: 42</p>",
-    "published": "2026-05-12T17:10:22",
     "source": "Hacker News: Front Page"
   },
   {
@@ -217,13 +287,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The Future of Obsidian Plugins",
-    "link": "https://obsidian.md/blog/future-of-plugins/",
-    "summary": "<p>Article URL: <a href=\"https://obsidian.md/blog/future-of-plugins/\">https://obsidian.md/blog/future-of-plugins/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48109970\">https://news.ycombinator.com/item?id=48109970</a></p>\n<p>Points: 384</p>\n<p># Comments: 146</p>",
-    "published": "2026-05-12T15:45:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
     "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
     "summary": "The latest artificial intelligence models from Anthropic and OpenAI are extending the United States’ lead over China and intensifying the rivalry between the countries.",
@@ -238,31 +301,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why senior developers fail to communicate their expertise",
-    "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "summary": "<p>Article URL: <a href=\"https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise\">https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48109460\">https://news.ycombinator.com/item?id=48109460</a></p>\n<p>Points: 605</p>\n<p># Comments: 265</p>",
-    "published": "2026-05-12T15:08:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bambu Lab is abusing the open source social contract",
-    "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48109224\">https://news.ycombinator.com/item?id=48109224</a></p>\n<p>Points: 1287</p>\n<p># Comments: 400</p>",
-    "published": "2026-05-12T14:54:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Start-Up Raises $1.3 Billion for an A.I. ‘Grid’",
     "link": "https://www.nytimes.com/2026/05/12/technology/amp-startup.html",
     "summary": "As tech giants dominate the hardware needed to build artificial intelligence, Amp hopes to create an alternative.",
     "published": "2026-05-12T14:24:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
-    "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
-    "summary": "The cases seek to use consumer product safety laws to rein in chatbot companies.",
-    "published": "2026-05-12T11:53:54",
     "source": "NYT > Technology"
   },
   {
@@ -305,34 +347,6 @@
     "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
     "summary": "As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off.",
     "published": "2026-05-08T14:18:51",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
-    "link": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
-    "summary": "Gabi, the newest monk at a temple in Seoul that is looking to spread Buddhism, vowed to not overcharge as it seeks enlightenment.",
-    "published": "2026-05-07T09:24:59",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Five Ways A.I. Search Beats an Old-School Google Search",
-    "link": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
-    "summary": "Google’s A.I. search technology is far from perfect (don’t count on it for celebrity news), but it excels at tasks like picking out groceries and detecting scams.",
-    "published": "2026-05-07T09:03:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic’s C.E.O. Says It Could Grow by 80 Times This Year",
-    "link": "https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html",
-    "summary": "The chief executive, Dario Amodei, said the rapid growth had exponentially increased the start-up’s need for more computing power.",
-    "published": "2026-05-07T01:09:53",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
-    "link": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
-    "summary": "Shivon Zilis worked closely with Elon Musk while she was on OpenAI’s board. Her ties to the world’s richest man were detailed in a landmark trial on Wednesday.",
-    "published": "2026-05-06T23:50:25",
     "source": "NYT > Technology"
   }
 ]
