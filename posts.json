@@ -1,5 +1,215 @@
 [
   {
+    "title": "U.S. and China Will Start Discussing A.I. Safety, Bessent Says",
+    "link": "https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html",
+    "summary": "Treasury Secretary Scott Bessent did not say when these talks would happen. There are fears in the United States and China about the threats from A.I., but neither side is willing to slow down its development.",
+    "published": "2026-05-15T06:54:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
+    "link": "https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html",
+    "summary": "The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei, in a drive to reduce China’s dependence on Western technologies.",
+    "published": "2026-05-15T06:50:54",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+    "link": "https://github.com/GlycemicGPT/GlycemicGPT",
+    "summary": "<p>I'm a Type 1 diabetic and software engineer. Last year I went months between endocrinologists with no clinician reviewing my data. I'm an engineer, so I built the tool I needed — and now I'm open sourcing it.\nGlycemicGPT is a self-hosted platform that connects continuous glucose monitors, insulin pumps, and existing Nightscout instances to an AI analysis layer running on your own infrastructure.\nData sources:<p>Dexcom G7 (cloud API)\nTandem t:slim X2 and Mobi pumps (direct BLE)\nNightscout (point it at your existing instance and you're running in minutes)<p>What the AI layer does:<p>Daily briefs summarizing overnight and 24-hour patterns\nMeal response analysis\nConversational chat with RAG-backed clinical knowledge\nPredictive alerting with configurable thresholds and caregiver escalation<p>Important: this is monitoring and analysis only. GlycemicGPT does not deliver insulin, does not control your pump, and is not a closed-loop system. It reads your data and gives you insight on top of it. Your clinical decisions stay between you and your care team.\nArchitecture:<p>Self-hosted via Docker or K8S — the GlycemicGPT stack runs entirely on your hardware\nBYOAI — bring your own AI provider. Use Ollama for fully local operation (no data leaves your hardware), or point it at Claude, OpenAI, or any OpenAI-compatible endpoint if you prefer a hosted model. Data flows directly from your instance to the provider you choose; nothing is routed through any centralized service operated by the project.\nGPL-3.0, no subscriptions, no vendor lock-in<p>Stack:<p>Backend API: FastAPI, Python 3.12, PostgreSQL 16, Redis 7\nWeb Dashboard: Next.js 15, React 19, Tailwind CSS, shadcn/ui\nAI Sidecar: TypeScript, Express, multi-provider proxy\nAndroid App: Kotlin, Jetpack Compose, BLE\nWear OS: Kotlin, Wear Compose, Watch Face Push API\nPlugin SDK: Kotlin interfaces, capability-based, sandboxed<p>Looking for contributors — especially folks with BLE/Android experience or anyone in the diabetes tech space. Plugin SDK is documented if you want to add support for new devices.\nGitHub: <a href=\"https://github.com/GlycemicGPT/GlycemicGPT\" rel=\"nofollow\">https://github.com/GlycemicGPT/GlycemicGPT</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48144670\">https://news.ycombinator.com/item?id=48144670</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+    "published": "2026-05-15T04:48:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Claude Code works in large codebases",
+    "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start\">https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48144494\">https://news.ycombinator.com/item?id=48144494</a></p>\n<p>Points: 162</p>\n<p># Comments: 118</p>",
+    "published": "2026-05-15T04:15:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Solar-based sleep patterns compared to modern norms",
+    "link": "https://dylan.gr/1775146616",
+    "summary": "<p>Article URL: <a href=\"https://dylan.gr/1775146616\">https://dylan.gr/1775146616</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48144490\">https://news.ycombinator.com/item?id=48144490</a></p>\n<p>Points: 65</p>\n<p># Comments: 52</p>",
+    "published": "2026-05-15T04:15:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Coldkey – Post-quantum age key generation and paper backup tool",
+    "link": "https://github.com/pike00/coldkey",
+    "summary": "<p>Article URL: <a href=\"https://github.com/pike00/coldkey\">https://github.com/pike00/coldkey</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48144410\">https://news.ycombinator.com/item?id=48144410</a></p>\n<p>Points: 17</p>\n<p># Comments: 6</p>",
+    "published": "2026-05-15T04:02:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "link": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "summary": "<p>Article URL: <a href=\"https://www.tristandc.com/government/news-2026-05-11-airdrop.php\">https://www.tristandc.com/government/news-2026-05-11-airdrop.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48144380\">https://news.ycombinator.com/item?id=48144380</a></p>\n<p>Points: 130</p>\n<p># Comments: 32</p>",
+    "published": "2026-05-15T03:56:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "reCAPTCHA Mobile Verification Is Bringing the Play Integrity API to Desktops",
+    "link": "https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops",
+    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops\">https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143997\">https://news.ycombinator.com/item?id=48143997</a></p>\n<p>Points: 73</p>\n<p># Comments: 45</p>",
+    "published": "2026-05-15T02:51:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mullvad exit IPs are surprisingly identifying",
+    "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+    "summary": "<p>Article URL: <a href=\"https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\">https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143880\">https://news.ycombinator.com/item?id=48143880</a></p>\n<p>Points: 375</p>\n<p># Comments: 220</p>",
+    "published": "2026-05-15T02:35:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case",
+    "link": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+    "summary": "Lawyers for Elon Musk and OpenAI made their closing arguments in the blockbuster federal trial on Thursday. Nine jurors are set to begin deliberations next week.",
+    "published": "2026-05-15T01:47:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
+    "link": "https://writing.antonleicht.me/p/cut-off",
+    "summary": "<p>Article URL: <a href=\"https://writing.antonleicht.me/p/cut-off\">https://writing.antonleicht.me/p/cut-off</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143284\">https://news.ycombinator.com/item?id=48143284</a></p>\n<p>Points: 151</p>\n<p># Comments: 137</p>",
+    "published": "2026-05-15T01:08:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "UFerris a Versatile Learner Board for Rust Embedded Beginners",
+    "link": "https://www.theembeddedrustacean.com/uferris",
+    "summary": "<p>Article URL: <a href=\"https://www.theembeddedrustacean.com/uferris\">https://www.theembeddedrustacean.com/uferris</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48143256\">https://news.ycombinator.com/item?id=48143256</a></p>\n<p>Points: 20</p>\n<p># Comments: 3</p>",
+    "published": "2026-05-15T01:04:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
+    "link": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+    "summary": "The A.I. company, which is in the middle of a court fight with Elon Musk, has been unhappy with how Apple has integrated ChatGPT into its devices.",
+    "published": "2026-05-15T00:48:15",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "LLM Policy for Rust Compiler",
+    "link": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust-forge/pull/1040\">https://github.com/rust-lang/rust-forge/pull/1040</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142650\">https://news.ycombinator.com/item?id=48142650</a></p>\n<p>Points: 79</p>\n<p># Comments: 44</p>",
+    "published": "2026-05-14T23:37:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "UK government replaces Palantir software with internally-built refugee system",
+    "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+    "summary": "<p><a href=\"https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/\" rel=\"nofollow\">https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-pal...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142251\">https://news.ycombinator.com/item?id=48142251</a></p>\n<p>Points: 186</p>\n<p># Comments: 66</p>",
+    "published": "2026-05-14T22:44:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "More than sixty percent of the United States is experiencing drought conditions",
+    "link": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+    "summary": "<p>Article URL: <a href=\"https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html\">https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142193\">https://news.ycombinator.com/item?id=48142193</a></p>\n<p>Points: 199</p>\n<p># Comments: 76</p>",
+    "published": "2026-05-14T22:38:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771\">https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142188\">https://news.ycombinator.com/item?id=48142188</a></p>\n<p>Points: 233</p>\n<p># Comments: 111</p>",
+    "published": "2026-05-14T22:37:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A few words on DS4",
+    "link": "https://antirez.com/news/165",
+    "summary": "<p>Article URL: <a href=\"https://antirez.com/news/165\">https://antirez.com/news/165</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48142108\">https://news.ycombinator.com/item?id=48142108</a></p>\n<p>Points: 307</p>\n<p># Comments: 116</p>",
+    "published": "2026-05-14T22:29:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What the jury must weigh to decide the case.",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
+    "summary": "",
+    "published": "2026-05-14T22:19:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+    "link": "https://www.openvehicles.com/home",
+    "summary": "<p>Article URL: <a href=\"https://www.openvehicles.com/home\">https://www.openvehicles.com/home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48141732\">https://news.ycombinator.com/item?id=48141732</a></p>\n<p>Points: 78</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-14T21:50:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude for Legal",
+    "link": "https://github.com/anthropics/claude-for-legal",
+    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-for-legal\">https://github.com/anthropics/claude-for-legal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48141234\">https://news.ycombinator.com/item?id=48141234</a></p>\n<p>Points: 92</p>\n<p># Comments: 85</p>",
+    "published": "2026-05-14T21:05:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+    "link": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate\">https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48141191\">https://news.ycombinator.com/item?id=48141191</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-14T21:00:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+    "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+    "summary": "<p>Article URL: <a href=\"https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing\">https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140953\">https://news.ycombinator.com/item?id=48140953</a></p>\n<p>Points: 96</p>\n<p># Comments: 41</p>",
+    "published": "2026-05-14T20:41:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New arXiv policy: 1-year ban for hallucinated references",
+    "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/tdietterich/status/2055000956144935055\">https://twitter.com/tdietterich/status/2055000956144935055</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140922\">https://news.ycombinator.com/item?id=48140922</a></p>\n<p>Points: 491</p>\n<p># Comments: 162</p>",
+    "published": "2026-05-14T20:39:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
+    "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+    "summary": "Cerebras, a Silicon Valley maker of artificial intelligence chips, began trading on the stock market on Thursday, as SpaceX, OpenAI and Anthropic also take steps to go public.",
+    "published": "2026-05-14T20:23:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "RISC-V Router",
+    "link": "https://router.start9.com/",
+    "summary": "<p>Article URL: <a href=\"https://router.start9.com/\">https://router.start9.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48140541\">https://news.ycombinator.com/item?id=48140541</a></p>\n<p>Points: 121</p>\n<p># Comments: 63</p>",
+    "published": "2026-05-14T20:06:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+    "summary": "",
+    "published": "2026-05-14T19:59:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Microsoft’s C.E.O. testified about the company’s OpenAI investments.",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/microsofts-ceo-testified-about-the-companys-openai-investments",
+    "summary": "",
+    "published": "2026-05-14T19:42:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why A.I. Safety Controls Are Not Very Effective",
+    "link": "https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html",
+    "summary": "Three years after the debut of ChatGPT, fooling A.I. systems into bad behavior is almost trivial.",
+    "published": "2026-05-14T17:28:21",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Elon Musk’s lawyer asked Sam Altman on the stand: Are you trustworthy?",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
+    "summary": "",
+    "published": "2026-05-14T15:18:29",
+    "source": "NYT > Technology"
+  },
+  {
     "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
     "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
     "summary": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity",
@@ -21,55 +231,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Rewrite Bun in Rust has been merged",
-    "link": "https://github.com/oven-sh/bun/pull/30412",
-    "summary": "<p>Article URL: <a href=\"https://github.com/oven-sh/bun/pull/30412\">https://github.com/oven-sh/bun/pull/30412</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48132488\">https://news.ycombinator.com/item?id=48132488</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
-    "published": "2026-05-14T08:15:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-    "link": "https://classic7.lol/",
-    "summary": "<p>Article URL: <a href=\"https://classic7.lol/\">https://classic7.lol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48132030\">https://news.ycombinator.com/item?id=48132030</a></p>\n<p>Points: 42</p>\n<p># Comments: 31</p>",
-    "published": "2026-05-14T07:03:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude for Small Business",
-    "link": "https://www.anthropic.com/news/claude-for-small-business",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-for-small-business\">https://www.anthropic.com/news/claude-for-small-business</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130950\">https://news.ycombinator.com/item?id=48130950</a></p>\n<p>Points: 245</p>\n<p># Comments: 177</p>",
-    "published": "2026-05-14T03:59:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Arena AI Model ELO History",
-    "link": "https://mayerwin.github.io/AI-Arena-History/",
-    "summary": "<p>Hi HN,<p>I built a live tracker to visualize the lifecycle and performance changes of flagship AI models.<p>We've all experienced the phenomenon where a flagship model feels amazing at launch, but weeks later, it suddenly feels a bit off. I wanted to see if this was just a feeling or a measurable reality, so I built a dashboard to track historical ELO ratings from Arena AI.<p>Instead of a massive spaghetti chart of every single model variant, the logic plots exactly ONE continuous curve per major AI lab. \nIt dynamically tracks their highest-rated flagship model over time, which makes both the sudden generational jumps and the slow performance decays much easier to see. \nIt took quite a lot of iterations to get the chart to look nice on mobile as well. Optional dark mode included.<p>However, I have a specific data blindspot that I'm hoping this community might have insights on.<p>Arena AI largely relies on testing API endpoints. But as we know, consumer chat UIs often layer on heavy system prompts, safety wrappers, or silently switch to heavily quantized models under high load to save compute. API benchmarks don't fully capture this \"nerfing\" that everyday web users experience.<p>Does anyone know of any historical ELO or evaluation datasets that specifically scrape or test outputs from the consumer web UIs rather than raw APIs?<p>I'd love to integrate that data for a more accurate picture of the consumer experience. The project is open-source (repo link in the footer), so I'd appreciate any feedback, or pointers to datasets!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130711\">https://news.ycombinator.com/item?id=48130711</a></p>\n<p>Points: 59</p>\n<p># Comments: 42</p>",
-    "published": "2026-05-14T03:19:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-    "link": "https://github.com/DrCatHicks/learning-opportunities",
-    "summary": "<p>Article URL: <a href=\"https://github.com/DrCatHicks/learning-opportunities\">https://github.com/DrCatHicks/learning-opportunities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130679\">https://news.ycombinator.com/item?id=48130679</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
-    "published": "2026-05-14T03:13:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microsoft BitLocker – YellowKey zero-day exploit",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor\">https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130519\">https://news.ycombinator.com/item?id=48130519</a></p>\n<p>Points: 156</p>\n<p># Comments: 88</p>",
-    "published": "2026-05-14T02:45:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Nibble",
-    "link": "https://github.com/glouw/nibble",
-    "summary": "<p>An attempt at a single pass LLVM frontend in ~3000 lines of C without external dependencies, malloc, or an AST. Included are some graphical examples. The IR isn't perfect, and the README touches on one particular downfall</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130186\">https://news.ycombinator.com/item?id=48130186</a></p>\n<p>Points: 59</p>\n<p># Comments: 7</p>",
-    "published": "2026-05-14T01:46:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
     "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
     "summary": "The cases seek to use consumer product safety laws to rein in chatbot companies.",
@@ -77,39 +238,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Cisco workforce reductions",
-    "link": "https://blogs.cisco.com/news/our-path-forward",
-    "summary": "<p>Article URL: <a href=\"https://blogs.cisco.com/news/our-path-forward\">https://blogs.cisco.com/news/our-path-forward</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48130123\">https://news.ycombinator.com/item?id=48130123</a></p>\n<p>Points: 198</p>\n<p># Comments: 192</p>",
-    "published": "2026-05-14T01:38:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "delta time",
-    "link": "https://www.deltatime.life/",
-    "summary": "<p>Article URL: <a href=\"https://www.deltatime.life/\">https://www.deltatime.life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48129953\">https://news.ycombinator.com/item?id=48129953</a></p>\n<p>Points: 51</p>\n<p># Comments: 30</p>",
-    "published": "2026-05-14T01:15:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Avoiding and reducing microplastic false positives from dry glove contact",
-    "link": "https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c",
-    "summary": "<p>Article URL: <a href=\"https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c\">https://pubs.rsc.org/en/content/articlelanding/2026/ay/d5ay01801c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48129934\">https://news.ycombinator.com/item?id=48129934</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
-    "published": "2026-05-14T01:13:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
     "link": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
     "summary": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
-    "published": "2026-05-14T00:42:03",
+    "published": "2026-05-14T00:42:04",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Scorched Earth 2000 – Web",
-    "link": "http://www.scorch2000.com/web/",
-    "summary": "<p>Article URL: <a href=\"http://www.scorch2000.com/web/\">http://www.scorch2000.com/web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48129694\">https://news.ycombinator.com/item?id=48129694</a></p>\n<p>Points: 254</p>\n<p># Comments: 99</p>",
-    "published": "2026-05-14T00:41:29",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
@@ -126,25 +259,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-    "link": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
-    "summary": "<p>Article URL: <a href=\"https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent\">https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48126848\">https://news.ycombinator.com/item?id=48126848</a></p>\n<p>Points: 328</p>\n<p># Comments: 480</p>",
-    "published": "2026-05-13T20:12:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
     "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
     "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
-    "published": "2026-05-13T18:48:13",
+    "published": "2026-05-13T18:48:14",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-    "link": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-    "summary": "<p>Article URL: <a href=\"https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/\">https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48125617\">https://news.ycombinator.com/item?id=48125617</a></p>\n<p>Points: 217</p>\n<p># Comments: 234</p>",
-    "published": "2026-05-13T18:30:51",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
@@ -161,34 +280,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-    "link": "https://www.tryardent.com/",
-    "summary": "<p>Hey HN! We’re Vikram and Evan from Ardent (<a href=\"https://tryardent.com\">https://tryardent.com</a>). We're building database sandboxes for you and your coding agents.<p>In the last two years coding agents have gotten dramatically more capable at handling complex engineering tasks. But without access to a realistic sandbox at the DB layer for testing, they ship garbage that can take down production databases. I spent over a year building an AI Data Engineer that failed for this exact reason. Evan spent the last 12 years in data engineering and hit this wall building agents at his last company.<p>Ardent was built to make it possible for coding agents to get near instant access to production-like sandboxes so they can test their work. To do this we write a replication stream out of the target DB, scaling with kafka onto a read replica with copy on write enabled and autoscaling compute (we currently prefer neon as a primary branching engine due to their implementation of these properties).<p>Our replication stream uses logical replication + ddl triggers to enable usage on any hosted postgres DB since most platforms do not allow physical replication which is traditionally used for creating replicas.<p>This provides a few primary benefits:<p>1. Does not require a platform migration to a DB provider like neon, allowing strong separation of production and development concerns.\n2. Minimal impact on the production database while allowing clones to spin up in <6s, even at TB scale with copy-on-write<p>Security matters a lot with cloning production so we run a proxy layer to generate custom postgres URLs and route all connections to allow more granular access control to clones, prevent credential leak, and follow a split plane architecture to allow full data residency on your cloud through BYOC.<p>We also support anonymization through the ability to register SQL that runs on branches before they are returned. This has been used for PII redaction and branch modification.<p>Our goal is to make every data infrastructure platform “cloneable” in one place so agents can fully test the impact of their changes on production like data environments without risk.<p>Here's a demo of it: <a href=\"https://youtu.be/5S1kwPtiRU0\" rel=\"nofollow\">https://youtu.be/5S1kwPtiRU0</a><p>We’d love to understand how you work with coding agents on the DB and if you try Ardent (it's free to get started) what worked, what broke and what’s missing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48124436\">https://news.ycombinator.com/item?id=48124436</a></p>\n<p>Points: 85</p>\n<p># Comments: 34</p>",
-    "published": "2026-05-13T16:54:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Setting up a free *.city.state.us locality domain (2025)",
-    "link": "https://fredchan.org/blog/locality-domains-guide/",
-    "summary": "<p>Article URL: <a href=\"https://fredchan.org/blog/locality-domains-guide/\">https://fredchan.org/blog/locality-domains-guide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48122635\">https://news.ycombinator.com/item?id=48122635</a></p>\n<p>Points: 559</p>\n<p># Comments: 173</p>",
-    "published": "2026-05-13T14:45:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The US is winning the AI race where it matters most: commercialization",
-    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "summary": "<p>Article URL: <a href=\"https://avkcode.github.io/blog/us-winning-ai-race.html\">https://avkcode.github.io/blog/us-winning-ai-race.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121929\">https://news.ycombinator.com/item?id=48121929</a></p>\n<p>Points: 199</p>\n<p># Comments: 546</p>",
-    "published": "2026-05-13T13:53:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
-    "link": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager\">https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120776\">https://news.ycombinator.com/item?id=48120776</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-13T12:00:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Tired of Hacked Passwords? Help Is on the Way.",
     "link": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
     "summary": "Apps from Apple, Google and others can assist in making your online accounts more secure, even as new ways of logging in continue to take off.",
@@ -201,13 +292,6 @@
     "summary": "“If you think there’s a lot of money in politics now,” Marc Andreessen said in 2000, “you haven’t seen anything yet.” His firm is now the biggest known spender on this campaign cycle.",
     "published": "2026-05-13T09:01:05",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "The Emacsification of Software",
-    "link": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-    "summary": "<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/05/12/emacsification/\">https://sockpuppet.org/blog/2026/05/12/emacsification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48118727\">https://news.ycombinator.com/item?id=48118727</a></p>\n<p>Points: 301</p>\n<p># Comments: 198</p>",
-    "published": "2026-05-13T07:06:14",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
@@ -238,13 +322,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Twin brothers wipe 96 government databases minutes after being fired",
-    "link": "https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/\">https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48115438\">https://news.ycombinator.com/item?id=48115438</a></p>\n<p>Points: 427</p>\n<p># Comments: 334</p>",
-    "published": "2026-05-12T22:28:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Here’s the latest.",
     "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
     "summary": "",
@@ -253,17 +330,10 @@
   },
   {
     "title": "Sam Altman has been targeted in a backlash against A.I.",
-    "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/sam-altman-has-been-targeted-in-a-backlash-against-ai",
+    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/sam-altman-has-been-targeted-in-a-backlash-against-ai",
     "summary": "",
-    "published": "2026-05-12T19:00:44",
+    "published": "2026-05-12T19:00:45",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "link": "https://github.com/cactus-compute/needle",
-    "summary": "<p>Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.<p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.<p>Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-shot function calling for consumer devices (phones, watches, glasses...).<p>Training:\n- Pretrained on 200B tokens across 16 TPU v6e (27 hours)\n- Post-trained on 2B tokens of synthesized function-calling data (45 minutes)\n- Dataset synthesized via Gemini with 15 tool categories (timers, messaging, navigation, smart home, etc.)<p>You can test it right now and finetune on your Mac/PC: <a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a><p>The full writeup on the architecture is here: <a href=\"https://github.com/cactus-compute/needle/blob/main/docs/simple_attention_networks.md\" rel=\"nofollow\">https://github.com/cactus-compute/needle/blob/main/docs/simp...</a><p>We found that the \"no FFN\" finding generalizes beyond function calling to any task where the model has access to external structured knowledge (RAG, tool use, retrieval-augmented generation). The model doesn't need to memorize facts in FFN weights if the facts are provided in the input. Experimental results to published.<p>While it beats FunctionGemma-270M, Qwen-0.6B, Granite-350M, LFM2.5-350M on single-shot function calling, those models have more scope/capacity and excel in conversational settings. We encourage you to test on your own tools via the playground and finetune accordingly.<p>This is part of our broader work on Cactus (<a href=\"https://github.com/cactus-compute/cactus\" rel=\"nofollow\">https://github.com/cactus-compute/cactus</a>), an inference engine built from scratch for mobile, wearables and custom hardware. We wrote about Cactus here previously: <a href=\"https://news.ycombinator.com/item?id=44524544\">https://news.ycombinator.com/item?id=44524544</a><p>Everything is MIT licensed. Weights: <a href=\"https://huggingface.co/Cactus-Compute/needle\" rel=\"nofollow\">https://huggingface.co/Cactus-Compute/needle</a>\nGitHub: <a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48111896\">https://news.ycombinator.com/item?id=48111896</a></p>\n<p>Points: 675</p>\n<p># Comments: 188</p>",
-    "published": "2026-05-12T18:03:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "This is Sam Altman’s first time testifying in court.",
@@ -333,13 +403,6 @@
     "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
     "summary": "The company said that it had identified, for the first time, hackers using artificial intelligence to discover an unknown bug. The attempted attack represents “a taste of what’s to come,” one expert said.",
     "published": "2026-05-11T13:00:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Hopelessness of ‘The Audacity’",
-    "link": "https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html",
-    "summary": "In AMC’s merciless satire, the tech lords are extracting all they can from the business (and us) before everything goes to hell.",
-    "published": "2026-05-08T14:53:26",
     "source": "NYT > Technology"
   },
   {
