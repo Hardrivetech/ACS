@@ -1,111 +1,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-05-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html</loc>
+    <lastmod>2026-05-16T09:01:49</lastmod>
+  </url>
+  <url>
+    <loc>https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/</loc>
+    <lastmod>2026-05-16T08:30:51</lastmod>
+  </url>
+  <url>
+    <loc>https://kabir.au/blog/the-ctf-scene-is-dead</loc>
+    <lastmod>2026-05-16T07:01:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html</loc>
+    <lastmod>2026-05-16T00:33:56</lastmod>
+  </url>
+  <url>
+    <loc>https://ljtn.github.io/epiq/</loc>
+    <lastmod>2026-05-16T00:18:03</lastmod>
+  </url>
+  <url>
+    <loc>https://dynomight.net/p2p-meth/</loc>
+    <lastmod>2026-05-15T23:37:32</lastmod>
+  </url>
+  <url>
+    <loc>https://www.erlang.org/news/188</loc>
+    <lastmod>2026-05-15T23:33:32</lastmod>
+  </url>
+  <url>
+    <loc>https://analytics.fixelsmith.com/posts/sql-fraud-patterns/</loc>
+    <lastmod>2026-05-15T23:22:30</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/chiennv2000/orthrus</loc>
+    <lastmod>2026-05-15T22:38:58</lastmod>
+  </url>
+  <url>
+    <loc>https://www.vldb.org/pvldb/vol19/p1469-lee.pdf</loc>
+    <lastmod>2026-05-15T22:23:38</lastmod>
+  </url>
+  <url>
+    <loc>https://twitter.com/mitchellh/status/2055380239711457578</loc>
+    <lastmod>2026-05-15T20:26:47</lastmod>
+  </url>
+  <url>
+    <loc>https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/</loc>
+    <lastmod>2026-05-15T19:48:48</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html</loc>
+    <lastmod>2026-05-15T19:15:47</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/</loc>
+    <lastmod>2026-05-15T18:37:01</lastmod>
+  </url>
+  <url>
+    <loc>https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</loc>
+    <lastmod>2026-05-15T17:28:24</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/gdevic/FPGA-Calculator</loc>
+    <lastmod>2026-05-15T17:15:58</lastmod>
+  </url>
+  <url>
+    <loc>https://hightouch.com/careers</loc>
+    <lastmod>2026-05-15T17:01:15</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/oven-sh/bun/issues/30719</loc>
+    <lastmod>2026-05-15T16:51:25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.gutenberg.org/</loc>
+    <lastmod>2026-05-15T16:15:36</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/neilsonnn/image-blaster</loc>
+    <lastmod>2026-05-15T15:42:37</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html</loc>
+    <lastmod>2026-05-15T15:21:26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html</loc>
+    <lastmod>2026-05-15T15:20:34</lastmod>
+  </url>
+  <url>
+    <loc>https://phoboslab.org/log/2026/05/n64-additive-blending</loc>
+    <lastmod>2026-05-15T14:39:51</lastmod>
+  </url>
+  <url>
+    <loc>https://ascii.textfiles.com/</loc>
+    <lastmod>2026-05-15T14:02:36</lastmod>
+  </url>
+  <url>
+    <loc>https://projectzero.google/2026/05/pixel-10-exploit.html</loc>
+    <lastmod>2026-05-15T13:39:54</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html</loc>
+    <lastmod>2026-05-15T12:12:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html</loc>
+    <lastmod>2026-05-15T11:00:06</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/14/world/asia/china-us-ai-safety.html</loc>
     <lastmod>2026-05-15T06:54:12</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html</loc>
-    <lastmod>2026-05-15T06:50:54</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/GlycemicGPT/GlycemicGPT</loc>
-    <lastmod>2026-05-15T04:48:23</lastmod>
-  </url>
-  <url>
-    <loc>https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start</loc>
-    <lastmod>2026-05-15T04:15:31</lastmod>
-  </url>
-  <url>
-    <loc>https://dylan.gr/1775146616</loc>
-    <lastmod>2026-05-15T04:15:24</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/pike00/coldkey</loc>
-    <lastmod>2026-05-15T04:02:09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.tristandc.com/government/news-2026-05-11-airdrop.php</loc>
-    <lastmod>2026-05-15T03:56:14</lastmod>
-  </url>
-  <url>
-    <loc>https://discuss.grapheneos.org/d/35428-recaptcha-mobile-verification-is-bringing-the-play-integrity-api-to-desktops</loc>
-    <lastmod>2026-05-15T02:51:41</lastmod>
-  </url>
-  <url>
-    <loc>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</loc>
-    <lastmod>2026-05-15T02:35:35</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html</loc>
     <lastmod>2026-05-15T01:47:03</lastmod>
   </url>
   <url>
-    <loc>https://writing.antonleicht.me/p/cut-off</loc>
-    <lastmod>2026-05-15T01:08:04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.theembeddedrustacean.com/uferris</loc>
-    <lastmod>2026-05-15T01:04:13</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html</loc>
-    <lastmod>2026-05-15T00:48:15</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/rust-lang/rust-forge/pull/1040</loc>
-    <lastmod>2026-05-14T23:37:21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/c2l2j1lxdk5o</loc>
-    <lastmod>2026-05-14T22:44:16</lastmod>
-  </url>
-  <url>
-    <loc>https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html</loc>
-    <lastmod>2026-05-14T22:38:18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771</loc>
-    <lastmod>2026-05-14T22:37:40</lastmod>
-  </url>
-  <url>
-    <loc>https://antirez.com/news/165</loc>
-    <lastmod>2026-05-14T22:29:12</lastmod>
+    <lastmod>2026-05-15T00:48:16</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case</loc>
     <lastmod>2026-05-14T22:19:42</lastmod>
   </url>
   <url>
-    <loc>https://www.openvehicles.com/home</loc>
-    <lastmod>2026-05-14T21:50:17</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/anthropics/claude-for-legal</loc>
-    <lastmod>2026-05-14T21:05:05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate</loc>
-    <lastmod>2026-05-14T21:00:37</lastmod>
-  </url>
-  <url>
-    <loc>https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing</loc>
-    <lastmod>2026-05-14T20:41:48</lastmod>
-  </url>
-  <url>
-    <loc>https://twitter.com/tdietterich/status/2055000956144935055</loc>
-    <lastmod>2026-05-14T20:39:12</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html</loc>
     <lastmod>2026-05-14T20:23:32</lastmod>
-  </url>
-  <url>
-    <loc>https://router.start9.com/</loc>
-    <lastmod>2026-05-14T20:06:53</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/heres-the-latest</loc>
@@ -124,10 +148,6 @@
     <lastmod>2026-05-14T15:18:29</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html</loc>
-    <lastmod>2026-05-14T09:04:10</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html</loc>
     <lastmod>2026-05-14T09:02:52</lastmod>
   </url>
@@ -138,10 +158,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html</loc>
     <lastmod>2026-05-14T01:44:59</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html</loc>
-    <lastmod>2026-05-14T00:42:04</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html</loc>
@@ -204,10 +220,6 @@
     <lastmod>2026-05-12T16:01:26</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html</loc>
-    <lastmod>2026-05-12T16:00:44</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html</loc>
     <lastmod>2026-05-12T15:36:08</lastmod>
   </url>
@@ -228,15 +240,7 @@
     <lastmod>2026-05-11T18:22:09</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html</loc>
-    <lastmod>2026-05-11T16:17:26</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html</loc>
     <lastmod>2026-05-11T13:00:07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html</loc>
-    <lastmod>2026-05-08T14:18:51</lastmod>
   </url>
 </urlset>
