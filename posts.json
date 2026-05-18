@@ -1,65 +1,121 @@
 [
   {
-    "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-    "link": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-    "summary": "<p>Article URL: <a href=\"https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\">https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166920\">https://news.ycombinator.com/item?id=48166920</a></p>\n<p>Points: 28</p>\n<p># Comments: 2</p>",
-    "published": "2026-05-17T08:00:04",
+    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
+    "summary": "<p>Article URL: <a href=\"http://www.csl.sri.com/users/neumann/psos.pdf\">http://www.csl.sri.com/users/neumann/psos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48177300\">https://news.ycombinator.com/item?id=48177300</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+    "published": "2026-05-18T09:40:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-    "summary": "<p>Article URL: <a href=\"https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\">https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166459\">https://news.ycombinator.com/item?id=48166459</a></p>\n<p>Points: 159</p>\n<p># Comments: 39</p>",
-    "published": "2026-05-17T06:17:26",
+    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+    "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518\">https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48177107\">https://news.ycombinator.com/item?id=48177107</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p>",
+    "published": "2026-05-18T09:12:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Hosting a website on an 8-bit microcontroller",
-    "link": "https://maurycyz.com/projects/mcusite/",
-    "summary": "<p>Article URL: <a href=\"https://maurycyz.com/projects/mcusite/\">https://maurycyz.com/projects/mcusite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48165295\">https://news.ycombinator.com/item?id=48165295</a></p>\n<p>Points: 124</p>\n<p># Comments: 11</p>",
-    "published": "2026-05-17T01:25:26",
+    "title": "Germany goes from labour shortages to hiring freezes",
+    "link": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
+    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126\">https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48177086\">https://news.ycombinator.com/item?id=48177086</a></p>\n<p>Points: 27</p>\n<p># Comments: 14</p>",
+    "published": "2026-05-18T09:08:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Self-Distillation Enables Continual Learning [pdf]",
-    "link": "https://arxiv.org/abs/2601.19897",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2601.19897\">https://arxiv.org/abs/2601.19897</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48165265\">https://news.ycombinator.com/item?id=48165265</a></p>\n<p>Points: 61</p>\n<p># Comments: 16</p>",
-    "published": "2026-05-17T01:19:14",
+    "title": "Why is Google Maps back to showing old satellite images of Altadena?",
+    "link": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/pasadena/s/94BHlkE84r\">https://www.reddit.com/r/pasadena/s/94BHlkE84r</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48176762\">https://news.ycombinator.com/item?id=48176762</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+    "published": "2026-05-18T08:19:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A nicer voltmeter clock",
-    "link": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-    "summary": "<p>Article URL: <a href=\"https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\">https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48164432\">https://news.ycombinator.com/item?id=48164432</a></p>\n<p>Points: 173</p>\n<p># Comments: 24</p>",
-    "published": "2026-05-16T22:45:16",
+    "title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "summary": "<p>Article URL: <a href=\"https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\">https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48175140\">https://news.ycombinator.com/item?id=48175140</a></p>\n<p>Points: 93</p>\n<p># Comments: 227</p>",
+    "published": "2026-05-18T02:59:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "MCP Hello Page",
-    "link": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-    "summary": "<p>Article URL: <a href=\"https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\">https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48164294\">https://news.ycombinator.com/item?id=48164294</a></p>\n<p>Points: 95</p>\n<p># Comments: 31</p>",
-    "published": "2026-05-16T22:25:33",
+    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+    "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+    "summary": "<p>Article URL: <a href=\"https://hellmood.111mb.de//wake_up_16b_writeup.html\">https://hellmood.111mb.de//wake_up_16b_writeup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173962\">https://news.ycombinator.com/item?id=48173962</a></p>\n<p>Points: 145</p>\n<p># Comments: 31</p>",
+    "published": "2026-05-17T23:10:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "link": "https://crates.io/crates/zerostack/1.0.0",
-    "summary": "<p>Article URL: <a href=\"https://crates.io/crates/zerostack/1.0.0\">https://crates.io/crates/zerostack/1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48164287\">https://news.ycombinator.com/item?id=48164287</a></p>\n<p>Points: 384</p>\n<p># Comments: 157</p>",
-    "published": "2026-05-16T22:23:50",
+    "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
+    "link": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
+    "summary": "For decades, he criticized the industry’s lax attitudes toward both computer security and individual digital privacy. And he developed solutions.",
+    "published": "2026-05-17T22:38:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "summary": "<p>Article URL: <a href=\"https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\">https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173468\">https://news.ycombinator.com/item?id=48173468</a></p>\n<p>Points: 197</p>\n<p># Comments: 197</p>",
+    "published": "2026-05-17T21:45:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-    "link": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-    "summary": "<p>Article URL: <a href=\"https://publicdomainreview.org/essay/twilight-of-the-velocipede/\">https://publicdomainreview.org/essay/twilight-of-the-velocipede/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48163956\">https://news.ycombinator.com/item?id=48163956</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-16T21:25:07",
+    "title": "GenCAD",
+    "link": "https://gencad.github.io/",
+    "summary": "<p>Article URL: <a href=\"https://gencad.github.io/\">https://gencad.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173429\">https://news.ycombinator.com/item?id=48173429</a></p>\n<p>Points: 329</p>\n<p># Comments: 83</p>",
+    "published": "2026-05-17T21:40:35",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/malta-chatgpt-plus-partnership/\">https://openai.com/index/malta-chatgpt-plus-partnership/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48163392\">https://news.ycombinator.com/item?id=48163392</a></p>\n<p>Points: 185</p>\n<p># Comments: 201</p>",
-    "published": "2026-05-16T20:14:06",
+    "title": "Prolog Coding Horror",
+    "link": "https://www.metalevel.at/prolog/horror",
+    "summary": "<p>Article URL: <a href=\"https://www.metalevel.at/prolog/horror\">https://www.metalevel.at/prolog/horror</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173268\">https://news.ycombinator.com/item?id=48173268</a></p>\n<p>Points: 142</p>\n<p># Comments: 60</p>",
+    "published": "2026-05-17T21:15:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "link": "https://github.com/MinishLab/semble",
+    "summary": "<p>Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It combines static Model2Vec embeddings (using our latest static model: potion-code-16M) with BM25, fused via RRF and reranked with code-aware signals. Everything runs on CPU since there's no transformers involved. On our benchmark of ~1250 query/document pairs across 63 repos and 19 languages, it uses 98% fewer tokens than grep+read and reaches 99% of the retrieval quality of a 137M-parameter code-trained transformer, while being ~200x faster.<p>Main features:<p>- Token-efficient: 98% fewer tokens than grep+read<p>- Fast: ~250ms to index a typical repo on our benchmark, ~1.5ms per query on CPU (very large repos may take longer)<p>- Accurate: 0.854 NDCG@10, 99% of the best transformer setup we tested<p>- MCP server: drop-in for Claude Code, Cursor, Codex, OpenCode<p>- Zero config: no API keys, no GPU, no external services<p>Install in Claude Code with:\nclaude mcp add semble -s user -- uvx --from \"semble[mcp]\" semble<p>Or check our README for other installation instructions, benchmarks, and methodology:<p>Semble: <a href=\"https://github.com/MinishLab/semble\" rel=\"nofollow\">https://github.com/MinishLab/semble</a><p>Benchmarks: <a href=\"https://github.com/MinishLab/semble/tree/main/benchmarks\" rel=\"nofollow\">https://github.com/MinishLab/semble/tree/main/benchmarks</a><p>Model: <a href=\"https://huggingface.co/minishlab/potion-code-16M\" rel=\"nofollow\">https://huggingface.co/minishlab/potion-code-16M</a><p>Let us know if you have any feedback or questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48169874\">https://news.ycombinator.com/item?id=48169874</a></p>\n<p>Points: 336</p>\n<p># Comments: 112</p>",
+    "published": "2026-05-17T15:37:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "link": "https://github.com/tech4bot/rk3562deb",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tech4bot/rk3562deb\">https://github.com/tech4bot/rk3562deb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168668\">https://news.ycombinator.com/item?id=48168668</a></p>\n<p>Points: 371</p>\n<p># Comments: 171</p>",
+    "published": "2026-05-17T13:16:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CUDA Books",
+    "link": "https://github.com/alternbits/awesome-cuda-books",
+    "summary": "<p>Article URL: <a href=\"https://github.com/alternbits/awesome-cuda-books\">https://github.com/alternbits/awesome-cuda-books</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168485\">https://news.ycombinator.com/item?id=48168485</a></p>\n<p>Points: 198</p>\n<p># Comments: 48</p>",
+    "published": "2026-05-17T12:52:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I don't think AI will make your processes go faster",
+    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "summary": "<p>Article URL: <a href=\"https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\">https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168221\">https://news.ycombinator.com/item?id=48168221</a></p>\n<p>Points: 598</p>\n<p># Comments: 408</p>",
+    "published": "2026-05-17T12:13:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+    "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd\">https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168159\">https://news.ycombinator.com/item?id=48168159</a></p>\n<p>Points: 97</p>\n<p># Comments: 105</p>",
+    "published": "2026-05-17T12:03:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "kharp – k version 3 Language Interpreter in C#",
+    "link": "https://github.com/ERufian/ksharp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ERufian/ksharp\">https://github.com/ERufian/ksharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166856\">https://news.ycombinator.com/item?id=48166856</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
+    "published": "2026-05-17T07:44:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tesla Solar Roof is on life support as it pivot to panels",
+    "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+    "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\">https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48165980\">https://news.ycombinator.com/item?id=48165980</a></p>\n<p>Points: 265</p>\n<p># Comments: 267</p>",
+    "published": "2026-05-17T04:09:52",
     "source": "Hacker News: Front Page"
   },
   {
@@ -70,24 +126,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Halt and Catch Fire",
-    "link": "https://unstack.io/halt-and-catch-fire",
-    "summary": "<p>Article URL: <a href=\"https://unstack.io/halt-and-catch-fire\">https://unstack.io/halt-and-catch-fire</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48162468\">https://news.ycombinator.com/item?id=48162468</a></p>\n<p>Points: 138</p>\n<p># Comments: 71</p>",
-    "published": "2026-05-16T18:16:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-    "link": "https://tangled.org/rocksky.app/rocksky",
-    "summary": "<p>Article URL: <a href=\"https://tangled.org/rocksky.app/rocksky\">https://tangled.org/rocksky.app/rocksky</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48161881\">https://news.ycombinator.com/item?id=48161881</a></p>\n<p>Points: 77</p>\n<p># Comments: 33</p>",
-    "published": "2026-05-16T17:00:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-    "link": "https://nvlabs.github.io/Sana/WM/",
-    "summary": "<p>Article URL: <a href=\"https://nvlabs.github.io/Sana/WM/\">https://nvlabs.github.io/Sana/WM/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159445\">https://news.ycombinator.com/item?id=48159445</a></p>\n<p>Points: 337</p>\n<p># Comments: 135</p>",
-    "published": "2026-05-16T12:06:21",
+    "title": "Profunctor Equipment in Haskell",
+    "link": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
+    "summary": "<p>Article URL: <a href=\"https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/\">https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48160964\">https://news.ycombinator.com/item?id=48160964</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+    "published": "2026-05-16T15:18:23",
     "source": "Hacker News: Front Page"
   },
   {
@@ -98,45 +140,17 @@
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Greek Alphabet Cards",
-    "link": "https://labs.randomquark.com/alphabet_cards/",
-    "summary": "<p>Article URL: <a href=\"https://labs.randomquark.com/alphabet_cards/\">https://labs.randomquark.com/alphabet_cards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159354\">https://news.ycombinator.com/item?id=48159354</a></p>\n<p>Points: 126</p>\n<p># Comments: 56</p>",
-    "published": "2026-05-16T11:53:09",
+    "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
+    "link": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
+    "summary": "<p>Article URL: <a href=\"https://sites.math.rutgers.edu/~zeilberg/Opinion82.html\">https://sites.math.rutgers.edu/~zeilberg/Opinion82.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48157229\">https://news.ycombinator.com/item?id=48157229</a></p>\n<p>Points: 61</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-16T05:56:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Accelerando (2005)",
-    "link": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-    "summary": "<p>Article URL: <a href=\"https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html\">https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159241\">https://news.ycombinator.com/item?id=48159241</a></p>\n<p>Points: 286</p>\n<p># Comments: 165</p>",
-    "published": "2026-05-16T11:36:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "δ-mem: Efficient Online Memory for Large Language Models",
-    "link": "https://arxiv.org/abs/2605.12357",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.12357\">https://arxiv.org/abs/2605.12357</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48158506\">https://news.ycombinator.com/item?id=48158506</a></p>\n<p>Points: 213</p>\n<p># Comments: 57</p>",
-    "published": "2026-05-16T09:30:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
-    "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "summary": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/\">https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48158400\">https://news.ycombinator.com/item?id=48158400</a></p>\n<p>Points: 535</p>\n<p># Comments: 314</p>",
-    "published": "2026-05-16T09:14:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We've made the world too complicated",
-    "link": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-    "summary": "<p>Article URL: <a href=\"https://user8.bearblog.dev/the-world-is-too-complicated/\">https://user8.bearblog.dev/the-world-is-too-complicated/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48158065\">https://news.ycombinator.com/item?id=48158065</a></p>\n<p>Points: 291</p>\n<p># Comments: 265</p>",
-    "published": "2026-05-16T08:25:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Frontier AI has broken the open CTF format",
-    "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "summary": "<p>Article URL: <a href=\"https://kabir.au/blog/the-ctf-scene-is-dead\">https://kabir.au/blog/the-ctf-scene-is-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48157559\">https://news.ycombinator.com/item?id=48157559</a></p>\n<p>Points: 377</p>\n<p># Comments: 381</p>",
-    "published": "2026-05-16T07:01:55",
+    "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
+    "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
+    "summary": "<p>Article URL: <a href=\"https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later\">https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48155936\">https://news.ycombinator.com/item?id=48155936</a></p>\n<p>Points: 118</p>\n<p># Comments: 49</p>",
+    "published": "2026-05-16T01:25:29",
     "source": "Hacker News: Front Page"
   },
   {
@@ -145,13 +159,6 @@
     "summary": "The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms.",
     "published": "2026-05-16T00:33:56",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "summary": "<p><a href=\"https://xcancel.com/mitchellh/status/2055380239711457578\" rel=\"nofollow\">https://xcancel.com/mitchellh/status/2055380239711457578</a><p><a href=\"https://hachyderm.io/@mitchellh/116580433508108130\" rel=\"nofollow\">https://hachyderm.io/@mitchellh/116580433508108130</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48153379\">https://news.ycombinator.com/item?id=48153379</a></p>\n<p>Points: 1956</p>\n<p># Comments: 1144</p>",
-    "published": "2026-05-15T20:26:47",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
@@ -213,7 +220,7 @@
     "title": "What the jury must weigh to decide the case.",
     "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
     "summary": "",
-    "published": "2026-05-14T22:19:42",
+    "published": "2026-05-14T22:19:43",
     "source": "NYT > Technology"
   },
   {
