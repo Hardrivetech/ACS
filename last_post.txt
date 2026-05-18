@@ -1,1 +1,1 @@
-Playing Atari ST Music on the Amiga with Zero CPU https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/
+The foundations of a provably secure operating system (PSOS) (1979) [pdf] http://www.csl.sri.com/users/neumann/psos.pdf
