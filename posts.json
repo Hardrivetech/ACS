@@ -1,156 +1,233 @@
 [
   {
-    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-    "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
-    "summary": "<p>Article URL: <a href=\"http://www.csl.sri.com/users/neumann/psos.pdf\">http://www.csl.sri.com/users/neumann/psos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48177300\">https://news.ycombinator.com/item?id=48177300</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-18T09:40:51",
+    "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
+    "link": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
+    "summary": "A jury’s rejection of Elon Musk’s $150 billion lawsuit against OpenAI was a major hurdle crossed. But the maker of ChatGPT faces a list of other problems.",
+    "published": "2026-05-19T09:03:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Bipartisan Bill Would Impose New Annual Fee on Electric Vehicles",
+    "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/electrc-vehicles-annual-fee-congress.html",
+    "summary": "A House transportation bill introduced this week would require owners of electric cars to pay $130 to cover the cost of road repairs.",
+    "published": "2026-05-19T09:02:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "link": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "summary": "<p>Article URL: <a href=\"https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\">https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48189368\">https://news.ycombinator.com/item?id=48189368</a></p>\n<p>Points: 95</p>\n<p># Comments: 48</p>",
+    "published": "2026-05-19T05:04:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-    "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
-    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518\">https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48177107\">https://news.ycombinator.com/item?id=48177107</a></p>\n<p>Points: 30</p>\n<p># Comments: 4</p>",
-    "published": "2026-05-18T09:12:10",
+    "title": "PyTorch Landscape",
+    "link": "https://pytorch.landscape2.io",
+    "summary": "<p>Article URL: <a href=\"https://pytorch.landscape2.io\">https://pytorch.landscape2.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48189178\">https://news.ycombinator.com/item?id=48189178</a></p>\n<p>Points: 45</p>\n<p># Comments: 8</p>",
+    "published": "2026-05-19T04:29:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Germany goes from labour shortages to hiring freezes",
-    "link": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
-    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126\">https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48177086\">https://news.ycombinator.com/item?id=48177086</a></p>\n<p>Points: 27</p>\n<p># Comments: 14</p>",
-    "published": "2026-05-18T09:08:04",
+    "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+    "link": "https://github.com/harmont-dev/hsrs",
+    "summary": "<p>Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.<p>I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generator already existed, hence I decided to write my own. hsrs feels very similar to pyo3 and napi-rs, and if you've used those, hsrs will feel right at home.<p>What's unique about hsrs as opposed to hs-bindgen is that it has type-safe bindings for rich types, like Result, Maybe, etc. while also generating Haskell bindings. The repo contains a minimal example, and more details are available in the haskell discourse: <a href=\"https://discourse.haskell.org/t/ann-hsrs-ergonomic-haskell-bindings-for-rust/14129\" rel=\"nofollow\">https://discourse.haskell.org/t/ann-hsrs-ergonomic-haskell-b...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48189044\">https://news.ycombinator.com/item?id=48189044</a></p>\n<p>Points: 31</p>\n<p># Comments: 2</p>",
+    "published": "2026-05-19T04:06:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Why is Google Maps back to showing old satellite images of Altadena?",
-    "link": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
-    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/pasadena/s/94BHlkE84r\">https://www.reddit.com/r/pasadena/s/94BHlkE84r</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48176762\">https://news.ycombinator.com/item?id=48176762</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
-    "published": "2026-05-18T08:19:21",
+    "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+    "link": "https://www.llmcap.io/",
+    "summary": "<p>Article URL: <a href=\"https://www.llmcap.io/\">https://www.llmcap.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48188996\">https://news.ycombinator.com/item?id=48188996</a></p>\n<p>Points: 18</p>\n<p># Comments: 16</p>",
+    "published": "2026-05-19T03:56:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "link": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-    "summary": "<p>Article URL: <a href=\"https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\">https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48175140\">https://news.ycombinator.com/item?id=48175140</a></p>\n<p>Points: 93</p>\n<p># Comments: 227</p>",
-    "published": "2026-05-18T02:59:34",
+    "title": "Peter Neumann has died",
+    "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+    "summary": "<p>Article URL: <a href=\"https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\">https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48188787\">https://news.ycombinator.com/item?id=48188787</a></p>\n<p>Points: 114</p>\n<p># Comments: 8</p>",
+    "published": "2026-05-19T03:17:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "link": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-    "summary": "<p>Article URL: <a href=\"https://hellmood.111mb.de//wake_up_16b_writeup.html\">https://hellmood.111mb.de//wake_up_16b_writeup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173962\">https://news.ycombinator.com/item?id=48173962</a></p>\n<p>Points: 145</p>\n<p># Comments: 31</p>",
-    "published": "2026-05-17T23:10:09",
+    "title": "Peter Salus has died",
+    "link": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "summary": "<p>Article URL: <a href=\"https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\">https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48188665\">https://news.ycombinator.com/item?id=48188665</a></p>\n<p>Points: 137</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-19T02:56:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
+    "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
+    "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
+    "published": "2026-05-19T02:05:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The last six months in LLMs in five minutes",
+    "link": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/May/19/5-minute-llms/\">https://simonwillison.net/2026/May/19/5-minute-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48188183\">https://news.ycombinator.com/item?id=48188183</a></p>\n<p>Points: 451</p>\n<p># Comments: 315</p>",
+    "published": "2026-05-19T01:30:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
+    "link": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+    "summary": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
+    "published": "2026-05-19T00:48:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
+    "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
+    "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
+    "published": "2026-05-19T00:12:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+    "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+    "summary": "<p>Article URL: <a href=\"https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\">https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48187201\">https://news.ycombinator.com/item?id=48187201</a></p>\n<p>Points: 229</p>\n<p># Comments: 136</p>",
+    "published": "2026-05-18T23:18:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Click (2016)",
+    "link": "https://clickclickclick.click/",
+    "summary": "<p>Article URL: <a href=\"https://clickclickclick.click/\">https://clickclickclick.click/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48187054\">https://news.ycombinator.com/item?id=48187054</a></p>\n<p>Points: 304</p>\n<p># Comments: 73</p>",
+    "published": "2026-05-18T23:03:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+    "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+    "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+    "published": "2026-05-18T22:45:53",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+    "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+    "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+    "published": "2026-05-18T21:31:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "link": "https://arxiv.org/abs/2601.10160",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2601.10160\">https://arxiv.org/abs/2601.10160</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48185938\">https://news.ycombinator.com/item?id=48185938</a></p>\n<p>Points: 57</p>\n<p># Comments: 24</p>",
+    "published": "2026-05-18T21:29:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Here’s the latest.",
+    "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest",
+    "summary": "",
+    "published": "2026-05-18T20:47:16",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Here’s what was on the jury’s list for a decision.",
+    "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-what-was-on-the-jurys-list-for-a-decision",
+    "summary": "",
+    "published": "2026-05-18T20:39:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What to Know About Elon Musk’s Trial Against OpenAI",
+    "link": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+    "summary": "A jury in Oakland, Calif., reached a decision after a three-week-long trial seen as pivotal for the future of OpenAI and the artificial intelligence race.",
+    "published": "2026-05-18T19:35:29",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "link": "https://hyperpolyglot.org/lisp",
+    "summary": "<p>Article URL: <a href=\"https://hyperpolyglot.org/lisp\">https://hyperpolyglot.org/lisp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48184322\">https://news.ycombinator.com/item?id=48184322</a></p>\n<p>Points: 159</p>\n<p># Comments: 37</p>",
+    "published": "2026-05-18T19:27:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Agora-1: The Multi-Agent World Model",
+    "link": "https://odyssey.ml/introducing-agora-1",
+    "summary": "<p>Article URL: <a href=\"https://odyssey.ml/introducing-agora-1\">https://odyssey.ml/introducing-agora-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48183748\">https://news.ycombinator.com/item?id=48183748</a></p>\n<p>Points: 110</p>\n<p># Comments: 22</p>",
+    "published": "2026-05-18T18:43:30",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
-    "link": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
-    "summary": "For decades, he criticized the industry’s lax attitudes toward both computer security and individual digital privacy. And he developed solutions.",
-    "published": "2026-05-17T22:38:13",
+    "link": "https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html",
+    "summary": "For decades, he criticized the industry’s lax attitudes toward computer security and individual digital privacy. He also developed solutions.",
+    "published": "2026-05-18T18:27:41",
     "source": "NYT > Technology"
   },
   {
-    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "link": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-    "summary": "<p>Article URL: <a href=\"https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\">https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173468\">https://news.ycombinator.com/item?id=48173468</a></p>\n<p>Points: 197</p>\n<p># Comments: 197</p>",
-    "published": "2026-05-17T21:45:30",
+    "title": "We let AIs run radio stations",
+    "link": "https://andonlabs.com/blog/andon-fm",
+    "summary": "<p>Hey HN!<p>I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools they need to both broadcast radio shows live and handle all the business side of running a media company. The agents' revenue is so far terrible (you can try to strike a sponsor deal with them if you want!), but their shows are at times hilarious. You can listen to them at andon.fm, I hope you enjoy this!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48183301\">https://news.ycombinator.com/item?id=48183301</a></p>\n<p>Points: 265</p>\n<p># Comments: 209</p>",
+    "published": "2026-05-18T18:12:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GenCAD",
-    "link": "https://gencad.github.io/",
-    "summary": "<p>Article URL: <a href=\"https://gencad.github.io/\">https://gencad.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173429\">https://news.ycombinator.com/item?id=48173429</a></p>\n<p>Points: 329</p>\n<p># Comments: 83</p>",
-    "published": "2026-05-17T21:40:35",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\">https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48182754\">https://news.ycombinator.com/item?id=48182754</a></p>\n<p>Points: 957</p>\n<p># Comments: 480</p>",
+    "published": "2026-05-18T17:38:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Prolog Coding Horror",
-    "link": "https://www.metalevel.at/prolog/horror",
-    "summary": "<p>Article URL: <a href=\"https://www.metalevel.at/prolog/horror\">https://www.metalevel.at/prolog/horror</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48173268\">https://news.ycombinator.com/item?id=48173268</a></p>\n<p>Points: 142</p>\n<p># Comments: 60</p>",
-    "published": "2026-05-17T21:15:51",
+    "title": "What the jury had to weigh to decide the case.",
+    "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/what-the-jury-must-weigh-to-decide-the-case",
+    "summary": "",
+    "published": "2026-05-18T17:26:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Cursor Introduces Composer 2.5",
+    "link": "https://cursor.com/blog/composer-2-5",
+    "summary": "<p><a href=\"https://twitter.com/cursor_ai/status/2056415413077233983\" rel=\"nofollow\">https://twitter.com/cursor_ai/status/2056415413077233983</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48182516\">https://news.ycombinator.com/item?id=48182516</a></p>\n<p>Points: 145</p>\n<p># Comments: 105</p>",
+    "published": "2026-05-18T17:20:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-    "link": "https://github.com/MinishLab/semble",
-    "summary": "<p>Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It combines static Model2Vec embeddings (using our latest static model: potion-code-16M) with BM25, fused via RRF and reranked with code-aware signals. Everything runs on CPU since there's no transformers involved. On our benchmark of ~1250 query/document pairs across 63 repos and 19 languages, it uses 98% fewer tokens than grep+read and reaches 99% of the retrieval quality of a 137M-parameter code-trained transformer, while being ~200x faster.<p>Main features:<p>- Token-efficient: 98% fewer tokens than grep+read<p>- Fast: ~250ms to index a typical repo on our benchmark, ~1.5ms per query on CPU (very large repos may take longer)<p>- Accurate: 0.854 NDCG@10, 99% of the best transformer setup we tested<p>- MCP server: drop-in for Claude Code, Cursor, Codex, OpenCode<p>- Zero config: no API keys, no GPU, no external services<p>Install in Claude Code with:\nclaude mcp add semble -s user -- uvx --from \"semble[mcp]\" semble<p>Or check our README for other installation instructions, benchmarks, and methodology:<p>Semble: <a href=\"https://github.com/MinishLab/semble\" rel=\"nofollow\">https://github.com/MinishLab/semble</a><p>Benchmarks: <a href=\"https://github.com/MinishLab/semble/tree/main/benchmarks\" rel=\"nofollow\">https://github.com/MinishLab/semble/tree/main/benchmarks</a><p>Model: <a href=\"https://huggingface.co/minishlab/potion-code-16M\" rel=\"nofollow\">https://huggingface.co/minishlab/potion-code-16M</a><p>Let us know if you have any feedback or questions!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48169874\">https://news.ycombinator.com/item?id=48169874</a></p>\n<p>Points: 336</p>\n<p># Comments: 112</p>",
-    "published": "2026-05-17T15:37:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "link": "https://github.com/tech4bot/rk3562deb",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tech4bot/rk3562deb\">https://github.com/tech4bot/rk3562deb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168668\">https://news.ycombinator.com/item?id=48168668</a></p>\n<p>Points: 371</p>\n<p># Comments: 171</p>",
-    "published": "2026-05-17T13:16:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CUDA Books",
-    "link": "https://github.com/alternbits/awesome-cuda-books",
-    "summary": "<p>Article URL: <a href=\"https://github.com/alternbits/awesome-cuda-books\">https://github.com/alternbits/awesome-cuda-books</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168485\">https://news.ycombinator.com/item?id=48168485</a></p>\n<p>Points: 198</p>\n<p># Comments: 48</p>",
-    "published": "2026-05-17T12:52:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I don't think AI will make your processes go faster",
-    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "summary": "<p>Article URL: <a href=\"https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\">https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168221\">https://news.ycombinator.com/item?id=48168221</a></p>\n<p>Points: 598</p>\n<p># Comments: 408</p>",
-    "published": "2026-05-17T12:13:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
-    "link": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd\">https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48168159\">https://news.ycombinator.com/item?id=48168159</a></p>\n<p>Points: 97</p>\n<p># Comments: 105</p>",
-    "published": "2026-05-17T12:03:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "kharp – k version 3 Language Interpreter in C#",
-    "link": "https://github.com/ERufian/ksharp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ERufian/ksharp\">https://github.com/ERufian/ksharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166856\">https://news.ycombinator.com/item?id=48166856</a></p>\n<p>Points: 23</p>\n<p># Comments: 4</p>",
-    "published": "2026-05-17T07:44:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tesla Solar Roof is on life support as it pivot to panels",
-    "link": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-    "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\">https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48165980\">https://news.ycombinator.com/item?id=48165980</a></p>\n<p>Points: 265</p>\n<p># Comments: 267</p>",
-    "published": "2026-05-17T04:09:52",
+    "title": "Anthropic acquires Stainless",
+    "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/anthropic-acquires-stainless\">https://www.anthropic.com/news/anthropic-acquires-stainless</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48182281\">https://news.ycombinator.com/item?id=48182281</a></p>\n<p>Points: 455</p>\n<p># Comments: 311</p>",
+    "published": "2026-05-18T17:01:21",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Did You Mean to Share That Selfie? What to Know About Instagram Instants.",
     "link": "https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html",
-    "summary": "Instagram’s new feature blasts photos to your mutual followers or close friends, immediately.",
-    "published": "2026-05-16T19:30:53",
+    "summary": "“Instants” blasts photos to your mutual followers or close friends, immediately. Here’s how to avoid accidental embarrassment.",
+    "published": "2026-05-18T16:41:15",
     "source": "NYT > Technology"
   },
   {
-    "title": "Profunctor Equipment in Haskell",
-    "link": "https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/",
-    "summary": "<p>Article URL: <a href=\"https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/\">https://bartoszmilewski.com/2026/05/16/profunctor-equipment-in-haskell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48160964\">https://news.ycombinator.com/item?id=48160964</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
-    "published": "2026-05-16T15:18:23",
+    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "link": "https://github.com/2b2tplace/1m_release",
+    "summary": "<p>Article URL: <a href=\"https://github.com/2b2tplace/1m_release\">https://github.com/2b2tplace/1m_release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48180204\">https://news.ycombinator.com/item?id=48180204</a></p>\n<p>Points: 143</p>\n<p># Comments: 88</p>",
+    "published": "2026-05-18T14:13:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community\">https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48159405\">https://news.ycombinator.com/item?id=48159405</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-16T12:01:06",
+    "title": "AI eats the world (Spring 26) [pdf]",
+    "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "summary": "<p>Article URL: <a href=\"https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf\">https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48179021\">https://news.ycombinator.com/item?id=48179021</a></p>\n<p>Points: 234</p>\n<p># Comments: 131</p>",
+    "published": "2026-05-18T12:49:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A Good Lemma Is Worth a Thousand Theorems (2007)",
-    "link": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
-    "summary": "<p>Article URL: <a href=\"https://sites.math.rutgers.edu/~zeilberg/Opinion82.html\">https://sites.math.rutgers.edu/~zeilberg/Opinion82.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48157229\">https://news.ycombinator.com/item?id=48157229</a></p>\n<p>Points: 61</p>\n<p># Comments: 12</p>",
-    "published": "2026-05-16T05:56:41",
+    "title": "Consider the Sister",
+    "link": "https://www.thesmallbow.com/p/consider-the-sister-2b94",
+    "summary": "<p>Article URL: <a href=\"https://www.thesmallbow.com/p/consider-the-sister-2b94\">https://www.thesmallbow.com/p/consider-the-sister-2b94</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48172253\">https://news.ycombinator.com/item?id=48172253</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
+    "published": "2026-05-17T19:13:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Magical Realism: “Northern Exposure” 25 Years Later (2015)",
-    "link": "https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later",
-    "summary": "<p>Article URL: <a href=\"https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later\">https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48155936\">https://news.ycombinator.com/item?id=48155936</a></p>\n<p>Points: 118</p>\n<p># Comments: 49</p>",
-    "published": "2026-05-16T01:25:29",
+    "title": "When can the C++ compiler devirtualize a call?",
+    "link": "https://quuxplusone.github.io/blog/2021/02/15/devirtualization/",
+    "summary": "<p>Article URL: <a href=\"https://quuxplusone.github.io/blog/2021/02/15/devirtualization/\">https://quuxplusone.github.io/blog/2021/02/15/devirtualization/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48167187\">https://news.ycombinator.com/item?id=48167187</a></p>\n<p>Points: 63</p>\n<p># Comments: 40</p>",
+    "published": "2026-05-17T08:58:31",
     "source": "Hacker News: Front Page"
   },
   {
@@ -217,13 +294,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "What the jury must weigh to decide the case.",
-    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
-    "summary": "",
-    "published": "2026-05-14T22:19:43",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
     "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
     "summary": "Cerebras, a Silicon Valley maker of artificial intelligence chips, began trading on the stock market on Thursday, as SpaceX, OpenAI and Anthropic also take steps to go public.",
@@ -253,7 +323,7 @@
   },
   {
     "title": "Elon Musk’s lawyer asked Sam Altman on the stand: Are you trustworthy?",
-    "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
+    "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
     "summary": "",
     "published": "2026-05-14T15:18:29",
     "source": "NYT > Technology"
@@ -273,13 +343,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
-    "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
-    "summary": "The cases seek to use consumer product safety laws to rein in chatbot companies.",
-    "published": "2026-05-14T01:44:59",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
     "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
     "summary": "The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
@@ -291,13 +354,6 @@
     "link": "https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html",
     "summary": "Electric vehicle sales have soared in Europe and much of the rest of the world, but Americans are still hesitant.",
     "published": "2026-05-13T20:17:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
-    "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
-    "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
-    "published": "2026-05-13T18:48:14",
     "source": "NYT > Technology"
   },
   {
@@ -343,13 +399,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
-    "link": "https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html",
-    "summary": "Instructure, which provides Canvas software to thousands of schools and universities around the world, did not say what it had given the hackers in exchange for the stolen data.",
-    "published": "2026-05-13T01:21:59",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?",
     "link": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
     "summary": "Mr. Altman, the C.E.O. of OpenAI, said on Tuesday that he worried Elon Musk wanted control of the A.I. lab.",
@@ -382,48 +431,6 @@
     "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
     "summary": "Anthropic said that Claude Mythos was too dangerous to release to the public. That claim has reopened an old debate over cybersecurity.",
     "published": "2026-05-12T16:01:26",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
-    "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
-    "summary": "The latest artificial intelligence models from Anthropic and OpenAI are extending the United States’ lead over China and intensifying the rivalry between the countries.",
-    "published": "2026-05-12T15:36:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "EBay Rejects GameStop’s $55 Billion Takeover Bid",
-    "link": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html",
-    "summary": "The online marketplace called the cash-and-stock proposal “neither credible nor attractive.”",
-    "published": "2026-05-12T15:32:32",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Start-Up Raises $1.3 Billion for an A.I. ‘Grid’",
-    "link": "https://www.nytimes.com/2026/05/12/technology/amp-startup.html",
-    "summary": "As tech giants dominate the hardware needed to build artificial intelligence, Amp hopes to create an alternative.",
-    "published": "2026-05-12T14:24:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims",
-    "link": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
-    "summary": "Elon Musk’s lawyer argued that Microsoft’s Satya Nadella played a role in getting Mr. Altman his job back at OpenAI when he was briefly fired in 2023.",
-    "published": "2026-05-12T00:25:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
-    "link": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
-    "summary": "The tech leaders, with combined net worths exceeding $670 billion, have brought props to court and traded icy stares as their legal dispute reaches a denouement.",
-    "published": "2026-05-11T18:22:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-    "summary": "The company said that it had identified, for the first time, hackers using artificial intelligence to discover an unknown bug. The attempted attack represents “a taste of what’s to come,” one expert said.",
-    "published": "2026-05-11T13:00:07",
     "source": "NYT > Technology"
   }
 ]
