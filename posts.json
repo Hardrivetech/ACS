@@ -1,65 +1,184 @@
 [
   {
-    "title": "Show HN: The AI Quant Desk for Onchain Finance",
-    "link": "https://grid.raster.finance/en/portfolio-analytics",
-    "summary": "<p>Article URL: <a href=\"https://grid.raster.finance/en/portfolio-analytics\">https://grid.raster.finance/en/portfolio-analytics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48204843\">https://news.ycombinator.com/item?id=48204843</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-20T08:49:20",
+    "title": "Samsung Averts a Walkout With Big Bonuses, but Discord Over A.I. Profits Brews",
+    "link": "https://www.nytimes.com/2026/05/21/business/samsung-strike-ai-chips.html",
+    "summary": "Samsung Electronics, a global memory chip supplier, has been a major beneficiary of the A.I boom. It has also become the center of a debate over how to divide its spoils.",
+    "published": "2026-05-21T09:45:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+    "link": "https://github.com/helvesec/rmux",
+    "summary": "<p>Author here. RMUX started from a frustration: I've used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.<p>Two surfaces: a tmux-compatible CLI (~90 commands, your keybindings just work), and a typed async Rust SDK on the same daemon — stable pane IDs, structured snapshots, locator-style waits. The idea is Playwright-style automation, but for terminals.<p>Native on Linux, macOS, Windows (real ConPTY, no WSL).<p>Demos and docs at rmux.io. Happy to answer questions about the daemon protocol, ConPTY, or the SDK design.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48219918\">https://news.ycombinator.com/item?id=48219918</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
+    "published": "2026-05-21T09:22:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Everything in C is undefined behavior",
-    "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-    "summary": "<p>Article URL: <a href=\"https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html\">https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48203698\">https://news.ycombinator.com/item?id=48203698</a></p>\n<p>Points: 172</p>\n<p># Comments: 190</p>",
-    "published": "2026-05-20T06:07:22",
+    "title": "The famous O3 \"GeoGuessr\" prompt did not work",
+    "link": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+    "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/\">https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48219682\">https://news.ycombinator.com/item?id=48219682</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
+    "published": "2026-05-21T08:52:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Infomaniak transitions to a foundation model to protect user data privacy",
-    "link": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
-    "summary": "<p>Article URL: <a href=\"https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/\">https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48203536\">https://news.ycombinator.com/item?id=48203536</a></p>\n<p>Points: 71</p>\n<p># Comments: 15</p>",
-    "published": "2026-05-20T05:43:51",
+    "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+    "link": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer\">https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48219340\">https://news.ycombinator.com/item?id=48219340</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-21T08:01:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Testing MiniMax M2.7 via API on three real ML and coding workflows",
-    "link": "https://andlukyane.com//blog/minimax-m27-workflows",
-    "summary": "<p>Article URL: <a href=\"https://andlukyane.com//blog/minimax-m27-workflows\">https://andlukyane.com//blog/minimax-m27-workflows</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48203249\">https://news.ycombinator.com/item?id=48203249</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-20T04:51:42",
+    "title": "Vivaldi 8.0",
+    "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+    "summary": "<p>Article URL: <a href=\"https://vivaldi.com/blog/vivaldi-on-desktop-8-0/\">https://vivaldi.com/blog/vivaldi-on-desktop-8-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48219060\">https://news.ycombinator.com/item?id=48219060</a></p>\n<p>Points: 133</p>\n<p># Comments: 59</p>",
+    "published": "2026-05-21T07:21:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Japan is gripped by mass allergies. A 1950s project is to blame",
-    "link": "https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan\">https://www.bbc.com/future/article/20260515-the-1950s-blunder-which-causes-mass-hay-fever-in-japan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48202047\">https://news.ycombinator.com/item?id=48202047</a></p>\n<p>Points: 99</p>\n<p># Comments: 35</p>",
-    "published": "2026-05-20T01:43:06",
+    "title": "Haskell Foundation 2026 Update",
+    "link": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "summary": "<p>Article URL: <a href=\"https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\">https://discourse.haskell.org/t/haskell-foundation-2026-update/14136</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48216983\">https://news.ycombinator.com/item?id=48216983</a></p>\n<p>Points: 120</p>\n<p># Comments: 32</p>",
+    "published": "2026-05-21T02:13:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FiveThirtyEight articles on the Internet Archive",
-    "link": "https://fivethirtyeightindex.com/",
-    "summary": "<p>Article URL: <a href=\"https://fivethirtyeightindex.com/\">https://fivethirtyeightindex.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48201973\">https://news.ycombinator.com/item?id=48201973</a></p>\n<p>Points: 201</p>\n<p># Comments: 45</p>",
-    "published": "2026-05-20T01:34:19",
+    "title": "What is a Demand Coop",
+    "link": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+    "summary": "<p>Article URL: <a href=\"https://cahootzcoops.com/blog/what-is-a-demand-coop\">https://cahootzcoops.com/blog/what-is-a-demand-coop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48216619\">https://news.ycombinator.com/item?id=48216619</a></p>\n<p>Points: 65</p>\n<p># Comments: 65</p>",
+    "published": "2026-05-21T01:20:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
-    "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-    "summary": "<p><a href=\"https://status.railway.com/incident/I23M92U0\" rel=\"nofollow\">https://status.railway.com/incident/I23M92U0</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48201484\">https://news.ycombinator.com/item?id=48201484</a></p>\n<p>Points: 475</p>\n<p># Comments: 304</p>",
-    "published": "2026-05-20T00:23:54",
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\">https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48216278\">https://news.ycombinator.com/item?id=48216278</a></p>\n<p>Points: 192</p>\n<p># Comments: 141</p>",
+    "published": "2026-05-21T00:36:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GitHub is investigating unauthorized access to their internal repositories",
-    "link": "https://twitter.com/github/status/2056884788179726685",
-    "summary": "<p><a href=\"https://xcancel.com/github/status/2056884788179726685\" rel=\"nofollow\">https://xcancel.com/github/status/2056884788179726685</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48201316\">https://news.ycombinator.com/item?id=48201316</a></p>\n<p>Points: 439</p>\n<p># Comments: 227</p>",
-    "published": "2026-05-20T00:01:18",
+    "title": "Musk’s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+    "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+    "summary": "Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.",
+    "published": "2026-05-21T00:23:43",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "link": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/doc/design/typography/1980-knuth.pdf\">https://gwern.net/doc/design/typography/1980-knuth.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48216016\">https://news.ycombinator.com/item?id=48216016</a></p>\n<p>Points: 174</p>\n<p># Comments: 21</p>",
+    "published": "2026-05-20T23:58:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-    "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-    "summary": "<p>Article URL: <a href=\"https://github.com/wiltodelta/remove-ai-watermarks\">https://github.com/wiltodelta/remove-ai-watermarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48200569\">https://news.ycombinator.com/item?id=48200569</a></p>\n<p>Points: 281</p>\n<p># Comments: 161</p>",
-    "published": "2026-05-19T22:30:31",
+    "title": "Show HN: I reverse engineered Apple's video wallpapers",
+    "link": "https://github.com/kageroumado/phosphene",
+    "summary": "<p>Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.<p>I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn't going to pay off. So I'm open-sourcing it.<p>WallpaperExtensionKit.framework is what powers macOS wallpapers. It controls what’s shows in the Settings app. It took a lot of trial and error to replicate the behavior, but the result is that your custom wallpapers appear alongside everything else. I wanted to have an “add” button there too, but I couldn’t find a way to do so, so there’s a companion app that will put your video where it needs to be.<p>Unlike Apple's Aerials, the video keeps playing on the desktop (not just the lock screen). The renderer drives AVSampleBufferDisplayLayer directly with PTS-offset gapless looping, and pauses or downshifts based on thermal state, battery level, brightness, and window occlusion.<p>It’s free and works well.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48215979\">https://news.ycombinator.com/item?id=48215979</a></p>\n<p>Points: 285</p>\n<p># Comments: 65</p>",
+    "published": "2026-05-20T23:54:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker’s Layoff-Themed A.I. Songs",
+    "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
+    "summary": "On a dark day of layoffs at Meta, one employee responded by creating an internal radio station that plays songs about job cuts — generated by artificial intelligence, of course.",
+    "published": "2026-05-20T22:57:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nvidia’s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
+    "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
+    "summary": "The chip maker said its profit in its most recent quarter jumped 211 percent from a year earlier thanks to extreme demand from other big technology companies.",
+    "published": "2026-05-20T22:54:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "DOS Zone",
+    "link": "https://dos.zone/",
+    "summary": "<p>Article URL: <a href=\"https://dos.zone/\">https://dos.zone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48215418\">https://news.ycombinator.com/item?id=48215418</a></p>\n<p>Points: 260</p>\n<p># Comments: 57</p>",
+    "published": "2026-05-20T22:53:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
+    "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+    "summary": "Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.",
+    "published": "2026-05-20T21:56:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Anthropic is expanding to Colossus2. Will use GB200",
+    "link": "https://twitter.com/nottombrown/status/2057194829986300375",
+    "summary": "<p><a href=\"https://xcancel.com/nottombrown/status/2057194829986300375\" rel=\"nofollow\">https://xcancel.com/nottombrown/status/2057194829986300375</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48214017\">https://news.ycombinator.com/item?id=48214017</a></p>\n<p>Points: 204</p>\n<p># Comments: 189</p>",
+    "published": "2026-05-20T20:55:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "summary": "<p><a href=\"https://x.com/wtgowers/status/2057175727271800912\" rel=\"nofollow\">https://x.com/wtgowers/status/2057175727271800912</a>, <a href=\"https://xcancel.com/wtgowers/status/2057175727271800912\" rel=\"nofollow\">https://xcancel.com/wtgowers/status/2057175727271800912</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48212493\">https://news.ycombinator.com/item?id=48212493</a></p>\n<p>Points: 1176</p>\n<p># Comments: 858</p>",
+    "published": "2026-05-20T19:05:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
+    "link": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
+    "summary": "OpenAI would be one of the most highly anticipated potential initial public offerings, in what is set to be a major year of I.P.O.s for Silicon Valley.",
+    "published": "2026-05-20T18:41:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Flipper One Tech Specs",
+    "link": "https://docs.flipper.net/one/general/tech-specs",
+    "summary": "<p>Article URL: <a href=\"https://docs.flipper.net/one/general/tech-specs\">https://docs.flipper.net/one/general/tech-specs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48212046\">https://news.ycombinator.com/item?id=48212046</a></p>\n<p>Points: 377</p>\n<p># Comments: 133</p>",
+    "published": "2026-05-20T18:33:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+    "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+    "summary": "<p>Article URL: <a href=\"https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained\">https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48211409\">https://news.ycombinator.com/item?id=48211409</a></p>\n<p>Points: 176</p>\n<p># Comments: 93</p>",
+    "published": "2026-05-20T17:48:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why is Inkwell stuck in review",
+    "link": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+    "summary": "<p>Article URL: <a href=\"https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html\">https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48211134\">https://news.ycombinator.com/item?id=48211134</a></p>\n<p>Points: 142</p>\n<p># Comments: 46</p>",
+    "published": "2026-05-20T17:30:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Is Preparing to File for an IPO Soon",
+    "link": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+    "summary": "<p><a href=\"https://archive.md/0Ez3C\" rel=\"nofollow\">https://archive.md/0Ez3C</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48210226\">https://news.ycombinator.com/item?id=48210226</a></p>\n<p>Points: 93</p>\n<p># Comments: 229</p>",
+    "published": "2026-05-20T16:24:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SBCL: the ultimate assembly code breadboard (2014)",
+    "link": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+    "summary": "<p>Article URL: <a href=\"https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/\">https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48209558\">https://news.ycombinator.com/item?id=48209558</a></p>\n<p>Points: 152</p>\n<p># Comments: 8</p>",
+    "published": "2026-05-20T15:39:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+    "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+    "summary": "<p>Previous thread in sequence:<p><i>GitHub is investigating unauthorized access to their internal repositories</i> - <a href=\"https://news.ycombinator.com/item?id=48201316\">https://news.ycombinator.com/item?id=48201316</a> - May 2026 (321 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48207660\">https://news.ycombinator.com/item?id=48207660</a></p>\n<p>Points: 846</p>\n<p># Comments: 350</p>",
+    "published": "2026-05-20T13:43:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Saying goodbye to asm.js",
+    "link": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+    "summary": "<p>Article URL: <a href=\"https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html\">https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48206340\">https://news.ycombinator.com/item?id=48206340</a></p>\n<p>Points: 378</p>\n<p># Comments: 147</p>",
+    "published": "2026-05-20T12:01:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+    "link": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results\">https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48205782\">https://news.ycombinator.com/item?id=48205782</a></p>\n<p>Points: 313</p>\n<p># Comments: 194</p>",
+    "published": "2026-05-20T10:57:09",
     "source": "Hacker News: Front Page"
   },
   {
@@ -70,24 +189,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
-    "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
-    "summary": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity.",
-    "published": "2026-05-19T21:01:15",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Tesla’s Semi Truck could Jolt the Trucking Industry",
     "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html",
     "summary": "California truckers have expressed strong interest in the Tesla Semi because it costs much less and can travel further on a charge than electric trucks sold by established manufacturers.",
     "published": "2026-05-19T20:31:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation",
-    "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
-    "summary": "Meta told employees last month that it would carry out mass layoffs on May 20, as the Silicon Valley giant tries to transform into an A.I.-first company.",
-    "published": "2026-05-19T20:00:06",
     "source": "NYT > Technology"
   },
   {
@@ -96,41 +201,6 @@
     "summary": "Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous.",
     "published": "2026-05-19T19:41:47",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-    "link": "https://openai.com/index/advancing-content-provenance/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/advancing-content-provenance/\">https://openai.com/index/advancing-content-provenance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48198291\">https://news.ycombinator.com/item?id=48198291</a></p>\n<p>Points: 279</p>\n<p># Comments: 150</p>",
-    "published": "2026-05-19T19:34:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mistral AI acquires Emmi AI",
-    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "summary": "<p>Article URL: <a href=\"https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai\">https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48197995\">https://news.ycombinator.com/item?id=48197995</a></p>\n<p>Points: 261</p>\n<p># Comments: 76</p>",
-    "published": "2026-05-19T19:14:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Minnesota becomes first state to ban prediction markets",
-    "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets\">https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48197980\">https://news.ycombinator.com/item?id=48197980</a></p>\n<p>Points: 655</p>\n<p># Comments: 200</p>",
-    "published": "2026-05-19T19:13:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
-    "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
-    "summary": "Using a new Gemini A.I. model, the tech giant is overhauling its search box dimensions to answer longer queries, adding a video-generation tool and simplifying online shopping.",
-    "published": "2026-05-19T18:34:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google changes its search box",
-    "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "summary": "<p><a href=\"https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share\" rel=\"nofollow\">https://www.nytimes.com/2026/05/19/business/google-seach-bar...</a>, <a href=\"https://archive.ph/XI1sQ\" rel=\"nofollow\">https://archive.ph/XI1sQ</a><p><a href=\"https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/\" rel=\"nofollow\">https://techcrunch.com/2026/05/19/google-search-as-you-know-...</a><p><a href=\"https://www.theverge.com/tech/932970/google-search-ai-update-io-2026\" rel=\"nofollow\">https://www.theverge.com/tech/932970/google-search-ai-update...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48197370\">https://news.ycombinator.com/item?id=48197370</a></p>\n<p>Points: 548</p>\n<p># Comments: 731</p>",
-    "published": "2026-05-19T18:34:27",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Bipartisan Bill Would Impose New Annual Fee on Electric Vehicles",
@@ -147,39 +217,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Gemini CLI will stop working from June 18, 2026",
-    "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-    "summary": "<p>Article URL: <a href=\"https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/\">https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48196867\">https://news.ycombinator.com/item?id=48196867</a></p>\n<p>Points: 215</p>\n<p># Comments: 114</p>",
-    "published": "2026-05-19T18:03:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
     "link": "https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html",
     "summary": "For decades, he criticized the industry’s lax attitudes toward computer security and individual digital privacy. He also developed solutions.",
     "published": "2026-05-19T17:57:11",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Gemini 3.5 Flash",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "summary": "<p><a href=\"https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash\" rel=\"nofollow\">https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48196570\">https://news.ycombinator.com/item?id=48196570</a></p>\n<p>Points: 782</p>\n<p># Comments: 552</p>",
-    "published": "2026-05-19T17:43:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CopyFail: From Pod to Host",
-    "link": "https://xint.io/blog/copy-fail-pod-to-host",
-    "summary": "<p>Article URL: <a href=\"https://xint.io/blog/copy-fail-pod-to-host\">https://xint.io/blog/copy-fail-pod-to-host</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48196337\">https://news.ycombinator.com/item?id=48196337</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-19T17:25:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-    "link": "https://virtualosmuseum.org/",
-    "summary": "<p>Article URL: <a href=\"https://virtualosmuseum.org/\">https://virtualosmuseum.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48195009\">https://news.ycombinator.com/item?id=48195009</a></p>\n<p>Points: 775</p>\n<p># Comments: 171</p>",
-    "published": "2026-05-19T15:53:38",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
@@ -189,38 +231,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "I’ve joined Anthropic",
-    "link": "https://twitter.com/karpathy/status/2056753169888334312",
-    "summary": "<p><a href=\"https://xcancel.com/karpathy/status/2056753169888334312\" rel=\"nofollow\">https://xcancel.com/karpathy/status/2056753169888334312</a><p><a href=\"https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude\" rel=\"nofollow\">https://www.axios.com/2026/05/19/anthropic-openai-karpathy-a...</a>, <a href=\"https://archive.ph/h6T3X\" rel=\"nofollow\">https://archive.ph/h6T3X</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48194352\">https://news.ycombinator.com/item?id=48194352</a></p>\n<p>Points: 1319</p>\n<p># Comments: 557</p>",
-    "published": "2026-05-19T15:07:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why is almost everyone right-handed? A new study connects it to bipedalism",
-    "link": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
-    "summary": "<p>Article URL: <a href=\"https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk\">https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48194098\">https://news.ycombinator.com/item?id=48194098</a></p>\n<p>Points: 130</p>\n<p># Comments: 206</p>",
-    "published": "2026-05-19T14:50:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
     "link": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
     "summary": "A jury’s rejection of Elon Musk’s $150 billion lawsuit against OpenAI was a major hurdle crossed. But the maker of ChatGPT faces a list of other problems.",
     "published": "2026-05-19T13:32:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "link": "https://github.com/antoinezambelli/forge",
-    "summary": "<p>Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments.<p>I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.<p>What it does:<p>- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware<p>- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it<p>- Ships with an eval harness and interactive dashboard so you can reproduce every number<p>I wanted to run a handful of always-on agentic systems for my portfolio, didn't want to pay cloud frontier costs, and immediately hit the compounding math problem on local models. 90% per-step accuracy sounds great, but with a 5-step workflow that's a 40% failure rate. No existing framework seemed to address this mechanical reliability issue - they all seemed tailor-made for cloud frontier.<p>Demo video: <a href=\"https://youtu.be/MzRgJoJAXGc\" rel=\"nofollow\">https://youtu.be/MzRgJoJAXGc</a> (side-by-side: same model, same task, with and without Forge guardrails)<p>The paper (accepted to ACM CAIS '26, presenting May 26-29 in San Jose) covers the peer-reviewed findings across 97 model/backend configurations, 18 scenarios, 50 runs each. Key numbers:<p>- Ministral 8B with Forge: 99.3%. Claude Sonnet with Forge: 100%. The gap between a free local 8B model on a $600 GPU and a frontier API is less than 1 point.<p>- The same 8B local model with Forge (99.3%) outperforms Claude Sonnet without guardrails (87.2%) - an 8B model with framework support beats the best result you can get through frontier API alone.<p>- Error recovery scores 0% for every model tested - local and frontier - without the retry mechanism. Not a capability gap, an architectural absence.<p>I'm currently using this for my home assistant running on Ministral 14B-Reasoning, and for my locally hosted agentic coding harness (8B managed to contribute to the codebase!).<p>The guardrail stack has five layers, each independently toggleable. The two that carry the most weight (per ablation study with McNemar's test): retry nudges (24-49 point drops when disabled) and error recovery (~10 point drops, significant for every model tested). Step enforcement is situational - only fires for models with weaker sequencing discipline. Rescue parsing and context compaction showed no significance in the eval but are retained for production workloads where they activate once in a while.<p>One thing I really didn't expect: the serving backend matters. Same Mistral-Nemo 12B weights produce 7% accuracy on llama-server with native function calling and 83% on Llamafile in prompt mode. A 75-point swing from infrastructure alone. I don't think anyone's published this because standard benchmarks don't control for serving backend.<p>Another surprise: there's no distinction in current LLM tool-calling between \"the tool ran successfully and returned data\" and \"the tool ran successfully but found nothing.\" Both return a value, the orchestrator marks the step complete, and bad data cascades downstream. It's the equivalent of HTTP having 200 but no 404. Forge adds this as a new exception class (ToolResolutionError) - the model sees the error and can retry instead of silently passing garbage forward.<p>Biggest technical challenge was context compaction for memory-constrained hardware. Both Ollama and Llamafile silently fall back to CPU when the model exceeds VRAM - no warning, no error, just 10-100x slower inference. Forge queries nvidia-smi at startup and derives a token budget to prevent this.<p>How to try it:<p>- Clone the repo, run the eval harness on a model I haven't tested. If you get interesting results I'll add them to the dashboard.<p>- Try the proxy server mode - point any OpenAI-compatible client at Forge and it handles guardrails transparently. It's the newest model and I'd love more eyes on it.<p>- Dogfooding led me to optimize model parameters in v0.6.0. The harder eval suite (26 scenarios) is designed to raise the ceiling so no one sits at 100%. Several that did on the original suite can't sweep it - including Opus 4.6. Curious if anyone finds scenarios that expose gaps I haven't thought of. Paper numbers based on pre v0.6.0 code.<p>Background: prior ML publication in unsupervised learning (83 citations). This paper accepted to ACM CAIS '26 - presenting May 26-29.<p>Repo: <a href=\"https://github.com/antoinezambelli/forge\" rel=\"nofollow\">https://github.com/antoinezambelli/forge</a><p>Paper: <a href=\"https://www.caisconf.org/program/2026/demos/forge-agentic-reliability/\" rel=\"nofollow\">https://www.caisconf.org/program/2026/demos/forge-agentic-re...</a> <a href=\"https://github.com/antoinezambelli/forge/blob/main/docs/forge_ieee_preprint.pdf\" rel=\"nofollow\">https://github.com/antoinezambelli/forge/blob/main/docs/forg...</a><p>Dashboard: <a href=\"https://github.com/antoinezambelli/forge/docs/results/dashboard.html\" rel=\"nofollow\">https://github.com/antoinezambelli/forge/docs/results/dashbo...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48192383\">https://news.ycombinator.com/item?id=48192383</a></p>\n<p>Points: 480</p>\n<p># Comments: 174</p>",
-    "published": "2026-05-19T12:23:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
-    "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
-    "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
-    "published": "2026-05-19T02:05:23",
     "source": "NYT > Technology"
   },
   {
@@ -284,13 +298,6 @@
     "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
     "summary": "The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms.",
     "published": "2026-05-16T00:33:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
-    "link": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
-    "summary": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
-    "published": "2026-05-15T19:15:47",
     "source": "NYT > Technology"
   },
   {
@@ -361,27 +368,6 @@
     "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
     "summary": "",
     "published": "2026-05-14T15:18:29",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Ishmael Reed Is Writing a Play About Elon Musk",
-    "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
-    "summary": "Ishmael Reed, provocateur and playwright, has a few words for the billionaires of Silicon Valley.",
-    "published": "2026-05-14T09:02:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor",
-    "link": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
-    "summary": "After a series of political victories under President Trump, firms are lobbying Congress for a sweeping framework they helped shape.",
-    "published": "2026-05-14T09:00:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Fuel Prices Drive Sales of E.V.s, Just Not in the U.S.",
-    "link": "https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html",
-    "summary": "Electric vehicle sales have soared in Europe and much of the rest of the world, but Americans are still hesitant.",
-    "published": "2026-05-13T20:17:07",
     "source": "NYT > Technology"
   }
 ]
