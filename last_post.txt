@@ -1,1 +1,1 @@
-CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs https://arxiv.org/abs/2605.19269
+BambuStudio has been violating PrusaSlicer AGPL license since their fork https://xcancel.com/josefprusa/status/2054602354851254330
