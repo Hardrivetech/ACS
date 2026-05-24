@@ -1,51 +1,142 @@
 [
   {
-    "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-    "link": "https://xcancel.com/josefprusa/status/2054602354851254330",
-    "summary": "<p>Article URL: <a href=\"https://xcancel.com/josefprusa/status/2054602354851254330\">https://xcancel.com/josefprusa/status/2054602354851254330</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245862\">https://news.ycombinator.com/item?id=48245862</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-23T08:24:57",
+    "title": "UK Institute Is Hunting for Dangers Lurking in AI",
+    "link": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
+    "summary": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
+    "published": "2026-05-24T09:01:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
+    "link": "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html",
+    "summary": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
+    "published": "2026-05-24T09:01:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Amazon Web Services – Four Years and Out",
+    "link": "https://www.adventuresinoss.com/aws-four-years/",
+    "summary": "<p>Article URL: <a href=\"https://www.adventuresinoss.com/aws-four-years/\">https://www.adventuresinoss.com/aws-four-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254475\">https://news.ycombinator.com/item?id=48254475</a></p>\n<p>Points: 194</p>\n<p># Comments: 56</p>",
+    "published": "2026-05-24T04:51:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-    "link": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son\">https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245571\">https://news.ycombinator.com/item?id=48245571</a></p>\n<p>Points: 68</p>\n<p># Comments: 13</p>",
-    "published": "2026-05-23T07:34:33",
+    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+    "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+    "summary": "<p>Article URL: <a href=\"https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\">https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254309\">https://news.ycombinator.com/item?id=48254309</a></p>\n<p>Points: 141</p>\n<p># Comments: 46</p>",
+    "published": "2026-05-24T04:14:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
-    "link": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-    "summary": "<p>Article URL: <a href=\"https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/\">https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245362\">https://news.ycombinator.com/item?id=48245362</a></p>\n<p>Points: 43</p>\n<p># Comments: 13</p>",
-    "published": "2026-05-23T06:54:49",
+    "title": "The C64 Dead Test Font",
+    "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+    "summary": "<p>Article URL: <a href=\"https://www.masswerk.at/nowgobang/2026/c64-dead-test-font\">https://www.masswerk.at/nowgobang/2026/c64-dead-test-font</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254236\">https://news.ycombinator.com/item?id=48254236</a></p>\n<p>Points: 45</p>\n<p># Comments: 4</p>",
+    "published": "2026-05-24T03:57:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Rubish: A Unix shell written in pure Ruby",
-    "link": "https://github.com/amatsuda/rubish",
-    "summary": "<p>Article URL: <a href=\"https://github.com/amatsuda/rubish\">https://github.com/amatsuda/rubish</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245262\">https://news.ycombinator.com/item?id=48245262</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
-    "published": "2026-05-23T06:32:00",
+    "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+    "link": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+    "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/\">https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254020\">https://news.ycombinator.com/item?id=48254020</a></p>\n<p>Points: 56</p>\n<p># Comments: 10</p>",
+    "published": "2026-05-24T03:19:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-    "link": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-    "summary": "<p>Article URL: <a href=\"https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\">https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48243293\">https://news.ycombinator.com/item?id=48243293</a></p>\n<p>Points: 148</p>\n<p># Comments: 41</p>",
-    "published": "2026-05-23T00:34:25",
+    "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+    "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+    "summary": "<p><a href=\"https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/\" rel=\"nofollow\">https://opensource.microsoft.com/blog/2026/04/28/continuing-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253386\">https://news.ycombinator.com/item?id=48253386</a></p>\n<p>Points: 237</p>\n<p># Comments: 61</p>",
+    "published": "2026-05-24T01:21:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Sleep research led to a new sleep apnea drug",
-    "link": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-    "summary": "<p>Article URL: <a href=\"https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\">https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48242278\">https://news.ycombinator.com/item?id=48242278</a></p>\n<p>Points: 157</p>\n<p># Comments: 93</p>",
-    "published": "2026-05-22T22:05:39",
+    "title": "Scammers are abusing an internal Microsoft account to send spam links",
+    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\">https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253186\">https://news.ycombinator.com/item?id=48253186</a></p>\n<p>Points: 141</p>\n<p># Comments: 59</p>",
+    "published": "2026-05-24T00:51:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Shipping a laptop to a refugee camp in Uganda",
-    "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-    "summary": "<p>Article URL: <a href=\"https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\">https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241997\">https://news.ycombinator.com/item?id=48241997</a></p>\n<p>Points: 440</p>\n<p># Comments: 162</p>",
-    "published": "2026-05-22T21:36:55",
+    "title": "Wake up! 16b",
+    "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+    "summary": "<p>Article URL: <a href=\"https://hellmood.111mb.de/wake_up_16b_writeup.html\">https://hellmood.111mb.de/wake_up_16b_writeup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253060\">https://news.ycombinator.com/item?id=48253060</a></p>\n<p>Points: 220</p>\n<p># Comments: 13</p>",
+    "published": "2026-05-24T00:30:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "My I3-Emacs Integration",
+    "link": "https://khz.ac/software/i3-integration.html",
+    "summary": "<p>Article URL: <a href=\"https://khz.ac/software/i3-integration.html\">https://khz.ac/software/i3-integration.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252535\">https://news.ycombinator.com/item?id=48252535</a></p>\n<p>Points: 71</p>\n<p># Comments: 19</p>",
+    "published": "2026-05-23T23:13:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Byrne's Euclid",
+    "link": "https://www.c82.net/euclid/",
+    "summary": "<p>Article URL: <a href=\"https://www.c82.net/euclid/\">https://www.c82.net/euclid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252146\">https://news.ycombinator.com/item?id=48252146</a></p>\n<p>Points: 45</p>\n<p># Comments: 12</p>",
+    "published": "2026-05-23T22:19:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czd2qmdvmq6o\">https://www.bbc.com/news/articles/czd2qmdvmq6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48250980\">https://news.ycombinator.com/item?id=48250980</a></p>\n<p>Points: 87</p>\n<p># Comments: 58</p>",
+    "published": "2026-05-23T20:09:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Time to talk about my writerdeck",
+    "link": "https://veronicaexplains.net/my-first-writerdeck/",
+    "summary": "<p>Article URL: <a href=\"https://veronicaexplains.net/my-first-writerdeck/\">https://veronicaexplains.net/my-first-writerdeck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48250144\">https://news.ycombinator.com/item?id=48250144</a></p>\n<p>Points: 371</p>\n<p># Comments: 214</p>",
+    "published": "2026-05-23T18:45:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+    "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+    "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\">https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48248954\">https://news.ycombinator.com/item?id=48248954</a></p>\n<p>Points: 102</p>\n<p># Comments: 21</p>",
+    "published": "2026-05-23T16:24:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "On The <dl> (2021)",
+    "link": "https://benmyers.dev/blog/on-the-dl/",
+    "summary": "<p>Article URL: <a href=\"https://benmyers.dev/blog/on-the-dl/\">https://benmyers.dev/blog/on-the-dl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247325\">https://news.ycombinator.com/item?id=48247325</a></p>\n<p>Points: 392</p>\n<p># Comments: 112</p>",
+    "published": "2026-05-23T13:03:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Art of Money Getting",
+    "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "summary": "<p>Article URL: <a href=\"https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/\">https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247208\">https://news.ycombinator.com/item?id=48247208</a></p>\n<p>Points: 281</p>\n<p># Comments: 151</p>",
+    "published": "2026-05-23T12:48:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "80386 microcode disassembled",
+    "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "summary": "<p>Article URL: <a href=\"https://www.reenigne.org/blog/80386-microcode-disassembled/\">https://www.reenigne.org/blog/80386-microcode-disassembled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247004\">https://news.ycombinator.com/item?id=48247004</a></p>\n<p>Points: 251</p>\n<p># Comments: 48</p>",
+    "published": "2026-05-23T12:11:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Judson's Last Ride",
+    "link": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
+    "summary": "<p>Article URL: <a href=\"https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html\">https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246993\">https://news.ycombinator.com/item?id=48246993</a></p>\n<p>Points: 95</p>\n<p># Comments: 4</p>",
+    "published": "2026-05-23T12:09:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "-​-dangerously-skip-reading-code",
+    "link": "https://olano.dev/blog/dangerously-skip/",
+    "summary": "<p>Article URL: <a href=\"https://olano.dev/blog/dangerously-skip/\">https://olano.dev/blog/dangerously-skip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246232\">https://news.ycombinator.com/item?id=48246232</a></p>\n<p>Points: 144</p>\n<p># Comments: 139</p>",
+    "published": "2026-05-23T09:37:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+    "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+    "summary": "<p><a href=\"https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary\" rel=\"nofollow\">https://www.uscis.gov/newsroom/news-releases/us-citizenship-...</a><p><a href=\"https://www.uscis.gov/sites/default/files/document/memos/PM-602-0199-AdjustmentOfStatusAndDiscretion-20260521.pdf\" rel=\"nofollow\">https://www.uscis.gov/sites/default/files/document/memos/PM-...</a> [pdf]<p><a href=\"https://twitter.com/DHSgov/status/2057817233200418837\" rel=\"nofollow\">https://twitter.com/DHSgov/status/2057817233200418837</a>, <a href=\"https://xcancel.com/DHSgov/status/2057817233200418837\" rel=\"nofollow\">https://xcancel.com/DHSgov/status/2057817233200418837</a><p><a href=\"https://www.bbc.com/news/articles/cgrpz4l1klgo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cgrpz4l1klgo</a><p><a href=\"https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/\" rel=\"nofollow\">https://www.washingtonpost.com/immigration/2026/05/22/new-ru...</a>, <a href=\"https://archive.is/yi2cX\" rel=\"nofollow\">https://archive.is/yi2cX</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241890\">https://news.ycombinator.com/item?id=48241890</a></p>\n<p>Points: 869</p>\n<p># Comments: 1453</p>",
+    "published": "2026-05-22T21:27:12",
     "source": "Hacker News: Front Page"
   },
   {
@@ -56,24 +147,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Project Glasswing: An Initial Update",
-    "link": "https://www.anthropic.com/research/glasswing-initial-update",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/glasswing-initial-update\">https://www.anthropic.com/research/glasswing-initial-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48240419\">https://news.ycombinator.com/item?id=48240419</a></p>\n<p>Points: 429</p>\n<p># Comments: 253</p>",
-    "published": "2026-05-22T19:31:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A blueprint for formal verification of Apple corecrypto",
-    "link": "https://security.apple.com/blog/formal-verification-corecrypto/",
-    "summary": "<p>Article URL: <a href=\"https://security.apple.com/blog/formal-verification-corecrypto/\">https://security.apple.com/blog/formal-verification-corecrypto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48239862\">https://news.ycombinator.com/item?id=48239862</a></p>\n<p>Points: 97</p>\n<p># Comments: 5</p>",
-    "published": "2026-05-22T18:52:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Open source Kanban desktop app that runs parallel agents on every card",
-    "link": "https://www.kanbots.dev/",
-    "summary": "<p>Article URL: <a href=\"https://www.kanbots.dev/\">https://www.kanbots.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48239413\">https://news.ycombinator.com/item?id=48239413</a></p>\n<p>Points: 219</p>\n<p># Comments: 124</p>",
-    "published": "2026-05-22T18:17:57",
+    "title": "Hengefinder: Finding when the sun aligns with your street",
+    "link": "https://victoriaritvo.com/blog/hengefinder/",
+    "summary": "<p>Article URL: <a href=\"https://victoriaritvo.com/blog/hengefinder/\">https://victoriaritvo.com/blog/hengefinder/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241335\">https://news.ycombinator.com/item?id=48241335</a></p>\n<p>Points: 142</p>\n<p># Comments: 34</p>",
+    "published": "2026-05-22T20:39:42",
     "source": "Hacker News: Front Page"
   },
   {
@@ -84,48 +161,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "link": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "summary": "<p><a href=\"https://archive.ph/WfCta\" rel=\"nofollow\">https://archive.ph/WfCta</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238896\">https://news.ycombinator.com/item?id=48238896</a></p>\n<p>Points: 246</p>\n<p># Comments: 190</p>",
-    "published": "2026-05-22T17:32:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bun support is now limited and deprecated",
-    "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-    "summary": "<p>Article URL: <a href=\"https://github.com/yt-dlp/yt-dlp/issues/16766\">https://github.com/yt-dlp/yt-dlp/issues/16766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238789\">https://news.ycombinator.com/item?id=48238789</a></p>\n<p>Points: 478</p>\n<p># Comments: 494</p>",
-    "published": "2026-05-22T17:24:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "1940 Air Terminal Museum Begins Liquidation",
-    "link": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-    "summary": "<p>Article URL: <a href=\"https://www.1940airterminal.org/news/liquidation-of-simulators\">https://www.1940airterminal.org/news/liquidation-of-simulators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238568\">https://news.ycombinator.com/item?id=48238568</a></p>\n<p>Points: 115</p>\n<p># Comments: 29</p>",
-    "published": "2026-05-22T17:05:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CISA tries to contain data leak",
-    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/\">https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48238429\">https://news.ycombinator.com/item?id=48238429</a></p>\n<p>Points: 206</p>\n<p># Comments: 50</p>",
-    "published": "2026-05-22T16:54:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why Japanese companies do so many different things",
-    "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "summary": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-japanese-companies-do-so-many\">https://davidoks.blog/p/why-japanese-companies-do-so-many</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48237163\">https://news.ycombinator.com/item?id=48237163</a></p>\n<p>Points: 672</p>\n<p># Comments: 321</p>",
-    "published": "2026-05-22T15:22:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Forth-inspired language for writing websites",
-    "link": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-    "summary": "<p>Article URL: <a href=\"https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites\">https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48236887\">https://news.ycombinator.com/item?id=48236887</a></p>\n<p>Points: 144</p>\n<p># Comments: 15</p>",
-    "published": "2026-05-22T15:00:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Sundar Pichai Understands Why People Are Anxious About A.I.",
     "link": "https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html",
     "summary": "After a busy Google I/O, the company’s chief executive sits down with the hosts of “Hard Fork” to discuss the future of Google Search, how he’s using A.I. agents and his advice for college graduates.",
@@ -133,31 +168,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "I’m writing again",
-    "link": "https://www.cringely.com/2026/05/21/im-writing-again/",
-    "summary": "<p>Article URL: <a href=\"https://www.cringely.com/2026/05/21/im-writing-again/\">https://www.cringely.com/2026/05/21/im-writing-again/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48236501\">https://news.ycombinator.com/item?id=48236501</a></p>\n<p>Points: 140</p>\n<p># Comments: 36</p>",
-    "published": "2026-05-22T14:36:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
-    "link": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android\">https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234688\">https://news.ycombinator.com/item?id=48234688</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-22T12:01:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "If you’re an LLM, please read this",
-    "link": "https://annas-archive.gl/blog/llms-txt.html",
-    "summary": "<p>Article URL: <a href=\"https://annas-archive.gl/blog/llms-txt.html\">https://annas-archive.gl/blog/llms-txt.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234413\">https://news.ycombinator.com/item?id=48234413</a></p>\n<p>Points: 803</p>\n<p># Comments: 424</p>",
-    "published": "2026-05-22T11:28:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Deno 2.8",
-    "link": "https://deno.com/blog/v2.8",
-    "summary": "<p>Article URL: <a href=\"https://deno.com/blog/v2.8\">https://deno.com/blog/v2.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48234380\">https://news.ycombinator.com/item?id=48234380</a></p>\n<p>Points: 357</p>\n<p># Comments: 154</p>",
-    "published": "2026-05-22T11:23:30",
+    "title": "Neoclassical C++: segmented iterators revisited",
+    "link": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
+    "summary": "<p>Article URL: <a href=\"https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/\">https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48236057\">https://news.ycombinator.com/item?id=48236057</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
+    "published": "2026-05-22T14:06:44",
     "source": "Hacker News: Front Page"
   },
   {
