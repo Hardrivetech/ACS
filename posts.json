@@ -1,9 +1,114 @@
 [
   {
+    "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+    "link": "https://www.tinyvolt.com/geomatic",
+    "summary": "<p>All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.<p>One can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imagine creating a list of circles where one dim corresponds to radius and another to the center). One can also use backpropagation, run gradient descent or visualize vector fields. Almost everything is reactive so changing a variable updates all of the downstream geometry. It also allows anyone to write and load their own visualization, which can be broadcasted and differentiated through.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48264635\">https://news.ycombinator.com/item?id=48264635</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
+    "published": "2026-05-25T08:25:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
+    "link": "https://www.atlasobscura.com/articles/blankets-summer-hot",
+    "summary": "<p>Article URL: <a href=\"https://www.atlasobscura.com/articles/blankets-summer-hot\">https://www.atlasobscura.com/articles/blankets-summer-hot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48263711\">https://news.ycombinator.com/item?id=48263711</a></p>\n<p>Points: 38</p>\n<p># Comments: 22</p>",
+    "published": "2026-05-25T05:33:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jira Is Turing-Complete",
+    "link": "https://seriot.ch/computation/jira.html",
+    "summary": "<p>Article URL: <a href=\"https://seriot.ch/computation/jira.html\">https://seriot.ch/computation/jira.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48263253\">https://news.ycombinator.com/item?id=48263253</a></p>\n<p>Points: 177</p>\n<p># Comments: 76</p>",
+    "published": "2026-05-25T03:54:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Eternal Sloptember",
+    "link": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "summary": "<p>Article URL: <a href=\"https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\">https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48263238\">https://news.ycombinator.com/item?id=48263238</a></p>\n<p>Points: 331</p>\n<p># Comments: 265</p>",
+    "published": "2026-05-25T03:47:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A fundamental principle of aeronautical engineering has been overturned",
+    "link": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\">https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48260117\">https://news.ycombinator.com/item?id=48260117</a></p>\n<p>Points: 167</p>\n<p># Comments: 80</p>",
+    "published": "2026-05-24T19:10:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Defeating Git Rigour Fatigue with Jujutsu",
+    "link": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+    "summary": "<p>Article URL: <a href=\"https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\">https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48259861\">https://news.ycombinator.com/item?id=48259861</a></p>\n<p>Points: 122</p>\n<p># Comments: 129</p>",
+    "published": "2026-05-24T18:39:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Migrating from Go to Rust",
+    "link": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "summary": "<p>Article URL: <a href=\"https://corrode.dev/learn/migration-guides/go-to-rust/\">https://corrode.dev/learn/migration-guides/go-to-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48259808\">https://news.ycombinator.com/item?id=48259808</a></p>\n<p>Points: 285</p>\n<p># Comments: 278</p>",
+    "published": "2026-05-24T18:31:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Building Pi with Pi",
+    "link": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/5/24/pi-oss/\">https://lucumr.pocoo.org/2026/5/24/pi-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48259192\">https://news.ycombinator.com/item?id=48259192</a></p>\n<p>Points: 93</p>\n<p># Comments: 65</p>",
+    "published": "2026-05-24T17:22:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+    "link": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\">https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48258995\">https://news.ycombinator.com/item?id=48258995</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-24T17:00:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "summary": "<p>Article URL: <a href=\"https://epoch.ai/data-insights/ai-chip-component-cost-shares\">https://epoch.ai/data-insights/ai-chip-component-cost-shares</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48258684\">https://news.ycombinator.com/item?id=48258684</a></p>\n<p>Points: 387</p>\n<p># Comments: 402</p>",
+    "published": "2026-05-24T16:31:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "link": "https://audiomass.co/?multitrack=1",
+    "summary": "<p>Article URL: <a href=\"https://audiomass.co/?multitrack=1\">https://audiomass.co/?multitrack=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48258015\">https://news.ycombinator.com/item?id=48258015</a></p>\n<p>Points: 372</p>\n<p># Comments: 81</p>",
+    "published": "2026-05-24T15:25:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "summary": "<p>Related ongoing thread:<p><i>DeepSeek makes the V4 Pro price discount permanent</i> - <a href=\"https://news.ycombinator.com/item?id=48237663\">https://news.ycombinator.com/item?id=48237663</a> - May 2026 (384 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256953\">https://news.ycombinator.com/item?id=48256953</a></p>\n<p>Points: 569</p>\n<p># Comments: 233</p>",
+    "published": "2026-05-24T13:02:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "link": "https://arxiv.org/abs/2605.06445",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.06445\">https://arxiv.org/abs/2605.06445</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256912\">https://news.ycombinator.com/item?id=48256912</a></p>\n<p>Points: 241</p>\n<p># Comments: 136</p>",
+    "published": "2026-05-24T12:55:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Childhood Computing",
+    "link": "https://susam.net/childhood-computing.html",
+    "summary": "<p>Article URL: <a href=\"https://susam.net/childhood-computing.html\">https://susam.net/childhood-computing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256597\">https://news.ycombinator.com/item?id=48256597</a></p>\n<p>Points: 212</p>\n<p># Comments: 99</p>",
+    "published": "2026-05-24T12:07:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mastering Dyalog APL",
+    "link": "https://mastering.dyalog.com/README.html",
+    "summary": "<p>Article URL: <a href=\"https://mastering.dyalog.com/README.html\">https://mastering.dyalog.com/README.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256475\">https://news.ycombinator.com/item?id=48256475</a></p>\n<p>Points: 143</p>\n<p># Comments: 37</p>",
+    "published": "2026-05-24T11:42:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "UK Institute Is Hunting for Dangers Lurking in AI",
     "link": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
     "summary": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
-    "published": "2026-05-24T09:01:42",
+    "published": "2026-05-24T09:01:43",
     "source": "NYT > Technology"
   },
   {
@@ -14,144 +119,46 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Amazon Web Services – Four Years and Out",
-    "link": "https://www.adventuresinoss.com/aws-four-years/",
-    "summary": "<p>Article URL: <a href=\"https://www.adventuresinoss.com/aws-four-years/\">https://www.adventuresinoss.com/aws-four-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254475\">https://news.ycombinator.com/item?id=48254475</a></p>\n<p>Points: 194</p>\n<p># Comments: 56</p>",
-    "published": "2026-05-24T04:51:22",
+    "title": "Greg Brockman interview [video]",
+    "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "summary": "<p>Article URL: <a href=\"https://fs.blog/knowledge-project-podcast/greg-brockman/\">https://fs.blog/knowledge-project-podcast/greg-brockman/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48255593\">https://news.ycombinator.com/item?id=48255593</a></p>\n<p>Points: 199</p>\n<p># Comments: 215</p>",
+    "published": "2026-05-24T08:29:38",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
     "link": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-    "summary": "<p>Article URL: <a href=\"https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\">https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254309\">https://news.ycombinator.com/item?id=48254309</a></p>\n<p>Points: 141</p>\n<p># Comments: 46</p>",
+    "summary": "<p>Article URL: <a href=\"https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\">https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254309\">https://news.ycombinator.com/item?id=48254309</a></p>\n<p>Points: 326</p>\n<p># Comments: 201</p>",
     "published": "2026-05-24T04:14:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The C64 Dead Test Font",
-    "link": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-    "summary": "<p>Article URL: <a href=\"https://www.masswerk.at/nowgobang/2026/c64-dead-test-font\">https://www.masswerk.at/nowgobang/2026/c64-dead-test-font</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254236\">https://news.ycombinator.com/item?id=48254236</a></p>\n<p>Points: 45</p>\n<p># Comments: 4</p>",
-    "published": "2026-05-24T03:57:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-    "link": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-    "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/\">https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48254020\">https://news.ycombinator.com/item?id=48254020</a></p>\n<p>Points: 56</p>\n<p># Comments: 10</p>",
-    "published": "2026-05-24T03:19:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+    "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
     "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-    "summary": "<p><a href=\"https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/\" rel=\"nofollow\">https://opensource.microsoft.com/blog/2026/04/28/continuing-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253386\">https://news.ycombinator.com/item?id=48253386</a></p>\n<p>Points: 237</p>\n<p># Comments: 61</p>",
+    "summary": "<p><a href=\"https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/\" rel=\"nofollow\">https://opensource.microsoft.com/blog/2026/04/28/continuing-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253386\">https://news.ycombinator.com/item?id=48253386</a></p>\n<p>Points: 476</p>\n<p># Comments: 168</p>",
     "published": "2026-05-24T01:21:13",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Scammers are abusing an internal Microsoft account to send spam links",
     "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\">https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253186\">https://news.ycombinator.com/item?id=48253186</a></p>\n<p>Points: 141</p>\n<p># Comments: 59</p>",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\">https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253186\">https://news.ycombinator.com/item?id=48253186</a></p>\n<p>Points: 289</p>\n<p># Comments: 162</p>",
     "published": "2026-05-24T00:51:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Wake up! 16b",
-    "link": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-    "summary": "<p>Article URL: <a href=\"https://hellmood.111mb.de/wake_up_16b_writeup.html\">https://hellmood.111mb.de/wake_up_16b_writeup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48253060\">https://news.ycombinator.com/item?id=48253060</a></p>\n<p>Points: 220</p>\n<p># Comments: 13</p>",
-    "published": "2026-05-24T00:30:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My I3-Emacs Integration",
-    "link": "https://khz.ac/software/i3-integration.html",
-    "summary": "<p>Article URL: <a href=\"https://khz.ac/software/i3-integration.html\">https://khz.ac/software/i3-integration.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252535\">https://news.ycombinator.com/item?id=48252535</a></p>\n<p>Points: 71</p>\n<p># Comments: 19</p>",
-    "published": "2026-05-23T23:13:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Byrne's Euclid",
-    "link": "https://www.c82.net/euclid/",
-    "summary": "<p>Article URL: <a href=\"https://www.c82.net/euclid/\">https://www.c82.net/euclid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48252146\">https://news.ycombinator.com/item?id=48252146</a></p>\n<p>Points: 45</p>\n<p># Comments: 12</p>",
-    "published": "2026-05-23T22:19:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "link": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/czd2qmdvmq6o\">https://www.bbc.com/news/articles/czd2qmdvmq6o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48250980\">https://news.ycombinator.com/item?id=48250980</a></p>\n<p>Points: 87</p>\n<p># Comments: 58</p>",
-    "published": "2026-05-23T20:09:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Time to talk about my writerdeck",
-    "link": "https://veronicaexplains.net/my-first-writerdeck/",
-    "summary": "<p>Article URL: <a href=\"https://veronicaexplains.net/my-first-writerdeck/\">https://veronicaexplains.net/my-first-writerdeck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48250144\">https://news.ycombinator.com/item?id=48250144</a></p>\n<p>Points: 371</p>\n<p># Comments: 214</p>",
-    "published": "2026-05-23T18:45:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-    "link": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-    "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\">https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48248954\">https://news.ycombinator.com/item?id=48248954</a></p>\n<p>Points: 102</p>\n<p># Comments: 21</p>",
-    "published": "2026-05-23T16:24:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "On The <dl> (2021)",
-    "link": "https://benmyers.dev/blog/on-the-dl/",
-    "summary": "<p>Article URL: <a href=\"https://benmyers.dev/blog/on-the-dl/\">https://benmyers.dev/blog/on-the-dl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247325\">https://news.ycombinator.com/item?id=48247325</a></p>\n<p>Points: 392</p>\n<p># Comments: 112</p>",
-    "published": "2026-05-23T13:03:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Art of Money Getting",
-    "link": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-    "summary": "<p>Article URL: <a href=\"https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/\">https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247208\">https://news.ycombinator.com/item?id=48247208</a></p>\n<p>Points: 281</p>\n<p># Comments: 151</p>",
-    "published": "2026-05-23T12:48:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "80386 microcode disassembled",
-    "link": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-    "summary": "<p>Article URL: <a href=\"https://www.reenigne.org/blog/80386-microcode-disassembled/\">https://www.reenigne.org/blog/80386-microcode-disassembled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48247004\">https://news.ycombinator.com/item?id=48247004</a></p>\n<p>Points: 251</p>\n<p># Comments: 48</p>",
-    "published": "2026-05-23T12:11:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Judson's Last Ride",
-    "link": "https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html",
-    "summary": "<p>Article URL: <a href=\"https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html\">https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246993\">https://news.ycombinator.com/item?id=48246993</a></p>\n<p>Points: 95</p>\n<p># Comments: 4</p>",
-    "published": "2026-05-23T12:09:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "-​-dangerously-skip-reading-code",
-    "link": "https://olano.dev/blog/dangerously-skip/",
-    "summary": "<p>Article URL: <a href=\"https://olano.dev/blog/dangerously-skip/\">https://olano.dev/blog/dangerously-skip/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246232\">https://news.ycombinator.com/item?id=48246232</a></p>\n<p>Points: 144</p>\n<p># Comments: 139</p>",
-    "published": "2026-05-23T09:37:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-    "summary": "<p><a href=\"https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary\" rel=\"nofollow\">https://www.uscis.gov/newsroom/news-releases/us-citizenship-...</a><p><a href=\"https://www.uscis.gov/sites/default/files/document/memos/PM-602-0199-AdjustmentOfStatusAndDiscretion-20260521.pdf\" rel=\"nofollow\">https://www.uscis.gov/sites/default/files/document/memos/PM-...</a> [pdf]<p><a href=\"https://twitter.com/DHSgov/status/2057817233200418837\" rel=\"nofollow\">https://twitter.com/DHSgov/status/2057817233200418837</a>, <a href=\"https://xcancel.com/DHSgov/status/2057817233200418837\" rel=\"nofollow\">https://xcancel.com/DHSgov/status/2057817233200418837</a><p><a href=\"https://www.bbc.com/news/articles/cgrpz4l1klgo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cgrpz4l1klgo</a><p><a href=\"https://www.washingtonpost.com/immigration/2026/05/22/new-rule-requires-most-green-card-applicants-apply-outside-us/\" rel=\"nofollow\">https://www.washingtonpost.com/immigration/2026/05/22/new-ru...</a>, <a href=\"https://archive.is/yi2cX\" rel=\"nofollow\">https://archive.is/yi2cX</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241890\">https://news.ycombinator.com/item?id=48241890</a></p>\n<p>Points: 869</p>\n<p># Comments: 1453</p>",
-    "published": "2026-05-22T21:27:12",
+    "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+    "link": "https://ohwr.org/projects/white-rabbit/",
+    "summary": "<p>Article URL: <a href=\"https://ohwr.org/projects/white-rabbit/\">https://ohwr.org/projects/white-rabbit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48245916\">https://news.ycombinator.com/item?id=48245916</a></p>\n<p>Points: 102</p>\n<p># Comments: 28</p>",
+    "published": "2026-05-23T08:38:44",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads",
     "link": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html",
     "summary": "The temporary shutdowns came after videos emerged showing two Waymo cars stopped on swamped streets in Atlanta on Wednesday.",
-    "published": "2026-05-22T21:24:50",
+    "published": "2026-05-22T21:24:51",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Hengefinder: Finding when the sun aligns with your street",
-    "link": "https://victoriaritvo.com/blog/hengefinder/",
-    "summary": "<p>Article URL: <a href=\"https://victoriaritvo.com/blog/hengefinder/\">https://victoriaritvo.com/blog/hengefinder/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48241335\">https://news.ycombinator.com/item?id=48241335</a></p>\n<p>Points: 142</p>\n<p># Comments: 34</p>",
-    "published": "2026-05-22T20:39:42",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Google Appeals Landmark Ruling Declaring It a Monopolist in Search",
@@ -166,13 +173,6 @@
     "summary": "After a busy Google I/O, the company’s chief executive sits down with the hosts of “Hard Fork” to discuss the future of Google Search, how he’s using A.I. agents and his advice for college graduates.",
     "published": "2026-05-22T14:49:56",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Neoclassical C++: segmented iterators revisited",
-    "link": "https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/",
-    "summary": "<p>Article URL: <a href=\"https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/\">https://boostedcpp.net/2026/05/18/neoclassical-c-segmented-iterators-revisited-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48236057\">https://news.ycombinator.com/item?id=48236057</a></p>\n<p>Points: 26</p>\n<p># Comments: 2</p>",
-    "published": "2026-05-22T14:06:44",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
@@ -214,20 +214,6 @@
     "link": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html",
     "summary": "Gov. Gavin Newsom issued an executive order to explore an overhaul of labor policies to deal with potential mass job displacement from artificial intelligence.",
     "published": "2026-05-21T15:26:59",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It.",
-    "link": "https://www.nytimes.com/2026/05/21/business/china-nvidia-chip-trump-ai.html",
-    "summary": "The U.S. tech giant’s powerful H200 chip seemed poised to boost Beijing’s A.I. ambitions, but not a single one has been purchased in China.",
-    "published": "2026-05-21T12:21:51",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Bluesky Says Kremlin Is Hacking Its Platform to Spread Propaganda",
-    "link": "https://www.nytimes.com/2026/05/21/business/bluesky-russia-hacking-accounts.html",
-    "summary": "The company said it was fighting Russian efforts to hijack real users’ accounts to post fake content, an apparently novel tactic.",
-    "published": "2026-05-21T09:02:17",
     "source": "NYT > Technology"
   },
   {
@@ -291,13 +277,6 @@
     "link": "https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html",
     "summary": "As part of the reconciliation bill, the senators have allocated $108 million over three years to add nearly 200 specialists at the Department of Homeland Security.",
     "published": "2026-05-19T18:22:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
-    "link": "https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html",
-    "summary": "For decades, he criticized the industry’s lax attitudes toward computer security and individual digital privacy. He also developed solutions.",
-    "published": "2026-05-19T17:57:11",
     "source": "NYT > Technology"
   },
   {
