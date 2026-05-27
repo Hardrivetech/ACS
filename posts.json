@@ -1,9 +1,156 @@
 [
   {
-    "title": "Flatpak Will Depend on Systemd",
-    "link": "https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/",
-    "summary": "<p>Article URL: <a href=\"https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/\">https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48277355\">https://news.ycombinator.com/item?id=48277355</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
-    "published": "2026-05-26T09:43:36",
+    "title": "Mini Micro Fantasy Computer",
+    "link": "https://miniscript.org/MiniMicro/index.html#about",
+    "summary": "<p>Article URL: <a href=\"https://miniscript.org/MiniMicro/index.html#about\">https://miniscript.org/MiniMicro/index.html#about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48291947\">https://news.ycombinator.com/item?id=48291947</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-27T09:56:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
+    "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+    "summary": "What an A.I.-generated video of the former reality TV star teaches us about the future of political ads.",
+    "published": "2026-05-27T09:02:21",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+    "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
+    "summary": "A Mad Hatter and a giant rabbit sit around a table discussing an A.I. start-up. This is normal behavior around the Bay Area these days.",
+    "published": "2026-05-27T09:00:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
+    "link": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+    "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/review/nvidia-vera-benchmarks\">https://www.phoronix.com/review/nvidia-vera-benchmarks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48291230\">https://news.ycombinator.com/item?id=48291230</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+    "published": "2026-05-27T08:15:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Unicode 18.0.0 Beta",
+    "link": "https://www.unicode.org/versions/Unicode18.0.0/",
+    "summary": "<p>Article URL: <a href=\"https://www.unicode.org/versions/Unicode18.0.0/\">https://www.unicode.org/versions/Unicode18.0.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48290881\">https://news.ycombinator.com/item?id=48290881</a></p>\n<p>Points: 18</p>\n<p># Comments: 19</p>",
+    "published": "2026-05-27T07:28:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "link": "https://arps18.github.io/posts/claude-code-mastery/",
+    "summary": "<p>Article URL: <a href=\"https://arps18.github.io/posts/claude-code-mastery/\">https://arps18.github.io/posts/claude-code-mastery/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48289950\">https://news.ycombinator.com/item?id=48289950</a></p>\n<p>Points: 59</p>\n<p># Comments: 26</p>",
+    "published": "2026-05-27T05:13:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+    "link": "https://github.com/craigmccaskill/posthorn",
+    "summary": "<p>Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.<p>I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many different VPS services have started to block the default SMTP ports to try to combat the various types of abuse they get. To actually configure my app, I had to hack together a Postfix relay.<p>In another project, I had a static site which had a contact form, but my free Formspree account was occasionally hitting usage limits and I desperately wanted some of the anti-spam features they had gated behind their paid accounts so I put together a caddy module to catch HTTP POSTs and bounce them to my provider.<p>I kept bumping into these same email issues. Many of the services I wanted to host (Gitea, Mastodon, Umami, Comentario) ran into the same limitations. This felt like a really common issue that had no good solution.<p>Posthorn is what I built to solve this. It's a small Go binary (or 10 MB docker image) that sits between your self hosted apps and your transactional email provider of choice (shipping with support for Postmark, Resend, Mailgun, Amazon SES or an outbound SMTP relay). It also accepts POSTs from HTML forms to support static site needs while adding security layers such as honeypot fields, origin checks and IP rate limiting. There's also a JSON HTTP API that supports Bearer auth for backend scripts or cron jobs that just want a /send endpoint.<p>I now use this personally in multiple scenarios and I've spent a lot of time beating this up and testing against what I can validate. I'd love to hear how this might be useful for you, what breaks and any feedback you might have. It's open source under Apache 2.0 and I'd love contributions. I'm planning to support and grow this for the long haul.<p>Code: <a href=\"https://github.com/craigmccaskill/posthorn\" rel=\"nofollow\">https://github.com/craigmccaskill/posthorn</a><p>Docs: <a href=\"https://posthorn.dev/\" rel=\"nofollow\">https://posthorn.dev/</a><p>Longer write up: <a href=\"https://craigmccaskill.com/introducing-posthorn/\" rel=\"nofollow\">https://craigmccaskill.com/introducing-posthorn/</a><p>Previous HN discussion on the exact issue I'm trying to solve: <a href=\"https://news.ycombinator.com/item?id=43620318\">https://news.ycombinator.com/item?id=43620318</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48289624\">https://news.ycombinator.com/item?id=48289624</a></p>\n<p>Points: 27</p>\n<p># Comments: 27</p>",
+    "published": "2026-05-27T04:26:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
+    "link": "https://tsduck.io/",
+    "summary": "<p>Article URL: <a href=\"https://tsduck.io/\">https://tsduck.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48288709\">https://news.ycombinator.com/item?id=48288709</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>",
+    "published": "2026-05-27T02:22:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tunecat: Simple Internet Radio",
+    "link": "https://codeberg.org/lindenii/tunecat/",
+    "summary": "<p>Article URL: <a href=\"https://codeberg.org/lindenii/tunecat/\">https://codeberg.org/lindenii/tunecat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48288174\">https://news.ycombinator.com/item?id=48288174</a></p>\n<p>Points: 51</p>\n<p># Comments: 3</p>",
+    "published": "2026-05-27T01:08:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare Flagship",
+    "link": "https://developers.cloudflare.com/flagship/",
+    "summary": "<p>Article URL: <a href=\"https://developers.cloudflare.com/flagship/\">https://developers.cloudflare.com/flagship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48287468\">https://news.ycombinator.com/item?id=48287468</a></p>\n<p>Points: 221</p>\n<p># Comments: 115</p>",
+    "published": "2026-05-26T23:36:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
+    "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
+    "summary": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology.",
+    "published": "2026-05-26T21:54:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The worst job interview I ever had",
+    "link": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+    "summary": "<p>Article URL: <a href=\"https://www.oliverio.dev/blog/the-worst-job-interview-i-had\">https://www.oliverio.dev/blog/the-worst-job-interview-i-had</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48285344\">https://news.ycombinator.com/item?id=48285344</a></p>\n<p>Points: 317</p>\n<p># Comments: 252</p>",
+    "published": "2026-05-26T20:11:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "That Methyl Methacrylate Tank",
+    "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/methyl-methacrylate-tank\">https://www.science.org/content/blog-post/methyl-methacrylate-tank</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48284712\">https://news.ycombinator.com/item?id=48284712</a></p>\n<p>Points: 330</p>\n<p># Comments: 132</p>",
+    "published": "2026-05-26T19:25:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Melancholy of Slaying Monsters",
+    "link": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+    "summary": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/\">https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48284711\">https://news.ycombinator.com/item?id=48284711</a></p>\n<p>Points: 90</p>\n<p># Comments: 30</p>",
+    "published": "2026-05-26T19:25:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
+    "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
+    "summary": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said.",
+    "published": "2026-05-26T18:59:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Sage Care (YC S24) Is Hiring Software Engineers",
+    "link": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer\">https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48282478\">https://news.ycombinator.com/item?id=48282478</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-26T17:00:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What color is your function? (2015)",
+    "link": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+    "summary": "<p>Article URL: <a href=\"https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/\">https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48281515\">https://news.ycombinator.com/item?id=48281515</a></p>\n<p>Points: 127</p>\n<p># Comments: 156</p>",
+    "published": "2026-05-26T15:58:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+    "link": "https://www.minicor.com/",
+    "summary": "<p>Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: <a href=\"https://www.youtube.com/watch?v=MD0GHZIJ1cw\" rel=\"nofollow\">https://www.youtube.com/watch?v=MD0GHZIJ1cw</a><p>Edit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn't clear!<p>We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medical record system. We didn’t know it at the time but it turns out that building desktop RPAs at scale is extremely difficult because scripting is hard (learning the system, defining the automation, UIs changing constantly), orchestration is hard (is the VM up? queuing, parallelizing) and debugging is hard (zero observability, false positives, cascading failures). 30%+ failure rates are not uncommon. At scale we’ve seen cases of failed RPAs leading to thousands of support tickets a month.<p>To solve the problems we were facing, we built an MCP that Claude Code/Codex can use to navigate a virtual machine running desktop software with Python to create RPA workflows. The RPA workflows run as Python scripts for speed, cost, and determinism. These workflows can be triggered by API following any input/output schema specified, with video replays and logs stored with each run. The MCP can debug RPAs and make changes to the underlying code, all of which are version controlled. We also built tools for cloning VMs for parallelizing RPAs, and handling 2FA/OTP challenges. Plus since workflows are code based: we were also able to add triggers for Slack notifications, human-in-the-loop steps, or call an LLM to verify the state of a VM by passing a screenshot.<p>Would love to hear your feedback and if you have any RPA horror stories! (:</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48280729\">https://news.ycombinator.com/item?id=48280729</a></p>\n<p>Points: 90</p>\n<p># Comments: 55</p>",
+    "published": "2026-05-26T14:57:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Dropbox CEO Drew Houston to step down",
+    "link": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+    "summary": "<p><a href=\"https://blog.dropbox.com/topics/company/dropbox-leadership-update\" rel=\"nofollow\">https://blog.dropbox.com/topics/company/dropbox-leadership-u...</a><p><a href=\"https://twitter.com/drewhouston/status/2059275240065425474?s=20\" rel=\"nofollow\">https://twitter.com/drewhouston/status/2059275240065425474?s...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48279453\">https://news.ycombinator.com/item?id=48279453</a></p>\n<p>Points: 348</p>\n<p># Comments: 371</p>",
+    "published": "2026-05-26T13:18:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+    "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/\">https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48279316\">https://news.ycombinator.com/item?id=48279316</a></p>\n<p>Points: 926</p>\n<p># Comments: 428</p>",
+    "published": "2026-05-26T13:08:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Raft Consensus with a Minority of Nodes",
+    "link": "https://padhye.org/raft-minority/",
+    "summary": "<p>Article URL: <a href=\"https://padhye.org/raft-minority/\">https://padhye.org/raft-minority/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48277723\">https://news.ycombinator.com/item?id=48277723</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-26T10:30:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+    "link": "https://badhost.org/",
+    "summary": "<p><a href=\"https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/\" rel=\"nofollow\">https://arstechnica.com/information-technology/2026/05/milli...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48277107\">https://news.ycombinator.com/item?id=48277107</a></p>\n<p>Points: 51</p>\n<p># Comments: 18</p>",
+    "published": "2026-05-26T09:07:18",
     "source": "Hacker News: Front Page"
   },
   {
@@ -14,108 +161,24 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-    "link": "https://dynip.dev/",
-    "summary": "<p>Article URL: <a href=\"https://dynip.dev/\">https://dynip.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48276363\">https://news.ycombinator.com/item?id=48276363</a></p>\n<p>Points: 109</p>\n<p># Comments: 41</p>",
-    "published": "2026-05-26T07:35:20",
+    "title": "A portentous reunion",
+    "link": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+    "summary": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/\">https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48275564\">https://news.ycombinator.com/item?id=48275564</a></p>\n<p>Points: 105</p>\n<p># Comments: 27</p>",
+    "published": "2026-05-26T05:57:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
-    "link": "https://github.com/andreoliwa/logseq-doctor",
-    "summary": "<p>Article URL: <a href=\"https://github.com/andreoliwa/logseq-doctor\">https://github.com/andreoliwa/logseq-doctor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48275462\">https://news.ycombinator.com/item?id=48275462</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-    "published": "2026-05-26T05:43:25",
-    "source": "Hacker News: Front Page"
+    "title": "Massachusetts Uber and Lyft Drivers Form First Union for Ride-Share Workers",
+    "link": "https://www.nytimes.com/2026/05/25/business/uber-lyft-app-drivers-union-massachusetts.html",
+    "summary": "The App Drivers Union said it was the first organization in the country to be formally certified to represent drivers for apps such as Uber and Lyft.",
+    "published": "2026-05-25T21:29:58",
+    "source": "NYT > Technology"
   },
   {
-    "title": "The User Is Visibly Frustrated",
-    "link": "https://pscanf.com/s/354/",
-    "summary": "<p>Article URL: <a href=\"https://pscanf.com/s/354/\">https://pscanf.com/s/354/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48275059\">https://news.ycombinator.com/item?id=48275059</a></p>\n<p>Points: 156</p>\n<p># Comments: 133</p>",
-    "published": "2026-05-26T04:39:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-    "link": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
-    "summary": "<p>Article URL: <a href=\"https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\">https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48274794\">https://news.ycombinator.com/item?id=48274794</a></p>\n<p>Points: 159</p>\n<p># Comments: 89</p>",
-    "published": "2026-05-26T03:56:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-    "link": "https://earthiongame.com/",
-    "summary": "<p>Article URL: <a href=\"https://earthiongame.com/\">https://earthiongame.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48274711\">https://news.ycombinator.com/item?id=48274711</a></p>\n<p>Points: 69</p>\n<p># Comments: 29</p>",
-    "published": "2026-05-26T03:42:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Performance of Rust Language [pdf]",
-    "link": "https://github.com/yugr/rust-slides/",
-    "summary": "<p>Article URL: <a href=\"https://github.com/yugr/rust-slides/\">https://github.com/yugr/rust-slides/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48273147\">https://news.ycombinator.com/item?id=48273147</a></p>\n<p>Points: 76</p>\n<p># Comments: 50</p>",
-    "published": "2026-05-25T23:37:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nobody cracks open a programming book anymore",
-    "link": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-    "summary": "<p>Article URL: <a href=\"https://unix.foo/posts/nobody-cracks-open-a-programming-book/\">https://unix.foo/posts/nobody-cracks-open-a-programming-book/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48273030\">https://news.ycombinator.com/item?id=48273030</a></p>\n<p>Points: 206</p>\n<p># Comments: 237</p>",
-    "published": "2026-05-25T23:21:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Using AI to write better code more slowly",
-    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "summary": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\">https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48272984\">https://news.ycombinator.com/item?id=48272984</a></p>\n<p>Points: 665</p>\n<p># Comments: 247</p>",
-    "published": "2026-05-25T23:16:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Shamir's Secret Sharing Works",
-    "link": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-    "summary": "<p>Article URL: <a href=\"https://ente.com/blog/how-shamirs-secret-sharing-works/\">https://ente.com/blog/how-shamirs-secret-sharing-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48272715\">https://news.ycombinator.com/item?id=48272715</a></p>\n<p>Points: 203</p>\n<p># Comments: 35</p>",
-    "published": "2026-05-25T22:37:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-    "link": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-    "summary": "<p>Article URL: <a href=\"https://www.apa.org/news/press/releases/2014/04/creativity-walk\">https://www.apa.org/news/press/releases/2014/04/creativity-walk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48272670\">https://news.ycombinator.com/item?id=48272670</a></p>\n<p>Points: 305</p>\n<p># Comments: 113</p>",
-    "published": "2026-05-25T22:30:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
-    "link": "https://github.com/tantara/openbrief",
-    "summary": "<p>OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It's open source and free.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48272393\">https://news.ycombinator.com/item?id=48272393</a></p>\n<p>Points: 63</p>\n<p># Comments: 11</p>",
-    "published": "2026-05-25T21:50:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ferrari Luce",
-    "link": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-    "summary": "<p><a href=\"https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car\" rel=\"nofollow\">https://www.topgear.com/car-news/electric/its-finally-here-m...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48271629\">https://news.ycombinator.com/item?id=48271629</a></p>\n<p>Points: 260</p>\n<p># Comments: 505</p>",
-    "published": "2026-05-25T21:00:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hacker News front page as a site",
-    "link": "https://thefrontpage.dev/",
-    "summary": "<p>Article URL: <a href=\"https://thefrontpage.dev/\">https://thefrontpage.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48271127\">https://news.ycombinator.com/item?id=48271127</a></p>\n<p>Points: 264</p>\n<p># Comments: 75</p>",
-    "published": "2026-05-25T20:12:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-    "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-    "summary": "<p>Article URL: <a href=\"https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/\">https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48270812\">https://news.ycombinator.com/item?id=48270812</a></p>\n<p>Points: 162</p>\n<p># Comments: 127</p>",
-    "published": "2026-05-25T19:43:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-    "link": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-    "summary": "<p>Article URL: <a href=\"https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910\">https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48270770\">https://news.ycombinator.com/item?id=48270770</a></p>\n<p>Points: 272</p>\n<p># Comments: 179</p>",
-    "published": "2026-05-25T19:37:57",
+    "title": "A few interesting modern pixel fonts",
+    "link": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+    "summary": "<p>Article URL: <a href=\"https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/\">https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48271448\">https://news.ycombinator.com/item?id=48271448</a></p>\n<p>Points: 357</p>\n<p># Comments: 75</p>",
+    "published": "2026-05-25T20:41:49",
     "source": "Hacker News: Front Page"
   },
   {
@@ -124,34 +187,6 @@
     "summary": "The American pope wants to take artificial intelligence down a notch. Is he challenging the tech companies, or will tech take over the papacy?",
     "published": "2026-05-25T18:35:03",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "California moves to exempt Linux from its age-verification law after backlash",
-    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law\">https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269961\">https://news.ycombinator.com/item?id=48269961</a></p>\n<p>Points: 883</p>\n<p># Comments: 387</p>",
-    "published": "2026-05-25T18:19:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "link": "https://jobs.ashbyhq.com/workweave",
-    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/workweave\">https://jobs.ashbyhq.com/workweave</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269937\">https://news.ycombinator.com/item?id=48269937</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-25T18:18:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Exit IP VPN servers mitigation rollout",
-    "link": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-    "summary": "<p>Article URL: <a href=\"https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout\">https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269580\">https://news.ycombinator.com/item?id=48269580</a></p>\n<p>Points: 363</p>\n<p># Comments: 67</p>",
-    "published": "2026-05-25T17:45:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "RentFlow (YC S24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead\">https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48269041\">https://news.ycombinator.com/item?id=48269041</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-25T17:00:27",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
@@ -245,45 +280,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
-    "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
-    "summary": "Employees have signed petitions against being tracked by A.I. and were trying to figure out who had been let go on Wednesday, as the Silicon Valley giant tries to transform into an A.I.-first company.",
-    "published": "2026-05-20T21:56:06",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
     "link": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
     "summary": "OpenAI would be one of the most highly anticipated potential initial public offerings, in what is set to be a major year of I.P.O.s for Silicon Valley.",
     "published": "2026-05-20T18:41:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tesla’s Semi Truck could Jolt the Trucking Industry",
-    "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html",
-    "summary": "California truckers have expressed strong interest in the Tesla Semi because it costs much less and can travel further on a charge than electric trucks sold by established manufacturers.",
-    "published": "2026-05-19T20:31:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Google Is Starting to Win the A.I. Race",
-    "link": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
-    "summary": "Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous.",
-    "published": "2026-05-19T19:41:47",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Senate Republicans Introduce Funding Measure to Combat Online Child Abuse",
-    "link": "https://www.nytimes.com/2026/05/19/technology/senate-republicans-funding-combat-online-child-abuse.html",
-    "summary": "As part of the reconciliation bill, the senators have allocated $108 million over three years to add nearly 200 specialists at the Department of Homeland Security.",
-    "published": "2026-05-19T18:22:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
-    "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
-    "summary": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.",
-    "published": "2026-05-19T15:13:37",
     "source": "NYT > Technology"
   }
 ]
