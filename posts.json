@@ -1,87 +1,171 @@
 [
   {
-    "title": "The Problem with the Ferrari Luce EV Offers a Lesson for Every Leader",
-    "link": "https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070",
-    "summary": "<p>Article URL: <a href=\"https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070\">https://www.inc.com/connor-jewiss/the-problem-with-the-ferrari-luce-ev-offers-a-lesson-for-every-leader/91351070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48306675\">https://news.ycombinator.com/item?id=48306675</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-28T09:36:54",
+    "title": "Cache Aware Scheduling Shows Nice Wins for AMD Zen 5 on PostgreSQL, Valkey",
+    "link": "https://www.phoronix.com/review/cache-aware-scheduling-hedt",
+    "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/review/cache-aware-scheduling-hedt\">https://www.phoronix.com/review/cache-aware-scheduling-hedt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48320639\">https://news.ycombinator.com/item?id=48320639</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-29T08:36:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Online Scams Have Evolved in the A.I. Era. Here’s What to Do.",
-    "link": "https://www.nytimes.com/2026/05/28/technology/personaltech/online-scams-have-evolved-in-the-ai-era-heres-what-to-do.html",
-    "summary": "A criminal could be masquerading as a celebrity, web store or family member asking for your money. Detecting scams requires a new approach.",
-    "published": "2026-05-28T09:06:13",
-    "source": "NYT > Technology"
+    "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+    "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+    "summary": "<p>Article URL: <a href=\"https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967\">https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48319509\">https://news.ycombinator.com/item?id=48319509</a></p>\n<p>Points: 171</p>\n<p># Comments: 86</p>",
+    "published": "2026-05-29T05:45:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "HeidiSQL – Lightweight MariaDB, MySQL, SQL Server, PostgreSQL and SQLite Manager",
+    "link": "https://github.com/HeidiSQL/HeidiSQL",
+    "summary": "<p>Article URL: <a href=\"https://github.com/HeidiSQL/HeidiSQL\">https://github.com/HeidiSQL/HeidiSQL</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48318568\">https://news.ycombinator.com/item?id=48318568</a></p>\n<p>Points: 23</p>\n<p># Comments: 5</p>",
+    "published": "2026-05-29T03:14:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Let's compile Quake like it's 1997",
+    "link": "https://fabiensanglard.net/compile_like_1997/",
+    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/compile_like_1997/\">https://fabiensanglard.net/compile_like_1997/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48318522\">https://news.ycombinator.com/item?id=48318522</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
+    "published": "2026-05-29T03:07:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cars collect a startling amount of data about you",
+    "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\">https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48318481\">https://news.ycombinator.com/item?id=48318481</a></p>\n<p>Points: 334</p>\n<p># Comments: 153</p>",
+    "published": "2026-05-29T03:01:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Italians and Dutch share the same gestural instinct for teaching",
+    "link": "https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching",
+    "summary": "<p>Article URL: <a href=\"https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching\">https://www.mpi.nl/news/italians-and-dutch-share-same-gestural-instinct-teaching</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48318313\">https://news.ycombinator.com/item?id=48318313</a></p>\n<p>Points: 67</p>\n<p># Comments: 24</p>",
+    "published": "2026-05-29T02:33:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "summary": "<p>Article URL: <a href=\"https://buildingbetter.tech/p/i-read-the-claude-code-source-code\">https://buildingbetter.tech/p/i-read-the-claude-code-source-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48318174\">https://news.ycombinator.com/item?id=48318174</a></p>\n<p>Points: 98</p>\n<p># Comments: 23</p>",
+    "published": "2026-05-29T02:13:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Blue Origin's New Glenn blows up during static fire test",
+    "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+    "summary": "<p><a href=\"https://twitter.com/nasaspaceflight/status/2060164928472854821\" rel=\"nofollow\">https://twitter.com/nasaspaceflight/status/20601649284728548...</a><p><a href=\"https://xcancel.com/nasaspaceflight/status/2060164928472854821\" rel=\"nofollow\">https://xcancel.com/nasaspaceflight/status/20601649284728548...</a><p><a href=\"https://twitter.com/SawyerMerritt/status/2060174287563116696/\" rel=\"nofollow\">https://twitter.com/SawyerMerritt/status/2060174287563116696...</a><p><a href=\"https://xcancel.com/SawyerMerritt/status/2060174287563116696/\" rel=\"nofollow\">https://xcancel.com/SawyerMerritt/status/2060174287563116696...</a><p><a href=\"https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/\" rel=\"nofollow\">https://arstechnica.com/space/2026/05/blue-origins-new-glenn...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48317774\">https://news.ycombinator.com/item?id=48317774</a></p>\n<p>Points: 290</p>\n<p># Comments: 288</p>",
+    "published": "2026-05-29T01:16:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "link": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "summary": "<p>Article URL: <a href=\"https://minimaxir.com/2026/05/openrouter-hy3/\">https://minimaxir.com/2026/05/openrouter-hy3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48317294\">https://news.ycombinator.com/item?id=48317294</a></p>\n<p>Points: 80</p>\n<p># Comments: 56</p>",
+    "published": "2026-05-29T00:09:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "summary": "<p>Article URL: <a href=\"https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/\">https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48317093\">https://news.ycombinator.com/item?id=48317093</a></p>\n<p>Points: 211</p>\n<p># Comments: 102</p>",
+    "published": "2026-05-28T23:42:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Garnix (A Nix CI) is shutting down",
+    "link": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+    "summary": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895\">https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48317043\">https://news.ycombinator.com/item?id=48317043</a></p>\n<p>Points: 66</p>\n<p># Comments: 26</p>",
+    "published": "2026-05-28T23:36:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GitHub bans security researcher who posted zero-day Windows exploits",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation\">https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48315968\">https://news.ycombinator.com/item?id=48315968</a></p>\n<p>Points: 396</p>\n<p># Comments: 176</p>",
+    "published": "2026-05-28T21:45:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I made a million dollar product from my dorm room (2025)",
+    "link": "https://nick.winans.io/blog/nice-nano/",
+    "summary": "<p>Article URL: <a href=\"https://nick.winans.io/blog/nice-nano/\">https://nick.winans.io/blog/nice-nano/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314951\">https://news.ycombinator.com/item?id=48314951</a></p>\n<p>Points: 409</p>\n<p># Comments: 63</p>",
+    "published": "2026-05-28T20:25:21",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "I Tried to Sell My House With A.I.",
     "link": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
     "summary": "Over five frantic days, I gambled my family’s life savings on a hunch that A.I. could outperform a real estate agent.",
-    "published": "2026-05-28T09:00:06",
+    "published": "2026-05-28T20:22:27",
     "source": "NYT > Technology"
   },
   {
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-    "summary": "<p>Article URL: <a href=\"https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/\">https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48305446\">https://news.ycombinator.com/item?id=48305446</a></p>\n<p>Points: 72</p>\n<p># Comments: 24</p>",
-    "published": "2026-05-28T06:40:31",
+    "title": "Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up",
+    "link": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html",
+    "summary": "Anthropic raised $65 billion in new fund-raising that put its value at $900 billion, ahead of OpenAI’s last valuation of $730 billion, as the companies duel for A.I. dominance.",
+    "published": "2026-05-28T19:50:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+    "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "summary": "<p>Article URL: <a href=\"https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection\">https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314136\">https://news.ycombinator.com/item?id=48314136</a></p>\n<p>Points: 961</p>\n<p># Comments: 444</p>",
+    "published": "2026-05-28T19:24:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Hallucinate – Massively Multiplayer Online Rave",
-    "link": "https://hallucinate.site",
-    "summary": "<p>Article URL: <a href=\"https://hallucinate.site\">https://hallucinate.site</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48304260\">https://news.ycombinator.com/item?id=48304260</a></p>\n<p>Points: 211</p>\n<p># Comments: 81</p>",
-    "published": "2026-05-28T03:50:01",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
+    "summary": "<p>Article URL: <a href=\"https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/\">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48314002\">https://news.ycombinator.com/item?id=48314002</a></p>\n<p>Points: 250</p>\n<p># Comments: 86</p>",
+    "published": "2026-05-28T19:15:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Biff is a command line datetime Swiss army knife",
-    "link": "https://github.com/BurntSushi/biff",
-    "summary": "<p>Article URL: <a href=\"https://github.com/BurntSushi/biff\">https://github.com/BurntSushi/biff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48303881\">https://news.ycombinator.com/item?id=48303881</a></p>\n<p>Points: 27</p>\n<p># Comments: 11</p>",
-    "published": "2026-05-28T02:58:44",
+    "title": "Various LLM Smells",
+    "link": "https://shvbsle.in/various-llm-smells/",
+    "summary": "<p>Article URL: <a href=\"https://shvbsle.in/various-llm-smells/\">https://shvbsle.in/various-llm-smells/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313810\">https://news.ycombinator.com/item?id=48313810</a></p>\n<p>Points: 312</p>\n<p># Comments: 245</p>",
+    "published": "2026-05-28T19:02:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "RamAIn (YC W26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\">https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48303599\">https://news.ycombinator.com/item?id=48303599</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-28T02:21:11",
+    "title": "Building durable workflows on Postgres",
+    "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution\">https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48313530\">https://news.ycombinator.com/item?id=48313530</a></p>\n<p>Points: 316</p>\n<p># Comments: 133</p>",
+    "published": "2026-05-28T18:41:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-    "link": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\">https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48302822\">https://news.ycombinator.com/item?id=48302822</a></p>\n<p>Points: 180</p>\n<p># Comments: 106</p>",
-    "published": "2026-05-28T00:49:58",
+    "title": "Show HN: Py-SQL-cleaner – format SQL embedded in Python strings",
+    "link": "https://github.com/enumura1/py-sql-cleaner",
+    "summary": "<p>Hi HN, I built py-sql-cleaner, a CLI for formatting SQL embedded in Python files.<p>Python formatters handle Python syntax. They do not format SQL written inside Python code. \nOn the other hand, SQL formatters usually target SQL files or raw SQL text, not SQL embedded inside a Python file.<p>Still, I think it is not uncommon to find long SQL queries inside Python codebases.<p>py-sql-cleaner detects embedded SQL inside Python files and works only on that SQL. \nThe main things it can do are: find the SQL, format it in place, or extract it into a .sql file.<p>It avoids rewriting SQL that depends on runtime values or template expansion. \nFor example, SQL containing parameters like %s or :name, or Jinja-style template variables like {{ ds }}, is skipped by default.<p>Try it with:<p><pre><code>    uvx py-sql-cleaner list path/to/file.py\n    uvx py-sql-cleaner format path/to/file.py --dry-run\n</code></pre>\nIf you write Python, have run into this kind of SQL cleanup problem, or are just curious, I’d be happy if you take a look.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48312436\">https://news.ycombinator.com/item?id=48312436</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-05-28T17:30:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Can we have the day off?",
-    "link": "https://mlsu.io/posts/day-off/",
-    "summary": "<p>Article URL: <a href=\"https://mlsu.io/posts/day-off/\">https://mlsu.io/posts/day-off/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48302745\">https://news.ycombinator.com/item?id=48302745</a></p>\n<p>Points: 1064</p>\n<p># Comments: 621</p>",
-    "published": "2026-05-28T00:40:26",
+    "title": "Claude Opus 4.8",
+    "link": "https://www.anthropic.com/news/claude-opus-4-8",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">https://www.anthropic.com/news/claude-opus-4-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311647\">https://news.ycombinator.com/item?id=48311647</a></p>\n<p>Points: 1536</p>\n<p># Comments: 1202</p>",
+    "published": "2026-05-28T16:49:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I analysed 20 years of my chats",
-    "link": "https://drobinin.com/posts/am-i-a-bad-friend/",
-    "summary": "<p>Article URL: <a href=\"https://drobinin.com/posts/am-i-a-bad-friend/\">https://drobinin.com/posts/am-i-a-bad-friend/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48302220\">https://news.ycombinator.com/item?id=48302220</a></p>\n<p>Points: 129</p>\n<p># Comments: 41</p>",
-    "published": "2026-05-27T23:31:13",
+    "title": "Endive: A JVM native WebAssembly runtime",
+    "link": "https://github.com/bytecodealliance/endive",
+    "summary": "<p>Article URL: <a href=\"https://github.com/bytecodealliance/endive\">https://github.com/bytecodealliance/endive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48311490\">https://news.ycombinator.com/item?id=48311490</a></p>\n<p>Points: 91</p>\n<p># Comments: 27</p>",
+    "published": "2026-05-28T16:40:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-    "link": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html\">https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48302151\">https://news.ycombinator.com/item?id=48302151</a></p>\n<p>Points: 337</p>\n<p># Comments: 220</p>",
-    "published": "2026-05-27T23:23:29",
-    "source": "Hacker News: Front Page"
+    "title": "A.I. Is Making Scams Hard to Spot. Here’s How to Protect Yourself.",
+    "link": "https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html",
+    "summary": "A criminal could be masquerading as a celebrity, web store or family member asking for your money. Detecting scams requires a new approach.",
+    "published": "2026-05-28T15:54:54",
+    "source": "NYT > Technology"
   },
   {
-    "title": "Pelica (YC P25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer\">https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48301851\">https://news.ycombinator.com/item?id=48301851</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-27T22:52:15",
-    "source": "Hacker News: Front Page"
+    "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+    "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+    "summary": "The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.",
+    "published": "2026-05-28T12:22:29",
+    "source": "NYT > Technology"
   },
   {
     "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
@@ -91,80 +175,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Warm up your MacBook (2019)",
-    "link": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-    "summary": "<p>Article URL: <a href=\"https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/\">https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48300342\">https://news.ycombinator.com/item?id=48300342</a></p>\n<p>Points: 83</p>\n<p># Comments: 81</p>",
-    "published": "2026-05-27T20:42:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "YouTube to automatically label AI-generated videos",
-    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "summary": "<p><a href=\"https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/\" rel=\"nofollow\">https://variety.com/2026/digital/news/youtube-ai-video-label...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299753\">https://news.ycombinator.com/item?id=48299753</a></p>\n<p>Points: 887</p>\n<p># Comments: 549</p>",
-    "published": "2026-05-27T20:00:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-    "link": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-    "summary": "<p>Article URL: <a href=\"https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/\">https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299638\">https://news.ycombinator.com/item?id=48299638</a></p>\n<p>Points: 200</p>\n<p># Comments: 74</p>",
-    "published": "2026-05-27T19:52:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
-    "link": "https://sverre.me/blog/rust-on-kindle/",
-    "summary": "<p>Article URL: <a href=\"https://sverre.me/blog/rust-on-kindle/\">https://sverre.me/blog/rust-on-kindle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299623\">https://news.ycombinator.com/item?id=48299623</a></p>\n<p>Points: 165</p>\n<p># Comments: 22</p>",
-    "published": "2026-05-27T19:51:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What Apple and Google are doing to push notifications",
-    "link": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-    "summary": "<p>Article URL: <a href=\"https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications\">https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48299220\">https://news.ycombinator.com/item?id=48299220</a></p>\n<p>Points: 286</p>\n<p># Comments: 288</p>",
-    "published": "2026-05-27T19:24:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SimCity 3k in 4k (2025)",
-    "link": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-    "summary": "<p>Article URL: <a href=\"https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html\">https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297645\">https://news.ycombinator.com/item?id=48297645</a></p>\n<p>Points: 369</p>\n<p># Comments: 146</p>",
-    "published": "2026-05-27T17:36:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
-    "link": "https://www.ycombinator.com/companies/reflex/jobs",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/reflex/jobs\">https://www.ycombinator.com/companies/reflex/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48297116\">https://news.ycombinator.com/item?id=48297116</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-05-27T17:01:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/May/27/product-market-fit/\">https://simonwillison.net/2026/May/27/product-market-fit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48296794\">https://news.ycombinator.com/item?id=48296794</a></p>\n<p>Points: 874</p>\n<p># Comments: 994</p>",
-    "published": "2026-05-27T16:39:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/\">https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48296649\">https://news.ycombinator.com/item?id=48296649</a></p>\n<p>Points: 870</p>\n<p># Comments: 412</p>",
-    "published": "2026-05-27T16:28:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-    "link": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08\">https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48296622\">https://news.ycombinator.com/item?id=48296622</a></p>\n<p>Points: 127</p>\n<p># Comments: 20</p>",
-    "published": "2026-05-27T16:26:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
     "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
     "summary": "What an A.I.-generated video of the former reality TV star teaches us about the future of political ads.",
-    "published": "2026-05-27T13:53:20",
+    "published": "2026-05-27T13:53:21",
     "source": "NYT > Technology"
   },
   {
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/05/21/technology/meta-settlement-social-media-addiction-lawsuit.html",
     "summary": "Snap, TikTok and YouTube had already settled with the Kentucky district, allowing the companies to avert the first in a series of federal trials.",
     "published": "2026-05-21T20:21:02",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models",
-    "link": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html",
-    "summary": "The president said he postponed the executive order, which would give the government power to evaluate A.I. models before their release, over concerns about “aspects of it.”",
-    "published": "2026-05-21T17:47:33",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss",
-    "link": "https://www.nytimes.com/2026/05/21/technology/newsom-ai-executive-order-california.html",
-    "summary": "Gov. Gavin Newsom issued an executive order to explore an overhaul of labor policies to deal with potential mass job displacement from artificial intelligence.",
-    "published": "2026-05-21T15:26:59",
     "source": "NYT > Technology"
   }
 ]
