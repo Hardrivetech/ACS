@@ -1,87 +1,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-06-01</lastmod>
+    <lastmod>2026-06-02</lastmod>
   </url>
   <url>
-    <loc>https://spectrum.ieee.org/ai-video-games-llms-togelius</loc>
-    <lastmod>2026-06-01T09:14:26</lastmod>
+    <loc>https://ianthehenry.com/posts/why-janet/</loc>
+    <lastmod>2026-06-02T09:34:31</lastmod>
   </url>
   <url>
-    <loc>https://kefir.protopopov.lv/posts/announce2.html</loc>
-    <lastmod>2026-06-01T08:52:05</lastmod>
+    <loc>https://mitander.xyz/posts/not-every-byte-gets-a-vote/</loc>
+    <lastmod>2026-06-02T07:13:43</lastmod>
   </url>
   <url>
-    <loc>https://blorp-lang.org/</loc>
-    <lastmod>2026-06-01T07:35:15</lastmod>
+    <loc>https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/</loc>
+    <lastmod>2026-06-02T04:05:23</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/</loc>
+    <lastmod>2026-06-02T01:28:34</lastmod>
+  </url>
+  <url>
+    <loc>https://www.gregegan.net/MISC/CRYSTAL/Crystal.html</loc>
+    <lastmod>2026-06-02T01:22:42</lastmod>
+  </url>
+  <url>
+    <loc>https://www.zach.be/p/how-the-hell-is-groq-raising-more</loc>
+    <lastmod>2026-06-02T01:05:29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai</loc>
+    <lastmod>2026-06-01T23:45:46</lastmod>
+  </url>
+  <url>
+    <loc>https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet</loc>
+    <lastmod>2026-06-01T23:22:28</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/cyberpapiii/chipotlai-max</loc>
+    <lastmod>2026-06-01T23:06:35</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</loc>
+    <lastmod>2026-06-01T21:50:02</lastmod>
+  </url>
+  <url>
+    <loc>https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx</loc>
+    <lastmod>2026-06-01T20:55:15</lastmod>
+  </url>
+  <url>
+    <loc>https://debug.com/</loc>
+    <lastmod>2026-06-01T20:40:13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html</loc>
+    <lastmod>2026-06-01T20:07:43</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html</loc>
+    <lastmod>2026-06-01T18:41:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html</loc>
+    <lastmod>2026-06-01T18:24:38</lastmod>
+  </url>
+  <url>
+    <loc>https://30fps.net/pages/255-vs-256-division/</loc>
+    <lastmod>2026-06-01T17:37:20</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md</loc>
+    <lastmod>2026-06-01T16:41:49</lastmod>
+  </url>
+  <url>
+    <loc>https://www.0xsid.com/blog/meta-account-takeover-fiasco</loc>
+    <lastmod>2026-06-01T16:31:42</lastmod>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215</loc>
+    <lastmod>2026-06-01T16:02:04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/</loc>
+    <lastmod>2026-06-01T15:11:35</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=48357725</loc>
+    <lastmod>2026-06-01T15:00:48</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=48357724</loc>
+    <lastmod>2026-06-01T15:00:48</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html</loc>
+    <lastmod>2026-06-01T14:14:27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html</loc>
+    <lastmod>2026-06-01T14:13:40</lastmod>
+  </url>
+  <url>
+    <loc>https://cs336.stanford.edu/</loc>
+    <lastmod>2026-06-01T14:10:32</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html</loc>
+    <lastmod>2026-06-01T14:06:15</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html</loc>
-    <lastmod>2026-06-01T07:32:47</lastmod>
-  </url>
-  <url>
-    <loc>https://point.free/blog/gemma-4-on-a-2016-xeon/</loc>
-    <lastmod>2026-06-01T06:38:42</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/jqwik-team/jqwik/issues/708</loc>
-    <lastmod>2026-06-01T06:22:07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/</loc>
-    <lastmod>2026-06-01T04:08:02</lastmod>
-  </url>
-  <url>
-    <loc>https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</loc>
-    <lastmod>2026-05-31T22:59:50</lastmod>
-  </url>
-  <url>
-    <loc>https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration</loc>
-    <lastmod>2026-05-31T20:35:38</lastmod>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</loc>
-    <lastmod>2026-05-31T17:02:23</lastmod>
-  </url>
-  <url>
-    <loc>https://darylcecile.net/notes/speed-of-prototyping-age-of-ai</loc>
-    <lastmod>2026-05-31T16:37:34</lastmod>
-  </url>
-  <url>
-    <loc>https://prismml.com/news/bonsai-image-4b</loc>
-    <lastmod>2026-05-31T15:04:52</lastmod>
-  </url>
-  <url>
-    <loc>https://justine.lol/rseq/</loc>
-    <lastmod>2026-05-31T14:38:48</lastmod>
-  </url>
-  <url>
-    <loc>https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting</loc>
-    <lastmod>2026-05-31T14:13:20</lastmod>
-  </url>
-  <url>
-    <loc>https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/</loc>
-    <lastmod>2026-05-31T12:41:19</lastmod>
-  </url>
-  <url>
-    <loc>https://jbkempf.com/blog/2026/dav2d/</loc>
-    <lastmod>2026-05-31T11:44:45</lastmod>
+    <lastmod>2026-06-01T14:01:28</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html</loc>
     <lastmod>2026-05-31T09:00:06</lastmod>
-  </url>
-  <url>
-    <loc>https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html</loc>
-    <lastmod>2026-05-31T07:16:18</lastmod>
-  </url>
-  <url>
-    <loc>https://specification.website/</loc>
-    <lastmod>2026-05-31T07:09:50</lastmod>
-  </url>
-  <url>
-    <loc>https://hi.telli.com/join-us</loc>
-    <lastmod>2026-05-31T07:00:50</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html</loc>
@@ -90,14 +122,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/05/29/technology/blue-origin-amazon-rocket-explosion.html</loc>
     <lastmod>2026-05-29T21:51:12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek</loc>
-    <lastmod>2026-05-29T18:37:22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0</loc>
-    <lastmod>2026-05-29T17:50:11</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/29/podcasts/29hardfork-waymo-interesting-times.html</loc>
@@ -114,10 +138,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html</loc>
     <lastmod>2026-05-28T15:54:54</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html</loc>
-    <lastmod>2026-05-28T12:22:29</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html</loc>
@@ -142,25 +162,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/05/26/theater/the-maids-play-nyc-genet-yerin-ha-kip-williams.html</loc>
     <lastmod>2026-05-26T09:02:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/25/business/uber-lyft-app-drivers-union-massachusetts.html</loc>
-    <lastmod>2026-05-25T21:29:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html</loc>
-    <lastmod>2026-05-25T18:35:03</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html</loc>
-    <lastmod>2026-05-25T12:46:11</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html</loc>
-    <lastmod>2026-05-24T09:01:43</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html</loc>
-    <lastmod>2026-05-22T21:24:51</lastmod>
   </url>
 </urlset>
