@@ -1,59 +1,136 @@
 [
   {
+    "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+    "link": "https://www.ioccc.org/2025/",
+    "summary": "<p>Article URL: <a href=\"https://www.ioccc.org/2025/\">https://www.ioccc.org/2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48432199\">https://news.ycombinator.com/item?id=48432199</a></p>\n<p>Points: 153</p>\n<p># Comments: 35</p>",
+    "published": "2026-06-07T05:47:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I design with Claude more than Figma now",
+    "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "summary": "<p>Article URL: <a href=\"https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/\">https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48431981\">https://news.ycombinator.com/item?id=48431981</a></p>\n<p>Points: 154</p>\n<p># Comments: 117</p>",
+    "published": "2026-06-07T05:04:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Valve P2P networking broken for more than 2 months",
+    "link": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ValveSoftware/GameNetworkingSockets/issues/398\">https://github.com/ValveSoftware/GameNetworkingSockets/issues/398</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48431461\">https://news.ycombinator.com/item?id=48431461</a></p>\n<p>Points: 160</p>\n<p># Comments: 75</p>",
+    "published": "2026-06-07T03:21:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Field of clones: How horse replicas came to dominate polo",
+    "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+    "summary": "<p>Article URL: <a href=\"https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses\">https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48431286\">https://news.ycombinator.com/item?id=48431286</a></p>\n<p>Points: 84</p>\n<p># Comments: 41</p>",
+    "published": "2026-06-07T02:46:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+    "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+    "summary": "<p>Article URL: <a href=\"https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/\">https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48431085\">https://news.ycombinator.com/item?id=48431085</a></p>\n<p>Points: 67</p>\n<p># Comments: 37</p>",
+    "published": "2026-06-07T02:12:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
+    "link": "https://github.com/sauravrao637/oproxy",
+    "summary": "<p>Article URL: <a href=\"https://github.com/sauravrao637/oproxy\">https://github.com/sauravrao637/oproxy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48431079\">https://news.ycombinator.com/item?id=48431079</a></p>\n<p>Points: 47</p>\n<p># Comments: 6</p>",
+    "published": "2026-06-07T02:11:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "link": "https://arxiv.org/abs/2601.14470",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2601.14470\">https://arxiv.org/abs/2601.14470</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48430923\">https://news.ycombinator.com/item?id=48430923</a></p>\n<p>Points: 103</p>\n<p># Comments: 35</p>",
+    "published": "2026-06-07T01:37:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Public Domain Image Archive",
+    "link": "https://pdimagearchive.org/",
+    "summary": "<p>Article URL: <a href=\"https://pdimagearchive.org/\">https://pdimagearchive.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48430539\">https://news.ycombinator.com/item?id=48430539</a></p>\n<p>Points: 120</p>\n<p># Comments: 17</p>",
+    "published": "2026-06-07T00:22:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Human-Like Neural Nets by Catapulting",
+    "link": "https://gwern.net/llm-catapult",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/llm-catapult\">https://gwern.net/llm-catapult</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48430282\">https://news.ycombinator.com/item?id=48430282</a></p>\n<p>Points: 38</p>\n<p># Comments: 9</p>",
+    "published": "2026-06-06T23:45:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+    "link": "https://ataraxy-labs.github.io/sem/",
+    "summary": "<p>Article URL: <a href=\"https://ataraxy-labs.github.io/sem/\">https://ataraxy-labs.github.io/sem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428475\">https://news.ycombinator.com/item?id=48428475</a></p>\n<p>Points: 118</p>\n<p># Comments: 47</p>",
+    "published": "2026-06-06T20:03:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+    "link": "https://ntsc.rs/",
+    "summary": "<p>Article URL: <a href=\"https://ntsc.rs/\">https://ntsc.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48428025\">https://news.ycombinator.com/item?id=48428025</a></p>\n<p>Points: 346</p>\n<p># Comments: 92</p>",
+    "published": "2026-06-06T19:17:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "summary": "<p>Article URL: <a href=\"https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/\">https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48427643\">https://news.ycombinator.com/item?id=48427643</a></p>\n<p>Points: 594</p>\n<p># Comments: 209</p>",
+    "published": "2026-06-06T18:35:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zeroserve: A zero-config web server you can script with eBPF",
+    "link": "https://su3.io/posts/introducing-zeroserve",
+    "summary": "<p>Article URL: <a href=\"https://su3.io/posts/introducing-zeroserve\">https://su3.io/posts/introducing-zeroserve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425723\">https://news.ycombinator.com/item?id=48425723</a></p>\n<p>Points: 233</p>\n<p># Comments: 55</p>",
+    "published": "2026-06-06T14:59:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Motorola effectively bricked its entire line of WiFi routers without explanation",
+    "link": "https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down",
+    "summary": "<p>Article URL: <a href=\"https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down\">https://mashable.com/tech/motorola-wifi-routers-stop-working-motosync-plus-app-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425611\">https://news.ycombinator.com/item?id=48425611</a></p>\n<p>Points: 153</p>\n<p># Comments: 72</p>",
+    "published": "2026-06-06T14:43:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Moving beyond fork() + exec()",
+    "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/\">https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48425528\">https://news.ycombinator.com/item?id=48425528</a></p>\n<p>Points: 300</p>\n<p># Comments: 292</p>",
+    "published": "2026-06-06T14:34:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+    "link": "https://twitter.com/lemire/status/2062880075117113739",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/lemire/status/2062880075117113739\">https://twitter.com/lemire/status/2062880075117113739</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48424605\">https://news.ycombinator.com/item?id=48424605</a></p>\n<p>Points: 283</p>\n<p># Comments: 475</p>",
+    "published": "2026-06-06T12:52:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer\">https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48424103\">https://news.ycombinator.com/item?id=48424103</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-06T12:00:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+    "link": "https://pokeemerald.com/",
+    "summary": "<p>Article URL: <a href=\"https://pokeemerald.com/\">https://pokeemerald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48423762\">https://news.ycombinator.com/item?id=48423762</a></p>\n<p>Points: 319</p>\n<p># Comments: 94</p>",
+    "published": "2026-06-06T11:12:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "People Love to Hate This Fake Private Equity Guy",
     "link": "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
     "summary": "Johnny Hilbrant Partridge has found social media fame as PE Guy, a character who embodies obnoxious entitlement.",
     "published": "2026-06-06T09:02:07",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-    "link": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
-    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos\">https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48422798\">https://news.ycombinator.com/item?id=48422798</a></p>\n<p>Points: 39</p>\n<p># Comments: 7</p>",
-    "published": "2026-06-06T08:43:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Zig Zen Update",
-    "link": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-    "summary": "<p>Article URL: <a href=\"https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2\">https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48422769\">https://news.ycombinator.com/item?id=48422769</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
-    "published": "2026-06-06T08:38:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\">https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48421442\">https://news.ycombinator.com/item?id=48421442</a></p>\n<p>Points: 412</p>\n<p># Comments: 130</p>",
-    "published": "2026-06-06T04:38:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-    "link": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-    "summary": "<p>Article URL: <a href=\"https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/\">https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48421171\">https://news.ycombinator.com/item?id=48421171</a></p>\n<p>Points: 70</p>\n<p># Comments: 20</p>",
-    "published": "2026-06-06T03:41:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Lockdown Mode",
-    "link": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-    "summary": "<p>Article URL: <a href=\"https://help.openai.com/en/articles/20001061-lockdown-mode\">https://help.openai.com/en/articles/20001061-lockdown-mode</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48421145\">https://news.ycombinator.com/item?id=48421145</a></p>\n<p>Points: 55</p>\n<p># Comments: 26</p>",
-    "published": "2026-06-06T03:36:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The back cover of C++: The Language raises questions not answered by front cover",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391\">https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48421079\">https://news.ycombinator.com/item?id=48421079</a></p>\n<p>Points: 89</p>\n<p># Comments: 25</p>",
-    "published": "2026-06-06T03:23:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Why is the HN crowd so anti-AI?",
-    "link": "https://news.ycombinator.com/item?id=48420827",
-    "summary": "<p>Genuine question.<p>Over the past six months, there hasn’t been a single day where I’ve checked the HN Best RSS feed without seeing a post about how AI “writes bad code,” “introduces bugs,” “creates technical debt,” or something along those lines.<p>I’ll probably make a lot of enemies by saying this, but do people realize that code is just a means to an end?<p>Users don’t care whether the code was written by AI or by hand, or which framework you used. They care that the product works.<p>I say this as someone who has spent more than 20 years honing their craft as a software engineer.<p>Let’s face it: by the time I manually ship version 1.0 of a product, the AI-assisted version could have been deployed 10x faster. By then, enough real-world feedback would have surfaced to identify the major issues, and tools like Claude Code would make it possible to fix and ship version 2.0 at an incredible pace.<p>At some point, execution speed starts to matter more than the elegance of the code.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48420827\">https://news.ycombinator.com/item?id=48420827</a></p>\n<p>Points: 149</p>\n<p># Comments: 262</p>",
-    "published": "2026-06-06T02:31:51",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power",
@@ -63,31 +140,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The intracies of modern camera lens repair (2024)",
-    "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "summary": "<p>Article URL: <a href=\"https://salvagedcircuitry.com/sigma-45mm.html\">https://salvagedcircuitry.com/sigma-45mm.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48420148\">https://news.ycombinator.com/item?id=48420148</a></p>\n<p>Points: 166</p>\n<p># Comments: 58</p>",
-    "published": "2026-06-06T00:33:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The perils of UUID primary keys in SQLite",
-    "link": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
-    "summary": "<p>Article URL: <a href=\"https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html\">https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48419571\">https://news.ycombinator.com/item?id=48419571</a></p>\n<p>Points: 85</p>\n<p># Comments: 46</p>",
-    "published": "2026-06-05T23:13:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Three of our worst VC stories",
-    "link": "https://twitter.com/eastdakota/status/2062860530360959273",
-    "summary": "<p><a href=\"https://xcancel.com/eastdakota/status/2062860530360959273\" rel=\"nofollow\">https://xcancel.com/eastdakota/status/2062860530360959273</a><p>More of these (via <a href=\"https://news.ycombinator.com/item?id=48418641\">https://news.ycombinator.com/item?id=48418641</a> below):<p><a href=\"https://xcancel.com/gregisenberg/status/2061794787825479818\" rel=\"nofollow\">https://xcancel.com/gregisenberg/status/2061794787825479818</a> (<-- the OP)<p><a href=\"https://xcancel.com/dunkhippo33/status/2062768969560510486\" rel=\"nofollow\">https://xcancel.com/dunkhippo33/status/2062768969560510486</a><p><a href=\"https://xcancel.com/typesfast/status/2062791307094048937\" rel=\"nofollow\">https://xcancel.com/typesfast/status/2062791307094048937</a><p><a href=\"https://xcancel.com/awxjack/status/2062605286683336757\" rel=\"nofollow\">https://xcancel.com/awxjack/status/2062605286683336757</a><p><a href=\"https://xcancel.com/travisk/status/2062224472426365045\" rel=\"nofollow\">https://xcancel.com/travisk/status/2062224472426365045</a><p><a href=\"https://xcancel.com/mark_cummins/status/2062293061426663612\" rel=\"nofollow\">https://xcancel.com/mark_cummins/status/2062293061426663612</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48416845\">https://news.ycombinator.com/item?id=48416845</a></p>\n<p>Points: 230</p>\n<p># Comments: 114</p>",
-    "published": "2026-06-05T19:08:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Transformers are inherently succinct",
-    "link": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-    "summary": "<p>This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48416635\">https://news.ycombinator.com/item?id=48416635</a></p>\n<p>Points: 120</p>\n<p># Comments: 33</p>",
-    "published": "2026-06-05T18:50:26",
+    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html\">https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48417490\">https://news.ycombinator.com/item?id=48417490</a></p>\n<p>Points: 244</p>\n<p># Comments: 824</p>",
+    "published": "2026-06-05T20:06:36",
     "source": "Hacker News: Front Page"
   },
   {
@@ -98,60 +154,18 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-    "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-    "summary": "<p><a href=\"https://gds.blog.gov.uk/2026/06/02/building-for-the-future-making-change-simple-on-gov-uk-pay/\" rel=\"nofollow\">https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...</a><p><a href=\"https://www.adyen.com/press-and-media/adyen-payments-gov-uk\" rel=\"nofollow\">https://www.adyen.com/press-and-media/adyen-payments-gov-uk</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48415217\">https://news.ycombinator.com/item?id=48415217</a></p>\n<p>Points: 444</p>\n<p># Comments: 154</p>",
-    "published": "2026-06-05T16:55:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/\">https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48414653\">https://news.ycombinator.com/item?id=48414653</a></p>\n<p>Points: 349</p>\n<p># Comments: 108</p>",
-    "published": "2026-06-05T16:18:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "pg_durable: Microsoft open sources in-database durable execution",
-    "link": "https://github.com/microsoft/pg_durable",
-    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/pg_durable\">https://github.com/microsoft/pg_durable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48414367\">https://news.ycombinator.com/item?id=48414367</a></p>\n<p>Points: 395</p>\n<p># Comments: 88</p>",
-    "published": "2026-06-05T15:59:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Conventional Commits encourages focus on the wrong things",
-    "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-    "summary": "<p>Article URL: <a href=\"https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/\">https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48414027\">https://news.ycombinator.com/item?id=48414027</a></p>\n<p>Points: 304</p>\n<p># Comments: 231</p>",
-    "published": "2026-06-05T15:39:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New method turns ocean water into drinking water, without waste",
-    "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-    "summary": "<p>Article URL: <a href=\"https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/\">https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48413500\">https://news.ycombinator.com/item?id=48413500</a></p>\n<p>Points: 364</p>\n<p># Comments: 155</p>",
-    "published": "2026-06-05T15:04:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/live/c4g44ew3g1kt\">https://www.bbc.com/news/live/c4g44ew3g1kt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48413464\">https://news.ycombinator.com/item?id=48413464</a></p>\n<p>Points: 394</p>\n<p># Comments: 249</p>",
-    "published": "2026-06-05T15:00:31",
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "link": "https://openai.com/index/harness-engineering/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/harness-engineering/\">https://openai.com/index/harness-engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48416264\">https://news.ycombinator.com/item?id=48416264</a></p>\n<p>Points: 195</p>\n<p># Comments: 123</p>",
+    "published": "2026-06-05T18:20:06",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Why the SpaceX IPO Will Affect Your 401(k), Like It or Not",
     "link": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html",
     "summary": "Elon Musk’s rocket company, on the cusp of the largest initial public offering ever, will soon end up in index funds after rule changes by Nasdaq and other index providers.",
-    "published": "2026-06-05T14:59:26",
+    "published": "2026-06-05T14:59:27",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "India's surprise baby bust",
-    "link": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
-    "summary": "<p><a href=\"https://archive.ph/ZDxIe\" rel=\"nofollow\">https://archive.ph/ZDxIe</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48413254\">https://news.ycombinator.com/item?id=48413254</a></p>\n<p>Points: 178</p>\n<p># Comments: 772</p>",
-    "published": "2026-06-05T14:44:44",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
@@ -159,20 +173,6 @@
     "summary": "The $135 share price means Elon Musk’s rocket maker is poised to exceed the 2019 initial public offering of Saudi Aramco in both valuation and money raised.",
     "published": "2026-06-05T13:41:57",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
-    "link": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
-    "summary": "<p><a href=\"https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&amp;p=62&amp;view=issueViewer\" rel=\"nofollow\">https://lsc-pagepro.mydigitalpublication.com/publication/?i=...</a><p>PDF: <a href=\"https://cdn.coverstand.com/61061/865273/2c88ea662e2b574787232d6b66f1ae8c3cfec2c5.1.pdf\" rel=\"nofollow\">https://cdn.coverstand.com/61061/865273/2c88ea662e2b57478723...</a> (article is on page 62)<p>Related: <a href=\"https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/\" rel=\"nofollow\">https://www.404media.co/the-u-s-military-quietly-turned-gps-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48411799\">https://news.ycombinator.com/item?id=48411799</a></p>\n<p>Points: 87</p>\n<p># Comments: 69</p>",
-    "published": "2026-06-05T12:56:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Did Claude increase bugs in rsync?",
-    "link": "https://alexispurslane.github.io/rsync-analysis/",
-    "summary": "<p>Article URL: <a href=\"https://alexispurslane.github.io/rsync-analysis/\">https://alexispurslane.github.io/rsync-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48411635\">https://news.ycombinator.com/item?id=48411635</a></p>\n<p>Points: 407</p>\n<p># Comments: 425</p>",
-    "published": "2026-06-05T12:43:33",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Hot I.P.O. Summer + What Is A.I. Doing to Math? + HatGPT",
@@ -326,13 +326,6 @@
     "link": "https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html",
     "summary": "The world’s most valuable company is chasing Intel and Apple as it tries to bring A.I. agents to laptops and desktops.",
     "published": "2026-06-01T14:01:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
-    "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
-    "summary": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
-    "published": "2026-05-31T09:00:06",
     "source": "NYT > Technology"
   }
 ]
