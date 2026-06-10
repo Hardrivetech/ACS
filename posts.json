@@ -1,16 +1,198 @@
 [
   {
-    "title": "Eagle Computer: The rise and fall of an early PC clone",
-    "link": "https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/",
-    "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/\">https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48458636\">https://news.ycombinator.com/item?id=48458636</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-09T09:17:41",
+    "title": "Port React Compiler to Rust",
+    "link": "https://github.com/react/react/pull/36173",
+    "summary": "<p>Article URL: <a href=\"https://github.com/react/react/pull/36173\">https://github.com/react/react/pull/36173</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48473662\">https://news.ycombinator.com/item?id=48473662</a></p>\n<p>Points: 29</p>\n<p># Comments: 12</p>",
+    "published": "2026-06-10T09:19:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "'They were laughing': Israel's use of rape and sexual abuse in prisons",
-    "link": "https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons",
-    "summary": "<p>Article URL: <a href=\"https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons\">https://www.aljazeera.com/news/2026/6/9/they-were-laughing-israels-use-of-rape-and-sexual-abuse-in-prisons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48458552\">https://news.ycombinator.com/item?id=48458552</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-09T09:05:39",
+    "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
+    "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
+    "summary": "If you need space back on your phone or tablet, removing built-in and unused apps can help free up storage and reduce screen clutter.",
+    "published": "2026-06-10T09:02:01",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "European sentiments towards the US hit an all-time low",
+    "link": "https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/",
+    "summary": "<p>Article URL: <a href=\"https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/\">https://ecfr.eu/publication/home-alone-europeans-are-ready-to-defend-themselves/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48473204\">https://news.ycombinator.com/item?id=48473204</a></p>\n<p>Points: 42</p>\n<p># Comments: 20</p>",
+    "published": "2026-06-10T08:27:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "link": "https://news.ycombinator.com/item?id=48473166",
+    "summary": "<p>> For Fable 5, Mythos 5, and future models on Bedrock with similar or higher capability levels, Anthropic will require 30-day retention for all traffic on Mythos-class models. Retaining data for a limited period allows Anthropic to detect patterns of misuse that are not visible from a single exchange. Once you opt into data retention, your data will leave AWS’s data and security boundary.<p>From the announcement here: https://aws.amazon.com/blogs/aws/anthropic-claude-fable-5-on-aws-mythos-class-capabilities-with-built-in-safeguards-now-available/<p>> After 30 days, the data is deleted automatically, except in the rare cases where it's part of a safety investigation or we're legally required to keep it.<p>From: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48473166\">https://news.ycombinator.com/item?id=48473166</a></p>\n<p>Points: 63</p>\n<p># Comments: 18</p>",
+    "published": "2026-06-10T08:21:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+    "link": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "summary": "<p>Article URL: <a href=\"https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf\">https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48472877\">https://news.ycombinator.com/item?id=48472877</a></p>\n<p>Points: 96</p>\n<p># Comments: 39</p>",
+    "published": "2026-06-10T07:44:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Vibe coding my way to a healthy family: Introducing Gamow Labs",
+    "link": "https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/",
+    "summary": "<p>Article URL: <a href=\"https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/\">https://www.ddmckinnon.com/2026/06/09/vibe-coding-my-way-to-a-healthy-family-introducing-gamow-labs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48471048\">https://news.ycombinator.com/item?id=48471048</a></p>\n<p>Points: 126</p>\n<p># Comments: 49</p>",
+    "published": "2026-06-10T03:27:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Rich Sutton on AI creativity and discovery",
+    "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "summary": "<p><a href=\"https://www.youtube.com/watch?v=K5LAFEjTlBA\" rel=\"nofollow\">https://www.youtube.com/watch?v=K5LAFEjTlBA</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48470581\">https://news.ycombinator.com/item?id=48470581</a></p>\n<p>Points: 122</p>\n<p># Comments: 61</p>",
+    "published": "2026-06-10T02:25:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "summary": "<p>Article URL: <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\">https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48470248\">https://news.ycombinator.com/item?id=48470248</a></p>\n<p>Points: 573</p>\n<p># Comments: 328</p>",
+    "published": "2026-06-10T01:44:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "macOS Container Machines",
+    "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/apple/container/blob/main/docs/container-machine.md\">https://github.com/apple/container/blob/main/docs/container-machine.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48469658\">https://news.ycombinator.com/item?id=48469658</a></p>\n<p>Points: 783</p>\n<p># Comments: 286</p>",
+    "published": "2026-06-10T00:29:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts",
+    "link": "https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html",
+    "summary": "The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company’s new artificial intelligence software.",
+    "published": "2026-06-09T23:51:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag",
+    "link": "https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html",
+    "summary": "The carmaker will follow Tesla in making components for large batteries used by electric utilities, data centers and other businesses to handle fluctuations in power supply and demand.",
+    "published": "2026-06-09T23:29:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "RIP software hackathons. Long live the hardware hackathon",
+    "link": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+    "summary": "<p>Article URL: <a href=\"https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/\">https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48468766\">https://news.ycombinator.com/item?id=48468766</a></p>\n<p>Points: 181</p>\n<p># Comments: 80</p>",
+    "published": "2026-06-09T22:35:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Surprise, Pay $1000",
+    "link": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+    "summary": "<p>Article URL: <a href=\"https://forestwalk.ai/blog/surprise-blacksmith-costs/\">https://forestwalk.ai/blog/surprise-blacksmith-costs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48468370\">https://news.ycombinator.com/item?id=48468370</a></p>\n<p>Points: 168</p>\n<p># Comments: 63</p>",
+    "published": "2026-06-09T22:01:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "link": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "summary": "<p>Related: https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48467896\">https://news.ycombinator.com/item?id=48467896</a></p>\n<p>Points: 827</p>\n<p># Comments: 404</p>",
+    "published": "2026-06-09T21:19:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Upcoming breaking changes for npm v12",
+    "link": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/\">https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48467705\">https://news.ycombinator.com/item?id=48467705</a></p>\n<p>Points: 373</p>\n<p># Comments: 149</p>",
+    "published": "2026-06-09T21:01:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Grit: Rewriting Git in Rust with agents",
+    "link": "https://blog.gitbutler.com/true-grit",
+    "summary": "<p>Article URL: <a href=\"https://blog.gitbutler.com/true-grit\">https://blog.gitbutler.com/true-grit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48466812\">https://news.ycombinator.com/item?id=48466812</a></p>\n<p>Points: 145</p>\n<p># Comments: 214</p>",
+    "published": "2026-06-09T19:58:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+    "link": "https://aarushgupta.io/posts/kan-fpga/",
+    "summary": "<p><a href=\"https://web.archive.org/web/20260609200156/https://aarushgupta.io/posts/kan-fpga/\" rel=\"nofollow\">https://web.archive.org/web/20260609200156/https://aarushgup...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48466277\">https://news.ycombinator.com/item?id=48466277</a></p>\n<p>Points: 228</p>\n<p># Comments: 33</p>",
+    "published": "2026-06-09T19:21:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "‘Teachers Are Going to Hate It’: How Social Media Apps Hooked Teens at School",
+    "link": "https://www.nytimes.com/2026/06/04/us/social-media-schools.html",
+    "summary": "Internal documents show how tech giants grabbed children’s attention throughout the day, a strategy that schools say has undermined education.",
+    "published": "2026-06-09T18:56:43",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "summary": "<p>Article URL: <a href=\"https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/\">https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48465675\">https://news.ycombinator.com/item?id=48465675</a></p>\n<p>Points: 676</p>\n<p># Comments: 248</p>",
+    "published": "2026-06-09T18:45:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe",
+    "link": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
+    "summary": "A regulatory dispute has indefinitely delayed the release of Siri AI.",
+    "published": "2026-06-09T18:29:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What it feels like to work with Mythos",
+    "link": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "summary": "<p>Article URL: <a href=\"https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos\">https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48464140\">https://news.ycombinator.com/item?id=48464140</a></p>\n<p>Points: 282</p>\n<p># Comments: 239</p>",
+    "published": "2026-06-09T17:17:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology",
+    "link": "https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html",
+    "summary": "Called Claude Fable 5, it is twice as expensive as the company’s previous flagship system.",
+    "published": "2026-06-09T17:16:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Claude Fable 5",
+    "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "summary": "<p>System Card [pdf]: <a href=\"https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c3...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48463808\">https://news.ycombinator.com/item?id=48463808</a></p>\n<p>Points: 2254</p>\n<p># Comments: 1741</p>",
+    "published": "2026-06-09T16:58:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+    "link": "https://news.ycombinator.com/item?id=48463273",
+    "summary": "<p>Hi HN — we’re Julius, Jago, and Nils, and we’re building transload (transload.io).<p>transload helps LTL trucking companies measure freight dimensions using the security cameras already installed in their terminals. Instead of sending shipments through a dedicated dimensioning station, we measure them automatically as they move through the normal dock workflow.<p>We’ve put together a small HN-specific demo site here: <a href=\"https://hn.transload.io/\">https://hn.transload.io/</a><p>In LTL trucking, dimensions matter because they affect pricing, freight classification, and trailer utilization. If a shipment is larger than the shipper reported, the carrier may undercharge for it while still giving up the same amount of trailer space. The obvious fix is to measure every shipment, but that is surprisingly hard in a busy freight terminal. Dedicated dimensioning systems work for freight that passes through them, but they can add forklift travel, create dock congestion, and change the normal flow of work. In practice, many terminals only measure a sample of their shipments.<p>Jago grew up close to this industry through his family’s LTL trucking and cross-docking business. We did not start out building freight dimensioning. Our first idea was an AI system for optimizing forklift routes inside cross-dock terminals. After spending time with customers and talking to more than 50 trucking companies, we realized that forklift routing was not the pain people kept bringing up. Freight dimensions were.<p>At the same time, we saw that spatial AI was advancing quickly. Monocular metric depth estimation has become dramatically better, making it possible to recover accurate 3D structure from ordinary camera footage without expensive LiDAR sensors. MapAnything (<a href=\"https://github.com/facebookresearch/map-anything\" rel=\"nofollow\">https://github.com/facebookresearch/map-anything</a>) and MoGe (<a href=\"https://github.com/microsoft/moge\" rel=\"nofollow\">https://github.com/microsoft/moge</a>) are two examples.<p>Freight terminals also have helpful structure: fixed cameras, repeated workflows, barcode scan timestamps, and known layouts. Nearly every warehouse already has CCTV. That led us to a simple question: what if we could measure freight automatically using the existing security cameras, entirely in the background? That would allow carriers to measure every shipment without changing the dock workflow.<p>Our system has two main steps: connect a barcode scan to the right object in the video, then estimate that object’s dimensions in real-world units.<p>Dock workers already scan freight as part of the normal workflow. Each scan gives us a timestamp and a handling-unit ID. Around that timestamp, we analyze the video to infer which worker scanned and which shipment they scanned. We expected VLMs to handle this; they turned out to be far too unreliable. Instead, we train our own model that reasons in 3D over cues like gaze, body orientation, and movement.<p>That association step is critical. A frame can contain dozens of pallets, several workers, forklifts, and partially hidden freight. If we attach the scan to the wrong object, the measurement is useless.<p>Once we know the target shipment, we segment it and estimate a metric 3D bounding box from the monocular camera view. After the box is fitted, the dimensions are straightforward: length, width, height, and volume come directly from it.<p>The hard part is precisely fitting that bounding box from one ordinary security camera. A single 2D image does not directly tell you object shape or scale, and many different 3D boxes can explain similar-looking image evidence. We use the object mask, visible edges, floor contact, camera geometry, and constraints from the terminal to find the 3D box that best matches the scene.<p>We are currently working with several LTL carriers. For one customer, roughly 10% of checked shipments had dimension errors. The first use case is revenue recovery: identify under-dimensioned shipments, attach visual evidence, and help carriers correct the billing or classification. Longer term, the same data can help carriers understand trailer utilization better.<p>LTL freight is an odd place to be doing 3D computer vision, and we learn something new every week. If you’ve worked on monocular reconstruction, 3D object detection, warehouse perception, or messy real-world CV, we’d love your take. Questions about freight, LTL terminals, or the technical approach are very welcome too.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48463273\">https://news.ycombinator.com/item?id=48463273</a></p>\n<p>Points: 49</p>\n<p># Comments: 16</p>",
+    "published": "2026-06-09T16:28:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
+    "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
+    "summary": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.",
+    "published": "2026-06-09T15:06:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Dutch Authorities Block $115 Million Deal by a U.S. Tech Company",
+    "link": "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
+    "summary": "The Netherlands blocked a U.S. company from buying a Dutch firm that handles its national ID system, saying it would create a “threat to the public interest.”",
+    "published": "2026-06-09T14:52:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
+    "link": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer\">https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48459968\">https://news.ycombinator.com/item?id=48459968</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-09T12:01:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Test-case reducers are underappreciated debugging tools",
+    "link": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+    "summary": "<p>Article URL: <a href=\"https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html\">https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48459659\">https://news.ycombinator.com/item?id=48459659</a></p>\n<p>Points: 124</p>\n<p># Comments: 14</p>",
+    "published": "2026-06-09T11:27:49",
     "source": "Hacker News: Front Page"
   },
   {
@@ -19,48 +201,6 @@
     "summary": "A panel of experts explains how job seekers should prepare for the future of work.",
     "published": "2026-06-09T09:00:38",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-    "link": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-    "summary": "<p>Article URL: <a href=\"https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age\">https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48458257\">https://news.ycombinator.com/item?id=48458257</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
-    "published": "2026-06-09T08:25:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/\">https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48457830\">https://news.ycombinator.com/item?id=48457830</a></p>\n<p>Points: 139</p>\n<p># Comments: 53</p>",
-    "published": "2026-06-09T07:33:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Facebook is paying people overseas promoting Alberta separatism",
-    "link": "https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966",
-    "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966\">https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48457181\">https://news.ycombinator.com/item?id=48457181</a></p>\n<p>Points: 133</p>\n<p># Comments: 45</p>",
-    "published": "2026-06-09T06:14:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CRDTs merge concurrent edits. Why not concurrent creation?",
-    "link": "https://loro.dev/blog/mergeable-containers",
-    "summary": "<p>Article URL: <a href=\"https://loro.dev/blog/mergeable-containers\">https://loro.dev/blog/mergeable-containers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48456555\">https://news.ycombinator.com/item?id=48456555</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
-    "published": "2026-06-09T04:48:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Porting the ThinkPad X61 to Coreboot",
-    "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
-    "summary": "<p>Article URL: <a href=\"https://blog.aheymans.xyz/post/thinkpad_x61/\">https://blog.aheymans.xyz/post/thinkpad_x61/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48456245\">https://news.ycombinator.com/item?id=48456245</a></p>\n<p>Points: 73</p>\n<p># Comments: 24</p>",
-    "published": "2026-06-09T04:06:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-    "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48456015\">https://news.ycombinator.com/item?id=48456015</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-09T03:34:00",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Two New Studies Ask: Did the iPhone Cause Birthrates to Decline?",
@@ -80,15 +220,8 @@
     "title": "Sam Bankman-Fried Has Applied for a Pardon From Trump",
     "link": "https://www.nytimes.com/2026/06/08/technology/sam-bankman-fried-pardon-trump.html",
     "summary": "Mr. Bankman-Fried is serving a 25-year prison sentence for fraud related to the collapse of his cryptocurrency exchange, FTX.",
-    "published": "2026-06-08T21:31:24",
+    "published": "2026-06-08T21:31:25",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple bets cheaper AI will woo small developers",
-    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/\">https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48452000\">https://news.ycombinator.com/item?id=48452000</a></p>\n<p>Points: 66</p>\n<p># Comments: 28</p>",
-    "published": "2026-06-08T21:02:00",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant",
@@ -98,48 +231,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "FrontierCode",
-    "link": "https://cognition.ai/blog/frontier-code",
-    "summary": "<p>Article URL: <a href=\"https://cognition.ai/blog/frontier-code\">https://cognition.ai/blog/frontier-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48451723\">https://news.ycombinator.com/item?id=48451723</a></p>\n<p>Points: 194</p>\n<p># Comments: 34</p>",
-    "published": "2026-06-08T20:45:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I'm building a parallel internet, and it's called The Thinnernet",
-    "link": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-    "summary": "<p>Article URL: <a href=\"https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html\">https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48450694\">https://news.ycombinator.com/item?id=48450694</a></p>\n<p>Points: 83</p>\n<p># Comments: 82</p>",
-    "published": "2026-06-08T19:45:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
-    "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-    "summary": "<p>Article URL: <a href=\"https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf\">https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48450646\">https://news.ycombinator.com/item?id=48450646</a></p>\n<p>Points: 571</p>\n<p># Comments: 217</p>",
-    "published": "2026-06-08T19:42:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple reveals new AI architecture built around Google Gemini models",
-    "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/\">https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48450142\">https://news.ycombinator.com/item?id=48450142</a></p>\n<p>Points: 595</p>\n<p># Comments: 451</p>",
-    "published": "2026-06-08T19:14:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why are cells small?",
-    "link": "https://burrito.bio/essays/what-limits-a-cells-size",
-    "summary": "<p>Article URL: <a href=\"https://burrito.bio/essays/what-limits-a-cells-size\">https://burrito.bio/essays/what-limits-a-cells-size</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48450065\">https://news.ycombinator.com/item?id=48450065</a></p>\n<p>Points: 151</p>\n<p># Comments: 68</p>",
-    "published": "2026-06-08T19:10:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple Core AI Framework",
-    "link": "https://developer.apple.com/documentation/coreai/",
-    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/documentation/coreai/\">https://developer.apple.com/documentation/coreai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48449665\">https://news.ycombinator.com/item?id=48449665</a></p>\n<p>Points: 302</p>\n<p># Comments: 76</p>",
-    "published": "2026-06-08T18:47:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How Elon Musk’s Friendship With the F.C.C. Smooths the Way for SpaceX’s I.P.O.",
     "link": "https://www.nytimes.com/2026/06/08/technology/elon-musk-brendan-carr-fcc-spacex.html",
     "summary": "Brendan Carr, the chairman of the Federal Communications Commission, has greenlighted regulatory requests for the company’s Starlink satellite internet service and lavished praise on its chief executive.",
@@ -147,59 +238,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "link": "https://news.ycombinator.com/item?id=48449187",
-    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48449187\">https://news.ycombinator.com/item?id=48449187</a></p>\n<p>Points: 307</p>\n<p># Comments: 499</p>",
-    "published": "2026-06-08T18:22:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Siri AI",
-    "link": "https://www.apple.com/apple-intelligence/",
-    "summary": "<p>Article URL: <a href=\"https://www.apple.com/apple-intelligence/\">https://www.apple.com/apple-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48449084\">https://news.ycombinator.com/item?id=48449084</a></p>\n<p>Points: 579</p>\n<p># Comments: 535</p>",
-    "published": "2026-06-08T18:17:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "B.F.I. Preserves ‘Charlie Bit My Finger’ and 430 Videos in Archive of Viral Moments",
     "link": "https://www.nytimes.com/2026/06/08/technology/uk-video-memes-archive-tape.html",
     "summary": "The British Film Institute assembled the memes in an archive of culturally significant internet moments. See what made the cut.",
     "published": "2026-06-08T18:17:20",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
-    "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
-    "summary": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets.",
-    "published": "2026-06-08T17:56:14",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Ask HN: Why hasn't there been a real competitor to Ticketmaster yet?",
-    "link": "https://news.ycombinator.com/item?id=48448313",
-    "summary": "<p>It feels like every event/venue is selling tickets exclusively through Ticketmaster.  Every other ticketing platform seems to only hold resale tickets in their inventory which just transfers the tickets to your Ticketmaster account when bought. With all the hate Ticketmaster has gotten and all the other ticketing platforms out there, I'm surprised Ticketmaster still has a hold of pretty much the entire market. How are they doing this? Why haven't the other platforms been able to compete?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48448313\">https://news.ycombinator.com/item?id=48448313</a></p>\n<p>Points: 176</p>\n<p># Comments: 143</p>",
-    "published": "2026-06-08T17:28:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-    "link": "https://gitdot.io/",
-    "summary": "<p>What works now: user signups, org creations, private/public repos, and importing GitHub repositories (both as read-only mirrors and full migrations). So basically, you can create, push and pull to a repo, but we don't have many features quite yet (issues, PRs, CI).<p>What is a bit unique is: 1) we built it in Rust and 2) the website is a little odd. Its design is inspired by CLIs (e.g., fzf, broot, vim) instead of web apps, and as such, lacks some affordances that you might typically expect in favor of keyboard-driven instant navigations (we have the very ambitious goal of an FCP of 100ms). In case you're curious, here's how we we built it: <a href=\"https://gitdot.io/designs\">https://gitdot.io/designs</a><p>We recognize that we're making some bold claims here and are also well aware that we have much to learn. Building software is still hard, and that's a fact we seem to relearn everyday.<p>But we wanted to share what we built so far nonetheless.<p>Cheers, thank y'all for reading, and till the next\n—paul & mikkel.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48447806\">https://news.ycombinator.com/item?id=48447806</a></p>\n<p>Points: 260</p>\n<p># Comments: 234</p>",
-    "published": "2026-06-08T16:52:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Old'aVista – The most powerful guide to the old Internet",
-    "link": "https://oldavista.com/",
-    "summary": "<p>Article URL: <a href=\"https://oldavista.com/\">https://oldavista.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48447111\">https://news.ycombinator.com/item?id=48447111</a></p>\n<p>Points: 104</p>\n<p># Comments: 22</p>",
-    "published": "2026-06-08T16:02:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Have a Thorny Medical Question? Your Doctor May Be Using A.I. for That.",
-    "link": "https://www.nytimes.com/2026/06/08/business/ai-medicine-doctors.html",
-    "summary": "OpenEvidence, a fast-growing start-up, is using artificial intelligence to help doctors find answers to clinical questions for diagnosis and treatment.",
-    "published": "2026-06-08T13:38:24",
     "source": "NYT > Technology"
   },
   {
@@ -301,13 +343,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "‘Teachers Are Going to Hate It’: How Social Media Apps Hooked Teens at School",
-    "link": "https://www.nytimes.com/2026/06/04/us/social-media-schools.html",
-    "summary": "Internal documents show how tech giants grabbed children’s attention throughout the day, a strategy that schools say has undermined education.",
-    "published": "2026-06-04T13:34:54",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "The Do’s and Don’ts of Buying Used Tech Gadgets",
     "link": "https://www.nytimes.com/2026/06/04/technology/personaltech/used-tech-refurbished.html",
     "summary": "With a shortage of some components driving up costs of consumer electronics, refurbished devices are an attractive alternative to buying new.",
@@ -326,27 +361,6 @@
     "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
     "summary": "The 27-nation European Union outlined how it hopes to expand the region’s data centers, semiconductors and cloud computing capabilities.",
     "published": "2026-06-03T18:00:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models",
-    "link": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
-    "summary": "The order, which signaled a shift from the hands-off approach the White House had previously taken toward A.I., followed debates over how to gain control of A.I. models without disrupting innovation.",
-    "published": "2026-06-03T01:30:54",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Scientists Find Way to Supercharge Dangerous Computer ‘Worms’ With A.I.",
-    "link": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
-    "summary": "Researchers at the University of Toronto showed how hackers could use artificial intelligence to create a program that could target any known flaw in the world’s computers.",
-    "published": "2026-06-03T00:37:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Expands Safety Features for Teenagers",
-    "link": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html",
-    "summary": "The changes, after Meta’s legal losses in two child safety cases, are aimed at limiting harmful content shown to teenagers on Instagram, Facebook and Messenger.",
-    "published": "2026-06-02T11:00:05",
     "source": "NYT > Technology"
   }
 ]
