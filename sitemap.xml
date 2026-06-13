@@ -1,111 +1,139 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-06-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/</loc>
+    <lastmod>2026-06-13T07:45:39</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=48514461</loc>
+    <lastmod>2026-06-13T07:30:59</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vladignatyev/brain-map-skill</loc>
+    <lastmod>2026-06-13T06:43:42</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.unitedheroes.net/5751</loc>
+    <lastmod>2026-06-13T05:57:14</lastmod>
+  </url>
+  <url>
+    <loc>https://koenvangilst.nl/lab/claude-fable-shepherds-dog</loc>
+    <lastmod>2026-06-13T05:44:46</lastmod>
+  </url>
+  <url>
+    <loc>https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow</loc>
+    <lastmod>2026-06-13T05:16:41</lastmod>
+  </url>
+  <url>
+    <loc>https://6it.dev/blog/on-cpu-physics-and-cpu-cycles-80730</loc>
+    <lastmod>2026-06-13T04:37:08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html</loc>
+    <lastmod>2026-06-13T03:48:18</lastmod>
+  </url>
+  <url>
+    <loc>https://opensourceaimustwin.com/?share=v2</loc>
+    <lastmod>2026-06-13T02:14:24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.anthropic.com/news/fable-mythos-access</loc>
+    <lastmod>2026-06-13T00:51:30</lastmod>
+  </url>
+  <url>
+    <loc>https://putt.day/</loc>
+    <lastmod>2026-06-12T22:56:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html</loc>
+    <lastmod>2026-06-12T22:40:06</lastmod>
+  </url>
+  <url>
+    <loc>https://depthfirst.com/research/21-zero-days-in-ffmpeg</loc>
+    <lastmod>2026-06-12T22:13:29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</loc>
+    <lastmod>2026-06-12T22:08:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/technology/spacex-ipo-elon-musk.html</loc>
+    <lastmod>2026-06-12T20:52:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html</loc>
+    <lastmod>2026-06-12T20:48:07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979</loc>
+    <lastmod>2026-06-12T20:39:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/technology/elon-musk-trillionaire.html</loc>
+    <lastmod>2026-06-12T20:38:48</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/upshot/spacex-stock-ipo.html</loc>
+    <lastmod>2026-06-12T20:18:27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.swift.org/blog/migrating-truetype-hinting-to-swift/</loc>
+    <lastmod>2026-06-12T19:54:27</lastmod>
+  </url>
+  <url>
+    <loc>https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</loc>
+    <lastmod>2026-06-12T17:34:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html</loc>
+    <lastmod>2026-06-12T17:12:53</lastmod>
+  </url>
+  <url>
+    <loc>https://piwodlaiwo.github.io/pirates/</loc>
+    <lastmod>2026-06-12T17:07:46</lastmod>
+  </url>
+  <url>
+    <loc>https://bitboard.work/</loc>
+    <lastmod>2026-06-12T16:58:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html</loc>
+    <lastmod>2026-06-12T15:50:11</lastmod>
+  </url>
+  <url>
+    <loc>https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/</loc>
+    <lastmod>2026-06-12T15:15:24</lastmod>
+  </url>
+  <url>
+    <loc>https://envs.net/~volpe/blog/posts/reduce-slop.html</loc>
+    <lastmod>2026-06-12T14:48:38</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci</loc>
+    <lastmod>2026-06-12T13:14:18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/06/12/podcasts/hard-fork-live-part-1-satya-nadella.html</loc>
+    <lastmod>2026-06-12T11:02:20</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/12/technology/google-lawsuit-china-ai-scams.html</loc>
-    <lastmod>2026-06-12T09:10:31</lastmod>
-  </url>
-  <url>
-    <loc>https://sseh.uchicago.edu/doc/roauss.htm</loc>
-    <lastmod>2026-06-12T07:35:46</lastmod>
+    <lastmod>2026-06-12T09:10:32</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/11/technology/spacex-ipo-price.html</loc>
     <lastmod>2026-06-12T06:43:31</lastmod>
   </url>
   <url>
-    <loc>https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/</loc>
-    <lastmod>2026-06-12T05:53:19</lastmod>
-  </url>
-  <url>
-    <loc>https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</loc>
-    <lastmod>2026-06-12T04:42:53</lastmod>
-  </url>
-  <url>
-    <loc>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</loc>
-    <lastmod>2026-06-12T01:06:51</lastmod>
-  </url>
-  <url>
-    <loc>https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/</loc>
-    <lastmod>2026-06-12T00:42:11</lastmod>
-  </url>
-  <url>
-    <loc>https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf</loc>
-    <lastmod>2026-06-12T00:38:11</lastmod>
-  </url>
-  <url>
-    <loc>https://tombedor.dev/human-attention-and-human-effort/</loc>
-    <lastmod>2026-06-11T23:01:55</lastmod>
-  </url>
-  <url>
-    <loc>https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/</loc>
-    <lastmod>2026-06-11T22:59:22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html</loc>
-    <lastmod>2026-06-11T21:28:03</lastmod>
-  </url>
-  <url>
-    <loc>https://fablepool.com</loc>
-    <lastmod>2026-06-11T21:17:30</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.griffens.net/blog/trying-to-fix-complicated-problems/</loc>
-    <lastmod>2026-06-11T20:55:18</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html</loc>
     <lastmod>2026-06-11T20:30:58</lastmod>
   </url>
   <url>
-    <loc>https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/</loc>
-    <lastmod>2026-06-11T18:46:22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html</loc>
-    <lastmod>2026-06-11T17:35:19</lastmod>
-  </url>
-  <url>
-    <loc>https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research</loc>
-    <lastmod>2026-06-11T17:14:42</lastmod>
-  </url>
-  <url>
-    <loc>https://zed.dev/blog/introducing-deltadb</loc>
-    <lastmod>2026-06-11T16:28:24</lastmod>
-  </url>
-  <url>
-    <loc>https://waymo.com/blog/2026/06/waymo-premier/</loc>
-    <lastmod>2026-06-11T16:10:02</lastmod>
-  </url>
-  <url>
-    <loc>https://mrbruh.com/amd2/</loc>
-    <lastmod>2026-06-11T16:03:40</lastmod>
-  </url>
-  <url>
-    <loc>https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype</loc>
-    <lastmod>2026-06-11T16:03:21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416</loc>
-    <lastmod>2026-06-11T15:37:23</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html</loc>
     <lastmod>2026-06-11T15:15:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html</loc>
-    <lastmod>2026-06-11T15:14:51</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/icitry/FPS.cob</loc>
-    <lastmod>2026-06-11T15:13:57</lastmod>
-  </url>
-  <url>
-    <loc>https://mimo.xiaomi.com/mimocode</loc>
-    <lastmod>2026-06-11T14:27:19</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html</loc>
@@ -126,10 +154,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/06/10/technology/predator-catcher-vitaly-mistake.html</loc>
     <lastmod>2026-06-10T17:59:42</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html</loc>
-    <lastmod>2026-06-10T17:36:14</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html</loc>
@@ -194,21 +218,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html</loc>
     <lastmod>2026-06-08T09:01:51</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html</loc>
-    <lastmod>2026-06-06T00:44:15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/05/technology/reid-hoffman-leaving-microsoft-board.html</loc>
-    <lastmod>2026-06-05T18:25:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html</loc>
-    <lastmod>2026-06-05T14:59:27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html</loc>
-    <lastmod>2026-06-05T11:00:03</lastmod>
   </url>
 </urlset>
