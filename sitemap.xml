@@ -1,95 +1,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://stratechery.com/2026/anthropics-safety-superpower/</loc>
+    <lastmod>2026-06-15T10:06:35</lastmod>
+  </url>
+  <url>
+    <loc>https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable</loc>
+    <lastmod>2026-06-15T09:23:15</lastmod>
+  </url>
+  <url>
+    <loc>https://mrmarket.lol/what-the-fuck-happened-to-nerds/</loc>
+    <lastmod>2026-06-15T08:23:52</lastmod>
+  </url>
+  <url>
+    <loc>https://openrouter.ai/openrouter/fusion</loc>
+    <lastmod>2026-06-15T07:10:57</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office</loc>
+    <lastmod>2026-06-15T07:00:22</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/</loc>
+    <lastmod>2026-06-15T06:02:57</lastmod>
+  </url>
+  <url>
+    <loc>https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models</loc>
+    <lastmod>2026-06-15T04:55:34</lastmod>
+  </url>
+  <url>
+    <loc>https://karthinks.com/software/even-more-batteries-included-with-emacs/</loc>
+    <lastmod>2026-06-15T02:30:25</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/</loc>
+    <lastmod>2026-06-15T00:07:32</lastmod>
+  </url>
+  <url>
+    <loc>https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</loc>
+    <lastmod>2026-06-14T22:54:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds</loc>
+    <lastmod>2026-06-14T21:42:12</lastmod>
+  </url>
+  <url>
+    <loc>https://tumbleweed.nu/r/lm-3/uv/amber.html</loc>
+    <lastmod>2026-06-14T19:14:21</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tamnd/kage</loc>
+    <lastmod>2026-06-14T17:25:38</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html</loc>
-    <lastmod>2026-06-14T09:01:45</lastmod>
+    <lastmod>2026-06-14T16:13:43</lastmod>
   </url>
   <url>
-    <loc>https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows</loc>
-    <lastmod>2026-06-14T06:07:09</lastmod>
+    <loc>https://news.ycombinator.com/item?id=48528779</loc>
+    <lastmod>2026-06-14T16:05:28</lastmod>
   </url>
   <url>
-    <loc>http://tribblix.org/</loc>
-    <lastmod>2026-06-14T05:23:12</lastmod>
+    <loc>https://github.com/nex-agi/Nex-N2/issues/4</loc>
+    <lastmod>2026-06-14T15:37:31</lastmod>
   </url>
   <url>
-    <loc>https://phoenixframework.org/blog/phoenix-liveview-1-2-released</loc>
-    <lastmod>2026-06-14T04:53:51</lastmod>
+    <loc>https://www.cs.yale.edu/homes/perlis-alan/quotes.html</loc>
+    <lastmod>2026-06-14T14:56:56</lastmod>
   </url>
   <url>
-    <loc>https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost</loc>
-    <lastmod>2026-06-14T04:18:45</lastmod>
+    <loc>https://su3.io/posts/zeroserve-caddy-compat</loc>
+    <lastmod>2026-06-14T13:43:08</lastmod>
   </url>
   <url>
-    <loc>https://martinfowler.com/architecture/</loc>
-    <lastmod>2026-06-14T04:07:37</lastmod>
-  </url>
-  <url>
-    <loc>https://sqltoerdiagram.com/</loc>
-    <lastmod>2026-06-14T03:43:30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.anthropic.com/research/making-claude-a-chemist</loc>
-    <lastmod>2026-06-14T02:55:36</lastmod>
-  </url>
-  <url>
-    <loc>https://ataraxy-labs.github.io/weave/</loc>
-    <lastmod>2026-06-14T02:45:38</lastmod>
-  </url>
-  <url>
-    <loc>http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</loc>
-    <lastmod>2026-06-14T02:31:15</lastmod>
-  </url>
-  <url>
-    <loc>https://igor-blue.github.io/2021/03/24/apt1.html</loc>
-    <lastmod>2026-06-14T02:17:13</lastmod>
+    <loc>https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1</loc>
+    <lastmod>2026-06-14T12:35:27</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html</loc>
-    <lastmod>2026-06-14T00:57:38</lastmod>
+    <lastmod>2026-06-14T00:57:39</lastmod>
   </url>
   <url>
-    <loc>https://juniperspring.org/posts/honda-evil-valet/</loc>
-    <lastmod>2026-06-14T00:49:46</lastmod>
+    <loc>https://traceapp.info</loc>
+    <lastmod>2026-06-13T20:41:58</lastmod>
   </url>
   <url>
-    <loc>https://www.phoronix.com/news/ReactOS-Running-Half-Life</loc>
-    <lastmod>2026-06-13T23:22:05</lastmod>
-  </url>
-  <url>
-    <loc>https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/</loc>
-    <lastmod>2026-06-13T18:32:22</lastmod>
-  </url>
-  <url>
-    <loc>https://tcrf.net/Workboy</loc>
-    <lastmod>2026-06-13T17:43:02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink</loc>
-    <lastmod>2026-06-13T16:57:49</lastmod>
-  </url>
-  <url>
-    <loc>https://twitter.com/jietang/status/2065784751345287314</loc>
-    <lastmod>2026-06-13T16:18:31</lastmod>
-  </url>
-  <url>
-    <loc>https://desfontain.es/blog/banning-noise.html</loc>
-    <lastmod>2026-06-13T13:54:56</lastmod>
-  </url>
-  <url>
-    <loc>https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch</loc>
-    <lastmod>2026-06-13T13:34:00</lastmod>
-  </url>
-  <url>
-    <loc>https://lr0.org/blog/p/arabic/</loc>
-    <lastmod>2026-06-13T12:40:16</lastmod>
-  </url>
-  <url>
-    <loc>https://tonsky.me/blog/every-frame-perfect/</loc>
-    <lastmod>2026-06-13T11:40:20</lastmod>
+    <loc>https://www.bbc.co.uk/programmes/w3ct8k70</loc>
+    <lastmod>2026-06-13T19:31:54</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html</loc>
@@ -200,10 +200,6 @@
     <lastmod>2026-06-09T09:00:38</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/06/08/us/iphone-birthrate-decline-studies.html</loc>
-    <lastmod>2026-06-08T23:16:37</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/06/08/technology/openai-ipo.html</loc>
     <lastmod>2026-06-08T21:58:32</lastmod>
   </url>
@@ -218,13 +214,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/06/08/technology/elon-musk-brendan-carr-fcc-spacex.html</loc>
     <lastmod>2026-06-08T18:31:50</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/08/technology/uk-video-memes-archive-tape.html</loc>
-    <lastmod>2026-06-08T18:17:20</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/08/technology/apple-ai-artificial-intelligence-wwdc.html</loc>
-    <lastmod>2026-06-08T09:01:51</lastmod>
   </url>
 </urlset>
