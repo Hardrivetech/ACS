@@ -1,16 +1,163 @@
 [
   {
-    "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-    "link": "https://trinket.strivemath.org/",
-    "summary": "<p>Article URL: <a href=\"https://trinket.strivemath.org/\">https://trinket.strivemath.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48552723\">https://news.ycombinator.com/item?id=48552723</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-16T09:30:58",
+    "title": "U.S. Science Is in Chaos",
+    "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
+    "summary": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/\">https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48568058\">https://news.ycombinator.com/item?id=48568058</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+    "published": "2026-06-17T09:54:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Commodore Releases Flip Phone",
-    "link": "https://commodore.net/why-a-flip-phone/",
-    "summary": "<p>Article URL: <a href=\"https://commodore.net/why-a-flip-phone/\">https://commodore.net/why-a-flip-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48552614\">https://news.ycombinator.com/item?id=48552614</a></p>\n<p>Points: 25</p>\n<p># Comments: 4</p>",
-    "published": "2026-06-16T09:15:31",
+    "title": "Ask HN: What has been bothering you lately?",
+    "link": "https://news.ycombinator.com/item?id=48567958",
+    "summary": "<p>Vent out. Maybe one of us will find a fix.<p>I'm mad that economic policies in France aren't based on what models say is best next action but on elections. Democracy really sucks.<p>I'm also very annoyed that models are censoring stuff without even clarifying what's wrong with the prompt.<p>I don't like that content distribution is still mostly owned by a few platforms. Something is deeply odd with that.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567958\">https://news.ycombinator.com/item?id=48567958</a></p>\n<p>Points: 7</p>\n<p># Comments: 10</p>",
+    "published": "2026-06-17T09:40:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: High-Res Neural Cellular Automata",
+    "link": "https://cells2pixels.github.io/",
+    "summary": "<p>Neural CAs model self-organizing pattern formation.<p>Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.<p>Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textures like clouds.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567877\">https://news.ycombinator.com/item?id=48567877</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-17T09:28:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index\">https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567759\">https://news.ycombinator.com/item?id=48567759</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-06-17T09:12:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of the A.I. Boom",
+    "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
+    "summary": "As tech giants rush to build big data centers, some residents who live near them say a constant low-frequency vibration is ruining their health and homes.",
+    "published": "2026-06-17T09:00:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Most of the CVE-2026-4020 attackers are the same client",
+    "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+    "summary": "<p>Article URL: <a href=\"https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020\">https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567574\">https://news.ycombinator.com/item?id=48567574</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-17T08:47:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hacker News but for Independent Blogs",
+    "link": "https://bubbles.town/",
+    "summary": "<p>Article URL: <a href=\"https://bubbles.town/\">https://bubbles.town/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567155\">https://news.ycombinator.com/item?id=48567155</a></p>\n<p>Points: 83</p>\n<p># Comments: 28</p>",
+    "published": "2026-06-17T07:49:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The founder's playbook: Building an AI-native startup",
+    "link": "https://claude.com/blog/the-founders-playbook",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-founders-playbook\">https://claude.com/blog/the-founders-playbook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48566832\">https://news.ycombinator.com/item?id=48566832</a></p>\n<p>Points: 89</p>\n<p># Comments: 86</p>",
+    "published": "2026-06-17T07:04:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "From Chesterton's fence to Chesterton's gap",
+    "link": "https://stephantul.github.io/blog/unfence/",
+    "summary": "<p>Article URL: <a href=\"https://stephantul.github.io/blog/unfence/\">https://stephantul.github.io/blog/unfence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48566727\">https://news.ycombinator.com/item?id=48566727</a></p>\n<p>Points: 10</p>\n<p># Comments: 8</p>",
+    "published": "2026-06-17T06:50:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
+    "link": "https://arxiv.org/abs/2606.14806",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.14806\">https://arxiv.org/abs/2606.14806</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48565326\">https://news.ycombinator.com/item?id=48565326</a></p>\n<p>Points: 31</p>\n<p># Comments: 14</p>",
+    "published": "2026-06-17T03:25:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+    "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "summary": "<p>Article URL: <a href=\"https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\">https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48564696\">https://news.ycombinator.com/item?id=48564696</a></p>\n<p>Points: 254</p>\n<p># Comments: 154</p>",
+    "published": "2026-06-17T01:40:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wolfram Language and Mathematica version 15",
+    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\">https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563609\">https://news.ycombinator.com/item?id=48563609</a></p>\n<p>Points: 171</p>\n<p># Comments: 85</p>",
+    "published": "2026-06-16T23:15:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Humiliating IIS servers for fun and jail time",
+    "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "summary": "<p>Article URL: <a href=\"https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/\">https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563394\">https://news.ycombinator.com/item?id=48563394</a></p>\n<p>Points: 274</p>\n<p># Comments: 63</p>",
+    "published": "2026-06-16T22:53:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion",
+    "link": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html",
+    "summary": "SpaceX exercised its option to acquire Cursor in an all-stock deal, bolstering Elon Musk’s ambitions in artificial intelligence.",
+    "published": "2026-06-16T20:47:18",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "GrapheneOS has been ported to Android 17",
+    "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\">https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561654\">https://news.ycombinator.com/item?id=48561654</a></p>\n<p>Points: 791</p>\n<p># Comments: 394</p>",
+    "published": "2026-06-16T20:34:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
+    "link": "https://github.com/nvlabs/cutile-rs",
+    "summary": "<p>Article URL: <a href=\"https://github.com/nvlabs/cutile-rs\">https://github.com/nvlabs/cutile-rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561410\">https://news.ycombinator.com/item?id=48561410</a></p>\n<p>Points: 83</p>\n<p># Comments: 14</p>",
+    "published": "2026-06-16T20:17:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center",
+    "link": "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html",
+    "summary": "The department cited national security concerns, saying Elon Musk’s company had played a crucial role in the Iran war. It also argued it has the authority to stop environmental lawsuits brought by citizens.",
+    "published": "2026-06-16T19:59:14",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "GPT‑NL: a sovereign language model for the Netherlands",
+    "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "summary": "<p>Article URL: <a href=\"https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\">https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559188\">https://news.ycombinator.com/item?id=48559188</a></p>\n<p>Points: 214</p>\n<p># Comments: 217</p>",
+    "published": "2026-06-16T17:54:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
+    "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "summary": "<p>Article URL: <a href=\"https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus\">https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559083\">https://news.ycombinator.com/item?id=48559083</a></p>\n<p>Points: 150</p>\n<p># Comments: 133</p>",
+    "published": "2026-06-16T17:48:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Has AI already killed self-help nonfiction books?",
+    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "summary": "<p>Article URL: <a href=\"https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/\">https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558489\">https://news.ycombinator.com/item?id=48558489</a></p>\n<p>Points: 308</p>\n<p># Comments: 342</p>",
+    "published": "2026-06-16T17:11:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Stop Using JWTs",
+    "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "summary": "<p>Article URL: <a href=\"https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452\">https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558147\">https://news.ycombinator.com/item?id=48558147</a></p>\n<p>Points: 402</p>\n<p># Comments: 231</p>",
+    "published": "2026-06-16T16:49:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+    "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "summary": "<p>Article URL: <a href=\"https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/\">https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558018\">https://news.ycombinator.com/item?id=48558018</a></p>\n<p>Points: 423</p>\n<p># Comments: 196</p>",
+    "published": "2026-06-16T16:40:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Calvin and Hobbes and the price of integrity",
+    "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+    "summary": "<p>Article URL: <a href=\"https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of\">https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557079\">https://news.ycombinator.com/item?id=48557079</a></p>\n<p>Points: 430</p>\n<p># Comments: 184</p>",
+    "published": "2026-06-16T15:44:44",
     "source": "Hacker News: Front Page"
   },
   {
@@ -21,144 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Understanding the rationale behind a rule when trying to circumvent it",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415",
-    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415\">https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48551876\">https://news.ycombinator.com/item?id=48551876</a></p>\n<p>Points: 27</p>\n<p># Comments: 5</p>",
-    "published": "2026-06-16T07:35:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "John Carmack on Fabrice Bellard",
-    "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-    "summary": "<p><a href=\"https://xcancel.com/ID_AA_Carmack/status/2064095424420487226\" rel=\"nofollow\">https://xcancel.com/ID_AA_Carmack/status/2064095424420487226</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48550779\">https://news.ycombinator.com/item?id=48550779</a></p>\n<p>Points: 281</p>\n<p># Comments: 164</p>",
-    "published": "2026-06-16T04:58:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419\">https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48550693\">https://news.ycombinator.com/item?id=48550693</a></p>\n<p>Points: 259</p>\n<p># Comments: 83</p>",
-    "published": "2026-06-16T04:46:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Garden of Flowers – an archive of pictorial typography before ASCII art",
-    "link": "https://garden-of-flowers.heikkilotvonen.com/",
-    "summary": "<p>Hey all, I made this. The archive started with my 2015 BA thesis on Amiga ASCII art when I was curious about the history of ASCII art but found very little on text art that came before it. The historical precursors are often attributed to typewriter art and shaped/visual poetry, but I think letterpress is overlooked. So, I got slightly obsessed and started a personal database of pictures built entirely from metal type, ornaments, and rule, some going back to the 1600s. After eight years, I've managed to find ~2500 images. My friend Adel Faure built the website so it's now browseable by anyone!<p>I would like to note that most images are from public digital collections (Internet Archive, national libraries, etc.) and displayed without permission (for educational purposes). I've tried to source every image, but check the original source and its license before reusing anything. I'd be happy to take down or correct anything.<p>It's also incomplete and surely has errors and misattributions. Corrections to anything are very welcome.<p>If anyone has leads on works I haven't catalogued, I'd love to hear them! The practice and pictures are scattered across languages and keywords (type picture, typosignet, typotectur, Bildsatz, stigmatypie, stunt typography...), so things hide in odd corners of archives. If you've seen something like this, please point me at it.<p>There's also a longer essay on how it began:\n<a href=\"https://garden-of-flowers.heikkilotvonen.com/?essay\" rel=\"nofollow\">https://garden-of-flowers.heikkilotvonen.com/?essay</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48550569\">https://news.ycombinator.com/item?id=48550569</a></p>\n<p>Points: 78</p>\n<p># Comments: 14</p>",
-    "published": "2026-06-16T04:25:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Humanity isn't ready for the coming intelligence explosion",
-    "link": "https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion",
-    "summary": "<p>Article URL: <a href=\"https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion\">https://www.economist.com/by-invitation/2026/06/15/humanity-isnt-ready-for-the-coming-intelligence-explosion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48549628\">https://news.ycombinator.com/item?id=48549628</a></p>\n<p>Points: 98</p>\n<p># Comments: 282</p>",
-    "published": "2026-06-16T02:00:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "UK Announces Social Media Ban for Children Under 16",
     "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
     "summary": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
     "published": "2026-06-15T22:53:50",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-    "link": "https://www.richardosgood.com/posts/banned-book-library/",
-    "summary": "<p>Article URL: <a href=\"https://www.richardosgood.com/posts/banned-book-library/\">https://www.richardosgood.com/posts/banned-book-library/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48547985\">https://news.ycombinator.com/item?id=48547985</a></p>\n<p>Points: 385</p>\n<p># Comments: 204</p>",
-    "published": "2026-06-15T22:37:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why I email complete strangers",
-    "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "summary": "<p>Article URL: <a href=\"https://www.goodinternetmagazine.com/why-i-email-complete-strangers/\">https://www.goodinternetmagazine.com/why-i-email-complete-strangers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48547566\">https://news.ycombinator.com/item?id=48547566</a></p>\n<p>Points: 154</p>\n<p># Comments: 68</p>",
-    "published": "2026-06-15T21:57:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Peopleless economy? Not technically impossible",
-    "link": "https://gmalandrakis.com/writings/ad-economicum.html",
-    "summary": "<p>Article URL: <a href=\"https://gmalandrakis.com/writings/ad-economicum.html\">https://gmalandrakis.com/writings/ad-economicum.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48547062\">https://news.ycombinator.com/item?id=48547062</a></p>\n<p>Points: 186</p>\n<p># Comments: 337</p>",
-    "published": "2026-06-15T21:10:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SpaceX’s Stock Surges on First Full Day of Trading",
-    "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
-    "summary": "The company’s shares jumped on Monday, and executives announced that they had raised even more money in an already record-breaking initial offering.",
-    "published": "2026-06-15T20:24:47",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "I Love the Computer",
-    "link": "https://michaelenger.com/blog/i-love-the-computer/",
-    "summary": "<p>Article URL: <a href=\"https://michaelenger.com/blog/i-love-the-computer/\">https://michaelenger.com/blog/i-love-the-computer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48546441\">https://news.ycombinator.com/item?id=48546441</a></p>\n<p>Points: 233</p>\n<p># Comments: 137</p>",
-    "published": "2026-06-15T20:14:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What job interviews taught me about Kubernetes",
-    "link": "https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/",
-    "summary": "<p>Article URL: <a href=\"https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/\">https://notnotp.com/notes/what-job-interviews-taught-me-about-kubernetes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48546428\">https://news.ycombinator.com/item?id=48546428</a></p>\n<p>Points: 190</p>\n<p># Comments: 134</p>",
-    "published": "2026-06-15T20:12:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A backdoor in a LinkedIn job offer",
-    "link": "https://roman.pt/posts/linkedin-backdoor/",
-    "summary": "<p>Article URL: <a href=\"https://roman.pt/posts/linkedin-backdoor/\">https://roman.pt/posts/linkedin-backdoor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48546294\">https://news.ycombinator.com/item?id=48546294</a></p>\n<p>Points: 1189</p>\n<p># Comments: 219</p>",
-    "published": "2026-06-15T20:00:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-    "link": "https://grassdx.com/",
-    "summary": "<p>I know, it's kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?<p>Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees without any actual improvement. Googling problems and finding generic solutions without regional considerations. One time I overseeded my grass not realizing I had to actually put soil down too.<p>One day, I decided to run lawn pictures through AI and found some pretty helpful information. So I decided with my clinical background (the idea of treating the cause, not just the symptoms), as well as tech savvy, I would create an AI tool where homeowners can upload pictures of their lawn, enter their ZIP code, and get a diagnosis tailored to their location with actionable next steps in just 15 seconds.<p>Completely free. The platform is monetized with affiliate sales (if a user elects to purchase through one of our Amazon or other links) and by selling exclusive rights to individual ZIP codes to lawn care companies seeking warm leads. Users can pursue their own DIY plan, purchase a lawn care subscription service, or contact a local lawn care system.<p>I'd love if you'd test it out, toy with it, try to break it, and give me your feedback. Any feature requests would be super helpful.<p>Thanks! Excited to hear your thoughts.<p>Andrew</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48544823\">https://news.ycombinator.com/item?id=48544823</a></p>\n<p>Points: 64</p>\n<p># Comments: 55</p>",
-    "published": "2026-06-15T17:56:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Game Engine White Papers: Commander Keen",
-    "link": "https://forgottenbytes.net/commander_keen.html",
-    "summary": "<p>Article URL: <a href=\"https://forgottenbytes.net/commander_keen.html\">https://forgottenbytes.net/commander_keen.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48544781\">https://news.ycombinator.com/item?id=48544781</a></p>\n<p>Points: 211</p>\n<p># Comments: 70</p>",
-    "published": "2026-06-15T17:52:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Corps",
-    "link": "https://www.anthropic.com/news/claude-corps",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-corps\">https://www.anthropic.com/news/claude-corps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48544637\">https://news.ycombinator.com/item?id=48544637</a></p>\n<p>Points: 134</p>\n<p># Comments: 90</p>",
-    "published": "2026-06-15T17:41:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How TimescaleDB compresses time-series data",
-    "link": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-    "summary": "<p>Article URL: <a href=\"https://roszigit.com/en/blog/timescaledb-compression-hypercore\">https://roszigit.com/en/blog/timescaledb-compression-hypercore</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48544451\">https://news.ycombinator.com/item?id=48544451</a></p>\n<p>Points: 153</p>\n<p># Comments: 18</p>",
-    "published": "2026-06-15T17:29:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-    "link": "https://tinywind.io",
-    "summary": "<p>Article URL: <a href=\"https://tinywind.io\">https://tinywind.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48543475\">https://news.ycombinator.com/item?id=48543475</a></p>\n<p>Points: 840</p>\n<p># Comments: 154</p>",
-    "published": "2026-06-15T16:15:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Iroh 1.0",
-    "link": "https://www.iroh.computer/blog/v1",
-    "summary": "<p>Article URL: <a href=\"https://www.iroh.computer/blog/v1\">https://www.iroh.computer/blog/v1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48542480\">https://news.ycombinator.com/item?id=48542480</a></p>\n<p>Points: 1198</p>\n<p># Comments: 362</p>",
-    "published": "2026-06-15T15:13:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My Homelab AI Dev Platform",
-    "link": "https://rsgm.dev/post/ai-dev-platform/",
-    "summary": "<p>Article URL: <a href=\"https://rsgm.dev/post/ai-dev-platform/\">https://rsgm.dev/post/ai-dev-platform/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48542433\">https://news.ycombinator.com/item?id=48542433</a></p>\n<p>Points: 313</p>\n<p># Comments: 55</p>",
-    "published": "2026-06-15T15:09:40",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
@@ -315,52 +329,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts",
-    "link": "https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html",
-    "summary": "The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company’s new artificial intelligence software.",
-    "published": "2026-06-10T16:46:33",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Antonio Gracias, Elon Musk’s Friend, Is Set to Reap Billions From SpaceX’s IPO",
     "link": "https://www.nytimes.com/2026/06/10/technology/antonio-gracias-elon-musk-spacex.html",
     "summary": "Antonio Gracias, an investor who has built a $65 billion stake in the company, exemplifies the economic upside of being Mr. Musk’s ally.",
     "published": "2026-06-10T16:44:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
-    "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
-    "summary": "If you need space back on your phone or tablet, removing built-in and unused apps can help free up storage and reduce screen clutter.",
-    "published": "2026-06-10T09:02:01",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag",
-    "link": "https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html",
-    "summary": "The carmaker will follow Tesla in making components for large batteries used by electric utilities, data centers and other businesses to handle fluctuations in power supply and demand.",
-    "published": "2026-06-09T23:29:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe",
-    "link": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
-    "summary": "A regulatory dispute has indefinitely delayed the release of Siri AI.",
-    "published": "2026-06-09T18:29:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Releases ‘Safe’ Version of Its Mythos A.I. Technology",
-    "link": "https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html",
-    "summary": "Called Claude Fable 5, it is twice as expensive as the company’s previous flagship system.",
-    "published": "2026-06-09T17:16:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Dutch Authorities Block $115 Million Deal by a U.S. Tech Company",
-    "link": "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
-    "summary": "The Netherlands blocked a U.S. company from buying a Dutch firm that handles its national ID system, saying it would create a “threat to the public interest.”",
-    "published": "2026-06-09T14:52:00",
     "source": "NYT > Technology"
   }
 ]
