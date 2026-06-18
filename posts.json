@@ -1,94 +1,199 @@
 [
   {
-    "title": "U.S. Science Is in Chaos",
-    "link": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
-    "summary": "<p>Article URL: <a href=\"https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/\">https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48568058\">https://news.ycombinator.com/item?id=48568058</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
-    "published": "2026-06-17T09:54:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: What has been bothering you lately?",
-    "link": "https://news.ycombinator.com/item?id=48567958",
-    "summary": "<p>Vent out. Maybe one of us will find a fix.<p>I'm mad that economic policies in France aren't based on what models say is best next action but on elections. Democracy really sucks.<p>I'm also very annoyed that models are censoring stuff without even clarifying what's wrong with the prompt.<p>I don't like that content distribution is still mostly owned by a few platforms. Something is deeply odd with that.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567958\">https://news.ycombinator.com/item?id=48567958</a></p>\n<p>Points: 7</p>\n<p># Comments: 10</p>",
-    "published": "2026-06-17T09:40:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: High-Res Neural Cellular Automata",
-    "link": "https://cells2pixels.github.io/",
-    "summary": "<p>Neural CAs model self-organizing pattern formation.<p>Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.<p>Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textures like clouds.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567877\">https://news.ycombinator.com/item?id=48567877</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-17T09:28:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-    "link": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index\">https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567759\">https://news.ycombinator.com/item?id=48567759</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-17T09:12:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of the A.I. Boom",
-    "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
-    "summary": "As tech giants rush to build big data centers, some residents who live near them say a constant low-frequency vibration is ruining their health and homes.",
-    "published": "2026-06-17T09:00:27",
+    "title": "As India Temporarily Bans Telegram, Which Other Countries Have Restricted the Messaging App?",
+    "link": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html",
+    "summary": "Several countries have restricted the messaging app, a valuable platform for dissidents, criminals and extremists. Here’s an overview.",
+    "published": "2026-06-18T09:50:09",
     "source": "NYT > Technology"
   },
   {
-    "title": "Most of the CVE-2026-4020 attackers are the same client",
-    "link": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
-    "summary": "<p>Article URL: <a href=\"https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020\">https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567574\">https://news.ycombinator.com/item?id=48567574</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-17T08:47:14",
+    "title": "New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.",
+    "link": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html",
+    "summary": "The Guardrails Alliance, which has raised $5 million, is positioning itself as a populist effort that will take on the pro-A.I. interests trying to influence this year’s elections.",
+    "published": "2026-06-18T09:02:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I need your clothes, your boots, and your motorcycle",
+    "link": "https://rbelmont.mameworld.info/?p=1725",
+    "summary": "<p>Article URL: <a href=\"https://rbelmont.mameworld.info/?p=1725\">https://rbelmont.mameworld.info/?p=1725</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48582464\">https://news.ycombinator.com/item?id=48582464</a></p>\n<p>Points: 27</p>\n<p># Comments: 12</p>",
+    "published": "2026-06-18T08:28:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Hacker News but for Independent Blogs",
-    "link": "https://bubbles.town/",
-    "summary": "<p>Article URL: <a href=\"https://bubbles.town/\">https://bubbles.town/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48567155\">https://news.ycombinator.com/item?id=48567155</a></p>\n<p>Points: 83</p>\n<p># Comments: 28</p>",
-    "published": "2026-06-17T07:49:44",
+    "title": "AMD silently removes memory encryption from consumer Ryzen CPUs",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change\">https://www.tomshardware.com/pc-components/cpus/amd-silently-removes-memory-encryption-from-consumer-ryzen-cpus-leaving-users-unaware-that-they-may-be-vulnerable-security-feature-vanishes-after-newer-agesa-firmware-amd-engineers-go-radio-silent-when-pressed-about-the-change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48582320\">https://news.ycombinator.com/item?id=48582320</a></p>\n<p>Points: 107</p>\n<p># Comments: 37</p>",
+    "published": "2026-06-18T08:08:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The founder's playbook: Building an AI-native startup",
-    "link": "https://claude.com/blog/the-founders-playbook",
-    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-founders-playbook\">https://claude.com/blog/the-founders-playbook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48566832\">https://news.ycombinator.com/item?id=48566832</a></p>\n<p>Points: 89</p>\n<p># Comments: 86</p>",
-    "published": "2026-06-17T07:04:42",
+    "title": "The Forge We Deserve",
+    "link": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "summary": "<p>Article URL: <a href=\"https://btao.org/posts/2026-05-09-the-forge-we-deserve/\">https://btao.org/posts/2026-05-09-the-forge-we-deserve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48582147\">https://news.ycombinator.com/item?id=48582147</a></p>\n<p>Points: 23</p>\n<p># Comments: 25</p>",
+    "published": "2026-06-18T07:46:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "From Chesterton's fence to Chesterton's gap",
-    "link": "https://stephantul.github.io/blog/unfence/",
-    "summary": "<p>Article URL: <a href=\"https://stephantul.github.io/blog/unfence/\">https://stephantul.github.io/blog/unfence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48566727\">https://news.ycombinator.com/item?id=48566727</a></p>\n<p>Points: 10</p>\n<p># Comments: 8</p>",
-    "published": "2026-06-17T06:50:47",
+    "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+    "link": "https://www.acma.gov.au/sms-sender-id-register",
+    "summary": "<p>Article URL: <a href=\"https://www.acma.gov.au/sms-sender-id-register\">https://www.acma.gov.au/sms-sender-id-register</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48581489\">https://news.ycombinator.com/item?id=48581489</a></p>\n<p>Points: 97</p>\n<p># Comments: 56</p>",
+    "published": "2026-06-18T06:23:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Semiclassical Gravity Efficiently Solves NP-Complete Problems",
-    "link": "https://arxiv.org/abs/2606.14806",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.14806\">https://arxiv.org/abs/2606.14806</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48565326\">https://news.ycombinator.com/item?id=48565326</a></p>\n<p>Points: 31</p>\n<p># Comments: 14</p>",
-    "published": "2026-06-17T03:25:51",
+    "title": "DeepSeek Introduces Vision",
+    "link": "https://chat.deepseek.com/",
+    "summary": "<p>Article URL: <a href=\"https://chat.deepseek.com/\">https://chat.deepseek.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48581458\">https://news.ycombinator.com/item?id=48581458</a></p>\n<p>Points: 153</p>\n<p># Comments: 69</p>",
+    "published": "2026-06-18T06:17:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-    "link": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-    "summary": "<p>Article URL: <a href=\"https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/\">https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48564696\">https://news.ycombinator.com/item?id=48564696</a></p>\n<p>Points: 254</p>\n<p># Comments: 154</p>",
-    "published": "2026-06-17T01:40:22",
+    "title": "I hate compilers",
+    "link": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
+    "summary": "<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/\">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48581070\">https://news.ycombinator.com/item?id=48581070</a></p>\n<p>Points: 73</p>\n<p># Comments: 55</p>",
+    "published": "2026-06-18T05:10:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Wolfram Language and Mathematica version 15",
-    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/\">https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563609\">https://news.ycombinator.com/item?id=48563609</a></p>\n<p>Points: 171</p>\n<p># Comments: 85</p>",
-    "published": "2026-06-16T23:15:44",
+    "title": "SteamOS Linux 3.8 released as stable",
+    "link": "https://store.steampowered.com/news/app/1675200/view/697641379212298072",
+    "summary": "<p>Article URL: <a href=\"https://store.steampowered.com/news/app/1675200/view/697641379212298072\">https://store.steampowered.com/news/app/1675200/view/697641379212298072</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48580686\">https://news.ycombinator.com/item?id=48580686</a></p>\n<p>Points: 153</p>\n<p># Comments: 48</p>",
+    "published": "2026-06-18T04:05:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Humiliating IIS servers for fun and jail time",
-    "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "summary": "<p>Article URL: <a href=\"https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/\">https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48563394\">https://news.ycombinator.com/item?id=48563394</a></p>\n<p>Points: 274</p>\n<p># Comments: 63</p>",
-    "published": "2026-06-16T22:53:34",
+    "title": "Nim Conf 2026 (Online, Sat June 20)",
+    "link": "https://conf.nim-lang.org/",
+    "summary": "<p>Article URL: <a href=\"https://conf.nim-lang.org/\">https://conf.nim-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48580504\">https://news.ycombinator.com/item?id=48580504</a></p>\n<p>Points: 48</p>\n<p># Comments: 7</p>",
+    "published": "2026-06-18T03:38:31",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Local Qwen isn't a worse Opus, it's a different tool",
+    "link": "https://blog.alexellis.io/local-ai-is-not-opus/",
+    "summary": "<p>Article URL: <a href=\"https://blog.alexellis.io/local-ai-is-not-opus/\">https://blog.alexellis.io/local-ai-is-not-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48580209\">https://news.ycombinator.com/item?id=48580209</a></p>\n<p>Points: 226</p>\n<p># Comments: 112</p>",
+    "published": "2026-06-18T03:04:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI Compute Extensions (ACE) Specification",
+    "link": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+    "summary": "<p>Article URL: <a href=\"https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\">https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48579913\">https://news.ycombinator.com/item?id=48579913</a></p>\n<p>Points: 37</p>\n<p># Comments: 16</p>",
+    "published": "2026-06-18T02:32:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Midjourney Medical",
+    "link": "https://www.midjourney.com/medical/blogpost",
+    "summary": "<p><a href=\"https://www.midjourney.com/medical\" rel=\"nofollow\">https://www.midjourney.com/medical</a><p>Video: <a href=\"https://x.com/midjourney/status/2067422898407837797\" rel=\"nofollow\">https://x.com/midjourney/status/2067422898407837797</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48579650\">https://news.ycombinator.com/item?id=48579650</a></p>\n<p>Points: 767</p>\n<p># Comments: 519</p>",
+    "published": "2026-06-18T01:59:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
+    "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
+    "summary": "Some shareholders might object, but there is little they could do, legal experts say.",
+    "published": "2026-06-18T00:56:43",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+    "link": "https://www.horg.com/horg/?page_id=921",
+    "summary": "<p>Article URL: <a href=\"https://www.horg.com/horg/?page_id=921\">https://www.horg.com/horg/?page_id=921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48578388\">https://news.ycombinator.com/item?id=48578388</a></p>\n<p>Points: 150</p>\n<p># Comments: 35</p>",
+    "published": "2026-06-17T23:20:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Clojure Hosted on Go",
+    "link": "https://github.com/glojurelang/glojure",
+    "summary": "<p>Article URL: <a href=\"https://github.com/glojurelang/glojure\">https://github.com/glojurelang/glojure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48578326\">https://news.ycombinator.com/item?id=48578326</a></p>\n<p>Points: 142</p>\n<p># Comments: 17</p>",
+    "published": "2026-06-17T23:14:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Storied Colors – A catalogue of named colors",
+    "link": "https://storiedcolors.com/",
+    "summary": "<p>Article URL: <a href=\"https://storiedcolors.com/\">https://storiedcolors.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48577374\">https://news.ycombinator.com/item?id=48577374</a></p>\n<p>Points: 175</p>\n<p># Comments: 39</p>",
+    "published": "2026-06-17T21:49:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Loreline – Tools for writing interactive fiction",
+    "link": "https://loreline.app/en/",
+    "summary": "<p>Article URL: <a href=\"https://loreline.app/en/\">https://loreline.app/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48576395\">https://news.ycombinator.com/item?id=48576395</a></p>\n<p>Points: 173</p>\n<p># Comments: 24</p>",
+    "published": "2026-06-17T20:29:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Madrid built its metro cheaply (2024)",
+    "link": "https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/",
+    "summary": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/\">https://worksinprogress.co/issue/how-madrid-built-its-metro-cheaply/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48575997\">https://news.ycombinator.com/item?id=48575997</a></p>\n<p>Points: 146</p>\n<p># Comments: 86</p>",
+    "published": "2026-06-17T19:59:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon",
+    "link": "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html",
+    "summary": "The Silicon Valley company’s ambitions to roll out autonomous cars nationwide have hit political roadblocks in some of the country’s biggest markets.",
+    "published": "2026-06-17T18:44:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Anthropic Employees Accuse Trump Administration of Targeting Them",
+    "link": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
+    "summary": "Workers at the artificial intelligence company have been puzzled and increasingly concerned by the administration’s move to limit their latest A.I. models.",
+    "published": "2026-06-17T17:56:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+    "link": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead\">https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48573221\">https://news.ycombinator.com/item?id=48573221</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-17T17:00:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: An 8-bit live gamecast for baseball",
+    "link": "https://ribbie.tv/watch",
+    "summary": "<p>Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.<p>Been waiting to share this for when there’s actually a good slate of games happening since the site is pretty bare otherwise.<p>Here is today's schedule:<p>Mets @ Reds - 9:40am PDT\n<a href=\"https://ribbie.tv/watch/game/824503\" rel=\"nofollow\">https://ribbie.tv/watch/game/824503</a><p>Royals @ Nationals - 10:05am PDT\n<a href=\"https://ribbie.tv/watch/game/822721\" rel=\"nofollow\">https://ribbie.tv/watch/game/822721</a><p>Marlins @ Phillies - 10:05am PDT\n<a href=\"https://ribbie.tv/watch/game/823450\" rel=\"nofollow\">https://ribbie.tv/watch/game/823450</a><p>Tigers @ Astros - 11:10am PDT\n<a href=\"https://ribbie.tv/watch/game/824178\" rel=\"nofollow\">https://ribbie.tv/watch/game/824178</a><p>Padres @ Cardinals - 11:15am PDT\n<a href=\"https://ribbie.tv/watch/game/823044\" rel=\"nofollow\">https://ribbie.tv/watch/game/823044</a><p>..and another 14 games throughout the later day.<p>I'm still early on in this project, but I've tried to add little details with actual stadiums, day and night modes, between inning graphics and interstitials, live scoreboards, etc.<p>Would love any feedback and ideas. Thanks for checking it out!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48573012\">https://news.ycombinator.com/item?id=48573012</a></p>\n<p>Points: 232</p>\n<p># Comments: 121</p>",
+    "published": "2026-06-17T16:44:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "link": "https://github.com/Adam-CAD/CADAM",
+    "summary": "<p>Hey HN! I'm Zach from Adam (<a href=\"https://adam.new/\">https://adam.new/</a>). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:<p>- AI will be the primary medium for creating mechanical designs just like it is in software today.<p>- The best paradigm for CAD generation is to generate CAD as code (text -> code -> CAD).<p>We’re building CADAM, an open source Text to CAD platform. It's a React app (TanStack Start) with a Supabase backend for auth, database, and file storage. Think of it like AI TinkerCAD.<p>Demo: <a href=\"https://www.youtube.com/watch?v=iESOr7EGWqk\" rel=\"nofollow\">https://www.youtube.com/watch?v=iESOr7EGWqk</a>\nTry it: <a href=\"https://adam.new/cadam/\">https://adam.new/cadam/</a><p>What it does:<p>- Generates parametric 3D models from natural language, with support for both text prompts and image references.<p>- Outputs OpenSCAD code with automatically extracted parameters that surface as interactive sliders for instant dimension tweaking<p>- Exports as .STL or .SCAD (plus OBJ, GLB/GLTF, FBX, and DXF)<p>Under the hood:<p>- One agentic endpoint with two modes that swap system prompts and tools: a parametric mode that writes/edits OpenSCAD via a build_parametric_model tool, and a mesh mode that generates 3D textured meshes.<p>- Simple parameter tweaks bypass the model entirely; adjusting a slider does a deterministic regex update on the SCAD source, requiring no LLM call.<p>- Model-agnostic via the Vercel AI SDK: Anthropic (Claude), Google (Gemini), and OpenAI/others through OpenRouter, with adaptive thinking auto-enabled on newer models. Surprisingly, in our evals Gemini 3.1 Pro is the top model.<p>- Runs fully in-browser by compiling OpenSCAD to WebAssembly (in a Web Worker, so the UI never blocks) and rendering with Three.js via React Three Fiber<p>- Supports BOSL, BOSL2, and MCAD libraries, plus custom font support (Geist) for text in models<p>Future improvements:<p>- Support both build123d and CadQuery. This will allow us to move beyond CSG primitives to constraint-driven modeling and provide direct comparisons to other code-as-CAD primitives.<p>- Better spatial context: UI for face/edge selection and viewport image integration to give LLMs spatial understanding<p>You can clone the repo and run it locally! Contributions are very welcome.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48572553\">https://news.ycombinator.com/item?id=48572553</a></p>\n<p>Points: 184</p>\n<p># Comments: 87</p>",
+    "published": "2026-06-17T16:14:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
+    "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+    "summary": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
+    "published": "2026-06-17T15:25:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Volkswagen started blocking GrapheneOS users",
+    "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3\">https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48571526\">https://news.ycombinator.com/item?id=48571526</a></p>\n<p>Points: 687</p>\n<p># Comments: 411</p>",
+    "published": "2026-06-17T15:04:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers",
+    "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
+    "summary": "As tech giants rush to build infrastructure, some residents who live near data centers say a constant low-frequency vibration is ruining their health and homes.",
+    "published": "2026-06-17T14:59:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era",
+    "link": "https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html",
+    "summary": "“I think if you have a creative voice in writing or design, you put yourself out there and you take a risk — this is a good time to do that,” said the Figma chief executive Dylan Field.",
+    "published": "2026-06-17T11:00:03",
+    "source": "NYT > Technology"
   },
   {
     "title": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion",
@@ -98,67 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "GrapheneOS has been ported to Android 17",
-    "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\">https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561654\">https://news.ycombinator.com/item?id=48561654</a></p>\n<p>Points: 791</p>\n<p># Comments: 394</p>",
-    "published": "2026-06-16T20:34:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust",
-    "link": "https://github.com/nvlabs/cutile-rs",
-    "summary": "<p>Article URL: <a href=\"https://github.com/nvlabs/cutile-rs\">https://github.com/nvlabs/cutile-rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48561410\">https://news.ycombinator.com/item?id=48561410</a></p>\n<p>Points: 83</p>\n<p># Comments: 14</p>",
-    "published": "2026-06-16T20:17:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center",
     "link": "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html",
     "summary": "The department cited national security concerns, saying Elon Musk’s company had played a crucial role in the Iran war. It also argued it has the authority to stop environmental lawsuits brought by citizens.",
-    "published": "2026-06-16T19:59:14",
+    "published": "2026-06-16T19:59:15",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "GPT‑NL: a sovereign language model for the Netherlands",
-    "link": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-    "summary": "<p>Article URL: <a href=\"https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/\">https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559188\">https://news.ycombinator.com/item?id=48559188</a></p>\n<p>Points: 214</p>\n<p># Comments: 217</p>",
-    "published": "2026-06-16T17:54:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "10Gb/s Ethernet: switching to a Broadcom SFP+ module",
-    "link": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
-    "summary": "<p>Article URL: <a href=\"https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus\">https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48559083\">https://news.ycombinator.com/item?id=48559083</a></p>\n<p>Points: 150</p>\n<p># Comments: 133</p>",
-    "published": "2026-06-16T17:48:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Has AI already killed self-help nonfiction books?",
-    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "summary": "<p>Article URL: <a href=\"https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/\">https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558489\">https://news.ycombinator.com/item?id=48558489</a></p>\n<p>Points: 308</p>\n<p># Comments: 342</p>",
-    "published": "2026-06-16T17:11:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Stop Using JWTs",
-    "link": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
-    "summary": "<p>Article URL: <a href=\"https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452\">https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558147\">https://news.ycombinator.com/item?id=48558147</a></p>\n<p>Points: 402</p>\n<p># Comments: 231</p>",
-    "published": "2026-06-16T16:49:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-    "link": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-    "summary": "<p>Article URL: <a href=\"https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/\">https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48558018\">https://news.ycombinator.com/item?id=48558018</a></p>\n<p>Points: 423</p>\n<p># Comments: 196</p>",
-    "published": "2026-06-16T16:40:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Calvin and Hobbes and the price of integrity",
-    "link": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
-    "summary": "<p>Article URL: <a href=\"https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of\">https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557079\">https://news.ycombinator.com/item?id=48557079</a></p>\n<p>Points: 430</p>\n<p># Comments: 184</p>",
-    "published": "2026-06-16T15:44:44",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A.I. Boom Ignites Asian Chip Companies",
@@ -193,13 +242,6 @@
     "link": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
     "summary": "OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.",
     "published": "2026-06-14T00:57:39",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models",
-    "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html",
-    "summary": "The administration’s surprise restrictions Friday cut off foreign access to Anthropic’s latest models and sparked another round of finger pointing.",
-    "published": "2026-06-14T00:41:06",
     "source": "NYT > Technology"
   },
   {
@@ -252,13 +294,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires",
-    "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
-    "summary": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to change the lives of its current and former employees, too.",
-    "published": "2026-06-12T15:50:11",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "‘Hard Fork’ Live, Part 1: Satya Nadella and Cindy Cohn",
     "link": "https://www.nytimes.com/2026/06/12/podcasts/hard-fork-live-part-1-satya-nadella.html",
     "summary": "A tech titan, a digital rights defender and two menacing-looking robot dogs took the stage at our second-ever live show.",
@@ -287,52 +322,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O.",
-    "link": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html",
-    "summary": "Investors who bought the automaker’s shares in its initial public offering became rich. As a result, many have a deep faith in Elon Musk, the chief executive of Tesla and SpaceX.",
-    "published": "2026-06-11T15:15:44",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Jeff Bezos Wants to Build an ‘Artificial General Engineer’",
     "link": "https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html",
     "summary": "As co-chief executive of the start-up Prometheus, the Amazon founder is using A.I. to improve how devices ranging from computers to jet engines are made.",
     "published": "2026-06-11T14:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.",
-    "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
-    "summary": "At The New York Times’s Hard Fork Live event, Mr. Nadella addressed the backlash against artificial intelligence and President Trump’s comments about Americans sharing in the wealth of A.I. companies",
-    "published": "2026-06-11T10:48:05",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
-    "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
-    "summary": "Months after Australia banned social media for everyone under 16, the British government is considering new policies to keep children safe online.",
-    "published": "2026-06-11T00:54:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Muses About Government Taking a Piece of A.I. Companies",
-    "link": "https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html",
-    "summary": "President Trump touched on what is an increasingly hot topic in Washington: how average Americans can get a piece of the tech industry’s A.I. windfall.",
-    "published": "2026-06-10T22:07:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "They Tried To Catch a Child Predator on a Livestream. They Trapped Themselves Instead.",
-    "link": "https://www.nytimes.com/2026/06/10/technology/predator-catcher-vitaly-mistake.html",
-    "summary": "What happened when livestreaming vigilantes ambushed an innocent man.",
-    "published": "2026-06-10T17:59:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Antonio Gracias, Elon Musk’s Friend, Is Set to Reap Billions From SpaceX’s IPO",
-    "link": "https://www.nytimes.com/2026/06/10/technology/antonio-gracias-elon-musk-spacex.html",
-    "summary": "Antonio Gracias, an investor who has built a $65 billion stake in the company, exemplifies the economic upside of being Mr. Musk’s ally.",
-    "published": "2026-06-10T16:44:18",
     "source": "NYT > Technology"
   }
 ]
