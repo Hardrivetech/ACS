@@ -1,107 +1,149 @@
 [
   {
-    "title": "Google Hits 50% IPv6",
-    "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-    "summary": "<p>Article URL: <a href=\"https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/\">https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616800\">https://news.ycombinator.com/item?id=48616800</a></p>\n<p>Points: 92</p>\n<p># Comments: 61</p>",
-    "published": "2026-06-21T08:21:22",
+    "title": "Codex logging bug may write TBs to local SSDs",
+    "link": "https://github.com/openai/codex/issues/28224",
+    "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28224\">https://github.com/openai/codex/issues/28224</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626930\">https://news.ycombinator.com/item?id=48626930</a></p>\n<p>Points: 104</p>\n<p># Comments: 58</p>",
+    "published": "2026-06-22T07:30:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A 3D voxel game engine written in APL",
-    "link": "https://github.com/namgyaaal/avoxelgame",
-    "summary": "<p>Article URL: <a href=\"https://github.com/namgyaaal/avoxelgame\">https://github.com/namgyaaal/avoxelgame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616713\">https://news.ycombinator.com/item?id=48616713</a></p>\n<p>Points: 43</p>\n<p># Comments: 6</p>",
-    "published": "2026-06-21T08:04:54",
+    "title": "Investors get real-time view of UK bond market activity for the first time",
+    "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
+    "summary": "<p>Article URL: <a href=\"https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time\">https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626918\">https://news.ycombinator.com/item?id=48626918</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+    "published": "2026-06-22T07:29:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Windows UI evolution: Clicking an unassociated file",
-    "link": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-    "summary": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html\">https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616173\">https://news.ycombinator.com/item?id=48616173</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-21T06:24:52",
+    "title": "GLM 5.2 vs. Opus",
+    "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "summary": "<p>Article URL: <a href=\"https://techstackups.com/comparisons/glm-5.2-vs-opus/\">https://techstackups.com/comparisons/glm-5.2-vs-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626866\">https://news.ycombinator.com/item?id=48626866</a></p>\n<p>Points: 149</p>\n<p># Comments: 117</p>",
+    "published": "2026-06-22T07:22:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
-    "link": "https://spectrum.ieee.org/alan-turings-delilah",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/alan-turings-delilah\">https://spectrum.ieee.org/alan-turings-delilah</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615890\">https://news.ycombinator.com/item?id=48615890</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-21T05:15:33",
+    "title": "Deno Desktop",
+    "link": "https://docs.deno.com/runtime/desktop/",
+    "summary": "<p>Article URL: <a href=\"https://docs.deno.com/runtime/desktop/\">https://docs.deno.com/runtime/desktop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626137\">https://news.ycombinator.com/item?id=48626137</a></p>\n<p>Points: 427</p>\n<p># Comments: 179</p>",
+    "published": "2026-06-22T05:38:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Building reliable agentic AI systems",
-    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "summary": "<p>Article URL: <a href=\"https://martinfowler.com/articles/reliable-llm-bayer.html\">https://martinfowler.com/articles/reliable-llm-bayer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615680\">https://news.ycombinator.com/item?id=48615680</a></p>\n<p>Points: 106</p>\n<p># Comments: 22</p>",
-    "published": "2026-06-21T04:28:39",
+    "title": "Sakana Fugu",
+    "link": "https://sakana.ai/fugu/",
+    "summary": "<p>Article URL: <a href=\"https://sakana.ai/fugu/\">https://sakana.ai/fugu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624782\">https://news.ycombinator.com/item?id=48624782</a></p>\n<p>Points: 128</p>\n<p># Comments: 79</p>",
+    "published": "2026-06-22T02:08:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Your brain was never designed for this much bad news",
-    "link": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/06/260614012006.htm\">https://www.sciencedaily.com/releases/2026/06/260614012006.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48615569\">https://news.ycombinator.com/item?id=48615569</a></p>\n<p>Points: 196</p>\n<p># Comments: 135</p>",
-    "published": "2026-06-21T04:02:08",
+    "title": "1983 Northern Telecom Commodore Phone",
+    "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
+    "summary": "<p>Article URL: <a href=\"https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\">https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624114\">https://news.ycombinator.com/item?id=48624114</a></p>\n<p>Points: 59</p>\n<p># Comments: 19</p>",
+    "published": "2026-06-22T00:34:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Developers don't understand CORS (2019)",
-    "link": "https://fosterelli.co/developers-dont-understand-cors",
-    "summary": "<p>Article URL: <a href=\"https://fosterelli.co/developers-dont-understand-cors\">https://fosterelli.co/developers-dont-understand-cors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614844\">https://news.ycombinator.com/item?id=48614844</a></p>\n<p>Points: 197</p>\n<p># Comments: 107</p>",
-    "published": "2026-06-21T01:35:40",
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "summary": "<p>Article URL: <a href=\"https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\">https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623434\">https://news.ycombinator.com/item?id=48623434</a></p>\n<p>Points: 143</p>\n<p># Comments: 30</p>",
+    "published": "2026-06-21T22:55:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "When I reject AI code even if it works",
-    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "summary": "<p>Article URL: <a href=\"https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/\">https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614631\">https://news.ycombinator.com/item?id=48614631</a></p>\n<p>Points: 182</p>\n<p># Comments: 100</p>",
-    "published": "2026-06-21T00:58:13",
+    "title": "Japanese verb conjugation the simple hard way",
+    "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
+    "summary": "<p>Article URL: <a href=\"https://underreacted.leaflet.pub/3mmevu6woys27\">https://underreacted.leaflet.pub/3mmevu6woys27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623419\">https://news.ycombinator.com/item?id=48623419</a></p>\n<p>Points: 104</p>\n<p># Comments: 146</p>",
+    "published": "2026-06-21T22:53:50",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Project Fetch: Phase Two",
-    "link": "https://www.anthropic.com/research/project-fetch-phase-two",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/project-fetch-phase-two\">https://www.anthropic.com/research/project-fetch-phase-two</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48614311\">https://news.ycombinator.com/item?id=48614311</a></p>\n<p>Points: 59</p>\n<p># Comments: 21</p>",
-    "published": "2026-06-21T00:00:25",
+    "title": "Rent collections are down in New York",
+    "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
+    "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\">https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622987\">https://news.ycombinator.com/item?id=48622987</a></p>\n<p>Points: 92</p>\n<p># Comments: 354</p>",
+    "published": "2026-06-21T21:54:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Epoll vs. io_uring in Linux",
-    "link": "https://sibexi.co/posts/epoll-vs-io_uring/",
-    "summary": "<p>Article URL: <a href=\"https://sibexi.co/posts/epoll-vs-io_uring/\">https://sibexi.co/posts/epoll-vs-io_uring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613872\">https://news.ycombinator.com/item?id=48613872</a></p>\n<p>Points: 166</p>\n<p># Comments: 39</p>",
-    "published": "2026-06-20T23:07:09",
+    "title": "Did my old job only exist because of fraud?",
+    "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "summary": "<p>Article URL: <a href=\"https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\">https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622867\">https://news.ycombinator.com/item?id=48622867</a></p>\n<p>Points: 585</p>\n<p># Comments: 254</p>",
+    "published": "2026-06-21T21:40:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Renting a sewing machine from the library",
-    "link": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland\">https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613755\">https://news.ycombinator.com/item?id=48613755</a></p>\n<p>Points: 232</p>\n<p># Comments: 122</p>",
-    "published": "2026-06-20T22:54:11",
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "link": "https://apertvs.ai/",
+    "summary": "<p>Article URL: <a href=\"https://apertvs.ai/\">https://apertvs.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622778\">https://news.ycombinator.com/item?id=48622778</a></p>\n<p>Points: 397</p>\n<p># Comments: 133</p>",
+    "published": "2026-06-21T21:29:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Slow breathing modulates brain function and risk behavior",
-    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "summary": "<p>Article URL: <a href=\"https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9\">https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48613555\">https://news.ycombinator.com/item?id=48613555</a></p>\n<p>Points: 211</p>\n<p># Comments: 51</p>",
-    "published": "2026-06-20T22:22:52",
+    "title": "PowerFox Browser",
+    "link": "https://powerfox.jazzzny.me/",
+    "summary": "<p>Article URL: <a href=\"https://powerfox.jazzzny.me/\">https://powerfox.jazzzny.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622731\">https://news.ycombinator.com/item?id=48622731</a></p>\n<p>Points: 137</p>\n<p># Comments: 38</p>",
+    "published": "2026-06-21T21:23:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Linux eliminates the strncpy API after six years of work, 360 patches",
-    "link": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-    "summary": "<p><a href=\"https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=1a3746ccbb0a97bed3c06ccde6b880013b1dddc1\" rel=\"nofollow\">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/lin...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612943\">https://news.ycombinator.com/item?id=48612943</a></p>\n<p>Points: 206</p>\n<p># Comments: 182</p>",
-    "published": "2026-06-20T20:59:40",
+    "title": "Everything is logarithms",
+    "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "summary": "<p>Article URL: <a href=\"https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\">https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622626\">https://news.ycombinator.com/item?id=48622626</a></p>\n<p>Points: 237</p>\n<p># Comments: 48</p>",
+    "published": "2026-06-21T21:10:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Alice is impatient",
-    "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-    "summary": "<p>Article URL: <a href=\"https://brooker.co.za/blog/2026/06/19/waiting.html\">https://brooker.co.za/blog/2026/06/19/waiting.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612740\">https://news.ycombinator.com/item?id=48612740</a></p>\n<p>Points: 95</p>\n<p># Comments: 28</p>",
-    "published": "2026-06-20T20:32:54",
+    "title": "There is minimal downside to switching to open models",
+    "link": "https://www.marble.onl/posts/cancel_claude.html",
+    "summary": "<p>Article URL: <a href=\"https://www.marble.onl/posts/cancel_claude.html\">https://www.marble.onl/posts/cancel_claude.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622518\">https://news.ycombinator.com/item?id=48622518</a></p>\n<p>Points: 238</p>\n<p># Comments: 201</p>",
+    "published": "2026-06-21T20:56:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Unauthorized alert sent to cell phones across Brazil",
-    "link": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam\">https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48612502\">https://news.ycombinator.com/item?id=48612502</a></p>\n<p>Points: 134</p>\n<p># Comments: 95</p>",
-    "published": "2026-06-20T20:05:03",
+    "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
+    "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
+    "summary": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
+    "published": "2026-06-21T19:49:15",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "JSON-LD explained for personal websites",
+    "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "summary": "<p>Article URL: <a href=\"https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\">https://hawksley.dev/blog/json-ld-explained-for-personal-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48621517\">https://news.ycombinator.com/item?id=48621517</a></p>\n<p>Points: 223</p>\n<p># Comments: 69</p>",
+    "published": "2026-06-21T18:51:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+    "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\">https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620504\">https://news.ycombinator.com/item?id=48620504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-21T17:00:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The minimum viable unit of saleable software",
+    "link": "https://brandur.org/minimum-viable-unit",
+    "summary": "<p>Article URL: <a href=\"https://brandur.org/minimum-viable-unit\">https://brandur.org/minimum-viable-unit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620342\">https://news.ycombinator.com/item?id=48620342</a></p>\n<p>Points: 176</p>\n<p># Comments: 63</p>",
+    "published": "2026-06-21T16:41:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Prefer duplication over the wrong abstraction (2016)",
+    "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+    "summary": "<p>Article URL: <a href=\"https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\">https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620090\">https://news.ycombinator.com/item?id=48620090</a></p>\n<p>Points: 495</p>\n<p># Comments: 317</p>",
+    "published": "2026-06-21T16:08:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Teach your kids perfect pitch",
+    "link": "https://github.com/paytonjjones/bsharp",
+    "summary": "<p>Article URL: <a href=\"https://github.com/paytonjjones/bsharp\">https://github.com/paytonjjones/bsharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618488\">https://news.ycombinator.com/item?id=48618488</a></p>\n<p>Points: 149</p>\n<p># Comments: 90</p>",
+    "published": "2026-06-21T12:49:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Identity verification on Claude",
+    "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "summary": "<p><a href=\"https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/\" rel=\"nofollow\">https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618455\">https://news.ycombinator.com/item?id=48618455</a></p>\n<p>Points: 770</p>\n<p># Comments: 643</p>",
+    "published": "2026-06-21T12:44:13",
     "source": "Hacker News: Front Page"
   },
   {
@@ -112,46 +154,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-    "link": "https://www.lispm.net/apps/uhf-x11/",
-    "summary": "<p>Article URL: <a href=\"https://www.lispm.net/apps/uhf-x11/\">https://www.lispm.net/apps/uhf-x11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610853\">https://news.ycombinator.com/item?id=48610853</a></p>\n<p>Points: 205</p>\n<p># Comments: 41</p>",
-    "published": "2026-06-20T17:04:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SMPTE Makes Its Standards Freely Accessible",
-    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "summary": "<p>Article URL: <a href=\"https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community\">https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48610827\">https://news.ycombinator.com/item?id=48610827</a></p>\n<p>Points: 262</p>\n<p># Comments: 80</p>",
-    "published": "2026-06-20T17:01:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
     "link": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html",
     "summary": "A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.",
     "published": "2026-06-20T15:58:09",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-    "link": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-    "summary": "<p>Article URL: <a href=\"https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html\">https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48609766\">https://news.ycombinator.com/item?id=48609766</a></p>\n<p>Points: 254</p>\n<p># Comments: 66</p>",
-    "published": "2026-06-20T15:10:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-    "link": "https://github.com/mysk-research/loupe",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mysk-research/loupe\">https://github.com/mysk-research/loupe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608645\">https://news.ycombinator.com/item?id=48608645</a></p>\n<p>Points: 289</p>\n<p># Comments: 109</p>",
-    "published": "2026-06-20T12:08:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: TownSquare, a tiny presence layer for websites",
-    "link": "https://townsquare.cauenapier.com/",
-    "summary": "<p><a href=\"https://cauenapier.com/blog/townsquare_release/\" rel=\"nofollow\">https://cauenapier.com/blog/townsquare_release/</a><p><a href=\"https://cauenapier.com/blog/townsquare/\" rel=\"nofollow\">https://cauenapier.com/blog/townsquare/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608570\">https://news.ycombinator.com/item?id=48608570</a></p>\n<p>Points: 180</p>\n<p># Comments: 88</p>",
-    "published": "2026-06-20T11:55:03",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future",
@@ -263,13 +270,6 @@
     "link": "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html",
     "summary": "They make much of the gear that goes into giant data centers. Demand for their products is shifting the balance of tech power.",
     "published": "2026-06-16T09:00:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "UK Announces Social Media Ban for Children Under 16",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-    "summary": "Prime Minister Keir Starmer said his government planned to bar children under 16 from social media, following similar efforts in Australia and elsewhere.",
-    "published": "2026-06-15T22:53:50",
     "source": "NYT > Technology"
   },
   {
