@@ -1,100 +1,170 @@
 [
   {
-    "title": "Codex logging bug may write TBs to local SSDs",
-    "link": "https://github.com/openai/codex/issues/28224",
-    "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/28224\">https://github.com/openai/codex/issues/28224</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626930\">https://news.ycombinator.com/item?id=48626930</a></p>\n<p>Points: 104</p>\n<p># Comments: 58</p>",
-    "published": "2026-06-22T07:30:17",
+    "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
+    "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
+    "summary": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
+    "published": "2026-06-23T09:02:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "AI Built a Nuke and Still Lost",
+    "link": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+    "summary": "<p>Article URL: <a href=\"https://www.lwilko.com/blog/i-gave-an-ai-a-civilization\">https://www.lwilko.com/blog/i-gave-an-ai-a-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48641927\">https://news.ycombinator.com/item?id=48641927</a></p>\n<p>Points: 54</p>\n<p># Comments: 52</p>",
+    "published": "2026-06-23T08:16:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Investors get real-time view of UK bond market activity for the first time",
-    "link": "https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time",
-    "summary": "<p>Article URL: <a href=\"https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time\">https://www.fca.org.uk/news/press-releases/investors-get-real-time-view-uk-bond-market-activity-first-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626918\">https://news.ycombinator.com/item?id=48626918</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-22T07:29:17",
+    "title": "Show HN: Ideate a trading strategy with an Ex-Citadel Trader",
+    "link": "https://sean-but-ai.vercel.app/",
+    "summary": "<p>Article URL: <a href=\"https://sean-but-ai.vercel.app/\">https://sean-but-ai.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48641763\">https://news.ycombinator.com/item?id=48641763</a></p>\n<p>Points: 13</p>\n<p># Comments: 9</p>",
+    "published": "2026-06-23T07:57:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GLM 5.2 vs. Opus",
-    "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "summary": "<p>Article URL: <a href=\"https://techstackups.com/comparisons/glm-5.2-vs-opus/\">https://techstackups.com/comparisons/glm-5.2-vs-opus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626866\">https://news.ycombinator.com/item?id=48626866</a></p>\n<p>Points: 149</p>\n<p># Comments: 117</p>",
-    "published": "2026-06-22T07:22:03",
+    "title": "The new HTTP QUERY method explained",
+    "link": "https://kreya.app/blog/new-http-query-method-explained/",
+    "summary": "<p>Article URL: <a href=\"https://kreya.app/blog/new-http-query-method-explained/\">https://kreya.app/blog/new-http-query-method-explained/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640974\">https://news.ycombinator.com/item?id=48640974</a></p>\n<p>Points: 114</p>\n<p># Comments: 64</p>",
+    "published": "2026-06-23T06:05:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Deno Desktop",
-    "link": "https://docs.deno.com/runtime/desktop/",
-    "summary": "<p>Article URL: <a href=\"https://docs.deno.com/runtime/desktop/\">https://docs.deno.com/runtime/desktop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48626137\">https://news.ycombinator.com/item?id=48626137</a></p>\n<p>Points: 427</p>\n<p># Comments: 179</p>",
-    "published": "2026-06-22T05:38:40",
+    "title": "Who Does What? Team Topologies for the Agentic Platform",
+    "link": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html\">https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640382\">https://news.ycombinator.com/item?id=48640382</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-23T04:40:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Sakana Fugu",
-    "link": "https://sakana.ai/fugu/",
-    "summary": "<p>Article URL: <a href=\"https://sakana.ai/fugu/\">https://sakana.ai/fugu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624782\">https://news.ycombinator.com/item?id=48624782</a></p>\n<p>Points: 128</p>\n<p># Comments: 79</p>",
-    "published": "2026-06-22T02:08:18",
+    "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
+    "link": "https://github.com/imtomt/ymawky/tree/linux",
+    "summary": "<p>This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I've previously posted about ymawky here: <a href=\"https://news.ycombinator.com/item?id=48080587\">https://news.ycombinator.com/item?id=48080587</a><p>In the past month and a half, I've made some pretty major improvements: I've added CGI scripting support, so the server now supports query strings and dynamic content; and I've fully ported ymawky to run on Linux, rather than macOS-only.<p>In addition to GET/PUT/HEAD/DELETE/OPTIONS requests, because of CGI support ymawky also accepts POST requests (only to CGI resources for now).<p>I've also updated the more detailed writeup to reflect CGI support and the Linux port: <a href=\"https://imtomt.github.io/ymawky/\" rel=\"nofollow\">https://imtomt.github.io/ymawky/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640278\">https://news.ycombinator.com/item?id=48640278</a></p>\n<p>Points: 22</p>\n<p># Comments: 6</p>",
+    "published": "2026-06-23T04:28:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "1983 Northern Telecom Commodore Phone",
-    "link": "https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/",
-    "summary": "<p>Article URL: <a href=\"https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/\">https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48624114\">https://news.ycombinator.com/item?id=48624114</a></p>\n<p>Points: 59</p>\n<p># Comments: 19</p>",
-    "published": "2026-06-22T00:34:33",
+    "title": "Will It Mythos?",
+    "link": "https://swelljoe.com/post/will-it-mythos/",
+    "summary": "<p>Article URL: <a href=\"https://swelljoe.com/post/will-it-mythos/\">https://swelljoe.com/post/will-it-mythos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640196\">https://news.ycombinator.com/item?id=48640196</a></p>\n<p>Points: 166</p>\n<p># Comments: 100</p>",
+    "published": "2026-06-23T04:15:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "summary": "<p>Article URL: <a href=\"https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions\">https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623434\">https://news.ycombinator.com/item?id=48623434</a></p>\n<p>Points: 143</p>\n<p># Comments: 30</p>",
-    "published": "2026-06-21T22:55:23",
+    "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers",
+    "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
+    "summary": "As tech giants rush to build infrastructure, some residents who live near data centers say a constant low-frequency vibration is ruining their health and homes.",
+    "published": "2026-06-23T03:40:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+    "link": "https://arxiv.org/abs/2606.03748",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.03748\">https://arxiv.org/abs/2606.03748</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639434\">https://news.ycombinator.com/item?id=48639434</a></p>\n<p>Points: 42</p>\n<p># Comments: 5</p>",
+    "published": "2026-06-23T02:28:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Japanese verb conjugation the simple hard way",
-    "link": "https://underreacted.leaflet.pub/3mmevu6woys27",
-    "summary": "<p>Article URL: <a href=\"https://underreacted.leaflet.pub/3mmevu6woys27\">https://underreacted.leaflet.pub/3mmevu6woys27</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48623419\">https://news.ycombinator.com/item?id=48623419</a></p>\n<p>Points: 104</p>\n<p># Comments: 146</p>",
-    "published": "2026-06-21T22:53:50",
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "link": "https://arxiv.org/abs/2606.16140",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.16140\">https://arxiv.org/abs/2606.16140</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639240\">https://news.ycombinator.com/item?id=48639240</a></p>\n<p>Points: 193</p>\n<p># Comments: 76</p>",
+    "published": "2026-06-23T02:01:25",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Rent collections are down in New York",
-    "link": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-    "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982\">https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622987\">https://news.ycombinator.com/item?id=48622987</a></p>\n<p>Points: 92</p>\n<p># Comments: 354</p>",
-    "published": "2026-06-21T21:54:34",
+    "title": "An Introduction to YOLO26",
+    "link": "https://blog.roboflow.com/yolo26/",
+    "summary": "<p>Article URL: <a href=\"https://blog.roboflow.com/yolo26/\">https://blog.roboflow.com/yolo26/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639165\">https://news.ycombinator.com/item?id=48639165</a></p>\n<p>Points: 72</p>\n<p># Comments: 24</p>",
+    "published": "2026-06-23T01:52:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Did my old job only exist because of fraud?",
-    "link": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "summary": "<p>Article URL: <a href=\"https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\">https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622867\">https://news.ycombinator.com/item?id=48622867</a></p>\n<p>Points: 585</p>\n<p># Comments: 254</p>",
-    "published": "2026-06-21T21:40:53",
+    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+    "link": "https://openai.com/index/daybreak-securing-the-world/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/daybreak-securing-the-world/\">https://openai.com/index/daybreak-securing-the-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639063\">https://news.ycombinator.com/item?id=48639063</a></p>\n<p>Points: 103</p>\n<p># Comments: 53</p>",
+    "published": "2026-06-23T01:36:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Apertus – Open Foundation Model for Sovereign AI",
-    "link": "https://apertvs.ai/",
-    "summary": "<p>Article URL: <a href=\"https://apertvs.ai/\">https://apertvs.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622778\">https://news.ycombinator.com/item?id=48622778</a></p>\n<p>Points: 397</p>\n<p># Comments: 133</p>",
-    "published": "2026-06-21T21:29:43",
+    "title": "In praise of memcached",
+    "link": "https://jchri.st/blog/in-praise-of-memcached/",
+    "summary": "<p>Article URL: <a href=\"https://jchri.st/blog/in-praise-of-memcached/\">https://jchri.st/blog/in-praise-of-memcached/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48638886\">https://news.ycombinator.com/item?id=48638886</a></p>\n<p>Points: 162</p>\n<p># Comments: 61</p>",
+    "published": "2026-06-23T01:15:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "PowerFox Browser",
-    "link": "https://powerfox.jazzzny.me/",
-    "summary": "<p>Article URL: <a href=\"https://powerfox.jazzzny.me/\">https://powerfox.jazzzny.me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622731\">https://news.ycombinator.com/item?id=48622731</a></p>\n<p>Points: 137</p>\n<p># Comments: 38</p>",
-    "published": "2026-06-21T21:23:13",
+    "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+    "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+    "summary": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
+    "published": "2026-06-22T22:53:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "GLM-5.2 – How to Run Locally",
+    "link": "https://unsloth.ai/docs/models/glm-5.2",
+    "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/glm-5.2\">https://unsloth.ai/docs/models/glm-5.2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636377\">https://news.ycombinator.com/item?id=48636377</a></p>\n<p>Points: 402</p>\n<p># Comments: 171</p>",
+    "published": "2026-06-22T21:21:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Everything is logarithms",
-    "link": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-    "summary": "<p>Article URL: <a href=\"https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html\">https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622626\">https://news.ycombinator.com/item?id=48622626</a></p>\n<p>Points: 237</p>\n<p># Comments: 48</p>",
-    "published": "2026-06-21T21:10:32",
+    "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+    "link": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering\">https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636125\">https://news.ycombinator.com/item?id=48636125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-22T21:00:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "There is minimal downside to switching to open models",
-    "link": "https://www.marble.onl/posts/cancel_claude.html",
-    "summary": "<p>Article URL: <a href=\"https://www.marble.onl/posts/cancel_claude.html\">https://www.marble.onl/posts/cancel_claude.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48622518\">https://news.ycombinator.com/item?id=48622518</a></p>\n<p>Points: 238</p>\n<p># Comments: 201</p>",
-    "published": "2026-06-21T20:56:01",
+    "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+    "link": "https://github.com/dorukkumkumoglu/optocamzero",
+    "summary": "<p>Article URL: <a href=\"https://github.com/dorukkumkumoglu/optocamzero\">https://github.com/dorukkumkumoglu/optocamzero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634778\">https://news.ycombinator.com/item?id=48634778</a></p>\n<p>Points: 179</p>\n<p># Comments: 48</p>",
+    "published": "2026-06-22T19:19:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+    "link": "https://ipvm.com/reports/police-chiefs-track",
+    "summary": "<p>Article URL: <a href=\"https://ipvm.com/reports/police-chiefs-track\">https://ipvm.com/reports/police-chiefs-track</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634694\">https://news.ycombinator.com/item?id=48634694</a></p>\n<p>Points: 520</p>\n<p># Comments: 228</p>",
+    "published": "2026-06-22T19:13:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+    "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+    "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509\">https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48634585\">https://news.ycombinator.com/item?id=48634585</a></p>\n<p>Points: 485</p>\n<p># Comments: 333</p>",
+    "published": "2026-06-22T19:06:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Steam Machine launches today",
+    "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+    "summary": "<p><a href=\"https://store.steampowered.com/sale/steammachine\" rel=\"nofollow\">https://store.steampowered.com/sale/steammachine</a><p><a href=\"https://www.lttlabs.com/articles/2026/06/22/the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...</a><p><a href=\"https://www.youtube.com/watch?v=66QzlDewigE\" rel=\"nofollow\">https://www.youtube.com/watch?v=66QzlDewigE</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632884\">https://news.ycombinator.com/item?id=48632884</a></p>\n<p>Points: 1592</p>\n<p># Comments: 1376</p>",
+    "published": "2026-06-22T17:09:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+    "link": "https://jobs.ashbyhq.com/charge-robotics",
+    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/charge-robotics\">https://jobs.ashbyhq.com/charge-robotics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632792\">https://news.ycombinator.com/item?id=48632792</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-22T17:00:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Oak – Git alternative designed for agents",
+    "link": "https://oak.space/oak/oak",
+    "summary": "<p>Oak is a version control system I've been working on designed for agents (<a href=\"https://oak.space\" rel=\"nofollow\">https://oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn't waste you or your agents time. It should be fast, creative and fun to make things with agents.<p>Oak is still early in development. There's no Windows build and missing plenty of features (no CI, no issues, no comments). We still use GitHub Actions for building Oak now, but we've been fully bootstrapped on Oak with no Git backup for several months: <a href=\"https://oak.space/oak/oak\" rel=\"nofollow\">https://oak.space/oak/oak</a>.<p>Blog post: <a href=\"https://oak.space/blog#git-is-forever\" rel=\"nofollow\">https://oak.space/blog#git-is-forever</a><p>Docs: <a href=\"https://oak.space/docs\" rel=\"nofollow\">https://oak.space/docs</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631726\">https://news.ycombinator.com/item?id=48631726</a></p>\n<p>Points: 188</p>\n<p># Comments: 163</p>",
+    "published": "2026-06-22T15:37:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
+    "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+    "summary": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
+    "published": "2026-06-22T15:14:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "link": "https://hustvl.github.io/Moebius/",
+    "summary": "<p>Article URL: <a href=\"https://hustvl.github.io/Moebius/\">https://hustvl.github.io/Moebius/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48630171\">https://news.ycombinator.com/item?id=48630171</a></p>\n<p>Points: 291</p>\n<p># Comments: 71</p>",
+    "published": "2026-06-22T13:53:02",
     "source": "Hacker News: Front Page"
   },
   {
@@ -103,48 +173,6 @@
     "summary": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
     "published": "2026-06-21T19:49:15",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "JSON-LD explained for personal websites",
-    "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "summary": "<p>Article URL: <a href=\"https://hawksley.dev/blog/json-ld-explained-for-personal-websites/\">https://hawksley.dev/blog/json-ld-explained-for-personal-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48621517\">https://news.ycombinator.com/item?id=48621517</a></p>\n<p>Points: 223</p>\n<p># Comments: 69</p>",
-    "published": "2026-06-21T18:51:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Wildcard (YC W25) is hiring an applied ML engineer",
-    "link": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer\">https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620504\">https://news.ycombinator.com/item?id=48620504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-21T17:00:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The minimum viable unit of saleable software",
-    "link": "https://brandur.org/minimum-viable-unit",
-    "summary": "<p>Article URL: <a href=\"https://brandur.org/minimum-viable-unit\">https://brandur.org/minimum-viable-unit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620342\">https://news.ycombinator.com/item?id=48620342</a></p>\n<p>Points: 176</p>\n<p># Comments: 63</p>",
-    "published": "2026-06-21T16:41:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Prefer duplication over the wrong abstraction (2016)",
-    "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "summary": "<p>Article URL: <a href=\"https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\">https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48620090\">https://news.ycombinator.com/item?id=48620090</a></p>\n<p>Points: 495</p>\n<p># Comments: 317</p>",
-    "published": "2026-06-21T16:08:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Teach your kids perfect pitch",
-    "link": "https://github.com/paytonjjones/bsharp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/paytonjjones/bsharp\">https://github.com/paytonjjones/bsharp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618488\">https://news.ycombinator.com/item?id=48618488</a></p>\n<p>Points: 149</p>\n<p># Comments: 90</p>",
-    "published": "2026-06-21T12:49:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Identity verification on Claude",
-    "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "summary": "<p><a href=\"https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/\" rel=\"nofollow\">https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48618455\">https://news.ycombinator.com/item?id=48618455</a></p>\n<p>Points: 770</p>\n<p># Comments: 643</p>",
-    "published": "2026-06-21T12:44:13",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
@@ -231,20 +259,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
-    "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
-    "summary": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
-    "published": "2026-06-17T15:25:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of A.I. Data Centers",
-    "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
-    "summary": "As tech giants rush to build infrastructure, some residents who live near data centers say a constant low-frequency vibration is ruining their health and homes.",
-    "published": "2026-06-17T14:59:00",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era",
     "link": "https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html",
     "summary": "“I think if you have a creative voice in writing or design, you put yourself out there and you take a risk — this is a good time to do that,” said the Figma chief executive Dylan Field.",
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html",
     "summary": "The department cited national security concerns, saying Elon Musk’s company had played a crucial role in the Iran war. It also argued it has the authority to stop environmental lawsuits brought by citizens.",
     "published": "2026-06-16T19:59:15",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. Boom Ignites Asian Chip Companies",
-    "link": "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html",
-    "summary": "They make much of the gear that goes into giant data centers. Demand for their products is shifting the balance of tech power.",
-    "published": "2026-06-16T09:00:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
-    "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
-    "summary": "Britain said it would ban social media access for children under 16 starting in 2027, joining several other countries introducing similar measures.",
-    "published": "2026-06-15T11:19:17",
     "source": "NYT > Technology"
   }
 ]
