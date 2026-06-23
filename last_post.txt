@@ -1,1 +1,1 @@
-Codex logging bug may write TBs to local SSDs https://github.com/openai/codex/issues/28224
+China Takes Supercomputer Crown From U.S. For First Time Since 2017 https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html
