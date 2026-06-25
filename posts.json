@@ -1,5 +1,152 @@
 [
   {
+    "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+    "link": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+    "summary": "<p>Article URL: <a href=\"https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported\">https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670411\">https://news.ycombinator.com/item?id=48670411</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-06-25T08:07:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "link": "https://utaw.tech/news/wikipedia-recognition",
+    "summary": "<p>Article URL: <a href=\"https://utaw.tech/news/wikipedia-recognition\">https://utaw.tech/news/wikipedia-recognition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669932\">https://news.ycombinator.com/item?id=48669932</a></p>\n<p>Points: 71</p>\n<p># Comments: 60</p>",
+    "published": "2026-06-25T07:02:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Half-Life 2 in a Browser",
+    "link": "https://hl2.slqnt.dev/",
+    "summary": "<p>Article URL: <a href=\"https://hl2.slqnt.dev/\">https://hl2.slqnt.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669534\">https://news.ycombinator.com/item?id=48669534</a></p>\n<p>Points: 226</p>\n<p># Comments: 84</p>",
+    "published": "2026-06-25T06:00:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Unbearable Cheapness of Open Weight Models",
+    "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "summary": "<p>Article URL: <a href=\"https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/\">https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668255\">https://news.ycombinator.com/item?id=48668255</a></p>\n<p>Points: 67</p>\n<p># Comments: 49</p>",
+    "published": "2026-06-25T02:51:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Medical students are using popular research tool to pump out misleading studies",
+    "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\">https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668119\">https://news.ycombinator.com/item?id=48668119</a></p>\n<p>Points: 52</p>\n<p># Comments: 26</p>",
+    "published": "2026-06-25T02:30:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare launched self-managed OAuth for all",
+    "link": "https://blog.cloudflare.com/oauth-for-all/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/oauth-for-all/\">https://blog.cloudflare.com/oauth-for-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668033\">https://news.ycombinator.com/item?id=48668033</a></p>\n<p>Points: 163</p>\n<p># Comments: 73</p>",
+    "published": "2026-06-25T02:18:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zombie unicorns are haunting Silicon Valley",
+    "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+    "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley\">https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668020\">https://news.ycombinator.com/item?id=48668020</a></p>\n<p>Points: 102</p>\n<p># Comments: 50</p>",
+    "published": "2026-06-25T02:16:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mixing Visual and Textual Code",
+    "link": "https://arxiv.org/abs/2603.15855",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.15855\">https://arxiv.org/abs/2603.15855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667560\">https://news.ycombinator.com/item?id=48667560</a></p>\n<p>Points: 49</p>\n<p># Comments: 19</p>",
+    "published": "2026-06-25T01:11:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LuaJIT 3.0 proposed syntax extensions",
+    "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+    "summary": "<p>Article URL: <a href=\"https://github.com/LuaJIT/LuaJIT/issues/1475\">https://github.com/LuaJIT/LuaJIT/issues/1475</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667336\">https://news.ycombinator.com/item?id=48667336</a></p>\n<p>Points: 158</p>\n<p># Comments: 91</p>",
+    "published": "2026-06-25T00:41:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Blogging can just be stating the obvious",
+    "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666927\">https://news.ycombinator.com/item?id=48666927</a></p>\n<p>Points: 235</p>\n<p># Comments: 85</p>",
+    "published": "2026-06-24T23:46:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+    "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
+    "summary": "The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households.",
+    "published": "2026-06-24T21:41:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\">https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664814\">https://news.ycombinator.com/item?id=48664814</a></p>\n<p>Points: 419</p>\n<p># Comments: 725</p>",
+    "published": "2026-06-24T19:48:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "summary": "<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 701</p>\n<p># Comments: 394</p>",
+    "published": "2026-06-24T17:47:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Computer use in Gemini 3.5 Flash",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 218</p>\n<p># Comments: 139</p>",
+    "published": "2026-06-24T17:21:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Xteink X4 E-Ink Reader",
+    "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+    "summary": "<p>Article URL: <a href=\"https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\">https://blog.omgmog.net/post/xteink-x4-e-ink-reader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662381\">https://news.ycombinator.com/item?id=48662381</a></p>\n<p>Points: 250</p>\n<p># Comments: 142</p>",
+    "published": "2026-06-24T16:35:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+    "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+    "summary": "A recent episode underscored the Trump administration’s increasing reliance on advanced A.I. systems for cybersecurity even as it battles a leading U.S. developer.",
+    "published": "2026-06-24T15:08:53",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "link": "https://rubyllm.com/",
+    "summary": "<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 388</p>\n<p># Comments: 68</p>",
+    "published": "2026-06-24T14:41:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "link": "https://www.greptile.com/blog/prs-on-openclaw",
+    "summary": "<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 223</p>\n<p># Comments: 131</p>",
+    "published": "2026-06-24T14:32:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+    "link": "https://github.com/nubjs/nub",
+    "summary": "<p>Colin here, creator of Nub. I’ve had the general shape of this in mind for years. Nub runs your code with stock `node`, augmented with a `--require` preload hook[0] that adds a transpiler (oxc-powered, packaged as a Node-API add-on), registers a module resolution hook[1], and injects polyfills as needed for APIs like `Worker`, `Temporal`, etc. All purely additive, your code ultimately runs using Node’s actual engine & stdlib implementations.<p>[0] <a href=\"https://nodejs.org/api/cli.html#-require-module\" rel=\"nofollow\">https://nodejs.org/api/cli.html#-require-module</a><p>[1] <a href=\"https://nodejs.org/api/module.html#moduleregisterhooksoptions\" rel=\"nofollow\">https://nodejs.org/api/module.html#moduleregisterhooksoption...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660267\">https://news.ycombinator.com/item?id=48660267</a></p>\n<p>Points: 240</p>\n<p># Comments: 67</p>",
+    "published": "2026-06-24T14:14:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "45°C cooling design cuts data center water use to near zero",
+    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+    "summary": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/\">https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660178\">https://news.ycombinator.com/item?id=48660178</a></p>\n<p>Points: 331</p>\n<p># Comments: 223</p>",
+    "published": "2026-06-24T14:10:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Qualcomm to Acquire Modular",
+    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "summary": "<p><a href=\"https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-to-Acquire-Modular/default.aspx\" rel=\"nofollow\">https://investor.qualcomm.com/news-events/press-releases/new...</a><p><a href=\"https://www.modular.com/blog/qualcomm-to-acquire-modular\" rel=\"nofollow\">https://www.modular.com/blog/qualcomm-to-acquire-modular</a><p><a href=\"https://x.com/clattner_llvm/status/2069769232477192354\" rel=\"nofollow\">https://x.com/clattner_llvm/status/2069769232477192354</a>, <a href=\"https://xcancel.com/clattner_llvm/status/2069769232477192354\" rel=\"nofollow\">https://xcancel.com/clattner_llvm/status/2069769232477192354</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659798\">https://news.ycombinator.com/item?id=48659798</a></p>\n<p>Points: 197</p>\n<p># Comments: 65</p>",
+    "published": "2026-06-24T13:49:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Your Home Could Help Solve AI’s Growing Power Demand",
     "link": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
     "summary": "Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelligence.",
@@ -7,73 +154,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-    "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "summary": "<p>Article URL: <a href=\"https://bunny.net/blog/were-making-bunny-dns-free/\">https://bunny.net/blog/were-making-bunny-dns-free/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48657030\">https://news.ycombinator.com/item?id=48657030</a></p>\n<p>Points: 41</p>\n<p># Comments: 11</p>",
-    "published": "2026-06-24T08:50:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Grok Build 0.1: Intelligence, Performance and Price Analysis",
-    "link": "https://artificialanalysis.ai/models/grok-build-0-1-06-16",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/grok-build-0-1-06-16\">https://artificialanalysis.ai/models/grok-build-0-1-06-16</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48656943\">https://news.ycombinator.com/item?id=48656943</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
-    "published": "2026-06-24T08:41:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
     "link": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
     "summary": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48656219\">https://news.ycombinator.com/item?id=48656219</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
     "published": "2026-06-24T07:01:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-    "link": "https://gitlab.com/baiyibai/pico-usb-wifi",
-    "summary": "<p>Article URL: <a href=\"https://gitlab.com/baiyibai/pico-usb-wifi\">https://gitlab.com/baiyibai/pico-usb-wifi</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654676\">https://news.ycombinator.com/item?id=48654676</a></p>\n<p>Points: 137</p>\n<p># Comments: 44</p>",
-    "published": "2026-06-24T03:17:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
-    "link": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
-    "summary": "<p>Article URL: <a href=\"https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf\">https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654465\">https://news.ycombinator.com/item?id=48654465</a></p>\n<p>Points: 96</p>\n<p># Comments: 37</p>",
-    "published": "2026-06-24T02:38:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Teensy Executable Revisited",
-    "link": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
-    "summary": "<p>Article URL: <a href=\"https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html\">https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654411\">https://news.ycombinator.com/item?id=48654411</a></p>\n<p>Points: 38</p>\n<p># Comments: 3</p>",
-    "published": "2026-06-24T02:30:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Qwen-AgentWorld: Language World Models for General Agents",
-    "link": "https://arxiv.org/abs/2606.24597",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.24597\">https://arxiv.org/abs/2606.24597</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654351\">https://news.ycombinator.com/item?id=48654351</a></p>\n<p>Points: 104</p>\n<p># Comments: 28</p>",
-    "published": "2026-06-24T02:21:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-    "link": "https://github.com/End2End-Diffusion/diffusion-bench",
-    "summary": "<p>Article URL: <a href=\"https://github.com/End2End-Diffusion/diffusion-bench\">https://github.com/End2End-Diffusion/diffusion-bench</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654274\">https://news.ycombinator.com/item?id=48654274</a></p>\n<p>Points: 34</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-24T02:12:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-    "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
-    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/\">https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48653575\">https://news.ycombinator.com/item?id=48653575</a></p>\n<p>Points: 247</p>\n<p># Comments: 173</p>",
-    "published": "2026-06-24T00:28:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Vulnerability reports are not special anymore",
-    "link": "https://words.filippo.io/vuln-reports/",
-    "summary": "<p>Article URL: <a href=\"https://words.filippo.io/vuln-reports/\">https://words.filippo.io/vuln-reports/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48653216\">https://news.ycombinator.com/item?id=48653216</a></p>\n<p>Points: 278</p>\n<p># Comments: 151</p>",
-    "published": "2026-06-23T23:42:46",
     "source": "Hacker News: Front Page"
   },
   {
@@ -87,64 +171,8 @@
     "title": "U.S. Presses Meta to Agree to A.I. Reviews",
     "link": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
     "summary": "Federal officials are urging the lone major tech company holdout to allow government safety evaluations, weeks after ordering Anthropic to pull its latest model.",
-    "published": "2026-06-23T21:45:20",
+    "published": "2026-06-23T21:45:21",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-    "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-    "summary": "A recent episode underscored the Trump administration’s increasing reliance on advanced A.I. systems for cybersecurity even as it battles a leading U.S. developer.",
-    "published": "2026-06-23T21:15:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Jerry's Map",
-    "link": "http://www.jerrysmap.com/the-map",
-    "summary": "<p><a href=\"https://www.openculture.com/2026/06/this-man-has-been-drawing-a-map-of-an-imaginary-land-since-1963.html\" rel=\"nofollow\">https://www.openculture.com/2026/06/this-man-has-been-drawin...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48649435\">https://news.ycombinator.com/item?id=48649435</a></p>\n<p>Points: 469</p>\n<p># Comments: 54</p>",
-    "published": "2026-06-23T18:40:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fired by Google for creating the Google workspace CLI",
-    "link": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-    "summary": "<p><a href=\"https://xcancel.com/JPoehnelt/status/2069482265953087602\" rel=\"nofollow\">https://xcancel.com/JPoehnelt/status/2069482265953087602</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48649011\">https://news.ycombinator.com/item?id=48649011</a></p>\n<p>Points: 538</p>\n<p># Comments: 311</p>",
-    "published": "2026-06-23T18:13:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "In memory of the man who put red and green squiggles under words",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451\">https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648959\">https://news.ycombinator.com/item?id=48648959</a></p>\n<p>Points: 375</p>\n<p># Comments: 64</p>",
-    "published": "2026-06-23T18:10:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Swift Package Index joins Apple",
-    "link": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-    "summary": "<p>Article URL: <a href=\"https://swiftpackageindex.com/blog/swift-package-index-joins-apple\">https://swiftpackageindex.com/blog/swift-package-index-joins-apple</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648779\">https://news.ycombinator.com/item?id=48648779</a></p>\n<p>Points: 207</p>\n<p># Comments: 68</p>",
-    "published": "2026-06-23T18:00:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FUTO Swipe – A new swipe typing model",
-    "link": "https://swipe.futo.tech/",
-    "summary": "<p>Article URL: <a href=\"https://swipe.futo.tech/\">https://swipe.futo.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48648619\">https://news.ycombinator.com/item?id=48648619</a></p>\n<p>Points: 542</p>\n<p># Comments: 171</p>",
-    "published": "2026-06-23T17:50:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era",
-    "link": "https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html",
-    "summary": "“I think if you have a creative voice in writing or design, you put yourself out there and you take a risk — this is a good time to do that,” said the Figma chief executive Dylan Field.",
-    "published": "2026-06-23T17:42:21",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The worthlessness of Vitamin D is mildly exaggerated",
-    "link": "https://dynomight.net/vitamin-d/",
-    "summary": "<p>Article URL: <a href=\"https://dynomight.net/vitamin-d/\">https://dynomight.net/vitamin-d/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647486\">https://news.ycombinator.com/item?id=48647486</a></p>\n<p>Points: 297</p>\n<p># Comments: 211</p>",
-    "published": "2026-06-23T16:30:18",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
@@ -154,39 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-    "link": "https://tikz.dev/editor/",
-    "summary": "<p>Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[->] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look nice. I guess it’s a bit like SVG, but it’s more code than markup, for example it has loops with \\foreach.<p>I built an open-source WYSIWYG TikZ editor (available for web and desktop) that allows you to edit your TikZ source code visually by dragging and resizing elements. It simultaneously shows the source code and the rendered figure, and lets you edit either one while the two views stay in sync. I’m not aware of any other editors that are simultaneously source editors and WYSIWYG (even for editing SVG or HTML), and I’m quite pleased with how well the combination works.<p>The way the app is implemented is by parsing the TikZ code, and at all times keeping track of the exact source location of each object. Thereby, when a user drags an element to a new position, the app can override just the numbers in the coordinate without changing anything else in the code (such as line breaks or indentation).<p>This approach essentially required reimplementing a large fraction of TikZ, which is the kind of task that no human would ever want to do. I think building software that doesn’t exist yet because it would be impossibly tedious to code up is one of the great new possibilities thanks to coding agents, and it’s worth brainstorming for other examples. (This app was built almost entirely by Codex.)<p>Implementing the app came with lots of fun side quests, including building converters from SVG / pptx / ipe to TikZ, re-implementing the LaTeX hyphenation and line-breaking algorithm to support multi-line nodes, and making a color picker that uses the red!20!black color mixing notation used in LaTeX papers.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645437\">https://news.ycombinator.com/item?id=48645437</a></p>\n<p>Points: 390</p>\n<p># Comments: 72</p>",
-    "published": "2026-06-23T14:24:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
     "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
     "summary": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
     "published": "2026-06-23T09:02:27",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Why eval startups fail (2025)",
-    "link": "https://thomasliao.com/eval-startups",
-    "summary": "<p>Article URL: <a href=\"https://thomasliao.com/eval-startups\">https://thomasliao.com/eval-startups</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48637868\">https://news.ycombinator.com/item?id=48637868</a></p>\n<p>Points: 19</p>\n<p># Comments: 15</p>",
-    "published": "2026-06-22T23:20:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Vector Graphics in Lil",
-    "link": "http://beyondloom.com/blog/vectorgraphics.html",
-    "summary": "<p>Article URL: <a href=\"http://beyondloom.com/blog/vectorgraphics.html\">http://beyondloom.com/blog/vectorgraphics.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48636188\">https://news.ycombinator.com/item?id=48636188</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-22T21:05:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-    "link": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-    "summary": "<p>Article URL: <a href=\"https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison\">https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48633643\">https://news.ycombinator.com/item?id=48633643</a></p>\n<p>Points: 177</p>\n<p># Comments: 111</p>",
-    "published": "2026-06-22T18:03:03",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
@@ -249,13 +249,6 @@
     "link": "https://www.nytimes.com/2026/06/18/technology/apple-intel-trump-chips.html",
     "summary": "While neither company has publicly discussed the deal, it would be a big break for Intel, which sold a 10 percent stake to the U.S. government last year.",
     "published": "2026-06-18T18:08:57",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon",
-    "link": "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html",
-    "summary": "The Silicon Valley company’s ambitions to roll out autonomous cars nationwide have hit political roadblocks in some of the country’s biggest markets.",
-    "published": "2026-06-18T16:22:10",
     "source": "NYT > Technology"
   },
   {
