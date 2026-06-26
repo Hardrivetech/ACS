@@ -1,108 +1,213 @@
 [
   {
-    "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-    "link": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
-    "summary": "<p>Article URL: <a href=\"https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported\">https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48670411\">https://news.ycombinator.com/item?id=48670411</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-    "published": "2026-06-25T08:07:54",
+    "title": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
+    "link": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
+    "summary": "It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.",
+    "published": "2026-06-26T08:54:16",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How much? The hidden costs of restaurant dishes",
+    "link": "https://www.theguardian.com/food/2026/jun/26/how-much-the-hidden-costs-of-restaurant-dishes",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/food/2026/jun/26/how-much-the-hidden-costs-of-restaurant-dishes\">https://www.theguardian.com/food/2026/jun/26/how-much-the-hidden-costs-of-restaurant-dishes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48684060\">https://news.ycombinator.com/item?id=48684060</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-26T08:43:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-    "link": "https://utaw.tech/news/wikipedia-recognition",
-    "summary": "<p>Article URL: <a href=\"https://utaw.tech/news/wikipedia-recognition\">https://utaw.tech/news/wikipedia-recognition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669932\">https://news.ycombinator.com/item?id=48669932</a></p>\n<p>Points: 71</p>\n<p># Comments: 60</p>",
-    "published": "2026-06-25T07:02:37",
+    "title": "Why current LLM costs are not sustainable",
+    "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+    "summary": "<p>Article URL: <a href=\"https://aditya.patadia.org/p/ai-and-cloud-costs\">https://aditya.patadia.org/p/ai-and-cloud-costs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48683588\">https://news.ycombinator.com/item?id=48683588</a></p>\n<p>Points: 86</p>\n<p># Comments: 104</p>",
+    "published": "2026-06-26T07:44:11",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Half-Life 2 in a Browser",
-    "link": "https://hl2.slqnt.dev/",
-    "summary": "<p>Article URL: <a href=\"https://hl2.slqnt.dev/\">https://hl2.slqnt.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48669534\">https://news.ycombinator.com/item?id=48669534</a></p>\n<p>Points: 226</p>\n<p># Comments: 84</p>",
-    "published": "2026-06-25T06:00:04",
+    "title": "How a Niche Technology Became a Choke Point for A.I.",
+    "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
+    "summary": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.",
+    "published": "2026-06-26T07:34:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "We All Depend on Open Source. We Will Defend It Together",
+    "link": "https://akrites.org/letter/",
+    "summary": "<p>Article URL: <a href=\"https://akrites.org/letter/\">https://akrites.org/letter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48682737\">https://news.ycombinator.com/item?id=48682737</a></p>\n<p>Points: 105</p>\n<p># Comments: 44</p>",
+    "published": "2026-06-26T05:40:36",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Unbearable Cheapness of Open Weight Models",
-    "link": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "summary": "<p>Article URL: <a href=\"https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/\">https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668255\">https://news.ycombinator.com/item?id=48668255</a></p>\n<p>Points: 67</p>\n<p># Comments: 49</p>",
-    "published": "2026-06-25T02:51:29",
+    "title": "Libre Barcode Project",
+    "link": "https://graphicore.github.io/librebarcode/",
+    "summary": "<p>Article URL: <a href=\"https://graphicore.github.io/librebarcode/\">https://graphicore.github.io/librebarcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681949\">https://news.ycombinator.com/item?id=48681949</a></p>\n<p>Points: 151</p>\n<p># Comments: 15</p>",
+    "published": "2026-06-26T03:12:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Medical students are using popular research tool to pump out misleading studies",
-    "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies\">https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668119\">https://news.ycombinator.com/item?id=48668119</a></p>\n<p>Points: 52</p>\n<p># Comments: 26</p>",
-    "published": "2026-06-25T02:30:18",
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "summary": "<p>Article URL: <a href=\"https://www.fernandoi.cl/posts/hackmyclaw/\">https://www.fernandoi.cl/posts/hackmyclaw/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681687\">https://news.ycombinator.com/item?id=48681687</a></p>\n<p>Points: 159</p>\n<p># Comments: 55</p>",
+    "published": "2026-06-26T02:29:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Cloudflare launched self-managed OAuth for all",
-    "link": "https://blog.cloudflare.com/oauth-for-all/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/oauth-for-all/\">https://blog.cloudflare.com/oauth-for-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668033\">https://news.ycombinator.com/item?id=48668033</a></p>\n<p>Points: 163</p>\n<p># Comments: 73</p>",
-    "published": "2026-06-25T02:18:10",
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+    "link": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48681220\">https://news.ycombinator.com/item?id=48681220</a></p>\n<p>Points: 168</p>\n<p># Comments: 90</p>",
+    "published": "2026-06-26T01:10:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Zombie unicorns are haunting Silicon Valley",
-    "link": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
-    "summary": "<p>Article URL: <a href=\"https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley\">https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48668020\">https://news.ycombinator.com/item?id=48668020</a></p>\n<p>Points: 102</p>\n<p># Comments: 50</p>",
-    "published": "2026-06-25T02:16:15",
+    "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
+    "link": "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html",
+    "summary": "President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.",
+    "published": "2026-06-25T23:25:18",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
+    "link": "https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html",
+    "summary": "In a new court filing, The Times accused Microsoft of encouraging OpenAI to train its A.I. systems using copyrighted articles.",
+    "published": "2026-06-25T23:11:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+    "link": "https://gchandbook.org/",
+    "summary": "<p>Article URL: <a href=\"https://gchandbook.org/\">https://gchandbook.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48680370\">https://news.ycombinator.com/item?id=48680370</a></p>\n<p>Points: 140</p>\n<p># Comments: 22</p>",
+    "published": "2026-06-25T23:10:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Mixing Visual and Textual Code",
-    "link": "https://arxiv.org/abs/2603.15855",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2603.15855\">https://arxiv.org/abs/2603.15855</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667560\">https://news.ycombinator.com/item?id=48667560</a></p>\n<p>Points: 49</p>\n<p># Comments: 19</p>",
-    "published": "2026-06-25T01:11:10",
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "summary": "<p>Article URL: <a href=\"https://expression.fire.org/p/the-papers-please-era-of-the-internet\">https://expression.fire.org/p/the-papers-please-era-of-the-internet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679608\">https://news.ycombinator.com/item?id=48679608</a></p>\n<p>Points: 716</p>\n<p># Comments: 333</p>",
+    "published": "2026-06-25T21:44:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "LuaJIT 3.0 proposed syntax extensions",
-    "link": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-    "summary": "<p>Article URL: <a href=\"https://github.com/LuaJIT/LuaJIT/issues/1475\">https://github.com/LuaJIT/LuaJIT/issues/1475</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48667336\">https://news.ycombinator.com/item?id=48667336</a></p>\n<p>Points: 158</p>\n<p># Comments: 91</p>",
-    "published": "2026-06-25T00:41:43",
+    "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
+    "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "summary": "The A.I. company’s advisers are pushing its chief executive, Sam Altman, to move slowly after SpaceX’s stock has been volatile and as the start-up grapples with financial challenges.",
+    "published": "2026-06-25T20:58:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site",
+    "link": "https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html",
+    "summary": "A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”",
+    "published": "2026-06-25T20:57:21",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Un-0: Generating Images with Coupled Oscillators",
+    "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+    "summary": "<p>Article URL: <a href=\"https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/\">https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48679007\">https://news.ycombinator.com/item?id=48679007</a></p>\n<p>Points: 150</p>\n<p># Comments: 35</p>",
+    "published": "2026-06-25T20:50:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Blogging can just be stating the obvious",
-    "link": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/\">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48666927\">https://news.ycombinator.com/item?id=48666927</a></p>\n<p>Points: 235</p>\n<p># Comments: 85</p>",
-    "published": "2026-06-24T23:46:37",
+    "title": "Om Malik has died",
+    "link": "https://om.co/2026/06/24/1966-2026/",
+    "summary": "<p><a href=\"https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself\" rel=\"nofollow\">https://runtimewire.com/article/om-malik-taught-silicon-vall...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a></p>\n<p>Points: 894</p>\n<p># Comments: 101</p>",
+    "published": "2026-06-25T20:33:37",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An oral history of Bank Python (2021)",
+    "link": "https://calpaterson.com/bank-python.html",
+    "summary": "<p>Article URL: <a href=\"https://calpaterson.com/bank-python.html\">https://calpaterson.com/bank-python.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678645\">https://news.ycombinator.com/item?id=48678645</a></p>\n<p>Points: 116</p>\n<p># Comments: 37</p>",
+    "published": "2026-06-25T20:14:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Parallel Parentheses Matching",
+    "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+    "summary": "<p>Article URL: <a href=\"https://williamdue.github.io/blog/parallel-parentheses-matching\">https://williamdue.github.io/blog/parallel-parentheses-matching</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678623\">https://news.ycombinator.com/item?id=48678623</a></p>\n<p>Points: 87</p>\n<p># Comments: 10</p>",
+    "published": "2026-06-25T20:12:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Doorman's Fallacy in action",
+    "link": "https://rozumem.xyz/posts/17",
+    "summary": "<p>Article URL: <a href=\"https://rozumem.xyz/posts/17\">https://rozumem.xyz/posts/17</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48678495\">https://news.ycombinator.com/item?id=48678495</a></p>\n<p>Points: 117</p>\n<p># Comments: 157</p>",
+    "published": "2026-06-25T20:00:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
+    "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
+    "summary": "The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.",
+    "published": "2026-06-25T18:52:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "summary": "<p>Giftlink: <a href=\"https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MjQwNTU2MCwiZXhwIjoxNzgzMDEwMzYwLCJhcnRpY2xlSWQiOiJUSDM4OFJUOTZPU08wMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.3RpcTAgL-JUz9iWRQYzyWaSzoOhLU50chTDHkeU0GTI\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...</a><p>also <a href=\"https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai-focused-m7-line/ar-AA26xxES\" rel=\"nofollow\">https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48676795\">https://news.ycombinator.com/item?id=48676795</a></p>\n<p>Points: 261</p>\n<p># Comments: 255</p>",
+    "published": "2026-06-25T17:38:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Besimple AI (YC P25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data\">https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48676256\">https://news.ycombinator.com/item?id=48676256</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-25T17:00:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "link": "https://github.com/inkeep/open-knowledge",
+    "summary": "<p>Hi HN, Nick here. We’re launching OpenKnowledge (<a href=\"https://openknowledge.ai/\" rel=\"nofollow\">https://openknowledge.ai/</a>), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other agents. Available as MacOS app or Web UI+CLI. Fully free/local and OSS.<p>We built this because we wanted a Notion-like experience for writing and sharing markdown files across our team. Obsidian is the best alternative we tried, but found it doesn’t have a true WYSWIG UI and it didn’t integrate well with Claude/Codex outside of community plugins.<p>So we built OpenKnowledge. It takes shape as:<p>1. A MacOS app with a file navigator, the WYSIWYG editor, and link explorer.<p>2. Integrations with the Claude, Codex, and Cursor desktop apps. The agents can open an OpenKnowledge editor within their embedded web browsers for a side-by-side experience.<p>3. Built-in mcps, skills, and RAG for LLM-wiki and “AI Second Brain” scenarios + spec writing<p>4. An embedded terminal and CLI for TUI-first users<p>OSS stack includes: Tiptap/prosemirror, CodeMirror, yjs (CRDT), Electron (MacOS app), Orama, remark/rehype/micromark/mdast, @pierre/trees<p>On the architecture side, the interesting eng. challenges included:<p>1. A pipeline to convert ProseMirror to markdown in a bidirectional lossless way. ProseMirror uses ASTs, which are not designed to have byte-fidelity.<p>2. A dual-observer CRDT to keep the ProseMirror and markdown state in-sync.<p>The CRDT + git also power a collaborative experience that shows what Agents are doing in the markdown, have undo/redo, and version history. The “Share” and cloud-sync functionality are geared for team collaboration. They feel “no-code” but leverage git/GitHub under the hood, which also means data stays fully private.<p>In that spirit, we made OpenKnowledge open source for anybody who’s curious or who’d like to contribute.<p>We’re actively thinking about plugins/extensibility and what’s next. If you have suggestions or feedback, would love to hear it.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675435\">https://news.ycombinator.com/item?id=48675435</a></p>\n<p>Points: 278</p>\n<p># Comments: 136</p>",
+    "published": "2026-06-25T16:04:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "link": "https://scrollprize.org/firstscroll",
+    "summary": "<p>Preprint: <a href=\"https://scrollprize.org/pdf/main.pdf\" rel=\"nofollow\">https://scrollprize.org/pdf/main.pdf</a><p><a href=\"https://github.com/ScrollPrize/villa\" rel=\"nofollow\">https://github.com/ScrollPrize/villa</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48675179\">https://news.ycombinator.com/item?id=48675179</a></p>\n<p>Points: 1303</p>\n<p># Comments: 274</p>",
+    "published": "2026-06-25T15:48:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
+    "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "summary": "Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.",
+    "published": "2026-06-25T15:34:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "IBM debuts sub-1 nanometer chip technology",
+    "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+    "summary": "<p>Article URL: <a href=\"https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology\">https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674967\">https://news.ycombinator.com/item?id=48674967</a></p>\n<p>Points: 320</p>\n<p># Comments: 175</p>",
+    "published": "2026-06-25T15:33:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OS9Map",
+    "link": "https://yllan.org/software/OS9Map/",
+    "summary": "<p>Article URL: <a href=\"https://yllan.org/software/OS9Map/\">https://yllan.org/software/OS9Map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48674484\">https://news.ycombinator.com/item?id=48674484</a></p>\n<p>Points: 228</p>\n<p># Comments: 44</p>",
+    "published": "2026-06-25T15:01:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zig's new bitCast semantics and LLVM back end improvements",
+    "link": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "summary": "<p>Article URL: <a href=\"https://ziglang.org/devlog/2026/#2026-06-25\">https://ziglang.org/devlog/2026/#2026-06-25</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673825\">https://news.ycombinator.com/item?id=48673825</a></p>\n<p>Points: 239</p>\n<p># Comments: 121</p>",
+    "published": "2026-06-25T14:19:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
+    "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+    "summary": "Industry leaders had worried that innovations in chip miniaturization were no longer possible.",
+    "published": "2026-06-25T10:00:16",
+    "source": "NYT > Technology"
   },
   {
     "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
     "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
     "summary": "The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households.",
-    "published": "2026-06-24T21:41:41",
+    "published": "2026-06-24T21:41:42",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/\">https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48664814\">https://news.ycombinator.com/item?id=48664814</a></p>\n<p>Points: 419</p>\n<p># Comments: 725</p>",
-    "published": "2026-06-24T19:48:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "summary": "<p>Announcement: <a href=\"https://openai.com/index/openai-broadcom-jalapeno-inference-chip/\" rel=\"nofollow\">https://openai.com/index/openai-broadcom-jalapeno-inference-...</a><p><a href=\"https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip\" rel=\"nofollow\">https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus...</a><p><a href=\"https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno-ai-chip\" rel=\"nofollow\">https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48663324\">https://news.ycombinator.com/item?id=48663324</a></p>\n<p>Points: 701</p>\n<p># Comments: 394</p>",
-    "published": "2026-06-24T17:47:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Computer use in Gemini 3.5 Flash",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662999\">https://news.ycombinator.com/item?id=48662999</a></p>\n<p>Points: 218</p>\n<p># Comments: 139</p>",
-    "published": "2026-06-24T17:21:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Xteink X4 E-Ink Reader",
-    "link": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
-    "summary": "<p>Article URL: <a href=\"https://blog.omgmog.net/post/xteink-x4-e-ink-reader/\">https://blog.omgmog.net/post/xteink-x4-e-ink-reader/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48662381\">https://news.ycombinator.com/item?id=48662381</a></p>\n<p>Points: 250</p>\n<p># Comments: 142</p>",
-    "published": "2026-06-24T16:35:56",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
@@ -112,41 +217,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
-    "link": "https://rubyllm.com/",
-    "summary": "<p>Article URL: <a href=\"https://rubyllm.com/\">https://rubyllm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660711\">https://news.ycombinator.com/item?id=48660711</a></p>\n<p>Points: 388</p>\n<p># Comments: 68</p>",
-    "published": "2026-06-24T14:41:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "PR spam today looks like email spam in the early 2000s",
-    "link": "https://www.greptile.com/blog/prs-on-openclaw",
-    "summary": "<p>Article URL: <a href=\"https://www.greptile.com/blog/prs-on-openclaw\">https://www.greptile.com/blog/prs-on-openclaw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660579\">https://news.ycombinator.com/item?id=48660579</a></p>\n<p>Points: 223</p>\n<p># Comments: 131</p>",
-    "published": "2026-06-24T14:32:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-    "link": "https://github.com/nubjs/nub",
-    "summary": "<p>Colin here, creator of Nub. I’ve had the general shape of this in mind for years. Nub runs your code with stock `node`, augmented with a `--require` preload hook[0] that adds a transpiler (oxc-powered, packaged as a Node-API add-on), registers a module resolution hook[1], and injects polyfills as needed for APIs like `Worker`, `Temporal`, etc. All purely additive, your code ultimately runs using Node’s actual engine & stdlib implementations.<p>[0] <a href=\"https://nodejs.org/api/cli.html#-require-module\" rel=\"nofollow\">https://nodejs.org/api/cli.html#-require-module</a><p>[1] <a href=\"https://nodejs.org/api/module.html#moduleregisterhooksoptions\" rel=\"nofollow\">https://nodejs.org/api/module.html#moduleregisterhooksoption...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660267\">https://news.ycombinator.com/item?id=48660267</a></p>\n<p>Points: 240</p>\n<p># Comments: 67</p>",
-    "published": "2026-06-24T14:14:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "45°C cooling design cuts data center water use to near zero",
-    "link": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "summary": "<p>Article URL: <a href=\"https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/\">https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48660178\">https://news.ycombinator.com/item?id=48660178</a></p>\n<p>Points: 331</p>\n<p># Comments: 223</p>",
-    "published": "2026-06-24T14:10:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Qualcomm to Acquire Modular",
-    "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-    "summary": "<p><a href=\"https://investor.qualcomm.com/news-events/press-releases/news-details/2026/Qualcomm-to-Acquire-Modular/default.aspx\" rel=\"nofollow\">https://investor.qualcomm.com/news-events/press-releases/new...</a><p><a href=\"https://www.modular.com/blog/qualcomm-to-acquire-modular\" rel=\"nofollow\">https://www.modular.com/blog/qualcomm-to-acquire-modular</a><p><a href=\"https://x.com/clattner_llvm/status/2069769232477192354\" rel=\"nofollow\">https://x.com/clattner_llvm/status/2069769232477192354</a>, <a href=\"https://xcancel.com/clattner_llvm/status/2069769232477192354\" rel=\"nofollow\">https://xcancel.com/clattner_llvm/status/2069769232477192354</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659798\">https://news.ycombinator.com/item?id=48659798</a></p>\n<p>Points: 197</p>\n<p># Comments: 65</p>",
-    "published": "2026-06-24T13:49:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Your Home Could Help Solve AI’s Growing Power Demand",
     "link": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
     "summary": "Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelligence.",
@@ -154,24 +224,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
-    "link": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
-    "summary": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&amp;utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48656219\">https://news.ycombinator.com/item?id=48656219</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-24T07:01:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Meta Has Created a Prediction Markets App",
     "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
     "summary": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
     "published": "2026-06-23T22:42:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "U.S. Presses Meta to Agree to A.I. Reviews",
-    "link": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
-    "summary": "Federal officials are urging the lone major tech company holdout to allow government safety evaluations, weeks after ordering Anthropic to pull its latest model.",
-    "published": "2026-06-23T21:45:21",
     "source": "NYT > Technology"
   },
   {
@@ -186,13 +242,6 @@
     "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
     "summary": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
     "published": "2026-06-23T09:02:27",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
-    "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
-    "summary": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
-    "published": "2026-06-22T15:14:00",
     "source": "NYT > Technology"
   },
   {
@@ -228,55 +277,6 @@
     "link": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html",
     "summary": "Tesla sales are rebounding in Europe even though many people have negative feelings about Elon Musk, the company’s chief executive. We want to know why.",
     "published": "2026-06-19T04:00:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says",
-    "link": "https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html",
-    "summary": "The employees encouraged limits on the complexes in a series of hearings in the tech giant’s hometown, Seattle.",
-    "published": "2026-06-18T22:05:49",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.",
-    "link": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html",
-    "summary": "The Guardrails Alliance, which has raised $5 million, is positioning itself as a populist effort that will take on the pro-A.I. interests trying to influence this year’s elections.",
-    "published": "2026-06-18T18:44:22",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Says Apple to Buy Computer Chips from Intel",
-    "link": "https://www.nytimes.com/2026/06/18/technology/apple-intel-trump-chips.html",
-    "summary": "While neither company has publicly discussed the deal, it would be a big break for Intel, which sold a 10 percent stake to the U.S. government last year.",
-    "published": "2026-06-18T18:08:57",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It.",
-    "link": "https://www.nytimes.com/2026/06/18/technology/ai-token-minimizing.html",
-    "summary": "Artificial intelligence is expensive to use, many companies discovered. That has led to a new era of saving costs.",
-    "published": "2026-06-18T15:19:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "As India Temporarily Bans Telegram, Which Other Countries Have Restricted the Messaging App?",
-    "link": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html",
-    "summary": "Several countries have restricted the messaging app, a valuable platform for dissidents, criminals and extremists. Here’s an overview.",
-    "published": "2026-06-18T09:50:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
-    "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
-    "summary": "Some shareholders might object, but there is little they could do, legal experts say.",
-    "published": "2026-06-18T00:56:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Employees Accuse Trump Administration of Targeting Them",
-    "link": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
-    "summary": "Workers at the artificial intelligence company have been puzzled and increasingly concerned by the administration’s move to limit their latest A.I. models.",
-    "published": "2026-06-17T17:56:09",
     "source": "NYT > Technology"
   }
 ]
