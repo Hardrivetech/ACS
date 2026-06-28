@@ -1,30 +1,142 @@
 [
   {
-    "title": "IBM MCGA Gate Array Reverse Engineering",
-    "link": "https://github.com/schlae/IBM_MCGA",
-    "summary": "<p>Article URL: <a href=\"https://github.com/schlae/IBM_MCGA\">https://github.com/schlae/IBM_MCGA</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48695363\">https://news.ycombinator.com/item?id=48695363</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
-    "published": "2026-06-27T05:17:08",
+    "title": "Can China build its own ASML?",
+    "link": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
+    "summary": "<p>Article URL: <a href=\"https://nikkei.shorthandstories.com/can-china-build-its-own-asml/\">https://nikkei.shorthandstories.com/can-china-build-its-own-asml/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48705276\">https://news.ycombinator.com/item?id=48705276</a></p>\n<p>Points: 36</p>\n<p># Comments: 36</p>",
+    "published": "2026-06-28T07:45:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "OpenTTD 16.0-Beta1",
-    "link": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-    "summary": "<p>Article URL: <a href=\"https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1\">https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48695149\">https://news.ycombinator.com/item?id=48695149</a></p>\n<p>Points: 151</p>\n<p># Comments: 22</p>",
-    "published": "2026-06-27T04:31:06",
+    "title": "Bashblog – a single bash script to create blogs",
+    "link": "https://github.com/cfenollosa/bashblog",
+    "summary": "<p>Article URL: <a href=\"https://github.com/cfenollosa/bashblog\">https://github.com/cfenollosa/bashblog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48704454\">https://news.ycombinator.com/item?id=48704454</a></p>\n<p>Points: 48</p>\n<p># Comments: 14</p>",
+    "published": "2026-06-28T04:48:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "WordStar: A Writer's Word Processor (1996)",
-    "link": "https://www.sfwriter.com/wordstar.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.sfwriter.com/wordstar.htm\">https://www.sfwriter.com/wordstar.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48694853\">https://news.ycombinator.com/item?id=48694853</a></p>\n<p>Points: 90</p>\n<p># Comments: 37</p>",
-    "published": "2026-06-27T03:30:01",
+    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+    "link": "https://github.com/itsthelore/wayfinder-router",
+    "summary": "<p>Article URL: <a href=\"https://github.com/itsthelore/wayfinder-router\">https://github.com/itsthelore/wayfinder-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48704373\">https://news.ycombinator.com/item?id=48704373</a></p>\n<p>Points: 65</p>\n<p># Comments: 15</p>",
+    "published": "2026-06-28T04:31:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Anatomy of a Failed (Nation-State?) Attack",
-    "link": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "summary": "<p>Article URL: <a href=\"https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/\">https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48694631\">https://news.ycombinator.com/item?id=48694631</a></p>\n<p>Points: 54</p>\n<p># Comments: 8</p>",
-    "published": "2026-06-27T02:41:53",
+    "title": "Ford hired AI and sacked humans. It backfired badly",
+    "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+    "summary": "<p>Article URL: <a href=\"https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html\">https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703968\">https://news.ycombinator.com/item?id=48703968</a></p>\n<p>Points: 197</p>\n<p># Comments: 120</p>",
+    "published": "2026-06-28T03:09:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Marfa Public Radio Puts You to Sleep",
+    "link": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+    "summary": "<p>Article URL: <a href=\"https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\">https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703759\">https://news.ycombinator.com/item?id=48703759</a></p>\n<p>Points: 228</p>\n<p># Comments: 56</p>",
+    "published": "2026-06-28T02:23:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The best response to AI slop and online noise is from Robin Williams",
+    "link": "https://jayacunzo.com/blog/your-move-chief",
+    "summary": "<p>Article URL: <a href=\"https://jayacunzo.com/blog/your-move-chief\">https://jayacunzo.com/blog/your-move-chief</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703452\">https://news.ycombinator.com/item?id=48703452</a></p>\n<p>Points: 219</p>\n<p># Comments: 122</p>",
+    "published": "2026-06-28T01:28:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Turning music into a chore is how I became a musician (2022)",
+    "link": "https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/",
+    "summary": "<p>Article URL: <a href=\"https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/\">https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703418\">https://news.ycombinator.com/item?id=48703418</a></p>\n<p>Points: 41</p>\n<p># Comments: 14</p>",
+    "published": "2026-06-28T01:22:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "link": "https://decomp-academy.dev",
+    "summary": "<p>Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.<p>Learning how to decompile was challenging. It's difficult to find any good learning resources for it and any open-source projects for this are inactive and/or contain little actual learning material.<p>So I put together Decomp Academy! Decomp Academy is an interactive way to learn how to decompile PowerPC assembly back into C. The site runs a live Metrowerks CodeWarrior GC/2.0 compiler, converts your C into assembly, and then checks how close your assembly matches the target. If even 1 instruction or bit is off, that's a fail. This is the gold standard for video game decompilation and this is much stricter than a normal decompile.<p>As of writing there are 250+ lessons on the site and the lessons start at the very basics so anyone with a little programming experience should be able to jump straight in, even if you're not a C expert. Some lessons also have real functions taken from live open source decomp projects (Star Fox Adventures, Mario Party 4, Pikmin, Metroid Prime). The idea being you learn everything you need to know to be able to jump in and contribute to a real decompilation project when done.<p>The site is completely free, open source and you have access to all lessons without having to sign up. All lessons are stored in markdown in the repo (src/curriculum), it's trivial to add or modify lessons. The site is very new and the lessons are rapidly changing every day with a whole C++ section on the way. The site has already been well received by the decomp community and I'm happy to share it with HN. I'm very keen on others to contribute to this project and I hope this becomes the best resource on the internet for learning the art of decompilation. Please let me know what you think!<p>Source: <a href=\"https://github.com/JackPriceBurns/decomp-academy-fe\" rel=\"nofollow\">https://github.com/JackPriceBurns/decomp-academy-fe</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703412\">https://news.ycombinator.com/item?id=48703412</a></p>\n<p>Points: 120</p>\n<p># Comments: 43</p>",
+    "published": "2026-06-28T01:21:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+    "link": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\">https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48703258\">https://news.ycombinator.com/item?id=48703258</a></p>\n<p>Points: 136</p>\n<p># Comments: 41</p>",
+    "published": "2026-06-28T00:46:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+    "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+    "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/walrus-postgres-backups-in-rust\">https://clickhouse.com/blog/walrus-postgres-backups-in-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702848\">https://news.ycombinator.com/item?id=48702848</a></p>\n<p>Points: 71</p>\n<p># Comments: 5</p>",
+    "published": "2026-06-27T23:32:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Choosing a Public DNS Resolver",
+    "link": "https://evilbit.de/dns-resolver-guide.html",
+    "summary": "<p>Article URL: <a href=\"https://evilbit.de/dns-resolver-guide.html\">https://evilbit.de/dns-resolver-guide.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702273\">https://news.ycombinator.com/item?id=48702273</a></p>\n<p>Points: 162</p>\n<p># Comments: 53</p>",
+    "published": "2026-06-27T22:11:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Enhancing X11 Application Security with LXC (2025)",
+    "link": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+    "summary": "<p>Article URL: <a href=\"https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/\">https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48701936\">https://news.ycombinator.com/item?id=48701936</a></p>\n<p>Points: 67</p>\n<p># Comments: 38</p>",
+    "published": "2026-06-27T21:27:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Turn your site into a place people can bump into each other",
+    "link": "https://cauenapier.com/blog/townsquare_release/",
+    "summary": "<p>Related: <i>Show HN: TownSquare, a tiny presence layer for websites</i> - https://news.ycombinator.com/item?id=48608570 - June 2026 (166 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699928\">https://news.ycombinator.com/item?id=48699928</a></p>\n<p>Points: 228</p>\n<p># Comments: 99</p>",
+    "published": "2026-06-27T17:11:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Supabase (YC S20) Is Hiring for Multigres",
+    "link": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228\">https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48699842\">https://news.ycombinator.com/item?id=48699842</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-27T17:00:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+    "link": "https://github.com/bikini/exploitarium",
+    "summary": "<p>Article URL: <a href=\"https://github.com/bikini/exploitarium\">https://github.com/bikini/exploitarium</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698617\">https://news.ycombinator.com/item?id=48698617</a></p>\n<p>Points: 810</p>\n<p># Comments: 317</p>",
+    "published": "2026-06-27T14:31:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+    "link": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+    "summary": "<p>Article URL: <a href=\"https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/\">https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698559\">https://news.ycombinator.com/item?id=48698559</a></p>\n<p>Points: 152</p>\n<p># Comments: 55</p>",
+    "published": "2026-06-27T14:23:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Suspicious Discontinuities (2020)",
+    "link": "https://danluu.com/discontinuities/",
+    "summary": "<p>Article URL: <a href=\"https://danluu.com/discontinuities/\">https://danluu.com/discontinuities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48698151\">https://news.ycombinator.com/item?id=48698151</a></p>\n<p>Points: 240</p>\n<p># Comments: 77</p>",
+    "published": "2026-06-27T13:32:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like models",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/\">https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697958\">https://news.ycombinator.com/item?id=48697958</a></p>\n<p>Points: 229</p>\n<p># Comments: 174</p>",
+    "published": "2026-06-27T13:10:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenRA",
+    "link": "https://www.openra.net/",
+    "summary": "<p>Article URL: <a href=\"https://www.openra.net/\">https://www.openra.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697560\">https://news.ycombinator.com/item?id=48697560</a></p>\n<p>Points: 711</p>\n<p># Comments: 134</p>",
+    "published": "2026-06-27T12:10:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nox Metals (YC S25) Is Hiring SWE",
+    "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer\">https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48697504\">https://news.ycombinator.com/item?id=48697504</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-06-27T12:01:03",
     "source": "Hacker News: Front Page"
   },
   {
@@ -35,88 +147,18 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Hacker News on a train station-style flip board",
-    "link": "https://popflame.quickish.space/hn-flipboard/",
-    "summary": "<p>Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter (X) are what inspired me.<p>The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publish their own version. This is that all in action and it worked great. I wrote a blog about it (the blog is dogfooding, it's just an app hosted on quickish that uses the built in db lib).<p>For the HN version of this flip board I use their firebase api via the built in quickish server functions that make use of the fact that the front-end can get realtime updates (now that you mention firebase) from cloud function db updates. Of course that's over-kill but I wanted to show something fun. You can remix and host your own version for free, just need a google oauth login that's it.<p>OG flip board I built (Portland Based - Current Weather): <a href=\"https://popflame.quickish.space/flipboard-preview\" rel=\"nofollow\">https://popflame.quickish.space/flipboard-preview</a><p>Blog post that dives a tiny bit deeper: <a href=\"https://popflame.quickish.space/blog/hacker-news-on-a-split-flap-board/\" rel=\"nofollow\">https://popflame.quickish.space/blog/hacker-news-on-a-split-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693912\">https://news.ycombinator.com/item?id=48693912</a></p>\n<p>Points: 70</p>\n<p># Comments: 15</p>",
-    "published": "2026-06-27T00:43:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Foreign funds help make housing unaffordable: research",
-    "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-    "summary": "<p>Article URL: <a href=\"https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/\">https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693420\">https://news.ycombinator.com/item?id=48693420</a></p>\n<p>Points: 76</p>\n<p># Comments: 22</p>",
-    "published": "2026-06-26T23:36:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Om",
-    "link": "https://daringfireball.net/2026/06/om",
-    "summary": "<p>Related: <i>Om Malik has died</i> - <a href=\"https://news.ycombinator.com/item?id=48678852\">https://news.ycombinator.com/item?id=48678852</a> - June 2026 (161 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48693391\">https://news.ycombinator.com/item?id=48693391</a></p>\n<p>Points: 362</p>\n<p># Comments: 15</p>",
-    "published": "2026-06-26T23:33:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-    "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "summary": "<p><a href=\"https://archive.md/ArXuF\" rel=\"nofollow\">https://archive.md/ArXuF</a><p><a href=\"https://www.nbcnews.com/tech/tech-news/us-government-gives-anthropic-green-light-limited-re-release-mythos-5-rcna352018\" rel=\"nofollow\">https://www.nbcnews.com/tech/tech-news/us-government-gives-a...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692995\">https://news.ycombinator.com/item?id=48692995</a></p>\n<p>Points: 428</p>\n<p># Comments: 463</p>",
-    "published": "2026-06-26T22:48:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-    "link": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-    "summary": "<p>Article URL: <a href=\"https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed\">https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692946\">https://news.ycombinator.com/item?id=48692946</a></p>\n<p>Points: 231</p>\n<p># Comments: 110</p>",
-    "published": "2026-06-26T22:43:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
     "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
     "summary": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
-    "published": "2026-06-26T22:41:22",
+    "published": "2026-06-26T22:41:23",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "AI in mathematics is forcing big questions",
-    "link": "https://spectrum.ieee.org/ai-in-mathematics",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-mathematics\">https://spectrum.ieee.org/ai-in-mathematics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692883\">https://news.ycombinator.com/item?id=48692883</a></p>\n<p>Points: 120</p>\n<p># Comments: 90</p>",
-    "published": "2026-06-26T22:36:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-    "link": "https://github.com/Tessil/hopscotch-map",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Tessil/hopscotch-map\">https://github.com/Tessil/hopscotch-map</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692090\">https://news.ycombinator.com/item?id=48692090</a></p>\n<p>Points: 91</p>\n<p># Comments: 16</p>",
-    "published": "2026-06-26T21:18:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The gap between open weights LLMs and closed source LLMs",
-    "link": "https://blog.doubleword.ai/frontier-os-llm",
-    "summary": "<p>Article URL: <a href=\"https://blog.doubleword.ai/frontier-os-llm\">https://blog.doubleword.ai/frontier-os-llm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692058\">https://news.ycombinator.com/item?id=48692058</a></p>\n<p>Points: 202</p>\n<p># Comments: 165</p>",
-    "published": "2026-06-26T21:14:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We can still stop California's 3D printer surveillance scheme",
-    "link": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme\">https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48692051\">https://news.ycombinator.com/item?id=48692051</a></p>\n<p>Points: 393</p>\n<p># Comments: 133</p>",
-    "published": "2026-06-26T21:13:50",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
     "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
     "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
-    "published": "2026-06-26T21:03:17",
+    "published": "2026-06-26T21:03:18",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Hightouch (YC S19) Is Hiring",
-    "link": "https://hightouch.com/careers#open-positions",
-    "summary": "<p>Article URL: <a href=\"https://hightouch.com/careers#open-positions\">https://hightouch.com/careers#open-positions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48691893\">https://news.ycombinator.com/item?id=48691893</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-26T21:00:50",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "How a Niche Technology Became a Choke Point for A.I.",
@@ -126,53 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "U.S. government will decide who gets to use GPT-5.6",
-    "link": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-    "summary": "<p><a href=\"https://archive.ph/PCQQl\" rel=\"nofollow\">https://archive.ph/PCQQl</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48690101\">https://news.ycombinator.com/item?id=48690101</a></p>\n<p>Points: 1022</p>\n<p># Comments: 1072</p>",
-    "published": "2026-06-26T18:23:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
     "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
     "summary": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
     "published": "2026-06-26T18:05:07",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-    "link": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-    "summary": "<p>Article URL: <a href=\"https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/\">https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689859\">https://news.ycombinator.com/item?id=48689859</a></p>\n<p>Points: 93</p>\n<p># Comments: 17</p>",
-    "published": "2026-06-26T18:04:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What Is a Nomogram and Why Would It Interest Me?",
-    "link": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-    "summary": "<p>Article URL: <a href=\"https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me\">https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689277\">https://news.ycombinator.com/item?id=48689277</a></p>\n<p>Points: 119</p>\n<p># Comments: 20</p>",
-    "published": "2026-06-26T17:24:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "summary": "<p>System card: <a href=\"https://deploymentsafety.openai.com/gpt-5-6-preview\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6-preview</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48689028\">https://news.ycombinator.com/item?id=48689028</a></p>\n<p>Points: 998</p>\n<p># Comments: 621</p>",
-    "published": "2026-06-26T17:06:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Liva AI (YC S25) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead\">https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48688961\">https://news.ycombinator.com/item?id=48688961</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-06-26T17:00:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "link": "https://github.com/workweave/router",
-    "summary": "<p>We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here's a quick demo of running it locally: <a href=\"https://www.youtube.com/watch?v=isKhAyivtfM\" rel=\"nofollow\">https://www.youtube.com/watch?v=isKhAyivtfM</a>.<p>At Weave, we write most of our code with AI, and it's been getting more expensive. This came to a head when Opus 4.7 was released and, thanks to its tokenizer changes, our costs shot up. We knew we didn't need Opus for <i>everything</i> but we didn't want to lose out on the intelligence for the cases where you really need it. So we decided to build a model router to handle this for us.<p>The Weave Router acts as an Anthropic/OpenAI endpoint specifically for coding agents. It looks at every inference request and intelligently (more on that in a sec) decides what model to send it to, handling all the translations required along the way. So it can use faster/cheaper models (e.g. DeepSeek v4, GLM 5.2, Kimi K2.6) when possible, and frontier models (Opus 4.8 & GPT 5.5 (& Fable whenever it's back)) when necessary.<p>How do we know what model to route to? We trained an RL model on tens of thousands (so far!) of agent traces. We reward the routing model when it selects an LLM that successfully completes the given task.<p>Here's an example: if you ask the router to plan a complex change, it will (probably) route that request to Opus 4.8. Subagents exploring the codebase to gather context will be routed to more suitable models (e.g. DeepSeek V4 Flash). Then when you have the plan ready to implement, it will be (most likely) be handed to a quicker model (e.g. GLM 5.2) to carry it out.<p>We've been using this internally for the last month or so. We've saved 40% on tokens vs. what we otherwise would have paid, with no noticeable differences in quality or velocity.<p>The router is source-available under Elastic License 2.0, so you can self-host it. Or if you prefer, you can also use our hosted version: weaverouter.com.<p>I'll be here to answer any questions you may have!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48688700\">https://news.ycombinator.com/item?id=48688700</a></p>\n<p>Points: 167</p>\n<p># Comments: 97</p>",
-    "published": "2026-06-26T16:40:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "‘The Daily’ and ‘The Opinions’: How A.I. Is Changing Loneliness and Taste",
