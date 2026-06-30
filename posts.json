@@ -1,142 +1,177 @@
 [
   {
-    "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-    "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "summary": "<p>Article URL: <a href=\"https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/\">https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48716902\">https://news.ycombinator.com/item?id=48716902</a></p>\n<p>Points: 63</p>\n<p># Comments: 7</p>",
-    "published": "2026-06-29T09:28:08",
+    "title": "Popping the GPU Bubble",
+    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
+    "summary": "<p>Article URL: <a href=\"https://moondream.ai/blog/popping-the-gpu-bubble\">https://moondream.ai/blog/popping-the-gpu-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48728729\">https://news.ycombinator.com/item?id=48728729</a></p>\n<p>Points: 131</p>\n<p># Comments: 32</p>",
+    "published": "2026-06-30T05:14:35",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Why did this journal retract two 1940s papers by Max Planck?",
-    "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/\">https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48716634\">https://news.ycombinator.com/item?id=48716634</a></p>\n<p>Points: 126</p>\n<p># Comments: 5</p>",
-    "published": "2026-06-29T08:58:09",
+    "title": "The end of the AArch64 desktop experiment",
+    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "summary": "<p>Article URL: <a href=\"https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\">https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48728599\">https://news.ycombinator.com/item?id=48728599</a></p>\n<p>Points: 46</p>\n<p># Comments: 25</p>",
+    "published": "2026-06-30T04:51:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Herdr: Agent multiplexer that lives in your terminal",
-    "link": "https://github.com/ogulcancelik/herdr",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ogulcancelik/herdr\">https://github.com/ogulcancelik/herdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714802\">https://news.ycombinator.com/item?id=48714802</a></p>\n<p>Points: 69</p>\n<p># Comments: 40</p>",
-    "published": "2026-06-29T04:27:46",
+    "title": "How A.I. Is Changing the Way Politicians Run for Office",
+    "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html",
+    "summary": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.",
+    "published": "2026-06-30T04:46:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Exploring PDP-1 Lisp (1960)",
+    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "summary": "<p>Article URL: <a href=\"https://obsolescence.dev/pdp1-lisp-introduction.html\">https://obsolescence.dev/pdp1-lisp-introduction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727323\">https://news.ycombinator.com/item?id=48727323</a></p>\n<p>Points: 74</p>\n<p># Comments: 17</p>",
+    "published": "2026-06-30T00:56:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Age verification is just a precursor to automated attribution of speech",
-    "link": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-    "summary": "<p>Article URL: <a href=\"https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\">https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48714529\">https://news.ycombinator.com/item?id=48714529</a></p>\n<p>Points: 503</p>\n<p># Comments: 282</p>",
-    "published": "2026-06-29T03:42:07",
+    "title": "Memory Safe Context Switching",
+    "link": "https://fil-c.org/context_switches",
+    "summary": "<p>Article URL: <a href=\"https://fil-c.org/context_switches\">https://fil-c.org/context_switches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727177\">https://news.ycombinator.com/item?id=48727177</a></p>\n<p>Points: 129</p>\n<p># Comments: 25</p>",
+    "published": "2026-06-30T00:38:19",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-    "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "summary": "<p>Article URL: <a href=\"https://danunparsed.com/p/hackerrank-open-source-ats\">https://danunparsed.com/p/hackerrank-open-source-ats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48713832\">https://news.ycombinator.com/item?id=48713832</a></p>\n<p>Points: 461</p>\n<p># Comments: 173</p>",
-    "published": "2026-06-29T01:44:40",
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "link": "https://longcat.chat/blog/longcat-2.0/",
+    "summary": "<p>Article URL: <a href=\"https://longcat.chat/blog/longcat-2.0/\">https://longcat.chat/blog/longcat-2.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727116\">https://news.ycombinator.com/item?id=48727116</a></p>\n<p>Points: 147</p>\n<p># Comments: 43</p>",
+    "published": "2026-06-30T00:30:11",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-    "link": "https://arxiv.org/abs/2401.07013",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2401.07013\">https://arxiv.org/abs/2401.07013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48712420\">https://news.ycombinator.com/item?id=48712420</a></p>\n<p>Points: 101</p>\n<p># Comments: 18</p>",
-    "published": "2026-06-28T22:32:04",
+    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48726102\">https://news.ycombinator.com/item?id=48726102</a></p>\n<p>Points: 227</p>\n<p># Comments: 154</p>",
+    "published": "2026-06-29T22:21:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-    "link": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number\">https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710775\">https://news.ycombinator.com/item?id=48710775</a></p>\n<p>Points: 111</p>\n<p># Comments: 69</p>",
-    "published": "2026-06-28T19:38:00",
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "summary": "<p>Article URL: <a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\">https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48724230\">https://news.ycombinator.com/item?id=48724230</a></p>\n<p>Points: 517</p>\n<p># Comments: 296</p>",
+    "published": "2026-06-29T19:49:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Librepods: AirPods liberated",
-    "link": "https://github.com/librepods-org/librepods",
-    "summary": "<p>Article URL: <a href=\"https://github.com/librepods-org/librepods\">https://github.com/librepods-org/librepods</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710232\">https://news.ycombinator.com/item?id=48710232</a></p>\n<p>Points: 399</p>\n<p># Comments: 132</p>",
-    "published": "2026-06-28T18:48:53",
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "link": "https://github.com/deepreinforce-ai/Ornith-1",
+    "summary": "<p>Article URL: <a href=\"https://github.com/deepreinforce-ai/Ornith-1\">https://github.com/deepreinforce-ai/Ornith-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722052\">https://news.ycombinator.com/item?id=48722052</a></p>\n<p>Points: 212</p>\n<p># Comments: 39</p>",
+    "published": "2026-06-29T17:16:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Historical memory prices 1960-2026",
-    "link": "https://dam.stanford.edu/memory-prices.html",
-    "summary": "<p>Article URL: <a href=\"https://dam.stanford.edu/memory-prices.html\">https://dam.stanford.edu/memory-prices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710092\">https://news.ycombinator.com/item?id=48710092</a></p>\n<p>Points: 306</p>\n<p># Comments: 111</p>",
-    "published": "2026-06-28T18:32:53",
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen-36-is-awesome/\">https://quesma.com/blog/qwen-36-is-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721903\">https://news.ycombinator.com/item?id=48721903</a></p>\n<p>Points: 923</p>\n<p># Comments: 618</p>",
+    "published": "2026-06-29T17:05:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
-    "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "summary": "<p>Article URL: <a href=\"https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\">https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709670\">https://news.ycombinator.com/item?id=48709670</a></p>\n<p>Points: 862</p>\n<p># Comments: 401</p>",
-    "published": "2026-06-28T17:50:47",
+    "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
+    "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
+    "summary": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
+    "published": "2026-06-29T16:27:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Many Child Safety Features on Social Apps Don’t Work, Report Finds",
+    "link": "https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html",
+    "summary": "Researchers found that teens can discover harmful content, connect with unknown adults and easily bypass time limits.",
+    "published": "2026-06-29T16:24:40",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site",
+    "link": "https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html",
+    "summary": "A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”",
+    "published": "2026-06-29T16:21:49",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\">https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720924\">https://news.ycombinator.com/item?id=48720924</a></p>\n<p>Points: 526</p>\n<p># Comments: 248</p>",
+    "published": "2026-06-29T15:54:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-    "link": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-    "summary": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\">http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48709187\">https://news.ycombinator.com/item?id=48709187</a></p>\n<p>Points: 124</p>\n<p># Comments: 35</p>",
-    "published": "2026-06-28T16:58:59",
+    "title": "A native graphical shell for SSH",
+    "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "summary": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720758\">https://news.ycombinator.com/item?id=48720758</a></p>\n<p>Points: 309</p>\n<p># Comments: 173</p>",
+    "published": "2026-06-29T15:42:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
-    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "summary": "<p>Article URL: <a href=\"https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\">https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708991\">https://news.ycombinator.com/item?id=48708991</a></p>\n<p>Points: 412</p>\n<p># Comments: 547</p>",
-    "published": "2026-06-28T16:41:12",
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "link": "https://humphri.es/blog/WATaBoy/",
+    "summary": "<p>Article URL: <a href=\"https://humphri.es/blog/WATaBoy/\">https://humphri.es/blog/WATaBoy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720190\">https://news.ycombinator.com/item?id=48720190</a></p>\n<p>Points: 205</p>\n<p># Comments: 34</p>",
+    "published": "2026-06-29T15:02:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I used Claude Code to get a second opinion on my MRI",
-    "link": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "summary": "<p>Article URL: <a href=\"https://antoine.fi/mri-analysis-using-claude-code-opus\">https://antoine.fi/mri-analysis-using-claude-code-opus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708941\">https://news.ycombinator.com/item?id=48708941</a></p>\n<p>Points: 437</p>\n<p># Comments: 575</p>",
-    "published": "2026-06-28T16:35:19",
+    "title": "Linux for the Sega MegaDrive",
+    "link": "https://github.com/LinuxMD/linuxmd",
+    "summary": "<p><a href=\"https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/\" rel=\"nofollow\">https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadriv...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720186\">https://news.ycombinator.com/item?id=48720186</a></p>\n<p>Points: 111</p>\n<p># Comments: 15</p>",
+    "published": "2026-06-29T15:01:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-    "link": "https://www.openculture.com/2020/10/daisugi.html",
-    "summary": "<p><a href=\"https://x.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://x.com/wrathofgnon/status/1250287741247426565</a>, <a href=\"https://xcancel.com/wrathofgnon/status/1250287741247426565\" rel=\"nofollow\">https://xcancel.com/wrathofgnon/status/1250287741247426565</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708859\">https://news.ycombinator.com/item?id=48708859</a></p>\n<p>Points: 142</p>\n<p># Comments: 47</p>",
-    "published": "2026-06-28T16:28:50",
+    "title": "Rocketlab acquires Iridium",
+    "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "summary": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 413</p>\n<p># Comments: 276</p>",
+    "published": "2026-06-29T14:09:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Tokenmaxxing is dead, long live tokenmaxxing",
-    "link": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-    "summary": "<p>Article URL: <a href=\"https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\">https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708795\">https://news.ycombinator.com/item?id=48708795</a></p>\n<p>Points: 153</p>\n<p># Comments: 208</p>",
-    "published": "2026-06-28T16:24:10",
+    "title": "What happens when you run a CUDA kernel?",
+    "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "summary": "<p>Article URL: <a href=\"https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/\">https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718863\">https://news.ycombinator.com/item?id=48718863</a></p>\n<p>Points: 256</p>\n<p># Comments: 30</p>",
+    "published": "2026-06-29T13:11:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-    "link": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-    "summary": "<p>Article URL: <a href=\"https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html\">https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708700\">https://news.ycombinator.com/item?id=48708700</a></p>\n<p>Points: 110</p>\n<p># Comments: 24</p>",
-    "published": "2026-06-28T16:16:07",
+    "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
+    "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
+    "summary": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
+    "published": "2026-06-29T09:00:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
+    "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
+    "summary": "<p>Article URL: <a href=\"https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/\">https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48711981\">https://news.ycombinator.com/item?id=48711981</a></p>\n<p>Points: 576</p>\n<p># Comments: 338</p>",
+    "published": "2026-06-28T21:42:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-    "link": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-    "summary": "<p>Article URL: <a href=\"https://schamper.dev/dissecting-apples-sparse-image-format-asif/\">https://schamper.dev/dissecting-apples-sparse-image-format-asif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708644\">https://news.ycombinator.com/item?id=48708644</a></p>\n<p>Points: 83</p>\n<p># Comments: 6</p>",
-    "published": "2026-06-28T16:10:50",
+    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
+    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
+    "summary": "<p>Article URL: <a href=\"https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/\">https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710325\">https://news.ycombinator.com/item?id=48710325</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
+    "published": "2026-06-28T18:56:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Zanagrams",
-    "link": "https://zanagrams.com/",
-    "summary": "<p>Article URL: <a href=\"https://zanagrams.com/\">https://zanagrams.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48708182\">https://news.ycombinator.com/item?id=48708182</a></p>\n<p>Points: 290</p>\n<p># Comments: 65</p>",
-    "published": "2026-06-28T15:26:14",
+    "title": "One million passports leaked online",
+    "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
+    "summary": "<p><a href=\"https://web.archive.org/web/20260617075233/https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal\" rel=\"nofollow\">https://web.archive.org/web/20260617075233/https://www.theve...</a><p><a href=\"https://archive.ph/n2HnK\" rel=\"nofollow\">https://archive.ph/n2HnK</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706389\">https://news.ycombinator.com/item?id=48706389</a></p>\n<p>Points: 275</p>\n<p># Comments: 161</p>",
+    "published": "2026-06-28T11:22:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-    "link": "https://pudding.cool/2026/06/menu-story/",
-    "summary": "<p><a href=\"https://pudding.cool/2026/06/menu-collection/\" rel=\"nofollow\">https://pudding.cool/2026/06/menu-collection/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48707763\">https://news.ycombinator.com/item?id=48707763</a></p>\n<p>Points: 368</p>\n<p># Comments: 96</p>",
-    "published": "2026-06-28T14:44:56",
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "link": "https://arxiv.org/abs/2606.22283",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.22283\">https://arxiv.org/abs/2606.22283</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702825\">https://news.ycombinator.com/item?id=48702825</a></p>\n<p>Points: 173</p>\n<p># Comments: 23</p>",
+    "published": "2026-06-27T23:30:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "link": "https://github.com/openai/codex/issues/2847",
-    "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/2847\">https://github.com/openai/codex/issues/2847</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706714\">https://news.ycombinator.com/item?id=48706714</a></p>\n<p>Points: 208</p>\n<p># Comments: 133</p>",
-    "published": "2026-06-28T12:27:33",
+    "title": "Old Computer Challenge",
+    "link": "http://occ.sdf.org/",
+    "summary": "<p>Article URL: <a href=\"http://occ.sdf.org/\">http://occ.sdf.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702320\">https://news.ycombinator.com/item?id=48702320</a></p>\n<p>Points: 63</p>\n<p># Comments: 24</p>",
+    "published": "2026-06-27T22:18:50",
     "source": "Hacker News: Front Page"
   },
   {
@@ -210,13 +245,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site",
-    "link": "https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html",
-    "summary": "A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”",
-    "published": "2026-06-25T20:57:21",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
     "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
     "summary": "The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.",
@@ -263,20 +291,6 @@
     "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
     "summary": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
     "published": "2026-06-23T22:42:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
-    "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
-    "summary": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
-    "published": "2026-06-23T15:11:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
-    "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
-    "summary": "A supercomputer in Shenzhen was declared the world’s fastest. It uses only standard microprocessors and not the special-purpose chips called graphics processing units.",
-    "published": "2026-06-23T09:02:27",
     "source": "NYT > Technology"
   }
 ]
