@@ -1,16 +1,184 @@
 [
   {
-    "title": "Popping the GPU Bubble",
-    "link": "https://moondream.ai/blog/popping-the-gpu-bubble",
-    "summary": "<p>Article URL: <a href=\"https://moondream.ai/blog/popping-the-gpu-bubble\">https://moondream.ai/blog/popping-the-gpu-bubble</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48728729\">https://news.ycombinator.com/item?id=48728729</a></p>\n<p>Points: 131</p>\n<p># Comments: 32</p>",
-    "published": "2026-06-30T05:14:35",
+    "title": "Pine64 launch $50 smart speaker for Home Assistant tinkerers",
+    "link": "https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch",
+    "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch\">https://www.omgubuntu.co.uk/2026/06/pine64-pinevoice-riscv-smart-speaker-launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744446\">https://news.ycombinator.com/item?id=48744446</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-07-01T09:57:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The end of the AArch64 desktop experiment",
-    "link": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
-    "summary": "<p>Article URL: <a href=\"https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/\">https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48728599\">https://news.ycombinator.com/item?id=48728599</a></p>\n<p>Points: 46</p>\n<p># Comments: 25</p>",
-    "published": "2026-06-30T04:51:12",
+    "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+    "link": "https://news.ycombinator.com/item?id=48744213",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48744213\">https://news.ycombinator.com/item?id=48744213</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-01T09:18:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
+    "link": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
+    "summary": "Amid widespread “techlash” over addictive screens and apps, the Yoto, an audio player for children, shows there’s still a way to make money while doing something nice.",
+    "published": "2026-07-01T09:01:47",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Register Korea's First PC 'SE-8001' as a National Important Material",
+    "link": "https://www.dongascience.com/en/news/30374",
+    "summary": "<p>Article URL: <a href=\"https://www.dongascience.com/en/news/30374\">https://www.dongascience.com/en/news/30374</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48743655\">https://news.ycombinator.com/item?id=48743655</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-01T08:12:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "summary": "<p>Article URL: <a href=\"https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/\">https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48743472\">https://news.ycombinator.com/item?id=48743472</a></p>\n<p>Points: 154</p>\n<p># Comments: 79</p>",
+    "published": "2026-07-01T07:43:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
+    "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+    "summary": "Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.",
+    "published": "2026-07-01T05:16:15",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "link": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "summary": "<p>Article URL: <a href=\"https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/\">https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48742514\">https://news.ycombinator.com/item?id=48742514</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
+    "published": "2026-07-01T05:13:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The first early human eggs from stem cells",
+    "link": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+    "summary": "<p>Article URL: <a href=\"https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells\">https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48742483\">https://news.ycombinator.com/item?id=48742483</a></p>\n<p>Points: 118</p>\n<p># Comments: 69</p>",
+    "published": "2026-07-01T05:09:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Single header Parser Combinators for C",
+    "link": "https://github.com/steve-chavez/CParseC",
+    "summary": "<p>Article URL: <a href=\"https://github.com/steve-chavez/CParseC\">https://github.com/steve-chavez/CParseC</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48742049\">https://news.ycombinator.com/item?id=48742049</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-01T03:52:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models",
+    "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
+    "summary": "The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.",
+    "published": "2026-07-01T03:17:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "ArXiv's Next Chapter",
+    "link": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+    "summary": "<p>Article URL: <a href=\"https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/\">https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48741748\">https://news.ycombinator.com/item?id=48741748</a></p>\n<p>Points: 119</p>\n<p># Comments: 40</p>",
+    "published": "2026-07-01T02:51:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Forestiere Underground Gardens",
+    "link": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+    "summary": "<p>Article URL: <a href=\"https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens\">https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48741359\">https://news.ycombinator.com/item?id=48741359</a></p>\n<p>Points: 68</p>\n<p># Comments: 15</p>",
+    "published": "2026-07-01T01:23:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/AnthropicAI/status/2072106151890809341\">https://twitter.com/AnthropicAI/status/2072106151890809341</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48740771\">https://news.ycombinator.com/item?id=48740771</a></p>\n<p>Points: 693</p>\n<p># Comments: 400</p>",
+    "published": "2026-06-30T23:55:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google copybara: moving code between repositories",
+    "link": "https://github.com/google/copybara",
+    "summary": "<p>Article URL: <a href=\"https://github.com/google/copybara\">https://github.com/google/copybara</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48740698\">https://news.ycombinator.com/item?id=48740698</a></p>\n<p>Points: 211</p>\n<p># Comments: 37</p>",
+    "published": "2026-06-30T23:45:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It",
+    "link": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
+    "summary": "Neon purchased “Artificial,” which focuses on OpenAI’s chief, Sam Altman, after Amazon walked away from it following an investment in the start-up.",
+    "published": "2026-06-30T23:02:46",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+    "link": "https://hatari.frama.io/hatari/online/hatari.html",
+    "summary": "<p>Article URL: <a href=\"https://hatari.frama.io/hatari/online/hatari.html\">https://hatari.frama.io/hatari/online/hatari.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48740135\">https://news.ycombinator.com/item?id=48740135</a></p>\n<p>Points: 69</p>\n<p># Comments: 9</p>",
+    "published": "2026-06-30T22:34:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "BMW Will Build a New Electric S.U.V. in South Carolina",
+    "link": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html",
+    "summary": "The German company is doubling down on electric vehicles even as other automakers pull back after acknowledging billions of dollars in losses.",
+    "published": "2026-06-30T21:49:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "summary": "<p>Article URL: <a href=\"https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1\">https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48739466\">https://news.ycombinator.com/item?id=48739466</a></p>\n<p>Points: 160</p>\n<p># Comments: 82</p>",
+    "published": "2026-06-30T21:29:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I ported Kubernetes to the browser",
+    "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+    "summary": "<p><a href=\"https://github.com/ngrok/webernetes\" rel=\"nofollow\">https://github.com/ngrok/webernetes</a><p><a href=\"https://webernetes-demo.ngrok.app/\" rel=\"nofollow\">https://webernetes-demo.ngrok.app/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48738985\">https://news.ycombinator.com/item?id=48738985</a></p>\n<p>Points: 265</p>\n<p># Comments: 80</p>",
+    "published": "2026-06-30T20:48:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Leanstral 1.5",
+    "link": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+    "summary": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06\">https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48738938\">https://news.ycombinator.com/item?id=48738938</a></p>\n<p>Points: 230</p>\n<p># Comments: 78</p>",
+    "published": "2026-06-30T20:44:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tokyo has only two barley tea makers, we visited one to see how mugicha is made",
+    "link": "https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/",
+    "summary": "<p>Article URL: <a href=\"https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/\">https://soranews24.com/2026/06/30/tokyo-has-only-two-barley-tea-makers-and-we-visited-one-to-see-how-mugicha-is-made/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48738262\">https://news.ycombinator.com/item?id=48738262</a></p>\n<p>Points: 137</p>\n<p># Comments: 33</p>",
+    "published": "2026-06-30T19:47:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
+    "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html",
+    "summary": "Bending Spoons, an Italian company that buys aging internet companies, is going public this week at a potential value of $19 billion.",
+    "published": "2026-06-30T18:43:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Claude Sonnet 5",
+    "link": "https://www.anthropic.com/news/claude-sonnet-5",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/claude-sonnet-5\">https://www.anthropic.com/news/claude-sonnet-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48736605\">https://news.ycombinator.com/item?id=48736605</a></p>\n<p>Points: 1134</p>\n<p># Comments: 669</p>",
+    "published": "2026-06-30T17:59:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I built a mmWave material classification radar (2025)",
+    "link": "https://gauthier-lechevalier.com/radar",
+    "summary": "<p>Article URL: <a href=\"https://gauthier-lechevalier.com/radar\">https://gauthier-lechevalier.com/radar</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48736137\">https://news.ycombinator.com/item?id=48736137</a></p>\n<p>Points: 183</p>\n<p># Comments: 49</p>",
+    "published": "2026-06-30T17:29:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Science",
+    "link": "https://claude.com/product/claude-science",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/product/claude-science\">https://claude.com/product/claude-science</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48735770\">https://news.ycombinator.com/item?id=48735770</a></p>\n<p>Points: 496</p>\n<p># Comments: 147</p>",
+    "published": "2026-06-30T17:07:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nano Banana 2 Lite",
+    "link": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "summary": "<p>Article URL: <a href=\"https://deepmind.google/models/gemini-image/flash-lite/\">https://deepmind.google/models/gemini-image/flash-lite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48735444\">https://news.ycombinator.com/item?id=48735444</a></p>\n<p>Points: 384</p>\n<p># Comments: 152</p>",
+    "published": "2026-06-30T16:48:37",
     "source": "Hacker News: Front Page"
   },
   {
@@ -19,55 +187,6 @@
     "summary": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.",
     "published": "2026-06-30T04:46:32",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Exploring PDP-1 Lisp (1960)",
-    "link": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-    "summary": "<p>Article URL: <a href=\"https://obsolescence.dev/pdp1-lisp-introduction.html\">https://obsolescence.dev/pdp1-lisp-introduction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727323\">https://news.ycombinator.com/item?id=48727323</a></p>\n<p>Points: 74</p>\n<p># Comments: 17</p>",
-    "published": "2026-06-30T00:56:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Memory Safe Context Switching",
-    "link": "https://fil-c.org/context_switches",
-    "summary": "<p>Article URL: <a href=\"https://fil-c.org/context_switches\">https://fil-c.org/context_switches</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727177\">https://news.ycombinator.com/item?id=48727177</a></p>\n<p>Points: 129</p>\n<p># Comments: 25</p>",
-    "published": "2026-06-30T00:38:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "link": "https://longcat.chat/blog/longcat-2.0/",
-    "summary": "<p>Article URL: <a href=\"https://longcat.chat/blog/longcat-2.0/\">https://longcat.chat/blog/longcat-2.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48727116\">https://news.ycombinator.com/item?id=48727116</a></p>\n<p>Points: 147</p>\n<p># Comments: 43</p>",
-    "published": "2026-06-30T00:30:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/\">https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48726102\">https://news.ycombinator.com/item?id=48726102</a></p>\n<p>Points: 227</p>\n<p># Comments: 154</p>",
-    "published": "2026-06-29T22:21:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": ".self: A new top-level domain designed to support self-hosting",
-    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "summary": "<p>Article URL: <a href=\"https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\">https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48724230\">https://news.ycombinator.com/item?id=48724230</a></p>\n<p>Points: 517</p>\n<p># Comments: 296</p>",
-    "published": "2026-06-29T19:49:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "link": "https://github.com/deepreinforce-ai/Ornith-1",
-    "summary": "<p>Article URL: <a href=\"https://github.com/deepreinforce-ai/Ornith-1\">https://github.com/deepreinforce-ai/Ornith-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48722052\">https://news.ycombinator.com/item?id=48722052</a></p>\n<p>Points: 212</p>\n<p># Comments: 39</p>",
-    "published": "2026-06-29T17:16:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Qwen 3.6 27B is the sweet spot for local development",
-    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-    "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/qwen-36-is-awesome/\">https://quesma.com/blog/qwen-36-is-awesome/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48721903\">https://news.ycombinator.com/item?id=48721903</a></p>\n<p>Points: 923</p>\n<p># Comments: 618</p>",
-    "published": "2026-06-29T17:05:16",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
@@ -80,7 +199,7 @@
     "title": "Many Child Safety Features on Social Apps Don’t Work, Report Finds",
     "link": "https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html",
     "summary": "Researchers found that teens can discover harmful content, connect with unknown adults and easily bypass time limits.",
-    "published": "2026-06-29T16:24:40",
+    "published": "2026-06-29T16:24:41",
     "source": "NYT > Technology"
   },
   {
@@ -89,90 +208,6 @@
     "summary": "A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”",
     "published": "2026-06-29T16:21:49",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "US Supreme Court rules geofence warrants require constitutional protections",
-    "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision\">https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720924\">https://news.ycombinator.com/item?id=48720924</a></p>\n<p>Points: 526</p>\n<p># Comments: 248</p>",
-    "published": "2026-06-29T15:54:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A native graphical shell for SSH",
-    "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-    "summary": "<p>Article URL: <a href=\"https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html\">https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720758\">https://news.ycombinator.com/item?id=48720758</a></p>\n<p>Points: 309</p>\n<p># Comments: 173</p>",
-    "published": "2026-06-29T15:42:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-    "link": "https://humphri.es/blog/WATaBoy/",
-    "summary": "<p>Article URL: <a href=\"https://humphri.es/blog/WATaBoy/\">https://humphri.es/blog/WATaBoy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720190\">https://news.ycombinator.com/item?id=48720190</a></p>\n<p>Points: 205</p>\n<p># Comments: 34</p>",
-    "published": "2026-06-29T15:02:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Linux for the Sega MegaDrive",
-    "link": "https://github.com/LinuxMD/linuxmd",
-    "summary": "<p><a href=\"https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadrive/\" rel=\"nofollow\">https://hackaday.com/2026/06/29/its-linux-on-a-sega-megadriv...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48720186\">https://news.ycombinator.com/item?id=48720186</a></p>\n<p>Points: 111</p>\n<p># Comments: 15</p>",
-    "published": "2026-06-29T15:01:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rocketlab acquires Iridium",
-    "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-    "summary": "<p>Article URL: <a href=\"https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully\">https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719485\">https://news.ycombinator.com/item?id=48719485</a></p>\n<p>Points: 413</p>\n<p># Comments: 276</p>",
-    "published": "2026-06-29T14:09:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What happens when you run a CUDA kernel?",
-    "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-    "summary": "<p>Article URL: <a href=\"https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/\">https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48718863\">https://news.ycombinator.com/item?id=48718863</a></p>\n<p>Points: 256</p>\n<p># Comments: 30</p>",
-    "published": "2026-06-29T13:11:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways",
-    "link": "https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html",
-    "summary": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.",
-    "published": "2026-06-29T09:00:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "30-year sentence for transporting zines is a five-alarm fire for free speech",
-    "link": "https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/",
-    "summary": "<p>Article URL: <a href=\"https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/\">https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48711981\">https://news.ycombinator.com/item?id=48711981</a></p>\n<p>Points: 576</p>\n<p># Comments: 338</p>",
-    "published": "2026-06-28T21:42:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "British Origami: the 1955 exhibition by Akira Yoshizawa (2005)",
-    "link": "https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/",
-    "summary": "<p>Article URL: <a href=\"https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/\">https://www.britishorigami.org/cp-lister-list/the-1955-exhibition-by-akira-yoshizawa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48710325\">https://news.ycombinator.com/item?id=48710325</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
-    "published": "2026-06-28T18:56:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "One million passports leaked online",
-    "link": "https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal",
-    "summary": "<p><a href=\"https://web.archive.org/web/20260617075233/https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal\" rel=\"nofollow\">https://web.archive.org/web/20260617075233/https://www.theve...</a><p><a href=\"https://archive.ph/n2HnK\" rel=\"nofollow\">https://archive.ph/n2HnK</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706389\">https://news.ycombinator.com/item?id=48706389</a></p>\n<p>Points: 275</p>\n<p># Comments: 161</p>",
-    "published": "2026-06-28T11:22:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "link": "https://arxiv.org/abs/2606.22283",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.22283\">https://arxiv.org/abs/2606.22283</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702825\">https://news.ycombinator.com/item?id=48702825</a></p>\n<p>Points: 173</p>\n<p># Comments: 23</p>",
-    "published": "2026-06-27T23:30:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Old Computer Challenge",
-    "link": "http://occ.sdf.org/",
-    "summary": "<p>Article URL: <a href=\"http://occ.sdf.org/\">http://occ.sdf.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48702320\">https://news.ycombinator.com/item?id=48702320</a></p>\n<p>Points: 63</p>\n<p># Comments: 24</p>",
-    "published": "2026-06-27T22:18:50",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model",
@@ -252,13 +287,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
-    "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
-    "summary": "Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.",
-    "published": "2026-06-25T15:34:41",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
     "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
     "summary": "Industry leaders had worried that innovations in chip miniaturization were no longer possible.",
@@ -270,27 +298,6 @@
     "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
     "summary": "The maker of ChatGPT plans to use enough chips to consume 10 gigawatts of electricity, an amount that could power millions of households.",
     "published": "2026-06-24T21:41:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-    "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-    "summary": "A recent episode underscored the Trump administration’s increasing reliance on advanced A.I. systems for cybersecurity even as it battles a leading U.S. developer.",
-    "published": "2026-06-24T15:08:53",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Your Home Could Help Solve AI’s Growing Power Demand",
-    "link": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
-    "summary": "Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelligence.",
-    "published": "2026-06-24T09:02:13",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Has Created a Prediction Markets App",
-    "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
-    "summary": "The experimental app, internally called “Arena,” would be independent of Facebook and Instagram. It could compete for attention with Polymarket and Kalshi, the biggest prediction markets.",
-    "published": "2026-06-23T22:42:38",
     "source": "NYT > Technology"
   }
 ]
