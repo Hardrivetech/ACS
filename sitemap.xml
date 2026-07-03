@@ -1,99 +1,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html</loc>
+    <lastmod>2026-07-03T11:00:03</lastmod>
+  </url>
+  <url>
+    <loc>https://thombrown.blogspot.com/2026/07/load-plcbmbasic81-commodore-64-basic.html</loc>
+    <lastmod>2026-07-03T09:08:14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html</loc>
+    <lastmod>2026-07-03T09:04:25</lastmod>
+  </url>
+  <url>
+    <loc>https://wordgard.net/</loc>
+    <lastmod>2026-07-03T08:50:47</lastmod>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/</loc>
+    <lastmod>2026-07-03T08:31:37</lastmod>
+  </url>
+  <url>
+    <loc>https://weli.dev/blog/half-baked-product/</loc>
+    <lastmod>2026-07-03T08:23:32</lastmod>
+  </url>
+  <url>
+    <loc>https://manticoresearch.com/blog/onnx-embeddings-speedup/</loc>
+    <lastmod>2026-07-03T03:49:47</lastmod>
+  </url>
+  <url>
+    <loc>https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/</loc>
+    <lastmod>2026-07-03T01:37:11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts</loc>
+    <lastmod>2026-07-03T01:02:45</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html</loc>
+    <lastmod>2026-07-03T00:01:43</lastmod>
+  </url>
+  <url>
+    <loc>https://scottaaronson.blog/?p=9902</loc>
+    <lastmod>2026-07-03T00:01:06</lastmod>
+  </url>
+  <url>
+    <loc>https://righttointelligence.org/</loc>
+    <lastmod>2026-07-02T23:54:03</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/FractalFir/crustc</loc>
+    <lastmod>2026-07-02T22:57:35</lastmod>
+  </url>
+  <url>
+    <loc>https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data</loc>
+    <lastmod>2026-07-02T21:03:45</lastmod>
+  </url>
+  <url>
+    <loc>https://growtheflowutah.org/laketracker/</loc>
+    <lastmod>2026-07-02T19:33:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected</loc>
+    <lastmod>2026-07-02T19:27:38</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.okturtles.org/2026/07/short-leash-ai-method/</loc>
+    <lastmod>2026-07-02T19:11:57</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/HUANGCHIHHUNGLeo/claude-real-video</loc>
+    <lastmod>2026-07-02T19:10:12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</loc>
+    <lastmod>2026-07-02T18:54:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.zachtronics.com/exapunks/</loc>
+    <lastmod>2026-07-02T18:41:19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data</loc>
+    <lastmod>2026-07-02T18:38:32</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/segaboy/vulkan-netbsd</loc>
+    <lastmod>2026-07-02T18:36:09</lastmod>
+  </url>
+  <url>
+    <loc>https://mathstodon.xyz/@iblech/116769502749142438</loc>
+    <lastmod>2026-07-02T15:25:16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html</loc>
+    <lastmod>2026-07-02T15:07:49</lastmod>
+  </url>
+  <url>
+    <loc>https://apple.github.io/foundationdb/flow.html</loc>
+    <lastmod>2026-07-02T14:41:56</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html</loc>
     <lastmod>2026-07-02T09:02:10</lastmod>
   </url>
   <url>
-    <loc>https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html</loc>
-    <lastmod>2026-07-02T08:34:13</lastmod>
-  </url>
-  <url>
-    <loc>https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy</loc>
-    <lastmod>2026-07-02T08:01:15</lastmod>
-  </url>
-  <url>
-    <loc>https://cursor.com/evals</loc>
-    <lastmod>2026-07-02T05:19:34</lastmod>
-  </url>
-  <url>
-    <loc>https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/</loc>
-    <lastmod>2026-07-02T04:32:41</lastmod>
-  </url>
-  <url>
-    <loc>https://f-droid.org/2026/07/01/adv-malware.html</loc>
-    <lastmod>2026-07-02T03:00:15</lastmod>
-  </url>
-  <url>
-    <loc>https://senior-swe-bench.snorkel.ai/</loc>
-    <lastmod>2026-07-02T02:55:16</lastmod>
-  </url>
-  <url>
-    <loc>https://tedium.co/2026/07/01/online-web-forums-retrospective/</loc>
-    <lastmod>2026-07-02T02:30:16</lastmod>
-  </url>
-  <url>
-    <loc>https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/</loc>
-    <lastmod>2026-07-02T00:48:01</lastmod>
-  </url>
-  <url>
-    <loc>https://underhanded-c.org/</loc>
-    <lastmod>2026-07-01T22:39:15</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/</loc>
-    <lastmod>2026-07-01T22:27:47</lastmod>
-  </url>
-  <url>
-    <loc>https://zcode.z.ai/en</loc>
-    <lastmod>2026-07-01T22:03:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.astralcodexten.com/p/chip-off-the-old-block</loc>
-    <lastmod>2026-07-01T21:42:57</lastmod>
-  </url>
-  <url>
-    <loc>https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available</loc>
-    <lastmod>2026-07-01T21:01:42</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer</loc>
-    <lastmod>2026-07-01T21:00:14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.workerowned.info/</loc>
-    <lastmod>2026-07-01T20:47:41</lastmod>
-  </url>
-  <url>
-    <loc>https://www.weaverobotics.com/isaac-1</loc>
-    <lastmod>2026-07-01T18:12:18</lastmod>
-  </url>
-  <url>
-    <loc>https://thisismodest.com/vimscoops/</loc>
-    <lastmod>2026-07-01T18:00:07</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/</loc>
-    <lastmod>2026-07-01T17:53:44</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=48747976</loc>
-    <lastmod>2026-07-01T15:01:21</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=48747975</loc>
-    <lastmod>2026-07-01T15:01:21</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html</loc>
     <lastmod>2026-07-01T09:01:48</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html</loc>
-    <lastmod>2026-07-01T05:16:15</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html</loc>
@@ -124,10 +140,6 @@
     <lastmod>2026-06-29T16:24:41</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html</loc>
-    <lastmod>2026-06-29T16:21:49</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</loc>
     <lastmod>2026-06-27T00:54:06</lastmod>
   </url>
@@ -140,10 +152,6 @@
     <lastmod>2026-06-26T21:03:18</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html</loc>
-    <lastmod>2026-06-26T18:55:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html</loc>
     <lastmod>2026-06-26T18:05:07</lastmod>
   </url>
@@ -154,25 +162,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</loc>
     <lastmod>2026-06-26T08:54:16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html</loc>
-    <lastmod>2026-06-25T23:25:18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html</loc>
-    <lastmod>2026-06-25T23:11:23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html</loc>
-    <lastmod>2026-06-25T20:58:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html</loc>
-    <lastmod>2026-06-25T18:52:30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html</loc>
-    <lastmod>2026-06-25T10:00:16</lastmod>
   </url>
 </urlset>
