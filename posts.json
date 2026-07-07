@@ -1,143 +1,171 @@
 [
   {
-    "title": "Trump Financial Disclosure Shows 21,000 Trades in 2025",
-    "link": "https://www.advisorhub.com/trump-financial-disclosure-shows-21000-trades-in-2025/",
-    "summary": "<p>Article URL: <a href=\"https://www.advisorhub.com/trump-financial-disclosure-shows-21000-trades-in-2025/\">https://www.advisorhub.com/trump-financial-disclosure-shows-21000-trades-in-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803449\">https://news.ycombinator.com/item?id=48803449</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-06T11:58:24",
+    "title": "Why migrants come to Germany for work and then leave again",
+    "link": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+    "summary": "<p>Article URL: <a href=\"https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162\">https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815982\">https://news.ycombinator.com/item?id=48815982</a></p>\n<p>Points: 17</p>\n<p># Comments: 31</p>",
+    "published": "2026-07-07T10:42:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Road to Elm 1.0",
-    "link": "https://elm-lang.org/news/faster-builds",
-    "summary": "<p>Article URL: <a href=\"https://elm-lang.org/news/faster-builds\">https://elm-lang.org/news/faster-builds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803364\">https://news.ycombinator.com/item?id=48803364</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-06T11:47:37",
+    "title": "Microsoft Can Track Users via a Windows Device ID",
+    "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+    "summary": "<p>Article URL: <a href=\"https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device\">https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815196\">https://news.ycombinator.com/item?id=48815196</a></p>\n<p>Points: 103</p>\n<p># Comments: 42</p>",
+    "published": "2026-07-07T08:54:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "C programmers commit fresh crimes against readability",
-    "link": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981\">https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803347\">https://news.ycombinator.com/item?id=48803347</a></p>\n<p>Points: 19</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-06T11:44:39",
+    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+    "link": "https://whimfiles.com",
+    "summary": "<p>My Downloads folder had been left unkept for a really long time and cleaning it up using Finder was quite cumbersome. So I started creating a simple app to help me filter out and delete or move the files in the folder.<p>It started out very basic and the filtering options genuinely helped me clean out the Downloads folder, then as I thought of more features I would like to see in a file manager I started to add them. Some of the features are:<p>- Fuzzy go to folder/file where you only need to write a few letters of a full path, get suggestions and can jump to the correct path instantly\n- Hover over a file to preview an image or PDF without opening it\n- Dual-pane view and tabs that remember selected filters\n- Command palette to find actions fast\n- Batch rename (with regex support and presets for common operations), image conversion (HEIC/WebP/AVIF to JPG/PNG), zip creation\n- Bookmarks, Quick Look, single-click open, keyboard control<p>And many other small quality of life features.<p>I used Claude Code for making the app and the tech stack is .NET/C# with AppKit. The app is compiled to Native AOT so the total app size is only around 9 MB. Since file operations are very important to get right (I don’t want to lose any important files) I put a lot of time into hardening file move/copy/delete operations. Copies are written to a temp file and atomically renamed into place. I also made a dedicated audit of move/copy/delete and verified each operation by hand.<p>Another thing that’s important to me is apps that are privacy first so the only network request the app makes is to check if there’s a new version (this is not done at all for the trial version, the trial expiry date is enforced locally by just checking the date and trusting the user) and the only information that is sent is the current app version.<p>The app is Apple Silicon, macOS 12+ and has a 30-day free trial with a one-time launch price of $19.99 (no subscription).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48814952\">https://news.ycombinator.com/item?id=48814952</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
+    "published": "2026-07-07T08:12:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "\"Software Engineering\" Is Not Engineering",
-    "link": "https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm",
-    "summary": "<p>Article URL: <a href=\"https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm\">https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48803338\">https://news.ycombinator.com/item?id=48803338</a></p>\n<p>Points: 16</p>\n<p># Comments: 10</p>",
-    "published": "2026-07-06T11:42:46",
+    "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+    "link": "https://jobs.ashbyhq.com/lago",
+    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/lago\">https://jobs.ashbyhq.com/lago</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48814509\">https://news.ycombinator.com/item?id=48814509</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-07T07:00:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How the U.S. Engineered Its Sovereignty",
-    "link": "https://spectrum.ieee.org/us-engineered-sovereignty",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/us-engineered-sovereignty\">https://spectrum.ieee.org/us-engineered-sovereignty</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802971\">https://news.ycombinator.com/item?id=48802971</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
-    "published": "2026-07-06T10:49:29",
+    "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
+    "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
+    "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
+    "published": "2026-07-07T05:36:01",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Art of Computer Programming by Donald E. Knuth",
+    "link": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+    "summary": "<p>Article URL: <a href=\"https://www-cs-faculty.stanford.edu/~knuth/taocp.html\">https://www-cs-faculty.stanford.edu/~knuth/taocp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48813929\">https://news.ycombinator.com/item?id=48813929</a></p>\n<p>Points: 48</p>\n<p># Comments: 10</p>",
+    "published": "2026-07-07T05:19:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "X402, a static blog monetization excercise",
-    "link": "https://shtein.me/posts/x402-poc/",
-    "summary": "<p>Article URL: <a href=\"https://shtein.me/posts/x402-poc/\">https://shtein.me/posts/x402-poc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802885\">https://news.ycombinator.com/item?id=48802885</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-06T10:37:58",
+    "title": "How to sequence your own DNA at home",
+    "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "summary": "<p>Article URL: <a href=\"https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\">https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48812156\">https://news.ycombinator.com/item?id=48812156</a></p>\n<p>Points: 250</p>\n<p># Comments: 99</p>",
+    "published": "2026-07-07T00:14:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
-    "link": "https://earth.tattoo",
-    "summary": "<p>Earth.tattoo divides the earth into 510 million 16x16 pixel \"tiles\" that you can own and paint as you like. You can claim one free tile per hour.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802818\">https://news.ycombinator.com/item?id=48802818</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
-    "published": "2026-07-06T10:28:32",
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48812055\">https://news.ycombinator.com/item?id=48812055</a></p>\n<p>Points: 167</p>\n<p># Comments: 58</p>",
+    "published": "2026-07-06T23:59:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Vacuum at the Page Level",
-    "link": "https://boringsql.com/posts/vacuum-at-the-page-level/",
-    "summary": "<p>Article URL: <a href=\"https://boringsql.com/posts/vacuum-at-the-page-level/\">https://boringsql.com/posts/vacuum-at-the-page-level/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802660\">https://news.ycombinator.com/item?id=48802660</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-06T10:02:08",
+    "title": "NSA and IETF: Fairness",
+    "link": "https://blog.cr.yp.to/20260706-fairness.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.cr.yp.to/20260706-fairness.html\">https://blog.cr.yp.to/20260706-fairness.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811887\">https://news.ycombinator.com/item?id=48811887</a></p>\n<p>Points: 121</p>\n<p># Comments: 94</p>",
+    "published": "2026-07-06T23:33:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Real-time map of Great Britain's rail network",
-    "link": "https://www.map.signalbox.io",
-    "summary": "<p>Article URL: <a href=\"https://www.map.signalbox.io\">https://www.map.signalbox.io</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48802535\">https://news.ycombinator.com/item?id=48802535</a></p>\n<p>Points: 163</p>\n<p># Comments: 68</p>",
-    "published": "2026-07-06T09:38:36",
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "link": "https://ternlight-demo.vercel.app/",
+    "summary": "<p>Article URL: <a href=\"https://ternlight-demo.vercel.app/\">https://ternlight-demo.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811644\">https://news.ycombinator.com/item?id=48811644</a></p>\n<p>Points: 255</p>\n<p># Comments: 56</p>",
+    "published": "2026-07-06T23:06:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Generate parametric, manufacturable 3D models in seconds",
-    "link": "https://kyrall.com/",
-    "summary": "<p>Article URL: <a href=\"https://kyrall.com/\">https://kyrall.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48801488\">https://news.ycombinator.com/item?id=48801488</a></p>\n<p>Points: 48</p>\n<p># Comments: 37</p>",
-    "published": "2026-07-06T07:04:33",
+    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+    "link": "https://github.com/MaximeRivest/Riddle",
+    "summary": "<p>Article URL: <a href=\"https://github.com/MaximeRivest/Riddle\">https://github.com/MaximeRivest/Riddle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811591\">https://news.ycombinator.com/item?id=48811591</a></p>\n<p>Points: 497</p>\n<p># Comments: 316</p>",
+    "published": "2026-07-06T23:00:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Building relationships with customers through support didn't turn out as hoped",
-    "link": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
-    "summary": "<p>Article URL: <a href=\"https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\">https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799929\">https://news.ycombinator.com/item?id=48799929</a></p>\n<p>Points: 195</p>\n<p># Comments: 117</p>",
-    "published": "2026-07-06T02:06:49",
+    "title": "OpenSSH 10.4/10.4p1 Released",
+    "link": "https://www.openssh.org/txt/release-10.4",
+    "summary": "<p>Article URL: <a href=\"https://www.openssh.org/txt/release-10.4\">https://www.openssh.org/txt/release-10.4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811373\">https://news.ycombinator.com/item?id=48811373</a></p>\n<p>Points: 87</p>\n<p># Comments: 16</p>",
+    "published": "2026-07-06T22:32:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GPT-5.6 Sol Ultra will be in Codex",
-    "link": "https://twitter.com/thsottiaux/status/2073933490513752151",
-    "summary": "<p><a href=\"https://x.com/haider1/status/2073695124220006575\" rel=\"nofollow\">https://x.com/haider1/status/2073695124220006575</a>, <a href=\"https://xcancel.com/haider1/status/2073695124220006575\" rel=\"nofollow\">https://xcancel.com/haider1/status/2073695124220006575</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799614\">https://news.ycombinator.com/item?id=48799614</a></p>\n<p>Points: 326</p>\n<p># Comments: 274</p>",
-    "published": "2026-07-06T01:04:03",
+    "title": "Learning to code is still worthwhile",
+    "link": "https://stevekrouse.com/learn-to-code",
+    "summary": "<p>Article URL: <a href=\"https://stevekrouse.com/learn-to-code\">https://stevekrouse.com/learn-to-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48810439\">https://news.ycombinator.com/item?id=48810439</a></p>\n<p>Points: 230</p>\n<p># Comments: 223</p>",
+    "published": "2026-07-06T20:59:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Private Capture of Public Genius",
-    "link": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-    "summary": "<p>Article URL: <a href=\"https://www.wysr.xyz/p/the-private-capture-of-public-genius\">https://www.wysr.xyz/p/the-private-capture-of-public-genius</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799178\">https://news.ycombinator.com/item?id=48799178</a></p>\n<p>Points: 122</p>\n<p># Comments: 72</p>",
-    "published": "2026-07-05T23:52:20",
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "summary": "<p>Article URL: <a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\">https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809877\">https://news.ycombinator.com/item?id=48809877</a></p>\n<p>Points: 480</p>\n<p># Comments: 288</p>",
+    "published": "2026-07-06T20:14:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Has_not_been_viewed_much",
-    "link": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-    "summary": "<p>Article URL: <a href=\"https://iamwillwang.com/notes/has-not-been-viewed-much/\">https://iamwillwang.com/notes/has-not-been-viewed-much/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48799155\">https://news.ycombinator.com/item?id=48799155</a></p>\n<p>Points: 356</p>\n<p># Comments: 93</p>",
-    "published": "2026-07-05T23:49:00",
+    "title": "M/PC – A Concatenative OS",
+    "link": "https://wiki.xxiivv.com/site/m_pc.html",
+    "summary": "<p>Article URL: <a href=\"https://wiki.xxiivv.com/site/m_pc.html\">https://wiki.xxiivv.com/site/m_pc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809810\">https://news.ycombinator.com/item?id=48809810</a></p>\n<p>Points: 66</p>\n<p># Comments: 10</p>",
+    "published": "2026-07-06T20:08:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-    "link": "https://arxiv.org/abs/2605.20049",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.20049\">https://arxiv.org/abs/2605.20049</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798815\">https://news.ycombinator.com/item?id=48798815</a></p>\n<p>Points: 154</p>\n<p># Comments: 79</p>",
-    "published": "2026-07-05T23:03:55",
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "summary": "<p>Article URL: <a href=\"https://www.kapa.ai/blog/how-we-prune-rag-context\">https://www.kapa.ai/blog/how-we-prune-rag-context</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809354\">https://news.ycombinator.com/item?id=48809354</a></p>\n<p>Points: 109</p>\n<p># Comments: 27</p>",
+    "published": "2026-07-06T19:28:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Composite Video on the NES: Why's it so wobbly?",
-    "link": "https://nicole.express/2026/phase-altering-by-line.html",
-    "summary": "<p>Article URL: <a href=\"https://nicole.express/2026/phase-altering-by-line.html\">https://nicole.express/2026/phase-altering-by-line.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798247\">https://news.ycombinator.com/item?id=48798247</a></p>\n<p>Points: 99</p>\n<p># Comments: 7</p>",
-    "published": "2026-07-05T21:45:17",
+    "title": "CoMaps – FOSS Offline Maps",
+    "link": "https://www.comaps.app/",
+    "summary": "<p>Article URL: <a href=\"https://www.comaps.app/\">https://www.comaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808928\">https://news.ycombinator.com/item?id=48808928</a></p>\n<p>Points: 612</p>\n<p># Comments: 135</p>",
+    "published": "2026-07-06T18:55:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-    "link": "https://homegames.io",
-    "summary": "<p>I'm making a platform for simple open source games you can play anywhere.<p>Games are all just JavaScript classes and you can read the source of every game on the platform.<p>I started working on initial \"games\" (mostly rendering tests) in 2018 and eventually built all of the platform stuff around it to make it easy to share games.<p>There's also an in-browser editor available for you to make and publish games all from the browser.<p>Would love some feedback on the games and studio features as well as the platform overall. All of the code is available at <a href=\"https://github.com/homegamesio\" rel=\"nofollow\">https://github.com/homegamesio</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798153\">https://news.ycombinator.com/item?id=48798153</a></p>\n<p>Points: 191</p>\n<p># Comments: 48</p>",
-    "published": "2026-07-05T21:32:44",
+    "title": "Linux on the Atari Jaguar",
+    "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
+    "summary": "<p>Article URL: <a href=\"https://cakehonolulu.github.io/linux-for-jaguar/\">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808663\">https://news.ycombinator.com/item?id=48808663</a></p>\n<p>Points: 158</p>\n<p># Comments: 48</p>",
+    "published": "2026-07-06T18:35:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Completing a computer science degree on Coursera",
-    "link": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-    "summary": "<p>Article URL: <a href=\"https://notesbylex.com/completing-a-computer-science-degree-on-coursera\">https://notesbylex.com/completing-a-computer-science-degree-on-coursera</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48798061\">https://news.ycombinator.com/item?id=48798061</a></p>\n<p>Points: 229</p>\n<p># Comments: 143</p>",
-    "published": "2026-07-05T21:20:49",
+    "title": "OpenWrt One – Open Hardware Router",
+    "link": "https://openwrt.org/toh/openwrt/one",
+    "summary": "<p>Article URL: <a href=\"https://openwrt.org/toh/openwrt/one\">https://openwrt.org/toh/openwrt/one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808482\">https://news.ycombinator.com/item?id=48808482</a></p>\n<p>Points: 675</p>\n<p># Comments: 252</p>",
+    "published": "2026-07-06T18:23:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "OpenPrinter",
-    "link": "https://www.opentools.studio/",
-    "summary": "<p>Article URL: <a href=\"https://www.opentools.studio/\">https://www.opentools.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48797916\">https://news.ycombinator.com/item?id=48797916</a></p>\n<p>Points: 944</p>\n<p># Comments: 233</p>",
-    "published": "2026-07-05T21:03:06",
+    "title": "A global workspace in language models",
+    "link": "https://www.anthropic.com/research/global-workspace",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/global-workspace\">https://www.anthropic.com/research/global-workspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808002\">https://news.ycombinator.com/item?id=48808002</a></p>\n<p>Points: 390</p>\n<p># Comments: 148</p>",
+    "published": "2026-07-06T17:44:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-    "summary": "<p>Article URL: <a href=\"https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf\">https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48796817\">https://news.ycombinator.com/item?id=48796817</a></p>\n<p>Points: 168</p>\n<p># Comments: 105</p>",
-    "published": "2026-07-05T18:47:43",
+    "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+    "link": "https://github.com/V4bel/Januscape",
+    "summary": "<p>Article URL: <a href=\"https://github.com/V4bel/Januscape\">https://github.com/V4bel/Januscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807908\">https://news.ycombinator.com/item?id=48807908</a></p>\n<p>Points: 116</p>\n<p># Comments: 46</p>",
+    "published": "2026-07-06T17:35:03",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
+    "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
+    "summary": "The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.",
+    "published": "2026-07-06T16:05:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
+    "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
+    "summary": "U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years.",
+    "published": "2026-07-06T16:04:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios",
+    "link": "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html",
+    "summary": "The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.",
+    "published": "2026-07-06T14:19:28",
+    "source": "NYT > Technology"
   },
   {
     "title": "How Meta’s Threads Became as Popular as X",
@@ -175,13 +203,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
-    "link": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
-    "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
-    "published": "2026-07-02T18:54:00",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Tesla Sales Surge 25% on Recovery in Europe",
     "link": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
     "summary": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.",
@@ -207,13 +228,6 @@
     "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
     "summary": "The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.",
     "published": "2026-07-01T03:17:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It",
-    "link": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
-    "summary": "Neon purchased “Artificial,” which focuses on OpenAI’s chief, Sam Altman, after Amazon walked away from it following an investment in the start-up.",
-    "published": "2026-06-30T23:02:46",
     "source": "NYT > Technology"
   },
   {
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
     "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
     "published": "2026-06-26T21:03:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
-    "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
-    "summary": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
-    "published": "2026-06-26T18:05:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "‘The Daily’ and ‘The Opinions’: How A.I. Is Changing Loneliness and Taste",
-    "link": "https://www.nytimes.com/2026/06/26/podcasts/the-daily-and-the-opinions-how-ai-is-changing-loneliness-and-taste.html",
-    "summary": "The story of a woman who let a robot into her home. Plus, a discussion about why Silicon Valley has taken such an interest in taste.",
-    "published": "2026-06-26T11:00:07",
     "source": "NYT > Technology"
   }
 ]
