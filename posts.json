@@ -1,30 +1,156 @@
 [
   {
-    "title": "Why migrants come to Germany for work and then leave again",
-    "link": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
-    "summary": "<p>Article URL: <a href=\"https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162\">https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815982\">https://news.ycombinator.com/item?id=48815982</a></p>\n<p>Points: 17</p>\n<p># Comments: 31</p>",
-    "published": "2026-07-07T10:42:59",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+    "summary": "<p>Article URL: <a href=\"https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/\">https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48829312\">https://news.ycombinator.com/item?id=48829312</a></p>\n<p>Points: 192</p>\n<p># Comments: 45</p>",
+    "published": "2026-07-08T08:46:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Microsoft Can Track Users via a Windows Device ID",
-    "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-    "summary": "<p>Article URL: <a href=\"https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device\">https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48815196\">https://news.ycombinator.com/item?id=48815196</a></p>\n<p>Points: 103</p>\n<p># Comments: 42</p>",
-    "published": "2026-07-07T08:54:03",
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "link": "https://github.com/dekart-xyz/geosql",
+    "summary": "<p>Article URL: <a href=\"https://github.com/dekart-xyz/geosql\">https://github.com/dekart-xyz/geosql</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48829242\">https://news.ycombinator.com/item?id=48829242</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-08T08:37:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-    "link": "https://whimfiles.com",
-    "summary": "<p>My Downloads folder had been left unkept for a really long time and cleaning it up using Finder was quite cumbersome. So I started creating a simple app to help me filter out and delete or move the files in the folder.<p>It started out very basic and the filtering options genuinely helped me clean out the Downloads folder, then as I thought of more features I would like to see in a file manager I started to add them. Some of the features are:<p>- Fuzzy go to folder/file where you only need to write a few letters of a full path, get suggestions and can jump to the correct path instantly\n- Hover over a file to preview an image or PDF without opening it\n- Dual-pane view and tabs that remember selected filters\n- Command palette to find actions fast\n- Batch rename (with regex support and presets for common operations), image conversion (HEIC/WebP/AVIF to JPG/PNG), zip creation\n- Bookmarks, Quick Look, single-click open, keyboard control<p>And many other small quality of life features.<p>I used Claude Code for making the app and the tech stack is .NET/C# with AppKit. The app is compiled to Native AOT so the total app size is only around 9 MB. Since file operations are very important to get right (I don’t want to lose any important files) I put a lot of time into hardening file move/copy/delete operations. Copies are written to a temp file and atomically renamed into place. I also made a dedicated audit of move/copy/delete and verified each operation by hand.<p>Another thing that’s important to me is apps that are privacy first so the only network request the app makes is to check if there’s a new version (this is not done at all for the trial version, the trial expiry date is enforced locally by just checking the date and trusting the user) and the only information that is sent is the current app version.<p>The app is Apple Silicon, macOS 12+ and has a 30-day free trial with a one-time launch price of $19.99 (no subscription).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48814952\">https://news.ycombinator.com/item?id=48814952</a></p>\n<p>Points: 16</p>\n<p># Comments: 7</p>",
-    "published": "2026-07-07T08:12:12",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "summary": "<p>Article URL: <a href=\"https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\">https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48827858\">https://news.ycombinator.com/item?id=48827858</a></p>\n<p>Points: 208</p>\n<p># Comments: 85</p>",
+    "published": "2026-07-08T05:25:35",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Lago (YC S21) Is Hiring for Our GTM Team",
-    "link": "https://jobs.ashbyhq.com/lago",
-    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/lago\">https://jobs.ashbyhq.com/lago</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48814509\">https://news.ycombinator.com/item?id=48814509</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-07T07:00:27",
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "summary": "<p>Article URL: <a href=\"https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/\">https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48827325\">https://news.ycombinator.com/item?id=48827325</a></p>\n<p>Points: 205</p>\n<p># Comments: 126</p>",
+    "published": "2026-07-08T03:59:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+    "link": "https://www.digipres.org/the-floppy-guide/",
+    "summary": "<p>Article URL: <a href=\"https://www.digipres.org/the-floppy-guide/\">https://www.digipres.org/the-floppy-guide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48827092\">https://news.ycombinator.com/item?id=48827092</a></p>\n<p>Points: 82</p>\n<p># Comments: 25</p>",
+    "published": "2026-07-08T03:22:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LineageOS Statistics",
+    "link": "https://stats.lineageos.org",
+    "summary": "<p>Article URL: <a href=\"https://stats.lineageos.org\">https://stats.lineageos.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48826329\">https://news.ycombinator.com/item?id=48826329</a></p>\n<p>Points: 100</p>\n<p># Comments: 58</p>",
+    "published": "2026-07-08T01:27:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Chiptune Radio",
+    "link": "https://chiptune-radio.alephvoid.com/",
+    "summary": "<p>I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48826094\">https://news.ycombinator.com/item?id=48826094</a></p>\n<p>Points: 52</p>\n<p># Comments: 14</p>",
+    "published": "2026-07-08T00:55:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "link": "https://kb.cert.org/vuls/id/213560",
+    "summary": "<p>Article URL: <a href=\"https://kb.cert.org/vuls/id/213560\">https://kb.cert.org/vuls/id/213560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48825749\">https://news.ycombinator.com/item?id=48825749</a></p>\n<p>Points: 225</p>\n<p># Comments: 72</p>",
+    "published": "2026-07-08T00:08:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+    "link": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+    "summary": "<p>Article URL: <a href=\"https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/\">https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48825664\">https://news.ycombinator.com/item?id=48825664</a></p>\n<p>Points: 192</p>\n<p># Comments: 20</p>",
+    "published": "2026-07-07T23:57:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+    "link": "https://www.gao.gov/products/gao-26-108193",
+    "summary": "<p>Article URL: <a href=\"https://www.gao.gov/products/gao-26-108193\">https://www.gao.gov/products/gao-26-108193</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48824826\">https://news.ycombinator.com/item?id=48824826</a></p>\n<p>Points: 212</p>\n<p># Comments: 100</p>",
+    "published": "2026-07-07T22:23:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Every new car sold in the European Union must include a driver monitoring camera",
+    "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+    "summary": "<p>Article URL: <a href=\"https://allaboutcookies.org/eu-mandatory-distracted-driver-system\">https://allaboutcookies.org/eu-mandatory-distracted-driver-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48823557\">https://news.ycombinator.com/item?id=48823557</a></p>\n<p>Points: 657</p>\n<p># Comments: 830</p>",
+    "published": "2026-07-07T20:50:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Unveils an A.I. Image Generator",
+    "link": "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html",
+    "summary": "Muse Image, which can create realistic images for users on Instagram and WhatsApp, is the company’s latest attempt to catch up in the global artificial intelligence race.",
+    "published": "2026-07-07T19:50:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Davit, a Apple Containers UI",
+    "link": "https://davit.app",
+    "summary": "<p>Mostly vibe-coded Apple Containers front-end that I'd like to use myself. But if others want to use it, here's the source code.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821848\">https://news.ycombinator.com/item?id=48821848</a></p>\n<p>Points: 312</p>\n<p># Comments: 75</p>",
+    "published": "2026-07-07T18:44:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+    "link": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+    "summary": "<p>Article URL: <a href=\"https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/\">https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821576\">https://news.ycombinator.com/item?id=48821576</a></p>\n<p>Points: 427</p>\n<p># Comments: 80</p>",
+    "published": "2026-07-07T18:24:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Notes on Software Quality",
+    "link": "https://anthonyhobday.com/blog/20260410",
+    "summary": "<p>Article URL: <a href=\"https://anthonyhobday.com/blog/20260410\">https://anthonyhobday.com/blog/20260410</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821441\">https://news.ycombinator.com/item?id=48821441</a></p>\n<p>Points: 137</p>\n<p># Comments: 57</p>",
+    "published": "2026-07-07T18:14:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "l: A new runtime for k and q",
+    "link": "https://lv1.sh/",
+    "summary": "<p><a href=\"https://lv1.sh/blog/why-l/\" rel=\"nofollow\">https://lv1.sh/blog/why-l/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48821378\">https://news.ycombinator.com/item?id=48821378</a></p>\n<p>Points: 147</p>\n<p># Comments: 88</p>",
+    "published": "2026-07-07T18:08:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jim's TrueType QR Code Font",
+    "link": "https://github.com/jimparis/qr-font",
+    "summary": "<p><a href=\"https://qr.jim.sh/\" rel=\"nofollow\">https://qr.jim.sh/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48820119\">https://news.ycombinator.com/item?id=48820119</a></p>\n<p>Points: 185</p>\n<p># Comments: 22</p>",
+    "published": "2026-07-07T16:30:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "link": "https://github.com/rowboatlabs/rowboat",
+    "summary": "<p>Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below).<p>Our repo is <a href=\"https://github.com/rowboatlabs/rowboat\" rel=\"nofollow\">https://github.com/rowboatlabs/rowboat</a>, and there’s a demo video here: <a href=\"https://www.youtube.com/watch?v=et5yQABJ3xI\" rel=\"nofollow\">https://www.youtube.com/watch?v=et5yQABJ3xI</a><p>In a previous startup, we built a deep-learning product for enterprise support reps, including teams supporting P&amp;G brands. Models took live notes, suggested replies, and recommended actions while support reps were on calls or handling emails. One lesson stuck with us: it's not enough for the AI to be right, the help has to show up where the work is happening.<p>So we added what we came to call “work surfaces”: dedicated areas for email, meetings, notes, browser, and parallel coding, where the assistant can help inside the workflow itself rather than only through chat:<p>- Email client: Rowboat has a simple email client that sorts incoming emails into important vs. everything else, and pre-creates drafts for important emails. As you edit and send emails, it takes notes on your style, so future drafts get closer to your voice.<p>- Meeting notes: We built a Granola-style local meeting notetaker. Notes are stored as plain Markdown files on your machine. After a meeting, Rowboat feeds the notes back into the knowledge graph and updates the relevant people, project, and topic notes.<p>- Browser: We added a built-in browser, isolated from your main one, where you can log in only to the accounts you want the assistant to help with. The assistant uses browser-use skills to navigate websites.<p>- Parallel coding: The code-mode inside Rowboat lets you spin multiple instances of Claude Code or Codex and either work with them directly or let Rowboat use your work context to orchestrate them. We built an ACP (Agent Client Protocol) client in Rowboat for this.<p>- Notes: Rowboat has an Obsidian-style local note-taking system. It comes with graph view, bases view, and voice notes. You can also sync Google Docs files and edit them inside Rowboat.<p>You can also build your own work surfaces inside Rowboat (web apps). Each app gets its own UI and a background agent, and can use all of Rowboat's tools, product integrations, and your work memory. For instance: an app to manage GitHub activity, project tracking, or ads campaign management. There are a few community apps at launch you can search and install, and you can publish your own by creating a GitHub repo for it and registering it.<p>Rowboat also indexes your work into a knowledge graph that all of the above surfaces use to have better context. We did a Show HN a few months back on this: <a href=\"https://news.ycombinator.com/item?id=46962641\">https://news.ycombinator.com/item?id=46962641</a>.<p>As an example that ties some of these together: you can create an app inside Rowboat that collects feature requests from your email, meetings, and Slack and ranks them, then uses Claude Code to draft a first version of the top-ranked feature, pulling prior context about it from your knowledge graph.<p>Rowboat is local-first: data is stored as plain Markdown files you can read, edit, or delete anytime. It is Apache-2.0 and works with any LLM, including local models through Ollama or LM Studio.<p>We’d love to hear your thoughts, and contributions are welcome!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819808\">https://news.ycombinator.com/item?id=48819808</a></p>\n<p>Points: 165</p>\n<p># Comments: 51</p>",
+    "published": "2026-07-07T16:10:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+    "link": "https://30papers.com/",
+    "summary": "<p>Article URL: <a href=\"https://30papers.com/\">https://30papers.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819608\">https://news.ycombinator.com/item?id=48819608</a></p>\n<p>Points: 538</p>\n<p># Comments: 78</p>",
+    "published": "2026-07-07T15:58:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why we built yet another Postgres connection pooler",
+    "link": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "summary": "<p>Article URL: <a href=\"https://pgdog.dev/blog/why-yet-another-connection-pooler\">https://pgdog.dev/blog/why-yet-another-connection-pooler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48819308\">https://news.ycombinator.com/item?id=48819308</a></p>\n<p>Points: 194</p>\n<p># Comments: 46</p>",
+    "published": "2026-07-07T15:36:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies",
+    "link": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html",
+    "summary": "A Supreme Court ruling that presidents can fire independent regulators without cause has added volatility for industries that prefer stable enforcement.",
+    "published": "2026-07-07T15:07:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "link": "https://fightchatcontrol.eu/chat-control-overview",
+    "summary": "<p>Article URL: <a href=\"https://fightchatcontrol.eu/chat-control-overview\">https://fightchatcontrol.eu/chat-control-overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48818311\">https://news.ycombinator.com/item?id=48818311</a></p>\n<p>Points: 683</p>\n<p># Comments: 272</p>",
+    "published": "2026-07-07T14:23:15",
     "source": "Hacker News: Front Page"
   },
   {
@@ -33,118 +159,6 @@
     "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
     "published": "2026-07-07T05:36:01",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "The Art of Computer Programming by Donald E. Knuth",
-    "link": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-    "summary": "<p>Article URL: <a href=\"https://www-cs-faculty.stanford.edu/~knuth/taocp.html\">https://www-cs-faculty.stanford.edu/~knuth/taocp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48813929\">https://news.ycombinator.com/item?id=48813929</a></p>\n<p>Points: 48</p>\n<p># Comments: 10</p>",
-    "published": "2026-07-07T05:19:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to sequence your own DNA at home",
-    "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-    "summary": "<p>Article URL: <a href=\"https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\">https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48812156\">https://news.ycombinator.com/item?id=48812156</a></p>\n<p>Points: 250</p>\n<p># Comments: 99</p>",
-    "published": "2026-07-07T00:14:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
-    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\">https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48812055\">https://news.ycombinator.com/item?id=48812055</a></p>\n<p>Points: 167</p>\n<p># Comments: 58</p>",
-    "published": "2026-07-06T23:59:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NSA and IETF: Fairness",
-    "link": "https://blog.cr.yp.to/20260706-fairness.html",
-    "summary": "<p>Article URL: <a href=\"https://blog.cr.yp.to/20260706-fairness.html\">https://blog.cr.yp.to/20260706-fairness.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811887\">https://news.ycombinator.com/item?id=48811887</a></p>\n<p>Points: 121</p>\n<p># Comments: 94</p>",
-    "published": "2026-07-06T23:33:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-    "link": "https://ternlight-demo.vercel.app/",
-    "summary": "<p>Article URL: <a href=\"https://ternlight-demo.vercel.app/\">https://ternlight-demo.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811644\">https://news.ycombinator.com/item?id=48811644</a></p>\n<p>Points: 255</p>\n<p># Comments: 56</p>",
-    "published": "2026-07-06T23:06:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-    "link": "https://github.com/MaximeRivest/Riddle",
-    "summary": "<p>Article URL: <a href=\"https://github.com/MaximeRivest/Riddle\">https://github.com/MaximeRivest/Riddle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811591\">https://news.ycombinator.com/item?id=48811591</a></p>\n<p>Points: 497</p>\n<p># Comments: 316</p>",
-    "published": "2026-07-06T23:00:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenSSH 10.4/10.4p1 Released",
-    "link": "https://www.openssh.org/txt/release-10.4",
-    "summary": "<p>Article URL: <a href=\"https://www.openssh.org/txt/release-10.4\">https://www.openssh.org/txt/release-10.4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48811373\">https://news.ycombinator.com/item?id=48811373</a></p>\n<p>Points: 87</p>\n<p># Comments: 16</p>",
-    "published": "2026-07-06T22:32:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Learning to code is still worthwhile",
-    "link": "https://stevekrouse.com/learn-to-code",
-    "summary": "<p>Article URL: <a href=\"https://stevekrouse.com/learn-to-code\">https://stevekrouse.com/learn-to-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48810439\">https://news.ycombinator.com/item?id=48810439</a></p>\n<p>Points: 230</p>\n<p># Comments: 223</p>",
-    "published": "2026-07-06T20:59:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GLM 5.2 and the coming AI margin collapse",
-    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "summary": "<p>Article URL: <a href=\"https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/\">https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809877\">https://news.ycombinator.com/item?id=48809877</a></p>\n<p>Points: 480</p>\n<p># Comments: 288</p>",
-    "published": "2026-07-06T20:14:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "M/PC – A Concatenative OS",
-    "link": "https://wiki.xxiivv.com/site/m_pc.html",
-    "summary": "<p>Article URL: <a href=\"https://wiki.xxiivv.com/site/m_pc.html\">https://wiki.xxiivv.com/site/m_pc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809810\">https://news.ycombinator.com/item?id=48809810</a></p>\n<p>Points: 66</p>\n<p># Comments: 10</p>",
-    "published": "2026-07-06T20:08:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Pruning RAG context down to what the answer actually needs",
-    "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-    "summary": "<p>Article URL: <a href=\"https://www.kapa.ai/blog/how-we-prune-rag-context\">https://www.kapa.ai/blog/how-we-prune-rag-context</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48809354\">https://news.ycombinator.com/item?id=48809354</a></p>\n<p>Points: 109</p>\n<p># Comments: 27</p>",
-    "published": "2026-07-06T19:28:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CoMaps – FOSS Offline Maps",
-    "link": "https://www.comaps.app/",
-    "summary": "<p>Article URL: <a href=\"https://www.comaps.app/\">https://www.comaps.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808928\">https://news.ycombinator.com/item?id=48808928</a></p>\n<p>Points: 612</p>\n<p># Comments: 135</p>",
-    "published": "2026-07-06T18:55:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Linux on the Atari Jaguar",
-    "link": "https://cakehonolulu.github.io/linux-for-jaguar/",
-    "summary": "<p>Article URL: <a href=\"https://cakehonolulu.github.io/linux-for-jaguar/\">https://cakehonolulu.github.io/linux-for-jaguar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808663\">https://news.ycombinator.com/item?id=48808663</a></p>\n<p>Points: 158</p>\n<p># Comments: 48</p>",
-    "published": "2026-07-06T18:35:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenWrt One – Open Hardware Router",
-    "link": "https://openwrt.org/toh/openwrt/one",
-    "summary": "<p>Article URL: <a href=\"https://openwrt.org/toh/openwrt/one\">https://openwrt.org/toh/openwrt/one</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808482\">https://news.ycombinator.com/item?id=48808482</a></p>\n<p>Points: 675</p>\n<p># Comments: 252</p>",
-    "published": "2026-07-06T18:23:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A global workspace in language models",
-    "link": "https://www.anthropic.com/research/global-workspace",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/global-workspace\">https://www.anthropic.com/research/global-workspace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48808002\">https://news.ycombinator.com/item?id=48808002</a></p>\n<p>Points: 390</p>\n<p># Comments: 148</p>",
-    "published": "2026-07-06T17:44:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
-    "link": "https://github.com/V4bel/Januscape",
-    "summary": "<p>Article URL: <a href=\"https://github.com/V4bel/Januscape\">https://github.com/V4bel/Januscape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48807908\">https://news.ycombinator.com/item?id=48807908</a></p>\n<p>Points: 116</p>\n<p># Comments: 46</p>",
-    "published": "2026-07-06T17:35:03",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
     "summary": "The move de-escalates a clash between the Trump administration and the company over its cutting-edge artificial intelligence systems.",
     "published": "2026-06-27T00:54:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
-    "link": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
-    "summary": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
-    "published": "2026-06-26T22:41:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
-    "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
-    "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
-    "published": "2026-06-26T21:03:18",
     "source": "NYT > Technology"
   }
 ]
