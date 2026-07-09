@@ -1,95 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</loc>
+    <lastmod>2026-07-09T11:03:54</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/articles/cg5pd9z2487o</loc>
+    <lastmod>2026-07-09T10:02:33</lastmod>
+  </url>
+  <url>
+    <loc>https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html</loc>
+    <lastmod>2026-07-09T09:47:28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html</loc>
+    <lastmod>2026-07-09T09:02:08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/</loc>
+    <lastmod>2026-07-09T08:22:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive</loc>
+    <lastmod>2026-07-09T07:00:43</lastmod>
+  </url>
+  <url>
+    <loc>https://dfarq.homeip.net/how-donkey-kong-toppled-atari/</loc>
+    <lastmod>2026-07-09T05:34:44</lastmod>
+  </url>
+  <url>
+    <loc>https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming</loc>
+    <lastmod>2026-07-09T05:14:45</lastmod>
+  </url>
+  <url>
+    <loc>https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02</loc>
+    <lastmod>2026-07-08T23:37:43</lastmod>
+  </url>
+  <url>
+    <loc>https://bun.com/blog/bun-in-rust</loc>
+    <lastmod>2026-07-08T21:49:59</lastmod>
+  </url>
+  <url>
+    <loc>https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase</loc>
+    <lastmod>2026-07-08T21:30:09</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/separating-signal-from-noise-coding-evaluations/</loc>
+    <lastmod>2026-07-08T21:03:51</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/linuxrebel/DocuBrowser</loc>
+    <lastmod>2026-07-08T20:37:29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</loc>
+    <lastmod>2026-07-08T19:52:51</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony</loc>
+    <lastmod>2026-07-08T19:26:18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cloudflare.com/drop/</loc>
+    <lastmod>2026-07-08T19:18:26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</loc>
+    <lastmod>2026-07-08T18:36:58</lastmod>
+  </url>
+  <url>
+    <loc>https://x.ai/news/grok-4-5</loc>
+    <lastmod>2026-07-08T18:00:32</lastmod>
+  </url>
+  <url>
+    <loc>https://microsoft.github.io/flint-chart/#/</loc>
+    <lastmod>2026-07-08T17:46:12</lastmod>
+  </url>
+  <url>
+    <loc>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</loc>
+    <lastmod>2026-07-08T16:06:35</lastmod>
+  </url>
+  <url>
+    <loc>https://www.hmans.dev/blog/chatto-is-open-source</loc>
+    <lastmod>2026-07-08T15:19:50</lastmod>
+  </url>
+  <url>
+    <loc>https://seriot.ch/computation/uts35/</loc>
+    <lastmod>2026-07-08T09:44:20</lastmod>
   </url>
   <url>
     <loc>https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/</loc>
     <lastmod>2026-07-08T08:46:06</lastmod>
   </url>
   <url>
-    <loc>https://github.com/dekart-xyz/geosql</loc>
-    <lastmod>2026-07-08T08:37:26</lastmod>
-  </url>
-  <url>
-    <loc>https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/</loc>
-    <lastmod>2026-07-08T05:25:35</lastmod>
-  </url>
-  <url>
-    <loc>https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/</loc>
-    <lastmod>2026-07-08T03:59:35</lastmod>
-  </url>
-  <url>
-    <loc>https://www.digipres.org/the-floppy-guide/</loc>
-    <lastmod>2026-07-08T03:22:31</lastmod>
-  </url>
-  <url>
-    <loc>https://stats.lineageos.org</loc>
-    <lastmod>2026-07-08T01:27:39</lastmod>
-  </url>
-  <url>
-    <loc>https://chiptune-radio.alephvoid.com/</loc>
-    <lastmod>2026-07-08T00:55:19</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.cert.org/vuls/id/213560</loc>
-    <lastmod>2026-07-08T00:08:51</lastmod>
-  </url>
-  <url>
-    <loc>https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/</loc>
-    <lastmod>2026-07-07T23:57:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.gao.gov/products/gao-26-108193</loc>
-    <lastmod>2026-07-07T22:23:58</lastmod>
-  </url>
-  <url>
-    <loc>https://allaboutcookies.org/eu-mandatory-distracted-driver-system</loc>
-    <lastmod>2026-07-07T20:50:46</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html</loc>
     <lastmod>2026-07-07T19:50:55</lastmod>
   </url>
   <url>
-    <loc>https://davit.app</loc>
-    <lastmod>2026-07-07T18:44:29</lastmod>
-  </url>
-  <url>
-    <loc>https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/</loc>
-    <lastmod>2026-07-07T18:24:10</lastmod>
-  </url>
-  <url>
-    <loc>https://anthonyhobday.com/blog/20260410</loc>
-    <lastmod>2026-07-07T18:14:50</lastmod>
-  </url>
-  <url>
-    <loc>https://lv1.sh/</loc>
-    <lastmod>2026-07-07T18:08:29</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/jimparis/qr-font</loc>
-    <lastmod>2026-07-07T16:30:42</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/rowboatlabs/rowboat</loc>
-    <lastmod>2026-07-07T16:10:44</lastmod>
-  </url>
-  <url>
-    <loc>https://30papers.com/</loc>
-    <lastmod>2026-07-07T15:58:13</lastmod>
-  </url>
-  <url>
-    <loc>https://pgdog.dev/blog/why-yet-another-connection-pooler</loc>
-    <lastmod>2026-07-07T15:36:49</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</loc>
     <lastmod>2026-07-07T15:07:00</lastmod>
-  </url>
-  <url>
-    <loc>https://fightchatcontrol.eu/chat-control-overview</loc>
-    <lastmod>2026-07-07T14:23:15</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</loc>
@@ -150,17 +162,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html</loc>
     <lastmod>2026-06-30T18:43:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</loc>
-    <lastmod>2026-06-30T04:46:32</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html</loc>
-    <lastmod>2026-06-29T16:24:41</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</loc>
-    <lastmod>2026-06-27T00:54:06</lastmod>
   </url>
 </urlset>
