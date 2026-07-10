@@ -1,23 +1,191 @@
 [
   {
-    "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+    "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+    "link": "https://ec.europa.eu/commission/presscorner/home/en",
+    "summary": "<p>Article URL: <a href=\"https://ec.europa.eu/commission/presscorner/home/en\">https://ec.europa.eu/commission/presscorner/home/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48858292\">https://news.ycombinator.com/item?id=48858292</a></p>\n<p>Points: 6</p>\n<p># Comments: 4</p>",
+    "published": "2026-07-10T11:00:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
+    "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
+    "summary": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
+    "published": "2026-07-10T11:00:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "In Emacs, Everything Looks Like a Service",
+    "link": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+    "summary": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html\">http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48857230\">https://news.ycombinator.com/item?id=48857230</a></p>\n<p>Points: 44</p>\n<p># Comments: 6</p>",
+    "published": "2026-07-10T08:21:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "link": "https://nevo-project.epfl.ch/",
+    "summary": "<p>Article URL: <a href=\"https://nevo-project.epfl.ch/\">https://nevo-project.epfl.ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48856904\">https://news.ycombinator.com/item?id=48856904</a></p>\n<p>Points: 92</p>\n<p># Comments: 81</p>",
+    "published": "2026-07-10T07:39:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
+    "link": "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
+    "summary": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
+    "published": "2026-07-10T01:01:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
+    "link": "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
+    "summary": "Ms. Simo, who was Sam Altman’s second in command before taking a medical leave in April, will become a part-time adviser to the company.",
+    "published": "2026-07-10T00:38:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Parental device use and the adolescent-caregiver attachment bond",
+    "link": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full",
+    "summary": "<p>Article URL: <a href=\"https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full\">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48854247\">https://news.ycombinator.com/item?id=48854247</a></p>\n<p>Points: 137</p>\n<p># Comments: 115</p>",
+    "published": "2026-07-10T00:20:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why American ambulance rides are so expensive",
+    "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+    "summary": "<p>Article URL: <a href=\"https://davidoks.blog/p/why-american-ambulance-rides-are\">https://davidoks.blog/p/why-american-ambulance-rides-are</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48853091\">https://news.ycombinator.com/item?id=48853091</a></p>\n<p>Points: 236</p>\n<p># Comments: 320</p>",
+    "published": "2026-07-09T22:15:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says",
+    "link": "https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html",
+    "summary": "A settlement by the company with the Federal Trade Commission will allow farmers and local mechanics to make their own fixes, instead of relying on authorized dealers.",
+    "published": "2026-07-09T21:07:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Building a real-time AI tutor for 5-year-olds",
+    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "summary": "<p>Hey HN! We've spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a really hard technical challenge, this took getting the underlying architecture right.<p>Our tutor steers the UX in real-time and makes complex decisions on the fly. Doing both at conversation speed required us to replace the standard tool-use loop. We built our own tutor harness that utilizes a streaming interpreter that executes actions, while an asynchronous planner model reasons ahead of the conversation and makes calls that drive the child's learning. On top of it all, we developed a safety system that checks every turn without it causing an interruption to the activity and conversation flow.<p>Effective teaching isn't just about answering a child's  question quickly, rather making the right move at the right moment. AI is also going to be an integral part shaping how this generation of kids learn to read and think, tackling this responsibly means getting the design right.<p>Happy to answer questions and curious what you all think, critical feedback included, we've been working on this problem for a long time and love to hear from the HN community.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48852199\">https://news.ycombinator.com/item?id=48852199</a></p>\n<p>Points: 95</p>\n<p># Comments: 177</p>",
+    "published": "2026-07-09T20:51:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
+    "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+    "summary": "The new release was delayed after the U.S. government restricted the latest artificial intelligence models over cybersecurity concerns.",
+    "published": "2026-07-09T19:34:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
+    "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
+    "summary": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
+    "published": "2026-07-09T18:55:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
+    "link": "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
+    "summary": "For the first time, the company will offer a paid version of the service, a departure from its longtime philosophy of giving its A.I. away for free.",
+    "published": "2026-07-09T18:11:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+    "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+    "summary": "<p>Article URL: <a href=\"https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/\">https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849292\">https://news.ycombinator.com/item?id=48849292</a></p>\n<p>Points: 272</p>\n<p># Comments: 128</p>",
+    "published": "2026-07-09T17:17:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT-5.6",
+    "link": "https://openai.com/index/gpt-5-6/",
+    "summary": "<p><a href=\"https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf</a><p><a href=\"https://developers.openai.com/api/docs/guides/latest-model\" rel=\"nofollow\">https://developers.openai.com/api/docs/guides/latest-model</a><p><a href=\"https://x.com/levie/status/2075287443411222628\" rel=\"nofollow\">https://x.com/levie/status/2075287443411222628</a>, <a href=\"https://xcancel.com/levie/status/2075287443411222628\" rel=\"nofollow\">https://xcancel.com/levie/status/2075287443411222628</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849066\">https://news.ycombinator.com/item?id=48849066</a></p>\n<p>Points: 1334</p>\n<p># Comments: 926</p>",
+    "published": "2026-07-09T17:04:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+    "link": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer\">https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48849011\">https://news.ycombinator.com/item?id=48849011</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-09T17:00:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "link": "https://www.context.dev",
+    "summary": "<p>Hi Hacker News, I’m Yahia. I built Context.dev (<a href=\"https://www.context.dev/\">https://www.context.dev/</a>) to make it really easy to integrate web data into your products and agents.<p>Here’s a demo video: <a href=\"https://www.tella.tv/video/build-faster-with-context-dev-apis-2cgl\" rel=\"nofollow\">https://www.tella.tv/video/build-faster-with-context-dev-api...</a><p>Since it’s an API, here are the docs: <a href=\"https://docs.context.dev/quickstart\">https://docs.context.dev/quickstart</a>.<p>You can send us a URL and get back clean Markdown, rendered HTML, screenshots, extracted images, etc.. You can also send us a domain and get company or brand context: name, description, logos, colors, fonts, social links, screenshots, style information, and related metadata. For more custom use cases, you can send a URL plus a JSON Schema and ask us to extract structured data from the site into that shape. For example, you might ask for pricing plans, product categories, office locations, support links, integration partners, or anything else that is visible on the public site.<p>The goal is to give developers the output they actually want. Raw HTML is rarely the useful thing; the useful thing is usually Markdown for a model, JSON for an application, a logo for a UI, or a structured company profile for an agent.<p>Before, I worked at Amazon and Sunrun, and co-founded StockAlarm.io & essense.io, both of which were acquired. Also, I built knifegeek.io, which scraped pocket knives from across the internet and listed them easily. The project is outdated now (coming back soon) but back then it hit the frontpage of hacker news and people seemed to like it: <a href=\"https://news.ycombinator.com/item?id=34604281\">https://news.ycombinator.com/item?id=34604281</a>.<p>Just before Context.dev, I built Brand.dev. The idea was that your software product should automatically know about your customer if they sign up with a corporate email. The API pulled brand data such as logos, backdrops, name, description, industry, and more from the public web and surfaced it to your product to integrate as part of their onboarding experience. That’s worth doing because conversion rates on onboarding improve dramatically when you go from “enter all this info” to “confirm all this info” (and there was never any privacy concern all the information is public).<p>That was a nifty niche, but the more customers used it, it became obvious that “brand data” was only one slice of a larger need. People started asking for things like screenshots, structured extraction, and LLM ready data. So I expanded to Context.dev, and applied to YC (got rejected after an interview), then kept going and re-applied at which point I got in as a solo founder.<p>People use Context.dev in more ways than I can list, but here are some: keeping context up to date on customer websites for chatbots - building beautiful brand assets/ads for customers - enrichment flows using agent harnesses like eve.dev - crawling customer websites into chatbot knowledge bases - turning GitHub repos into branded docs sites - academic journal and PDF crawling. There are a ton more examples at <a href=\"https://www.context.dev/customers\">https://www.context.dev/customers</a>.<p>We know that many crawlers are not behaving like good citizens on the web, and the entire space has a bad reputation as a result. At the same time, customers are not usually trying to buy “scraping”. They are trying to make a support bot work, personalize onboarding, enrich CRM records, generate docs, monitor leads, or let an agent research a company. There are lots of legit use cases. We want to satisfy those while being respectful of everyone involved.<p>We maintain a caching layer and avoid hammering websites. Customers can configure the cache, but if we find we’re sending too many requests to a url in a certain amount of time, we step in and tone it down. Websites can opt out of our service, and we respect these requests and add them to our block list.<p>We focus on customers who want to build cool things for their users. Enriching onboarding is a popular use case. So is integrating context about their own websites (things like support bots), and building agents that can automatically reason about complex tasks involving the internet.<p>We only allow customers to use brand data to identify a specific customer on their software, you cannot use it in your own materials or to imply endorsement.<p>I'd love to hear your feedback about the product in the comments, thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847562\">https://news.ycombinator.com/item?id=48847562</a></p>\n<p>Points: 98</p>\n<p># Comments: 70</p>",
+    "published": "2026-07-09T15:28:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hy3",
+    "link": "https://hy.tencent.com/research/hy3",
+    "summary": "<p>Article URL: <a href=\"https://hy.tencent.com/research/hy3\">https://hy.tencent.com/research/hy3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847552\">https://news.ycombinator.com/item?id=48847552</a></p>\n<p>Points: 494</p>\n<p># Comments: 102</p>",
+    "published": "2026-07-09T15:27:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A possible future for Damn Interesting",
+    "link": "https://www.damninteresting.com/a-possible-future/",
+    "summary": "<p>Article URL: <a href=\"https://www.damninteresting.com/a-possible-future/\">https://www.damninteresting.com/a-possible-future/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48847511\">https://news.ycombinator.com/item?id=48847511</a></p>\n<p>Points: 291</p>\n<p># Comments: 39</p>",
+    "published": "2026-07-09T15:25:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TLS certificates for internal services done right",
+    "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
+    "summary": "<p>Article URL: <a href=\"https://tuxnet.dev/posts/tls-for-internal-services/\">https://tuxnet.dev/posts/tls-for-internal-services/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846995\">https://news.ycombinator.com/item?id=48846995</a></p>\n<p>Points: 163</p>\n<p># Comments: 115</p>",
+    "published": "2026-07-09T14:57:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "No leap second will be introduced at the end of December 2026",
+    "link": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+    "summary": "<p>Article URL: <a href=\"https://datacenter.iers.org/data/latestVersion/bulletinC.txt\">https://datacenter.iers.org/data/latestVersion/bulletinC.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846281\">https://news.ycombinator.com/item?id=48846281</a></p>\n<p>Points: 291</p>\n<p># Comments: 225</p>",
+    "published": "2026-07-09T14:16:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Muse Spark 1.1",
+    "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "summary": "<p><a href=\"https://ai.meta.com/static-resource/muse-spark-1-1-evaluation-report\" rel=\"nofollow\">https://ai.meta.com/static-resource/muse-spark-1-1-evaluatio...</a> [pdf]<p><a href=\"https://developer.meta.com/ai/resources/blog/build-with-muse-spark/\" rel=\"nofollow\">https://developer.meta.com/ai/resources/blog/build-with-muse...</a><p><a href=\"https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzYxMzQ0OCwiZXhwIjoxNzg0MjE4MjQ4LCJhcnRpY2xlSWQiOiJUSFZDVENSS1YyVTYwMCIsImJjb25uZWN0SWQiOiIwRDE5ODY5MzQ1M0Y0NUMzQkQyMjQzMUQ4NjAzMDU1QSJ9.O5sxV2QajBiyISnu5AVyVUdWWGQtozl0yeCNAbc5JJQ&amp;leadSource=uverify%20wall\" rel=\"nofollow\">https://www.bloomberg.com/news/articles/2026-07-09/meta-star...</a>, <a href=\"https://archive.is/3ccKa\" rel=\"nofollow\">https://archive.is/3ccKa</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48846184\">https://news.ycombinator.com/item?id=48846184</a></p>\n<p>Points: 382</p>\n<p># Comments: 189</p>",
+    "published": "2026-07-09T14:10:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The glass backbone: Why the Army's logistics will break in the next war",
+    "link": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+    "summary": "<p>Article URL: <a href=\"https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/\">https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845442\">https://news.ycombinator.com/item?id=48845442</a></p>\n<p>Points: 389</p>\n<p># Comments: 496</p>",
+    "published": "2026-07-09T13:24:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A road to Lisp: Why Lisp",
+    "link": "https://scotto.me/blog/2026-07-09-why-lisp/",
+    "summary": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-09-why-lisp/\">https://scotto.me/blog/2026-07-09-why-lisp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845209\">https://news.ycombinator.com/item?id=48845209</a></p>\n<p>Points: 247</p>\n<p># Comments: 190</p>",
+    "published": "2026-07-09T13:06:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: 18 Words",
+    "link": "https://18words.com/",
+    "summary": "<p>Article URL: <a href=\"https://18words.com/\">https://18words.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845049\">https://news.ycombinator.com/item?id=48845049</a></p>\n<p>Points: 1015</p>\n<p># Comments: 329</p>",
+    "published": "2026-07-09T12:48:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
+    "link": "https://news.ycombinator.com/item?id=48844517",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48844517\">https://news.ycombinator.com/item?id=48844517</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-09T12:01:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EU Parliament greenlights Chat Control 1.0",
     "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "summary": "<p>Article URL: <a href=\"https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/\">https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48843923\">https://news.ycombinator.com/item?id=48843923</a></p>\n<p>Points: 54</p>\n<p># Comments: 20</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/\">https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48843923\">https://news.ycombinator.com/item?id=48843923</a></p>\n<p>Points: 1439</p>\n<p># Comments: 691</p>",
     "published": "2026-07-09T11:03:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-    "link": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cg5pd9z2487o\">https://www.bbc.com/news/articles/cg5pd9z2487o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48843438\">https://news.ycombinator.com/item?id=48843438</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-09T10:02:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My Thoughts on the Bun Rust Rewrite",
-    "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
-    "summary": "<p>Article URL: <a href=\"https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html\">https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48843352\">https://news.ycombinator.com/item?id=48843352</a></p>\n<p>Points: 153</p>\n<p># Comments: 76</p>",
-    "published": "2026-07-09T09:47:28",
     "source": "Hacker News: Front Page"
   },
   {
@@ -28,69 +196,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-    "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-    "summary": "<p>Article URL: <a href=\"https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/\">https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48842611\">https://news.ycombinator.com/item?id=48842611</a></p>\n<p>Points: 167</p>\n<p># Comments: 130</p>",
-    "published": "2026-07-09T08:22:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive\">https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841963\">https://news.ycombinator.com/item?id=48841963</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-09T07:00:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Donkey Kong Toppled Atari",
-    "link": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
-    "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/how-donkey-kong-toppled-atari/\">https://dfarq.homeip.net/how-donkey-kong-toppled-atari/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841385\">https://news.ycombinator.com/item?id=48841385</a></p>\n<p>Points: 39</p>\n<p># Comments: 12</p>",
-    "published": "2026-07-09T05:34:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Spider venom kills varroa mites without harming honeybees",
-    "link": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-    "summary": "<p>Article URL: <a href=\"https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming\">https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48841259\">https://news.ycombinator.com/item?id=48841259</a></p>\n<p>Points: 160</p>\n<p># Comments: 66</p>",
-    "published": "2026-07-09T05:14:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\">https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48838876\">https://news.ycombinator.com/item?id=48838876</a></p>\n<p>Points: 931</p>\n<p># Comments: 176</p>",
-    "published": "2026-07-08T23:37:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rewriting Bun in Rust",
-    "link": "https://bun.com/blog/bun-in-rust",
-    "summary": "<p>Article URL: <a href=\"https://bun.com/blog/bun-in-rust\">https://bun.com/blog/bun-in-rust</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837877\">https://news.ycombinator.com/item?id=48837877</a></p>\n<p>Points: 633</p>\n<p># Comments: 371</p>",
-    "published": "2026-07-08T21:49:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-    "link": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-    "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase\">https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837696\">https://news.ycombinator.com/item?id=48837696</a></p>\n<p>Points: 108</p>\n<p># Comments: 41</p>",
-    "published": "2026-07-08T21:30:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Separating signal from noise in coding evaluations",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/separating-signal-from-noise-coding-evaluations/\">https://openai.com/index/separating-signal-from-noise-coding-evaluations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837396\">https://news.ycombinator.com/item?id=48837396</a></p>\n<p>Points: 223</p>\n<p># Comments: 81</p>",
-    "published": "2026-07-08T21:03:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Turning a pile of documents into a searchable useable knowledge base",
-    "link": "https://github.com/linuxrebel/DocuBrowser",
-    "summary": "<p>Article URL: <a href=\"https://github.com/linuxrebel/DocuBrowser\">https://github.com/linuxrebel/DocuBrowser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48837110\">https://news.ycombinator.com/item?id=48837110</a></p>\n<p>Points: 153</p>\n<p># Comments: 35</p>",
-    "published": "2026-07-08T20:37:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How to Prevent Meta From Using Your Instagram Images in A.I.",
     "link": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
     "summary": "The company’s new A.I. image generator has a surprising twist: It allows people to use images from public Instagram accounts.",
@@ -98,67 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "New Sweden: the US's long-lost 'secret' colony",
-    "link": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony\">https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836324\">https://news.ycombinator.com/item?id=48836324</a></p>\n<p>Points: 134</p>\n<p># Comments: 47</p>",
-    "published": "2026-07-08T19:26:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cloudflare Drop",
-    "link": "https://www.cloudflare.com/drop/",
-    "summary": "<p>Article URL: <a href=\"https://www.cloudflare.com/drop/\">https://www.cloudflare.com/drop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48836233\">https://news.ycombinator.com/item?id=48836233</a></p>\n<p>Points: 456</p>\n<p># Comments: 249</p>",
-    "published": "2026-07-08T19:18:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
     "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
     "summary": "Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.",
     "published": "2026-07-08T18:36:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Grok 4.5",
-    "link": "https://x.ai/news/grok-4-5",
-    "summary": "<p><a href=\"https://cursor.com/blog/grok-4-5\" rel=\"nofollow\">https://cursor.com/blog/grok-4-5</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48835111\">https://news.ycombinator.com/item?id=48835111</a></p>\n<p>Points: 670</p>\n<p># Comments: 1060</p>",
-    "published": "2026-07-08T18:00:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "link": "https://microsoft.github.io/flint-chart/#/",
-    "summary": "<p>Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability<p>We figured out it is a limitation on the language issue (not just AI capability thing) -- current visualization languages are a bit too low-level for AI agents, requiring them to explicitly make visual decisions that are supposed to be handled by a good compiler. Flint is a visualization intermediate language to address this issue, allow AI agents to solve this last-mile human-agent interaction problem. It provides a simple semantic-type based specification, and contains a layout optimization engine that can produce good-looking charts (filled with derived low-level details) from simple high-level specs. The result is also very human understandable and adaptable. Flint powers data formulator for generating visualizations (another open source project from microsoft <a href=\"https://data-formulator.ai/\" rel=\"nofollow\">https://data-formulator.ai/</a>).<p>Flint is available open source, and we built a MCP server that you can directly plug flint in your favorite agent app to play with data.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48834924\">https://news.ycombinator.com/item?id=48834924</a></p>\n<p>Points: 301</p>\n<p># Comments: 113</p>",
-    "published": "2026-07-08T17:46:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "TypeScript 7",
-    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/\">https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48833715\">https://news.ycombinator.com/item?id=48833715</a></p>\n<p>Points: 643</p>\n<p># Comments: 257</p>",
-    "published": "2026-07-08T16:06:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Chatto is now open source",
-    "link": "https://www.hmans.dev/blog/chatto-is-open-source",
-    "summary": "<p>Article URL: <a href=\"https://www.hmans.dev/blog/chatto-is-open-source\">https://www.hmans.dev/blog/chatto-is-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48833116\">https://news.ycombinator.com/item?id=48833116</a></p>\n<p>Points: 994</p>\n<p># Comments: 272</p>",
-    "published": "2026-07-08T15:19:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Unicode's transliteration rules are Turing-complete",
-    "link": "https://seriot.ch/computation/uts35/",
-    "summary": "<p>Article URL: <a href=\"https://seriot.ch/computation/uts35/\">https://seriot.ch/computation/uts35/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48829797\">https://news.ycombinator.com/item?id=48829797</a></p>\n<p>Points: 110</p>\n<p># Comments: 29</p>",
-    "published": "2026-07-08T09:44:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-    "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-    "summary": "<p>Article URL: <a href=\"https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/\">https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48829312\">https://news.ycombinator.com/item?id=48829312</a></p>\n<p>Points: 1392</p>\n<p># Comments: 219</p>",
-    "published": "2026-07-08T08:46:06",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Meta Unveils an A.I. Image Generator",
@@ -182,13 +231,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
-    "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
-    "summary": "The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.",
-    "published": "2026-07-06T16:05:26",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
     "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
     "summary": "U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years.",
@@ -207,13 +249,6 @@
     "link": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
     "summary": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million monthly users. It increasingly resembles Reddit.",
     "published": "2026-07-05T14:39:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
-    "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
-    "summary": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
-    "published": "2026-07-05T02:47:24",
     "source": "NYT > Technology"
   },
   {
@@ -242,41 +277,6 @@
     "link": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
     "summary": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.",
     "published": "2026-07-02T15:07:49",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Is a ‘Frictionless’ Society a Trap?",
-    "link": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
-    "summary": "Eliminating whatever stands between you and a task sounds nice, but it probably has more to offer companies than users.",
-    "published": "2026-07-02T09:02:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
-    "link": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
-    "summary": "Amid widespread “techlash” over addictive screens and apps, the Yoto, an audio player for children, shows there’s still a way to make money while doing something nice.",
-    "published": "2026-07-01T09:01:48",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models",
-    "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
-    "summary": "The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.",
-    "published": "2026-07-01T03:17:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "BMW Will Build a New Electric S.U.V. in South Carolina",
-    "link": "https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html",
-    "summary": "The German company is doubling down on electric vehicles even as other automakers pull back after acknowledging billions of dollars in losses.",
-    "published": "2026-06-30T21:49:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
-    "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html",
-    "summary": "Bending Spoons, an Italian company that buys aging internet companies, is going public this week at a potential value of $19 billion.",
-    "published": "2026-06-30T18:43:00",
     "source": "NYT > Technology"
   }
 ]
