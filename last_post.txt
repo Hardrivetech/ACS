@@ -1,1 +1,1 @@
-Almost $1B Later, the US Still Can't Make a Medical Glove https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves
+Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase https://github.com/cosmtrek/mindwalk
