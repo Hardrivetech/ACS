@@ -1,157 +1,178 @@
 [
   {
-    "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
-    "summary": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
-    "published": "2026-07-13T09:34:58",
+    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+    "link": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
+    "summary": "<p>Article URL: <a href=\"https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/\">https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903715\">https://news.ycombinator.com/item?id=48903715</a></p>\n<p>Points: 40</p>\n<p># Comments: 19</p>",
+    "published": "2026-07-14T08:24:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Two Case Studies of NaN",
+    "link": "https://sebsite.pw/w/20260709-nan.html",
+    "summary": "<p>Article URL: <a href=\"https://sebsite.pw/w/20260709-nan.html\">https://sebsite.pw/w/20260709-nan.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903701\">https://news.ycombinator.com/item?id=48903701</a></p>\n<p>Points: 8</p>\n<p># Comments: 5</p>",
+    "published": "2026-07-14T08:22:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Anatomy of an Instruction Pipeline Hazard",
+    "link": "https://hiraditya.github.io/posts/hardware-hazards-b200/",
+    "summary": "<p>Article URL: <a href=\"https://hiraditya.github.io/posts/hardware-hazards-b200/\">https://hiraditya.github.io/posts/hardware-hazards-b200/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903190\">https://news.ycombinator.com/item?id=48903190</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-14T07:06:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cg53l737v1qo\">https://www.bbc.com/news/articles/cg53l737v1qo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48903082\">https://news.ycombinator.com/item?id=48903082</a></p>\n<p>Points: 52</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-14T06:43:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Just Let Me Write Digits",
+    "link": "https://gendx.dev/blog/2026/07/13/input-digits.html",
+    "summary": "<p>Article URL: <a href=\"https://gendx.dev/blog/2026/07/13/input-digits.html\">https://gendx.dev/blog/2026/07/13/input-digits.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902791\">https://news.ycombinator.com/item?id=48902791</a></p>\n<p>Points: 32</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-14T05:57:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "summary": "<p>Article URL: <a href=\"https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/\">https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902320\">https://news.ycombinator.com/item?id=48902320</a></p>\n<p>Points: 108</p>\n<p># Comments: 153</p>",
+    "published": "2026-07-14T04:31:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "YouTrackDB is a general-use object-oriented graph database",
+    "link": "https://github.com/JetBrains/youtrackdb",
+    "summary": "<p>Article URL: <a href=\"https://github.com/JetBrains/youtrackdb\">https://github.com/JetBrains/youtrackdb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48902026\">https://news.ycombinator.com/item?id=48902026</a></p>\n<p>Points: 125</p>\n<p># Comments: 39</p>",
+    "published": "2026-07-14T03:39:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
+    "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+    "summary": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
+    "published": "2026-07-14T03:39:53",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Our Amish Language",
+    "link": "https://www.thedial.world/articles/news/amish-pennsylvania-dutch",
+    "summary": "<p>Article URL: <a href=\"https://www.thedial.world/articles/news/amish-pennsylvania-dutch\">https://www.thedial.world/articles/news/amish-pennsylvania-dutch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901645\">https://news.ycombinator.com/item?id=48901645</a></p>\n<p>Points: 53</p>\n<p># Comments: 31</p>",
+    "published": "2026-07-14T02:40:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+    "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+    "summary": "<p>Article URL: <a href=\"https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/\">https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901569\">https://news.ycombinator.com/item?id=48901569</a></p>\n<p>Points: 496</p>\n<p># Comments: 121</p>",
+    "published": "2026-07-14T02:27:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fundamentals of Wireless Communication (2005)",
+    "link": "https://web.stanford.edu/~dntse/wireless_book.html",
+    "summary": "<p>Article URL: <a href=\"https://web.stanford.edu/~dntse/wireless_book.html\">https://web.stanford.edu/~dntse/wireless_book.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901454\">https://news.ycombinator.com/item?id=48901454</a></p>\n<p>Points: 137</p>\n<p># Comments: 5</p>",
+    "published": "2026-07-14T02:10:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+    "link": "https://satellitemap.space/",
+    "summary": "<p>Article URL: <a href=\"https://satellitemap.space/\">https://satellitemap.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901356\">https://news.ycombinator.com/item?id=48901356</a></p>\n<p>Points: 94</p>\n<p># Comments: 45</p>",
+    "published": "2026-07-14T01:55:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Is x86 ready to ACE it?",
+    "link": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
+    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/is-x86-ready-to-ace-it\">https://chipsandcheese.com/p/is-x86-ready-to-ace-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901235\">https://news.ycombinator.com/item?id=48901235</a></p>\n<p>Points: 80</p>\n<p># Comments: 14</p>",
+    "published": "2026-07-14T01:36:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Economics of Recursive Self-Improvement [pdf]",
+    "link": "https://elasticity.institute/rsi-paper.pdf",
+    "summary": "<p>Article URL: <a href=\"https://elasticity.institute/rsi-paper.pdf\">https://elasticity.institute/rsi-paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901224\">https://news.ycombinator.com/item?id=48901224</a></p>\n<p>Points: 98</p>\n<p># Comments: 37</p>",
+    "published": "2026-07-14T01:35:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MorphoHDL: A minimalistic language for growing circuits",
+    "link": "https://paradigms-of-intelligence.github.io/morpho/",
+    "summary": "<p>Article URL: <a href=\"https://paradigms-of-intelligence.github.io/morpho/\">https://paradigms-of-intelligence.github.io/morpho/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901126\">https://news.ycombinator.com/item?id=48901126</a></p>\n<p>Points: 74</p>\n<p># Comments: 8</p>",
+    "published": "2026-07-14T01:17:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The git history command",
+    "link": "https://lalitm.com/post/git-history/",
+    "summary": "<p>Article URL: <a href=\"https://lalitm.com/post/git-history/\">https://lalitm.com/post/git-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48901010\">https://news.ycombinator.com/item?id=48901010</a></p>\n<p>Points: 313</p>\n<p># Comments: 176</p>",
+    "published": "2026-07-14T00:57:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+    "link": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+    "summary": "<p>Article URL: <a href=\"https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers\">https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48900432\">https://news.ycombinator.com/item?id=48900432</a></p>\n<p>Points: 63</p>\n<p># Comments: 70</p>",
+    "published": "2026-07-13T23:39:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An Englishwoman who sketched India before photography took hold",
+    "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm2drrv6q54o\">https://www.bbc.com/news/articles/cm2drrv6q54o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48900191\">https://news.ycombinator.com/item?id=48900191</a></p>\n<p>Points: 157</p>\n<p># Comments: 48</p>",
+    "published": "2026-07-13T23:12:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+    "link": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7\">https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898814\">https://news.ycombinator.com/item?id=48898814</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-13T21:01:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+    "link": "https://github.com/Poseidon-fan/linux-0.11-rs",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Poseidon-fan/linux-0.11-rs\">https://github.com/Poseidon-fan/linux-0.11-rs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48898134\">https://news.ycombinator.com/item?id=48898134</a></p>\n<p>Points: 107</p>\n<p># Comments: 93</p>",
+    "published": "2026-07-13T20:11:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+    "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+    "summary": "<p>Article URL: <a href=\"https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php\">https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48897104\">https://news.ycombinator.com/item?id=48897104</a></p>\n<p>Points: 173</p>\n<p># Comments: 299</p>",
+    "published": "2026-07-13T18:53:53",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "The eBay Scandal Gets a Thriller-Like Documentary",
     "link": "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
     "summary": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
-    "published": "2026-07-13T09:01:41",
+    "published": "2026-07-13T18:07:52",
     "source": "NYT > Technology"
   },
   {
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-    "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "summary": "<p>Article URL: <a href=\"https://raymyers.org/post/zed-creator-calls-spade-a-spade/\">https://raymyers.org/post/zed-creator-calls-spade-a-spade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889637\">https://news.ycombinator.com/item?id=48889637</a></p>\n<p>Points: 430</p>\n<p># Comments: 196</p>",
-    "published": "2026-07-13T08:39:39",
-    "source": "Hacker News: Front Page"
+    "title": "How a Teacher Revived Backyard Baseball",
+    "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+    "summary": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
+    "published": "2026-07-13T16:28:38",
+    "source": "NYT > Technology"
   },
   {
-    "title": "Berkshire's $397B Bet Against an Overheated Market",
-    "link": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-    "summary": "<p>Article URL: <a href=\"https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/\">https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889429\">https://news.ycombinator.com/item?id=48889429</a></p>\n<p>Points: 64</p>\n<p># Comments: 56</p>",
-    "published": "2026-07-13T08:15:52",
-    "source": "Hacker News: Front Page"
+    "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
+    "link": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
+    "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
+    "published": "2026-07-13T15:00:31",
+    "source": "NYT > Technology"
   },
   {
-    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-    "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-    "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/\">https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889350\">https://news.ycombinator.com/item?id=48889350</a></p>\n<p>Points: 90</p>\n<p># Comments: 56</p>",
-    "published": "2026-07-13T08:04:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Quadrupling code performance with a \"useless\" if",
-    "link": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
-    "summary": "<p>Article URL: <a href=\"https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/\">https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48889148\">https://news.ycombinator.com/item?id=48889148</a></p>\n<p>Points: 76</p>\n<p># Comments: 11</p>",
-    "published": "2026-07-13T07:37:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Backtrack-Free Cursive",
-    "link": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-    "summary": "<p>Article URL: <a href=\"https://mmapped.blog/posts/52-backtrack-free-cursive\">https://mmapped.blog/posts/52-backtrack-free-cursive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888518\">https://news.ycombinator.com/item?id=48888518</a></p>\n<p>Points: 105</p>\n<p># Comments: 45</p>",
-    "published": "2026-07-13T06:08:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sam Neill has died",
-    "link": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78\">https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888468\">https://news.ycombinator.com/item?id=48888468</a></p>\n<p>Points: 213</p>\n<p># Comments: 45</p>",
-    "published": "2026-07-13T06:02:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Graph That Should Be Front-Page News",
-    "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-    "summary": "<p>Article URL: <a href=\"https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news\">https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888331\">https://news.ycombinator.com/item?id=48888331</a></p>\n<p>Points: 156</p>\n<p># Comments: 93</p>",
-    "published": "2026-07-13T05:35:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-    "link": "https://github.com/schlae/BeavisUltrasound",
-    "summary": "<p>Article URL: <a href=\"https://github.com/schlae/BeavisUltrasound\">https://github.com/schlae/BeavisUltrasound</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48888193\">https://news.ycombinator.com/item?id=48888193</a></p>\n<p>Points: 69</p>\n<p># Comments: 25</p>",
-    "published": "2026-07-13T05:15:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Add flag for AI-generated articles",
-    "link": "https://news.ycombinator.com/item?id=48886741",
-    "summary": "<p>Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48886741\">https://news.ycombinator.com/item?id=48886741</a></p>\n<p>Points: 744</p>\n<p># Comments: 330</p>",
-    "published": "2026-07-13T01:24:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Designing and assembling my first PCB",
-    "link": "https://vilkeliskis.com/b/2026/0711.html",
-    "summary": "<p>Article URL: <a href=\"https://vilkeliskis.com/b/2026/0711.html\">https://vilkeliskis.com/b/2026/0711.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885728\">https://news.ycombinator.com/item?id=48885728</a></p>\n<p>Points: 126</p>\n<p># Comments: 52</p>",
-    "published": "2026-07-12T22:56:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cyberpunk Comics, Manga and Graphic Novels",
-    "link": "https://shellzine.net/cyberpunk-comics/",
-    "summary": "<p>Article URL: <a href=\"https://shellzine.net/cyberpunk-comics/\">https://shellzine.net/cyberpunk-comics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48885643\">https://news.ycombinator.com/item?id=48885643</a></p>\n<p>Points: 211</p>\n<p># Comments: 70</p>",
-    "published": "2026-07-12T22:45:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-    "link": "https://kode.diy",
-    "summary": "<p>Article URL: <a href=\"https://kode.diy\">https://kode.diy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884992\">https://news.ycombinator.com/item?id=48884992</a></p>\n<p>Points: 90</p>\n<p># Comments: 23</p>",
-    "published": "2026-07-12T21:27:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: What Are You Working On? (July 2026)",
-    "link": "https://news.ycombinator.com/item?id=48884984",
-    "summary": "<p>What are you working on?  Any new ideas that you're thinking about?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884984\">https://news.ycombinator.com/item?id=48884984</a></p>\n<p>Points: 168</p>\n<p># Comments: 556</p>",
-    "published": "2026-07-12T21:26:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tiny Emulators",
-    "link": "https://floooh.github.io/tiny8bit-preview/index.html",
-    "summary": "<p>Article URL: <a href=\"https://floooh.github.io/tiny8bit-preview/index.html\">https://floooh.github.io/tiny8bit-preview/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48884395\">https://news.ycombinator.com/item?id=48884395</a></p>\n<p>Points: 275</p>\n<p># Comments: 23</p>",
-    "published": "2026-07-12T20:23:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "summary": "<p>This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).<p>With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883275\">https://news.ycombinator.com/item?id=48883275</a></p>\n<p>Points: 617</p>\n<p># Comments: 332</p>",
-    "published": "2026-07-12T18:25:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I Learned to Read Again",
-    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-    "summary": "<p>Article URL: <a href=\"https://substack.magazinenongrata.com/p/how-i-learned-to-read-again\">https://substack.magazinenongrata.com/p/how-i-learned-to-read-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48883238\">https://news.ycombinator.com/item?id=48883238</a></p>\n<p>Points: 161</p>\n<p># Comments: 62</p>",
-    "published": "2026-07-12T18:22:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "summary": "<p>Article URL: <a href=\"https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6\">https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882716\">https://news.ycombinator.com/item?id=48882716</a></p>\n<p>Points: 215</p>\n<p># Comments: 91</p>",
-    "published": "2026-07-12T17:13:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "LARP – Revenue infrastructure for serious founders",
-    "link": "https://www.larp.website/",
-    "summary": "<p>Article URL: <a href=\"https://www.larp.website/\">https://www.larp.website/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882569\">https://news.ycombinator.com/item?id=48882569</a></p>\n<p>Points: 265</p>\n<p># Comments: 51</p>",
-    "published": "2026-07-12T16:56:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to read more books",
-    "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "summary": "<p>Article URL: <a href=\"https://scotto.me/blog/2026-07-12-how-to-read-more-books/\">https://scotto.me/blog/2026-07-12-how-to-read-more-books/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48882056\">https://news.ycombinator.com/item?id=48882056</a></p>\n<p>Points: 398</p>\n<p># Comments: 210</p>",
-    "published": "2026-07-12T15:47:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How we can reduce traffic congestion",
-    "link": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-    "summary": "<p>Article URL: <a href=\"https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/\">https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48881967\">https://news.ycombinator.com/item?id=48881967</a></p>\n<p>Points: 142</p>\n<p># Comments: 216</p>",
-    "published": "2026-07-12T15:35:36",
-    "source": "Hacker News: Front Page"
+    "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
+    "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
+    "summary": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
+    "published": "2026-07-13T13:19:52",
+    "source": "NYT > Technology"
   },
   {
     "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
@@ -263,20 +284,6 @@
     "link": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html",
     "summary": "A Supreme Court ruling that presidents can fire independent regulators without cause has added volatility for industries that prefer stable enforcement.",
     "published": "2026-07-07T15:07:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
-    "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
-    "summary": "U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years.",
-    "published": "2026-07-06T16:04:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios",
-    "link": "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html",
-    "summary": "The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.",
-    "published": "2026-07-06T14:19:28",
     "source": "NYT > Technology"
   }
 ]
