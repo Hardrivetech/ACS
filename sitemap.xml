@@ -1,91 +1,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
-    <loc>https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/</loc>
-    <lastmod>2026-07-14T08:24:49</lastmod>
+    <loc>https://www.bbc.com/news/articles/cwydz60j3eno</loc>
+    <lastmod>2026-07-15T10:06:05</lastmod>
   </url>
   <url>
-    <loc>https://sebsite.pw/w/20260709-nan.html</loc>
-    <lastmod>2026-07-14T08:22:52</lastmod>
+    <loc>https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html</loc>
+    <lastmod>2026-07-15T09:00:08</lastmod>
   </url>
   <url>
-    <loc>https://hiraditya.github.io/posts/hardware-hazards-b200/</loc>
-    <lastmod>2026-07-14T07:06:50</lastmod>
+    <loc>https://fortune.com/2026/07/13/us-worst-oecd-fair-pay-score/</loc>
+    <lastmod>2026-07-15T08:58:17</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/articles/cg53l737v1qo</loc>
-    <lastmod>2026-07-14T06:43:28</lastmod>
+    <loc>https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/</loc>
+    <lastmod>2026-07-15T06:38:56</lastmod>
   </url>
   <url>
-    <loc>https://gendx.dev/blog/2026/07/13/input-digits.html</loc>
-    <lastmod>2026-07-14T05:57:50</lastmod>
+    <loc>https://www.ayush.digital/blog/the-memory-heist</loc>
+    <lastmod>2026-07-15T06:28:00</lastmod>
   </url>
   <url>
-    <loc>https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/</loc>
-    <lastmod>2026-07-14T04:31:48</lastmod>
+    <loc>https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/</loc>
+    <lastmod>2026-07-15T06:02:17</lastmod>
   </url>
   <url>
-    <loc>https://github.com/JetBrains/youtrackdb</loc>
-    <lastmod>2026-07-14T03:39:55</lastmod>
+    <loc>https://fabiensanglard.net/jurrasic_park_computers/index.html</loc>
+    <lastmod>2026-07-15T02:57:47</lastmod>
+  </url>
+  <url>
+    <loc>https://tailscale.com/security-bulletins</loc>
+    <lastmod>2026-07-15T01:08:26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html</loc>
+    <lastmod>2026-07-15T00:39:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.starfleetmath.com/</loc>
+    <lastmod>2026-07-15T00:15:56</lastmod>
+  </url>
+  <url>
+    <loc>https://vpd.ca/</loc>
+    <lastmod>2026-07-15T00:15:53</lastmod>
+  </url>
+  <url>
+    <loc>https://www.benjamin-bai.com/projects/lemario</loc>
+    <lastmod>2026-07-14T22:30:47</lastmod>
+  </url>
+  <url>
+    <loc>https://xeiaso.net/notes/2026/check-your-smart-tv/</loc>
+    <lastmod>2026-07-14T22:00:41</lastmod>
+  </url>
+  <url>
+    <loc>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</loc>
+    <lastmod>2026-07-14T21:32:22</lastmod>
+  </url>
+  <url>
+    <loc>https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/</loc>
+    <lastmod>2026-07-14T21:15:51</lastmod>
+  </url>
+  <url>
+    <loc>https://www.alexedwards.net/blog/how-i-use-htmx-with-go</loc>
+    <lastmod>2026-07-14T19:55:31</lastmod>
+  </url>
+  <url>
+    <loc>https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left</loc>
+    <lastmod>2026-07-14T17:58:35</lastmod>
+  </url>
+  <url>
+    <loc>https://prismml.com/news/bonsai-27b</loc>
+    <lastmod>2026-07-14T17:50:48</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security</loc>
+    <lastmod>2026-07-14T17:00:17</lastmod>
+  </url>
+  <url>
+    <loc>https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</loc>
+    <lastmod>2026-07-14T16:57:54</lastmod>
+  </url>
+  <url>
+    <loc>https://agnost.ai</loc>
+    <lastmod>2026-07-14T16:06:18</lastmod>
+  </url>
+  <url>
+    <loc>https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</loc>
+    <lastmod>2026-07-14T15:20:36</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html</loc>
-    <lastmod>2026-07-14T03:39:53</lastmod>
+    <lastmod>2026-07-14T14:17:54</lastmod>
   </url>
   <url>
-    <loc>https://www.thedial.world/articles/news/amish-pennsylvania-dutch</loc>
-    <lastmod>2026-07-14T02:40:41</lastmod>
-  </url>
-  <url>
-    <loc>https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/</loc>
-    <lastmod>2026-07-14T02:27:20</lastmod>
-  </url>
-  <url>
-    <loc>https://web.stanford.edu/~dntse/wireless_book.html</loc>
-    <lastmod>2026-07-14T02:10:19</lastmod>
-  </url>
-  <url>
-    <loc>https://satellitemap.space/</loc>
-    <lastmod>2026-07-14T01:55:24</lastmod>
-  </url>
-  <url>
-    <loc>https://chipsandcheese.com/p/is-x86-ready-to-ace-it</loc>
-    <lastmod>2026-07-14T01:36:13</lastmod>
-  </url>
-  <url>
-    <loc>https://elasticity.institute/rsi-paper.pdf</loc>
-    <lastmod>2026-07-14T01:35:23</lastmod>
-  </url>
-  <url>
-    <loc>https://paradigms-of-intelligence.github.io/morpho/</loc>
-    <lastmod>2026-07-14T01:17:30</lastmod>
-  </url>
-  <url>
-    <loc>https://lalitm.com/post/git-history/</loc>
-    <lastmod>2026-07-14T00:57:11</lastmod>
-  </url>
-  <url>
-    <loc>https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers</loc>
-    <lastmod>2026-07-13T23:39:10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/cm2drrv6q54o</loc>
-    <lastmod>2026-07-13T23:12:22</lastmod>
-  </url>
-  <url>
-    <loc>https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7</loc>
-    <lastmod>2026-07-13T21:01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Poseidon-fan/linux-0.11-rs</loc>
-    <lastmod>2026-07-13T20:11:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php</loc>
-    <lastmod>2026-07-13T18:53:53</lastmod>
+    <loc>https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html</loc>
+    <lastmod>2026-07-14T13:19:11</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html</loc>
@@ -94,10 +106,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</loc>
     <lastmod>2026-07-13T16:28:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html</loc>
-    <lastmod>2026-07-13T15:00:31</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html</loc>
@@ -158,13 +166,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</loc>
     <lastmod>2026-07-08T18:36:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html</loc>
-    <lastmod>2026-07-07T19:50:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</loc>
-    <lastmod>2026-07-07T15:07:00</lastmod>
   </url>
 </urlset>
