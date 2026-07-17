@@ -1,59 +1,192 @@
 [
   {
-    "title": "Europe Finds It Hard to Break Up With American and Chinese Technology",
-    "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-    "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
-    "published": "2026-07-16T08:20:56",
+    "title": "I Owe My Life to the Commodore 64",
+    "link": "https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64",
+    "summary": "<p>Article URL: <a href=\"https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64\">https://www.goto10retro.com/p/i-owe-my-life-to-the-commodore-64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945260\">https://news.ycombinator.com/item?id=48945260</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-17T09:44:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AWS: Inaccurate Estimated Billing Data - $1.7 BILLION",
+    "link": "https://news.ycombinator.com/item?id=48945241",
+    "summary": "<p>URL already posted: https://health.aws.amazon.com/health/status<p>I've got an estimated bill for $1.7 BILLION over this month. Normal usage is < $5.<p>Obvs have created an urgent AWS support ticket. Anyone else seeing something like this?<p>Update: Reddit link: https://www.reddit.com/r/aws/comments/1uyuaw7/help_my_bill_skyrocketed_from_around_5_cents_per/</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945241\">https://news.ycombinator.com/item?id=48945241</a></p>\n<p>Points: 11</p>\n<p># Comments: 14</p>",
+    "published": "2026-07-17T09:42:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EEG shows brain can simultaneous encode two speech streams",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "summary": "<p>Article URL: <a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876\">https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943745\">https://news.ycombinator.com/item?id=48943745</a></p>\n<p>Points: 102</p>\n<p># Comments: 55</p>",
+    "published": "2026-07-17T05:51:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pebble Mega Update – July 2026",
+    "link": "https://repebble.com/blog/pebble-mega-update-july-2026",
+    "summary": "<p>Article URL: <a href=\"https://repebble.com/blog/pebble-mega-update-july-2026\">https://repebble.com/blog/pebble-mega-update-july-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943174\">https://news.ycombinator.com/item?id=48943174</a></p>\n<p>Points: 125</p>\n<p># Comments: 46</p>",
+    "published": "2026-07-17T03:53:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+    "link": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/\">https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48943142\">https://news.ycombinator.com/item?id=48943142</a></p>\n<p>Points: 134</p>\n<p># Comments: 96</p>",
+    "published": "2026-07-17T03:48:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GrapheneOS recommended for domestic abuse victims",
+    "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
+    "summary": "<p>Article URL: <a href=\"https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/\">https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48942454\">https://news.ycombinator.com/item?id=48942454</a></p>\n<p>Points: 152</p>\n<p># Comments: 119</p>",
+    "published": "2026-07-17T01:36:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The human-in-the-loop is tired",
+    "link": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "summary": "<p>Article URL: <a href=\"https://pydantic.dev/articles/the-human-in-the-loop-is-tired\">https://pydantic.dev/articles/the-human-in-the-loop-is-tired</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48942000\">https://news.ycombinator.com/item?id=48942000</a></p>\n<p>Points: 221</p>\n<p># Comments: 120</p>",
+    "published": "2026-07-17T00:21:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Little Book of Reinforcement Learning",
+    "link": "https://github.com/alxndrTL/little-book-rl/",
+    "summary": "<p>Article URL: <a href=\"https://github.com/alxndrTL/little-book-rl/\">https://github.com/alxndrTL/little-book-rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48941104\">https://news.ycombinator.com/item?id=48941104</a></p>\n<p>Points: 140</p>\n<p># Comments: 15</p>",
+    "published": "2026-07-16T22:27:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+    "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+    "summary": "<p>Article URL: <a href=\"https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin\">https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48940833\">https://news.ycombinator.com/item?id=48940833</a></p>\n<p>Points: 82</p>\n<p># Comments: 18</p>",
+    "published": "2026-07-16T22:00:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mathematics of Data Science",
+    "link": "https://arxiv.org/abs/2607.11938",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11938\">https://arxiv.org/abs/2607.11938</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939896\">https://news.ycombinator.com/item?id=48939896</a></p>\n<p>Points: 164</p>\n<p># Comments: 8</p>",
+    "published": "2026-07-16T20:38:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone",
+    "link": "https://www.science.org/doi/10.1126/science.aea9708",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.aea9708\">https://www.science.org/doi/10.1126/science.aea9708</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939742\">https://news.ycombinator.com/item?id=48939742</a></p>\n<p>Points: 111</p>\n<p># Comments: 33</p>",
+    "published": "2026-07-16T20:24:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "summary": "<p>Article URL: <a href=\"https://lmstudio.ai/blog/introducing-lm-studio-bionic\">https://lmstudio.ai/blog/introducing-lm-studio-bionic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939662\">https://news.ycombinator.com/item?id=48939662</a></p>\n<p>Points: 255</p>\n<p># Comments: 90</p>",
+    "published": "2026-07-16T20:18:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "summary": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6\">https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48939524\">https://news.ycombinator.com/item?id=48939524</a></p>\n<p>Points: 277</p>\n<p># Comments: 376</p>",
+    "published": "2026-07-16T20:03:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
+    "link": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
+    "summary": "A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.",
+    "published": "2026-07-16T19:18:36",
     "source": "NYT > Technology"
   },
   {
-    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-    "link": "https://joinedanthropic.com",
-    "summary": "<p>Article URL: <a href=\"https://joinedanthropic.com\">https://joinedanthropic.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48931588\">https://news.ycombinator.com/item?id=48931588</a></p>\n<p>Points: 46</p>\n<p># Comments: 13</p>",
-    "published": "2026-07-16T08:03:35",
+    "title": "CD sales growth outpaced vinyl in the first half of 2026",
+    "link": "https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/",
+    "summary": "<p>Article URL: <a href=\"https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/\">https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937398\">https://news.ycombinator.com/item?id=48937398</a></p>\n<p>Points: 115</p>\n<p># Comments: 122</p>",
+    "published": "2026-07-16T17:19:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Netstrings (1997)",
-    "link": "https://cr.yp.to/proto/netstrings.txt",
-    "summary": "<p>Article URL: <a href=\"https://cr.yp.to/proto/netstrings.txt\">https://cr.yp.to/proto/netstrings.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930713\">https://news.ycombinator.com/item?id=48930713</a></p>\n<p>Points: 22</p>\n<p># Comments: 10</p>",
-    "published": "2026-07-16T05:33:50",
+    "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.",
+    "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+    "summary": "Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?",
+    "published": "2026-07-16T17:12:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes",
+    "link": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
+    "summary": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
+    "published": "2026-07-16T17:06:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Adaptional (YC S25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/adaptional/jobs",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/adaptional/jobs\">https://www.ycombinator.com/companies/adaptional/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48937125\">https://news.ycombinator.com/item?id=48937125</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-16T17:00:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The lost joy of music piracy",
-    "link": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-    "summary": "<p>Article URL: <a href=\"https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming\">https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930454\">https://news.ycombinator.com/item?id=48930454</a></p>\n<p>Points: 369</p>\n<p># Comments: 219</p>",
-    "published": "2026-07-16T04:46:21",
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "summary": "<p>Article URL: <a href=\"https://blog.lyc8503.net/en/post/llm-classifier/\">https://blog.lyc8503.net/en/post/llm-classifier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936880\">https://news.ycombinator.com/item?id=48936880</a></p>\n<p>Points: 203</p>\n<p># Comments: 144</p>",
+    "published": "2026-07-16T16:41:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Reynard: A real Firefox web browser for iOS 13 or later",
-    "link": "https://github.com/minh-ton/reynard-browser",
-    "summary": "<p>Article URL: <a href=\"https://github.com/minh-ton/reynard-browser\">https://github.com/minh-ton/reynard-browser</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930397\">https://news.ycombinator.com/item?id=48930397</a></p>\n<p>Points: 59</p>\n<p># Comments: 15</p>",
-    "published": "2026-07-16T04:36:07",
+    "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
+    "link": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
+    "summary": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
+    "published": "2026-07-16T16:38:39",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Decoy Font",
+    "link": "https://www.mixfont.com/experiments/decoy-font",
+    "summary": "<p>Article URL: <a href=\"https://www.mixfont.com/experiments/decoy-font\">https://www.mixfont.com/experiments/decoy-font</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936584\">https://news.ycombinator.com/item?id=48936584</a></p>\n<p>Points: 562</p>\n<p># Comments: 131</p>",
+    "published": "2026-07-16T16:18:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "If you want to create a button from scratch, you must first create the universe",
-    "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-    "summary": "<p>Article URL: <a href=\"https://madcampos.dev/blog/2026/07/accessibility-from-scratch/\">https://madcampos.dev/blog/2026/07/accessibility-from-scratch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930136\">https://news.ycombinator.com/item?id=48930136</a></p>\n<p>Points: 149</p>\n<p># Comments: 70</p>",
-    "published": "2026-07-16T03:48:43",
+    "title": "NotebookLM is now Gemini Notebook",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/\">https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936451\">https://news.ycombinator.com/item?id=48936451</a></p>\n<p>Points: 310</p>\n<p># Comments: 157</p>",
+    "published": "2026-07-16T16:08:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Making 768 servers look like 1",
-    "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
-    "summary": "<p>Article URL: <a href=\"https://planetscale.com/blog/making-768-servers-look-like-1\">https://planetscale.com/blog/making-768-servers-look-like-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48930075\">https://news.ycombinator.com/item?id=48930075</a></p>\n<p>Points: 86</p>\n<p># Comments: 17</p>",
-    "published": "2026-07-16T03:36:42",
+    "title": "Microsoft Comic Chat is now open source",
+    "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+    "summary": "<p>Article URL: <a href=\"https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/\">https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48936426\">https://news.ycombinator.com/item?id=48936426</a></p>\n<p>Points: 685</p>\n<p># Comments: 153</p>",
+    "published": "2026-07-16T16:06:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
-    "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
-    "summary": "<p>Article URL: <a href=\"https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html\">https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929945\">https://news.ycombinator.com/item?id=48929945</a></p>\n<p>Points: 110</p>\n<p># Comments: 17</p>",
-    "published": "2026-07-16T03:12:47",
+    "title": "Immersive Linear Algebra Book with Interactive Figures (2015)",
+    "link": "https://immersivemath.com/ila/",
+    "summary": "<p>Article URL: <a href=\"https://immersivemath.com/ila/\">https://immersivemath.com/ila/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48935951\">https://news.ycombinator.com/item?id=48935951</a></p>\n<p>Points: 229</p>\n<p># Comments: 27</p>",
+    "published": "2026-07-16T15:32:23",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
+    "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+    "summary": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
+    "published": "2026-07-16T13:56:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
+    "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
+    "summary": "The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.",
+    "published": "2026-07-16T13:53:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
+    "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+    "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+    "published": "2026-07-16T13:24:23",
+    "source": "NYT > Technology"
   },
   {
     "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
@@ -63,109 +196,18 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-    "link": "https://arxiv.org/abs/2607.11859",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.11859\">https://arxiv.org/abs/2607.11859</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929660\">https://news.ycombinator.com/item?id=48929660</a></p>\n<p>Points: 59</p>\n<p># Comments: 15</p>",
-    "published": "2026-07-16T02:17:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-    "link": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-    "summary": "<p>Article URL: <a href=\"https://pmbanugo.me/blog/why-async-await-complect-concurrency\">https://pmbanugo.me/blog/why-async-await-complect-concurrency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929587\">https://news.ycombinator.com/item?id=48929587</a></p>\n<p>Points: 71</p>\n<p># Comments: 43</p>",
-    "published": "2026-07-16T02:06:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes",
-    "link": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
-    "summary": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
-    "published": "2026-07-16T01:42:13",
+    "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+    "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+    "summary": "After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.",
+    "published": "2026-07-15T20:12:53",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Bluesky Trademarks ATProto",
-    "link": "https://atproto.com/blog/at-protocol-trademark",
-    "summary": "<p>Article URL: <a href=\"https://atproto.com/blog/at-protocol-trademark\">https://atproto.com/blog/at-protocol-trademark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48929351\">https://news.ycombinator.com/item?id=48929351</a></p>\n<p>Points: 109</p>\n<p># Comments: 50</p>",
-    "published": "2026-07-16T01:21:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-    "link": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-    "summary": "<p>Article URL: <a href=\"https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\">https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928313\">https://news.ycombinator.com/item?id=48928313</a></p>\n<p>Points: 57</p>\n<p># Comments: 13</p>",
-    "published": "2026-07-15T23:00:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SQLite should have (Rust-style) editions",
-    "link": "https://mort.coffee/home/sqlite-editions/",
-    "summary": "<p>Article URL: <a href=\"https://mort.coffee/home/sqlite-editions/\">https://mort.coffee/home/sqlite-editions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48928135\">https://news.ycombinator.com/item?id=48928135</a></p>\n<p>Points: 282</p>\n<p># Comments: 125</p>",
-    "published": "2026-07-15T22:42:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "LLM Networking with MikroTik",
-    "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "summary": "<p>Article URL: <a href=\"https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html\">https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927915\">https://news.ycombinator.com/item?id=48927915</a></p>\n<p>Points: 91</p>\n<p># Comments: 42</p>",
-    "published": "2026-07-15T22:23:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-    "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "summary": "<p>Article URL: <a href=\"https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf\">https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48927095\">https://news.ycombinator.com/item?id=48927095</a></p>\n<p>Points: 206</p>\n<p># Comments: 75</p>",
-    "published": "2026-07-15T21:16:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Grok Build is open source",
-    "link": "https://github.com/xai-org/grok-build",
-    "summary": "<p>Article URL: <a href=\"https://github.com/xai-org/grok-build\">https://github.com/xai-org/grok-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48926590\">https://news.ycombinator.com/item?id=48926590</a></p>\n<p>Points: 467</p>\n<p># Comments: 508</p>",
-    "published": "2026-07-15T20:24:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Duskers, the scary command line game, is getting a sequel",
-    "link": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
-    "summary": "<p>Article URL: <a href=\"https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20\">https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48925888\">https://news.ycombinator.com/item?id=48925888</a></p>\n<p>Points: 130</p>\n<p># Comments: 39</p>",
-    "published": "2026-07-15T19:27:59",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
     "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
     "summary": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
-    "published": "2026-07-15T18:58:16",
+    "published": "2026-07-15T18:58:17",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Inkling: Our Open-Weights Model",
-    "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "summary": "<p>Article URL: <a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">https://thinkingmachines.ai/news/introducing-inkling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48924912\">https://news.ycombinator.com/item?id=48924912</a></p>\n<p>Points: 1003</p>\n<p># Comments: 253</p>",
-    "published": "2026-07-15T18:12:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Artie (YC S23) Is Hiring Software Engineers",
-    "link": "https://jobs.ashbyhq.com/artie",
-    "summary": "<p>Article URL: <a href=\"https://jobs.ashbyhq.com/artie\">https://jobs.ashbyhq.com/artie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48923833\">https://news.ycombinator.com/item?id=48923833</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-15T17:01:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-    "link": "https://coasty.ai/docs",
-    "summary": "<p>Hey HN, we’re Nitish and Prateek, the founders of Coasty (<a href=\"https://coasty.ai/computer-use\">https://coasty.ai/computer-use</a>). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.<p>Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then operates the interface through screenshots, mouse, and keyboard input, verifies the result, and returns a structured run record with screenshots, actions, outputs, and errors.<p>Here is a raw demo of an agent completing a workflow in a legacy application(It’s a mockup): <a href=\"https://drive.google.com/file/d/1ZghU_3vsAYhHVz1bsvE0pkvZYk7OUnb1/view?usp=sharing\" rel=\"nofollow\">https://drive.google.com/file/d/1ZghU_3vsAYhHVz1bsvE0pkvZYk7...</a><p>A lot of important software is still difficult to automate. Healthcare teams submit prior authorizations through payer portals, accounting teams enter data into desktop applications, and operations teams move information between internal systems, spreadsheets, and remote desktops. Many of these applications have no API, incomplete APIs, or integrations that take months to build.<p>The usual alternative is RPA, record a sequence of clicks and replay it. That works when the interface and workflow are predictable, but it often breaks when a button moves, a pop-up appears, a page loads slowly, or the application enters an unexpected state.<p>Coasty takes a different approach. The agent observes the current screen, decides what action to take, executes it, and then observes the resulting state before continuing. It does not require DOM access, an accessibility tree, selectors, or an application-specific integration, so the same API can operate browsers, remote desktops, and older Windows applications.<p>A simplified request looks roughly like this:<p><pre><code>  run = coasty.runs.create(\n      environment=\"vm_123\",\n      task=\"\"\"\n      Open the patient record in the billing portal.\n      Enter the attached authorization data.\n      Do not submit if the member ID or procedure code does not match.\n      Return the confirmation number.\n      \"\"\",\n      files=[\"authorization.pdf\"],\n      approval_required=[\"final_submission\"]\n  )\n</code></pre>\nThe response includes the final status, extracted outputs, a replay URL, and a timestamped event log:<p><pre><code>  {\n    \"status\": \"completed\",\n    \"output\": {\n      \"confirmation_number\": \"PA-184392\"\n    },\n    \"replay_url\": \"...\",\n    \"events\": [\n      {\n        \"type\": \"verification\",\n        \"field\": \"member_id\",\n        \"result\": \"matched\"\n      }\n    ]\n  }\n</code></pre>\nThe API can also pause a run for human approval, retry from a checkpoint, or return control to the developer when it encounters a condition the workflow did not anticipate.<p>We started working on this last summer, because we saw that models were getting better at vision but kept seeing a gap between computer-use demos and the reliability needed for production workflows. Getting an agent to complete a task once is fairly straightforward. Getting it to repeat that task, recover from unexpected states, avoid silently entering incorrect data, and produce evidence of what it did is much harder.<p>We built several layers around the underlying computer-use model. The system tracks the expected state of the workflow, detects when the application has diverged from that state, and can re-plan instead of continuing blindly. Developers can define invariants such as “the patient name must match the source document” or “never submit without approval,” and the agent checks those conditions during the run.<p>Each run happens in an isolated virtual machine. We expose APIs for provisioning environments, uploading files, starting tasks, streaming events, inserting human approvals, and retrieving the full replay and audit trail. Environments can be kept alive across runs when the application has a long login flow or persistent local state.<p>One problem we are still working through is the tradeoff between speed and reliability. The agent can move faster by taking fewer observations and verification steps, but that becomes risky in workflows involving patient records, payments, or regulatory filings. We currently bias toward slower execution with more checks and let developers configure approval points and verification policies.<p>We are initially working with healthcare operations teams because their workflows combine many of the hardest conditions: payer portals, EHRs, PDFs, spreadsheets, remote desktops, and actions where quiet mistakes are expensive. We also expose the same infrastructure through the developer API for teams building their own agents and vertical automation products.<p>We currently charge based on agent runtime and workflow volume, with separate pricing for dedicated environments and enterprise deployments.<p>We’d especially appreciate feedback from people who have built and/or used browser agents, RPA systems, desktop automation, or agent infrastructure. We’re curious which parts of the API you would want direct control over, where you would prefer higher-level abstractions, and which failure modes have been hardest in your own automation systems.<p>If you've hit weird failure modes automating software like this, we want to hear about them. We'll be here all day answering questions and taking notes!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922706\">https://news.ycombinator.com/item?id=48922706</a></p>\n<p>Points: 37</p>\n<p># Comments: 12</p>",
-    "published": "2026-07-15T15:51:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-    "link": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-    "summary": "<p>Article URL: <a href=\"https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/\">https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48922434\">https://news.ycombinator.com/item?id=48922434</a></p>\n<p>Points: 290</p>\n<p># Comments: 188</p>",
-    "published": "2026-07-15T15:34:05",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Data Centers to Add Billions in Power Costs in 13 States",
@@ -185,7 +227,7 @@
     "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
     "link": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
     "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
-    "published": "2026-07-14T13:19:11",
+    "published": "2026-07-14T13:19:12",
     "source": "NYT > Technology"
   },
   {
@@ -224,27 +266,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-    "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
-    "summary": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
-    "published": "2026-07-10T19:48:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-    "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-    "summary": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
-    "published": "2026-07-10T18:20:39",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
-    "link": "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
-    "summary": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
-    "published": "2026-07-10T13:07:27",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
     "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
     "summary": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
@@ -256,27 +277,6 @@
     "link": "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
     "summary": "Ms. Simo, who was Sam Altman’s second in command before taking a medical leave in April, will become a part-time adviser to the company.",
     "published": "2026-07-10T00:38:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says",
-    "link": "https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html",
-    "summary": "A settlement by the company with the Federal Trade Commission will allow farmers and local mechanics to make their own fixes, instead of relying on authorized dealers.",
-    "published": "2026-07-09T21:07:27",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-    "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
-    "summary": "The new release was delayed after the U.S. government restricted the latest artificial intelligence models over cybersecurity concerns.",
-    "published": "2026-07-09T19:34:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
-    "link": "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
-    "summary": "For the first time, the company will offer a paid version of the service, a departure from its longtime philosophy of giving its A.I. away for free.",
-    "published": "2026-07-09T18:11:41",
     "source": "NYT > Technology"
   }
 ]
