@@ -1,93 +1,170 @@
 [
   {
-    "title": "Show HN: Find someone in the dark – light them or light yourself? (Three.js)",
-    "link": "https://github.com/skorotkiewicz/signal-in-the-dark",
-    "summary": "<p>Article URL: <a href=\"https://github.com/skorotkiewicz/signal-in-the-dark\">https://github.com/skorotkiewicz/signal-in-the-dark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48955740\">https://news.ycombinator.com/item?id=48955740</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-18T06:32:24",
+    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+    "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
+    "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
+    "published": "2026-07-19T09:00:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
+    "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
+    "summary": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
+    "published": "2026-07-19T09:00:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Qwen3.8 is launching and going open-weight soon",
+    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/Alibaba_Qwen/status/2078759124914098291\">https://twitter.com/Alibaba_Qwen/status/2078759124914098291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966120\">https://news.ycombinator.com/item?id=48966120</a></p>\n<p>Points: 143</p>\n<p># Comments: 63</p>",
+    "published": "2026-07-19T08:44:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: IKEA Complexity Index",
-    "link": "https://ikea.greg.technology/",
-    "summary": "<p>Article URL: <a href=\"https://ikea.greg.technology/\">https://ikea.greg.technology/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48955042\">https://news.ycombinator.com/item?id=48955042</a></p>\n<p>Points: 40</p>\n<p># Comments: 20</p>",
-    "published": "2026-07-18T03:51:42",
+    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+    "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "summary": "<p>Article URL: <a href=\"https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic\">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965886\">https://news.ycombinator.com/item?id=48965886</a></p>\n<p>Points: 21</p>\n<p># Comments: 35</p>",
+    "published": "2026-07-19T08:00:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Regressive JPEGs",
-    "link": "https://maurycyz.com/projects/bad_jpeg/",
-    "summary": "<p>Article URL: <a href=\"https://maurycyz.com/projects/bad_jpeg/\">https://maurycyz.com/projects/bad_jpeg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954851\">https://news.ycombinator.com/item?id=48954851</a></p>\n<p>Points: 348</p>\n<p># Comments: 30</p>",
-    "published": "2026-07-18T03:14:20",
+    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
+    "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\">https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965161\">https://news.ycombinator.com/item?id=48965161</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-19T05:07:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I started a “dirt notebook”",
-    "link": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-    "summary": "<p>Article URL: <a href=\"https://pinewind.bearblog.dev/i-started-a-dirt-notebook/\">https://pinewind.bearblog.dev/i-started-a-dirt-notebook/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954149\">https://news.ycombinator.com/item?id=48954149</a></p>\n<p>Points: 66</p>\n<p># Comments: 55</p>",
-    "published": "2026-07-18T01:12:13",
+    "title": "I built a browser-based P2P file transfer tool using WebRTC",
+    "link": "https://airdows.com/",
+    "summary": "<p>Article URL: <a href=\"https://airdows.com/\">https://airdows.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964424\">https://news.ycombinator.com/item?id=48964424</a></p>\n<p>Points: 24</p>\n<p># Comments: 14</p>",
+    "published": "2026-07-19T02:17:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DrDroid (YC W23) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory\">https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48954074\">https://news.ycombinator.com/item?id=48954074</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-18T01:01:08",
+    "title": "Deepsec",
+    "link": "https://github.com/vercel-labs/deepsec",
+    "summary": "<p>Article URL: <a href=\"https://github.com/vercel-labs/deepsec\">https://github.com/vercel-labs/deepsec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964215\">https://news.ycombinator.com/item?id=48964215</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
+    "published": "2026-07-19T01:33:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-    "link": "https://www.stenchill.com/en/",
-    "summary": "<p>Article URL: <a href=\"https://www.stenchill.com/en/\">https://www.stenchill.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48953981\">https://news.ycombinator.com/item?id=48953981</a></p>\n<p>Points: 57</p>\n<p># Comments: 16</p>",
-    "published": "2026-07-18T00:48:37",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "summary": "<p>Article URL: <a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964185\">https://news.ycombinator.com/item?id=48964185</a></p>\n<p>Points: 210</p>\n<p># Comments: 78</p>",
+    "published": "2026-07-19T01:29:19",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-    "link": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-    "summary": "<p>Article URL: <a href=\"https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier\">https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48953406\">https://news.ycombinator.com/item?id=48953406</a></p>\n<p>Points: 76</p>\n<p># Comments: 7</p>",
-    "published": "2026-07-17T23:26:35",
+    "title": "Better and Cheaper Than IPTV",
+    "link": "https://github.com/stupside/castor",
+    "summary": "<p>Article URL: <a href=\"https://github.com/stupside/castor\">https://github.com/stupside/castor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964015\">https://news.ycombinator.com/item?id=48964015</a></p>\n<p>Points: 199</p>\n<p># Comments: 51</p>",
+    "published": "2026-07-19T00:59:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "summary": "<p>Article URL: <a href=\"https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/\">https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952880\">https://news.ycombinator.com/item?id=48952880</a></p>\n<p>Points: 509</p>\n<p># Comments: 331</p>",
-    "published": "2026-07-17T22:26:30",
+    "title": "Transcribe.cpp",
+    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "summary": "<p>Article URL: <a href=\"https://workshop.cjpais.com/projects/transcribe-cpp\">https://workshop.cjpais.com/projects/transcribe-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963879\">https://news.ycombinator.com/item?id=48963879</a></p>\n<p>Points: 535</p>\n<p># Comments: 109</p>",
+    "published": "2026-07-19T00:38:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-    "link": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md\">https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952565\">https://news.ycombinator.com/item?id=48952565</a></p>\n<p>Points: 131</p>\n<p># Comments: 37</p>",
-    "published": "2026-07-17T21:42:43",
+    "title": "Codex Resets",
+    "link": "https://codex-resets.com/",
+    "summary": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 186</p>\n<p># Comments: 134</p>",
+    "published": "2026-07-18T23:24:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Open Book Touch: open-source e-reader",
-    "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-    "summary": "<p>Article URL: <a href=\"https://www.crowdsupply.com/oddly-specific-objects/open-book-touch\">https://www.crowdsupply.com/oddly-specific-objects/open-book-touch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952135\">https://news.ycombinator.com/item?id=48952135</a></p>\n<p>Points: 114</p>\n<p># Comments: 38</p>",
-    "published": "2026-07-17T20:47:57",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "summary": "<p>Article URL: <a href=\"https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\">https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962983\">https://news.ycombinator.com/item?id=48962983</a></p>\n<p>Points: 474</p>\n<p># Comments: 208</p>",
+    "published": "2026-07-18T22:13:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Topcoat: The full full-stack framework for Rust",
-    "link": "https://github.com/tokio-rs/topcoat",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tokio-rs/topcoat\">https://github.com/tokio-rs/topcoat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48952067\">https://news.ycombinator.com/item?id=48952067</a></p>\n<p>Points: 81</p>\n<p># Comments: 40</p>",
-    "published": "2026-07-17T20:41:43",
+    "title": "Classic Amiga titles, free to download",
+    "link": "https://amigafreeware.downer.tech/",
+    "summary": "<p>Article URL: <a href=\"https://amigafreeware.downer.tech/\">https://amigafreeware.downer.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962838\">https://news.ycombinator.com/item?id=48962838</a></p>\n<p>Points: 120</p>\n<p># Comments: 16</p>",
+    "published": "2026-07-18T21:55:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Static search trees: 40x faster than binary search (2024)",
-    "link": "https://curiouscoding.nl/posts/static-search-tree/",
-    "summary": "<p>Article URL: <a href=\"https://curiouscoding.nl/posts/static-search-tree/\">https://curiouscoding.nl/posts/static-search-tree/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951898\">https://news.ycombinator.com/item?id=48951898</a></p>\n<p>Points: 125</p>\n<p># Comments: 6</p>",
-    "published": "2026-07-17T20:24:55",
+    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+    "link": "https://www.neatnik.net/hardcore-indieweb",
+    "summary": "<p>Article URL: <a href=\"https://www.neatnik.net/hardcore-indieweb\">https://www.neatnik.net/hardcore-indieweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962758\">https://news.ycombinator.com/item?id=48962758</a></p>\n<p>Points: 167</p>\n<p># Comments: 113</p>",
+    "published": "2026-07-18T21:45:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Painting the sides of railroad rails white to reduce derailment",
-    "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-    "summary": "<p>Article URL: <a href=\"https://www.up.com/news/safety/Tracking-Rail-Heat-260608\">https://www.up.com/news/safety/Tracking-Rail-Heat-260608</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951780\">https://news.ycombinator.com/item?id=48951780</a></p>\n<p>Points: 98</p>\n<p># Comments: 50</p>",
-    "published": "2026-07-17T20:12:59",
+    "title": "The Kimi K3 Moment",
+    "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "summary": "<p>Article URL: <a href=\"https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/\">https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960218\">https://news.ycombinator.com/item?id=48960218</a></p>\n<p>Points: 409</p>\n<p># Comments: 436</p>",
+    "published": "2026-07-18T17:32:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Goodbye, and Thanks for All the Bikesheds",
+    "link": "https://queue.acm.org/detail.cfm?id=3818307",
+    "summary": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3818307\">https://queue.acm.org/detail.cfm?id=3818307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960155\">https://news.ycombinator.com/item?id=48960155</a></p>\n<p>Points: 219</p>\n<p># Comments: 211</p>",
+    "published": "2026-07-18T17:27:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+    "link": "https://ykdojo.github.io/claude-controls-mac/",
+    "summary": "<p>Article URL: <a href=\"https://ykdojo.github.io/claude-controls-mac/\">https://ykdojo.github.io/claude-controls-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959392\">https://news.ycombinator.com/item?id=48959392</a></p>\n<p>Points: 233</p>\n<p># Comments: 158</p>",
+    "published": "2026-07-18T16:12:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
+    "link": "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html",
+    "summary": "Everyone is watching the goals after they happen, and some get them significantly faster.",
+    "published": "2026-07-18T15:48:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Gleam Is Now on Tangled",
+    "link": "https://tangled.org/gleam.run/gleam",
+    "summary": "<p>Article URL: <a href=\"https://tangled.org/gleam.run/gleam\">https://tangled.org/gleam.run/gleam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959143\">https://news.ycombinator.com/item?id=48959143</a></p>\n<p>Points: 234</p>\n<p># Comments: 146</p>",
+    "published": "2026-07-18T15:44:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "If You Build It, They Will Come",
+    "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+    "summary": "<p>Article URL: <a href=\"https://www.benlandautaylor.com/p/if-you-build-it-they-will-come\">https://www.benlandautaylor.com/p/if-you-build-it-they-will-come</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959090\">https://news.ycombinator.com/item?id=48959090</a></p>\n<p>Points: 414</p>\n<p># Comments: 140</p>",
+    "published": "2026-07-18T15:37:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elixir-lang.org has a new design",
+    "link": "https://elixir-lang.org/",
+    "summary": "<p>Article URL: <a href=\"https://elixir-lang.org/\">https://elixir-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959042\">https://news.ycombinator.com/item?id=48959042</a></p>\n<p>Points: 231</p>\n<p># Comments: 129</p>",
+    "published": "2026-07-18T15:32:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
+    "link": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
+    "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
+    "published": "2026-07-18T13:24:48",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957779\">https://news.ycombinator.com/item?id=48957779</a></p>\n<p>Points: 564</p>\n<p># Comments: 361</p>",
+    "published": "2026-07-18T13:00:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+    "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "summary": "<p>Article URL: <a href=\"https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/\">https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956879\">https://news.ycombinator.com/item?id=48956879</a></p>\n<p>Points: 243</p>\n<p># Comments: 116</p>",
+    "published": "2026-07-18T11:00:29",
     "source": "Hacker News: Front Page"
   },
   {
@@ -98,66 +175,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The Zilog Z80 has turned 50",
-    "link": "https://goliath32.com/blog/z80.html",
-    "summary": "<p>Article URL: <a href=\"https://goliath32.com/blog/z80.html\">https://goliath32.com/blog/z80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48951461\">https://news.ycombinator.com/item?id=48951461</a></p>\n<p>Points: 224</p>\n<p># Comments: 82</p>",
-    "published": "2026-07-17T19:41:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-    "link": "https://app.everything.diena.co/",
-    "summary": "<p>I'm building a journal app in Kotlin Multiplatform and for this purpose I have created a zoomable timeline interface.<p>This is a side-project where I reuse the timeline interface to display 4 million events imported from Wikipedia / Wikidata, scored using PageRank. There is more information on the about page.<p>If you're interested in the stack: I use Kotlin Multiplatform extensively, with Compose Multiplatform for the UI, communicates with the backend using Kotlinx-RPC and behind the hood a simple Postgres database on a Hetzner machine.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950774\">https://news.ycombinator.com/item?id=48950774</a></p>\n<p>Points: 94</p>\n<p># Comments: 35</p>",
-    "published": "2026-07-17T18:37:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Lego building instructions through time",
-    "link": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-    "summary": "<p>Article URL: <a href=\"https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time\">https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950518\">https://news.ycombinator.com/item?id=48950518</a></p>\n<p>Points: 125</p>\n<p># Comments: 32</p>",
-    "published": "2026-07-17T18:21:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Learning a few things about running SQLite",
-    "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-    "summary": "<p>Article URL: <a href=\"https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/\">https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48950122\">https://news.ycombinator.com/item?id=48950122</a></p>\n<p>Points: 253</p>\n<p># Comments: 68</p>",
-    "published": "2026-07-17T17:45:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
     "link": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
     "summary": "A deal would underline how scarce computing power is for artificial intelligence development, and could create a new business for Meta.",
     "published": "2026-07-17T17:44:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Thanks HN for 15 years of support and helping me find my life's work",
-    "link": "https://news.ycombinator.com/item?id=48949551",
-    "summary": "<p>Tomorrow is the 15th anniversary of the first day of the Recurse Center (<a href=\"https://www.recurse.com/\" rel=\"nofollow\">https://www.recurse.com/</a>)<p>My cofounders and I did YC all the way back in the Summer of 2010, with the initial idea of building \"OkCupid for jobs.\" That idea quickly fizzled, and we spent the better part of a year pivoting between other ideas that also failed.<p>Finally, we made something that we wanted ourselves: a self-directed programming retreat, where people built fun projects, contributed to open source, and helped each other become better programmers.<p>After running two small batches, we launched on HN[1] and got an incredible reception.<p>That post on HN helped us reach beyond our personal networks and meet programmers from around the world, many of whom have since become friends. HN brought us the majority of people who came to our next few batches, and in the years since, HN has remained our #2 source of applicants (after word of mouth).<p>Alas, pg's comment[2] on HN when we launched turned out to be prescient: Running free programming retreats isn't a billion-dollar business, but it's still a worthwhile thing to do, and has positively impacted over 3,000 people so far. And 15 years on I still wake up every day excited to keep working on it.<p>So, thanks HN, for helping make the Recurse Center possible, and for helping me find my life's work.<p>[1] <a href=\"https://news.ycombinator.com/item?id=3435183\">https://news.ycombinator.com/item?id=3435183</a><p>[2] \"This sounds like a crazy plan for a startup, I realize, but this is the right sort of crazy. In fact, the way the Hackruiters think about Hacker School is a lot like the way we initially thought about YC: if it doesn't make money, it will at least have been a benevolent thing to do.\"</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48949551\">https://news.ycombinator.com/item?id=48949551</a></p>\n<p>Points: 598</p>\n<p># Comments: 62</p>",
-    "published": "2026-07-17T16:57:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The state of open source AI",
-    "link": "https://stateofopensource.ai/",
-    "summary": "<p>Article URL: <a href=\"https://stateofopensource.ai/\">https://stateofopensource.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947825\">https://news.ycombinator.com/item?id=48947825</a></p>\n<p>Points: 443</p>\n<p># Comments: 319</p>",
-    "published": "2026-07-17T14:31:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-    "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/16/kimi-k3/\">https://simonwillison.net/2026/Jul/16/kimi-k3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48947717\">https://news.ycombinator.com/item?id=48947717</a></p>\n<p>Points: 340</p>\n<p># Comments: 182</p>",
-    "published": "2026-07-17T14:21:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
-    "link": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
-    "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
-    "published": "2026-07-17T14:13:29",
     "source": "NYT > Technology"
   },
   {
@@ -210,13 +231,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
-    "link": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
-    "summary": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
-    "published": "2026-07-16T02:34:56",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
     "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
     "summary": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
     "summary": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
     "published": "2026-07-13T13:19:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-    "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-    "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
-    "published": "2026-07-11T18:00:01",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-    "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-    "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
-    "published": "2026-07-11T12:34:16",
     "source": "NYT > Technology"
   }
 ]
