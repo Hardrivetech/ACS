@@ -1,121 +1,163 @@
 [
   {
+    "title": "Airbus Takes Flight from AWS",
+    "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\">https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976682\">https://news.ycombinator.com/item?id=48976682</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
+    "published": "2026-07-20T10:12:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
+    "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+    "summary": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+    "published": "2026-07-20T09:02:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+    "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+    "summary": "<p>Article URL: <a href=\"https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/\">https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48975665\">https://news.ycombinator.com/item?id=48975665</a></p>\n<p>Points: 140</p>\n<p># Comments: 78</p>",
+    "published": "2026-07-20T08:13:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+    "link": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+    "summary": "<p>Article URL: <a href=\"https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/\">https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974476\">https://news.ycombinator.com/item?id=48974476</a></p>\n<p>Points: 113</p>\n<p># Comments: 76</p>",
+    "published": "2026-07-20T04:49:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Xiaomi-Robotics-1",
+    "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+    "summary": "<p>Article URL: <a href=\"https://robotics.xiaomi.com/xiaomi-robotics-1.html\">https://robotics.xiaomi.com/xiaomi-robotics-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974454\">https://news.ycombinator.com/item?id=48974454</a></p>\n<p>Points: 251</p>\n<p># Comments: 188</p>",
+    "published": "2026-07-20T04:45:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+    "link": "https://github.com/Saivineeth147/lora-speedrun",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Saivineeth147/lora-speedrun\">https://github.com/Saivineeth147/lora-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974325\">https://news.ycombinator.com/item?id=48974325</a></p>\n<p>Points: 94</p>\n<p># Comments: 15</p>",
+    "published": "2026-07-20T04:24:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When can a power company take your land for data center infrastructure?",
+    "link": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+    "summary": "<p>Article URL: <a href=\"https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061\">https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974292\">https://news.ycombinator.com/item?id=48974292</a></p>\n<p>Points: 114</p>\n<p># Comments: 88</p>",
+    "published": "2026-07-20T04:19:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "summary": "<p>Article URL: <a href=\"https://xcancel.com/__alpoge__/status/2079028340955197566\">https://xcancel.com/__alpoge__/status/2079028340955197566</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48973869\">https://news.ycombinator.com/item?id=48973869</a></p>\n<p>Points: 449</p>\n<p># Comments: 281</p>",
+    "published": "2026-07-20T02:51:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+    "link": "https://github.com/hgaiser/moonshine",
+    "summary": "<p>Article URL: <a href=\"https://github.com/hgaiser/moonshine\">https://github.com/hgaiser/moonshine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48972970\">https://news.ycombinator.com/item?id=48972970</a></p>\n<p>Points: 211</p>\n<p># Comments: 90</p>",
+    "published": "2026-07-20T00:16:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+    "link": "https://github.com/Pedroshakoor/grok-build-ios",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Pedroshakoor/grok-build-ios\">https://github.com/Pedroshakoor/grok-build-ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48971999\">https://news.ycombinator.com/item?id=48971999</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-19T21:51:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Orion Browser by Kagi",
+    "link": "https://orionbrowser.com/",
+    "summary": "<p>Article URL: <a href=\"https://orionbrowser.com/\">https://orionbrowser.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970894\">https://news.ycombinator.com/item?id=48970894</a></p>\n<p>Points: 217</p>\n<p># Comments: 156</p>",
+    "published": "2026-07-19T19:13:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "HomeLab #1: MikroTik as a Home Router",
+    "link": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "summary": "<p>Article URL: <a href=\"https://justsomebody.dev/blog/mikrotik-home-router\">https://justsomebody.dev/blog/mikrotik-home-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970772\">https://news.ycombinator.com/item?id=48970772</a></p>\n<p>Points: 131</p>\n<p># Comments: 104</p>",
+    "published": "2026-07-19T18:57:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "HMD Touch 4G",
+    "link": "https://www.hmd.com/en_int/hmd-touch-4g",
+    "summary": "<p>Article URL: <a href=\"https://www.hmd.com/en_int/hmd-touch-4g\">https://www.hmd.com/en_int/hmd-touch-4g</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969983\">https://news.ycombinator.com/item?id=48969983</a></p>\n<p>Points: 82</p>\n<p># Comments: 89</p>",
+    "published": "2026-07-19T17:25:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Politicians Are Trying to Change What Chatbots Say About Them",
     "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
     "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
-    "published": "2026-07-19T09:00:38",
+    "published": "2026-07-19T16:15:05",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+    "link": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "summary": "<p>Article URL: <a href=\"https://retrogamecoders.com/c64-basic-dungeon-part8/\">https://retrogamecoders.com/c64-basic-dungeon-part8/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968949\">https://news.ycombinator.com/item?id=48968949</a></p>\n<p>Points: 76</p>\n<p># Comments: 6</p>",
+    "published": "2026-07-19T15:20:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "link": "https://news.ycombinator.com/item?id=48968606",
+    "summary": "<p>I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food desert? This is an R&amp;R desert.<p>It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn't work perfectly. The system that keeps your score is particularly interesting to me. It's the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.<p>Ours was installed in 2008 and cost six figures. It's calculating ball speed and trajectory, camera-based pin detection (object detection and trig, on ICs!), runs the fouling, the animations, the pinsetting machine and ball return. Very cool stuff for its age.<p>From the business perspective, my facility only cost me $105k. To forklift-replace the score keeping system runs anywhere between $80-$120k, depending on features, vendor, and unit age. No upgrades or service contracts, mind you, and every feature and customization is a new line item. That's for a 1:1 replacement on a system installed in 2008. Incredible, given how fast the tech world moves.<p>Replacement parts cost a shocking $4000 per pair of lanes. But wait, the bowling machines themselves are 70 years old, so what's this \"advanced\" system actually doing back there? Actuating a single relay to trigger that big old machine. Everything else is strictly mechanical. Meanwhile I've got a six-figure invoice in my hand. I'm upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I've built an equivalent prototype for about $200 per lane-pair, $400 if you're fancy. ESP32 and ESPNow with an RS485 fallback, reporting to a raspberry pi lane computer that's really just redis and a state machine bolted to an ESP32 gateway for the mesh.<p>Since it's all ESP32, I've got a fistful of spare controllers in a drawer, pre-flashed or waiting to be. All common off-the-shelf hardware: microcontrollers wired to relays, optocouplers, and IR-break-beam sensors, each running slightly different firmware. Writing the firmware and protocol is the actual hard part.<p>It's an ESPNow star-topology mesh: each node emits events from its sensors and accepts commands for its controls, reporting to a gateway node connected to the raspi over UART. From there it's event streaming: RX packets get translated and tossed into redis, commands relay back out to the mesh as needed. RS485 sits underneath as a wired fallback for noisy RF environments.<p>Once the data's in redis, it's familiar middleware/React/websocket/pub-sub stuff. Any React dev can build their own UI and bowling animations. Since it all runs on commodity hardware, I can do legit anything I want as the proprietor, and I own all my data. Repairs take five minutes; I can swap the rig on a lane pair in under 10. I'd bet a house like mine could go from zero to running in an hour or two.<p>We're calling it OpenLaneLink, and I plan to open source the hardware, firmware, and software stack when it's ready. Bowling is fun, and I want to help keep it affordable for alleys like mine.\nI hate vendor lock-in. I'm not a fan of closed systems, calling support for every hiccup, or paying to \"white label\" my own equipment. Want to go Tron-themed for a night? Good luck finding a neon neumorphic theme in something bought at the turn of the century.<p>All that bugged me. Sure, bowling equipment is niche, but the open hardware and software landscape is amazing.<p>Thanks for reading! Let me know if anyone's interested in more posts about this bowling nonsense.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968606\">https://news.ycombinator.com/item?id=48968606</a></p>\n<p>Points: 2409</p>\n<p># Comments: 263</p>",
+    "published": "2026-07-19T14:41:16",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
     "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
     "summary": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
-    "published": "2026-07-19T09:00:24",
+    "published": "2026-07-19T14:07:55",
     "source": "NYT > Technology"
   },
   {
-    "title": "Qwen3.8 is launching and going open-weight soon",
-    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/Alibaba_Qwen/status/2078759124914098291\">https://twitter.com/Alibaba_Qwen/status/2078759124914098291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966120\">https://news.ycombinator.com/item?id=48966120</a></p>\n<p>Points: 143</p>\n<p># Comments: 63</p>",
-    "published": "2026-07-19T08:44:57",
+    "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg8edqq5g5o\">https://www.bbc.com/news/articles/cvg8edqq5g5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968063\">https://news.ycombinator.com/item?id=48968063</a></p>\n<p>Points: 162</p>\n<p># Comments: 126</p>",
+    "published": "2026-07-19T13:29:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-    "link": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-    "summary": "<p>Article URL: <a href=\"https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic\">https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965886\">https://news.ycombinator.com/item?id=48965886</a></p>\n<p>Points: 21</p>\n<p># Comments: 35</p>",
-    "published": "2026-07-19T08:00:24",
+    "title": "I burned all my tokens researching how to save tokens",
+    "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+    "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/custom-deep-research-pipeline/\">https://quesma.com/blog/custom-deep-research-pipeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967355\">https://news.ycombinator.com/item?id=48967355</a></p>\n<p>Points: 139</p>\n<p># Comments: 186</p>",
+    "published": "2026-07-19T12:01:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Scrying the AMD GFX1250 LLVM Tea Leaves",
-    "link": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
-    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea\">https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48965161\">https://news.ycombinator.com/item?id=48965161</a></p>\n<p>Points: 26</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-19T05:07:08",
+    "title": "Minecraft: Java Edition now uses SDL3",
+    "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+    "summary": "<p>Article URL: <a href=\"https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967256\">https://news.ycombinator.com/item?id=48967256</a></p>\n<p>Points: 326</p>\n<p># Comments: 213</p>",
+    "published": "2026-07-19T11:48:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I built a browser-based P2P file transfer tool using WebRTC",
-    "link": "https://airdows.com/",
-    "summary": "<p>Article URL: <a href=\"https://airdows.com/\">https://airdows.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964424\">https://news.ycombinator.com/item?id=48964424</a></p>\n<p>Points: 24</p>\n<p># Comments: 14</p>",
-    "published": "2026-07-19T02:17:03",
+    "title": "I joined the IndieWeb, here's what I learned",
+    "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+    "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/\">https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966984\">https://news.ycombinator.com/item?id=48966984</a></p>\n<p>Points: 214</p>\n<p># Comments: 110</p>",
+    "published": "2026-07-19T11:14:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Deepsec",
-    "link": "https://github.com/vercel-labs/deepsec",
-    "summary": "<p>Article URL: <a href=\"https://github.com/vercel-labs/deepsec\">https://github.com/vercel-labs/deepsec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964215\">https://news.ycombinator.com/item?id=48964215</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
-    "published": "2026-07-19T01:33:32",
+    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+    "summary": "<p>Article URL: <a href=\"https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\">https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966713\">https://news.ycombinator.com/item?id=48966713</a></p>\n<p>Points: 501</p>\n<p># Comments: 232</p>",
+    "published": "2026-07-19T10:34:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "summary": "<p>Article URL: <a href=\"https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3\">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964185\">https://news.ycombinator.com/item?id=48964185</a></p>\n<p>Points: 210</p>\n<p># Comments: 78</p>",
-    "published": "2026-07-19T01:29:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Better and Cheaper Than IPTV",
-    "link": "https://github.com/stupside/castor",
-    "summary": "<p>Article URL: <a href=\"https://github.com/stupside/castor\">https://github.com/stupside/castor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48964015\">https://news.ycombinator.com/item?id=48964015</a></p>\n<p>Points: 199</p>\n<p># Comments: 51</p>",
-    "published": "2026-07-19T00:59:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Transcribe.cpp",
-    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "summary": "<p>Article URL: <a href=\"https://workshop.cjpais.com/projects/transcribe-cpp\">https://workshop.cjpais.com/projects/transcribe-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963879\">https://news.ycombinator.com/item?id=48963879</a></p>\n<p>Points: 535</p>\n<p># Comments: 109</p>",
-    "published": "2026-07-19T00:38:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Codex Resets",
-    "link": "https://codex-resets.com/",
-    "summary": "<p>Article URL: <a href=\"https://codex-resets.com/\">https://codex-resets.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48963465\">https://news.ycombinator.com/item?id=48963465</a></p>\n<p>Points: 186</p>\n<p># Comments: 134</p>",
-    "published": "2026-07-18T23:24:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "summary": "<p>Article URL: <a href=\"https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\">https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962983\">https://news.ycombinator.com/item?id=48962983</a></p>\n<p>Points: 474</p>\n<p># Comments: 208</p>",
-    "published": "2026-07-18T22:13:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Classic Amiga titles, free to download",
-    "link": "https://amigafreeware.downer.tech/",
-    "summary": "<p>Article URL: <a href=\"https://amigafreeware.downer.tech/\">https://amigafreeware.downer.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962838\">https://news.ycombinator.com/item?id=48962838</a></p>\n<p>Points: 120</p>\n<p># Comments: 16</p>",
-    "published": "2026-07-18T21:55:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-    "link": "https://www.neatnik.net/hardcore-indieweb",
-    "summary": "<p>Article URL: <a href=\"https://www.neatnik.net/hardcore-indieweb\">https://www.neatnik.net/hardcore-indieweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48962758\">https://news.ycombinator.com/item?id=48962758</a></p>\n<p>Points: 167</p>\n<p># Comments: 113</p>",
-    "published": "2026-07-18T21:45:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Kimi K3 Moment",
-    "link": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-    "summary": "<p>Article URL: <a href=\"https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/\">https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960218\">https://news.ycombinator.com/item?id=48960218</a></p>\n<p>Points: 409</p>\n<p># Comments: 436</p>",
-    "published": "2026-07-18T17:32:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Goodbye, and Thanks for All the Bikesheds",
-    "link": "https://queue.acm.org/detail.cfm?id=3818307",
-    "summary": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3818307\">https://queue.acm.org/detail.cfm?id=3818307</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48960155\">https://news.ycombinator.com/item?id=48960155</a></p>\n<p>Points: 219</p>\n<p># Comments: 211</p>",
-    "published": "2026-07-18T17:27:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "link": "https://ykdojo.github.io/claude-controls-mac/",
-    "summary": "<p>Article URL: <a href=\"https://ykdojo.github.io/claude-controls-mac/\">https://ykdojo.github.io/claude-controls-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959392\">https://news.ycombinator.com/item?id=48959392</a></p>\n<p>Points: 233</p>\n<p># Comments: 158</p>",
-    "published": "2026-07-18T16:12:08",
+    "title": "Claude Code uses Bun written in Rust now",
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966569\">https://news.ycombinator.com/item?id=48966569</a></p>\n<p>Points: 541</p>\n<p># Comments: 709</p>",
+    "published": "2026-07-19T10:03:23",
     "source": "Hacker News: Front Page"
   },
   {
@@ -126,46 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Gleam Is Now on Tangled",
-    "link": "https://tangled.org/gleam.run/gleam",
-    "summary": "<p>Article URL: <a href=\"https://tangled.org/gleam.run/gleam\">https://tangled.org/gleam.run/gleam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959143\">https://news.ycombinator.com/item?id=48959143</a></p>\n<p>Points: 234</p>\n<p># Comments: 146</p>",
-    "published": "2026-07-18T15:44:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "If You Build It, They Will Come",
-    "link": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-    "summary": "<p>Article URL: <a href=\"https://www.benlandautaylor.com/p/if-you-build-it-they-will-come\">https://www.benlandautaylor.com/p/if-you-build-it-they-will-come</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959090\">https://news.ycombinator.com/item?id=48959090</a></p>\n<p>Points: 414</p>\n<p># Comments: 140</p>",
-    "published": "2026-07-18T15:37:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Elixir-lang.org has a new design",
-    "link": "https://elixir-lang.org/",
-    "summary": "<p>Article URL: <a href=\"https://elixir-lang.org/\">https://elixir-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48959042\">https://news.ycombinator.com/item?id=48959042</a></p>\n<p>Points: 231</p>\n<p># Comments: 129</p>",
-    "published": "2026-07-18T15:32:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
     "link": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
     "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
     "published": "2026-07-18T13:24:48",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-    "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\">https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957779\">https://news.ycombinator.com/item?id=48957779</a></p>\n<p>Points: 564</p>\n<p># Comments: 361</p>",
-    "published": "2026-07-18T13:00:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-    "link": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-    "summary": "<p>Article URL: <a href=\"https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/\">https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956879\">https://news.ycombinator.com/item?id=48956879</a></p>\n<p>Points: 243</p>\n<p># Comments: 116</p>",
-    "published": "2026-07-18T11:00:29",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
@@ -256,13 +263,6 @@
     "link": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
     "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
     "published": "2026-07-14T13:19:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The eBay Scandal Gets a Thriller-Like Documentary",
-    "link": "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
-    "summary": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
-    "published": "2026-07-13T18:07:52",
     "source": "NYT > Technology"
   },
   {
