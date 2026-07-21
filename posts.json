@@ -1,10 +1,171 @@
 [
   {
-    "title": "Airbus Takes Flight from AWS",
-    "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109\">https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976682\">https://news.ycombinator.com/item?id=48976682</a></p>\n<p>Points: 25</p>\n<p># Comments: 9</p>",
-    "published": "2026-07-20T10:12:22",
+    "title": "When Listening to Music Was a Team Sport",
+    "link": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
+    "summary": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
+    "published": "2026-07-21T09:01:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-3.0\">https://qwen.ai/blog?id=qwen-image-3.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989701\">https://news.ycombinator.com/item?id=48989701</a></p>\n<p>Points: 116</p>\n<p># Comments: 61</p>",
+    "published": "2026-07-21T08:44:23",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Linux kernel will support $ORIGIN, sort of",
+    "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+    "summary": "<p>Article URL: <a href=\"https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\">https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48988793\">https://news.ycombinator.com/item?id=48988793</a></p>\n<p>Points: 56</p>\n<p># Comments: 34</p>",
+    "published": "2026-07-21T06:29:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
+    "link": "https://exsitu.app/map",
+    "summary": "<p>Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american institutions and maps their collection categorised by them under Islamic art, Asian/African art, ethnological collections, Middle East, South America etc.<p>Started as my MA thesis in 2022, kept building since, mostly solo with a little funding. Fully open source, self-hosted, AGPL-3.0, Next.js + Deck.gl on the frontend, Strapi backend, Python ETL pulling from museum open-access APIs. Currently indexing over 100k artifacts from all over the world, across 8 collections (Met, V&amp;A, SMB Berlin). Recently added an md export so researchers can download provenance data for a filtered set of artifacts.<p>The infrastructure is conceptualized as an indexer, not a hoster. Even images are kept as URLs pointing to the source institutions. It's connective tissue between archives that were never designed to speak to each other, with an origin-first search UI concept. The data model is on purpose flat, to avoid encoding problematic taxonomies, and routes researchers directly to the source giving responsibility to the source institutions rather than duplicating institutional data. It indexes the relationship between origin sites and destination collections.<p>Coming from a design background, taking this project from prototype to production app has been incredibly rewarding, but honestly it’s getting a little bit overwhelming to scale alone. I would love community’s feedback on performance scaling, any code contributions, data pipelines for missing museum apis or general feedback.<p>Repo: <a href=\"https://github.com/hburakyel/ex-situ\" rel=\"nofollow\">https://github.com/hburakyel/ex-situ</a><p>Live: <a href=\"https://exsitu.app\" rel=\"nofollow\">https://exsitu.app</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48988158\">https://news.ycombinator.com/item?id=48988158</a></p>\n<p>Points: 37</p>\n<p># Comments: 22</p>",
+    "published": "2026-07-21T04:48:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Running Doom on Our Custom CPU and Going Viral",
+    "link": "https://www.armaangomes.com/blogs/doom/",
+    "summary": "<p>Article URL: <a href=\"https://www.armaangomes.com/blogs/doom/\">https://www.armaangomes.com/blogs/doom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987846\">https://news.ycombinator.com/item?id=48987846</a></p>\n<p>Points: 78</p>\n<p># Comments: 19</p>",
+    "published": "2026-07-21T03:54:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+    "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "summary": "<p>Article URL: <a href=\"https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\">https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987831\">https://news.ycombinator.com/item?id=48987831</a></p>\n<p>Points: 38</p>\n<p># Comments: 32</p>",
+    "published": "2026-07-21T03:52:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Incremental – A library for incremental computations",
+    "link": "https://github.com/janestreet/incremental",
+    "summary": "<p>Article URL: <a href=\"https://github.com/janestreet/incremental\">https://github.com/janestreet/incremental</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987822\">https://news.ycombinator.com/item?id=48987822</a></p>\n<p>Points: 219</p>\n<p># Comments: 38</p>",
+    "published": "2026-07-21T03:50:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
+    "link": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
+    "summary": "<p>Article URL: <a href=\"https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide\">https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987775\">https://news.ycombinator.com/item?id=48987775</a></p>\n<p>Points: 36</p>\n<p># Comments: 18</p>",
+    "published": "2026-07-21T03:42:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Google’s A.I. Search Is Imperiling the Open Web",
+    "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+    "summary": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
+    "published": "2026-07-21T01:50:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Jellyfin founder Andrew leaves team",
+    "link": "https://forum.jellyfin.org/t-project-leadership-changes",
+    "summary": "<p>Article URL: <a href=\"https://forum.jellyfin.org/t-project-leadership-changes\">https://forum.jellyfin.org/t-project-leadership-changes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48986091\">https://news.ycombinator.com/item?id=48986091</a></p>\n<p>Points: 256</p>\n<p># Comments: 201</p>",
+    "published": "2026-07-20T23:15:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
+    "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
+    "summary": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
+    "published": "2026-07-20T22:45:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I wrote an bash enumerator because I was sick of xargs",
+    "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+    "summary": "<p>Article URL: <a href=\"https://numerlab.org/2025/07/20/bashumerate-enumerator/\">https://numerlab.org/2025/07/20/bashumerate-enumerator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984270\">https://news.ycombinator.com/item?id=48984270</a></p>\n<p>Points: 141</p>\n<p># Comments: 112</p>",
+    "published": "2026-07-20T20:12:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+    "link": "https://vincentwoo.com/3d/grace_cathedral/",
+    "summary": "<p>Article URL: <a href=\"https://vincentwoo.com/3d/grace_cathedral/\">https://vincentwoo.com/3d/grace_cathedral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984254\">https://news.ycombinator.com/item?id=48984254</a></p>\n<p>Points: 173</p>\n<p># Comments: 43</p>",
+    "published": "2026-07-20T20:10:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+    "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+    "summary": "<p>Article URL: <a href=\"https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\">https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984231\">https://news.ycombinator.com/item?id=48984231</a></p>\n<p>Points: 114</p>\n<p># Comments: 20</p>",
+    "published": "2026-07-20T20:08:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Human mathematicians are being outcounterexampled",
+    "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+    "summary": "<p>Article URL: <a href=\"https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\">https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983382\">https://news.ycombinator.com/item?id=48983382</a></p>\n<p>Points: 356</p>\n<p># Comments: 148</p>",
+    "published": "2026-07-20T19:03:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "link": "https://blaizzy.github.io/nativ/",
+    "summary": "<p>Article URL: <a href=\"https://blaizzy.github.io/nativ/\">https://blaizzy.github.io/nativ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982681\">https://news.ycombinator.com/item?id=48982681</a></p>\n<p>Points: 285</p>\n<p># Comments: 94</p>",
+    "published": "2026-07-20T18:16:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Agent swarms and the new model economics",
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
+    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-swarm-model-economics\">https://cursor.com/blog/agent-swarm-model-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982535\">https://news.ycombinator.com/item?id=48982535</a></p>\n<p>Points: 204</p>\n<p># Comments: 91</p>",
+    "published": "2026-07-20T18:06:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kimi Work",
+    "link": "https://www.kimi.com/products/kimi-work",
+    "summary": "<p>Article URL: <a href=\"https://www.kimi.com/products/kimi-work\">https://www.kimi.com/products/kimi-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981703\">https://news.ycombinator.com/item?id=48981703</a></p>\n<p>Points: 569</p>\n<p># Comments: 240</p>",
+    "published": "2026-07-20T17:13:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jelly UI: Soft-body physics for native HTML form controls",
+    "link": "https://jelly-ui.com/",
+    "summary": "<p>Article URL: <a href=\"https://jelly-ui.com/\">https://jelly-ui.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981620\">https://news.ycombinator.com/item?id=48981620</a></p>\n<p>Points: 513</p>\n<p># Comments: 157</p>",
+    "published": "2026-07-20T17:07:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "summary": "<p>Article URL: <a href=\"https://unslop.run/blog/measuring-ai-writing-on-arxiv\">https://unslop.run/blog/measuring-ai-writing-on-arxiv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981206\">https://news.ycombinator.com/item?id=48981206</a></p>\n<p>Points: 226</p>\n<p># Comments: 155</p>",
+    "published": "2026-07-20T16:36:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "link": "https://news.ycombinator.com/item?id=48981136",
+    "summary": "<p>Hi HN, I’m Alex Southmayd, the founder of Bloomy (<a href=\"https://bloomylearning.com\">https://bloomylearning.com</a>) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).<p>How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.<p>The goal is to solve the Bloom 2-sigma problem (<a href=\"https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem</a>) with AI.<p>Short launch video: <a href=\"https://tinyurl.com/bloomylearning\" rel=\"nofollow\">https://tinyurl.com/bloomylearning</a><p>Longer product demo: <a href=\"https://youtu.be/XHvoKt6qMeo\" rel=\"nofollow\">https://youtu.be/XHvoKt6qMeo</a><p>Families access for Bloomy: <a href=\"https://bloomylearning.com/families\">https://bloomylearning.com/families</a><p>I started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.<p>Then AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.<p>Most students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learning products often feel like digital worksheets: they provide plenty of practice, but not much diagnosis or teaching. Very few have AI tutors providing the core instruction.\nBloomy starts with a diagnostic—we integrate with third-party assessments and provide our own—and creates a learning path for each student. Students work one skill at a time, receive a short lesson, practice at an adaptive difficulty, and only move forward after demonstrating at least 90% mastery. The learning path updates as the student works, based on their performance and our knowledge graph of skill prerequisites (built in collaboration with Learning Commons / Chan Zuckerberg Initiative).<p>Each skill has three stages. Base Camp teaches the concept with worked examples. Climb provides guided practice and Socratic support. Summit is an independent ten-question mastery assessment with no hints or AI assistance. Students need to achieve 90% on the Summit to advance. If they struggle too much, they’ll be routed to a different skill better suited for their level.<p>BloomyBot is not a blank chat window but rather a live, interactive, and observant digital tutor. During practice, it receives the active passage or problem, the question, the student’s attempt, an authored explanation, and relevant misconception context. It follows a scaffolded tutoring ladder: first asking what the student tried, then pointing toward the concept, suggesting a strategy, working through one step together, and only providing heavier scaffolding after the student has struggled, adapting to and learning from the student along the way. Students can interrupt it, and we’ve begun to roll out multilingual support for Spanish, French, and a few other more niche languages that customers have asked for.<p>We currently use a variety of Anthropic and OpenAI models for BloomyBot. The tutor is restricted to the current lesson, redirects unrelated questions, limits conversation length, and is unavailable during mastery assessments. The language model does not choose the curriculum or decide whether a student has mastered a skill.<p>That separation is important. A conventionally “helpful” AI response can be a bad tutoring response: if it gives away the answer, the student completes the task but may not learn anything. Our goal is not to build a homework-answering chatbot. It is to put AI inside a structured loop of diagnosis, instruction, practice, feedback, and independent mastery.<p>LLMs can still be wrong, and we do not claim our constraints eliminate that. We reduce the surface area by grounding BloomyBot in authored lesson content, keeping it on topic, logging conversations, and removing it from assessments. Teachers and parents can review tutoring activity, students can report problems, and safety signals trigger human alerts and a backup audit.\nWe also do not see Bloomy as a replacement for teachers, parents, or human tutors. A good human tutor is better. The narrower question we are testing is whether, during a bounded learning session a student would already be doing, a context-aware tutor can provide better help than static “correct/incorrect” feedback. Longer term, the question becomes more whether a student would perform better with one-on-one AI tutoring (at least in certain aspects of the curriculum) than with many-to-one instruction in a medium- or large-sized classroom.<p>Bloomy is now being used across several settings: traditional districts, charter schools, hybrid schools, microschools, homeschools, and families looking for additional academic support. In an early pilot at a charter school in Massachusetts serving ~150 students in grades 6 through 8, students averaged roughly 1.8 times the expected winter-to-spring NWEA MAP growth. This was an observational pilot, not a randomized study, so we treat it as an encouraging signal rather than proof that Bloomy caused the difference.<p>Parents and teachers can see what a student has mastered, what is in progress, and where support may be needed. We have found that adults generally do not want another generic score; they want to know which small number of skills deserve attention this week.<p>Bloomy makes money through family subscriptions and school licensing. ELA costs $39/month or $279/year per learner, and Writing Studio costs $19/month or $139/year. Math is scheduled to launch July 31 at the same price as ELA. Schools and microschools pay per student, with pricing varying by subject coverage, enrollment, rostering, and implementation needs.<p>Because children use Bloomy, we collect learning responses, progress data, and tutoring conversations. We do not sell personal information, use child data for behavioral advertising, or permit model providers to train general-purpose models on identifiable child data sent by Bloomy. We have Zero Data Retention agreements with both Anthropic and OpenAI. Parents and schools can request access, export, correction, or deletion under the applicable account or school agreement.<p>More background on me: after Teach For America, I taught and designed GMAT and GRE curriculum for Manhattan Prep / Kaplan, led the driver acquisition team for Lyft’s New England markets, completed an MBA at Stanford, and led AI transformation projects at McKinsey (so when models finally became good enough this past January to achieve the kinds of things I am pursuing with Bloomy, I was in the right place at the right time to begin building). Bloomy brings together the different parts of my career that I care most about: educational outcomes, learning design, building products, and getting useful technology into people’s hands.<p>I’d especially value feedback from parents, teachers, engineers working on child-facing AI, and people who have built tutoring, assessment, or adaptive-learning systems. Does the separation between guided AI help and independent mastery make sense? Where do you see the greatest potential with AI in education? Where are our safeguards insufficient? What evidence or product behavior would you need to trust something like this with a student?<p>Certainly there are many dangers and pitfalls we must beware of, too, but I believe we can really move the needle in K-12 (for the first time in a long time) if we use AI responsibly and intelligently.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981136\">https://news.ycombinator.com/item?id=48981136</a></p>\n<p>Points: 89</p>\n<p># Comments: 89</p>",
+    "published": "2026-07-20T16:32:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I Stopped “Creating Content”",
+    "link": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+    "summary": "<p>Article URL: <a href=\"https://refactoringenglish.com/blog/why-i-stopped-creating-content/\">https://refactoringenglish.com/blog/why-i-stopped-creating-content/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980520\">https://news.ycombinator.com/item?id=48980520</a></p>\n<p>Points: 184</p>\n<p># Comments: 149</p>",
+    "published": "2026-07-20T15:47:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "China’s open-weights AI strategy is winning",
+    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "summary": "<p>Article URL: <a href=\"https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/\">https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979269\">https://news.ycombinator.com/item?id=48979269</a></p>\n<p>Points: 1119</p>\n<p># Comments: 843</p>",
+    "published": "2026-07-20T14:21:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
+    "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
+    "summary": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
+    "published": "2026-07-20T14:02:31",
+    "source": "NYT > Technology"
   },
   {
     "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
@@ -14,83 +175,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-    "link": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "summary": "<p>Article URL: <a href=\"https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/\">https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48975665\">https://news.ycombinator.com/item?id=48975665</a></p>\n<p>Points: 140</p>\n<p># Comments: 78</p>",
-    "published": "2026-07-20T08:13:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-    "link": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-    "summary": "<p>Article URL: <a href=\"https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/\">https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974476\">https://news.ycombinator.com/item?id=48974476</a></p>\n<p>Points: 113</p>\n<p># Comments: 76</p>",
-    "published": "2026-07-20T04:49:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Xiaomi-Robotics-1",
-    "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
-    "summary": "<p>Article URL: <a href=\"https://robotics.xiaomi.com/xiaomi-robotics-1.html\">https://robotics.xiaomi.com/xiaomi-robotics-1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974454\">https://news.ycombinator.com/item?id=48974454</a></p>\n<p>Points: 251</p>\n<p># Comments: 188</p>",
-    "published": "2026-07-20T04:45:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
-    "link": "https://github.com/Saivineeth147/lora-speedrun",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Saivineeth147/lora-speedrun\">https://github.com/Saivineeth147/lora-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974325\">https://news.ycombinator.com/item?id=48974325</a></p>\n<p>Points: 94</p>\n<p># Comments: 15</p>",
-    "published": "2026-07-20T04:24:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "When can a power company take your land for data center infrastructure?",
-    "link": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
-    "summary": "<p>Article URL: <a href=\"https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061\">https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48974292\">https://news.ycombinator.com/item?id=48974292</a></p>\n<p>Points: 114</p>\n<p># Comments: 88</p>",
-    "published": "2026-07-20T04:19:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "summary": "<p>Article URL: <a href=\"https://xcancel.com/__alpoge__/status/2079028340955197566\">https://xcancel.com/__alpoge__/status/2079028340955197566</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48973869\">https://news.ycombinator.com/item?id=48973869</a></p>\n<p>Points: 449</p>\n<p># Comments: 281</p>",
-    "published": "2026-07-20T02:51:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-    "link": "https://github.com/hgaiser/moonshine",
-    "summary": "<p>Article URL: <a href=\"https://github.com/hgaiser/moonshine\">https://github.com/hgaiser/moonshine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48972970\">https://news.ycombinator.com/item?id=48972970</a></p>\n<p>Points: 211</p>\n<p># Comments: 90</p>",
-    "published": "2026-07-20T00:16:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
-    "link": "https://github.com/Pedroshakoor/grok-build-ios",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Pedroshakoor/grok-build-ios\">https://github.com/Pedroshakoor/grok-build-ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48971999\">https://news.ycombinator.com/item?id=48971999</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-19T21:51:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Orion Browser by Kagi",
-    "link": "https://orionbrowser.com/",
-    "summary": "<p>Article URL: <a href=\"https://orionbrowser.com/\">https://orionbrowser.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970894\">https://news.ycombinator.com/item?id=48970894</a></p>\n<p>Points: 217</p>\n<p># Comments: 156</p>",
-    "published": "2026-07-19T19:13:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "HomeLab #1: MikroTik as a Home Router",
-    "link": "https://justsomebody.dev/blog/mikrotik-home-router",
-    "summary": "<p>Article URL: <a href=\"https://justsomebody.dev/blog/mikrotik-home-router\">https://justsomebody.dev/blog/mikrotik-home-router</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48970772\">https://news.ycombinator.com/item?id=48970772</a></p>\n<p>Points: 131</p>\n<p># Comments: 104</p>",
-    "published": "2026-07-19T18:57:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "HMD Touch 4G",
-    "link": "https://www.hmd.com/en_int/hmd-touch-4g",
-    "summary": "<p>Article URL: <a href=\"https://www.hmd.com/en_int/hmd-touch-4g\">https://www.hmd.com/en_int/hmd-touch-4g</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48969983\">https://news.ycombinator.com/item?id=48969983</a></p>\n<p>Points: 82</p>\n<p># Comments: 89</p>",
-    "published": "2026-07-19T17:25:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Politicians Are Trying to Change What Chatbots Say About Them",
     "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
     "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
@@ -98,67 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
-    "link": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
-    "summary": "<p>Article URL: <a href=\"https://retrogamecoders.com/c64-basic-dungeon-part8/\">https://retrogamecoders.com/c64-basic-dungeon-part8/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968949\">https://news.ycombinator.com/item?id=48968949</a></p>\n<p>Points: 76</p>\n<p># Comments: 6</p>",
-    "published": "2026-07-19T15:20:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "link": "https://news.ycombinator.com/item?id=48968606",
-    "summary": "<p>I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think.<p>My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food desert? This is an R&amp;R desert.<p>It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn't work perfectly. The system that keeps your score is particularly interesting to me. It's the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.<p>Ours was installed in 2008 and cost six figures. It's calculating ball speed and trajectory, camera-based pin detection (object detection and trig, on ICs!), runs the fouling, the animations, the pinsetting machine and ball return. Very cool stuff for its age.<p>From the business perspective, my facility only cost me $105k. To forklift-replace the score keeping system runs anywhere between $80-$120k, depending on features, vendor, and unit age. No upgrades or service contracts, mind you, and every feature and customization is a new line item. That's for a 1:1 replacement on a system installed in 2008. Incredible, given how fast the tech world moves.<p>Replacement parts cost a shocking $4000 per pair of lanes. But wait, the bowling machines themselves are 70 years old, so what's this \"advanced\" system actually doing back there? Actuating a single relay to trigger that big old machine. Everything else is strictly mechanical. Meanwhile I've got a six-figure invoice in my hand. I'm upset.<p>Given the state of open hardware, computer vision, real-time event streaming, and open source running megascale products worldwide, there had to be a way to do this myself.<p>So far I've built an equivalent prototype for about $200 per lane-pair, $400 if you're fancy. ESP32 and ESPNow with an RS485 fallback, reporting to a raspberry pi lane computer that's really just redis and a state machine bolted to an ESP32 gateway for the mesh.<p>Since it's all ESP32, I've got a fistful of spare controllers in a drawer, pre-flashed or waiting to be. All common off-the-shelf hardware: microcontrollers wired to relays, optocouplers, and IR-break-beam sensors, each running slightly different firmware. Writing the firmware and protocol is the actual hard part.<p>It's an ESPNow star-topology mesh: each node emits events from its sensors and accepts commands for its controls, reporting to a gateway node connected to the raspi over UART. From there it's event streaming: RX packets get translated and tossed into redis, commands relay back out to the mesh as needed. RS485 sits underneath as a wired fallback for noisy RF environments.<p>Once the data's in redis, it's familiar middleware/React/websocket/pub-sub stuff. Any React dev can build their own UI and bowling animations. Since it all runs on commodity hardware, I can do legit anything I want as the proprietor, and I own all my data. Repairs take five minutes; I can swap the rig on a lane pair in under 10. I'd bet a house like mine could go from zero to running in an hour or two.<p>We're calling it OpenLaneLink, and I plan to open source the hardware, firmware, and software stack when it's ready. Bowling is fun, and I want to help keep it affordable for alleys like mine.\nI hate vendor lock-in. I'm not a fan of closed systems, calling support for every hiccup, or paying to \"white label\" my own equipment. Want to go Tron-themed for a night? Good luck finding a neon neumorphic theme in something bought at the turn of the century.<p>All that bugged me. Sure, bowling equipment is niche, but the open hardware and software landscape is amazing.<p>Thanks for reading! Let me know if anyone's interested in more posts about this bowling nonsense.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968606\">https://news.ycombinator.com/item?id=48968606</a></p>\n<p>Points: 2409</p>\n<p># Comments: 263</p>",
-    "published": "2026-07-19T14:41:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
     "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
     "summary": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
     "published": "2026-07-19T14:07:55",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-    "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg8edqq5g5o\">https://www.bbc.com/news/articles/cvg8edqq5g5o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48968063\">https://news.ycombinator.com/item?id=48968063</a></p>\n<p>Points: 162</p>\n<p># Comments: 126</p>",
-    "published": "2026-07-19T13:29:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I burned all my tokens researching how to save tokens",
-    "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
-    "summary": "<p>Article URL: <a href=\"https://quesma.com/blog/custom-deep-research-pipeline/\">https://quesma.com/blog/custom-deep-research-pipeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967355\">https://news.ycombinator.com/item?id=48967355</a></p>\n<p>Points: 139</p>\n<p># Comments: 186</p>",
-    "published": "2026-07-19T12:01:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Minecraft: Java Edition now uses SDL3",
-    "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-    "summary": "<p>Article URL: <a href=\"https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4\">https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48967256\">https://news.ycombinator.com/item?id=48967256</a></p>\n<p>Points: 326</p>\n<p># Comments: 213</p>",
-    "published": "2026-07-19T11:48:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I joined the IndieWeb, here's what I learned",
-    "link": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
-    "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/\">https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966984\">https://news.ycombinator.com/item?id=48966984</a></p>\n<p>Points: 214</p>\n<p># Comments: 110</p>",
-    "published": "2026-07-19T11:14:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-    "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-    "summary": "<p>Article URL: <a href=\"https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\">https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966713\">https://news.ycombinator.com/item?id=48966713</a></p>\n<p>Points: 501</p>\n<p># Comments: 232</p>",
-    "published": "2026-07-19T10:34:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude Code uses Bun written in Rust now",
-    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/\">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48966569\">https://news.ycombinator.com/item?id=48966569</a></p>\n<p>Points: 541</p>\n<p># Comments: 709</p>",
-    "published": "2026-07-19T10:03:23",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
@@ -172,13 +200,6 @@
     "link": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
     "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
     "published": "2026-07-18T13:24:48",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-    "link": "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html",
-    "summary": "China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.",
-    "published": "2026-07-17T20:04:57",
     "source": "NYT > Technology"
   },
   {
@@ -256,27 +277,6 @@
     "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
     "summary": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
     "published": "2026-07-14T14:17:54",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
-    "link": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
-    "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
-    "published": "2026-07-14T13:19:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How a Teacher Revived Backyard Baseball",
-    "link": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
-    "summary": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
-    "published": "2026-07-13T16:28:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
-    "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
-    "summary": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
-    "published": "2026-07-13T13:19:52",
     "source": "NYT > Technology"
   }
 ]
