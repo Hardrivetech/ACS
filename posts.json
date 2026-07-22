@@ -1,59 +1,171 @@
 [
   {
+    "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+    "link": "https://codeberg.org/Codeberg/org/pulls/1253",
+    "summary": "<p>Article URL: <a href=\"https://codeberg.org/Codeberg/org/pulls/1253\">https://codeberg.org/Codeberg/org/pulls/1253</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003465\">https://news.ycombinator.com/item?id=49003465</a></p>\n<p>Points: 16</p>\n<p># Comments: 15</p>",
+    "published": "2026-07-22T08:27:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+    "link": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+    "summary": "<p>Article URL: <a href=\"https://tengli.dev/posts/mcp-servers-failing-agents.html\">https://tengli.dev/posts/mcp-servers-failing-agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002358\">https://news.ycombinator.com/item?id=49002358</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-22T05:51:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: A new kind of FPS aim trainer",
+    "link": "https://openaim.pramit.gg/",
+    "summary": "<p>I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also chooses sens and difficulty as part of the tasks, and makes playlists that are optimal difficulty for you to learn and progress faster!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002276\">https://news.ycombinator.com/item?id=49002276</a></p>\n<p>Points: 53</p>\n<p># Comments: 29</p>",
+    "published": "2026-07-22T05:39:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+    "link": "https://github.com/chrislgarry/Apollo-11",
+    "summary": "<p>Article URL: <a href=\"https://github.com/chrislgarry/Apollo-11\">https://github.com/chrislgarry/Apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002166\">https://news.ycombinator.com/item?id=49002166</a></p>\n<p>Points: 87</p>\n<p># Comments: 26</p>",
+    "published": "2026-07-22T05:18:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+    "link": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
+    "summary": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+    "published": "2026-07-22T03:10:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Late.sh – a command-line Clubhouse for computer people",
+    "link": "https://late.sh/",
+    "summary": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Points: 192</p>\n<p># Comments: 67</p>",
+    "published": "2026-07-22T02:32:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LG to ban residential proxies from smart TV apps",
+    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000864\">https://news.ycombinator.com/item?id=49000864</a></p>\n<p>Points: 287</p>\n<p># Comments: 289</p>",
+    "published": "2026-07-22T01:52:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ten Steps Towards Happiness (2015)",
+    "link": "http://hintjens.com/blog:99",
+    "summary": "<p>Article URL: <a href=\"http://hintjens.com/blog:99\">http://hintjens.com/blog:99</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000600\">https://news.ycombinator.com/item?id=49000600</a></p>\n<p>Points: 146</p>\n<p># Comments: 53</p>",
+    "published": "2026-07-22T01:17:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+    "link": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+    "summary": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.",
+    "published": "2026-07-21T23:50:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "It's a shame what's happened to radio",
+    "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+    "summary": "<p>Article URL: <a href=\"https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\">https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999825\">https://news.ycombinator.com/item?id=48999825</a></p>\n<p>Points: 115</p>\n<p># Comments: 115</p>",
+    "published": "2026-07-21T23:33:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "link": "https://fireworks.ai/blog/kimik3-fable",
+    "summary": "<p>Also: Kimi K3: second only to Fable 5 on AA-Briefcase\n <a href=\"https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark\" rel=\"nofollow\">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowl...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 664</p>\n<p># Comments: 353</p>",
+    "published": "2026-07-21T22:35:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "summary": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 92</p>\n<p># Comments: 29</p>",
+    "published": "2026-07-21T21:27:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "summary": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 205</p>\n<p># Comments: 74</p>",
+    "published": "2026-07-21T21:13:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A digestion of the Jacobian conjecture counterexample",
+    "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 268</p>\n<p># Comments: 98</p>",
+    "published": "2026-07-21T21:09:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "summary": "<p><a href=\"https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https://www.axios.com/2026/07/21/openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https://news.ycombinator.com/item?id=48956248\">https://news.ycombinator.com/item?id=48956248</a> (9 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 1206</p>\n<p># Comments: 831</p>",
+    "published": "2026-07-21T20:09:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+    "summary": "<p>Article URL: <a href=\"https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling\">https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997221\">https://news.ycombinator.com/item?id=48997221</a></p>\n<p>Points: 574</p>\n<p># Comments: 105</p>",
+    "published": "2026-07-21T19:43:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google Releases Three New Gemini A.I. Models",
+    "link": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+    "summary": "The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.",
+    "published": "2026-07-21T19:38:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\">https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996652\">https://news.ycombinator.com/item?id=48996652</a></p>\n<p>Points: 382</p>\n<p># Comments: 327</p>",
+    "published": "2026-07-21T19:04:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Advertise in ChatGPT",
+    "link": "https://ads.openai.com/",
+    "summary": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 799</p>\n<p># Comments: 607</p>",
+    "published": "2026-07-21T18:58:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "link": "https://freeink.org/",
+    "summary": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 582</p>\n<p># Comments: 122</p>",
+    "published": "2026-07-21T18:39:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Laguna S 2.1",
+    "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+    "summary": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 328</p>\n<p># Comments: 62</p>",
+    "published": "2026-07-21T17:17:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "summary": "<p><a href=\"https://x.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://x.com/jack/status/2079605800998146171</a>, <a href=\"https://xcancel.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://xcancel.com/jack/status/2079605800998146171</a><p><a href=\"https://buzz.xyz/\" rel=\"nofollow\">https://buzz.xyz/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 323</p>\n<p># Comments: 277</p>",
+    "published": "2026-07-21T17:14:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bloomy (YC S26) is hiring a founding engineer",
+    "link": "https://news.ycombinator.com/item?id=48995037",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-21T17:00:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "When Listening to Music Was a Team Sport",
     "link": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
     "summary": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
     "published": "2026-07-21T09:01:07",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "link": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen-image-3.0\">https://qwen.ai/blog?id=qwen-image-3.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48989701\">https://news.ycombinator.com/item?id=48989701</a></p>\n<p>Points: 116</p>\n<p># Comments: 61</p>",
-    "published": "2026-07-21T08:44:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Linux kernel will support $ORIGIN, sort of",
-    "link": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
-    "summary": "<p>Article URL: <a href=\"https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of\">https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48988793\">https://news.ycombinator.com/item?id=48988793</a></p>\n<p>Points: 56</p>\n<p># Comments: 34</p>",
-    "published": "2026-07-21T06:29:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Ex Situ – Open-source spatial index of displaced cultural artifacts",
-    "link": "https://exsitu.app/map",
-    "summary": "<p>Hi, I designed and developed a spatial index that maps museum artefacts as connecting arcs/hyperlinks from their origin site to institutional location/sources. The Index specifically looks at western/euro-american institutions and maps their collection categorised by them under Islamic art, Asian/African art, ethnological collections, Middle East, South America etc.<p>Started as my MA thesis in 2022, kept building since, mostly solo with a little funding. Fully open source, self-hosted, AGPL-3.0, Next.js + Deck.gl on the frontend, Strapi backend, Python ETL pulling from museum open-access APIs. Currently indexing over 100k artifacts from all over the world, across 8 collections (Met, V&amp;A, SMB Berlin). Recently added an md export so researchers can download provenance data for a filtered set of artifacts.<p>The infrastructure is conceptualized as an indexer, not a hoster. Even images are kept as URLs pointing to the source institutions. It's connective tissue between archives that were never designed to speak to each other, with an origin-first search UI concept. The data model is on purpose flat, to avoid encoding problematic taxonomies, and routes researchers directly to the source giving responsibility to the source institutions rather than duplicating institutional data. It indexes the relationship between origin sites and destination collections.<p>Coming from a design background, taking this project from prototype to production app has been incredibly rewarding, but honestly it’s getting a little bit overwhelming to scale alone. I would love community’s feedback on performance scaling, any code contributions, data pipelines for missing museum apis or general feedback.<p>Repo: <a href=\"https://github.com/hburakyel/ex-situ\" rel=\"nofollow\">https://github.com/hburakyel/ex-situ</a><p>Live: <a href=\"https://exsitu.app\" rel=\"nofollow\">https://exsitu.app</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48988158\">https://news.ycombinator.com/item?id=48988158</a></p>\n<p>Points: 37</p>\n<p># Comments: 22</p>",
-    "published": "2026-07-21T04:48:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Running Doom on Our Custom CPU and Going Viral",
-    "link": "https://www.armaangomes.com/blogs/doom/",
-    "summary": "<p>Article URL: <a href=\"https://www.armaangomes.com/blogs/doom/\">https://www.armaangomes.com/blogs/doom/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987846\">https://news.ycombinator.com/item?id=48987846</a></p>\n<p>Points: 78</p>\n<p># Comments: 19</p>",
-    "published": "2026-07-21T03:54:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-    "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-    "summary": "<p>Article URL: <a href=\"https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/\">https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987831\">https://news.ycombinator.com/item?id=48987831</a></p>\n<p>Points: 38</p>\n<p># Comments: 32</p>",
-    "published": "2026-07-21T03:52:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Incremental – A library for incremental computations",
-    "link": "https://github.com/janestreet/incremental",
-    "summary": "<p>Article URL: <a href=\"https://github.com/janestreet/incremental\">https://github.com/janestreet/incremental</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987822\">https://news.ycombinator.com/item?id=48987822</a></p>\n<p>Points: 219</p>\n<p># Comments: 38</p>",
-    "published": "2026-07-21T03:50:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "VTubing: How a Japanese Phenomenon Is Going Worldwide",
-    "link": "https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide",
-    "summary": "<p>Article URL: <a href=\"https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide\">https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48987775\">https://news.ycombinator.com/item?id=48987775</a></p>\n<p>Points: 36</p>\n<p># Comments: 18</p>",
-    "published": "2026-07-21T03:42:47",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "How Google’s A.I. Search Is Imperiling the Open Web",
@@ -63,102 +175,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Jellyfin founder Andrew leaves team",
-    "link": "https://forum.jellyfin.org/t-project-leadership-changes",
-    "summary": "<p>Article URL: <a href=\"https://forum.jellyfin.org/t-project-leadership-changes\">https://forum.jellyfin.org/t-project-leadership-changes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48986091\">https://news.ycombinator.com/item?id=48986091</a></p>\n<p>Points: 256</p>\n<p># Comments: 201</p>",
-    "published": "2026-07-20T23:15:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
     "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
     "summary": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
     "published": "2026-07-20T22:45:52",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "I wrote an bash enumerator because I was sick of xargs",
-    "link": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
-    "summary": "<p>Article URL: <a href=\"https://numerlab.org/2025/07/20/bashumerate-enumerator/\">https://numerlab.org/2025/07/20/bashumerate-enumerator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984270\">https://news.ycombinator.com/item?id=48984270</a></p>\n<p>Points: 141</p>\n<p># Comments: 112</p>",
-    "published": "2026-07-20T20:12:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-    "link": "https://vincentwoo.com/3d/grace_cathedral/",
-    "summary": "<p>Article URL: <a href=\"https://vincentwoo.com/3d/grace_cathedral/\">https://vincentwoo.com/3d/grace_cathedral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984254\">https://news.ycombinator.com/item?id=48984254</a></p>\n<p>Points: 173</p>\n<p># Comments: 43</p>",
-    "published": "2026-07-20T20:10:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
-    "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
-    "summary": "<p>Article URL: <a href=\"https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/\">https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48984231\">https://news.ycombinator.com/item?id=48984231</a></p>\n<p>Points: 114</p>\n<p># Comments: 20</p>",
-    "published": "2026-07-20T20:08:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Human mathematicians are being outcounterexampled",
-    "link": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-    "summary": "<p>Article URL: <a href=\"https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/\">https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48983382\">https://news.ycombinator.com/item?id=48983382</a></p>\n<p>Points: 356</p>\n<p># Comments: 148</p>",
-    "published": "2026-07-20T19:03:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nativ: Run frontier open models locally on your Mac",
-    "link": "https://blaizzy.github.io/nativ/",
-    "summary": "<p>Article URL: <a href=\"https://blaizzy.github.io/nativ/\">https://blaizzy.github.io/nativ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982681\">https://news.ycombinator.com/item?id=48982681</a></p>\n<p>Points: 285</p>\n<p># Comments: 94</p>",
-    "published": "2026-07-20T18:16:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Agent swarms and the new model economics",
-    "link": "https://cursor.com/blog/agent-swarm-model-economics",
-    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/agent-swarm-model-economics\">https://cursor.com/blog/agent-swarm-model-economics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48982535\">https://news.ycombinator.com/item?id=48982535</a></p>\n<p>Points: 204</p>\n<p># Comments: 91</p>",
-    "published": "2026-07-20T18:06:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kimi Work",
-    "link": "https://www.kimi.com/products/kimi-work",
-    "summary": "<p>Article URL: <a href=\"https://www.kimi.com/products/kimi-work\">https://www.kimi.com/products/kimi-work</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981703\">https://news.ycombinator.com/item?id=48981703</a></p>\n<p>Points: 569</p>\n<p># Comments: 240</p>",
-    "published": "2026-07-20T17:13:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jelly UI: Soft-body physics for native HTML form controls",
-    "link": "https://jelly-ui.com/",
-    "summary": "<p>Article URL: <a href=\"https://jelly-ui.com/\">https://jelly-ui.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981620\">https://news.ycombinator.com/item?id=48981620</a></p>\n<p>Points: 513</p>\n<p># Comments: 157</p>",
-    "published": "2026-07-20T17:07:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "summary": "<p>Article URL: <a href=\"https://unslop.run/blog/measuring-ai-writing-on-arxiv\">https://unslop.run/blog/measuring-ai-writing-on-arxiv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981206\">https://news.ycombinator.com/item?id=48981206</a></p>\n<p>Points: 226</p>\n<p># Comments: 155</p>",
-    "published": "2026-07-20T16:36:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-    "link": "https://news.ycombinator.com/item?id=48981136",
-    "summary": "<p>Hi HN, I’m Alex Southmayd, the founder of Bloomy (<a href=\"https://bloomylearning.com\">https://bloomylearning.com</a>) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).<p>How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds their learning without just giving away the answer.<p>The goal is to solve the Bloom 2-sigma problem (<a href=\"https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem</a>) with AI.<p>Short launch video: <a href=\"https://tinyurl.com/bloomylearning\" rel=\"nofollow\">https://tinyurl.com/bloomylearning</a><p>Longer product demo: <a href=\"https://youtu.be/XHvoKt6qMeo\" rel=\"nofollow\">https://youtu.be/XHvoKt6qMeo</a><p>Families access for Bloomy: <a href=\"https://bloomylearning.com/families\">https://bloomylearning.com/families</a><p>I started as a teacher. I taught 7th-grade English and writing with Teach For America, and every day I struggled to deliver differentiated instruction to 30 students with 30 different sets of needs. Some students needed remediation, some needed acceleration, and many needed a tutor sitting next to them helping them reason through the next step.\nBenjamin Bloom’s two-sigma result—that one-on-one tutoring can produce much better outcomes than conventional classroom instruction—always felt intuitively true to me. The hard part was making that kind of attention affordable and available to every child.<p>Then AI changed the cost curve. When I saw schools such as Alpha organize academics around mastery rather than seat time, the model clicked. If you’ve heard of Alpha School, that is directionally the kind of learning model that inspired us. But I kept thinking about the families and schools that already exist: homeschool families, microschools, hybrid schools, and regular classrooms where most children are today.<p>Most students and teachers see learning gaps at the wrong resolution. They get a grade, percentile, benchmark score, or broad standard—not “this is the next skill this student should learn.” Existing personalized-learning products often feel like digital worksheets: they provide plenty of practice, but not much diagnosis or teaching. Very few have AI tutors providing the core instruction.\nBloomy starts with a diagnostic—we integrate with third-party assessments and provide our own—and creates a learning path for each student. Students work one skill at a time, receive a short lesson, practice at an adaptive difficulty, and only move forward after demonstrating at least 90% mastery. The learning path updates as the student works, based on their performance and our knowledge graph of skill prerequisites (built in collaboration with Learning Commons / Chan Zuckerberg Initiative).<p>Each skill has three stages. Base Camp teaches the concept with worked examples. Climb provides guided practice and Socratic support. Summit is an independent ten-question mastery assessment with no hints or AI assistance. Students need to achieve 90% on the Summit to advance. If they struggle too much, they’ll be routed to a different skill better suited for their level.<p>BloomyBot is not a blank chat window but rather a live, interactive, and observant digital tutor. During practice, it receives the active passage or problem, the question, the student’s attempt, an authored explanation, and relevant misconception context. It follows a scaffolded tutoring ladder: first asking what the student tried, then pointing toward the concept, suggesting a strategy, working through one step together, and only providing heavier scaffolding after the student has struggled, adapting to and learning from the student along the way. Students can interrupt it, and we’ve begun to roll out multilingual support for Spanish, French, and a few other more niche languages that customers have asked for.<p>We currently use a variety of Anthropic and OpenAI models for BloomyBot. The tutor is restricted to the current lesson, redirects unrelated questions, limits conversation length, and is unavailable during mastery assessments. The language model does not choose the curriculum or decide whether a student has mastered a skill.<p>That separation is important. A conventionally “helpful” AI response can be a bad tutoring response: if it gives away the answer, the student completes the task but may not learn anything. Our goal is not to build a homework-answering chatbot. It is to put AI inside a structured loop of diagnosis, instruction, practice, feedback, and independent mastery.<p>LLMs can still be wrong, and we do not claim our constraints eliminate that. We reduce the surface area by grounding BloomyBot in authored lesson content, keeping it on topic, logging conversations, and removing it from assessments. Teachers and parents can review tutoring activity, students can report problems, and safety signals trigger human alerts and a backup audit.\nWe also do not see Bloomy as a replacement for teachers, parents, or human tutors. A good human tutor is better. The narrower question we are testing is whether, during a bounded learning session a student would already be doing, a context-aware tutor can provide better help than static “correct/incorrect” feedback. Longer term, the question becomes more whether a student would perform better with one-on-one AI tutoring (at least in certain aspects of the curriculum) than with many-to-one instruction in a medium- or large-sized classroom.<p>Bloomy is now being used across several settings: traditional districts, charter schools, hybrid schools, microschools, homeschools, and families looking for additional academic support. In an early pilot at a charter school in Massachusetts serving ~150 students in grades 6 through 8, students averaged roughly 1.8 times the expected winter-to-spring NWEA MAP growth. This was an observational pilot, not a randomized study, so we treat it as an encouraging signal rather than proof that Bloomy caused the difference.<p>Parents and teachers can see what a student has mastered, what is in progress, and where support may be needed. We have found that adults generally do not want another generic score; they want to know which small number of skills deserve attention this week.<p>Bloomy makes money through family subscriptions and school licensing. ELA costs $39/month or $279/year per learner, and Writing Studio costs $19/month or $139/year. Math is scheduled to launch July 31 at the same price as ELA. Schools and microschools pay per student, with pricing varying by subject coverage, enrollment, rostering, and implementation needs.<p>Because children use Bloomy, we collect learning responses, progress data, and tutoring conversations. We do not sell personal information, use child data for behavioral advertising, or permit model providers to train general-purpose models on identifiable child data sent by Bloomy. We have Zero Data Retention agreements with both Anthropic and OpenAI. Parents and schools can request access, export, correction, or deletion under the applicable account or school agreement.<p>More background on me: after Teach For America, I taught and designed GMAT and GRE curriculum for Manhattan Prep / Kaplan, led the driver acquisition team for Lyft’s New England markets, completed an MBA at Stanford, and led AI transformation projects at McKinsey (so when models finally became good enough this past January to achieve the kinds of things I am pursuing with Bloomy, I was in the right place at the right time to begin building). Bloomy brings together the different parts of my career that I care most about: educational outcomes, learning design, building products, and getting useful technology into people’s hands.<p>I’d especially value feedback from parents, teachers, engineers working on child-facing AI, and people who have built tutoring, assessment, or adaptive-learning systems. Does the separation between guided AI help and independent mastery make sense? Where do you see the greatest potential with AI in education? Where are our safeguards insufficient? What evidence or product behavior would you need to trust something like this with a student?<p>Certainly there are many dangers and pitfalls we must beware of, too, but I believe we can really move the needle in K-12 (for the first time in a long time) if we use AI responsibly and intelligently.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48981136\">https://news.ycombinator.com/item?id=48981136</a></p>\n<p>Points: 89</p>\n<p># Comments: 89</p>",
-    "published": "2026-07-20T16:32:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I Stopped “Creating Content”",
-    "link": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
-    "summary": "<p>Article URL: <a href=\"https://refactoringenglish.com/blog/why-i-stopped-creating-content/\">https://refactoringenglish.com/blog/why-i-stopped-creating-content/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48980520\">https://news.ycombinator.com/item?id=48980520</a></p>\n<p>Points: 184</p>\n<p># Comments: 149</p>",
-    "published": "2026-07-20T15:47:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "China’s open-weights AI strategy is winning",
-    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "summary": "<p>Article URL: <a href=\"https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/\">https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48979269\">https://news.ycombinator.com/item?id=48979269</a></p>\n<p>Points: 1119</p>\n<p># Comments: 843</p>",
-    "published": "2026-07-20T14:21:47",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
@@ -231,13 +252,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes",
-    "link": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
-    "summary": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
-    "published": "2026-07-16T17:06:37",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
     "link": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
     "summary": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
     "summary": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
     "published": "2026-07-15T18:58:17",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Data Centers to Add Billions in Power Costs in 13 States",
-    "link": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
-    "summary": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
-    "published": "2026-07-15T00:39:01",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
-    "link": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
-    "summary": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
-    "published": "2026-07-14T14:17:54",
     "source": "NYT > Technology"
   }
 ]

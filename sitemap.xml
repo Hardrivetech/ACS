@@ -1,99 +1,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-07-21</lastmod>
+    <lastmod>2026-07-22</lastmod>
+  </url>
+  <url>
+    <loc>https://codeberg.org/Codeberg/org/pulls/1253</loc>
+    <lastmod>2026-07-22T08:27:12</lastmod>
+  </url>
+  <url>
+    <loc>https://tengli.dev/posts/mcp-servers-failing-agents.html</loc>
+    <lastmod>2026-07-22T05:51:50</lastmod>
+  </url>
+  <url>
+    <loc>https://openaim.pramit.gg/</loc>
+    <lastmod>2026-07-22T05:39:31</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/chrislgarry/Apollo-11</loc>
+    <lastmod>2026-07-22T05:18:08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html</loc>
+    <lastmod>2026-07-22T03:10:17</lastmod>
+  </url>
+  <url>
+    <loc>https://late.sh/</loc>
+    <lastmod>2026-07-22T02:32:30</lastmod>
+  </url>
+  <url>
+    <loc>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</loc>
+    <lastmod>2026-07-22T01:52:31</lastmod>
+  </url>
+  <url>
+    <loc>http://hintjens.com/blog:99</loc>
+    <lastmod>2026-07-22T01:17:26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</loc>
+    <lastmod>2026-07-21T23:50:59</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</loc>
+    <lastmod>2026-07-21T23:33:31</lastmod>
+  </url>
+  <url>
+    <loc>https://fireworks.ai/blog/kimik3-fable</loc>
+    <lastmod>2026-07-21T22:35:24</lastmod>
+  </url>
+  <url>
+    <loc>https://ai.google.dev/gemini-api/docs/latest-model</loc>
+    <lastmod>2026-07-21T21:27:54</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</loc>
+    <lastmod>2026-07-21T21:13:20</lastmod>
+  </url>
+  <url>
+    <loc>https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</loc>
+    <lastmod>2026-07-21T21:09:25</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/hugging-face-model-evaluation-security-incident/</loc>
+    <lastmod>2026-07-21T20:09:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling</loc>
+    <lastmod>2026-07-21T19:43:59</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html</loc>
+    <lastmod>2026-07-21T19:38:58</lastmod>
+  </url>
+  <url>
+    <loc>https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</loc>
+    <lastmod>2026-07-21T19:04:39</lastmod>
+  </url>
+  <url>
+    <loc>https://ads.openai.com/</loc>
+    <lastmod>2026-07-21T18:58:44</lastmod>
+  </url>
+  <url>
+    <loc>https://freeink.org/</loc>
+    <lastmod>2026-07-21T18:39:06</lastmod>
+  </url>
+  <url>
+    <loc>https://poolside.ai/blog/introducing-laguna-s-2-1</loc>
+    <lastmod>2026-07-21T17:17:06</lastmod>
+  </url>
+  <url>
+    <loc>https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git</loc>
+    <lastmod>2026-07-21T17:14:06</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=48995037</loc>
+    <lastmod>2026-07-21T17:00:20</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html</loc>
     <lastmod>2026-07-21T09:01:07</lastmod>
   </url>
   <url>
-    <loc>https://qwen.ai/blog?id=qwen-image-3.0</loc>
-    <lastmod>2026-07-21T08:44:23</lastmod>
-  </url>
-  <url>
-    <loc>https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of</loc>
-    <lastmod>2026-07-21T06:29:22</lastmod>
-  </url>
-  <url>
-    <loc>https://exsitu.app/map</loc>
-    <lastmod>2026-07-21T04:48:32</lastmod>
-  </url>
-  <url>
-    <loc>https://www.armaangomes.com/blogs/doom/</loc>
-    <lastmod>2026-07-21T03:54:16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/</loc>
-    <lastmod>2026-07-21T03:52:05</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/janestreet/incremental</loc>
-    <lastmod>2026-07-21T03:50:53</lastmod>
-  </url>
-  <url>
-    <loc>https://www.tokyodev.com/articles/vtubing-how-a-japanese-phenomenon-is-going-worldwide</loc>
-    <lastmod>2026-07-21T03:42:47</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</loc>
     <lastmod>2026-07-21T01:50:36</lastmod>
   </url>
   <url>
-    <loc>https://forum.jellyfin.org/t-project-leadership-changes</loc>
-    <lastmod>2026-07-20T23:15:41</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html</loc>
     <lastmod>2026-07-20T22:45:52</lastmod>
-  </url>
-  <url>
-    <loc>https://numerlab.org/2025/07/20/bashumerate-enumerator/</loc>
-    <lastmod>2026-07-20T20:12:19</lastmod>
-  </url>
-  <url>
-    <loc>https://vincentwoo.com/3d/grace_cathedral/</loc>
-    <lastmod>2026-07-20T20:10:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/</loc>
-    <lastmod>2026-07-20T20:08:45</lastmod>
-  </url>
-  <url>
-    <loc>https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/</loc>
-    <lastmod>2026-07-20T19:03:37</lastmod>
-  </url>
-  <url>
-    <loc>https://blaizzy.github.io/nativ/</loc>
-    <lastmod>2026-07-20T18:16:08</lastmod>
-  </url>
-  <url>
-    <loc>https://cursor.com/blog/agent-swarm-model-economics</loc>
-    <lastmod>2026-07-20T18:06:13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kimi.com/products/kimi-work</loc>
-    <lastmod>2026-07-20T17:13:23</lastmod>
-  </url>
-  <url>
-    <loc>https://jelly-ui.com/</loc>
-    <lastmod>2026-07-20T17:07:39</lastmod>
-  </url>
-  <url>
-    <loc>https://unslop.run/blog/measuring-ai-writing-on-arxiv</loc>
-    <lastmod>2026-07-20T16:36:36</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=48981136</loc>
-    <lastmod>2026-07-20T16:32:10</lastmod>
-  </url>
-  <url>
-    <loc>https://refactoringenglish.com/blog/why-i-stopped-creating-content/</loc>
-    <lastmod>2026-07-20T15:47:28</lastmod>
-  </url>
-  <url>
-    <loc>https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/</loc>
-    <lastmod>2026-07-20T14:21:47</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</loc>
@@ -136,10 +148,6 @@
     <lastmod>2026-07-16T17:12:03</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html</loc>
-    <lastmod>2026-07-16T17:06:37</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html</loc>
     <lastmod>2026-07-16T16:38:40</lastmod>
   </url>
@@ -154,13 +162,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</loc>
     <lastmod>2026-07-15T18:58:17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html</loc>
-    <lastmod>2026-07-15T00:39:01</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html</loc>
-    <lastmod>2026-07-14T14:17:54</lastmod>
   </url>
 </urlset>
