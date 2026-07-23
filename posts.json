@@ -1,30 +1,198 @@
 [
   {
-    "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-    "link": "https://codeberg.org/Codeberg/org/pulls/1253",
-    "summary": "<p>Article URL: <a href=\"https://codeberg.org/Codeberg/org/pulls/1253\">https://codeberg.org/Codeberg/org/pulls/1253</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49003465\">https://news.ycombinator.com/item?id=49003465</a></p>\n<p>Points: 16</p>\n<p># Comments: 15</p>",
-    "published": "2026-07-22T08:27:12",
+    "title": "EU fines Google €890M for competition breaches over search and apps",
+    "link": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps\">https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49019220\">https://news.ycombinator.com/item?id=49019220</a></p>\n<p>Points: 13</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-23T10:07:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
-    "link": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-    "summary": "<p>Article URL: <a href=\"https://tengli.dev/posts/mcp-servers-failing-agents.html\">https://tengli.dev/posts/mcp-servers-failing-agents.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002358\">https://news.ycombinator.com/item?id=49002358</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
-    "published": "2026-07-22T05:51:50",
+    "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
+    "link": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
+    "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
+    "published": "2026-07-23T09:05:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
+    "link": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
+    "summary": "It can be unsettling what Gemini and ChatGPT have figured out about you and how easily your privacy can be punctured. Here’s how to find out.",
+    "published": "2026-07-23T09:01:50",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+    "link": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+    "summary": "<p>Article URL: <a href=\"https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734\">https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49017344\">https://news.ycombinator.com/item?id=49017344</a></p>\n<p>Points: 65</p>\n<p># Comments: 30</p>",
+    "published": "2026-07-23T05:40:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: A new kind of FPS aim trainer",
-    "link": "https://openaim.pramit.gg/",
-    "summary": "<p>I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also chooses sens and difficulty as part of the tasks, and makes playlists that are optimal difficulty for you to learn and progress faster!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002276\">https://news.ycombinator.com/item?id=49002276</a></p>\n<p>Points: 53</p>\n<p># Comments: 29</p>",
-    "published": "2026-07-22T05:39:31",
+    "title": "Amiga 1000: Ten years ahead of its time",
+    "link": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+    "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/\">https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49017265\">https://news.ycombinator.com/item?id=49017265</a></p>\n<p>Points: 91</p>\n<p># Comments: 69</p>",
+    "published": "2026-07-23T05:24:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-    "link": "https://github.com/chrislgarry/Apollo-11",
-    "summary": "<p>Article URL: <a href=\"https://github.com/chrislgarry/Apollo-11\">https://github.com/chrislgarry/Apollo-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49002166\">https://news.ycombinator.com/item?id=49002166</a></p>\n<p>Points: 87</p>\n<p># Comments: 26</p>",
-    "published": "2026-07-22T05:18:08",
+    "title": "Restructuring GitHub's bug bounty program",
+    "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49016099\">https://news.ycombinator.com/item?id=49016099</a></p>\n<p>Points: 46</p>\n<p># Comments: 21</p>",
+    "published": "2026-07-23T02:28:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Protecting our FLOSS commons from LLMs",
+    "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html\">https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49015635\">https://news.ycombinator.com/item?id=49015635</a></p>\n<p>Points: 77</p>\n<p># Comments: 19</p>",
+    "published": "2026-07-23T01:14:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
+    "link": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
+    "summary": "Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.",
+    "published": "2026-07-23T00:43:11",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Tesla Profit Falls Even as Car Sales Rebound",
+    "link": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+    "summary": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
+    "published": "2026-07-22T22:45:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+    "link": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
+    "summary": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
+    "published": "2026-07-22T22:18:54",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Medici family mystery may be solved after more than 400 years",
+    "link": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\">https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49014007\">https://news.ycombinator.com/item?id=49014007</a></p>\n<p>Points: 126</p>\n<p># Comments: 37</p>",
+    "published": "2026-07-22T21:55:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Malleable Computing, Emacs, and You",
+    "link": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+    "summary": "<p>Article URL: <a href=\"http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html\">http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49013538\">https://news.ycombinator.com/item?id=49013538</a></p>\n<p>Points: 115</p>\n<p># Comments: 31</p>",
+    "published": "2026-07-22T21:15:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "summary": "<p>Article URL: <a href=\"https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/\">https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012777\">https://news.ycombinator.com/item?id=49012777</a></p>\n<p>Points: 126</p>\n<p># Comments: 38</p>",
+    "published": "2026-07-22T20:16:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "John C. Dvorak has died",
+    "link": "https://twitter.com/na_announce/status/2079952538040672302",
+    "summary": "<p><a href=\"https://xcancel.com/na_announce/status/2079952538040672302\" rel=\"nofollow\">https://xcancel.com/na_announce/status/2079952538040672302</a><p><a href=\"https://www.twit.community/t/john-c-dvorak-has-passed-away/20291\" rel=\"nofollow\">https://www.twit.community/t/john-c-dvorak-has-passed-away/2...</a><p><a href=\"https://www.facebook.com/aric.mackey/posts/john-c-dvorak-19462026john-c-dvorak-a-pioneering-technology-journalist-podcaster/10242625420121221/\" rel=\"nofollow\">https://www.facebook.com/aric.mackey/posts/john-c-dvorak-194...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49012070\">https://news.ycombinator.com/item?id=49012070</a></p>\n<p>Points: 769</p>\n<p># Comments: 255</p>",
+    "published": "2026-07-22T19:22:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
+    "link": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
+    "summary": "For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms’ addictive features.",
+    "published": "2026-07-22T18:47:15",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "link": "https://github.com/cactus-compute/cactus-hybrid",
+    "summary": "<p>Hey HN, Henry & Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it's wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it's high, hand off to a bigger cloud model when it's low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemini 3.1 Flash-Lite on most benchmarks.<p>- ChartQA: 15-20%<p>- LibriSpeech: 25-30%<p>- MMBench, GigaSpeech, MMAU: 30-35%<p>- MMLU-Pro: 45-55%<p>We were always frustrated by the routing signals hybrid apps rely on: asking the model to rate itself in text (unreliable, and you're parsing prose), or token entropy heuristics (barely better than a coin flip in our tests). So we did mechanistic studies on small models, Gemma 4 particularly, and found the hidden state for different layers carry meaningful self-awareness signal for various situations.<p>SO we extended the model with a 68k params probe layer (LayerNorm, low-rank projection, attention pooling, small MLP head) reads one intermediate layer during decoding and predicts p(wrong); confidence = 1 - p(wrong), returned as structured data, never parsed out of the answer text.<p>Across 12 hold-out benchmarks spanning text, vision and audio, the probe averages 0.814 AUROC vs 0.549 for token entropy. The result that convinced us this is real: the probe was trained on zero audio data, yet scores 0.79-0.88 AUROC on four audio benchmarks where entropy is near-random or worse (0.32-0.52). It's reading a modality-independent correctness signal from the hidden state, not memorizing patterns from its training data.<p>We published all weights on HuggingFace and provide copy-pase codes to run it on Transformers, MLX, Llama.cpp or Cactus. With Ollama, vLLM, SGLang etc in the works. For llama.cpp we ship a patch series you compile in once (upstreaming is planned). The code is MIT licensed; Gemma model use remains subject to the Gemma terms.<p>GitHub: <a href=\"https://github.com/cactus-compute/cactus-hybrid\" rel=\"nofollow\">https://github.com/cactus-compute/cactus-hybrid</a><p>Weights: <a href=\"https://huggingface.co/collections/Cactus-Compute/cactus-hybrid-6a60da4551074db058e8bb64\" rel=\"nofollow\">https://huggingface.co/collections/Cactus-Compute/cactus-hyb...</a><p>Some caveats:<p>- The probe scores single-sequence decoding only, up to the first 1024 generated tokens.<p>- Handoff works best when routing per task in a multi-step process, not per step.<p>- Hierarchical routing is still in the works: try on-device, then DeepSeek v4 Flash, before Fable/GPT5.5/Gemini/Muse/Grok.<p>- The technique is boutique for each model, we will share each weights as they roll out.<p>These issues are currently being tackled at Cactus and updated weights will be shipped directly into the HuggingFace collection and GitHub repository straight up. Please let us know your thoughts, it helps us find ways to improve the design progressively.<p>Thanks a million!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010782\">https://news.ycombinator.com/item?id=49010782</a></p>\n<p>Points: 146</p>\n<p># Comments: 31</p>",
+    "published": "2026-07-22T17:56:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Everyone should know SIMD",
+    "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/everyone-should-know-simd\">https://mitchellh.com/writing/everyone-should-know-simd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010648\">https://news.ycombinator.com/item?id=49010648</a></p>\n<p>Points: 451</p>\n<p># Comments: 162</p>",
+    "published": "2026-07-22T17:48:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "summary": "<p><i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https://news.ycombinator.com/item?id=48973869\">https://news.ycombinator.com/item?id=48973869</a> - July 2026 (508 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010345\">https://news.ycombinator.com/item?id=49010345</a></p>\n<p>Points: 902</p>\n<p># Comments: 524</p>",
+    "published": "2026-07-22T17:30:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "link": "https://github.com/marcelroed/gigatoken/",
+    "summary": "<p>Article URL: <a href=\"https://github.com/marcelroed/gigatoken/\">https://github.com/marcelroed/gigatoken/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010167\">https://news.ycombinator.com/item?id=49010167</a></p>\n<p>Points: 517</p>\n<p># Comments: 109</p>",
+    "published": "2026-07-22T17:20:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Are AI labs pelicanmaxxing?",
+    "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "summary": "<p>Article URL: <a href=\"https://dylancastillo.co/posts/pelicanmaxxing.html\">https://dylancastillo.co/posts/pelicanmaxxing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49010129\">https://news.ycombinator.com/item?id=49010129</a></p>\n<p>Points: 559</p>\n<p># Comments: 214</p>",
+    "published": "2026-07-22T17:17:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+    "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
+    "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
+    "published": "2026-07-22T17:01:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
+    "link": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+    "summary": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.",
+    "published": "2026-07-22T17:00:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Making",
+    "link": "https://beej.us/blog/data/ai-making/",
+    "summary": "<p>Article URL: <a href=\"https://beej.us/blog/data/ai-making/\">https://beej.us/blog/data/ai-making/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008440\">https://news.ycombinator.com/item?id=49008440</a></p>\n<p>Points: 370</p>\n<p># Comments: 144</p>",
+    "published": "2026-07-22T15:33:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "link": "https://bento.page/slides/",
+    "summary": "<p>Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.<p>Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.<p>Check it out at <a href=\"https://bento.page/slides/\" rel=\"nofollow\">https://bento.page/slides/</a> which takes you straight to the editor.<p>Go to <a href=\"https://bento.page/guestbook/\" rel=\"nofollow\">https://bento.page/guestbook/</a> to try out the live guestbook to experience share editing / collab.<p>There is also a gallery with some sample decks on the website - <a href=\"https://bento.page/\" rel=\"nofollow\">https://bento.page/</a><p>All the code is MIT licensed and you can find it here - <a href=\"https://github.com/nyblnet/bento\" rel=\"nofollow\">https://github.com/nyblnet/bento</a> . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49008211\">https://news.ycombinator.com/item?id=49008211</a></p>\n<p>Points: 859</p>\n<p># Comments: 192</p>",
+    "published": "2026-07-22T15:19:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "summary": "<p><a href=\"https://book-prize-index.vercel.app/\" rel=\"nofollow\">https://book-prize-index.vercel.app/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49007247\">https://news.ycombinator.com/item?id=49007247</a></p>\n<p>Points: 378</p>\n<p># Comments: 134</p>",
+    "published": "2026-07-22T14:18:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Back to Kagi",
+    "link": "https://blog.melashri.net/micro/back-to-kagi/",
+    "summary": "<p>Article URL: <a href=\"https://blog.melashri.net/micro/back-to-kagi/\">https://blog.melashri.net/micro/back-to-kagi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006195\">https://news.ycombinator.com/item?id=49006195</a></p>\n<p>Points: 280</p>\n<p># Comments: 204</p>",
+    "published": "2026-07-22T13:08:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Businesses with ugly AI menu redesigns",
+    "link": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "summary": "<p>Article URL: <a href=\"https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/\">https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005973\">https://news.ycombinator.com/item?id=49005973</a></p>\n<p>Points: 311</p>\n<p># Comments: 211</p>",
+    "published": "2026-07-22T12:49:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The startup's Postgres survival guide",
+    "link": "https://hatchet.run/blog/postgres-survival-guide",
+    "summary": "<p>Article URL: <a href=\"https://hatchet.run/blog/postgres-survival-guide\">https://hatchet.run/blog/postgres-survival-guide</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005787\">https://news.ycombinator.com/item?id=49005787</a></p>\n<p>Points: 419</p>\n<p># Comments: 194</p>",
+    "published": "2026-07-22T12:36:08",
     "source": "Hacker News: Front Page"
   },
   {
@@ -35,130 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Late.sh – a command-line Clubhouse for computer people",
-    "link": "https://late.sh/",
-    "summary": "<p>Article URL: <a href=\"https://late.sh/\">https://late.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49001127\">https://news.ycombinator.com/item?id=49001127</a></p>\n<p>Points: 192</p>\n<p># Comments: 67</p>",
-    "published": "2026-07-22T02:32:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "LG to ban residential proxies from smart TV apps",
-    "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/\">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000864\">https://news.ycombinator.com/item?id=49000864</a></p>\n<p>Points: 287</p>\n<p># Comments: 289</p>",
-    "published": "2026-07-22T01:52:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ten Steps Towards Happiness (2015)",
-    "link": "http://hintjens.com/blog:99",
-    "summary": "<p>Article URL: <a href=\"http://hintjens.com/blog:99\">http://hintjens.com/blog:99</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49000600\">https://news.ycombinator.com/item?id=49000600</a></p>\n<p>Points: 146</p>\n<p># Comments: 53</p>",
-    "published": "2026-07-22T01:17:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
-    "link": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
-    "summary": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.",
-    "published": "2026-07-21T23:50:59",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "It's a shame what's happened to radio",
-    "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
-    "summary": "<p>Article URL: <a href=\"https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/\">https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999825\">https://news.ycombinator.com/item?id=48999825</a></p>\n<p>Points: 115</p>\n<p># Comments: 115</p>",
-    "published": "2026-07-21T23:33:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-    "link": "https://fireworks.ai/blog/kimik3-fable",
-    "summary": "<p>Also: Kimi K3: second only to Fable 5 on AA-Briefcase\n <a href=\"https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark\" rel=\"nofollow\">https://artificialanalysis.ai/articles/kimi-k3-agentic-knowl...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48999291\">https://news.ycombinator.com/item?id=48999291</a></p>\n<p>Points: 664</p>\n<p># Comments: 353</p>",
-    "published": "2026-07-21T22:35:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
-    "link": "https://ai.google.dev/gemini-api/docs/latest-model",
-    "summary": "<p>Article URL: <a href=\"https://ai.google.dev/gemini-api/docs/latest-model\">https://ai.google.dev/gemini-api/docs/latest-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998606\">https://news.ycombinator.com/item?id=48998606</a></p>\n<p>Points: 92</p>\n<p># Comments: 29</p>",
-    "published": "2026-07-21T21:27:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-    "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-    "summary": "<p>Article URL: <a href=\"https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\">https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998404\">https://news.ycombinator.com/item?id=48998404</a></p>\n<p>Points: 205</p>\n<p># Comments: 74</p>",
-    "published": "2026-07-21T21:13:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A digestion of the Jacobian conjecture counterexample",
-    "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/\">https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48998362\">https://news.ycombinator.com/item?id=48998362</a></p>\n<p>Points: 268</p>\n<p># Comments: 98</p>",
-    "published": "2026-07-21T21:09:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "summary": "<p><a href=\"https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https://www.axios.com/2026/07/21/openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https://news.ycombinator.com/item?id=48956248\">https://news.ycombinator.com/item?id=48956248</a> (9 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997548\">https://news.ycombinator.com/item?id=48997548</a></p>\n<p>Points: 1206</p>\n<p># Comments: 831</p>",
-    "published": "2026-07-21T20:09:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-    "link": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-    "summary": "<p>Article URL: <a href=\"https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling\">https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48997221\">https://news.ycombinator.com/item?id=48997221</a></p>\n<p>Points: 574</p>\n<p># Comments: 105</p>",
-    "published": "2026-07-21T19:43:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Google Releases Three New Gemini A.I. Models",
     "link": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
     "summary": "The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.",
     "published": "2026-07-21T19:38:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-    "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\">https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996652\">https://news.ycombinator.com/item?id=48996652</a></p>\n<p>Points: 382</p>\n<p># Comments: 327</p>",
-    "published": "2026-07-21T19:04:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Advertise in ChatGPT",
-    "link": "https://ads.openai.com/",
-    "summary": "<p>Article URL: <a href=\"https://ads.openai.com/\">https://ads.openai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996571\">https://news.ycombinator.com/item?id=48996571</a></p>\n<p>Points: 799</p>\n<p># Comments: 607</p>",
-    "published": "2026-07-21T18:58:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FreeInk: Open ecosystem for e-readers",
-    "link": "https://freeink.org/",
-    "summary": "<p>Article URL: <a href=\"https://freeink.org/\">https://freeink.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48996318\">https://news.ycombinator.com/item?id=48996318</a></p>\n<p>Points: 582</p>\n<p># Comments: 122</p>",
-    "published": "2026-07-21T18:39:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Laguna S 2.1",
-    "link": "https://poolside.ai/blog/introducing-laguna-s-2-1",
-    "summary": "<p>Article URL: <a href=\"https://poolside.ai/blog/introducing-laguna-s-2-1\">https://poolside.ai/blog/introducing-laguna-s-2-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995261\">https://news.ycombinator.com/item?id=48995261</a></p>\n<p>Points: 328</p>\n<p># Comments: 62</p>",
-    "published": "2026-07-21T17:17:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-    "summary": "<p><a href=\"https://x.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://x.com/jack/status/2079605800998146171</a>, <a href=\"https://xcancel.com/jack/status/2079605800998146171\" rel=\"nofollow\">https://xcancel.com/jack/status/2079605800998146171</a><p><a href=\"https://buzz.xyz/\" rel=\"nofollow\">https://buzz.xyz/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995213\">https://news.ycombinator.com/item?id=48995213</a></p>\n<p>Points: 323</p>\n<p># Comments: 277</p>",
-    "published": "2026-07-21T17:14:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bloomy (YC S26) is hiring a founding engineer",
-    "link": "https://news.ycombinator.com/item?id=48995037",
-    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48995037\">https://news.ycombinator.com/item?id=48995037</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-21T17:00:20",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "When Listening to Music Was a Team Sport",
@@ -193,13 +242,6 @@
     "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
     "summary": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
     "published": "2026-07-20T09:02:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
-    "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
-    "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
-    "published": "2026-07-19T16:15:05",
     "source": "NYT > Technology"
   },
   {
@@ -263,20 +305,6 @@
     "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
     "summary": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
     "published": "2026-07-16T13:56:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
-    "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-    "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
-    "published": "2026-07-16T13:24:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
-    "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
-    "summary": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
-    "published": "2026-07-15T18:58:17",
     "source": "NYT > Technology"
   }
 ]
