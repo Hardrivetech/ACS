@@ -1,80 +1,171 @@
 [
   {
-    "title": "QR Codes Make Their Way Down Wedding Aisles",
-    "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
-    "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
-    "published": "2026-07-25T09:00:40",
+    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
+    "link": "https://comuniq.xyz/post?t=1439",
+    "summary": "<p>Article URL: <a href=\"https://comuniq.xyz/post?t=1439\">https://comuniq.xyz/post?t=1439</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056424\">https://news.ycombinator.com/item?id=49056424</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+    "published": "2026-07-26T09:58:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elevated Errors for Opus 5",
+    "link": "https://status.claude.com/incidents/zftg3gqkmv18",
+    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/zftg3gqkmv18\">https://status.claude.com/incidents/zftg3gqkmv18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056194\">https://news.ycombinator.com/item?id=49056194</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-26T09:18:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+    "link": "https://astral.sh/blog/ruff-v0.16.0",
+    "summary": "<p>Article URL: <a href=\"https://astral.sh/blog/ruff-v0.16.0\">https://astral.sh/blog/ruff-v0.16.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056112\">https://news.ycombinator.com/item?id=49056112</a></p>\n<p>Points: 43</p>\n<p># Comments: 5</p>",
+    "published": "2026-07-26T09:01:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
+    "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
+    "summary": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
+    "published": "2026-07-26T09:00:26",
     "source": "NYT > Technology"
   },
   {
-    "title": "MouthPad: A Tongue-Controlled Touchpad",
-    "link": "https://www.augmental.tech/",
-    "summary": "<p>Article URL: <a href=\"https://www.augmental.tech/\">https://www.augmental.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045446\">https://news.ycombinator.com/item?id=49045446</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-25T07:51:19",
+    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+    "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
+    "summary": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
+    "published": "2026-07-26T09:00:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\">https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49055169\">https://news.ycombinator.com/item?id=49055169</a></p>\n<p>Points: 81</p>\n<p># Comments: 38</p>",
+    "published": "2026-07-26T05:57:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Android May Soon Restrict On-Device ADB",
-    "link": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-    "summary": "<p>Article URL: <a href=\"https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/\">https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045159\">https://news.ycombinator.com/item?id=49045159</a></p>\n<p>Points: 227</p>\n<p># Comments: 117</p>",
-    "published": "2026-07-25T06:57:14",
+    "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
+    "link": "https://github.com/mulfyx/w4me-station",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mulfyx/w4me-station\">https://github.com/mulfyx/w4me-station</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054697\">https://news.ycombinator.com/item?id=49054697</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-26T04:19:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "ARC-AGI Leaderboard",
-    "link": "https://arcprize.org/leaderboard",
-    "summary": "<p>Article URL: <a href=\"https://arcprize.org/leaderboard\">https://arcprize.org/leaderboard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49045040\">https://news.ycombinator.com/item?id=49045040</a></p>\n<p>Points: 82</p>\n<p># Comments: 64</p>",
-    "published": "2026-07-25T06:31:40",
+    "title": "JetZero",
+    "link": "https://www.jetzero.aero",
+    "summary": "<p>Article URL: <a href=\"https://www.jetzero.aero\">https://www.jetzero.aero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054224\">https://news.ycombinator.com/item?id=49054224</a></p>\n<p>Points: 205</p>\n<p># Comments: 163</p>",
+    "published": "2026-07-26T02:55:50",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Extinct Media Museum Tokyo",
-    "link": "https://extinct-media-museum.blog.jp/otemachi/",
-    "summary": "<p>Article URL: <a href=\"https://extinct-media-museum.blog.jp/otemachi/\">https://extinct-media-museum.blog.jp/otemachi/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49044874\">https://news.ycombinator.com/item?id=49044874</a></p>\n<p>Points: 34</p>\n<p># Comments: 5</p>",
-    "published": "2026-07-25T05:51:27",
+    "title": "An ESP32 based plane radar for my desk",
+    "link": "https://blog.ktz.me/esp32-plane-radar/",
+    "summary": "<p>Article URL: <a href=\"https://blog.ktz.me/esp32-plane-radar/\">https://blog.ktz.me/esp32-plane-radar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054107\">https://news.ycombinator.com/item?id=49054107</a></p>\n<p>Points: 155</p>\n<p># Comments: 30</p>",
+    "published": "2026-07-26T02:35:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "summary": "<p>Article URL: <a href=\"https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities\">https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49044492\">https://news.ycombinator.com/item?id=49044492</a></p>\n<p>Points: 66</p>\n<p># Comments: 17</p>",
-    "published": "2026-07-25T04:20:21",
+    "title": "Show HN: I mapped every US golf course",
+    "link": "https://golfcoursebrowser.com/",
+    "summary": "<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https://golfcoursebrowser.com/\" rel=\"nofollow\">https://golfcoursebrowser.com/</a><p>It's a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It's free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I'm filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating/slope, and public/private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054010\">https://news.ycombinator.com/item?id=49054010</a></p>\n<p>Points: 132</p>\n<p># Comments: 73</p>",
+    "published": "2026-07-26T02:22:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
-    "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc\">https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49044074\">https://news.ycombinator.com/item?id=49044074</a></p>\n<p>Points: 217</p>\n<p># Comments: 102</p>",
-    "published": "2026-07-25T02:54:36",
+    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
+    "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
+    "summary": "<p>Article URL: <a href=\"https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/\">https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053708\">https://news.ycombinator.com/item?id=49053708</a></p>\n<p>Points: 71</p>\n<p># Comments: 21</p>",
+    "published": "2026-07-26T01:35:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-    "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-    "summary": "<p>Article URL: <a href=\"https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize\">https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49043724\">https://news.ycombinator.com/item?id=49043724</a></p>\n<p>Points: 231</p>\n<p># Comments: 37</p>",
-    "published": "2026-07-25T01:44:12",
+    "title": "Git rebase -I is not that scary",
+    "link": "https://cachebag.sh/journal/interactive-rebasing/",
+    "summary": "<p>Article URL: <a href=\"https://cachebag.sh/journal/interactive-rebasing/\">https://cachebag.sh/journal/interactive-rebasing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053385\">https://news.ycombinator.com/item?id=49053385</a></p>\n<p>Points: 72</p>\n<p># Comments: 80</p>",
+    "published": "2026-07-26T00:37:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-    "link": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-    "summary": "<p>Article URL: <a href=\"https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/\">https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49042751\">https://news.ycombinator.com/item?id=49042751</a></p>\n<p>Points: 97</p>\n<p># Comments: 20</p>",
-    "published": "2026-07-24T23:13:18",
+    "title": "Systems and Delays",
+    "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "summary": "<p>Article URL: <a href=\"https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\">https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053382\">https://news.ycombinator.com/item?id=49053382</a></p>\n<p>Points: 60</p>\n<p># Comments: 14</p>",
+    "published": "2026-07-26T00:37:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-    "link": "https://artificialanalysis.ai/models",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models\">https://artificialanalysis.ai/models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040741\">https://news.ycombinator.com/item?id=49040741</a></p>\n<p>Points: 300</p>\n<p># Comments: 166</p>",
-    "published": "2026-07-24T19:45:10",
+    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+    "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/owensong/Inflect-Micro-v2\">https://huggingface.co/owensong/Inflect-Micro-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053375\">https://news.ycombinator.com/item?id=49053375</a></p>\n<p>Points: 137</p>\n<p># Comments: 11</p>",
+    "published": "2026-07-26T00:36:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Postgres LISTEN/NOTIFY actually scales",
-    "link": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-    "summary": "<p>Article URL: <a href=\"https://www.dbos.dev/blog/postgres-listen-notify-scalability\">https://www.dbos.dev/blog/postgres-listen-notify-scalability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49040296\">https://news.ycombinator.com/item?id=49040296</a></p>\n<p>Points: 310</p>\n<p># Comments: 59</p>",
-    "published": "2026-07-24T19:05:53",
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "summary": "<p>Article URL: <a href=\"https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052912\">https://news.ycombinator.com/item?id=49052912</a></p>\n<p>Points: 156</p>\n<p># Comments: 105</p>",
+    "published": "2026-07-25T23:32:50",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Clinical failure rates over the decades: yikes",
+    "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052628\">https://news.ycombinator.com/item?id=49052628</a></p>\n<p>Points: 105</p>\n<p># Comments: 85</p>",
+    "published": "2026-07-25T22:57:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "summary": "<p>Article URL: <a href=\"https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\">https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052570\">https://news.ycombinator.com/item?id=49052570</a></p>\n<p>Points: 96</p>\n<p># Comments: 108</p>",
+    "published": "2026-07-25T22:51:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare's new AI traffic options for customers",
+    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/content-independence-day-ai-options/\">https://blog.cloudflare.com/content-independence-day-ai-options/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052564\">https://news.ycombinator.com/item?id=49052564</a></p>\n<p>Points: 124</p>\n<p># Comments: 98</p>",
+    "published": "2026-07-25T22:50:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+    "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/sodium-ion-battery-peak-energy\">https://spectrum.ieee.org/sodium-ion-battery-peak-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051947\">https://news.ycombinator.com/item?id=49051947</a></p>\n<p>Points: 178</p>\n<p># Comments: 76</p>",
+    "published": "2026-07-25T21:48:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 338</p>\n<p># Comments: 221</p>",
+    "published": "2026-07-25T20:42:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
+    "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
+    "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
+    "published": "2026-07-25T20:07:33",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "LLM Usage in Debian: Three Proposals",
+    "link": "https://www.debian.org/vote/2026/vote_002",
+    "summary": "<p>Article URL: <a href=\"https://www.debian.org/vote/2026/vote_002\">https://www.debian.org/vote/2026/vote_002</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050859\">https://news.ycombinator.com/item?id=49050859</a></p>\n<p>Points: 163</p>\n<p># Comments: 145</p>",
+    "published": "2026-07-25T19:44:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+    "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+    "summary": "<p>Article URL: <a href=\"https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/\">https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050735\">https://news.ycombinator.com/item?id=49050735</a></p>\n<p>Points: 123</p>\n<p># Comments: 90</p>",
+    "published": "2026-07-25T19:30:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "QR Codes Make Their Way Down Wedding Aisles",
+    "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
+    "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
+    "published": "2026-07-25T13:10:29",
+    "source": "NYT > Technology"
   },
   {
     "title": "Meta Launches New Facebook Marketplace App Called Seller",
@@ -84,20 +175,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Claude Opus 5",
-    "link": "https://www.anthropic.com/news/claude-opus-5",
-    "summary": "<p><a href=\"https://www.anthropic.com/claude-opus-5-system-card\" rel=\"nofollow\">https://www.anthropic.com/claude-opus-5-system-card</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49038433\">https://news.ycombinator.com/item?id=49038433</a></p>\n<p>Points: 1563</p>\n<p># Comments: 908</p>",
-    "published": "2026-07-24T16:57:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Don't Take the Black Pill [video]",
-    "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=zLZwpH5lCD4\">https://www.youtube.com/watch?v=zLZwpH5lCD4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49038298\">https://news.ycombinator.com/item?id=49038298</a></p>\n<p>Points: 187</p>\n<p># Comments: 157</p>",
-    "published": "2026-07-24T16:48:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
     "link": "https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html",
     "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.",
@@ -105,46 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "summary": "<p>Letter: <a href=\"https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf\" rel=\"nofollow\">https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L...</a> [pdf]<p><a href=\"https://x.com/JensenHuang/status/2080643682408321103\" rel=\"nofollow\">https://x.com/JensenHuang/status/2080643682408321103</a>, <a href=\"https://xcancel.com/JensenHuang/status/2080643682408321103\" rel=\"nofollow\">https://xcancel.com/JensenHuang/status/2080643682408321103</a><p><a href=\"https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/\" rel=\"nofollow\">https://www.wired.com/story/silicon-valley-is-completely-div...</a>, <a href=\"https://archive.ph/LAkVI\" rel=\"nofollow\">https://archive.ph/LAkVI</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49035303\">https://news.ycombinator.com/item?id=49035303</a></p>\n<p>Points: 612</p>\n<p># Comments: 268</p>",
-    "published": "2026-07-24T13:32:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Half-Life 2 running natively on HaikuOS",
-    "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "summary": "<p>Article URL: <a href=\"https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18\">https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034868\">https://news.ycombinator.com/item?id=49034868</a></p>\n<p>Points: 306</p>\n<p># Comments: 56</p>",
-    "published": "2026-07-24T12:53:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My security camera shipped a GitHub admin token in its login page",
-    "link": "https://hhh.hn/hanwha-github-token/",
-    "summary": "<p>Article URL: <a href=\"https://hhh.hn/hanwha-github-token/\">https://hhh.hn/hanwha-github-token/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034292\">https://news.ycombinator.com/item?id=49034292</a></p>\n<p>Points: 596</p>\n<p># Comments: 191</p>",
-    "published": "2026-07-24T11:54:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
     "link": "https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html",
     "summary": "“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”",
     "published": "2026-07-24T11:00:03",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-    "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "summary": "<p>Article URL: <a href=\"https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/\">https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033240\">https://news.ycombinator.com/item?id=49033240</a></p>\n<p>Points: 299</p>\n<p># Comments: 358</p>",
-    "published": "2026-07-24T09:52:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Future euro banknote design proposals",
-    "link": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html",
-    "summary": "<p><a href=\"https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\" rel=\"nofollow\">https://www.ecb.europa.eu/euro/banknotes/future_banknotes/ht...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033110\">https://news.ycombinator.com/item?id=49033110</a></p>\n<p>Points: 199</p>\n<p># Comments: 187</p>",
-    "published": "2026-07-24T09:29:44",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Judge Extends Pause for Paramount-Warner Bros. Deal",
@@ -159,27 +201,6 @@
     "summary": "The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips known as central processing units.",
     "published": "2026-07-23T22:09:59",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Fil-C: Garbage In, Memory Safety Out [video]",
-    "link": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=5F-2Y1LPRek\">https://www.youtube.com/watch?v=5F-2Y1LPRek</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49026933\">https://news.ycombinator.com/item?id=49026933</a></p>\n<p>Points: 140</p>\n<p># Comments: 144</p>",
-    "published": "2026-07-23T19:37:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
-    "link": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
-    "summary": "China is seeking global influence and good will with its open, low-cost artificial intelligence software.",
-    "published": "2026-07-23T17:11:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Kimi K3 exploited the latest Redis server",
-    "link": "https://twitter.com/fried_rice/status/2080059356322918777",
-    "summary": "<p><a href=\"https://xcancel.com/fried_rice/status/2080059356322918777\" rel=\"nofollow\">https://xcancel.com/fried_rice/status/2080059356322918777</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49024938\">https://news.ycombinator.com/item?id=49024938</a></p>\n<p>Points: 228</p>\n<p># Comments: 64</p>",
-    "published": "2026-07-23T17:10:02",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
@@ -217,13 +238,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "link": "https://globaloilnetwork.staffinganalytics.io/",
-    "summary": "<p>OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade.<p>The model:\nThe mechanics are the same as the financial network Eisenberg-Noe: Instead of banks, every country consumes oil interconnected via bilateral trading. Shocks propagate throughout the network, depleting oil reserves when bottleneck nodes (such as the Strait of Hormuz) are blocked.<p>Insights:\nThe interesting part is the mechanics of how the crisis unfolds: for example, France receives 0 oil from Hormuz directly, yet their reserves are depleted faster because other countries reactively increase their safety oil stock, increasing oil price, making stockouts more expensive for everyone.<p>The model also gives price dynamics which are interesting on their own: the price increase is not immediate, it follows sequentially as countries reserves deplete.<p>Some caveats:\n1. For producer nodes, depletion means their export slack is reduced/exhausted.\n2. No sanctioned trade (UN Comtrade data)<p>Technical Details:\nThe visualization is 600 lines of flask plus js frontend (LLM assisted visualization with ground-truth matching the original numerical exercise of the paper)<p>Paper with proofs/theory:\n<a href=\"https://arxiv.org/abs/2607.17491\" rel=\"nofollow\">https://arxiv.org/abs/2607.17491</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49020545\">https://news.ycombinator.com/item?id=49020545</a></p>\n<p>Points: 183</p>\n<p># Comments: 87</p>",
-    "published": "2026-07-23T12:31:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
     "link": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
     "summary": "Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.",
@@ -235,13 +249,6 @@
     "link": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
     "summary": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
     "published": "2026-07-22T22:18:54",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
-    "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
-    "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.",
-    "published": "2026-07-22T17:01:13",
     "source": "NYT > Technology"
   },
   {
@@ -298,20 +305,6 @@
     "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
     "summary": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
     "published": "2026-07-20T09:02:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
-    "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
-    "summary": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”",
-    "published": "2026-07-19T14:07:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
-    "link": "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html",
-    "summary": "Everyone is watching the goals after they happen, and some get them significantly faster.",
-    "published": "2026-07-18T15:48:06",
     "source": "NYT > Technology"
   }
 ]
