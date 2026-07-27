@@ -1,30 +1,156 @@
 [
   {
-    "title": "No Stack Overflow, No Autocomplete: What Coding Felt Like in the 80s",
-    "link": "https://comuniq.xyz/post?t=1439",
-    "summary": "<p>Article URL: <a href=\"https://comuniq.xyz/post?t=1439\">https://comuniq.xyz/post?t=1439</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056424\">https://news.ycombinator.com/item?id=49056424</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
-    "published": "2026-07-26T09:58:11",
+    "title": "Elevated errors on Claude Opus 5",
+    "link": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/mfdtrknpxghq\">https://status.claude.com/incidents/mfdtrknpxghq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49068029\">https://news.ycombinator.com/item?id=49068029</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+    "published": "2026-07-27T11:32:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Elevated Errors for Opus 5",
-    "link": "https://status.claude.com/incidents/zftg3gqkmv18",
-    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/zftg3gqkmv18\">https://status.claude.com/incidents/zftg3gqkmv18</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056194\">https://news.ycombinator.com/item?id=49056194</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-26T09:18:34",
+    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
+    "link": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
+    "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available\">https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067919\">https://news.ycombinator.com/item?id=49067919</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-27T11:19:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-    "link": "https://astral.sh/blog/ruff-v0.16.0",
-    "summary": "<p>Article URL: <a href=\"https://astral.sh/blog/ruff-v0.16.0\">https://astral.sh/blog/ruff-v0.16.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49056112\">https://news.ycombinator.com/item?id=49056112</a></p>\n<p>Points: 43</p>\n<p># Comments: 5</p>",
-    "published": "2026-07-26T09:01:39",
+    "title": "How is the Bun Rewrite in Rust going?",
+    "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "summary": "<p>Article URL: <a href=\"https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html\">https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067854\">https://news.ycombinator.com/item?id=49067854</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
+    "published": "2026-07-27T11:12:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Birth of the American 12-string Guitar",
+    "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+    "summary": "<p>Article URL: <a href=\"https://www.harpguitars.net/history/grunewald/12-string.htm\">https://www.harpguitars.net/history/grunewald/12-string.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067690\">https://news.ycombinator.com/item?id=49067690</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
+    "published": "2026-07-27T10:52:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "If digital computers are conscious, they are conscious at the hardware level",
+    "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
+    "summary": "<p>Article URL: <a href=\"https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html\">https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067556\">https://news.ycombinator.com/item?id=49067556</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
+    "published": "2026-07-27T10:33:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Libsm64: Mario 64 as a library for use in external game engines",
+    "link": "https://github.com/libsm64/libsm64",
+    "summary": "<p>Article URL: <a href=\"https://github.com/libsm64/libsm64\">https://github.com/libsm64/libsm64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067352\">https://news.ycombinator.com/item?id=49067352</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
+    "published": "2026-07-27T10:04:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+    "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+    "summary": "<p>Article URL: <a href=\"https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/\">https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067301\">https://news.ycombinator.com/item?id=49067301</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "2026-07-27T09:58:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Shay Locomotives",
+    "link": "https://www.shaylocomotives.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.shaylocomotives.com/\">https://www.shaylocomotives.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067043\">https://news.ycombinator.com/item?id=49067043</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-07-27T09:23:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chinese chipmaker shares surge 470%",
+    "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9q9w3x9qn2o\">https://www.bbc.com/news/articles/c9q9w3x9qn2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066962\">https://news.ycombinator.com/item?id=49066962</a></p>\n<p>Points: 86</p>\n<p># Comments: 76</p>",
+    "published": "2026-07-27T09:11:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "VLC for Unity now supported on Linux",
+    "link": "https://code.videolan.org/videolan/vlc-unity",
+    "summary": "<p>Article URL: <a href=\"https://code.videolan.org/videolan/vlc-unity\">https://code.videolan.org/videolan/vlc-unity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066928\">https://news.ycombinator.com/item?id=49066928</a></p>\n<p>Points: 37</p>\n<p># Comments: 7</p>",
+    "published": "2026-07-27T09:06:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
+    "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+    "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
+    "published": "2026-07-27T09:00:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How Unix spell ran in 64 kB of RAM",
+    "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
+    "summary": "<p>Article URL: <a href=\"https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram\">https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066750\">https://news.ycombinator.com/item?id=49066750</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-27T08:43:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Modern email can be built from borrowed parts",
+    "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+    "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/\">https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066639\">https://news.ycombinator.com/item?id=49066639</a></p>\n<p>Points: 28</p>\n<p># Comments: 5</p>",
+    "published": "2026-07-27T08:27:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elevated errors on Claude Opus 5",
+    "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
+    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/lhqp09kxq7pb\">https://status.claude.com/incidents/lhqp09kxq7pb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066591\">https://news.ycombinator.com/item?id=49066591</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
+    "published": "2026-07-27T08:20:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+    "link": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+    "summary": "<p>Hey HackerNews,<p>I built this project over the last few weeks as a palette cleanser from a failed game launch.<p>I wanted to learn a bit about AI/Neural-Networks and naively thought I could build a tiny maze-solving AI in a weekend with a 100% solve rate.<p>Well - I couldn't, but I got pretty close. 14 Bytes total model size, and a 96.5% solve rate on unseen mazes. Trained across 46 phases experimenting with different ideas to improve the model (better performance, smaller size).<p>Its quite fun to watch the model attempt to solve the maze, when they fail its usually due to getting stuck in a loop. The models have no access to coordinates, map-data, or external memory scratches - they must navigate using only immediate local neighbourhood observations.<p>There is a model dropdown and you can see how the model has progressed over each phase, constantly getting smaller and increasing its solve rate. Total trained models number in the thousands - I just expose the winning models from each phase.<p>Overall a fun experiment, with much implementation help from AI agents to scaffold and implement the code (I'm a lazy software dev).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066083\">https://news.ycombinator.com/item?id=49066083</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+    "published": "2026-07-27T07:15:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kimi-K3 Releases on HuggingFace 7/27",
+    "link": "https://huggingface.co/moonshotai/Kimi-K3",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K3\">https://huggingface.co/moonshotai/Kimi-K3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49065752\">https://news.ycombinator.com/item?id=49065752</a></p>\n<p>Points: 477</p>\n<p># Comments: 219</p>",
+    "published": "2026-07-27T06:18:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "PGSimCity - How PostgreSQL Works",
+    "link": "https://nikolays.github.io/PGSimCity/",
+    "summary": "<p>Article URL: <a href=\"https://nikolays.github.io/PGSimCity/\">https://nikolays.github.io/PGSimCity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063754\">https://news.ycombinator.com/item?id=49063754</a></p>\n<p>Points: 689</p>\n<p># Comments: 66</p>",
+    "published": "2026-07-27T00:19:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fonts In Use – Find out where a font is used",
+    "link": "https://fontsinuse.com/",
+    "summary": "<p>Article URL: <a href=\"https://fontsinuse.com/\">https://fontsinuse.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063523\">https://news.ycombinator.com/item?id=49063523</a></p>\n<p>Points: 82</p>\n<p># Comments: 10</p>",
+    "published": "2026-07-26T23:45:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+    "link": "https://github.com/vercel-labs/scriptc",
+    "summary": "<p>Article URL: <a href=\"https://github.com/vercel-labs/scriptc\">https://github.com/vercel-labs/scriptc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063175\">https://news.ycombinator.com/item?id=49063175</a></p>\n<p>Points: 210</p>\n<p># Comments: 107</p>",
+    "published": "2026-07-26T22:46:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html\">https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063022\">https://news.ycombinator.com/item?id=49063022</a></p>\n<p>Points: 879</p>\n<p># Comments: 675</p>",
+    "published": "2026-07-26T22:21:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We have proof automation now",
+    "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+    "summary": "<p>Article URL: <a href=\"https://www.imperialviolet.org/2026/07/26/zstd-lean.html\">https://www.imperialviolet.org/2026/07/26/zstd-lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49062291\">https://news.ycombinator.com/item?id=49062291</a></p>\n<p>Points: 185</p>\n<p># Comments: 71</p>",
+    "published": "2026-07-26T20:53:26",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
     "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
     "summary": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
-    "published": "2026-07-26T09:00:26",
+    "published": "2026-07-26T11:04:36",
     "source": "NYT > Technology"
   },
   {
@@ -35,136 +161,17 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "GrapheneOS protections against data extraction from locked devices",
-    "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "summary": "<p>Article URL: <a href=\"https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices\">https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49055169\">https://news.ycombinator.com/item?id=49055169</a></p>\n<p>Points: 81</p>\n<p># Comments: 38</p>",
-    "published": "2026-07-26T05:57:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "W4ME Station – a WASM-4 runtime for Java ME phones",
-    "link": "https://github.com/mulfyx/w4me-station",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mulfyx/w4me-station\">https://github.com/mulfyx/w4me-station</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054697\">https://news.ycombinator.com/item?id=49054697</a></p>\n<p>Points: 18</p>\n<p># Comments: 3</p>",
-    "published": "2026-07-26T04:19:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "JetZero",
-    "link": "https://www.jetzero.aero",
-    "summary": "<p>Article URL: <a href=\"https://www.jetzero.aero\">https://www.jetzero.aero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054224\">https://news.ycombinator.com/item?id=49054224</a></p>\n<p>Points: 205</p>\n<p># Comments: 163</p>",
-    "published": "2026-07-26T02:55:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An ESP32 based plane radar for my desk",
-    "link": "https://blog.ktz.me/esp32-plane-radar/",
-    "summary": "<p>Article URL: <a href=\"https://blog.ktz.me/esp32-plane-radar/\">https://blog.ktz.me/esp32-plane-radar/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054107\">https://news.ycombinator.com/item?id=49054107</a></p>\n<p>Points: 155</p>\n<p># Comments: 30</p>",
-    "published": "2026-07-26T02:35:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: I mapped every US golf course",
-    "link": "https://golfcoursebrowser.com/",
-    "summary": "<p>I got tired of Googling basic course info, so I made a free directory of every US course<p>Google filters for golf course results are terrible so I built a better way to browse courses using OSM as the backbone.... <a href=\"https://golfcoursebrowser.com/\" rel=\"nofollow\">https://golfcoursebrowser.com/</a><p>It's a work in progress and mostly US for now, but I want to expand to the rest of North America, the EU, and the rest of the world ASAP.<p>It's free, no ads, no login, no bs. If you spot anything wrong (bad info, a missing course, wrong scorecard), you can flag it right on the course page. I actually read those and fix them.<p>Still a lot of missing info, but I'm filling out more and more each day. The goal is the most complete, and current golf course directory in the world, verified and maintained by actual golfers. I think is attainable in the next few months.\nThe base layer is OpenStreetMap, cross-checked against course websites and enriched with scorecards, USGA rating/slope, and public/private status. User corrections from golfers who know their home course have beaten every commercial data source we check against.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49054010\">https://news.ycombinator.com/item?id=49054010</a></p>\n<p>Points: 132</p>\n<p># Comments: 73</p>",
-    "published": "2026-07-26T02:22:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Alien World Chemistry Found Inside Meteorite That Struck New Jersey Home",
-    "link": "https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/",
-    "summary": "<p>Article URL: <a href=\"https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/\">https://www.seti.org/news/alien-world-chemistry-found-inside-meteorite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053708\">https://news.ycombinator.com/item?id=49053708</a></p>\n<p>Points: 71</p>\n<p># Comments: 21</p>",
-    "published": "2026-07-26T01:35:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Git rebase -I is not that scary",
-    "link": "https://cachebag.sh/journal/interactive-rebasing/",
-    "summary": "<p>Article URL: <a href=\"https://cachebag.sh/journal/interactive-rebasing/\">https://cachebag.sh/journal/interactive-rebasing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053385\">https://news.ycombinator.com/item?id=49053385</a></p>\n<p>Points: 72</p>\n<p># Comments: 80</p>",
-    "published": "2026-07-26T00:37:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Systems and Delays",
-    "link": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-    "summary": "<p>Article URL: <a href=\"https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\">https://martin.janiczek.cz/2026/07/24/systems-and-delays.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053382\">https://news.ycombinator.com/item?id=49053382</a></p>\n<p>Points: 60</p>\n<p># Comments: 14</p>",
-    "published": "2026-07-26T00:37:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-    "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-    "summary": "<p>Article URL: <a href=\"https://huggingface.co/owensong/Inflect-Micro-v2\">https://huggingface.co/owensong/Inflect-Micro-v2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49053375\">https://news.ycombinator.com/item?id=49053375</a></p>\n<p>Points: 137</p>\n<p># Comments: 11</p>",
-    "published": "2026-07-26T00:36:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "summary": "<p>Article URL: <a href=\"https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\">https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052912\">https://news.ycombinator.com/item?id=49052912</a></p>\n<p>Points: 156</p>\n<p># Comments: 105</p>",
-    "published": "2026-07-25T23:32:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Clinical failure rates over the decades: yikes",
-    "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\">https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052628\">https://news.ycombinator.com/item?id=49052628</a></p>\n<p>Points: 105</p>\n<p># Comments: 85</p>",
-    "published": "2026-07-25T22:57:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "summary": "<p>Article URL: <a href=\"https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality\">https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052570\">https://news.ycombinator.com/item?id=49052570</a></p>\n<p>Points: 96</p>\n<p># Comments: 108</p>",
-    "published": "2026-07-25T22:51:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cloudflare's new AI traffic options for customers",
-    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/content-independence-day-ai-options/\">https://blog.cloudflare.com/content-independence-day-ai-options/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49052564\">https://news.ycombinator.com/item?id=49052564</a></p>\n<p>Points: 124</p>\n<p># Comments: 98</p>",
-    "published": "2026-07-25T22:50:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-    "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/sodium-ion-battery-peak-energy\">https://spectrum.ieee.org/sodium-ion-battery-peak-energy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051947\">https://news.ycombinator.com/item?id=49051947</a></p>\n<p>Points: 178</p>\n<p># Comments: 76</p>",
-    "published": "2026-07-25T21:48:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The new rules of context engineering for Claude 5 generation models",
-    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\">https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49051361\">https://news.ycombinator.com/item?id=49051361</a></p>\n<p>Points: 338</p>\n<p># Comments: 221</p>",
-    "published": "2026-07-25T20:42:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
     "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
     "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
-    "published": "2026-07-25T20:07:33",
+    "published": "2026-07-25T20:07:34",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "LLM Usage in Debian: Three Proposals",
-    "link": "https://www.debian.org/vote/2026/vote_002",
-    "summary": "<p>Article URL: <a href=\"https://www.debian.org/vote/2026/vote_002\">https://www.debian.org/vote/2026/vote_002</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050859\">https://news.ycombinator.com/item?id=49050859</a></p>\n<p>Points: 163</p>\n<p># Comments: 145</p>",
-    "published": "2026-07-25T19:44:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-    "link": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-    "summary": "<p>Article URL: <a href=\"https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/\">https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49050735\">https://news.ycombinator.com/item?id=49050735</a></p>\n<p>Points: 123</p>\n<p># Comments: 90</p>",
-    "published": "2026-07-25T19:30:24",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "QR Codes Make Their Way Down Wedding Aisles",
     "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
     "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
-    "published": "2026-07-25T13:10:29",
+    "published": "2026-07-25T13:10:30",
     "source": "NYT > Technology"
   },
   {
@@ -298,13 +305,6 @@
     "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
     "summary": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
     "published": "2026-07-20T14:02:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
-    "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-    "summary": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
-    "published": "2026-07-20T09:02:12",
     "source": "NYT > Technology"
   }
 ]
