@@ -1,163 +1,212 @@
 [
   {
-    "title": "Elevated errors on Claude Opus 5",
-    "link": "https://status.claude.com/incidents/mfdtrknpxghq",
-    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/mfdtrknpxghq\">https://status.claude.com/incidents/mfdtrknpxghq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49068029\">https://news.ycombinator.com/item?id=49068029</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-27T11:32:32",
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "summary": "<p>Article URL: <a href=\"https://spawn-queue.acm.org/doi/10.1145/3819083\">https://spawn-queue.acm.org/doi/10.1145/3819083</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49081644\">https://news.ycombinator.com/item?id=49081644</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+    "published": "2026-07-28T09:59:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Google Chrome Arrives on ARM64 Linux, Widevine DRM Included",
-    "link": "https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available",
-    "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available\">https://www.omgubuntu.co.uk/2026/07/chrome-arm64-linux-available</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067919\">https://news.ycombinator.com/item?id=49067919</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-27T11:19:33",
+    "title": "What Even Are Microservices?",
+    "link": "https://var0.xyz/posts/what-even-are-microservices.html",
+    "summary": "<p>Article URL: <a href=\"https://var0.xyz/posts/what-even-are-microservices.html\">https://var0.xyz/posts/what-even-are-microservices.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49081594\">https://news.ycombinator.com/item?id=49081594</a></p>\n<p>Points: 27</p>\n<p># Comments: 31</p>",
+    "published": "2026-07-28T09:52:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How is the Bun Rewrite in Rust going?",
-    "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-    "summary": "<p>Article URL: <a href=\"https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html\">https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067854\">https://news.ycombinator.com/item?id=49067854</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
-    "published": "2026-07-27T11:12:26",
+    "title": "About the security content of macOS Tahoe 26.6",
+    "link": "https://support.apple.com/en-us/128067",
+    "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/128067\">https://support.apple.com/en-us/128067</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49081555\">https://news.ycombinator.com/item?id=49081555</a></p>\n<p>Points: 42</p>\n<p># Comments: 20</p>",
+    "published": "2026-07-28T09:45:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Birth of the American 12-string Guitar",
-    "link": "https://www.harpguitars.net/history/grunewald/12-string.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.harpguitars.net/history/grunewald/12-string.htm\">https://www.harpguitars.net/history/grunewald/12-string.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067690\">https://news.ycombinator.com/item?id=49067690</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
-    "published": "2026-07-27T10:52:21",
+    "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
+    "link": "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html",
+    "summary": "CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.",
+    "published": "2026-07-28T09:02:46",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Police Say Binance Is Making It Harder to Fight Crime",
+    "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+    "summary": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+    "published": "2026-07-28T09:00:48",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "7.1 Earthquake in Japan",
+    "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+    "summary": "<p>Article URL: <a href=\"https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en\">https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang;=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49080664\">https://news.ycombinator.com/item?id=49080664</a></p>\n<p>Points: 257</p>\n<p># Comments: 59</p>",
+    "published": "2026-07-28T07:44:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "If digital computers are conscious, they are conscious at the hardware level",
-    "link": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
-    "summary": "<p>Article URL: <a href=\"https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html\">https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067556\">https://news.ycombinator.com/item?id=49067556</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>",
-    "published": "2026-07-27T10:33:25",
+    "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+    "link": "https://arsastronomica.com/",
+    "summary": "<p>Article URL: <a href=\"https://arsastronomica.com/\">https://arsastronomica.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49079727\">https://news.ycombinator.com/item?id=49079727</a></p>\n<p>Points: 67</p>\n<p># Comments: 9</p>",
+    "published": "2026-07-28T05:25:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Libsm64: Mario 64 as a library for use in external game engines",
-    "link": "https://github.com/libsm64/libsm64",
-    "summary": "<p>Article URL: <a href=\"https://github.com/libsm64/libsm64\">https://github.com/libsm64/libsm64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067352\">https://news.ycombinator.com/item?id=49067352</a></p>\n<p>Points: 24</p>\n<p># Comments: 5</p>",
-    "published": "2026-07-27T10:04:48",
+    "title": "Neutrino-1 8B",
+    "link": "https://www.fermionresearch.com/models/neutrino-8b/",
+    "summary": "<p>Article URL: <a href=\"https://www.fermionresearch.com/models/neutrino-8b/\">https://www.fermionresearch.com/models/neutrino-8b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49079490\">https://news.ycombinator.com/item?id=49079490</a></p>\n<p>Points: 90</p>\n<p># Comments: 29</p>",
+    "published": "2026-07-28T04:49:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
-    "link": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-    "summary": "<p>Article URL: <a href=\"https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/\">https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067301\">https://news.ycombinator.com/item?id=49067301</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-27T09:58:50",
+    "title": "PyTorch: A Reference Language",
+    "link": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+    "summary": "<p>Article URL: <a href=\"https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/\">https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49079454\">https://news.ycombinator.com/item?id=49079454</a></p>\n<p>Points: 37</p>\n<p># Comments: 3</p>",
+    "published": "2026-07-28T04:46:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Shay Locomotives",
-    "link": "https://www.shaylocomotives.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.shaylocomotives.com/\">https://www.shaylocomotives.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49067043\">https://news.ycombinator.com/item?id=49067043</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-    "published": "2026-07-27T09:23:29",
+    "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
+    "link": "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html",
+    "summary": "The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.",
+    "published": "2026-07-28T03:08:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Using an open model feels surprisingly good",
+    "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "summary": "<p>Article URL: <a href=\"https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/\">https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078583\">https://news.ycombinator.com/item?id=49078583</a></p>\n<p>Points: 289</p>\n<p># Comments: 112</p>",
+    "published": "2026-07-28T02:37:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Chinese chipmaker shares surge 470%",
-    "link": "https://www.bbc.com/news/articles/c9q9w3x9qn2o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9q9w3x9qn2o\">https://www.bbc.com/news/articles/c9q9w3x9qn2o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066962\">https://news.ycombinator.com/item?id=49066962</a></p>\n<p>Points: 86</p>\n<p># Comments: 76</p>",
-    "published": "2026-07-27T09:11:59",
+    "title": "EYG: A Programming Language for Humans",
+    "link": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+    "summary": "<p>Article URL: <a href=\"https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/\">https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078463\">https://news.ycombinator.com/item?id=49078463</a></p>\n<p>Points: 70</p>\n<p># Comments: 42</p>",
+    "published": "2026-07-28T02:21:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "VLC for Unity now supported on Linux",
-    "link": "https://code.videolan.org/videolan/vlc-unity",
-    "summary": "<p>Article URL: <a href=\"https://code.videolan.org/videolan/vlc-unity\">https://code.videolan.org/videolan/vlc-unity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066928\">https://news.ycombinator.com/item?id=49066928</a></p>\n<p>Points: 37</p>\n<p># Comments: 7</p>",
-    "published": "2026-07-27T09:06:34",
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "link": "https://fermisense.com/when-machines-take-the-wheel/",
+    "summary": "<p>Article URL: <a href=\"https://fermisense.com/when-machines-take-the-wheel/\">https://fermisense.com/when-machines-take-the-wheel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49078454\">https://news.ycombinator.com/item?id=49078454</a></p>\n<p>Points: 209</p>\n<p># Comments: 56</p>",
+    "published": "2026-07-28T02:18:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Vehicle Motion Cues",
+    "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+    "summary": "<p>Article URL: <a href=\"https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios\">https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49077999\">https://news.ycombinator.com/item?id=49077999</a></p>\n<p>Points: 127</p>\n<p># Comments: 58</p>",
+    "published": "2026-07-28T01:13:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DConf 2026 in London",
+    "link": "https://dconf.org/2026/index.html",
+    "summary": "<p>Article URL: <a href=\"https://dconf.org/2026/index.html\">https://dconf.org/2026/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49076840\">https://news.ycombinator.com/item?id=49076840</a></p>\n<p>Points: 97</p>\n<p># Comments: 42</p>",
+    "published": "2026-07-27T23:14:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "C/C++ projects packaged for Zig",
+    "link": "https://github.com/allyourcodebase",
+    "summary": "<p>Article URL: <a href=\"https://github.com/allyourcodebase\">https://github.com/allyourcodebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49076791\">https://news.ycombinator.com/item?id=49076791</a></p>\n<p>Points: 63</p>\n<p># Comments: 35</p>",
+    "published": "2026-07-27T23:09:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kimi K3 Now Available via Telnyx Inference API",
+    "link": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+    "summary": "<p>Moonshot AI released open weights for Kimi K3 today and it's live on Telnyx Inference. The architecture and Moonshot's own benchmarks are in their technical blog. This post is about running it on Telnyx.<p>What we are adding: K3 is now available via the Telnyx Inference API, hosted on GPUs that we own and operate.<p>This matters due to the size of this model. A 2.8T model needs dedicated infra to serve well. Because we own and operate the GPUs, we can contorl throughput. with no inter-provider hops and no cloud tenant, latency is minimized.\nWe have GPUs in each of the US, EU, APAC, and MENA. Inference runs in the region you pick, with zero data retention. We do not store prompts or completions after the response returns.\nBecause we own the infra, the per-token price reflects the cost of running the model, not the cost of renting someone else's plus their margin.<p>We have not benchmarked K3 ourselves yet. Moonshot's own numbers and early third-party evaluations put it at frontier level for coding and agentic work, trailing only Claude Fable 5 and GPT 5.6 Sol on aggregate. Full breakdown in their blog.<p>Pricing on Telnyx: $2.70/1M input tokens, $13.50/1M output tokens, $0.27/1M cached input tokens. Prompt caching enabled by default. Served via an OpenAI-compatible endpoint so you can test easily.<p>Model ID: [MODEL_ID] API: <a href=\"https://api.telnyx.com/v2/ai/chat/completions\" rel=\"nofollow\">https://api.telnyx.com/v2/ai/chat/completions</a> Docs: <a href=\"https://developers.telnyx.com/docs/inference\" rel=\"nofollow\">https://developers.telnyx.com/docs/inference</a> Technical blog (Moonshot): <a href=\"https://www.kimi.com/blog/kimi-k3\" rel=\"nofollow\">https://www.kimi.com/blog/kimi-k3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49076505\">https://news.ycombinator.com/item?id=49076505</a></p>\n<p>Points: 92</p>\n<p># Comments: 45</p>",
+    "published": "2026-07-27T22:46:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md\">https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49076391\">https://news.ycombinator.com/item?id=49076391</a></p>\n<p>Points: 308</p>\n<p># Comments: 70</p>",
+    "published": "2026-07-27T22:37:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Our position on open-weights models",
+    "link": "https://www.anthropic.com/news/position-open-weights-models",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/news/position-open-weights-models\">https://www.anthropic.com/news/position-open-weights-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49076057\">https://news.ycombinator.com/item?id=49076057</a></p>\n<p>Points: 944</p>\n<p># Comments: 1363</p>",
+    "published": "2026-07-27T22:03:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+    "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
+    "summary": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
+    "published": "2026-07-27T20:34:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+    "link": "https://www.rise-reforming.com",
+    "summary": "<p>Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(<a href=\"https://www.rise-reforming.com/\">https://www.rise-reforming.com/</a>). We’re developing a process to convert gas produced at landfills, farms, and wastewater plants (“biogas”) into higher value chemicals. Our technology is modular, designed to be deployed and operated on-site. Think of us as a chemical project developer; we sit between biogas producers (suppliers) and chemical end users (customers). We pay biogas producers for their gas and we make money from selling our chemicals. We're starting with dimethyl ether (DME) as our beachhead chemical because of its high-margin use case in the cosmetics industry and ultimately targeting methanol – a versatile and widely used industrial chemical.<p>Being in a two sided market allows us to target two large problems.<p>(1) On the chemical side: The multi-trillion dollar U.S. chemical and fuel industries are vulnerable to geopolitical conflicts and climate-driven natural disasters. The Iran war has caused global methanol prices to skyrocket – even in the U.S., a net exporter of methanol.\n(<a href=\"https://www.spglobal.com/energy/en/news-research/latest-news/chemicals/032026-global-methanol-prices-soar-in-response-to-middle-east-war#:~:text=the%20second%20quarter.-,Americas,-While\" rel=\"nofollow\">https://www.spglobal.com/energy/en/news-research/latest-news...</a> the US). In 2021, Winter Storm Uri wiped out 60% of U.S. organic chemicals production for at least a month (<a href=\"https://www.dallasfed.org/research/swe/2021/swe2102/swe2102c#:~:text=other%20vehicle%20parts.-,As,-much%20as%2080\" rel=\"nofollow\">https://www.dallasfed.org/research/swe/2021/swe2102/swe2102c...</a>). The problem? Centralized production and fossil-fuel dependence. The solution isn't unknown; decentralized, fossil-free production could insulate supply chains from these shocks. But distributed green chemical production has yet to become cost-competitive with the status quo. Unlocking it requires the right feedstock paired with the right process and strategy.<p>Also, the chemical industry’s reliance on fossil fuels makes it responsible for 5-6% of global greenhouse gas emissions. About 40% of the industry’s well-to-gate emissions\ncome from just the extraction, processing, and transportation of these fossil fuels<p>(<a href=\"https://rmi.org/resources/chemistry-in-transition-charting-solutions-for-a-low-emissions-chemical-industry/#:~:text=and%20energy%20use.-,Exhibit%205,-%3A%20Key%20Categories\" rel=\"nofollow\">https://rmi.org/resources/chemistry-in-transition-charting-s...</a>).<p>(2) Biogas is an ideal feedstock to address Problem 1. It is decentralized, plentiful, and a large part of it is not properly utilized. Biogas is a mixture of methane (CH4) and carbon dioxide (CO2), produced as a result of anaerobic digestion at landfills, farms, and wastewater plants, and can be used as a raw material in chemical manufacturing. The U.S. produces around 780 billion cubic feet of biogas a year – if we converted all that biogas into methanol, that’s about $20 billion a year. Currently, about 60% of this biogas is either burned for power/heat (low-margin and unreliable) or flared altogether. The rest is used in the highly subsidized renewable natural gas (RNG) market\n(<a href=\"https://americanbiogascouncil.org/abcs-data-digest-lite-july-2025-primary-end-use-of-biogas/\" rel=\"nofollow\">https://americanbiogascouncil.org/abcs-data-digest-lite-july...</a>).\nThe result: many biogas producers leave substantial revenue on the table and experience huge\noperational headaches.<p>Our modular technology takes in biogas, electricity, and water as inputs. Co-location with biogas\nproducers allows us to tap into their existing infrastructure and speeds up permitting vs a greenfield project. Our 3 step process is outlined below:<p>Step 1: We clean the biogas of contaminants. That means running the gas over specialized\nadsorbents that trap any nasty sulfur-containing and silicon-containing compounds we don’t\nwant in our process.<p>Step 2: We reform that biogas into an intermediate gas called syngas through the\nbi-reforming process, which combines the novel dry methane reforming reaction with the\nlegacy steam methane reforming reaction. Syngas is a versatile combination of H2 and CO and\nis the building block for many chemicals, allowing us to be a platform company.<p>Step 3: Lastly, we upgrade that syngas into our end chemicals. We do this step using\nconventional catalysts and operating conditions.<p>The modular approach paired with our patent-pending integrated process makes our solution one of the cheapest ways of making green chemicals.<p>Where are we today?<p>We’ve completed our proof-of-concept in the lab and just broke ground on our\npilot plant at a Chicagoland wastewater plant that currently flares all of its biogas. We will convert that wasted biogas into methanol. Estimated commissioning is Q1 2027.<p>We all met at the University of Chicago studying Molecular Engineering and started the company back in June 2024. Rise Reforming’s first iteration came after attending a talk from an Argonne National Laboratory researcher on low-carbon fuels. In that seminar, we heard about a reaction called “dry reforming” wherein one can react CH4 with CO2, effectively eliminating both pollutants and making useful syngas (CO + H2). We realized that this reaction could enable cheaper decarbonization of  chemicals than the legacy electrolysis pathway and started to build a technoeconomic analysis.<p>George has a background in energy generation, storage, and carbon capture. He was an early\nemployee at Highland Electric Fleets (now a unicorn) and later worked at Nexamp, GenH, and Mantel Capture – researching various battery chemistries, building a first-of-a-kind (FOAK) modular hydropower system, and helping prove a novel point-source capture prototype. He also conducted battery research at UChicago's Patel Lab and Rowan Group, co-authoring two papers.<p>Lucas led the design, procurement, construction, and operation of Rise Reforming’s bench-scale reforming unit with controls that operated successfully for over 1800+ continuous hours. Prior to Rise, he worked at Avangrid (Iberdrola Group) with the offshore wind project services team and did transmutation research of spent nuclear fuel at Argonne National Laboratory.<p>Jona also studied Molecular Engineering at the University of Chicago. He grew up around the marine industry and brings deep knowledge of the space to the team. While at UChicago, he conducted research in the Patel Lab on batteries and sustainable polymer applications and built novel equipment for the lab, including a high-throughput cyclic voltammetry battery performance testing device. Our advisory board has 220+ combined years in aerosols, permitting/safety, low-carbon fuels, catalysts, scale-up, automated modular chemical plants, and wastewater treatment.<p>Here’s our launch video if you want to put faces to the names: <a href=\"https://youtu.be/Bx_ASPapxlQ?si=PAlqvd1eUhW8kjJm\" rel=\"nofollow\">https://youtu.be/Bx_ASPapxlQ?si=PAlqvd1eUhW8kjJm</a>.<p>We’d appreciate any feedback, questions, or advice. Thank you for reading!\nGeorge, Lucas, and Jona</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49074817\">https://news.ycombinator.com/item?id=49074817</a></p>\n<p>Points: 73</p>\n<p># Comments: 31</p>",
+    "published": "2026-07-27T19:58:22",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
     "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
     "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
-    "published": "2026-07-27T09:00:20",
+    "published": "2026-07-27T19:54:45",
     "source": "NYT > Technology"
   },
   {
-    "title": "How Unix spell ran in 64 kB of RAM",
-    "link": "https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram",
-    "summary": "<p>Article URL: <a href=\"https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram\">https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066750\">https://news.ycombinator.com/item?id=49066750</a></p>\n<p>Points: 45</p>\n<p># Comments: 3</p>",
-    "published": "2026-07-27T08:43:11",
+    "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+    "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+    "summary": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.",
+    "published": "2026-07-27T19:11:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Self-contained highly-portable Python distributions",
+    "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "summary": "<p>Article URL: <a href=\"https://gregoryszorc.com/docs/python-build-standalone/main/\">https://gregoryszorc.com/docs/python-build-standalone/main/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49073942\">https://news.ycombinator.com/item?id=49073942</a></p>\n<p>Points: 149</p>\n<p># Comments: 32</p>",
+    "published": "2026-07-27T18:43:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Modern email can be built from borrowed parts",
-    "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-    "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/\">https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066639\">https://news.ycombinator.com/item?id=49066639</a></p>\n<p>Points: 28</p>\n<p># Comments: 5</p>",
-    "published": "2026-07-27T08:27:21",
+    "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+    "link": "https://github.com/FrigadeHQ/yap",
+    "summary": "<p>Hey HN! I wanted to share this OSS project I've been working on.<p>It's called Yap and its a small menu-bar app for macOS that does voice to text for any input. You'll set a hotkey, press it, talk, press it again, and the text gets pasted into whatever field you were in. Everything runs locally and never leaves your computer. Fully OSS and MIT licensed.<p>With macOS 26, Apple recently added two new APIs, SpeechAnalyzer and SpeechTranscriber, that do streaming on-device speech to text using models the OS ships and manages. So the app ships no model of its own and loads nothing before the first word. A recent benchmark put Apple's model slightly ahead of Whisper Small on accuracy and about 3x faster (see: <a href=\"https://news.ycombinator.com/item?id=48894752\">https://news.ycombinator.com/item?id=48894752</a>). On Mac, there's really no need anymore to download models or pay for expensive APIs.<p>A lot of existing dictation tools do one of a few things I wanted to avoid with this OSS project. They either:<p>- cost money (for something that's literally built into the OS)<p>- bundle memory-intensive models (e.g. Whisper or Parakeet)<p>- webapps wrapped in Electron<p>- Intel macs straight up don't work<p>- closed source<p>- use third-party APIs that will have access to all your transcripts<p>It's around 3,000 lines of native Swift in a 4 MB app and idles near 60 MB of memory. Audio comes off AVAudioEngine into SpeechAnalyzer with volatile results turned on for the live preview, history is stored in SwiftData. There's no network code in it at all.<p>Repo and a demo available here: <a href=\"https://github.com/FrigadeHQ/yap\" rel=\"nofollow\">https://github.com/FrigadeHQ/yap</a><p>Happy to answer questions and would love to hear any feature requests!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49073834\">https://news.ycombinator.com/item?id=49073834</a></p>\n<p>Points: 75</p>\n<p># Comments: 26</p>",
+    "published": "2026-07-27T18:36:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Elevated errors on Claude Opus 5",
-    "link": "https://status.claude.com/incidents/lhqp09kxq7pb",
-    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/lhqp09kxq7pb\">https://status.claude.com/incidents/lhqp09kxq7pb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066591\">https://news.ycombinator.com/item?id=49066591</a></p>\n<p>Points: 19</p>\n<p># Comments: 8</p>",
-    "published": "2026-07-27T08:20:06",
+    "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
+    "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
+    "summary": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
+    "published": "2026-07-27T18:32:35",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+    "link": "https://up.codes/careers?utm_source=HN",
+    "summary": "<p>Article URL: <a href=\"https://up.codes/careers?utm_source=HN\">https://up.codes/careers?utm_source=HN</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49072523\">https://news.ycombinator.com/item?id=49072523</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-27T17:02:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
-    "link": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
-    "summary": "<p>Hey HackerNews,<p>I built this project over the last few weeks as a palette cleanser from a failed game launch.<p>I wanted to learn a bit about AI/Neural-Networks and naively thought I could build a tiny maze-solving AI in a weekend with a 100% solve rate.<p>Well - I couldn't, but I got pretty close. 14 Bytes total model size, and a 96.5% solve rate on unseen mazes. Trained across 46 phases experimenting with different ideas to improve the model (better performance, smaller size).<p>Its quite fun to watch the model attempt to solve the maze, when they fail its usually due to getting stuck in a loop. The models have no access to coordinates, map-data, or external memory scratches - they must navigate using only immediate local neighbourhood observations.<p>There is a model dropdown and you can see how the model has progressed over each phase, constantly getting smaller and increasing its solve rate. Total trained models number in the thousands - I just expose the winning models from each phase.<p>Overall a fun experiment, with much implementation help from AI agents to scaffold and implement the code (I'm a lazy software dev).</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49066083\">https://news.ycombinator.com/item?id=49066083</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-    "published": "2026-07-27T07:15:15",
-    "source": "Hacker News: Front Page"
+    "title": "Microsoft Unveils A.I. Cybersecurity Tools",
+    "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
+    "summary": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
+    "published": "2026-07-27T16:51:15",
+    "source": "NYT > Technology"
   },
   {
-    "title": "Kimi-K3 Releases on HuggingFace 7/27",
-    "link": "https://huggingface.co/moonshotai/Kimi-K3",
-    "summary": "<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K3\">https://huggingface.co/moonshotai/Kimi-K3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49065752\">https://news.ycombinator.com/item?id=49065752</a></p>\n<p>Points: 477</p>\n<p># Comments: 219</p>",
-    "published": "2026-07-27T06:18:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "PGSimCity - How PostgreSQL Works",
-    "link": "https://nikolays.github.io/PGSimCity/",
-    "summary": "<p>Article URL: <a href=\"https://nikolays.github.io/PGSimCity/\">https://nikolays.github.io/PGSimCity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063754\">https://news.ycombinator.com/item?id=49063754</a></p>\n<p>Points: 689</p>\n<p># Comments: 66</p>",
-    "published": "2026-07-27T00:19:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fonts In Use – Find out where a font is used",
-    "link": "https://fontsinuse.com/",
-    "summary": "<p>Article URL: <a href=\"https://fontsinuse.com/\">https://fontsinuse.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063523\">https://news.ycombinator.com/item?id=49063523</a></p>\n<p>Points: 82</p>\n<p># Comments: 10</p>",
-    "published": "2026-07-26T23:45:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-    "link": "https://github.com/vercel-labs/scriptc",
-    "summary": "<p>Article URL: <a href=\"https://github.com/vercel-labs/scriptc\">https://github.com/vercel-labs/scriptc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063175\">https://news.ycombinator.com/item?id=49063175</a></p>\n<p>Points: 210</p>\n<p># Comments: 107</p>",
-    "published": "2026-07-26T22:46:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-    "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html\">https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49063022\">https://news.ycombinator.com/item?id=49063022</a></p>\n<p>Points: 879</p>\n<p># Comments: 675</p>",
-    "published": "2026-07-26T22:21:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We have proof automation now",
-    "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-    "summary": "<p>Article URL: <a href=\"https://www.imperialviolet.org/2026/07/26/zstd-lean.html\">https://www.imperialviolet.org/2026/07/26/zstd-lean.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49062291\">https://news.ycombinator.com/item?id=49062291</a></p>\n<p>Points: 185</p>\n<p># Comments: 71</p>",
-    "published": "2026-07-26T20:53:26",
-    "source": "Hacker News: Front Page"
+    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
+    "link": "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html",
+    "summary": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
+    "published": "2026-07-27T13:45:01",
+    "source": "NYT > Technology"
   },
   {
     "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
     "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
     "summary": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
     "published": "2026-07-26T11:04:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-    "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
-    "summary": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
-    "published": "2026-07-26T09:00:24",
     "source": "NYT > Technology"
   },
   {
@@ -277,34 +326,6 @@
     "link": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
     "summary": "The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.",
     "published": "2026-07-21T19:38:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "When Listening to Music Was a Team Sport",
-    "link": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
-    "summary": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
-    "published": "2026-07-21T09:01:07",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Google’s A.I. Search Is Imperiling the Open Web",
-    "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-    "summary": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
-    "published": "2026-07-21T01:50:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
-    "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
-    "summary": "The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.",
-    "published": "2026-07-20T22:45:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store",
-    "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
-    "summary": "Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.",
-    "published": "2026-07-20T14:02:31",
     "source": "NYT > Technology"
   }
 ]
