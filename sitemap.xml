@@ -1,123 +1,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-07-29</lastmod>
   </url>
   <url>
-    <loc>https://spawn-queue.acm.org/doi/10.1145/3819083</loc>
-    <lastmod>2026-07-28T09:59:13</lastmod>
+    <loc>https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</loc>
+    <lastmod>2026-07-29T10:55:43</lastmod>
   </url>
   <url>
-    <loc>https://var0.xyz/posts/what-even-are-microservices.html</loc>
-    <lastmod>2026-07-28T09:52:31</lastmod>
+    <loc>https://docs.imiron.io/v/0.5.10/en/tour.html</loc>
+    <lastmod>2026-07-29T10:35:19</lastmod>
   </url>
   <url>
-    <loc>https://support.apple.com/en-us/128067</loc>
-    <lastmod>2026-07-28T09:45:43</lastmod>
+    <loc>https://amiga.lychesis.net/index.html</loc>
+    <lastmod>2026-07-29T10:19:44</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html</loc>
-    <lastmod>2026-07-28T09:02:46</lastmod>
+    <loc>https://vimgolf.ai</loc>
+    <lastmod>2026-07-29T09:26:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.co.uk/news/articles/c2el319vzr3o</loc>
+    <lastmod>2026-07-29T09:03:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scattered-thoughts.net/writing/the-shape-of-data/</loc>
+    <lastmod>2026-07-29T08:53:48</lastmod>
+  </url>
+  <url>
+    <loc>https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers</loc>
+    <lastmod>2026-07-29T07:18:24</lastmod>
+  </url>
+  <url>
+    <loc>https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes</loc>
+    <lastmod>2026-07-29T04:58:46</lastmod>
+  </url>
+  <url>
+    <loc>https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html</loc>
+    <lastmod>2026-07-29T04:30:47</lastmod>
+  </url>
+  <url>
+    <loc>https://www.datagubbe.se/scenegui/</loc>
+    <lastmod>2026-07-29T04:30:36</lastmod>
+  </url>
+  <url>
+    <loc>https://transformer-transformer.github.io/</loc>
+    <lastmod>2026-07-29T03:52:29</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.apnic.net/2026/07/28/hooray-for-the-sockets-interface/</loc>
+    <lastmod>2026-07-29T02:25:29</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html</loc>
-    <lastmod>2026-07-28T09:00:48</lastmod>
+    <lastmod>2026-07-29T01:50:24</lastmod>
   </url>
   <url>
-    <loc>https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en</loc>
-    <lastmod>2026-07-28T07:44:24</lastmod>
+    <loc>https://learnvector.ai/</loc>
+    <lastmod>2026-07-29T01:49:19</lastmod>
   </url>
   <url>
-    <loc>https://arsastronomica.com/</loc>
-    <lastmod>2026-07-28T05:25:34</lastmod>
+    <loc>https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</loc>
+    <lastmod>2026-07-29T00:59:08</lastmod>
   </url>
   <url>
-    <loc>https://www.fermionresearch.com/models/neutrino-8b/</loc>
-    <lastmod>2026-07-28T04:49:54</lastmod>
+    <loc>https://www.hubble.md/</loc>
+    <lastmod>2026-07-29T00:11:23</lastmod>
   </url>
   <url>
-    <loc>https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/</loc>
-    <lastmod>2026-07-28T04:46:00</lastmod>
+    <loc>https://reframe.camera/</loc>
+    <lastmod>2026-07-28T23:27:09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html</loc>
+    <lastmod>2026-07-28T22:38:23</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/twalichiewicz/HNewhere</loc>
+    <lastmod>2026-07-28T22:09:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</loc>
+    <lastmod>2026-07-28T21:02:51</lastmod>
+  </url>
+  <url>
+    <loc>https://mac-classic.com/news/half-life-ported-to-mac-os-9/</loc>
+    <lastmod>2026-07-28T20:58:39</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/openai/codex-security</loc>
+    <lastmod>2026-07-28T20:52:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html</loc>
+    <lastmod>2026-07-28T20:24:33</lastmod>
+  </url>
+  <url>
+    <loc>https://www.apple.com/shop/iphone/iphone-upgrade-program</loc>
+    <lastmod>2026-07-28T17:37:12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html</loc>
+    <lastmod>2026-07-28T17:20:08</lastmod>
+  </url>
+  <url>
+    <loc>https://sbcl.org/all-news.html?2.6.7</loc>
+    <lastmod>2026-07-28T17:11:54</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</loc>
+    <lastmod>2026-07-28T17:00:06</lastmod>
+  </url>
+  <url>
+    <loc>https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/</loc>
+    <lastmod>2026-07-28T16:58:31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html</loc>
+    <lastmod>2026-07-28T16:22:37</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html</loc>
+    <lastmod>2026-07-28T15:18:42</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</loc>
+    <lastmod>2026-07-28T12:35:43</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html</loc>
-    <lastmod>2026-07-28T03:08:44</lastmod>
-  </url>
-  <url>
-    <loc>https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/</loc>
-    <lastmod>2026-07-28T02:37:14</lastmod>
-  </url>
-  <url>
-    <loc>https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/</loc>
-    <lastmod>2026-07-28T02:21:37</lastmod>
-  </url>
-  <url>
-    <loc>https://fermisense.com/when-machines-take-the-wheel/</loc>
-    <lastmod>2026-07-28T02:18:53</lastmod>
-  </url>
-  <url>
-    <loc>https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios</loc>
-    <lastmod>2026-07-28T01:13:26</lastmod>
-  </url>
-  <url>
-    <loc>https://dconf.org/2026/index.html</loc>
-    <lastmod>2026-07-27T23:14:19</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/allyourcodebase</loc>
-    <lastmod>2026-07-27T23:09:50</lastmod>
-  </url>
-  <url>
-    <loc>https://telnyx.com/release-notes/kimi-k3-telnyx-inference</loc>
-    <lastmod>2026-07-27T22:46:28</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md</loc>
-    <lastmod>2026-07-27T22:37:52</lastmod>
-  </url>
-  <url>
-    <loc>https://www.anthropic.com/news/position-open-weights-models</loc>
-    <lastmod>2026-07-27T22:03:49</lastmod>
+    <lastmod>2026-07-28T03:08:45</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/27/technology/apple-valuation.html</loc>
     <lastmod>2026-07-27T20:34:32</lastmod>
   </url>
   <url>
-    <loc>https://www.rise-reforming.com</loc>
-    <lastmod>2026-07-27T19:58:22</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</loc>
     <lastmod>2026-07-27T19:54:45</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html</loc>
-    <lastmod>2026-07-27T19:11:28</lastmod>
-  </url>
-  <url>
-    <loc>https://gregoryszorc.com/docs/python-build-standalone/main/</loc>
-    <lastmod>2026-07-27T18:43:31</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/FrigadeHQ/yap</loc>
-    <lastmod>2026-07-27T18:36:02</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html</loc>
     <lastmod>2026-07-27T18:32:35</lastmod>
   </url>
   <url>
-    <loc>https://up.codes/careers?utm_source=HN</loc>
-    <lastmod>2026-07-27T17:02:41</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html</loc>
     <lastmod>2026-07-27T16:51:15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html</loc>
-    <lastmod>2026-07-27T13:45:01</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html</loc>
@@ -178,17 +206,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html</loc>
     <lastmod>2026-07-22T22:18:54</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</loc>
-    <lastmod>2026-07-22T17:00:22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html</loc>
-    <lastmod>2026-07-22T03:10:17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html</loc>
-    <lastmod>2026-07-21T19:38:58</lastmod>
   </url>
 </urlset>
