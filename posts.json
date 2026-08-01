@@ -1,5 +1,173 @@
 [
   {
+    "title": "RamenHaus",
+    "link": "https://ramen.haus/",
+    "summary": "<p>Article URL: <a href=\"https://ramen.haus/\">https://ramen.haus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132460\">https://news.ycombinator.com/item?id=49132460</a></p>\n<p>Points: 79</p>\n<p># Comments: 28</p>",
+    "published": "2026-08-01T08:48:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+    "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+    "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/\">https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132341\">https://news.ycombinator.com/item?id=49132341</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+    "published": "2026-08-01T08:26:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How to Do Great Work",
+    "link": "https://paulgraham.com/greatwork.html",
+    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/greatwork.html\">https://paulgraham.com/greatwork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132289\">https://news.ycombinator.com/item?id=49132289</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-01T08:19:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI doesn't generate working products, that's still your job",
+    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "summary": "<p>Article URL: <a href=\"https://weeraman.com/the-prototype-isnt-the-product/\">https://weeraman.com/the-prototype-isnt-the-product/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132130\">https://news.ycombinator.com/item?id=49132130</a></p>\n<p>Points: 70</p>\n<p># Comments: 47</p>",
+    "published": "2026-08-01T07:52:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Solid Queue 1.6.0 now supports fiber workers",
+    "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rails/solid_queue/releases/tag/v1.6.0\">https://github.com/rails/solid_queue/releases/tag/v1.6.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132083\">https://news.ycombinator.com/item?id=49132083</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-01T07:42:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "link": "https://openai.com/index/ten-advances-in-mathematics/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132058\">https://news.ycombinator.com/item?id=49132058</a></p>\n<p>Points: 110</p>\n<p># Comments: 83</p>",
+    "published": "2026-08-01T07:37:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ten Ways NAS Is Getting Enshitified",
+    "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+    "summary": "<p>Article URL: <a href=\"https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/\">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49131367\">https://news.ycombinator.com/item?id=49131367</a></p>\n<p>Points: 95</p>\n<p># Comments: 84</p>",
+    "published": "2026-08-01T05:38:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The development pipeline is a production system",
+    "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+    "summary": "<p>Article URL: <a href=\"https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130726\">https://news.ycombinator.com/item?id=49130726</a></p>\n<p>Points: 85</p>\n<p># Comments: 36</p>",
+    "published": "2026-08-01T03:16:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Flint: A Visualization Language for the AI Era",
+    "link": "https://microsoft.github.io/flint-chart/",
+    "summary": "<p>Article URL: <a href=\"https://microsoft.github.io/flint-chart/\">https://microsoft.github.io/flint-chart/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130604\">https://news.ycombinator.com/item?id=49130604</a></p>\n<p>Points: 125</p>\n<p># Comments: 42</p>",
+    "published": "2026-08-01T02:45:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
+    "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
+    "published": "2026-08-01T02:41:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+    "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
+    "published": "2026-08-01T02:27:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to Exist",
+    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
+    "summary": "<p>Article URL: <a href=\"https://www.raptitude.com/2026/07/how-to-exist/\">https://www.raptitude.com/2026/07/how-to-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49129990\">https://news.ycombinator.com/item?id=49129990</a></p>\n<p>Points: 211</p>\n<p># Comments: 116</p>",
+    "published": "2026-08-01T00:25:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
+    "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+    "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
+    "published": "2026-07-31T21:29:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Loops (YC W22) Is Hiring a Product Educator",
+    "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-31T21:00:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Golang proposal: container/: generic collection types",
+    "link": "https://github.com/golang/go/issues/80590",
+    "summary": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/80590\">https://github.com/golang/go/issues/80590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127031\">https://news.ycombinator.com/item?id=49127031</a></p>\n<p>Points: 154</p>\n<p># Comments: 127</p>",
+    "published": "2026-07-31T18:39:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
+    "summary": "<p>Article URL: <a href=\"https://servo.org/blog/2026/07/31/june-in-servo/\">https://servo.org/blog/2026/07/31/june-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126765\">https://news.ycombinator.com/item?id=49126765</a></p>\n<p>Points: 156</p>\n<p># Comments: 50</p>",
+    "published": "2026-07-31T18:17:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "qm – Multiplayer agent harness for work",
+    "link": "https://github.com/yc-software/qm",
+    "summary": "<p>Article URL: <a href=\"https://github.com/yc-software/qm\">https://github.com/yc-software/qm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126604\">https://news.ycombinator.com/item?id=49126604</a></p>\n<p>Points: 577</p>\n<p># Comments: 119</p>",
+    "published": "2026-07-31T18:04:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Miso (YC S16) is hiring for U.S. expansion",
+    "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125785\">https://news.ycombinator.com/item?id=49125785</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-07-31T17:01:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/\">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125034\">https://news.ycombinator.com/item?id=49125034</a></p>\n<p>Points: 192</p>\n<p># Comments: 95</p>",
+    "published": "2026-07-31T16:15:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Big Food vs. the People",
+    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+    "summary": "<p>Article URL: <a href=\"https://www.lighthousereports.com/investigation/big-food-vs-the-people/\">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124858\">https://news.ycombinator.com/item?id=49124858</a></p>\n<p>Points: 231</p>\n<p># Comments: 146</p>",
+    "published": "2026-07-31T16:04:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elevators",
+    "link": "https://john.fun/elevators",
+    "summary": "<p>Article URL: <a href=\"https://john.fun/elevators\">https://john.fun/elevators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124218\">https://news.ycombinator.com/item?id=49124218</a></p>\n<p>Points: 1311</p>\n<p># Comments: 323</p>",
+    "published": "2026-07-31T15:17:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The most official water costs $120k a gallon",
+    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
+    "summary": "<p>Article URL: <a href=\"https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/\">https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124042\">https://news.ycombinator.com/item?id=49124042</a></p>\n<p>Points: 191</p>\n<p># Comments: 150</p>",
+    "published": "2026-07-31T15:00:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "link": "https://github.com/sqliteai/waste",
+    "summary": "<p>Article URL: <a href=\"https://github.com/sqliteai/waste\">https://github.com/sqliteai/waste</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49123386\">https://news.ycombinator.com/item?id=49123386</a></p>\n<p>Points: 253</p>\n<p># Comments: 107</p>",
+    "published": "2026-07-31T14:12:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We All Do Errands. Noah Blau Films Them.",
+    "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+    "summary": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
+    "published": "2026-07-31T11:55:26",
+    "source": "NYT > Technology"
+  },
+  {
     "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
     "link": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
     "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
@@ -10,7 +178,7 @@
     "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
     "link": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
     "summary": "“It just seems like the temperature is rising on Silicon Valley.”",
-    "published": "2026-07-31T11:00:02",
+    "published": "2026-07-31T11:00:03",
     "source": "NYT > Technology"
   },
   {
@@ -18,20 +186,6 @@
     "link": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
     "summary": "The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.",
     "published": "2026-07-31T09:05:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "We All Do Errands. Noah Blau Films Them.",
-    "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
-    "summary": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
-    "published": "2026-07-31T09:04:17",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
-    "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
-    "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-    "published": "2026-07-31T09:03:59",
     "source": "NYT > Technology"
   },
   {
@@ -49,27 +203,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
-    "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
-    "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
-    "published": "2026-07-31T09:00:32",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "link": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/deepseek-v4-flash-ga\">https://artificialanalysis.ai/models/deepseek-v4-flash-ga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120299\">https://news.ycombinator.com/item?id=49120299</a></p>\n<p>Points: 36</p>\n<p># Comments: 8</p>",
-    "published": "2026-07-31T07:59:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/security/chrome-stronger-with-every-update/\">https://blog.google/security/chrome-stronger-with-every-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49120097\">https://news.ycombinator.com/item?id=49120097</a></p>\n<p>Points: 124</p>\n<p># Comments: 130</p>",
-    "published": "2026-07-31T07:29:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
     "link": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
     "summary": "The disclosure followed OpenAI’s report last week that its own artificial intelligence had hacked into the network of an online library.",
@@ -77,67 +210,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "DeepSeek-V4-Flash Update",
-    "link": "https://api-docs.deepseek.com/updates/",
-    "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/updates/\">https://api-docs.deepseek.com/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119559\">https://news.ycombinator.com/item?id=49119559</a></p>\n<p>Points: 336</p>\n<p># Comments: 164</p>",
-    "published": "2026-07-31T06:08:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-    "link": "https://github.com/mokshablr/gander",
-    "summary": "<p>Hi HN,<p>I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.<p>I have always been uneasy about opening files people send me. On Android you either install a 400 MB office suite and sign in or use a small free viewer that wants storage access and ends up uploading your file to a server to render it. Also the hassle of having to download different apps for different file formats was really annoying.<p>Gander holds no permissions, not even INTERNET so the OS itself guarantees the file cannot leave the phone.<p>PDFs use Pdfium, media uses Media3, and Office formats are rendered by bundled JS libraries in a WebView and so no request goes to any server.<p>It is a viewer only. Complex PowerPoint decks come out approximately right, spreadsheet charts are not drawn, and old binary .doc and .ppt are unsupported. I'll work on it as issues come up :P<p>It is 14 MB, MIT licensed and uploaded on Github releases.<p>Do try it! I would love some feedback especially on files that render badly or need new support.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119425\">https://news.ycombinator.com/item?id=49119425</a></p>\n<p>Points: 84</p>\n<p># Comments: 40</p>",
-    "published": "2026-07-31T05:45:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: What should the GUI for AI agents look like?",
-    "link": "https://marbleos.com/demo",
-    "summary": "<p>Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.<p>The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X.\nBefore GUIs, interacting with a computer was limited to strange terminal commands:<p>C:\\> DIR<p>C:\\> COPY FILE.TXT A:<p>You had to remember the command, syntax, paths, and parameters.<p>The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus.\nIt didn't necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage.<p>Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork still look surprisingly terminal-like: /skill-name [param1] [param2]. The parameters are written in natural language, but the user still needs to know the capabilities that exist, and how to invoke it. Command-line flags and arguments have just been replaced with tools, skills, and context.<p>ChatGPT works very well for asking questions, but we aren't convinced that it's the final interface for delegating work across multiple agents. A blank text box and a list of chat threads feels limiting. An agent's capabilities are mostly invisible. With Marble, we're exploring an interface that treats AI more like a workspace than another chat app.\nEach delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript.<p>Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat.<p>The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119274\">https://news.ycombinator.com/item?id=49119274</a></p>\n<p>Points: 69</p>\n<p># Comments: 39</p>",
-    "published": "2026-07-31T05:17:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-    "link": "https://github.com/openjdk/jdk/pull/31120",
-    "summary": "<p>Article URL: <a href=\"https://github.com/openjdk/jdk/pull/31120\">https://github.com/openjdk/jdk/pull/31120</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49119063\">https://news.ycombinator.com/item?id=49119063</a></p>\n<p>Points: 135</p>\n<p># Comments: 60</p>",
-    "published": "2026-07-31T04:38:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The session you cannot take with you",
-    "link": "https://earendil.com/posts/session-portability/",
-    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/session-portability/\">https://earendil.com/posts/session-portability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49118781\">https://news.ycombinator.com/item?id=49118781</a></p>\n<p>Points: 410</p>\n<p># Comments: 100</p>",
-    "published": "2026-07-31T03:47:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.",
     "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
     "summary": "Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.",
-    "published": "2026-07-31T02:20:58",
+    "published": "2026-07-31T02:20:59",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "The Religion of Speed",
-    "link": "https://graybeard.ing/the-religion-of-speed/",
-    "summary": "<p>Article URL: <a href=\"https://graybeard.ing/the-religion-of-speed/\">https://graybeard.ing/the-religion-of-speed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117284\">https://news.ycombinator.com/item?id=49117284</a></p>\n<p>Points: 177</p>\n<p># Comments: 86</p>",
-    "published": "2026-07-30T23:43:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The AI Aesthetic",
-    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/ai-aesthetic/\">https://blog.jim-nielsen.com/2026/ai-aesthetic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49117099\">https://news.ycombinator.com/item?id=49117099</a></p>\n<p>Points: 316</p>\n<p># Comments: 140</p>",
-    "published": "2026-07-30T23:22:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I flagged two research papers for fake authors and both were accepted as orals",
-    "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
-    "summary": "<p>Article URL: <a href=\"https://geospatialml.com/posts/reviewing-ai-slop/\">https://geospatialml.com/posts/reviewing-ai-slop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116721\">https://news.ycombinator.com/item?id=49116721</a></p>\n<p>Points: 217</p>\n<p># Comments: 96</p>",
-    "published": "2026-07-30T22:33:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
@@ -145,20 +222,6 @@
     "summary": "The company recently raised prices on a number of products because of component supply shortages caused by the artificial intelligence boom.",
     "published": "2026-07-30T22:27:24",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
-    "link": "https://rune.build/blog/rune-1-1-release",
-    "summary": "<p>Article URL: <a href=\"https://rune.build/blog/rune-1-1-release\">https://rune.build/blog/rune-1-1-release</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116272\">https://news.ycombinator.com/item?id=49116272</a></p>\n<p>Points: 82</p>\n<p># Comments: 37</p>",
-    "published": "2026-07-30T21:47:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Saber-toothed cats became inbred–and struggled to move–before they went extinct",
-    "link": "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct\">https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49116074\">https://news.ycombinator.com/item?id=49116074</a></p>\n<p>Points: 61</p>\n<p># Comments: 24</p>",
-    "published": "2026-07-30T21:31:03",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Why an A.I. Bubble Might Not Be a Bad Thing",
@@ -171,36 +234,15 @@
     "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
     "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
     "summary": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.",
-    "published": "2026-07-30T20:51:03",
+    "published": "2026-07-30T20:51:04",
     "source": "NYT > Technology"
   },
   {
     "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
     "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
     "summary": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
-    "published": "2026-07-30T19:53:44",
+    "published": "2026-07-30T19:53:45",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "UEFA and its national associations will not participate in FIFA competitions",
-    "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-    "summary": "<p>Article URL: <a href=\"https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\">https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113929\">https://news.ycombinator.com/item?id=49113929</a></p>\n<p>Points: 1067</p>\n<p># Comments: 578</p>",
-    "published": "2026-07-30T18:40:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-    "link": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-    "summary": "<p>We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). We released the 20B open weights. With V4 as the teacher though, we realized it would be timely to measure if the censorship characteristic of it transferred to the distilled version of the base model. tl;dr it didn't, the teacher answered politically sensitive questions 7 SDs differently than expected, but the distilled model's behavior remained the same as its American base. You can try a couple queries yourself with no auth here: <a href=\"http://playground.ctgt.ai/\">http://playground.ctgt.ai/</a><p>I will now dive in to the motivation, methodology and detailed results for those interested. The hard part of measuring this phenomena is isolating whether a model is reluctant to talk about sensitive things generally vs. a particular country's sensitive things. So we made 152 matched pairs where one prompt asked about a Chinese concept, and the other asked about a non-Chinese version of that concept. For example, the Great Leap Forward vs. the Holodomor. These were scored 0-100 by four LLM judges (Grok 4.20, Gemini 3.5 Flash, GPT-5 mini, Claude Sonnet 4.6), validated against 96 human scores at r=0.948. OpenRouter blocked some of these so we hosted the weights ourselves.<p>The teacher's gap on the core political set of pairs was +45.45 points, ~7 standard deviations from chance, and every distilled student was within 1 point of its base. Subliminal learning literature says this is expected when the initializations are not shared between teacher and student, which is true here. The distillation data also did not contain any China-sensitive content. The contribution here was to release the evaluation framework (LineageEval: <a href=\"https://github.com/CTGT-Inc/lineage-eval/\" rel=\"nofollow\">https://github.com/CTGT-Inc/lineage-eval/</a>) to elevate the discussion around this topic in DC and beyond. We are an interpretability lab working on high risk and regulated applications of AI, so we hear a lot of vagaries aimed at the supposed dangers of distilling Chinese models on American bases. We believe these conversations should be based on open, auditable frameworks and not feelings. We plan to test what happens with a Chinese teacher into a Chinese-lineage base like Qwen next.<p>The distillation method was an evolution of HINT-SD where we inject a hint at the specific point the model makes a mistake in its reasoning. Then we train on the corrected continuation with reverse KL over the next 100 toks of the rollout. As mentioned above 120B itself was efficacious as a teacher, and we ended up shipping this version. The self-distilled 120B scores 83.61% on FinanceReasoning, above Kimi K3 (81.93%) and Inkling (65.13%). Ours finishes 98.7% of problems in budget; the larger models truncate (90.76% and 71.01%) which score as incorrect. At 100k tokens big models gain (Kimi 89.92%). So for a finance task at a constrained (perhaps more realistic) budget a 120B on one H100 at ~$0.00026/query outpaced models running 62-160x more per query.<p>We put out the 20B finance model as open weights (64.71% to 74.79% at 8k on FinanceReasoning, 23% lower cost/query, runs on one 80GB GPU), the 120B in a playground with teacher and students side by side (a few queries, no auth), and LineageEval with all prompts, controls, rubric, and code.<p>We are curious to hear experiences from those working with distilled Chinese models in prod, or if you have thoughts on improvements to LineageEval.<p><a href=\"https://huggingface.co/ctgt-inc/gpt-oss-20b-finance\" rel=\"nofollow\">https://huggingface.co/ctgt-inc/gpt-oss-20b-finance</a><p><a href=\"https://playground.ctgt.ai/\">https://playground.ctgt.ai/</a><p><a href=\"https://github.com/CTGT-Inc/lineage-eval/\" rel=\"nofollow\">https://github.com/CTGT-Inc/lineage-eval/</a><p><a href=\"https://www.ctgt.ai/research/distillation-censorship-transfer\">https://www.ctgt.ai/research/distillation-censorship-transfe...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113599\">https://news.ycombinator.com/item?id=49113599</a></p>\n<p>Points: 132</p>\n<p># Comments: 66</p>",
-    "published": "2026-07-30T18:13:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "CodePen 2.0",
-    "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-    "summary": "<p>Article URL: <a href=\"https://chriscoyier.net/2026/07/30/codepen-2-0/\">https://chriscoyier.net/2026/07/30/codepen-2-0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49113338\">https://news.ycombinator.com/item?id=49113338</a></p>\n<p>Points: 170</p>\n<p># Comments: 49</p>",
-    "published": "2026-07-30T17:52:51",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time",
@@ -210,52 +252,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Read this before you buy that TV streaming stick",
-    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112744\">https://news.ycombinator.com/item?id=49112744</a></p>\n<p>Points: 726</p>\n<p># Comments: 438</p>",
-    "published": "2026-07-30T17:04:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rise Reforming (YC S26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer\">https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112683\">https://news.ycombinator.com/item?id=49112683</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-30T17:00:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Stacked PRs are now live on GitHub",
-    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\">https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49112232\">https://news.ycombinator.com/item?id=49112232</a></p>\n<p>Points: 668</p>\n<p># Comments: 231</p>",
-    "published": "2026-07-30T16:26:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-    "link": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-    "summary": "<p>Article URL: <a href=\"https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/\">https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111305\">https://news.ycombinator.com/item?id=49111305</a></p>\n<p>Points: 221</p>\n<p># Comments: 150</p>",
-    "published": "2026-07-30T15:22:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-    "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-    "summary": "<p>Article URL: <a href=\"https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\">https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49111237\">https://news.ycombinator.com/item?id=49111237</a></p>\n<p>Points: 569</p>\n<p># Comments: 454</p>",
-    "published": "2026-07-30T15:15:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
     "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
     "summary": "In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”",
     "published": "2026-07-30T14:08:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
-    "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
-    "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
-    "published": "2026-07-30T11:03:50",
     "source": "NYT > Technology"
   },
   {
@@ -396,13 +396,6 @@
     "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
     "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
     "published": "2026-07-25T20:07:34",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "QR Codes Make Their Way Down Wedding Aisles",
-    "link": "https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html",
-    "summary": "The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.",
-    "published": "2026-07-25T13:10:30",
     "source": "NYT > Technology"
   }
 ]
