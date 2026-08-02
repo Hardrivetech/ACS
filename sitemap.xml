@@ -1,43 +1,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-08-01</lastmod>
+    <lastmod>2026-08-02</lastmod>
   </url>
   <url>
-    <loc>https://ramen.haus/</loc>
-    <lastmod>2026-08-01T08:48:58</lastmod>
+    <loc>https://github.com/syncular/syncular</loc>
+    <lastmod>2026-08-02T09:48:08</lastmod>
   </url>
   <url>
-    <loc>https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/</loc>
-    <lastmod>2026-08-01T08:26:55</lastmod>
+    <loc>https://getbor.dev/blog/2026-08-02-bor-v080-release/</loc>
+    <lastmod>2026-08-02T09:06:33</lastmod>
   </url>
   <url>
-    <loc>https://paulgraham.com/greatwork.html</loc>
-    <lastmod>2026-08-01T08:19:44</lastmod>
+    <loc>https://mastodon.online/@mwichary/117023736804129342</loc>
+    <lastmod>2026-08-02T08:48:53</lastmod>
   </url>
   <url>
-    <loc>https://weeraman.com/the-prototype-isnt-the-product/</loc>
-    <lastmod>2026-08-01T07:52:10</lastmod>
+    <loc>https://cyberscript.dev</loc>
+    <lastmod>2026-08-02T07:58:30</lastmod>
   </url>
   <url>
-    <loc>https://github.com/rails/solid_queue/releases/tag/v1.6.0</loc>
-    <lastmod>2026-08-01T07:42:08</lastmod>
+    <loc>https://borretti.me/article/mathematics-without-mathematicians</loc>
+    <lastmod>2026-08-02T07:47:26</lastmod>
   </url>
   <url>
-    <loc>https://openai.com/index/ten-advances-in-mathematics/</loc>
-    <lastmod>2026-08-01T07:37:44</lastmod>
+    <loc>https://www.bbc.com/news/articles/cpw9q0ekd9eo</loc>
+    <lastmod>2026-08-02T07:25:00</lastmod>
   </url>
   <url>
-    <loc>https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</loc>
-    <lastmod>2026-08-01T05:38:16</lastmod>
+    <loc>https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/</loc>
+    <lastmod>2026-08-02T07:17:49</lastmod>
   </url>
   <url>
-    <loc>https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</loc>
-    <lastmod>2026-08-01T03:16:09</lastmod>
+    <loc>https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</loc>
+    <lastmod>2026-08-02T07:09:38</lastmod>
   </url>
   <url>
-    <loc>https://microsoft.github.io/flint-chart/</loc>
-    <lastmod>2026-08-01T02:45:09</lastmod>
+    <loc>https://agent4lease.com/</loc>
+    <lastmod>2026-08-02T06:59:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.wafer.ai/blog/kimi-k3-mi355x</loc>
+    <lastmod>2026-08-02T04:21:14</lastmod>
+  </url>
+  <url>
+    <loc>http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</loc>
+    <lastmod>2026-08-02T03:12:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#</loc>
+    <lastmod>2026-08-02T02:51:15</lastmod>
+  </url>
+  <url>
+    <loc>https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</loc>
+    <lastmod>2026-08-02T02:08:26</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tom-ilan/cycloidal_gearbox</loc>
+    <lastmod>2026-08-02T02:07:09</lastmod>
+  </url>
+  <url>
+    <loc>https://victoriametrics.com/blog/go-1-27/index.html</loc>
+    <lastmod>2026-08-02T01:35:51</lastmod>
+  </url>
+  <url>
+    <loc>https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</loc>
+    <lastmod>2026-08-02T01:35:11</lastmod>
+  </url>
+  <url>
+    <loc>https://yarchive.net/comp/128bit.html</loc>
+    <lastmod>2026-08-02T01:26:12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html</loc>
+    <lastmod>2026-08-02T00:58:57</lastmod>
+  </url>
+  <url>
+    <loc>https://www.rfc-editor.org/rfc/rfc10015.html</loc>
+    <lastmod>2026-08-01T23:44:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</loc>
+    <lastmod>2026-08-01T22:55:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</loc>
+    <lastmod>2026-08-01T22:52:44</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html</loc>
@@ -45,63 +93,15 @@
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html</loc>
-    <lastmod>2026-08-01T02:27:20</lastmod>
-  </url>
-  <url>
-    <loc>https://www.raptitude.com/2026/07/how-to-exist/</loc>
-    <lastmod>2026-08-01T00:25:00</lastmod>
+    <lastmod>2026-08-01T02:27:21</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</loc>
     <lastmod>2026-07-31T21:29:27</lastmod>
   </url>
   <url>
-    <loc>https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</loc>
-    <lastmod>2026-07-31T21:00:40</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/golang/go/issues/80590</loc>
-    <lastmod>2026-07-31T18:39:47</lastmod>
-  </url>
-  <url>
-    <loc>https://servo.org/blog/2026/07/31/june-in-servo/</loc>
-    <lastmod>2026-07-31T18:17:52</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/yc-software/qm</loc>
-    <lastmod>2026-07-31T18:04:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</loc>
-    <lastmod>2026-07-31T17:01:08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</loc>
-    <lastmod>2026-07-31T16:15:31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lighthousereports.com/investigation/big-food-vs-the-people/</loc>
-    <lastmod>2026-07-31T16:04:32</lastmod>
-  </url>
-  <url>
-    <loc>https://john.fun/elevators</loc>
-    <lastmod>2026-07-31T15:17:28</lastmod>
-  </url>
-  <url>
-    <loc>https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/</loc>
-    <lastmod>2026-07-31T15:00:15</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/sqliteai/waste</loc>
-    <lastmod>2026-07-31T14:12:38</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html</loc>
     <lastmod>2026-07-31T11:55:26</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html</loc>
-    <lastmod>2026-07-31T11:17:26</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</loc>
@@ -109,7 +109,7 @@
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html</loc>
-    <lastmod>2026-07-31T09:05:03</lastmod>
+    <lastmod>2026-07-31T09:05:04</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html</loc>
@@ -196,10 +196,6 @@
     <lastmod>2026-07-28T16:22:37</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html</loc>
-    <lastmod>2026-07-28T15:18:42</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</loc>
     <lastmod>2026-07-28T12:35:43</lastmod>
   </url>
@@ -222,13 +218,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html</loc>
     <lastmod>2026-07-27T16:51:15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html</loc>
-    <lastmod>2026-07-26T11:04:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</loc>
-    <lastmod>2026-07-25T20:07:34</lastmod>
   </url>
 </urlset>

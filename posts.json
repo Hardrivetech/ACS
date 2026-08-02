@@ -1,65 +1,149 @@
 [
   {
-    "title": "RamenHaus",
-    "link": "https://ramen.haus/",
-    "summary": "<p>Article URL: <a href=\"https://ramen.haus/\">https://ramen.haus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132460\">https://news.ycombinator.com/item?id=49132460</a></p>\n<p>Points: 79</p>\n<p># Comments: 28</p>",
-    "published": "2026-08-01T08:48:58",
+    "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+    "link": "https://github.com/syncular/syncular",
+    "summary": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-02T09:48:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-    "link": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-    "summary": "<p>Article URL: <a href=\"https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/\">https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132341\">https://news.ycombinator.com/item?id=49132341</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
-    "published": "2026-08-01T08:26:55",
+    "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+    "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+    "summary": "<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I'd love feedback on the architecture, policy model, and whether this is something you'd consider for managing Linux workstations.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142569\">https://news.ycombinator.com/item?id=49142569</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-02T09:06:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How to Do Great Work",
-    "link": "https://paulgraham.com/greatwork.html",
-    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/greatwork.html\">https://paulgraham.com/greatwork.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132289\">https://news.ycombinator.com/item?id=49132289</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-01T08:19:44",
+    "title": "The time filter in Google Search broke a few days ago",
+    "link": "https://mastodon.online/@mwichary/117023736804129342",
+    "summary": "<p>Article URL: <a href=\"https://mastodon.online/@mwichary/117023736804129342\">https://mastodon.online/@mwichary/117023736804129342</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142458\">https://news.ycombinator.com/item?id=49142458</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
+    "published": "2026-08-02T08:48:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AI doesn't generate working products, that's still your job",
-    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "summary": "<p>Article URL: <a href=\"https://weeraman.com/the-prototype-isnt-the-product/\">https://weeraman.com/the-prototype-isnt-the-product/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132130\">https://news.ycombinator.com/item?id=49132130</a></p>\n<p>Points: 70</p>\n<p># Comments: 47</p>",
-    "published": "2026-08-01T07:52:10",
+    "title": "Cyberscript",
+    "link": "https://cyberscript.dev",
+    "summary": "<p>Article URL: <a href=\"https://cyberscript.dev\">https://cyberscript.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142130\">https://news.ycombinator.com/item?id=49142130</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-02T07:58:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Solid Queue 1.6.0 now supports fiber workers",
-    "link": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-    "summary": "<p>Article URL: <a href=\"https://github.com/rails/solid_queue/releases/tag/v1.6.0\">https://github.com/rails/solid_queue/releases/tag/v1.6.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132083\">https://news.ycombinator.com/item?id=49132083</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-01T07:42:08",
+    "title": "Mathematics Without Mathematicians",
+    "link": "https://borretti.me/article/mathematics-without-mathematicians",
+    "summary": "<p>Article URL: <a href=\"https://borretti.me/article/mathematics-without-mathematicians\">https://borretti.me/article/mathematics-without-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142083\">https://news.ycombinator.com/item?id=49142083</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-02T07:47:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132058\">https://news.ycombinator.com/item?id=49132058</a></p>\n<p>Points: 110</p>\n<p># Comments: 83</p>",
-    "published": "2026-08-01T07:37:44",
+    "title": "Police in the US are making their own true crime podcasts",
+    "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cpw9q0ekd9eo\">https://www.bbc.com/news/articles/cpw9q0ekd9eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141967\">https://news.ycombinator.com/item?id=49141967</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-02T07:25:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Ten Ways NAS Is Getting Enshitified",
-    "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-    "summary": "<p>Article URL: <a href=\"https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/\">https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49131367\">https://news.ycombinator.com/item?id=49131367</a></p>\n<p>Points: 95</p>\n<p># Comments: 84</p>",
-    "published": "2026-08-01T05:38:16",
+    "title": "IBM i (OS/400) the Database Operating System",
+    "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+    "summary": "<p>Article URL: <a href=\"https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/\">https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141937\">https://news.ycombinator.com/item?id=49141937</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-02T07:17:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The development pipeline is a production system",
-    "link": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-    "summary": "<p>Article URL: <a href=\"https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system\">https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130726\">https://news.ycombinator.com/item?id=49130726</a></p>\n<p>Points: 85</p>\n<p># Comments: 36</p>",
-    "published": "2026-08-01T03:16:09",
+    "title": "I don't recommend Tailwind CSS",
+    "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+    "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/\">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141891\">https://news.ycombinator.com/item?id=49141891</a></p>\n<p>Points: 91</p>\n<p># Comments: 91</p>",
+    "published": "2026-08-02T07:09:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Flint: A Visualization Language for the AI Era",
-    "link": "https://microsoft.github.io/flint-chart/",
-    "summary": "<p>Article URL: <a href=\"https://microsoft.github.io/flint-chart/\">https://microsoft.github.io/flint-chart/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49130604\">https://news.ycombinator.com/item?id=49130604</a></p>\n<p>Points: 125</p>\n<p># Comments: 42</p>",
-    "published": "2026-08-01T02:45:09",
+    "title": "Agent4Lease",
+    "link": "https://agent4lease.com/",
+    "summary": "<p>Article URL: <a href=\"https://agent4lease.com/\">https://agent4lease.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141849\">https://news.ycombinator.com/item?id=49141849</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-02T06:59:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+    "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+    "summary": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/kimi-k3-mi355x\">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141073\">https://news.ycombinator.com/item?id=49141073</a></p>\n<p>Points: 130</p>\n<p># Comments: 39</p>",
+    "published": "2026-08-02T04:21:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+    "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+    "summary": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 58</p>\n<p># Comments: 2</p>",
+    "published": "2026-08-02T03:12:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+    "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#\">https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140599\">https://news.ycombinator.com/item?id=49140599</a></p>\n<p>Points: 55</p>\n<p># Comments: 21</p>",
+    "published": "2026-08-02T02:51:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When random.bytes() runs but doesn't work",
+    "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+    "summary": "<p>Article URL: <a href=\"https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\">https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140405\">https://news.ycombinator.com/item?id=49140405</a></p>\n<p>Points: 47</p>\n<p># Comments: 21</p>",
+    "published": "2026-08-02T02:08:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+    "link": "https://github.com/tom-ilan/cycloidal_gearbox",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tom-ilan/cycloidal_gearbox\">https://github.com/tom-ilan/cycloidal_gearbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140396\">https://news.ycombinator.com/item?id=49140396</a></p>\n<p>Points: 171</p>\n<p># Comments: 43</p>",
+    "published": "2026-08-02T02:07:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Go 1.27 Interactive Tour",
+    "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+    "summary": "<p>Article URL: <a href=\"https://victoriametrics.com/blog/go-1-27/index.html\">https://victoriametrics.com/blog/go-1-27/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140218\">https://news.ycombinator.com/item?id=49140218</a></p>\n<p>Points: 220</p>\n<p># Comments: 83</p>",
+    "published": "2026-08-02T01:35:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "ASRock BC-250: Building the Budget Steam Machine",
+    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+    "summary": "<p>Article URL: <a href=\"https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\">https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140213\">https://news.ycombinator.com/item?id=49140213</a></p>\n<p>Points: 66</p>\n<p># Comments: 25</p>",
+    "published": "2026-08-02T01:35:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
+    "link": "https://yarchive.net/comp/128bit.html",
+    "summary": "<p>Article URL: <a href=\"https://yarchive.net/comp/128bit.html\">https://yarchive.net/comp/128bit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140174\">https://news.ycombinator.com/item?id=49140174</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+    "published": "2026-08-02T01:26:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+    "link": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+    "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
+    "published": "2026-08-02T00:58:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+    "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
+    "summary": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc10015.html\">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139711\">https://news.ycombinator.com/item?id=49139711</a></p>\n<p>Points: 60</p>\n<p># Comments: 15</p>",
+    "published": "2026-08-01T23:44:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Unraveling the mysteries of habit formation",
+    "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+    "summary": "<p>Article URL: <a href=\"https://www.kyoto-u.ac.jp/en/research-news/2026-07-28\">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139383\">https://news.ycombinator.com/item?id=49139383</a></p>\n<p>Points: 81</p>\n<p># Comments: 29</p>",
+    "published": "2026-08-01T22:55:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+    "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139352\">https://news.ycombinator.com/item?id=49139352</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-01T22:52:44",
     "source": "Hacker News: Front Page"
   },
   {
@@ -73,15 +157,8 @@
     "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
     "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
     "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-    "published": "2026-08-01T02:27:20",
+    "published": "2026-08-01T02:27:21",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "How to Exist",
-    "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-    "summary": "<p>Article URL: <a href=\"https://www.raptitude.com/2026/07/how-to-exist/\">https://www.raptitude.com/2026/07/how-to-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49129990\">https://news.ycombinator.com/item?id=49129990</a></p>\n<p>Points: 211</p>\n<p># Comments: 116</p>",
-    "published": "2026-08-01T00:25:00",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
@@ -91,87 +168,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Loops (YC W22) Is Hiring a Product Educator",
-    "link": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator\">https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49128462\">https://news.ycombinator.com/item?id=49128462</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-31T21:00:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Golang proposal: container/: generic collection types",
-    "link": "https://github.com/golang/go/issues/80590",
-    "summary": "<p>Article URL: <a href=\"https://github.com/golang/go/issues/80590\">https://github.com/golang/go/issues/80590</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49127031\">https://news.ycombinator.com/item?id=49127031</a></p>\n<p>Points: 154</p>\n<p># Comments: 127</p>",
-    "published": "2026-07-31T18:39:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-    "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-    "summary": "<p>Article URL: <a href=\"https://servo.org/blog/2026/07/31/june-in-servo/\">https://servo.org/blog/2026/07/31/june-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126765\">https://news.ycombinator.com/item?id=49126765</a></p>\n<p>Points: 156</p>\n<p># Comments: 50</p>",
-    "published": "2026-07-31T18:17:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "qm – Multiplayer agent harness for work",
-    "link": "https://github.com/yc-software/qm",
-    "summary": "<p>Article URL: <a href=\"https://github.com/yc-software/qm\">https://github.com/yc-software/qm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49126604\">https://news.ycombinator.com/item?id=49126604</a></p>\n<p>Points: 577</p>\n<p># Comments: 119</p>",
-    "published": "2026-07-31T18:04:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Miso (YC S16) is hiring for U.S. expansion",
-    "link": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion\">https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125785\">https://news.ycombinator.com/item?id=49125785</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-07-31T17:01:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-    "link": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-    "summary": "<p>Article URL: <a href=\"https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/\">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49125034\">https://news.ycombinator.com/item?id=49125034</a></p>\n<p>Points: 192</p>\n<p># Comments: 95</p>",
-    "published": "2026-07-31T16:15:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Big Food vs. the People",
-    "link": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-    "summary": "<p>Article URL: <a href=\"https://www.lighthousereports.com/investigation/big-food-vs-the-people/\">https://www.lighthousereports.com/investigation/big-food-vs-the-people/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124858\">https://news.ycombinator.com/item?id=49124858</a></p>\n<p>Points: 231</p>\n<p># Comments: 146</p>",
-    "published": "2026-07-31T16:04:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Elevators",
-    "link": "https://john.fun/elevators",
-    "summary": "<p>Article URL: <a href=\"https://john.fun/elevators\">https://john.fun/elevators</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124218\">https://news.ycombinator.com/item?id=49124218</a></p>\n<p>Points: 1311</p>\n<p># Comments: 323</p>",
-    "published": "2026-07-31T15:17:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The most official water costs $120k a gallon",
-    "link": "https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/",
-    "summary": "<p>Article URL: <a href=\"https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/\">https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49124042\">https://news.ycombinator.com/item?id=49124042</a></p>\n<p>Points: 191</p>\n<p># Comments: 150</p>",
-    "published": "2026-07-31T15:00:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-    "link": "https://github.com/sqliteai/waste",
-    "summary": "<p>Article URL: <a href=\"https://github.com/sqliteai/waste\">https://github.com/sqliteai/waste</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49123386\">https://news.ycombinator.com/item?id=49123386</a></p>\n<p>Points: 253</p>\n<p># Comments: 107</p>",
-    "published": "2026-07-31T14:12:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "We All Do Errands. Noah Blau Films Them.",
     "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
     "summary": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
     "published": "2026-07-31T11:55:26",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
-    "link": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
-    "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
-    "published": "2026-07-31T11:17:26",
     "source": "NYT > Technology"
   },
   {
@@ -185,7 +185,7 @@
     "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
     "link": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
     "summary": "The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.",
-    "published": "2026-07-31T09:05:03",
+    "published": "2026-07-31T09:05:04",
     "source": "NYT > Technology"
   },
   {
@@ -336,13 +336,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-    "link": "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html",
-    "summary": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.",
-    "published": "2026-07-28T15:18:42",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
     "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
     "summary": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
@@ -382,20 +375,6 @@
     "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
     "summary": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
     "published": "2026-07-27T16:51:15",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
-    "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
-    "summary": "As social media companies face scrutiny over addictive design features, mental health experts cite a stream of breakup content as an example of the failure to protect users.",
-    "published": "2026-07-26T11:04:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
-    "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-    "summary": "Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.",
-    "published": "2026-07-25T20:07:34",
     "source": "NYT > Technology"
   }
 ]
