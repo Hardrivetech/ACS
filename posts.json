@@ -1,122 +1,164 @@
 [
   {
-    "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-    "link": "https://github.com/syncular/syncular",
-    "summary": "<p>Article URL: <a href=\"https://github.com/syncular/syncular\">https://github.com/syncular/syncular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142794\">https://news.ycombinator.com/item?id=49142794</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-02T09:48:08",
+    "title": "The AI bubble is popping; we just don't know it yet",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004\">https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154601\">https://news.ycombinator.com/item?id=49154601</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-03T11:59:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-    "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-    "summary": "<p>Hi HN! I've been working on Bor, an open-source system for centralized Linux desktop management.<p>Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over mTLS/gRPC in real time—no polling—and currently support Firefox, Chrome, KDE, dconf, polkit and package management, with more coming.<p>Version 0.8 introduces several new policy types - Thunderbird, Microsoft Edge for Business and FirewallD zones, along with a number of improvements and fixes.<p>I'd love feedback on the architecture, policy model, and whether this is something you'd consider for managing Linux workstations.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142569\">https://news.ycombinator.com/item?id=49142569</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-02T09:06:33",
+    "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+    "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "summary": "<p>Article URL: <a href=\"https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\">https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154332\">https://news.ycombinator.com/item?id=49154332</a></p>\n<p>Points: 87</p>\n<p># Comments: 19</p>",
+    "published": "2026-08-03T11:28:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The time filter in Google Search broke a few days ago",
-    "link": "https://mastodon.online/@mwichary/117023736804129342",
-    "summary": "<p>Article URL: <a href=\"https://mastodon.online/@mwichary/117023736804129342\">https://mastodon.online/@mwichary/117023736804129342</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142458\">https://news.ycombinator.com/item?id=49142458</a></p>\n<p>Points: 15</p>\n<p># Comments: 4</p>",
-    "published": "2026-08-02T08:48:53",
+    "title": "9front \"This Was Supposed to Be Fun\" Released",
+    "link": "https://9front.org/releases/2026/08/02/0/",
+    "summary": "<p>Article URL: <a href=\"https://9front.org/releases/2026/08/02/0/\">https://9front.org/releases/2026/08/02/0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154249\">https://news.ycombinator.com/item?id=49154249</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-03T11:17:56",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Cyberscript",
-    "link": "https://cyberscript.dev",
-    "summary": "<p>Article URL: <a href=\"https://cyberscript.dev\">https://cyberscript.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142130\">https://news.ycombinator.com/item?id=49142130</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-02T07:58:30",
+    "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+    "link": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/ice-dna-collection-fbi-codis/\">https://www.wired.com/story/ice-dna-collection-fbi-codis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154237\">https://news.ycombinator.com/item?id=49154237</a></p>\n<p>Points: 38</p>\n<p># Comments: 2</p>",
+    "published": "2026-08-03T11:16:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Mathematics Without Mathematicians",
-    "link": "https://borretti.me/article/mathematics-without-mathematicians",
-    "summary": "<p>Article URL: <a href=\"https://borretti.me/article/mathematics-without-mathematicians\">https://borretti.me/article/mathematics-without-mathematicians</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142083\">https://news.ycombinator.com/item?id=49142083</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-02T07:47:26",
+    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "link": "https://github.com/garagehq/nightcrawler/",
+    "summary": "<p>Article URL: <a href=\"https://github.com/garagehq/nightcrawler/\">https://github.com/garagehq/nightcrawler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49154127\">https://news.ycombinator.com/item?id=49154127</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-03T11:06:15",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Police in the US are making their own true crime podcasts",
-    "link": "https://www.bbc.com/news/articles/cpw9q0ekd9eo",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cpw9q0ekd9eo\">https://www.bbc.com/news/articles/cpw9q0ekd9eo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141967\">https://news.ycombinator.com/item?id=49141967</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-02T07:25:00",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "summary": "<p>Article URL: <a href=\"https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\">https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153374\">https://news.ycombinator.com/item?id=49153374</a></p>\n<p>Points: 118</p>\n<p># Comments: 96</p>",
+    "published": "2026-08-03T09:32:07",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "IBM i (OS/400) the Database Operating System",
-    "link": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
-    "summary": "<p>Article URL: <a href=\"https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/\">https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141937\">https://news.ycombinator.com/item?id=49141937</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-02T07:17:49",
+    "title": "What DMARC Protects You From, and What It Does Not",
+    "link": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+    "summary": "<p>Article URL: <a href=\"https://senderledger.com/articles/what-dmarc-actually-protects-you-from\">https://senderledger.com/articles/what-dmarc-actually-protects-you-from</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153361\">https://news.ycombinator.com/item?id=49153361</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+    "published": "2026-08-03T09:29:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "I don't recommend Tailwind CSS",
-    "link": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-    "summary": "<p>Article URL: <a href=\"https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/\">https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141891\">https://news.ycombinator.com/item?id=49141891</a></p>\n<p>Points: 91</p>\n<p># Comments: 91</p>",
-    "published": "2026-08-02T07:09:38",
+    "title": "If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
+    "link": "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
+    "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.",
+    "published": "2026-08-03T09:00:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "link": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mohamed--abdel-maksoud/pisiguard\">https://github.com/mohamed--abdel-maksoud/pisiguard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49153029\">https://news.ycombinator.com/item?id=49153029</a></p>\n<p>Points: 12</p>\n<p># Comments: 8</p>",
+    "published": "2026-08-03T08:54:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Agent4Lease",
-    "link": "https://agent4lease.com/",
-    "summary": "<p>Article URL: <a href=\"https://agent4lease.com/\">https://agent4lease.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141849\">https://news.ycombinator.com/item?id=49141849</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-02T06:59:36",
+    "title": "The true power of regular expressions (2012)",
+    "link": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+    "summary": "<p>Article URL: <a href=\"https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html\">https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152973\">https://news.ycombinator.com/item?id=49152973</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
+    "published": "2026-08-03T08:47:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-    "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-    "summary": "<p>Article URL: <a href=\"https://www.wafer.ai/blog/kimi-k3-mi355x\">https://www.wafer.ai/blog/kimi-k3-mi355x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49141073\">https://news.ycombinator.com/item?id=49141073</a></p>\n<p>Points: 130</p>\n<p># Comments: 39</p>",
-    "published": "2026-08-02T04:21:14",
+    "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+    "link": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+    "summary": "<p>Article URL: <a href=\"https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration\">https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152871\">https://news.ycombinator.com/item?id=49152871</a></p>\n<p>Points: 24</p>\n<p># Comments: 11</p>",
+    "published": "2026-08-03T08:34:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-    "link": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-    "summary": "<p>Article URL: <a href=\"http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\">http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140702\">https://news.ycombinator.com/item?id=49140702</a></p>\n<p>Points: 58</p>\n<p># Comments: 2</p>",
-    "published": "2026-08-02T03:12:52",
+    "title": "Bonsai: Janestreet's UI Library",
+    "link": "https://github.com/janestreet/bonsai",
+    "summary": "<p>Article URL: <a href=\"https://github.com/janestreet/bonsai\">https://github.com/janestreet/bonsai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152842\">https://news.ycombinator.com/item?id=49152842</a></p>\n<p>Points: 85</p>\n<p># Comments: 25</p>",
+    "published": "2026-08-03T08:29:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
-    "link": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#\">https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140599\">https://news.ycombinator.com/item?id=49140599</a></p>\n<p>Points: 55</p>\n<p># Comments: 21</p>",
-    "published": "2026-08-02T02:51:15",
+    "title": "Octane – React's programming model, compiled",
+    "link": "https://octanejs.dev",
+    "summary": "<p>Article URL: <a href=\"https://octanejs.dev\">https://octanejs.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152640\">https://news.ycombinator.com/item?id=49152640</a></p>\n<p>Points: 46</p>\n<p># Comments: 16</p>",
+    "published": "2026-08-03T08:04:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "When random.bytes() runs but doesn't work",
-    "link": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
-    "summary": "<p>Article URL: <a href=\"https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\">https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140405\">https://news.ycombinator.com/item?id=49140405</a></p>\n<p>Points: 47</p>\n<p># Comments: 21</p>",
-    "published": "2026-08-02T02:08:26",
+    "title": "Rust project goals: Immobile types and guaranteed destructors",
+    "link": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md\">https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49152023\">https://news.ycombinator.com/item?id=49152023</a></p>\n<p>Points: 108</p>\n<p># Comments: 28</p>",
+    "published": "2026-08-03T06:42:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-    "link": "https://github.com/tom-ilan/cycloidal_gearbox",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tom-ilan/cycloidal_gearbox\">https://github.com/tom-ilan/cycloidal_gearbox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140396\">https://news.ycombinator.com/item?id=49140396</a></p>\n<p>Points: 171</p>\n<p># Comments: 43</p>",
-    "published": "2026-08-02T02:07:09",
+    "title": "Don't be a meat proxy",
+    "link": "https://gruhn.me/blog/2026-08-03/",
+    "summary": "<p>Article URL: <a href=\"https://gruhn.me/blog/2026-08-03/\">https://gruhn.me/blog/2026-08-03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151933\">https://news.ycombinator.com/item?id=49151933</a></p>\n<p>Points: 832</p>\n<p># Comments: 359</p>",
+    "published": "2026-08-03T06:28:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Go 1.27 Interactive Tour",
-    "link": "https://victoriametrics.com/blog/go-1-27/index.html",
-    "summary": "<p>Article URL: <a href=\"https://victoriametrics.com/blog/go-1-27/index.html\">https://victoriametrics.com/blog/go-1-27/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140218\">https://news.ycombinator.com/item?id=49140218</a></p>\n<p>Points: 220</p>\n<p># Comments: 83</p>",
-    "published": "2026-08-02T01:35:51",
+    "title": "Situational Awareness and the Impending Stock Market Volatility",
+    "link": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+    "summary": "<p>Article URL: <a href=\"https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/\">https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49151871\">https://news.ycombinator.com/item?id=49151871</a></p>\n<p>Points: 23</p>\n<p># Comments: 17</p>",
+    "published": "2026-08-03T06:17:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "ASRock BC-250: Building the Budget Steam Machine",
-    "link": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
-    "summary": "<p>Article URL: <a href=\"https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\">https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140213\">https://news.ycombinator.com/item?id=49140213</a></p>\n<p>Points: 66</p>\n<p># Comments: 25</p>",
-    "published": "2026-08-02T01:35:11",
+    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+    "link": "https://qwen.ai/blog?id=qwen3.8",
+    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen3.8\">https://qwen.ai/blog?id=qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49150470\">https://news.ycombinator.com/item?id=49150470</a></p>\n<p>Points: 684</p>\n<p># Comments: 340</p>",
+    "published": "2026-08-03T02:16:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Prospects for 128 Bit Processors ( John Mashey SGI 1995)",
-    "link": "https://yarchive.net/comp/128bit.html",
-    "summary": "<p>Article URL: <a href=\"https://yarchive.net/comp/128bit.html\">https://yarchive.net/comp/128bit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49140174\">https://news.ycombinator.com/item?id=49140174</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
-    "published": "2026-08-02T01:26:12",
+    "title": "Show HN: Isopolis – Isometric pixel map of SF",
+    "link": "https://sf.isopolis.city/",
+    "summary": "<p>Article URL: <a href=\"https://sf.isopolis.city/\">https://sf.isopolis.city/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149966\">https://news.ycombinator.com/item?id=49149966</a></p>\n<p>Points: 245</p>\n<p># Comments: 54</p>",
+    "published": "2026-08-03T00:46:38",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+    "link": "https://github.com/johnsonjh/cpm386",
+    "summary": "<p>Article URL: <a href=\"https://github.com/johnsonjh/cpm386\">https://github.com/johnsonjh/cpm386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149898\">https://news.ycombinator.com/item?id=49149898</a></p>\n<p>Points: 70</p>\n<p># Comments: 31</p>",
+    "published": "2026-08-03T00:38:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: ssh ssh.place",
+    "link": "https://ssh.place",
+    "summary": "<p>Article URL: <a href=\"https://ssh.place\">https://ssh.place</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149805\">https://news.ycombinator.com/item?id=49149805</a></p>\n<p>Points: 130</p>\n<p># Comments: 76</p>",
+    "published": "2026-08-03T00:23:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "link": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "summary": "<p>Article URL: <a href=\"https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/\">https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49149746\">https://news.ycombinator.com/item?id=49149746</a></p>\n<p>Points: 115</p>\n<p># Comments: 69</p>",
+    "published": "2026-08-03T00:12:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "For a Day, Google Made It Easy to Spoof Satellite Imagery",
+    "link": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+    "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The tech giant quickly pulled it back after a backlash and concerns about disinformation risks.",
+    "published": "2026-08-02T19:25:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+    "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
+    "published": "2026-08-02T15:45:26",
+    "source": "NYT > Technology"
   },
   {
     "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
@@ -126,38 +168,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-    "link": "https://www.rfc-editor.org/rfc/rfc10015.html",
-    "summary": "<p>Article URL: <a href=\"https://www.rfc-editor.org/rfc/rfc10015.html\">https://www.rfc-editor.org/rfc/rfc10015.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139711\">https://news.ycombinator.com/item?id=49139711</a></p>\n<p>Points: 60</p>\n<p># Comments: 15</p>",
-    "published": "2026-08-01T23:44:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Unraveling the mysteries of habit formation",
-    "link": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-    "summary": "<p>Article URL: <a href=\"https://www.kyoto-u.ac.jp/en/research-news/2026-07-28\">https://www.kyoto-u.ac.jp/en/research-news/2026-07-28</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139383\">https://news.ycombinator.com/item?id=49139383</a></p>\n<p>Points: 81</p>\n<p># Comments: 29</p>",
-    "published": "2026-08-01T22:55:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-    "link": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\">https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49139352\">https://news.ycombinator.com/item?id=49139352</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-01T22:52:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
     "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
     "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
     "published": "2026-08-01T02:41:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
-    "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
-    "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-    "published": "2026-08-01T02:27:21",
     "source": "NYT > Technology"
   },
   {
@@ -354,13 +368,6 @@
     "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
     "summary": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
     "published": "2026-07-27T20:34:32",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-    "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-    "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
-    "published": "2026-07-27T19:54:45",
     "source": "NYT > Technology"
   },
   {
