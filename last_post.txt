@@ -1,1 +1,1 @@
-Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores https://github.com/syncular/syncular
+The AI bubble is popping; we just don't know it yet https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004
