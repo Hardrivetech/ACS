@@ -1,80 +1,192 @@
 [
   {
-    "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-    "link": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html\">https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166860\">https://news.ycombinator.com/item?id=49166860</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-04T10:59:08",
+    "title": "No Data Centers in My Backyard",
+    "link": "https://jasmi.news/p/no-data-centers-in-my-backyard",
+    "summary": "<p>Article URL: <a href=\"https://jasmi.news/p/no-data-centers-in-my-backyard\">https://jasmi.news/p/no-data-centers-in-my-backyard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180901\">https://news.ycombinator.com/item?id=49180901</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-05T10:38:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-    "link": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ryanzhou/deepseek-v4-flash-mi300x\">https://github.com/ryanzhou/deepseek-v4-flash-mi300x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166386\">https://news.ycombinator.com/item?id=49166386</a></p>\n<p>Points: 44</p>\n<p># Comments: 4</p>",
-    "published": "2026-08-04T10:00:55",
+    "title": "Helsinki Hacker News Meetup",
+    "link": "https://calpaterson.com/helsinki-hn.html",
+    "summary": "<p>Article URL: <a href=\"https://calpaterson.com/helsinki-hn.html\">https://calpaterson.com/helsinki-hn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180407\">https://news.ycombinator.com/item?id=49180407</a></p>\n<p>Points: 78</p>\n<p># Comments: 34</p>",
+    "published": "2026-08-05T09:15:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FFmpeg 9.0",
-    "link": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-    "summary": "<p>Article URL: <a href=\"https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES\">https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49166202\">https://news.ycombinator.com/item?id=49166202</a></p>\n<p>Points: 182</p>\n<p># Comments: 29</p>",
-    "published": "2026-08-04T09:30:33",
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "link": "https://arxiv.org/abs/2607.29377",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 51</p>\n<p># Comments: 10</p>",
+    "published": "2026-08-05T04:36:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An SLM trained on $8 ESP32-S3",
+    "link": "https://github.com/Carloscodix/qapla",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Carloscodix/qapla\">https://github.com/Carloscodix/qapla</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178464\">https://news.ycombinator.com/item?id=49178464</a></p>\n<p>Points: 36</p>\n<p># Comments: 13</p>",
+    "published": "2026-08-05T04:07:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Trump White House Readies AI Framework to Review Security Risks",
+    "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+    "summary": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
+    "published": "2026-08-05T00:17:54",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Bugtraq is back",
+    "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+    "summary": "<p>Article URL: <a href=\"https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176947\">https://news.ycombinator.com/item?id=49176947</a></p>\n<p>Points: 50</p>\n<p># Comments: 17</p>",
+    "published": "2026-08-05T00:05:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Flowise is shutting down",
+    "link": "https://flowiseai.com/sunset",
+    "summary": "<p>Article URL: <a href=\"https://flowiseai.com/sunset\">https://flowiseai.com/sunset</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176920\">https://news.ycombinator.com/item?id=49176920</a></p>\n<p>Points: 53</p>\n<p># Comments: 38</p>",
+    "published": "2026-08-05T00:02:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "link": "https://queue.acm.org/detail.cfm?id=3807963",
+    "summary": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3807963\">https://queue.acm.org/detail.cfm?id=3807963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176830\">https://news.ycombinator.com/item?id=49176830</a></p>\n<p>Points: 224</p>\n<p># Comments: 182</p>",
+    "published": "2026-08-04T23:50:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "summary": "<p>Article URL: <a href=\"https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176697\">https://news.ycombinator.com/item?id=49176697</a></p>\n<p>Points: 122</p>\n<p># Comments: 17</p>",
+    "published": "2026-08-04T23:31:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "libexpat now funded by the City of Munich for up to 6 months",
+    "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+    "summary": "<p>Article URL: <a href=\"https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/\">https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176606\">https://news.ycombinator.com/item?id=49176606</a></p>\n<p>Points: 290</p>\n<p># Comments: 66</p>",
+    "published": "2026-08-04T23:18:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+    "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+    "summary": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
+    "published": "2026-08-04T22:52:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: SIMD Viterbi Decoder in Rust",
+    "link": "https://github.com/brian-armstrong/fec",
+    "summary": "<p>I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decode at runtime depending on which instruction sets are available. For small rates and orders, the entire decode lives in registers. Larger codes work through memory but take advantage of some acceleration structures.<p>I also spent some time building a tool to find optimal (max d_free) conv codes for a given rate and order. Of course, there are better mechanisms available today, but I'm happy to talk through anything I learned in the process.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176212\">https://news.ycombinator.com/item?id=49176212</a></p>\n<p>Points: 51</p>\n<p># Comments: 9</p>",
+    "published": "2026-08-04T22:37:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We finally learned to center a div, then browsers added sidebars",
+    "link": "https://seg6.space/posts/center-div/",
+    "summary": "<p>Article URL: <a href=\"https://seg6.space/posts/center-div/\">https://seg6.space/posts/center-div/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176055\">https://news.ycombinator.com/item?id=49176055</a></p>\n<p>Points: 140</p>\n<p># Comments: 116</p>",
+    "published": "2026-08-04T22:24:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pi's Minimalism Is Its Advantage",
+    "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-autoresearch-and-databricks/\">https://earendil.com/posts/pi-autoresearch-and-databricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176038\">https://news.ycombinator.com/item?id=49176038</a></p>\n<p>Points: 392</p>\n<p># Comments: 174</p>",
+    "published": "2026-08-04T22:22:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+    "link": "https://techascent.com/blog/just-ducking-around.html",
+    "summary": "<p>Article URL: <a href=\"https://techascent.com/blog/just-ducking-around.html\">https://techascent.com/blog/just-ducking-around.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175924\">https://news.ycombinator.com/item?id=49175924</a></p>\n<p>Points: 114</p>\n<p># Comments: 17</p>",
+    "published": "2026-08-04T22:09:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "summary": "<p><a href=\"https://www.interpol.int/Media/Documents/Publications/Cybercrime/African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https://www.interpol.int/Media/Documents/Publications/Cyberc...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175826\">https://news.ycombinator.com/item?id=49175826</a></p>\n<p>Points: 254</p>\n<p># Comments: 196</p>",
+    "published": "2026-08-04T22:01:41",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
     "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-    "summary": "The Trump administration has struggled over how to approach to “open source” models, which are freely available to download and favored by Chinese companies.",
-    "published": "2026-08-04T09:04:23",
+    "summary": "The Trump administration has struggled with how to approach “open source” models, which are freely available to download and favored by Chinese companies.",
+    "published": "2026-08-04T19:54:29",
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: I made a private self-destructing image hosting site in Golang",
-    "link": "https://picburn.xyz/",
-    "summary": "<p>So I'm a junior Go dev and I made a small site that allows me to share images with someone privately and securely, and give me control over how many times the private link can be shared and how long the image will be accessible for.<p>There are similar services to this one, but they are either convoluted with ads, or require sign-up, or expect you to fill out a survey or something.<p>picburn is small, safe, and has no interest (nor the code or the server space) for storing your uploads.<p>give it a try if it fits your usecase and let me know what you think.<p>Note: there was a typo in the url</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165845\">https://news.ycombinator.com/item?id=49165845</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
-    "published": "2026-08-04T08:39:12",
+    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
+    "link": "https://deepgrove.ai/maple-preview",
+    "summary": "<p>Article URL: <a href=\"https://deepgrove.ai/maple-preview\">https://deepgrove.ai/maple-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173984\">https://news.ycombinator.com/item?id=49173984</a></p>\n<p>Points: 131</p>\n<p># Comments: 38</p>",
+    "published": "2026-08-04T19:44:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
-    "link": "https://pedroth.github.io/?p=post/NoNeedReact",
-    "summary": "<p>Article URL: <a href=\"https://pedroth.github.io/?p=post/NoNeedReact\">https://pedroth.github.io/?p=post/NoNeedReact</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165665\">https://news.ycombinator.com/item?id=49165665</a></p>\n<p>Points: 55</p>\n<p># Comments: 46</p>",
-    "published": "2026-08-04T08:11:02",
+    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+    "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/\">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173165\">https://news.ycombinator.com/item?id=49173165</a></p>\n<p>Points: 1403</p>\n<p># Comments: 81</p>",
+    "published": "2026-08-04T18:51:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49165170\">https://news.ycombinator.com/item?id=49165170</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-04T07:01:26",
+    "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
+    "link": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
+    "summary": "The state attorney general said in an antitrust lawsuit filed on Tuesday that the company was abusing its market power to keep its delivery costs low.",
+    "published": "2026-08-04T18:32:54",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Waymo in Dallas",
+    "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+    "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/shorts/dallas-open-to-all/\">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172836\">https://news.ycombinator.com/item?id=49172836</a></p>\n<p>Points: 299</p>\n<p># Comments: 538</p>",
+    "published": "2026-08-04T18:29:41",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Harness Engineering for Self-Improvement",
-    "link": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-    "summary": "<p>Article URL: <a href=\"https://lilianweng.github.io/posts/2026-07-04-harness/\">https://lilianweng.github.io/posts/2026-07-04-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49164896\">https://news.ycombinator.com/item?id=49164896</a></p>\n<p>Points: 76</p>\n<p># Comments: 9</p>",
-    "published": "2026-08-04T06:17:54",
+    "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
+    "summary": "Nathan Owen called the police, saying he was trapped in a runaway car. A judge determined it was a lie and sentenced him to more than four years in prison.",
+    "published": "2026-08-04T17:12:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
+    "link": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-04T17:00:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "There Will Come Soft Rains (1950) [pdf]",
-    "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "summary": "<p>Article URL: <a href=\"https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf\">https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162653\">https://news.ycombinator.com/item?id=49162653</a></p>\n<p>Points: 166</p>\n<p># Comments: 59</p>",
-    "published": "2026-08-03T23:24:53",
+    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+    "link": "https://mistral.ai/news/shieldstral/",
+    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/shieldstral/\">https://mistral.ai/news/shieldstral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171268\">https://news.ycombinator.com/item?id=49171268</a></p>\n<p>Points: 435</p>\n<p># Comments: 112</p>",
+    "published": "2026-08-04T16:36:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-    "link": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-    "summary": "<p>Article URL: <a href=\"https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/\">https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49162086\">https://news.ycombinator.com/item?id=49162086</a></p>\n<p>Points: 110</p>\n<p># Comments: 63</p>",
-    "published": "2026-08-03T22:04:49",
+    "title": "We All Do Errands. Noah Blau Films Them.",
+    "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+    "summary": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
+    "published": "2026-08-04T15:46:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "link": "https://toneyalexander.github.io/inclusive-color-space/",
+    "summary": "<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170165\">https://news.ycombinator.com/item?id=49170165</a></p>\n<p>Points: 546</p>\n<p># Comments: 94</p>",
+    "published": "2026-08-04T15:16:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "LLMs reward expertise",
-    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-reward-expertise/\">https://www.seangoedecke.com/llms-reward-expertise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49161518\">https://news.ycombinator.com/item?id=49161518</a></p>\n<p>Points: 999</p>\n<p># Comments: 422</p>",
-    "published": "2026-08-03T21:13:53",
-    "source": "Hacker News: Front Page"
+    "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
+    "link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+    "summary": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
+    "published": "2026-08-04T14:44:08",
+    "source": "NYT > Technology"
   },
   {
     "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
@@ -91,41 +203,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-    "link": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/smaller-faster-safer-models/\">https://blog.cloudflare.com/smaller-faster-safer-models/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158581\">https://news.ycombinator.com/item?id=49158581</a></p>\n<p>Points: 226</p>\n<p># Comments: 58</p>",
-    "published": "2026-08-03T17:08:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-    "link": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-    "summary": "<p>Article URL: <a href=\"https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase\">https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158474\">https://news.ycombinator.com/item?id=49158474</a></p>\n<p>Points: 168</p>\n<p># Comments: 43</p>",
-    "published": "2026-08-03T17:02:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-    "link": "https://github.com/leonickson1/Swiftlet",
-    "summary": "<p>Article URL: <a href=\"https://github.com/leonickson1/Swiftlet\">https://github.com/leonickson1/Swiftlet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49158333\">https://news.ycombinator.com/item?id=49158333</a></p>\n<p>Points: 203</p>\n<p># Comments: 89</p>",
-    "published": "2026-08-03T16:54:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-    "link": "https://hoplite.sh",
-    "summary": "<p>Hi HN, we’re Bence and Ryan, founders of Hoplite (<a href=\"https://hoplite.sh\">https://hoplite.sh</a>). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features. During onboarding, we port over your local setup - sessions, memories, MCP servers, and get your projects ready to run in the cloud.<p>Here’s a demo: <a href=\"https://youtu.be/bnyktZ_9pjE\" rel=\"nofollow\">https://youtu.be/bnyktZ_9pjE</a><p>We got here after pivoting away from the idea we applied to YC with; AI for retail investing. It ultimately wasn’t a product that we ourselves would use, nor served a customer base that we felt connected to. In reflecting on what we really wanted to do, we realised that we loved talking to founders and developers, and were really opinionated about the specific area of cloud agents. We tried out all the existing solutions, and didn’t find one that A) took good advantage of being in the cloud, and B) was performant and felt good to use.<p>We’re building a product that we feel reflects what mainstream development will look like in 6-12 months. As models improve, developers will end up reviewing less and less code, and will instead focus on reviewing the product output. That means evaluating new user flows, visually verifying that new features look good, that the API works as expected, that the CLI works on Windows, etc. And doing it while running hundreds of agents concurrently.<p>On the agent side, we’ve created a custom harness. We spent a lot of time deciding on whether we should use an off the shelf solution like Codex/Claude Code, but ultimately wanted the independence and freedom that came with building it in house. It also means that we can test out completely new features without relying on Anthropic and OpenAI to catch up.<p>Everything is hosted on AWS, with the exception of: Temporal for durable workflows, Modal for sandboxes, and Planetscale for our database. Our infra decisions were driven by a strong belief that agents are becoming a tier 0 piece of infrastructure, and they need the reliability and security to match that.<p>You can try it now for free with the code ‘HACKERNEWS’ - we’ve included $100 in free credits, plus you can connect your Codex subscription and use OpenAI models via it. You can see some more details around our pricing at <a href=\"https://hoplite.sh/pricing\">https://hoplite.sh/pricing</a>.<p>At the moment we’re focusing on optimising two key experiences: onboarding and previews, and would love to hear your feedback on them. And if you find that the agent's performance in certain tasks doesn’t match your expectations, please let us know!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157997\">https://news.ycombinator.com/item?id=49157997</a></p>\n<p>Points: 74</p>\n<p># Comments: 60</p>",
-    "published": "2026-08-03T16:32:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/ten-advances-in-mathematics/\">https://openai.com/index/ten-advances-in-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49157930\">https://news.ycombinator.com/item?id=49157930</a></p>\n<p>Points: 550</p>\n<p># Comments: 842</p>",
-    "published": "2026-08-03T16:27:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
     "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
     "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
@@ -133,46 +210,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Twenty Years of Pandoc",
-    "link": "https://pandoc.org/twenty-years-of-pandoc.html",
-    "summary": "<p>Article URL: <a href=\"https://pandoc.org/twenty-years-of-pandoc.html\">https://pandoc.org/twenty-years-of-pandoc.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156750\">https://news.ycombinator.com/item?id=49156750</a></p>\n<p>Points: 278</p>\n<p># Comments: 32</p>",
-    "published": "2026-08-03T15:04:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Who is hiring? (August 2026)",
-    "link": "https://news.ycombinator.com/item?id=49156683",
-    "summary": "<p>Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is <i>not</i> an option.<p>Please only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.<p>Please only post if you are actively filling a position and are committed\nto replying to applicants.<p>Commenters: please don't reply to job posts to complain about\nsomething. It's off topic here.<p>Readers: please only email if you are personally interested in the job.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-who-is-hiring\" rel=\"nofollow\">https://nthesis.ai/public/hn-who-is-hiring</a>, <a href=\"https://dheerajck.github.io/hnwhoishiring/\" rel=\"nofollow\">https://dheerajck.github.io/hnwhoishiring/</a>,\n<a href=\"http://nchelluri.github.io/hnjobs/\" rel=\"nofollow\">http://nchelluri.github.io/hnjobs/</a>, <a href=\"https://hnjobs.emilburzo.com\" rel=\"nofollow\">https://hnjobs.emilburzo.com</a>.<p>Don't miss this other fine thread: <i>Who wants to be hired?</i> <a href=\"https://news.ycombinator.com/item?id=49156682\">https://news.ycombinator.com/item?id=49156682</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156683\">https://news.ycombinator.com/item?id=49156683</a></p>\n<p>Points: 184</p>\n<p># Comments: 170</p>",
-    "published": "2026-08-03T15:00:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Who wants to be hired? (August 2026)",
-    "link": "https://news.ycombinator.com/item?id=49156682",
-    "summary": "<p>Share your information if you are looking for work. Please use this format:<p><pre><code>  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n</code></pre>\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.<p>Readers: please only email these addresses to discuss work opportunities.<p>Searchers: try <a href=\"https://nthesis.ai/public/hn-wants-to-be-hired\" rel=\"nofollow\">https://nthesis.ai/public/hn-wants-to-be-hired</a>, <a href=\"https://www.wantstobehired.com\" rel=\"nofollow\">https://www.wantstobehired.com</a>.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156682\">https://news.ycombinator.com/item?id=49156682</a></p>\n<p>Points: 123</p>\n<p># Comments: 291</p>",
-    "published": "2026-08-03T15:00:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
     "link": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
     "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
     "published": "2026-08-03T14:31:11",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Devtools must be open source",
-    "link": "https://blog.exe.dev/devtools-must-be-open-source",
-    "summary": "<p>Article URL: <a href=\"https://blog.exe.dev/devtools-must-be-open-source\">https://blog.exe.dev/devtools-must-be-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156111\">https://news.ycombinator.com/item?id=49156111</a></p>\n<p>Points: 627</p>\n<p># Comments: 208</p>",
-    "published": "2026-08-03T14:15:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-    "link": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-    "summary": "<p>Article URL: <a href=\"https://clickhouse.com/blog/andy-pavlo-joins-clickhouse\">https://clickhouse.com/blog/andy-pavlo-joins-clickhouse</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49156011\">https://news.ycombinator.com/item?id=49156011</a></p>\n<p>Points: 315</p>\n<p># Comments: 67</p>",
-    "published": "2026-08-03T14:09:00",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
@@ -207,13 +249,6 @@
     "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
     "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
     "published": "2026-08-01T02:41:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "We All Do Errands. Noah Blau Films Them.",
-    "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
-    "summary": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
-    "published": "2026-07-31T11:55:26",
     "source": "NYT > Technology"
   },
   {
@@ -287,13 +322,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
-    "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
-    "summary": "In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”",
-    "published": "2026-07-30T14:08:04",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
     "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
     "summary": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.",
@@ -312,48 +340,6 @@
     "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
     "summary": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
     "published": "2026-07-29T23:10:22",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism",
-    "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
-    "summary": "The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.",
-    "published": "2026-07-29T13:46:29",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Is Open-Weights A.I.?",
-    "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
-    "summary": "As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.",
-    "published": "2026-07-28T22:38:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Couple Stalked by eBay Settle for $56 Million",
-    "link": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
-    "summary": "Two Massachusetts journalists were harassed by a Silicon Valley security team in a case that raised questions about when executives should be held responsible.",
-    "published": "2026-07-28T21:02:51",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Writers Guild Withdraws Support From Film Festival Over A.I.",
-    "link": "https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html",
-    "summary": "Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.",
-    "published": "2026-07-28T20:24:33",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
-    "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
-    "summary": "Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.",
-    "published": "2026-07-28T17:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-    "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-    "summary": "The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.",
-    "published": "2026-07-28T12:35:43",
     "source": "NYT > Technology"
   }
 ]
