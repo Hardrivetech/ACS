@@ -1,31 +1,192 @@
 [
   {
-    "title": "No Data Centers in My Backyard",
-    "link": "https://jasmi.news/p/no-data-centers-in-my-backyard",
-    "summary": "<p>Article URL: <a href=\"https://jasmi.news/p/no-data-centers-in-my-backyard\">https://jasmi.news/p/no-data-centers-in-my-backyard</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180901\">https://news.ycombinator.com/item?id=49180901</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-05T10:38:57",
+    "title": "Follow the Markets and Track Stocks With These Free Apps",
+    "link": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+    "summary": "Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.",
+    "published": "2026-08-06T09:03:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What I love about Django",
+    "link": "https://buttondown.com/blog/what-i-love-about-django",
+    "summary": "<p>Article URL: <a href=\"https://buttondown.com/blog/what-i-love-about-django\">https://buttondown.com/blog/what-i-love-about-django</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193673\">https://news.ycombinator.com/item?id=49193673</a></p>\n<p>Points: 72</p>\n<p># Comments: 48</p>",
+    "published": "2026-08-06T07:34:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Helsinki Hacker News Meetup",
-    "link": "https://calpaterson.com/helsinki-hn.html",
-    "summary": "<p>Article URL: <a href=\"https://calpaterson.com/helsinki-hn.html\">https://calpaterson.com/helsinki-hn.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49180407\">https://news.ycombinator.com/item?id=49180407</a></p>\n<p>Points: 78</p>\n<p># Comments: 34</p>",
-    "published": "2026-08-05T09:15:33",
+    "title": "Let's all meet up in the Y2K",
+    "link": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+    "summary": "<p>Article URL: <a href=\"https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/\">https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193314\">https://news.ycombinator.com/item?id=49193314</a></p>\n<p>Points: 58</p>\n<p># Comments: 24</p>",
+    "published": "2026-08-06T06:43:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
-    "link": "https://arxiv.org/abs/2607.29377",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.29377\">https://arxiv.org/abs/2607.29377</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178608\">https://news.ycombinator.com/item?id=49178608</a></p>\n<p>Points: 51</p>\n<p># Comments: 10</p>",
-    "published": "2026-08-05T04:36:44",
+    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426\">https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49193173\">https://news.ycombinator.com/item?id=49193173</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-06T06:24:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "An SLM trained on $8 ESP32-S3",
-    "link": "https://github.com/Carloscodix/qapla",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Carloscodix/qapla\">https://github.com/Carloscodix/qapla</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49178464\">https://news.ycombinator.com/item?id=49178464</a></p>\n<p>Points: 36</p>\n<p># Comments: 13</p>",
-    "published": "2026-08-05T04:07:27",
+    "title": "Crime Pays but Botany Doesn't",
+    "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+    "summary": "<p>Article URL: <a href=\"https://www.crimepaysbutbotanydoesnt.com/reading-list\">https://www.crimepaysbutbotanydoesnt.com/reading-list</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49192566\">https://news.ycombinator.com/item?id=49192566</a></p>\n<p>Points: 248</p>\n<p># Comments: 98</p>",
+    "published": "2026-08-06T04:46:35",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "link": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "summary": "<p>Article URL: <a href=\"https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project\">https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49191624\">https://news.ycombinator.com/item?id=49191624</a></p>\n<p>Points: 239</p>\n<p># Comments: 308</p>",
+    "published": "2026-08-06T02:15:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "TikTok Is Laying Off 250 Employees in Its Nashville Office",
+    "link": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
+    "summary": "The office was home to members of the app’s content moderation team.",
+    "published": "2026-08-06T00:24:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The title cards in Blade Runner are amazing",
+    "link": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "summary": "<p>Article URL: <a href=\"https://randsinrepose.com/archives/blade-runner-title-cards/\">https://randsinrepose.com/archives/blade-runner-title-cards/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189287\">https://news.ycombinator.com/item?id=49189287</a></p>\n<p>Points: 288</p>\n<p># Comments: 139</p>",
+    "published": "2026-08-05T21:29:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+    "link": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread\">https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189234\">https://news.ycombinator.com/item?id=49189234</a></p>\n<p>Points: 133</p>\n<p># Comments: 28</p>",
+    "published": "2026-08-05T21:24:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Prime Agent: A self-improving RLM agent",
+    "link": "https://www.primeintellect.ai/blog/prime-agent",
+    "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/blog/prime-agent\">https://www.primeintellect.ai/blog/prime-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49189075\">https://news.ycombinator.com/item?id=49189075</a></p>\n<p>Points: 186</p>\n<p># Comments: 37</p>",
+    "published": "2026-08-05T21:11:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How China’s A.I. Is Surging Across Africa",
+    "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+    "summary": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.",
+    "published": "2026-08-05T20:41:16",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I'm switching my phone from Android to Linux",
+    "link": "https://runarcn.no/android-to-linux/",
+    "summary": "<p>Article URL: <a href=\"https://runarcn.no/android-to-linux/\">https://runarcn.no/android-to-linux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49188022\">https://news.ycombinator.com/item?id=49188022</a></p>\n<p>Points: 348</p>\n<p># Comments: 349</p>",
+    "published": "2026-08-05T19:50:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
+    "link": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
+    "summary": "Minutes after four top researchers said they were leaving, Google said that Demis Hassabis, the Nobel-winning scientist who led the company’s A.I. lab, was stepping into a new job.",
+    "published": "2026-08-05T19:17:33",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Muse Code and Muse Spark 1.2",
+    "link": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+    "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2\">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187575\">https://news.ycombinator.com/item?id=49187575</a></p>\n<p>Points: 266</p>\n<p># Comments: 167</p>",
+    "published": "2026-08-05T19:15:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zed DeltaDB",
+    "link": "https://zed.dev/deltadb",
+    "summary": "<p>Article URL: <a href=\"https://zed.dev/deltadb\">https://zed.dev/deltadb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187256\">https://news.ycombinator.com/item?id=49187256</a></p>\n<p>Points: 442</p>\n<p># Comments: 232</p>",
+    "published": "2026-08-05T18:52:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "link": "https://blog.fogus.me/llm/born-against.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.fogus.me/llm/born-against.html\">https://blog.fogus.me/llm/born-against.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49187061\">https://news.ycombinator.com/item?id=49187061</a></p>\n<p>Points: 283</p>\n<p># Comments: 276</p>",
+    "published": "2026-08-05T18:37:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+    "link": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+    "summary": "<p>Article URL: <a href=\"https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency\">https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49186762\">https://news.ycombinator.com/item?id=49186762</a></p>\n<p>Points: 323</p>\n<p># Comments: 80</p>",
+    "published": "2026-08-05T18:18:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "link": "https://arxiv.org/abs/2510.01395",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.01395\">https://arxiv.org/abs/2510.01395</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49186720\">https://news.ycombinator.com/item?id=49186720</a></p>\n<p>Points: 129</p>\n<p># Comments: 71</p>",
+    "published": "2026-08-05T18:17:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "link": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "summary": "<p>Article URL: <a href=\"https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data\">https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49185983\">https://news.ycombinator.com/item?id=49185983</a></p>\n<p>Points: 240</p>\n<p># Comments: 97</p>",
+    "published": "2026-08-05T17:23:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Celld: Self-hosted, distributed Durable Objects",
+    "link": "https://github.com/denoland/celld",
+    "summary": "<p>Article URL: <a href=\"https://github.com/denoland/celld\">https://github.com/denoland/celld</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49185430\">https://news.ycombinator.com/item?id=49185430</a></p>\n<p>Points: 225</p>\n<p># Comments: 38</p>",
+    "published": "2026-08-05T16:50:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "link": "https://www.hyperprobe.co",
+    "summary": "<p>Hi HN, this is Shailendra and Karan here. We are building a fast and safe way for coding agents to debug issues live in production.<p>When prod breaks, it lets Cursor, Claude, and others drop virtual breakpoints or probes safely in your running code, and extract the exact variable values that logs don’t have.<p>All this saves time and effort for engineers who’d otherwise dig through logs and traces or redeploy with console.logs or print statements until they find the root cause.<p>Here is the link to the video that explains this: <a href=\"https://www.youtube.com/watch?v=ivV7I--ta5c\" rel=\"nofollow\">https://www.youtube.com/watch?v=ivV7I--ta5c</a><p>Agents write most of our code now. This shrinks the useful context engineers need to debug AI written code, a problem not helped by the limited telemetry added in the same code by AI.<p>So when something breaks in prod, the first instinct for an engineer is to open logs or throw them to your agents. But if the line you are looking for is not there, agents will start guessing the root cause on non-existent data, forcing you to add a log, and redeploy.<p>This analysis-inference loop of agents with existing data does not come cheap, burning a lot of tokens. And the add log, redeploy cycle is so slow and painful that it makes engineers hate on-call.<p>Our approach lets agents capture telemetry on-demand at the exact moment and point of failure, killing the log-redeploy cycle and getting the most accurate RCA while burning fewer tokens.<p>The obvious problem is making it work on a running service. You can't pause a live service the way you'd pause a debugger on your laptop. Getting the value out of a running process safely, without pausing a thread or slowing the host is the challenge.We are making this happen.<p>Before this I ran engineering at a 100 member team. Then Karan and I spent three years on HyperTest which was a testing tool.<p>At HyperTest, we turned production traffic into integration tests using OpenTelemetry. That was production instrumentation too. The hard parts of pulling real runtime state out of a running service without breaking it, were the hard parts we learnt to put together.<p>We learnt some other lessons the hard way too. HyperTest tried to prevent bugs with better tests, and adoption was a fight every time. Calls kept getting cancelled because teams were firefighting production. Testing was hygiene. Broken prod was hair on fire. This made us see where priorities lie.<p>This seeded the idea of building a truly autonomous on-call agent i.e. one that takes an alert, probes, diagnoses and fixes it in a few minutes. But this is how it works as of now:<p>You talk to your coding agent the way you already do. Tell it what's wrong: \"checkout returns 200 but some users are seeing their order fail, find out why.\" It locates the line in your local code, connects to us over MCP, and drops a probe on that line in the running service. The probe is read-only and sits dormant until real traffic hits. When hit, it captures the local variables at every frame of the call stack at that exact moment. It hands them to the agent, which diagnoses with real data.<p>There are two pieces. An SDK that runs inside your service, and an MCP server your coding agent talks to. The SDK is what makes setting probes (virtual breakpoints, log or metric) possible without a redeploy. In Node and Python it hooks in-process. In Java it attaches as a JVM agent, instrumenting at the bytecode level. Either way the service keeps running and serving traffic. Nothing pauses.<p>When your agent wants to look at a line, it calls the MCP server, which tells the SDK to place a probe there. When a request hits the line, the SDK captures what the probe asked for, sanitizes it in-process, and streams it back to the agent via the MCP.<p>This can run inside prod, so a probe can read any value sitting in that variable. We ensure redaction happens in-process, inside your own container's memory. This is before anything goes on the wire. Keys like password, token, authorization, ssn and credit card are redacted by default and you add your own.<p>Also the probes read but never write, and if you want no captured state to ever leave your network you can self host the server, broker, and even the database in your infra.<p>On overhead: when idle, the SDK adds negligible memory and effectively nothing to throughput and response time. Probes only cost anything while actively capturing. Also captures are bounded. A separate monitor watches in real time and pulls every active probe if overhead ever spikes.<p>Every log-and-trace tool hands the agent data that already exists and asks it to reason backward to what probably happened. We think it is more useful to give agents eyes and ears into the running code, so they capture what they need when they need it, right at the point of failure.<p>This seems like the simplest and fastest way to debug prod incidents.<p>We’d love the community to try this in any environment to debug any known or unknown issue by just chatting with your coding agent. And let us know what more features you need to make this a truly autonomous on-call agent<p>Supported platforms: NodeJs, Java, Python.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49185389\">https://news.ycombinator.com/item?id=49185389</a></p>\n<p>Points: 59</p>\n<p># Comments: 41</p>",
+    "published": "2026-08-05T16:47:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Discovery Loop",
+    "link": "https://www.discoveryloop.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.discoveryloop.com/\">https://www.discoveryloop.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49184960\">https://news.ycombinator.com/item?id=49184960</a></p>\n<p>Points: 771</p>\n<p># Comments: 482</p>",
+    "published": "2026-08-05T16:19:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
+    "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
+    "published": "2026-08-05T16:18:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "summary": "<p><a href=\"https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai\" rel=\"nofollow\">https://www.axios.com/2026/08/05/google-deepmind-demis-hassa...</a><p><a href=\"https://www.reuters.com/business/google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05/\" rel=\"nofollow\">https://www.reuters.com/business/google-shakes-up-ai-leaders...</a><p><a href=\"https://www.discoveryloop.com/\" rel=\"nofollow\">https://www.discoveryloop.com/</a>, <a href=\"https://news.ycombinator.com/item?id=49184960\">https://news.ycombinator.com/item?id=49184960</a><p><a href=\"https://twitter.com/JeffDean/status/2085034604172603724\" rel=\"nofollow\">https://twitter.com/JeffDean/status/2085034604172603724</a>, <a href=\"https://xcancel.com/JeffDean/status/2085034604172603724\" rel=\"nofollow\">https://xcancel.com/JeffDean/status/2085034604172603724</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49184755\">https://news.ycombinator.com/item?id=49184755</a></p>\n<p>Points: 672</p>\n<p># Comments: 729</p>",
+    "published": "2026-08-05T16:05:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Four Top Google A.I. Researchers Form New Start-Up",
+    "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+    "summary": "Jeff Dean, who for years was one of Google’s most important executives, is leading the new artificial intelligence company with the backing of Google.",
+    "published": "2026-08-05T16:00:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Entropy of a Markov Chain",
+    "link": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+    "summary": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain\">https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49183017\">https://news.ycombinator.com/item?id=49183017</a></p>\n<p>Points: 131</p>\n<p># Comments: 12</p>",
+    "published": "2026-08-05T14:00:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
+    "link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
+    "summary": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
+    "published": "2026-08-05T13:10:43",
+    "source": "NYT > Technology"
   },
   {
     "title": "Trump White House Readies AI Framework to Review Security Risks",
@@ -35,81 +196,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Bugtraq is back",
-    "link": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-    "summary": "<p>Article URL: <a href=\"https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/\">https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176947\">https://news.ycombinator.com/item?id=49176947</a></p>\n<p>Points: 50</p>\n<p># Comments: 17</p>",
-    "published": "2026-08-05T00:05:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Flowise is shutting down",
-    "link": "https://flowiseai.com/sunset",
-    "summary": "<p>Article URL: <a href=\"https://flowiseai.com/sunset\">https://flowiseai.com/sunset</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176920\">https://news.ycombinator.com/item?id=49176920</a></p>\n<p>Points: 53</p>\n<p># Comments: 38</p>",
-    "published": "2026-08-05T00:02:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "link": "https://queue.acm.org/detail.cfm?id=3807963",
-    "summary": "<p>Article URL: <a href=\"https://queue.acm.org/detail.cfm?id=3807963\">https://queue.acm.org/detail.cfm?id=3807963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176830\">https://news.ycombinator.com/item?id=49176830</a></p>\n<p>Points: 224</p>\n<p># Comments: 182</p>",
-    "published": "2026-08-04T23:50:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-    "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-    "summary": "<p>Article URL: <a href=\"https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/\">https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176697\">https://news.ycombinator.com/item?id=49176697</a></p>\n<p>Points: 122</p>\n<p># Comments: 17</p>",
-    "published": "2026-08-04T23:31:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "libexpat now funded by the City of Munich for up to 6 months",
-    "link": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-    "summary": "<p>Article URL: <a href=\"https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/\">https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176606\">https://news.ycombinator.com/item?id=49176606</a></p>\n<p>Points: 290</p>\n<p># Comments: 66</p>",
-    "published": "2026-08-04T23:18:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
     "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
     "summary": "Elon Musk’s rocket company said its capital expenditures jumped nearly seven times from a year ago. Revenue also rose.",
     "published": "2026-08-04T22:52:45",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: SIMD Viterbi Decoder in Rust",
-    "link": "https://github.com/brian-armstrong/fec",
-    "summary": "<p>I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decode at runtime depending on which instruction sets are available. For small rates and orders, the entire decode lives in registers. Larger codes work through memory but take advantage of some acceleration structures.<p>I also spent some time building a tool to find optimal (max d_free) conv codes for a given rate and order. Of course, there are better mechanisms available today, but I'm happy to talk through anything I learned in the process.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176212\">https://news.ycombinator.com/item?id=49176212</a></p>\n<p>Points: 51</p>\n<p># Comments: 9</p>",
-    "published": "2026-08-04T22:37:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We finally learned to center a div, then browsers added sidebars",
-    "link": "https://seg6.space/posts/center-div/",
-    "summary": "<p>Article URL: <a href=\"https://seg6.space/posts/center-div/\">https://seg6.space/posts/center-div/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176055\">https://news.ycombinator.com/item?id=49176055</a></p>\n<p>Points: 140</p>\n<p># Comments: 116</p>",
-    "published": "2026-08-04T22:24:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Pi's Minimalism Is Its Advantage",
-    "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/pi-autoresearch-and-databricks/\">https://earendil.com/posts/pi-autoresearch-and-databricks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49176038\">https://news.ycombinator.com/item?id=49176038</a></p>\n<p>Points: 392</p>\n<p># Comments: 174</p>",
-    "published": "2026-08-04T22:22:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-    "link": "https://techascent.com/blog/just-ducking-around.html",
-    "summary": "<p>Article URL: <a href=\"https://techascent.com/blog/just-ducking-around.html\">https://techascent.com/blog/just-ducking-around.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175924\">https://news.ycombinator.com/item?id=49175924</a></p>\n<p>Points: 114</p>\n<p># Comments: 17</p>",
-    "published": "2026-08-04T22:09:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "summary": "<p><a href=\"https://www.interpol.int/Media/Documents/Publications/Cybercrime/African-Cyberthreat-Assessment-Report-2026\" rel=\"nofollow\">https://www.interpol.int/Media/Documents/Publications/Cyberc...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49175826\">https://news.ycombinator.com/item?id=49175826</a></p>\n<p>Points: 254</p>\n<p># Comments: 196</p>",
-    "published": "2026-08-04T22:01:41",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
@@ -119,32 +210,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
-    "link": "https://deepgrove.ai/maple-preview",
-    "summary": "<p>Article URL: <a href=\"https://deepgrove.ai/maple-preview\">https://deepgrove.ai/maple-preview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173984\">https://news.ycombinator.com/item?id=49173984</a></p>\n<p>Points: 131</p>\n<p># Comments: 38</p>",
-    "published": "2026-08-04T19:44:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-    "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-    "summary": "<p>Article URL: <a href=\"https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/\">https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49173165\">https://news.ycombinator.com/item?id=49173165</a></p>\n<p>Points: 1403</p>\n<p># Comments: 81</p>",
-    "published": "2026-08-04T18:51:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
     "link": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
     "summary": "The state attorney general said in an antitrust lawsuit filed on Tuesday that the company was abusing its market power to keep its delivery costs low.",
     "published": "2026-08-04T18:32:54",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Waymo in Dallas",
-    "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-    "summary": "<p>Article URL: <a href=\"https://waymo.com/blog/shorts/dallas-open-to-all/\">https://waymo.com/blog/shorts/dallas-open-to-all/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49172836\">https://news.ycombinator.com/item?id=49172836</a></p>\n<p>Points: 299</p>\n<p># Comments: 538</p>",
-    "published": "2026-08-04T18:29:41",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
@@ -154,52 +224,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
-    "link": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead\">https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171650\">https://news.ycombinator.com/item?id=49171650</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-04T17:00:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-    "link": "https://mistral.ai/news/shieldstral/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/shieldstral/\">https://mistral.ai/news/shieldstral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49171268\">https://news.ycombinator.com/item?id=49171268</a></p>\n<p>Points: 435</p>\n<p># Comments: 112</p>",
-    "published": "2026-08-04T16:36:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "We All Do Errands. Noah Blau Films Them.",
     "link": "https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
     "summary": "Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.",
     "published": "2026-08-04T15:46:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-    "link": "https://toneyalexander.github.io/inclusive-color-space/",
-    "summary": "<p>Hello HN!<p>I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.<p>I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.<p>The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49170165\">https://news.ycombinator.com/item?id=49170165</a></p>\n<p>Points: 546</p>\n<p># Comments: 94</p>",
-    "published": "2026-08-04T15:16:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
-    "link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
-    "summary": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
-    "published": "2026-08-04T14:44:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
-    "link": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
-    "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
-    "published": "2026-08-03T20:10:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Are Companies Getting for All That A.I. Spending?",
-    "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
-    "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
-    "published": "2026-08-03T18:56:22",
     "source": "NYT > Technology"
   },
   {
@@ -228,13 +256,6 @@
     "link": "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
     "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.",
     "published": "2026-08-03T09:00:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
-    "link": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
-    "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-    "published": "2026-08-02T15:45:26",
     "source": "NYT > Technology"
   },
   {
@@ -301,45 +322,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
-    "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
-    "summary": "An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.",
-    "published": "2026-07-30T20:51:04",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
     "link": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
     "summary": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
     "published": "2026-07-30T19:53:45",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time",
-    "link": "https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html",
-    "summary": "To meet the growing needs of his congregation, Justin Lester created an A.I. duplicate of himself. Every day he sees more people using it.",
-    "published": "2026-07-30T17:11:59",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
-    "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-    "summary": "An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.",
-    "published": "2026-07-30T09:03:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
-    "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
-    "summary": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.",
-    "published": "2026-07-29T23:17:34",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31%",
-    "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
-    "summary": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
-    "published": "2026-07-29T23:10:22",
     "source": "NYT > Technology"
   }
 ]
