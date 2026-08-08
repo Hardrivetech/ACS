@@ -1,9 +1,156 @@
 [
   {
+    "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+    "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+    "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
+    "published": "2026-08-08T09:02:25",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Hardware backdoors in some x86 CPUs",
+    "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+    "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/rosenbridge\">https://github.com/xoreaxeaxeax/rosenbridge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49219508\">https://news.ycombinator.com/item?id=49219508</a></p>\n<p>Points: 80</p>\n<p># Comments: 20</p>",
+    "published": "2026-08-08T07:04:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+    "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+    "summary": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year\">https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49218179\">https://news.ycombinator.com/item?id=49218179</a></p>\n<p>Points: 230</p>\n<p># Comments: 41</p>",
+    "published": "2026-08-08T01:49:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Nixpkgs core team has disbanded",
+    "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+    "summary": "<p>Article URL: <a href=\"https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413\">https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49217993\">https://news.ycombinator.com/item?id=49217993</a></p>\n<p>Points: 291</p>\n<p># Comments: 138</p>",
+    "published": "2026-08-08T01:12:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "link": "https://genesisopenmodels.anl.gov/",
+    "summary": "<p>Article URL: <a href=\"https://genesisopenmodels.anl.gov/\">https://genesisopenmodels.anl.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216946\">https://news.ycombinator.com/item?id=49216946</a></p>\n<p>Points: 228</p>\n<p># Comments: 78</p>",
+    "published": "2026-08-07T22:24:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+    "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070\">https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49216362\">https://news.ycombinator.com/item?id=49216362</a></p>\n<p>Points: 189</p>\n<p># Comments: 125</p>",
+    "published": "2026-08-07T21:19:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Psychological Warfare in Reverse Engineering (2015)",
+    "link": "https://github.com/xoreaxeaxeax/repsych",
+    "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/repsych\">https://github.com/xoreaxeaxeax/repsych</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214775\">https://news.ycombinator.com/item?id=49214775</a></p>\n<p>Points: 69</p>\n<p># Comments: 4</p>",
+    "published": "2026-08-07T18:51:45",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+    "link": "https://ancientlibrary.net/",
+    "summary": "<p>Article URL: <a href=\"https://ancientlibrary.net/\">https://ancientlibrary.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214770\">https://news.ycombinator.com/item?id=49214770</a></p>\n<p>Points: 205</p>\n<p># Comments: 63</p>",
+    "published": "2026-08-07T18:51:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Managing AI Coding Costs at Scale",
+    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "summary": "<p>Article URL: <a href=\"https://www.databricks.com/blog/managing-ai-coding-costs-scale\">https://www.databricks.com/blog/managing-ai-coding-costs-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214468\">https://news.ycombinator.com/item?id=49214468</a></p>\n<p>Points: 233</p>\n<p># Comments: 201</p>",
+    "published": "2026-08-07T18:25:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Assembly Hall of Shame",
+    "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+    "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/asm-hall-of-shame\">https://github.com/xoreaxeaxeax/asm-hall-of-shame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214098\">https://news.ycombinator.com/item?id=49214098</a></p>\n<p>Points: 340</p>\n<p># Comments: 83</p>",
+    "published": "2026-08-07T18:01:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek V4 Flash 0731",
+    "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+    "summary": "<p>Article URL: <a href=\"https://arcprize.org/results/deepseek-v4-flash-0731\">https://arcprize.org/results/deepseek-v4-flash-0731</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49214008\">https://news.ycombinator.com/item?id=49214008</a></p>\n<p>Points: 616</p>\n<p># Comments: 371</p>",
+    "published": "2026-08-07T17:56:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "summary": "<p>Article URL: <a href=\"https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\">https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213754\">https://news.ycombinator.com/item?id=49213754</a></p>\n<p>Points: 467</p>\n<p># Comments: 330</p>",
+    "published": "2026-08-07T17:36:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/\">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49213029\">https://news.ycombinator.com/item?id=49213029</a></p>\n<p>Points: 182</p>\n<p># Comments: 175</p>",
+    "published": "2026-08-07T16:39:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An all-sky map of half a million supermassive black holes",
+    "link": "https://www.sdss.org/black-hole-mapper-release-20/",
+    "summary": "<p>Article URL: <a href=\"https://www.sdss.org/black-hole-mapper-release-20/\">https://www.sdss.org/black-hole-mapper-release-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211921\">https://news.ycombinator.com/item?id=49211921</a></p>\n<p>Points: 167</p>\n<p># Comments: 37</p>",
+    "published": "2026-08-07T15:24:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Möbius-Strip Crosswords",
+    "link": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
+    "summary": "<p>Article URL: <a href=\"https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/\">https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211660\">https://news.ycombinator.com/item?id=49211660</a></p>\n<p>Points: 73</p>\n<p># Comments: 10</p>",
+    "published": "2026-08-07T15:10:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
+    "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
+    "summary": "A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.",
+    "published": "2026-08-07T14:11:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Radical Study Suggests Life on Earth Arose Twice",
+    "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+    "summary": "<p>Article URL: <a href=\"https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice\">https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209572\">https://news.ycombinator.com/item?id=49209572</a></p>\n<p>Points: 140</p>\n<p># Comments: 100</p>",
+    "published": "2026-08-07T12:45:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "summary": "<p>Article URL: <a href=\"https://www.noemamag.com/why-is-everyone-in-tech-so-sad/\">https://www.noemamag.com/why-is-everyone-in-tech-so-sad/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209539\">https://news.ycombinator.com/item?id=49209539</a></p>\n<p>Points: 639</p>\n<p># Comments: 712</p>",
+    "published": "2026-08-07T12:42:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Wyzer Programming Language",
+    "link": "https://github.com/Wyzer-Lang/wyzer",
+    "summary": "<p>So i've been working on this project since a few days (or months i should say), it's called wyzer (meaning wiser) it's a statically typed, compiled, resource-oriented programming language with integrated distributed safety via choreographic programming and perceus memory model, The reason why i began this project is out of frustration from Rust, you see it does provide safety for your memory by the strict type checking but what it does not gurantee safety against are distributed deadlocks which is basically a few independent nodes or services wait permanently for resources or messages held by each other, forming a circular wait, the rest are cross-service correctness and protocol mismatch as well. If we are specific over here Wyzer works on mainly generalizing the concept of choreographic programming in a high level programming language because its the very few attempts of actually solving these gaps of safety. Instead of borrow checkers and lifetimes wyzer has linear/affine types and a perceus reference counting which is computationally much simpler for an LSP to understand as well<p>after 5 months of research and a few weeks of development i am soon going to release version 0.1.0 of it, if you would like to contribute to it you're most welcome!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49209385\">https://news.ycombinator.com/item?id=49209385</a></p>\n<p>Points: 197</p>\n<p># Comments: 108</p>",
+    "published": "2026-08-07T12:28:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+    "link": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+    "summary": "<p>Article URL: <a href=\"https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/\">https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208535\">https://news.ycombinator.com/item?id=49208535</a></p>\n<p>Points: 285</p>\n<p># Comments: 138</p>",
+    "published": "2026-08-07T11:00:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "link": "https://blog.cloudflare.com/kitesurf/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kitesurf/\">https://blog.cloudflare.com/kitesurf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49208393\">https://news.ycombinator.com/item?id=49208393</a></p>\n<p>Points: 191</p>\n<p># Comments: 50</p>",
+    "published": "2026-08-07T10:42:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
     "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
     "summary": "The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.",
-    "published": "2026-08-07T09:50:23",
+    "published": "2026-08-07T09:50:24",
     "source": "NYT > Technology"
   },
   {
@@ -16,22 +163,8 @@
   {
     "title": "2027 memory capacity is reportedly sold out",
     "link": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-    "summary": "<p>Article URL: <a href=\"https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207236\">https://news.ycombinator.com/item?id=49207236</a></p>\n<p>Points: 47</p>\n<p># Comments: 19</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out\">https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49207236\">https://news.ycombinator.com/item?id=49207236</a></p>\n<p>Points: 356</p>\n<p># Comments: 319</p>",
     "published": "2026-08-07T07:58:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Framework discloses data breach via Metabase 0-day",
-    "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
-    "summary": "<p>Article URL: <a href=\"https://community.frame.work/t/framework-data-breach-discussion/83939\">https://community.frame.work/t/framework-data-breach-discussion/83939</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49206130\">https://news.ycombinator.com/item?id=49206130</a></p>\n<p>Points: 77</p>\n<p># Comments: 30</p>",
-    "published": "2026-08-07T05:17:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-    "link": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-    "summary": "<p>Article URL: <a href=\"https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/\">https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204546\">https://news.ycombinator.com/item?id=49204546</a></p>\n<p>Points: 59</p>\n<p># Comments: 79</p>",
-    "published": "2026-08-07T00:37:30",
     "source": "Hacker News: Front Page"
   },
   {
@@ -42,53 +175,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-    "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-    "summary": "<p><a href=\"https://www.reuters.com/world/new-mexico-court-orders-meta-pay-567-mln-teen-mental-health-fund-2026-08-06/\" rel=\"nofollow\">https://www.reuters.com/world/new-mexico-court-orders-meta-p...</a><p><a href=\"https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta\" rel=\"nofollow\">https://www.theguardian.com/technology/2026/aug/06/new-mexic...</a><p><a href=\"https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-567m-make-changes-for-underage-users/\" rel=\"nofollow\">https://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...</a><p><a href=\"https://www.bbc.com/news/articles/cd7lz3wr2rlo\" rel=\"nofollow\">https://www.bbc.com/news/articles/cd7lz3wr2rlo</a><p><a href=\"https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7\" rel=\"nofollow\">https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49204352\">https://news.ycombinator.com/item?id=49204352</a></p>\n<p>Points: 262</p>\n<p># Comments: 164</p>",
-    "published": "2026-08-07T00:06:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Follow the Markets and Track Stocks With These Free Apps",
     "link": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
     "summary": "Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.",
     "published": "2026-08-07T00:01:36",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-    "link": "https://zenodo.org/records/21359923",
-    "summary": "<p>Author here.<p>Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat classical selected-CI at matched cost. That argument is still live.<p>Both sides have been arguing about energies. Neither measured which electronic state these calculations actually converge to.<p>So I measured it. ⟨S²⟩ comes out between 4.7 and 7.0 depending on the system and the subspace size, where the target these papers name is a singlet at ⟨S²⟩ = 0. Every starting guess I tried lands in the same place, and the error at convergence is about the size of the spin-state ladder itself, which <i>is</i> the physics under dispute.<p>IBM ships a mitigation for this. Run exactly as shipped, using their driver, their recovery loop and their own spin_square() diagnostic, it moves the ground energy by under a nanohartree while making the subspace 4.00x bigger: 194,481 determinants against 48,600. It makes a singlet representable. It never produces one. Their solver also takes a spin_sq argument that would target the singlet directly, and the default pipeline never sets it.<p>I filed that narrow part on their tracker yesterday, before posting this: <a href=\"https://github.com/Qiskit/qiskit-addon-sqd/issues/337\" rel=\"nofollow\">https://github.com/Qiskit/qiskit-addon-sqd/issues/337</a>. A maintainer answered and closed it the same day, and his answer is the useful part. The flag, in his words, augments the sampled subspace by using alpha CI strings as beta strings and vice versa. That is a statement about which determinants span the space, not about what spin the returned state comes out in, which is exactly what the measurement says. He did not contest the numbers. The second question, whether the default path is meant to reach spin_sq at all, is still unanswered.<p>The obvious objection is that this is all my own reimplementation, so here's the part that isn't. IBM's data-availability archive for the flagship paper contains the raw hardware measurement records: 2,457,600 shots on [2Fe-2S] from December 2023, 3,163,742 outcomes on [4Fe-4S] from April 2024, plus the integrals and the optimized circuit's parameters. Running their shots through their own pipeline, [2Fe-2S] reaches low ⟨S²⟩ but sits 248 mHa off their own reference, and [4Fe-4S] converges to a spin-pure triplet, Var(S²) = 3e-6, a genuine S=1 eigenstate: a clean state, and the wrong one, 1,438 mHa from their reference.<p>Two things in that archive need no analysis from me at all. Their uniform-random null control matches or beats the hardware samples in every published [2Fe-2S] comparison. And their largest [4Fe-4S] runs, at subspace dimension 10⁸, trail their own classical HCI file by 149 mHa.<p>On the AI angle, since that's half of why this is on HN: Claude did the initial audit end to end in about 72 hours under my direction, and it's been through many rounds of adversarial review since. The part I'd defend as actually interesting isn't the speed. It caught five defects in its own work through pre-registered validation gates, one of them by cross-checking against IBM's own published energy tables, and it retracted its own strongest pro-quantum finding when the new instrument showed that result was a spin-sector artifact. AUDIT_TRAIL.md has the timeline. REPRO_MAP.md maps every claim to a file and a command that regenerates it.<p>If you want to kill this, and I mean that, here's how. Exhibit any state in a spin-completed ground manifold of these benchmarks with ⟨S²⟩ < 1. Or show me a quantum-sampled subspace at matched determinant count whose spin-identified energy beats HCI or CIPSI. Or get any shipped-pipeline run on IBM's archived samples to land ⟨S²⟩ < 1 and error under 50 mHa at once, with no spin penalty. The harness is in the archive and I'll publish whatever comes back, including if it's me who's wrong.<p>Preprint: <a href=\"https://doi.org/10.26434/chemrxiv.15006382/v1\" rel=\"nofollow\">https://doi.org/10.26434/chemrxiv.15006382/v1</a><p>The limitations section is real: comparison dimensions are fixed, the [4Fe-4S] reference is approximate, and the 58.6M \"samples\" file is deduplicated, so the shot-level distribution of their optimal-circuit numerics isn't publicly auditable. It's short. Worth reading before the hot take.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203707\">https://news.ycombinator.com/item?id=49203707</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-06T22:50:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-    "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-    "summary": "<p>Article URL: <a href=\"https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/\">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49203105\">https://news.ycombinator.com/item?id=49203105</a></p>\n<p>Points: 152</p>\n<p># Comments: 23</p>",
-    "published": "2026-08-06T21:52:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "link": "https://www.aleksagordic.com/blog/vllm",
-    "summary": "<p>Article URL: <a href=\"https://www.aleksagordic.com/blog/vllm\">https://www.aleksagordic.com/blog/vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202852\">https://news.ycombinator.com/item?id=49202852</a></p>\n<p>Points: 107</p>\n<p># Comments: 5</p>",
-    "published": "2026-08-06T21:30:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-    "link": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-    "summary": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/08/260803080917.htm\">https://www.sciencedaily.com/releases/2026/08/260803080917.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202716\">https://news.ycombinator.com/item?id=49202716</a></p>\n<p>Points: 126</p>\n<p># Comments: 30</p>",
-    "published": "2026-08-06T21:18:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What is a product?",
-    "link": "https://roge.onwrite.app/what-is-a-product",
-    "summary": "<p>Article URL: <a href=\"https://roge.onwrite.app/what-is-a-product\">https://roge.onwrite.app/what-is-a-product</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49202690\">https://news.ycombinator.com/item?id=49202690</a></p>\n<p>Points: 52</p>\n<p># Comments: 30</p>",
-    "published": "2026-08-06T21:16:52",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "F.C.C. Removes Limit on Broadcast TV Ownership",
@@ -98,81 +189,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "summary": "<p><a href=\"https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https://ir.amd.com/news-events/press-releases/detail/1296/am...</a><p><a href=\"https://chatjimmy.ai/\" rel=\"nofollow\">https://chatjimmy.ai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201970\">https://news.ycombinator.com/item?id=49201970</a></p>\n<p>Points: 656</p>\n<p># Comments: 501</p>",
-    "published": "2026-08-06T20:23:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Quake – 30th Anniversary Update",
-    "link": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
-    "summary": "<p>Article URL: <a href=\"https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update\">https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201930\">https://news.ycombinator.com/item?id=49201930</a></p>\n<p>Points: 310</p>\n<p># Comments: 158</p>",
-    "published": "2026-08-06T20:21:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Herdr is joining Y Combinator. The runtime stays open",
-    "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
-    "summary": "<p>Article URL: <a href=\"https://herdr.dev/blog/herdr-is-joining-y-combinator/\">https://herdr.dev/blog/herdr-is-joining-y-combinator/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49201003\">https://news.ycombinator.com/item?id=49201003</a></p>\n<p>Points: 210</p>\n<p># Comments: 142</p>",
-    "published": "2026-08-06T19:14:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My phone detects going on a run as “someone snatching my phone and running off”",
-    "link": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
-    "summary": "<p>Article URL: <a href=\"https://mastodon.gamedev.place/@rygorous/117047697255584965\">https://mastodon.gamedev.place/@rygorous/117047697255584965</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49200439\">https://news.ycombinator.com/item?id=49200439</a></p>\n<p>Points: 141</p>\n<p># Comments: 244</p>",
-    "published": "2026-08-06T18:26:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/\">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199357\">https://news.ycombinator.com/item?id=49199357</a></p>\n<p>Points: 240</p>\n<p># Comments: 182</p>",
-    "published": "2026-08-06T17:02:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Taste Is All That's Left",
-    "link": "https://notashelf.dev/posts/taste-is-all-thats-left",
-    "summary": "<p>Article URL: <a href=\"https://notashelf.dev/posts/taste-is-all-thats-left\">https://notashelf.dev/posts/taste-is-all-thats-left</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49199346\">https://news.ycombinator.com/item?id=49199346</a></p>\n<p>Points: 419</p>\n<p># Comments: 313</p>",
-    "published": "2026-08-06T17:01:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "link": "https://provenmetal.com",
-    "summary": "<p>Hey HN, we’re Will & Johnny from ProvenMetal (<a href=\"https://provenmetal.com\">https://provenmetal.com</a>). You send us design files or specs and we give you assembled boards domestically in days.<p>The US produced 30% of PCBs globally in 2000, now they produce 4%. Chinese manufacturers have completely dominated this space at 55% of global production.<p>Now, the need for a domestic PCB supply chain is higher than ever before, yet the infrastructure has been dissolving over the last 2 decades. What is left is mostly small family run manufacturers (CMs) that have been operating in largely the same, labor intensive way since the early 2000’s.<p>When you place an order through a CM it typically takes several days to receive a quote and complete design for manufacture review, and then you have to source all of the components (the hardest part) and bare boards yourself, then wait anywhere from a few days to several weeks for the assembly and testing of those boards.<p>We started off assembling circuit boards out of a garage with prosumer grade equipment (NeoDen YY1, Glenbrook X-ray, solder paste stencils, and manual rework stations). We believed that by owning the manufacturing process, we could turn all the front of house automations inwards. But here’s the thing… manufacturing circuit boards with prosumer grade equipment out of a garage takes a huge amount of time. Suddenly we were spending 90% of our time assembling circuit boards instead of growing the business. We were completely capacity constrained, with fancy software automations that are not the binding constraint at low volumes.<p>Then we got our heads out of the weeds, took a step back, and realized that we were trying to solve the wrong bottlenecks.<p>These manufacturers are good at manufacturing and terrible at the front of house (quoting, DFM review, and part procurement). When you look at the full process, you realize that assembly is not the bottleneck. So we stopped trying to solve the problem that we can’t solve at this stage.<p>We measured the bottlenecks and nailed down the ones that we are best positioned to solve right now.<p>When a customer wants a domestically manufactured circuit board, it is not a straight forward process. We are making that process easy through front of house automation. A customer gives us their design files, and we automatically procure components, and co-ordinate bare board fabs and assembly houses to get quotes, design review, and manufacturing completed in a very tight loop.<p>How we solve part procurement (you can’t assemble boards with no parts!): When a user places an order with us, our system automatically sources their bill of materials across US and overseas distributors. However, when we work with customers during the design process, our plug-ins interact with KiCAD and Altium, sending the BOM to our ordering platform, which allows us to automatically procure components before layout is finalized.<p>KiCAD plugin: (<a href=\"https://github.com/proven-metal/provenmetal-kicad\" rel=\"nofollow\">https://github.com/proven-metal/provenmetal-kicad</a>)<p>Altium plugin: (<a href=\"https://github.com/proven-metal/provenmetal-altium\" rel=\"nofollow\">https://github.com/proven-metal/provenmetal-altium</a>)<p>This enables us to order long lead time parts in advance, suggest alternatives if parts are out of stock, and solve the biggest bottleneck in the process. We store parts in our hq in SF, and then kit the boards and route them through our network. We also do long term storage of parts for long lead time items.<p>How we solve endless emails: Every manufacturer wants the same information in a different shape. There’s usually a few days of back and forth emailing to achieve clarity. We’re building a profile per manufacturer and sending the order to fit their requirements. This may sound trivial but it removes a multi-day round trip on most orders, which on a quick-turn build is a meaningful share of the time.<p>How to solve design review: Each manufacturer has individual capability sheets, and so we have a heuristic harness that Fable 5 uses to check the board for DFM issues. We’re building a streamlined process for end-to-end pcb manufacturing, but is that enough to solve the supply chain? Not a chance. Capacity is the problem, and no amount of smart software will solve it. We’re extracting real slack from the system today, that slack is finite, and at some volume the only remaining move is adding physical capacity. We think that’s where this goes.<p>We charge a simple margin on the order value depending on order complexity with fully transparent quote breakdowns. We took our first paying order in less than a week and we’ve done roughly $70k across 11 orders in 6 weeks.<p>We are very interested in your opinion. We’re working in a problem space that has problems everywhere, we’re constantly pulled in wild directions regarding which problems we solve and how we go about solving them. What do you know that we can learn from?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198464\">https://news.ycombinator.com/item?id=49198464</a></p>\n<p>Points: 205</p>\n<p># Comments: 142</p>",
-    "published": "2026-08-06T15:59:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
-    "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "summary": "<p><a href=\"https://www.githubstatus.com/uptime/br0l2tvcx85d\" rel=\"nofollow\">https://www.githubstatus.com/uptime/br0l2tvcx85d</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49198302\">https://news.ycombinator.com/item?id=49198302</a></p>\n<p>Points: 403</p>\n<p># Comments: 332</p>",
-    "published": "2026-08-06T15:49:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "TikTok Lays Off 250 Employees in Office That Includes Content Moderation",
     "link": "https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html",
     "summary": "TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.",
     "published": "2026-08-06T13:14:39",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "summary": "<p>Article URL: <a href=\"https://scalex.dev/blog/ai-agent-permissions-stats/\">https://scalex.dev/blog/ai-agent-permissions-stats/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195468\">https://news.ycombinator.com/item?id=49195468</a></p>\n<p>Points: 301</p>\n<p># Comments: 211</p>",
-    "published": "2026-08-06T11:58:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mario Meets Pareto",
-    "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-    "summary": "<p>Article URL: <a href=\"https://www.mayerowitz.io/blog/mario-meets-pareto\">https://www.mayerowitz.io/blog/mario-meets-pareto</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49195231\">https://news.ycombinator.com/item?id=49195231</a></p>\n<p>Points: 1042</p>\n<p># Comments: 158</p>",
-    "published": "2026-08-06T11:24:53",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "How China’s A.I. Is Surging Across Africa",
@@ -194,13 +215,6 @@
     "summary": "Jeff Dean, who for years was one of Google’s most important executives, is leading the new artificial intelligence company with the backing of Google.",
     "published": "2026-08-05T16:00:07",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-    "link": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-    "summary": "<p><a href=\"https://www.bbc.com/news/articles/c36d4376nd2o\" rel=\"nofollow\">https://www.bbc.com/news/articles/c36d4376nd2o</a>, <a href=\"https://archive.is/YDn6S\" rel=\"nofollow\">https://archive.is/YDn6S</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49184355\">https://news.ycombinator.com/item?id=49184355</a></p>\n<p>Points: 227</p>\n<p># Comments: 44</p>",
-    "published": "2026-08-05T15:33:23",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
     "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.",
     "published": "2026-08-03T09:00:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight",
-    "link": "https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html",
-    "summary": "“It just seems like the temperature is rising on Silicon Valley.”",
-    "published": "2026-07-31T11:00:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble",
-    "link": "https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html",
-    "summary": "The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.",
-    "published": "2026-07-31T09:05:04",
     "source": "NYT > Technology"
   }
 ]
