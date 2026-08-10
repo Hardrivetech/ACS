@@ -1,114 +1,177 @@
 [
   {
-    "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-    "link": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-    "summary": "<p>Article URL: <a href=\"https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/\">https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229412\">https://news.ycombinator.com/item?id=49229412</a></p>\n<p>Points: 8</p>\n<p># Comments: 3</p>",
-    "published": "2026-08-09T08:00:51",
+    "title": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model",
+    "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+    "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted or not.",
+    "published": "2026-08-10T10:00:14",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
+    "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
+    "summary": "<p>Article URL: <a href=\"https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant\">https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241303\">https://news.ycombinator.com/item?id=49241303</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-10T09:22:25",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "There Are Magic Hexagons of Every Order",
-    "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-    "summary": "<p>Article URL: <a href=\"https://gukov.dev/math/2026/08/02/new-magic-hexagons.html\">https://gukov.dev/math/2026/08/02/new-magic-hexagons.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49229174\">https://news.ycombinator.com/item?id=49229174</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-09T07:19:58",
+    "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+    "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+    "summary": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.",
+    "published": "2026-08-10T09:02:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Can A.I. Get You Where You Want to Go for Less?",
+    "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+    "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
+    "published": "2026-08-10T09:01:42",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why Are So Many People Upset About Flock Cameras?",
+    "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+    "published": "2026-08-10T09:01:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+    "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+    "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+    "published": "2026-08-10T09:00:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
+    "link": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
+    "summary": "VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched.",
+    "published": "2026-08-10T09:00:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "link": "https://www.docker.com/products/docker-sandboxes/",
+    "summary": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 206</p>\n<p># Comments: 137</p>",
+    "published": "2026-08-10T06:02:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-    "link": "https://github.com/jmarshall23/msword",
-    "summary": "<p>Article URL: <a href=\"https://github.com/jmarshall23/msword\">https://github.com/jmarshall23/msword</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228663\">https://news.ycombinator.com/item?id=49228663</a></p>\n<p>Points: 65</p>\n<p># Comments: 20</p>",
-    "published": "2026-08-09T05:23:41",
+    "title": "Auto mode is now the default in Claude Code",
+    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 212</p>\n<p># Comments: 215</p>",
+    "published": "2026-08-10T03:50:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-    "link": "http://longbets.org/601/",
-    "summary": "<p>Article URL: <a href=\"http://longbets.org/601/\">http://longbets.org/601/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228458\">https://news.ycombinator.com/item?id=49228458</a></p>\n<p>Points: 140</p>\n<p># Comments: 57</p>",
-    "published": "2026-08-09T04:30:26",
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "link": "https://www.whodunnitai.com/",
+    "summary": "<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238851\">https://news.ycombinator.com/item?id=49238851</a></p>\n<p>Points: 88</p>\n<p># Comments: 30</p>",
+    "published": "2026-08-10T03:18:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Illinois just told every operating system to start reporting your kid's age",
-    "link": "https://itsfoss.com/news/illinois-age-verification-bill/",
-    "summary": "<p>Article URL: <a href=\"https://itsfoss.com/news/illinois-age-verification-bill/\">https://itsfoss.com/news/illinois-age-verification-bill/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228350\">https://news.ycombinator.com/item?id=49228350</a></p>\n<p>Points: 98</p>\n<p># Comments: 64</p>",
-    "published": "2026-08-09T04:03:59",
+    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+    "link": "https://github.com/shinyquagsire23/Klepton",
+    "summary": "<p>Article URL: <a href=\"https://github.com/shinyquagsire23/Klepton\">https://github.com/shinyquagsire23/Klepton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238818\">https://news.ycombinator.com/item?id=49238818</a></p>\n<p>Points: 81</p>\n<p># Comments: 8</p>",
+    "published": "2026-08-10T03:12:48",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
-    "link": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
-    "summary": "<p>Thread for original post: <a href=\"https://news.ycombinator.com/item?id=49214863\">https://news.ycombinator.com/item?id=49214863</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228166\">https://news.ycombinator.com/item?id=49228166</a></p>\n<p>Points: 179</p>\n<p># Comments: 18</p>",
-    "published": "2026-08-09T03:26:00",
+    "title": "Turn satellite imagery into a paper globe you fold yourself",
+    "link": "https://foldingglobes.com/",
+    "summary": "<p>Article URL: <a href=\"https://foldingglobes.com/\">https://foldingglobes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238735\">https://news.ycombinator.com/item?id=49238735</a></p>\n<p>Points: 61</p>\n<p># Comments: 21</p>",
+    "published": "2026-08-10T02:57:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-    "link": "https://marketnow.site/",
-    "summary": "<p>Article URL: <a href=\"https://marketnow.site/\">https://marketnow.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49228086\">https://news.ycombinator.com/item?id=49228086</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-    "published": "2026-08-09T03:13:01",
+    "title": "What Happened to HackerOne?",
+    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+    "summary": "<p>Article URL: <a href=\"https://blog.teknogeek.io/posts/what-happened-to-hackerone/\">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238561\">https://news.ycombinator.com/item?id=49238561</a></p>\n<p>Points: 235</p>\n<p># Comments: 104</p>",
+    "published": "2026-08-10T02:23:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Incentives are for losers",
-    "link": "https://www.experimental-history.com/p/incentives-are-for-losers",
-    "summary": "<p>Article URL: <a href=\"https://www.experimental-history.com/p/incentives-are-for-losers\">https://www.experimental-history.com/p/incentives-are-for-losers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227652\">https://news.ycombinator.com/item?id=49227652</a></p>\n<p>Points: 110</p>\n<p># Comments: 74</p>",
-    "published": "2026-08-09T01:49:48",
+    "title": "How We Pushed CDC into Postgres",
+    "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+    "summary": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238050\">https://news.ycombinator.com/item?id=49238050</a></p>\n<p>Points: 94</p>\n<p># Comments: 9</p>",
+    "published": "2026-08-10T01:01:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "TheoremDB – A public workspace for machine mathematics",
-    "link": "https://theoremdb.org/",
-    "summary": "<p>Article URL: <a href=\"https://theoremdb.org/\">https://theoremdb.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227505\">https://news.ycombinator.com/item?id=49227505</a></p>\n<p>Points: 41</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-09T01:23:36",
+    "title": "The Ambition Project",
+    "link": "https://www.betonit.ai/p/the-ambition-project",
+    "summary": "<p>Article URL: <a href=\"https://www.betonit.ai/p/the-ambition-project\">https://www.betonit.ai/p/the-ambition-project</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49237407\">https://news.ycombinator.com/item?id=49237407</a></p>\n<p>Points: 46</p>\n<p># Comments: 3</p>",
+    "published": "2026-08-09T23:36:05",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-    "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-    "summary": "<p>Article URL: <a href=\"https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621\">https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49227365\">https://news.ycombinator.com/item?id=49227365</a></p>\n<p>Points: 119</p>\n<p># Comments: 83</p>",
-    "published": "2026-08-09T00:59:58",
+    "title": "Tuxedo No. 2 – Cocktail recipes",
+    "link": "https://tuxedono2.com",
+    "summary": "<p>Article URL: <a href=\"https://tuxedono2.com\">https://tuxedono2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235697\">https://news.ycombinator.com/item?id=49235697</a></p>\n<p>Points: 92</p>\n<p># Comments: 26</p>",
+    "published": "2026-08-09T20:48:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-    "link": "https://os8088.com/",
-    "summary": "<p>Article URL: <a href=\"https://os8088.com/\">https://os8088.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226923\">https://news.ycombinator.com/item?id=49226923</a></p>\n<p>Points: 165</p>\n<p># Comments: 84</p>",
-    "published": "2026-08-08T23:37:27",
+    "title": "New Zealand lost its music media, and what we're building to replace it",
+    "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+    "summary": "<p>Article URL: <a href=\"https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235641\">https://news.ycombinator.com/item?id=49235641</a></p>\n<p>Points: 115</p>\n<p># Comments: 69</p>",
+    "published": "2026-08-09T20:42:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Dithered QR Codes",
-    "link": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-    "summary": "<p>Article URL: <a href=\"https://www.andrewt.net/dithered-qr-codes/wtf/\">https://www.andrewt.net/dithered-qr-codes/wtf/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226742\">https://news.ycombinator.com/item?id=49226742</a></p>\n<p>Points: 188</p>\n<p># Comments: 17</p>",
-    "published": "2026-08-08T23:05:24",
+    "title": "The tragedy of the commons, AI edition",
+    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "summary": "<p>Article URL: <a href=\"https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235011\">https://news.ycombinator.com/item?id=49235011</a></p>\n<p>Points: 125</p>\n<p># Comments: 80</p>",
+    "published": "2026-08-09T19:43:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "My server is a phone now",
-    "link": "https://seg6.space/posts/phone-server/",
-    "summary": "<p>Article URL: <a href=\"https://seg6.space/posts/phone-server/\">https://seg6.space/posts/phone-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226636\">https://news.ycombinator.com/item?id=49226636</a></p>\n<p>Points: 323</p>\n<p># Comments: 124</p>",
-    "published": "2026-08-08T22:49:23",
+    "title": "How I use LLMs to learn complex topics",
+    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "summary": "<p>Article URL: <a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234675\">https://news.ycombinator.com/item?id=49234675</a></p>\n<p>Points: 639</p>\n<p># Comments: 391</p>",
+    "published": "2026-08-09T19:16:49",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Should you stop cracking your knuckles?",
-    "link": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles\">https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226563\">https://news.ycombinator.com/item?id=49226563</a></p>\n<p>Points: 54</p>\n<p># Comments: 58</p>",
-    "published": "2026-08-08T22:36:25",
+    "title": "I made tinnitus my friend, then it disappeared [video]",
+    "link": "https://mynoise.net/vlog.php?ep=20260803",
+    "summary": "<p>Article URL: <a href=\"https://mynoise.net/vlog.php?ep=20260803\">https://mynoise.net/vlog.php?ep=20260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234271\">https://news.ycombinator.com/item?id=49234271</a></p>\n<p>Points: 142</p>\n<p># Comments: 119</p>",
+    "published": "2026-08-09T18:41:35",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-    "link": "https://shopify.engineering/scaling-inventory-reservations",
-    "summary": "<p>Article URL: <a href=\"https://shopify.engineering/scaling-inventory-reservations\">https://shopify.engineering/scaling-inventory-reservations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49226536\">https://news.ycombinator.com/item?id=49226536</a></p>\n<p>Points: 188</p>\n<p># Comments: 110</p>",
-    "published": "2026-08-08T22:32:50",
+    "title": "OpenChamber: An Agentic Development Environment",
+    "link": "https://openchamber.dev/",
+    "summary": "<p>Article URL: <a href=\"https://openchamber.dev/\">https://openchamber.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233448\">https://news.ycombinator.com/item?id=49233448</a></p>\n<p>Points: 147</p>\n<p># Comments: 75</p>",
+    "published": "2026-08-09T17:27:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-    "link": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-    "summary": "<p>Article URL: <a href=\"https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute\">https://eclipsefan.org/?v=2&amp;t=max&amp;layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&amp;lat=43.4623&amp;lon=-3.8099&amp;opacity=besselian%3A0.2%2Cumbra-live%3A0.2&amp;zoom=6&amp;palier=minute</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49225139\">https://news.ycombinator.com/item?id=49225139</a></p>\n<p>Points: 147</p>\n<p># Comments: 35</p>",
-    "published": "2026-08-08T19:38:08",
+    "title": "Ask HN: What are you working on? (August 2026)",
+    "link": "https://news.ycombinator.com/item?id=49233423",
+    "summary": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 244</p>\n<p># Comments: 867</p>",
+    "published": "2026-08-09T17:23:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Taxi drivers rarely die of Alzheimer's",
+    "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+    "summary": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 290</p>\n<p># Comments: 206</p>",
+    "published": "2026-08-09T15:21:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cool URIs Don't Change (1998)",
+    "link": "https://www.w3.org/Provider/Style/URI",
+    "summary": "<p>Article URL: <a href=\"https://www.w3.org/Provider/Style/URI\">https://www.w3.org/Provider/Style/URI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231809\">https://news.ycombinator.com/item?id=49231809</a></p>\n<p>Points: 241</p>\n<p># Comments: 60</p>",
+    "published": "2026-08-09T14:32:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Everything you do is being recorded",
+    "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+    "summary": "<p><a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\" rel=\"nofollow\">https://www.theatlantic.com/technology/2026/05/ai-wearable-s...</a><p><a href=\"https://archive.is/JxaZ7\" rel=\"nofollow\">https://archive.is/JxaZ7</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 307</p>\n<p># Comments: 249</p>",
+    "published": "2026-08-09T11:30:48",
     "source": "Hacker News: Front Page"
   },
   {
@@ -119,31 +182,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Fastmail offers EU data region",
-    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "summary": "<p>Article URL: <a href=\"https://www.fastmail.com/blog/fastmail-offers-eu-data-region/\">https://www.fastmail.com/blog/fastmail-offers-eu-data-region/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49223082\">https://news.ycombinator.com/item?id=49223082</a></p>\n<p>Points: 411</p>\n<p># Comments: 209</p>",
-    "published": "2026-08-08T16:04:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Message your other Claude Code sessions",
-    "link": "https://code.claude.com/docs/en/cross-session-messaging",
-    "summary": "<p>Article URL: <a href=\"https://code.claude.com/docs/en/cross-session-messaging\">https://code.claude.com/docs/en/cross-session-messaging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49222824\">https://news.ycombinator.com/item?id=49222824</a></p>\n<p>Points: 126</p>\n<p># Comments: 53</p>",
-    "published": "2026-08-08T15:34:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "“Code was never the hard part” is an insult to all programmers",
-    "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-    "summary": "<p>Article URL: <a href=\"https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\">https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49222189\">https://news.ycombinator.com/item?id=49222189</a></p>\n<p>Points: 755</p>\n<p># Comments: 443</p>",
-    "published": "2026-08-08T14:32:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Triton: DirectX 11 Driver for QEMU",
-    "link": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-    "summary": "<p>Article URL: <a href=\"https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/\">https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49221711\">https://news.ycombinator.com/item?id=49221711</a></p>\n<p>Points: 178</p>\n<p># Comments: 37</p>",
-    "published": "2026-08-08T13:33:06",
+    "title": "An alias-based formulation of the borrow checker (2018)",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+    "summary": "<p>Article URL: <a href=\"https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/\">https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211821\">https://news.ycombinator.com/item?id=49211821</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-07T15:20:28",
     "source": "Hacker News: Front Page"
   },
   {
@@ -263,20 +305,6 @@
     "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
     "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
     "published": "2026-08-03T15:10:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
-    "link": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
-    "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
-    "published": "2026-08-03T14:31:11",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
-    "link": "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
-    "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.",
-    "published": "2026-08-03T09:00:31",
     "source": "NYT > Technology"
   }
 ]
