@@ -1,17 +1,192 @@
 [
   {
-    "title": "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model",
-    "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-    "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted or not.",
-    "published": "2026-08-10T10:00:14",
+    "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+    "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+    "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
+    "published": "2026-08-11T09:03:41",
     "source": "NYT > Technology"
   },
   {
-    "title": "Implant – an extension to VS Code that exposes its APIs to coding agents",
-    "link": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
-    "summary": "<p>Article URL: <a href=\"https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant\">https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49241303\">https://news.ycombinator.com/item?id=49241303</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-10T09:22:25",
+    "title": "France to ban unsolicited telemarketing calls",
+    "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+    "summary": "<p>Article URL: <a href=\"https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html\">https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254880\">https://news.ycombinator.com/item?id=49254880</a></p>\n<p>Points: 102</p>\n<p># Comments: 59</p>",
+    "published": "2026-08-11T08:15:46",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Water Footprint of AI",
+    "link": "https://doi.org/10.1016/j.watres.2026.125866",
+    "summary": "<p>Article URL: <a href=\"https://doi.org/10.1016/j.watres.2026.125866\">https://doi.org/10.1016/j.watres.2026.125866</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49254351\">https://news.ycombinator.com/item?id=49254351</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+    "published": "2026-08-11T07:00:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
+    "link": "https://github.com/activeing123/mcptoon",
+    "summary": "<p>Article URL: <a href=\"https://github.com/activeing123/mcptoon\">https://github.com/activeing123/mcptoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49253721\">https://news.ycombinator.com/item?id=49253721</a></p>\n<p>Points: 45</p>\n<p># Comments: 35</p>",
+    "published": "2026-08-11T05:26:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Recycle – Floppydisks",
+    "link": "https://www.floppydisk.com/recycle",
+    "summary": "<p>Article URL: <a href=\"https://www.floppydisk.com/recycle\">https://www.floppydisk.com/recycle</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252462\">https://news.ycombinator.com/item?id=49252462</a></p>\n<p>Points: 63</p>\n<p># Comments: 27</p>",
+    "published": "2026-08-11T02:01:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+    "link": "https://github.com/antirez/h3.c",
+    "summary": "<p>Article URL: <a href=\"https://github.com/antirez/h3.c\">https://github.com/antirez/h3.c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49252179\">https://news.ycombinator.com/item?id=49252179</a></p>\n<p>Points: 271</p>\n<p># Comments: 50</p>",
+    "published": "2026-08-11T01:22:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chicken Scheme 6.0",
+    "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+    "summary": "<p>Article URL: <a href=\"https://code.call-cc.org/releases/6.0.0/NEWS\">https://code.call-cc.org/releases/6.0.0/NEWS</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251702\">https://news.ycombinator.com/item?id=49251702</a></p>\n<p>Points: 191</p>\n<p># Comments: 20</p>",
+    "published": "2026-08-11T00:24:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The UK's war on anonymity has come to America",
+    "link": "https://www.effort.news/uk-lobby",
+    "summary": "<p>Article URL: <a href=\"https://www.effort.news/uk-lobby\">https://www.effort.news/uk-lobby</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251411\">https://news.ycombinator.com/item?id=49251411</a></p>\n<p>Points: 497</p>\n<p># Comments: 415</p>",
+    "published": "2026-08-10T23:45:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+    "link": "https://everycube.alen.is/",
+    "summary": "<p>Article URL: <a href=\"https://everycube.alen.is/\">https://everycube.alen.is/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49251179\">https://news.ycombinator.com/item?id=49251179</a></p>\n<p>Points: 188</p>\n<p># Comments: 61</p>",
+    "published": "2026-08-10T23:16:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "As AI eats the web, the internet’s collective memory is disappearing",
+    "link": "https://thewalrus.ca/google-search-is-dying/",
+    "summary": "<p>Article URL: <a href=\"https://thewalrus.ca/google-search-is-dying/\">https://thewalrus.ca/google-search-is-dying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49250836\">https://news.ycombinator.com/item?id=49250836</a></p>\n<p>Points: 297</p>\n<p># Comments: 285</p>",
+    "published": "2026-08-10T22:36:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Claude marks AI-generated content",
+    "link": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "summary": "<p>Article URL: <a href=\"https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\">https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49250109\">https://news.ycombinator.com/item?id=49250109</a></p>\n<p>Points: 177</p>\n<p># Comments: 134</p>",
+    "published": "2026-08-10T21:36:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Confessions of a Long-Distance Sailor",
+    "link": "https://arachnoid.com/lutusp/sailbook.html",
+    "summary": "<p>Article URL: <a href=\"https://arachnoid.com/lutusp/sailbook.html\">https://arachnoid.com/lutusp/sailbook.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49249555\">https://news.ycombinator.com/item?id=49249555</a></p>\n<p>Points: 117</p>\n<p># Comments: 32</p>",
+    "published": "2026-08-10T20:52:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
+    "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+    "summary": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
+    "published": "2026-08-10T20:37:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
+    "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+    "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
+    "published": "2026-08-10T20:04:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Rust SIMD on the GPU",
+    "link": "https://www.vectorware.com/blog/simd-on-gpu/",
+    "summary": "<p>Article URL: <a href=\"https://www.vectorware.com/blog/simd-on-gpu/\">https://www.vectorware.com/blog/simd-on-gpu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247477\">https://news.ycombinator.com/item?id=49247477</a></p>\n<p>Points: 183</p>\n<p># Comments: 92</p>",
+    "published": "2026-08-10T18:12:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
+    "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
+    "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
+    "published": "2026-08-10T18:00:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Learning more about Claude's mathematical capabilities",
+    "link": "https://www.anthropic.com/research/riemann-zeta",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/riemann-zeta\">https://www.anthropic.com/research/riemann-zeta</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49247070\">https://news.ycombinator.com/item?id=49247070</a></p>\n<p>Points: 199</p>\n<p># Comments: 138</p>",
+    "published": "2026-08-10T17:41:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "link": "https://cactuscompute.com/needle",
+    "summary": "<p>Hey HN,<p>Henry from Cactus here!<p>We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.<p>The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens/sec decode speed on a Raspberry Pi 5, sits between 400-1,500 tokens/sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series.<p>On the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70x smaller, both at f16 vs Needle 2 at 2bit. Needle is based on Simple Attention Networks from our paper (<a href=\"https://arxiv.org/abs/2607.18363\" rel=\"nofollow\">https://arxiv.org/abs/2607.18363</a>).<p>Edge AI has lately meant Macs and PCs, but that is just 1.5 billion of over 21 billion connected IoT devices in the world today, and in emerging markets most phones ship under $200, no NPU, cheap GPUs. These include budget phones, Raspberry Pis, microcontrollers, wearables, small robots like Reachy Mini, and connected home devices.<p>A conventional transformer of Needle's width and depth spends 164 MFLOPs per token, and even one squeezed down to Needle's parameter count spends 87, Needle spends 70. Even on a high-end phone, an always-on assistant lives inside a power budget; every MFLOP is milliwatt-hours, and Needle spends 7x to 85x fewer of them per token than the smallest performant LLMs. More about the architecture in the link.<p>When we structure intelligence for consumer devices as functions with typed parameters, the only hard part is mapping a messy sentence onto them; which function, with which values. Our research found that when framed that way, the problem needs no world knowledge and no open-ended prose, which is why 45M parameters suffice.<p>Needle 2 expands to structured extraction where the schema can be passed in-place of tools and the model returns structured output. You can use Needle as a text-classification model with an enum field, as a summarization model by providing a schema that extracts key fields, everything but free-range decode.<p>Every product has its own tool vocabulary and fine-tuning needle helps it achieve frontier-level performance on custom tasks, so using the python package (<a href=\"https://github.com/cactus-compute/needle\" rel=\"nofollow\">https://github.com/cactus-compute/needle</a>), Needle can be fine-tuned Needle on a Mac/PC in minutes to a few hours, with automated data-generation pipeline, just pass a couple samples.<p>Nonetheless, every response carries a learned confidence score based our Cactus Hybrid technique. If above your threshold, act, below it, escalate to the cloud or bigger model. Combining Needle 2 with a private DeepSeek-v4-Flash deployment works particularly well for enterprise-level tasks at barely any cost, we can help with this setup.<p>We have put a lot of thoughts into Needle 2 but might still be missing quite a lot, please use the playground in the provided link to test Needle and share your thoughts, always appreciated!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49246804\">https://news.ycombinator.com/item?id=49246804</a></p>\n<p>Points: 331</p>\n<p># Comments: 130</p>",
+    "published": "2026-08-10T17:22:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What's the best programming language for coding agents?",
+    "link": "http://danluu.com/pl-tokens/",
+    "summary": "<p>Related: <i>Which programming languages are most token-efficient?</i> - <a href=\"https://news.ycombinator.com/item?id=46582728\">https://news.ycombinator.com/item?id=46582728</a> - Jan 2026 (91 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245936\">https://news.ycombinator.com/item?id=49245936</a></p>\n<p>Points: 176</p>\n<p># Comments: 117</p>",
+    "published": "2026-08-10T16:28:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Exploiting System Management Mode with a very long interrupt",
+    "link": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+    "summary": "<p>Article URL: <a href=\"https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii\">https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245491\">https://news.ycombinator.com/item?id=49245491</a></p>\n<p>Points: 162</p>\n<p># Comments: 58</p>",
+    "published": "2026-08-10T16:03:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "link": "https://github.com/AntigmaLabs/ante",
+    "summary": "<p>Article URL: <a href=\"https://github.com/AntigmaLabs/ante\">https://github.com/AntigmaLabs/ante</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245437\">https://news.ycombinator.com/item?id=49245437</a></p>\n<p>Points: 133</p>\n<p># Comments: 79</p>",
+    "published": "2026-08-10T15:59:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why Are So Many People Upset About Flock Cameras?",
+    "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
+    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
+    "published": "2026-08-10T15:58:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+    "link": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1j1kjy7gewo\">https://www.bbc.com/news/articles/c1j1kjy7gewo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49245023\">https://news.ycombinator.com/item?id=49245023</a></p>\n<p>Points: 353</p>\n<p># Comments: 524</p>",
+    "published": "2026-08-10T15:32:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Open-Source Greptile Alternative",
+    "link": "https://github.com/Juror-AI/juror",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Juror-AI/juror\">https://github.com/Juror-AI/juror</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49244029\">https://news.ycombinator.com/item?id=49244029</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-10T14:17:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "summary": "<p><a href=\"https://archive.is/20LOJ\" rel=\"nofollow\">https://archive.is/20LOJ</a><p><a href=\"https://www.meta.com/thefutureisforeveryone/\" rel=\"nofollow\">https://www.meta.com/thefutureisforeveryone/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49243880\">https://news.ycombinator.com/item?id=49243880</a></p>\n<p>Points: 504</p>\n<p># Comments: 467</p>",
+    "published": "2026-08-10T14:06:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+    "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+    "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
+    "published": "2026-08-10T13:38:33",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Can A.I. Get You Where You Want to Go for Less?",
+    "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+    "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
+    "published": "2026-08-10T11:24:07",
+    "source": "NYT > Technology"
   },
   {
     "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
@@ -21,172 +196,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Can A.I. Get You Where You Want to Go for Less?",
-    "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-    "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
-    "published": "2026-08-10T09:01:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Are So Many People Upset About Flock Cameras?",
-    "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-    "published": "2026-08-10T09:01:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.",
-    "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
-    "summary": "In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.",
-    "published": "2026-08-10T09:00:37",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
     "link": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
     "summary": "VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched.",
-    "published": "2026-08-10T09:00:28",
+    "published": "2026-08-10T09:00:29",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "link": "https://www.docker.com/products/docker-sandboxes/",
-    "summary": "<p>Article URL: <a href=\"https://www.docker.com/products/docker-sandboxes/\">https://www.docker.com/products/docker-sandboxes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239751\">https://news.ycombinator.com/item?id=49239751</a></p>\n<p>Points: 206</p>\n<p># Comments: 137</p>",
-    "published": "2026-08-10T06:02:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Auto mode is now the default in Claude Code",
-    "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "summary": "<p>Article URL: <a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">https://claude.com/blog/auto-mode-default-in-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49239021\">https://news.ycombinator.com/item?id=49239021</a></p>\n<p>Points: 212</p>\n<p># Comments: 215</p>",
-    "published": "2026-08-10T03:50:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "link": "https://www.whodunnitai.com/",
-    "summary": "<p>Hey HN!<p>I'm excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn't quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI's gpt-realtime-2.1 over WebRTC. This model is... expensive, and because of that, I have to add some amount of restrictions, conversations are tied to a authenticated Clerk user id. I have also added a 30 minute timer because well, I really don't want to go broke while I sleep tonight.<p>Each suspect has a tool they call when you make a direct accusation. It captures who you accused and a faithful list of the evidence you actually stated.<p>A separate gpt-5-mini judge then decides which of the case's required evidence facts you genuinely presented. Paraphrasing counts, vague suspicion and fishing don't.<p>The rest is Next.js, MongoDB, and Clerk.<p>Let me know whether the suspects hold up under a real interrogation.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238851\">https://news.ycombinator.com/item?id=49238851</a></p>\n<p>Points: 88</p>\n<p># Comments: 30</p>",
-    "published": "2026-08-10T03:18:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-    "link": "https://github.com/shinyquagsire23/Klepton",
-    "summary": "<p>Article URL: <a href=\"https://github.com/shinyquagsire23/Klepton\">https://github.com/shinyquagsire23/Klepton</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238818\">https://news.ycombinator.com/item?id=49238818</a></p>\n<p>Points: 81</p>\n<p># Comments: 8</p>",
-    "published": "2026-08-10T03:12:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Turn satellite imagery into a paper globe you fold yourself",
-    "link": "https://foldingglobes.com/",
-    "summary": "<p>Article URL: <a href=\"https://foldingglobes.com/\">https://foldingglobes.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238735\">https://news.ycombinator.com/item?id=49238735</a></p>\n<p>Points: 61</p>\n<p># Comments: 21</p>",
-    "published": "2026-08-10T02:57:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What Happened to HackerOne?",
-    "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-    "summary": "<p>Article URL: <a href=\"https://blog.teknogeek.io/posts/what-happened-to-hackerone/\">https://blog.teknogeek.io/posts/what-happened-to-hackerone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238561\">https://news.ycombinator.com/item?id=49238561</a></p>\n<p>Points: 235</p>\n<p># Comments: 104</p>",
-    "published": "2026-08-10T02:23:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How We Pushed CDC into Postgres",
-    "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-    "summary": "<p>Article URL: <a href=\"https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\">https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49238050\">https://news.ycombinator.com/item?id=49238050</a></p>\n<p>Points: 94</p>\n<p># Comments: 9</p>",
-    "published": "2026-08-10T01:01:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Ambition Project",
-    "link": "https://www.betonit.ai/p/the-ambition-project",
-    "summary": "<p>Article URL: <a href=\"https://www.betonit.ai/p/the-ambition-project\">https://www.betonit.ai/p/the-ambition-project</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49237407\">https://news.ycombinator.com/item?id=49237407</a></p>\n<p>Points: 46</p>\n<p># Comments: 3</p>",
-    "published": "2026-08-09T23:36:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tuxedo No. 2 – Cocktail recipes",
-    "link": "https://tuxedono2.com",
-    "summary": "<p>Article URL: <a href=\"https://tuxedono2.com\">https://tuxedono2.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235697\">https://news.ycombinator.com/item?id=49235697</a></p>\n<p>Points: 92</p>\n<p># Comments: 26</p>",
-    "published": "2026-08-09T20:48:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New Zealand lost its music media, and what we're building to replace it",
-    "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-    "summary": "<p>Article URL: <a href=\"https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\">https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235641\">https://news.ycombinator.com/item?id=49235641</a></p>\n<p>Points: 115</p>\n<p># Comments: 69</p>",
-    "published": "2026-08-09T20:42:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The tragedy of the commons, AI edition",
-    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "summary": "<p>Article URL: <a href=\"https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\">https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49235011\">https://news.ycombinator.com/item?id=49235011</a></p>\n<p>Points: 125</p>\n<p># Comments: 80</p>",
-    "published": "2026-08-09T19:43:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How I use LLMs to learn complex topics",
-    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "summary": "<p>Article URL: <a href=\"https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/\">https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234675\">https://news.ycombinator.com/item?id=49234675</a></p>\n<p>Points: 639</p>\n<p># Comments: 391</p>",
-    "published": "2026-08-09T19:16:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I made tinnitus my friend, then it disappeared [video]",
-    "link": "https://mynoise.net/vlog.php?ep=20260803",
-    "summary": "<p>Article URL: <a href=\"https://mynoise.net/vlog.php?ep=20260803\">https://mynoise.net/vlog.php?ep=20260803</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49234271\">https://news.ycombinator.com/item?id=49234271</a></p>\n<p>Points: 142</p>\n<p># Comments: 119</p>",
-    "published": "2026-08-09T18:41:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenChamber: An Agentic Development Environment",
-    "link": "https://openchamber.dev/",
-    "summary": "<p>Article URL: <a href=\"https://openchamber.dev/\">https://openchamber.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233448\">https://news.ycombinator.com/item?id=49233448</a></p>\n<p>Points: 147</p>\n<p># Comments: 75</p>",
-    "published": "2026-08-09T17:27:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: What are you working on? (August 2026)",
-    "link": "https://news.ycombinator.com/item?id=49233423",
-    "summary": "<p>What are you working on?  What have you been curious about lately?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49233423\">https://news.ycombinator.com/item?id=49233423</a></p>\n<p>Points: 244</p>\n<p># Comments: 867</p>",
-    "published": "2026-08-09T17:23:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Taxi drivers rarely die of Alzheimer's",
-    "link": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-    "summary": "<p>Article URL: <a href=\"https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650\">https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49232253\">https://news.ycombinator.com/item?id=49232253</a></p>\n<p>Points: 290</p>\n<p># Comments: 206</p>",
-    "published": "2026-08-09T15:21:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cool URIs Don't Change (1998)",
-    "link": "https://www.w3.org/Provider/Style/URI",
-    "summary": "<p>Article URL: <a href=\"https://www.w3.org/Provider/Style/URI\">https://www.w3.org/Provider/Style/URI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49231809\">https://news.ycombinator.com/item?id=49231809</a></p>\n<p>Points: 241</p>\n<p># Comments: 60</p>",
-    "published": "2026-08-09T14:32:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Everything you do is being recorded",
-    "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "summary": "<p><a href=\"https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/?gift=Exty0c37iBapZfMrmNPU4s4IrZcZyRSK4f5vxuwohBM\" rel=\"nofollow\">https://www.theatlantic.com/technology/2026/05/ai-wearable-s...</a><p><a href=\"https://archive.is/JxaZ7\" rel=\"nofollow\">https://archive.is/JxaZ7</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49230477\">https://news.ycombinator.com/item?id=49230477</a></p>\n<p>Points: 307</p>\n<p># Comments: 249</p>",
-    "published": "2026-08-09T11:30:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-    "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-    "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
-    "published": "2026-08-08T18:17:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "An alias-based formulation of the borrow checker (2018)",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-    "summary": "<p>Article URL: <a href=\"https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/\">https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49211821\">https://news.ycombinator.com/item?id=49211821</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-07T15:20:28",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
@@ -200,13 +214,6 @@
     "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
     "summary": "The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.",
     "published": "2026-08-07T09:50:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-    "link": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
-    "summary": "Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.",
-    "published": "2026-08-07T08:10:00",
     "source": "NYT > Technology"
   },
   {
@@ -259,13 +266,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
-    "link": "https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
-    "summary": "The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.",
-    "published": "2026-08-05T13:10:43",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Trump White House Readies AI Framework to Review Security Risks",
     "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
     "summary": "The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.",
@@ -280,13 +280,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-    "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-    "summary": "The Trump administration has struggled with how to approach “open source” models, which are freely available to download and favored by Chinese companies.",
-    "published": "2026-08-04T19:54:29",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
     "link": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
     "summary": "The state attorney general said in an antitrust lawsuit filed on Tuesday that the company was abusing its market power to keep its delivery costs low.",
@@ -298,13 +291,6 @@
     "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
     "summary": "Nathan Owen called the police, saying he was trapped in a runaway car. A judge determined it was a lie and sentenced him to more than four years in prison.",
     "published": "2026-08-04T17:12:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
-    "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
-    "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
-    "published": "2026-08-03T15:10:56",
     "source": "NYT > Technology"
   }
 ]
