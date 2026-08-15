@@ -1,35 +1,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-08-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html</loc>
+    <lastmod>2026-08-15T09:00:24</lastmod>
+  </url>
+  <url>
+    <loc>https://chenxiachan.github.io/thoughtdag/</loc>
+    <lastmod>2026-08-15T04:42:07</lastmod>
+  </url>
+  <url>
+    <loc>https://conic.al/writing/the-other-sean-byrne-doesnt-exist/</loc>
+    <lastmod>2026-08-15T04:18:44</lastmod>
+  </url>
+  <url>
+    <loc>https://app.deltix.ai</loc>
+    <lastmod>2026-08-15T02:42:14</lastmod>
+  </url>
+  <url>
+    <loc>https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive</loc>
+    <lastmod>2026-08-15T01:14:05</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.ploopy.co/the-aplus-is-finally-here-499</loc>
+    <lastmod>2026-08-15T00:55:31</lastmod>
+  </url>
+  <url>
+    <loc>https://arxiv.org/abs/1811.03459</loc>
+    <lastmod>2026-08-15T00:15:23</lastmod>
+  </url>
+  <url>
+    <loc>https://eigendrum.com/#p=circle</loc>
+    <lastmod>2026-08-14T22:15:12</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/</loc>
+    <lastmod>2026-08-14T20:52:44</lastmod>
+  </url>
+  <url>
+    <loc>https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html</loc>
+    <lastmod>2026-08-14T19:03:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html</loc>
+    <lastmod>2026-08-14T18:54:36</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/lajosdeme/mole</loc>
+    <lastmod>2026-08-14T18:52:48</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.racket-lang.org/2026/08/racket-v9-3.html</loc>
+    <lastmod>2026-08-14T18:14:48</lastmod>
+  </url>
+  <url>
+    <loc>https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions</loc>
+    <lastmod>2026-08-14T16:15:21</lastmod>
+  </url>
+  <url>
+    <loc>https://rustdesk.com/blog/unattended-remote-access-wayland/</loc>
+    <lastmod>2026-08-14T16:12:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.byhand.ai/</loc>
+    <lastmod>2026-08-14T15:58:59</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/</loc>
+    <lastmod>2026-08-14T15:43:10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mixedbread.com/blog/toast-1</loc>
+    <lastmod>2026-08-14T15:07:57</lastmod>
+  </url>
+  <url>
+    <loc>https://huggingface.co/Qwen/Qwen3.8-27B-FP8</loc>
+    <lastmod>2026-08-14T15:00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html</loc>
+    <lastmod>2026-08-14T14:55:08</lastmod>
+  </url>
+  <url>
+    <loc>https://heyjonny.dev/posts/rss-to-eink-newspaper/</loc>
+    <lastmod>2026-08-14T14:21:18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</loc>
+    <lastmod>2026-08-14T14:08:52</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html</loc>
+    <lastmod>2026-08-14T11:00:04</lastmod>
+  </url>
+  <url>
+    <loc>https://mun-logadan.github.io/why-does-opus-5-feel-worse/</loc>
+    <lastmod>2026-08-14T10:12:48</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html</loc>
-    <lastmod>2026-08-14T09:00:27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil</loc>
-    <lastmod>2026-08-14T07:03:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain</loc>
-    <lastmod>2026-08-14T06:09:04</lastmod>
+    <lastmod>2026-08-14T09:00:28</lastmod>
   </url>
   <url>
     <loc>https://z.ai/blog/glm-5.3</loc>
     <lastmod>2026-08-14T05:19:59</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/JustVugg/lumabri</loc>
-    <lastmod>2026-08-14T00:47:04</lastmod>
-  </url>
-  <url>
-    <loc>https://atproto.com/blog/introducing-bluesky-protocol-services</loc>
-    <lastmod>2026-08-14T00:14:28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/</loc>
-    <lastmod>2026-08-13T23:39:33</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</loc>
@@ -40,76 +116,12 @@
     <lastmod>2026-08-13T21:15:41</lastmod>
   </url>
   <url>
-    <loc>https://gruhn.me/blog/2026-08-13/</loc>
-    <lastmod>2026-08-13T20:14:17</lastmod>
-  </url>
-  <url>
-    <loc>https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf</loc>
-    <lastmod>2026-08-13T19:25:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck</loc>
-    <lastmod>2026-08-13T18:47:19</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/systemd/systemd/issues/40262</loc>
-    <lastmod>2026-08-13T18:41:01</lastmod>
-  </url>
-  <url>
-    <loc>https://themech.net/2026/08/hello-me-its-been-a-while/</loc>
-    <lastmod>2026-08-13T18:37:18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai</loc>
-    <lastmod>2026-08-13T18:10:02</lastmod>
-  </url>
-  <url>
-    <loc>https://earendil.com/posts/compaction-in-pi/</loc>
-    <lastmod>2026-08-13T17:57:50</lastmod>
-  </url>
-  <url>
-    <loc>https://0.mk/blog/link-rot</loc>
-    <lastmod>2026-08-13T17:49:18</lastmod>
-  </url>
-  <url>
-    <loc>https://mcfunley.com/choose-boring-technology</loc>
-    <lastmod>2026-08-13T17:48:13</lastmod>
-  </url>
-  <url>
-    <loc>https://donkeybas.com/</loc>
-    <lastmod>2026-08-13T17:45:50</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/article/flock-safety-camera-technology.html</loc>
     <lastmod>2026-08-13T17:31:23</lastmod>
   </url>
   <url>
-    <loc>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</loc>
-    <lastmod>2026-08-13T17:23:22</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.mistral.ai/models/ocr-4-1</loc>
-    <lastmod>2026-08-13T17:05:12</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/xoreaxeaxeax/skitter-creek-bath-salts</loc>
-    <lastmod>2026-08-13T14:17:13</lastmod>
-  </url>
-  <url>
-    <loc>https://ordinaryabundance.com/</loc>
-    <lastmod>2026-08-13T13:39:41</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html</loc>
     <lastmod>2026-08-13T13:09:46</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html</loc>
-    <lastmod>2026-08-13T11:25:30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</loc>
-    <lastmod>2026-08-13T09:04:41</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html</loc>
@@ -118,10 +130,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html</loc>
     <lastmod>2026-08-12T21:37:35</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html</loc>
-    <lastmod>2026-08-12T21:31:47</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html</loc>
@@ -154,10 +162,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html</loc>
     <lastmod>2026-08-10T18:00:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</loc>
-    <lastmod>2026-08-10T13:38:33</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html</loc>
