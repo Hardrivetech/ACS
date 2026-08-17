@@ -1,1 +1,1 @@
-What happens when an LLM never sees material beyond fifth grade? https://littlelearner-ll.github.io/
+HackEurope 2026: A short rant on AI and hackathons https://duti.dev/blog/2026/spr/
