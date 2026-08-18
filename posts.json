@@ -1,163 +1,198 @@
 [
   {
-    "title": "HackEurope 2026: A short rant on AI and hackathons",
-    "link": "https://duti.dev/blog/2026/spr/",
-    "summary": "<p>Article URL: <a href=\"https://duti.dev/blog/2026/spr/\">https://duti.dev/blog/2026/spr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49327490\">https://news.ycombinator.com/item?id=49327490</a></p>\n<p>Points: 24</p>\n<p># Comments: 13</p>",
-    "published": "2026-08-17T07:28:43",
+    "title": "States Seek $200 Billion From Meta Over Child Social Media Addiction Claims",
+    "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+    "summary": "California, Colorado, Kentucky and New Jersey are taking the social media giant to trial in the first bellwether federal case over child harm.",
+    "published": "2026-08-18T09:01:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+    "link": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+    "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
+    "published": "2026-08-18T09:01:53",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Blackout That Could Devastate America",
+    "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
+    "summary": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.",
+    "published": "2026-08-18T09:01:49",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Linux 7.3 improves performance when running out of vRAM",
+    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+    "summary": "<p>Article URL: <a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">https://pixelcluster.dev/VRAM-Overcommit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342719\">https://news.ycombinator.com/item?id=49342719</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
+    "published": "2026-08-18T07:51:50",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Linear algebra done right",
-    "link": "https://linear.axler.net/",
-    "summary": "<p>Article URL: <a href=\"https://linear.axler.net/\">https://linear.axler.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326816\">https://news.ycombinator.com/item?id=49326816</a></p>\n<p>Points: 68</p>\n<p># Comments: 30</p>",
-    "published": "2026-08-17T05:21:34",
+    "title": "Rethinking Database Programming",
+    "link": "https://acadia.engineering/blog/rethinking-database-programming",
+    "summary": "<p>Article URL: <a href=\"https://acadia.engineering/blog/rethinking-database-programming\">https://acadia.engineering/blog/rethinking-database-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342530\">https://news.ycombinator.com/item?id=49342530</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+    "published": "2026-08-18T07:28:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GIMP Development Update",
-    "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-    "summary": "<p>Article URL: <a href=\"https://www.gimp.org/news/2026/08/16/dev-update-august-2026/\">https://www.gimp.org/news/2026/08/16/dev-update-august-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326156\">https://news.ycombinator.com/item?id=49326156</a></p>\n<p>Points: 150</p>\n<p># Comments: 80</p>",
-    "published": "2026-08-17T03:08:47",
+    "title": "Exercise intensity modulates interorgan communication and is associated with",
+    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+    "summary": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue\">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341411\">https://news.ycombinator.com/item?id=49341411</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-18T04:51:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Strong gravitational lensing and microlensing of supernovae (2024)",
-    "link": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-    "summary": "<p>Article URL: <a href=\"https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5\">https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49326071\">https://news.ycombinator.com/item?id=49326071</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-17T02:55:20",
+    "title": "The Benchmarkpocalypse",
+    "link": "https://danluu.com/benchpocalypse/",
+    "summary": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 92</p>\n<p># Comments: 22</p>",
+    "published": "2026-08-18T02:11:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "On A.I. regulation and messaging",
-    "link": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "summary": "<p><a href=\"https://xcancel.com/DarioAmodei/status/2088758816376807762\" rel=\"nofollow\">https://xcancel.com/DarioAmodei/status/2088758816376807762</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325789\">https://news.ycombinator.com/item?id=49325789</a></p>\n<p>Points: 49</p>\n<p># Comments: 54</p>",
-    "published": "2026-08-17T01:59:56",
+    "title": "Repair Cafe – Fix Your Broken Items",
+    "link": "https://www.repaircafe.org/",
+    "summary": "<p>Article URL: <a href=\"https://www.repaircafe.org/\">https://www.repaircafe.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339097\">https://news.ycombinator.com/item?id=49339097</a></p>\n<p>Points: 103</p>\n<p># Comments: 16</p>",
+    "published": "2026-08-17T23:28:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-    "link": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-    "summary": "<p>Article URL: <a href=\"https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64\">https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325714\">https://news.ycombinator.com/item?id=49325714</a></p>\n<p>Points: 83</p>\n<p># Comments: 10</p>",
-    "published": "2026-08-17T01:45:36",
+    "title": "How Bluesky draws its logo on screenshots",
+    "link": "https://timmarinin.net/2026/bluesky-screenshots/",
+    "summary": "<p>Article URL: <a href=\"https://timmarinin.net/2026/bluesky-screenshots/\">https://timmarinin.net/2026/bluesky-screenshots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338459\">https://news.ycombinator.com/item?id=49338459</a></p>\n<p>Points: 486</p>\n<p># Comments: 341</p>",
+    "published": "2026-08-17T22:20:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Prolly: A content-addressed ordered map built on prolly trees",
-    "link": "https://github.com/crabbuild/prolly",
-    "summary": "<p>Article URL: <a href=\"https://github.com/crabbuild/prolly\">https://github.com/crabbuild/prolly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325458\">https://news.ycombinator.com/item?id=49325458</a></p>\n<p>Points: 43</p>\n<p># Comments: 3</p>",
-    "published": "2026-08-17T01:00:45",
+    "title": "Quake Shareware, a CD-ROM just a little too full",
+    "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/quake_shareware_cd/index.html\">https://fabiensanglard.net/quake_shareware_cd/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338328\">https://news.ycombinator.com/item?id=49338328</a></p>\n<p>Points: 336</p>\n<p># Comments: 140</p>",
+    "published": "2026-08-17T22:06:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Rhombus 1.1 is now available",
-    "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "summary": "<p>Article URL: <a href=\"https://blog.racket-lang.org/2026/08/rhombus-v1.1.html\">https://blog.racket-lang.org/2026/08/rhombus-v1.1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325384\">https://news.ycombinator.com/item?id=49325384</a></p>\n<p>Points: 79</p>\n<p># Comments: 24</p>",
-    "published": "2026-08-17T00:48:21",
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+    "summary": "<p>Article URL: <a href=\"https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera\">https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338285\">https://news.ycombinator.com/item?id=49338285</a></p>\n<p>Points: 189</p>\n<p># Comments: 42</p>",
+    "published": "2026-08-17T22:01:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Applying a photosynthetic process to treat “dry eye”",
-    "link": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/taking-tip-plants-eyes\">https://www.science.org/content/blog-post/taking-tip-plants-eyes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325304\">https://news.ycombinator.com/item?id=49325304</a></p>\n<p>Points: 43</p>\n<p># Comments: 12</p>",
-    "published": "2026-08-17T00:35:29",
+    "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+    "link": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+    "summary": "The data center, one of the world’s largest, could cost as much as $500 billion and will be leased by OpenAI.",
+    "published": "2026-08-17T21:13:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How do functions like alloca allocate memory from the stack?",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617\">https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49337630\">https://news.ycombinator.com/item?id=49337630</a></p>\n<p>Points: 55</p>\n<p># Comments: 35</p>",
+    "published": "2026-08-17T21:06:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Life and Death of Direct File [pdf]",
-    "link": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-    "summary": "<p>Article URL: <a href=\"https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\">https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325185\">https://news.ycombinator.com/item?id=49325185</a></p>\n<p>Points: 185</p>\n<p># Comments: 91</p>",
-    "published": "2026-08-17T00:17:57",
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-5.6-sol\">https://openrouter.ai/openai/gpt-5.6-sol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49337602\">https://news.ycombinator.com/item?id=49337602</a></p>\n<p>Points: 420</p>\n<p># Comments: 253</p>",
+    "published": "2026-08-17T21:03:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Reticulum – Decentralized Mesh Network",
-    "link": "https://reticulum.network/",
-    "summary": "<p>Article URL: <a href=\"https://reticulum.network/\">https://reticulum.network/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49325061\">https://news.ycombinator.com/item?id=49325061</a></p>\n<p>Points: 118</p>\n<p># Comments: 32</p>",
-    "published": "2026-08-16T23:59:10",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+    "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "summary": "<p>Article URL: <a href=\"https://responsiblestatecraft.org/israel-influence-chatgpt/\">https://responsiblestatecraft.org/israel-influence-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49337392\">https://news.ycombinator.com/item?id=49337392</a></p>\n<p>Points: 473</p>\n<p># Comments: 307</p>",
+    "published": "2026-08-17T20:46:10",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "summary": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Aug/16/qwen-38-27b/\">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324985\">https://news.ycombinator.com/item?id=49324985</a></p>\n<p>Points: 452</p>\n<p># Comments: 203</p>",
-    "published": "2026-08-16T23:45:09",
+    "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
+    "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
+    "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
+    "published": "2026-08-17T19:51:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "AI;DR (AI; Didn't Read)",
+    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "summary": "<p>Article URL: <a href=\"https://www.rickmanelius.com/p/aidr-ai-didnt-read\">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336573\">https://news.ycombinator.com/item?id=49336573</a></p>\n<p>Points: 867</p>\n<p># Comments: 532</p>",
+    "published": "2026-08-17T19:47:15",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-    "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "summary": "<p>Article URL: <a href=\"https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49324087\">https://news.ycombinator.com/item?id=49324087</a></p>\n<p>Points: 252</p>\n<p># Comments: 232</p>",
-    "published": "2026-08-16T21:53:43",
+    "title": "India has paved the way for charging merchants a fee on UPI transactions",
+    "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8xnwqe00v1o\">https://www.bbc.com/news/articles/c8xnwqe00v1o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336304\">https://news.ycombinator.com/item?id=49336304</a></p>\n<p>Points: 146</p>\n<p># Comments: 176</p>",
+    "published": "2026-08-17T19:25:11",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Stripe will reportedly acquire OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/\">https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323381\">https://news.ycombinator.com/item?id=49323381</a></p>\n<p>Points: 347</p>\n<p># Comments: 211</p>",
-    "published": "2026-08-16T20:31:16",
+    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
+    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+    "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world\">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335600\">https://news.ycombinator.com/item?id=49335600</a></p>\n<p>Points: 145</p>\n<p># Comments: 50</p>",
+    "published": "2026-08-17T18:34:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
-    "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
-    "summary": "<p>Article URL: <a href=\"https://github.com/aleks-ent/pump-dump-crypto-screener\">https://github.com/aleks-ent/pump-dump-crypto-screener</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323256\">https://news.ycombinator.com/item?id=49323256</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-16T20:16:30",
+    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+    "link": "https://arxiv.org/abs/2608.13759",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13759\">https://arxiv.org/abs/2608.13759</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334991\">https://news.ycombinator.com/item?id=49334991</a></p>\n<p>Points: 211</p>\n<p># Comments: 43</p>",
+    "published": "2026-08-17T17:54:59",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Red queen hypothesis – A new way forward for self-improving AI",
-    "link": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "summary": "<p>Article URL: <a href=\"https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai\">https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49323136\">https://news.ycombinator.com/item?id=49323136</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
-    "published": "2026-08-16T20:01:13",
+    "title": "An update on leaving Gmail for Fastmail",
+    "link": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+    "summary": "<p>Article URL: <a href=\"https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/\">https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334409\">https://news.ycombinator.com/item?id=49334409</a></p>\n<p>Points: 225</p>\n<p># Comments: 139</p>",
+    "published": "2026-08-17T17:15:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Protobuf has LSP support",
-    "link": "https://buf.build/blog/protobuf-lsp",
-    "summary": "<p>Article URL: <a href=\"https://buf.build/blog/protobuf-lsp\">https://buf.build/blog/protobuf-lsp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322573\">https://news.ycombinator.com/item?id=49322573</a></p>\n<p>Points: 152</p>\n<p># Comments: 103</p>",
-    "published": "2026-08-16T18:48:27",
+    "title": "Sun Clock",
+    "link": "https://sunclock.net/",
+    "summary": "<p>Article URL: <a href=\"https://sunclock.net/\">https://sunclock.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49333824\">https://news.ycombinator.com/item?id=49333824</a></p>\n<p>Points: 226</p>\n<p># Comments: 74</p>",
+    "published": "2026-08-17T16:37:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "MathCode, Mathematical Coding Agent",
-    "link": "https://math-ai-org.github.io/mathcode/",
-    "summary": "<p>Article URL: <a href=\"https://math-ai-org.github.io/mathcode/\">https://math-ai-org.github.io/mathcode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322330\">https://news.ycombinator.com/item?id=49322330</a></p>\n<p>Points: 90</p>\n<p># Comments: 28</p>",
-    "published": "2026-08-16T18:17:10",
+    "title": "Judge sets framework for Nine PBS to retrieve archival data",
+    "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+    "summary": "<p>Article URL: <a href=\"https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/\">https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49333344\">https://news.ycombinator.com/item?id=49333344</a></p>\n<p>Points: 165</p>\n<p># Comments: 62</p>",
+    "published": "2026-08-17T16:11:37",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-    "link": "https://news.ycombinator.com/item?id=49322107",
-    "summary": "<p>A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49322107\">https://news.ycombinator.com/item?id=49322107</a></p>\n<p>Points: 494</p>\n<p># Comments: 137</p>",
-    "published": "2026-08-16T17:49:46",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "link": "https://speko.ai/",
+    "summary": "<p>Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https://www.youtube.com/watch?v=no2LY2gRh-c\" rel=\"nofollow\">https://www.youtube.com/watch?v=no2LY2gRh-c</a><p>Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS.<p>Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers.<p>The result is that you use voice agents running last quarter's models while better and cheaper options are available.<p>Before founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: \"we can literally go to this dashboard, switch the model, and it will do it for us.\"<p>How it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, and returns a response with headers containing provider, model names, and the scores. The gateway prefetches signed session plans, so a new session dials the provider straight from memory; no control-plane round trip while a caller waits.<p>Failover happens only during connection setup stage: if the provider refuses the connection attempt, we start connecting to the runners-up.<p>Some of the customer stories: one founder came to us not knowing what to pick at all: he gave us his use case and now routes everything through the platform. A property management AI runs LiveKit in Python and had not updated STT or TTS since launch: they did not know their STT had high error rates on their calls, better options existed, and swapping always looked like an R&amp;D project. One team did not know which models to pick for Spanish. A medical team did not know which STT handles medical vocabulary best. In every case we helped find the right stack from the benchmarks, and now they route through us.<p>The measuring part is public: we pass the same inputs to every model in one region in different dated runs and we publish the boards, including those where our selections perform worse than alternatives. A launch demo answers which 30-second clip sounds better; production asks which model survives minute eight, so we test spontaneous speech, money and dates, ten-minute takes, and the rankings change. We trained an automatic scorer for TTS naturalness on our blind head-to-head listening votes; on providers it has never seen a vote for, it picks the same winner our raters do about as often as raters agree with each other.<p>We don't train or sell models ourselves, that's precisely how we keep our rankings impartial.<p>We also open sourced the gateway for teams who want to avoid an extra network hop on the audio path and don't want to share keys with our cloud (<a href=\"https://github.com/SpekoAI/gateway\" rel=\"nofollow\">https://github.com/SpekoAI/gateway</a>, MIT): one Go binary, which is running as a sidecar in your agent's container, speaks one local protocol over Unix socket, pins provider hosts and attaches your keys. In BYOK mode it doesn't communicate with us at all.<p>Notice that the anonymous, content-free telemetry is enabled by default, and one env var disables it.<p>Cost: the gateway and BYOK setup will be free forever, we charge for the hosted router and managed keys with consolidated billing. Since we started the batch in late June, external usage has grown about 25 percent per week on average, front-loaded toward the launch weeks.<p>I would love feedback from the community: how do you pick speech models now, and what makes you trust the third-party benchmark?<p><a href=\"https://speko.ai/\">https://speko.ai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49332751\">https://news.ycombinator.com/item?id=49332751</a></p>\n<p>Points: 104</p>\n<p># Comments: 58</p>",
+    "published": "2026-08-17T15:36:18",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A third world engineer responds to “RISC-V: They should have known better”",
-    "link": "https://rvembedded.com/blog_post/12/",
-    "summary": "<p>Article URL: <a href=\"https://rvembedded.com/blog_post/12/\">https://rvembedded.com/blog_post/12/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49321717\">https://news.ycombinator.com/item?id=49321717</a></p>\n<p>Points: 500</p>\n<p># Comments: 265</p>",
-    "published": "2026-08-16T17:01:07",
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331423\">https://news.ycombinator.com/item?id=49331423</a></p>\n<p>Points: 369</p>\n<p># Comments: 142</p>",
+    "published": "2026-08-17T14:18:38",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "China Wants Its Data to Power the World’s A.I.",
+    "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
+    "summary": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
+    "published": "2026-08-17T11:10:29",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+    "link": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+    "summary": "Policymakers around the country are maneuvering to ensure that tech giants aren’t the only ones who stand to benefit.",
+    "published": "2026-08-16T09:00:38",
+    "source": "NYT > Technology"
   },
   {
     "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
     "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
     "summary": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.",
     "published": "2026-08-15T09:30:14",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-    "link": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-    "summary": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
-    "published": "2026-08-14T18:54:36",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
-    "link": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
-    "summary": "Investment gains at Alphabet and Amazon reveal a new way in which technology companies’ fortunes are increasingly linked.",
-    "published": "2026-08-14T14:55:08",
     "source": "NYT > Technology"
   },
   {
@@ -193,13 +228,6 @@
     "link": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
     "summary": "Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.",
     "published": "2026-08-13T21:15:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.",
-    "link": "https://www.nytimes.com/article/flock-safety-camera-technology.html",
-    "summary": "Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.",
-    "published": "2026-08-13T17:31:23",
     "source": "NYT > Technology"
   },
   {
@@ -249,34 +277,6 @@
     "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
     "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
     "published": "2026-08-11T13:23:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’",
-    "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
-    "summary": "As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.",
-    "published": "2026-08-10T20:37:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Unveils an Open Version of Its Most Powerful A.I. Model",
-    "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
-    "summary": "The release of Muse Glimmer, a model that can be freely downloaded and modified, is likely to intensify a debate over whether A.I. should be restricted.",
-    "published": "2026-08-10T18:00:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Can A.I. Get You Where You Want to Go for Less?",
-    "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-    "summary": "A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.",
-    "published": "2026-08-10T11:24:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
-    "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
-    "summary": "As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.",
-    "published": "2026-08-10T09:02:19",
     "source": "NYT > Technology"
   }
 ]
