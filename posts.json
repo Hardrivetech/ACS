@@ -1,80 +1,185 @@
 [
   {
-    "title": "States Seek $200 Billion From Meta Over Child Social Media Addiction Claims",
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "link": "https://www.modular.com/blog/modcon-announcements",
+    "summary": "<p>Article URL: <a href=\"https://www.modular.com/blog/modcon-announcements\">https://www.modular.com/blog/modcon-announcements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358327\">https://news.ycombinator.com/item?id=49358327</a></p>\n<p>Points: 31</p>\n<p># Comments: 6</p>",
+    "published": "2026-08-19T07:47:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Where Human Sleep Went Wrong",
+    "link": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+    "summary": "<p>Article URL: <a href=\"https://nautil.us/where-human-sleep-went-wrong-1283797\">https://nautil.us/where-human-sleep-went-wrong-1283797</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358259\">https://news.ycombinator.com/item?id=49358259</a></p>\n<p>Points: 42</p>\n<p># Comments: 25</p>",
+    "published": "2026-08-19T07:40:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+    "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/\">https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49358220\">https://news.ycombinator.com/item?id=49358220</a></p>\n<p>Points: 40</p>\n<p># Comments: 3</p>",
+    "published": "2026-08-19T07:35:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "λλ: A Programming Language for Silicon Photonics",
+    "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+    "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3789240.3829151\">https://dl.acm.org/doi/10.1145/3789240.3829151</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49357501\">https://news.ycombinator.com/item?id=49357501</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
+    "published": "2026-08-19T06:09:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
     "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-    "summary": "California, Colorado, Kentucky and New Jersey are taking the social media giant to trial in the first bellwether federal case over child harm.",
-    "published": "2026-08-18T09:01:59",
+    "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
+    "published": "2026-08-19T04:58:34",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Palomar: A registry of Lean verified mathematics",
+    "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/\">https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355968\">https://news.ycombinator.com/item?id=49355968</a></p>\n<p>Points: 98</p>\n<p># Comments: 17</p>",
+    "published": "2026-08-19T02:41:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta's blockbuster trial draws parallels to big tobacco",
+    "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+    "summary": "<p><a href=\"https://archive.ph/a3165\" rel=\"nofollow\">https://archive.ph/a3165</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355825\">https://news.ycombinator.com/item?id=49355825</a></p>\n<p>Points: 228</p>\n<p># Comments: 179</p>",
+    "published": "2026-08-19T02:24:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+    "link": "https://github.com/katiahayati/lucasartsifier/",
+    "summary": "<p>Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I have no save game handy, and now I gotta make dinner.<p>So I'm building the Lucasartsifier: a static analysis tool that decompiles Sierra resource files, automatically finds those states, automatically generates code to prevent the player from getting into those states, then emits loose patch files that can be placed alongside the original game resources. There's no game-specific code involved; all the logic is generic, though of course Sierra introduces new idioms and mechanics in every game so every new supported game needs a bunch of engine work.<p>So for example in Leisure Suit Larry 2, the patched game prevents you from boarding the cruise ship until you have both the sunscreen and the Grotesque Gulp. Without them you die on the raft 3 play-hours later.<p>So far this works on Leisure Suit Larry 2 (SCI0), King's Quest 4 (SCI0), King's Quest 6 (SCI1.1), and Laura Bow 2 (SCI1.1). I'm currently working on King's Quest 5 (SCI1.0).<p>This is work done with Claude -- I do the design and playtesting and it does the rest :D<p>Any feedback, play testing, and suggestions would be great!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355607\">https://news.ycombinator.com/item?id=49355607</a></p>\n<p>Points: 55</p>\n<p># Comments: 21</p>",
+    "published": "2026-08-19T01:58:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenLogi",
+    "link": "https://openlogi.org/en",
+    "summary": "<p>Article URL: <a href=\"https://openlogi.org/en\">https://openlogi.org/en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355606\">https://news.ycombinator.com/item?id=49355606</a></p>\n<p>Points: 588</p>\n<p># Comments: 159</p>",
+    "published": "2026-08-19T01:58:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+    "link": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+    "summary": "<p>Video and explanation on the ship discovery:<p><i>Why This Wood Costs US$360/kg</i>: <a href=\"https://www.youtube.com/watch?v=u5b5bKlvdhQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=u5b5bKlvdhQ</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355451\">https://news.ycombinator.com/item?id=49355451</a></p>\n<p>Points: 37</p>\n<p># Comments: 3</p>",
+    "published": "2026-08-19T01:36:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tiny satellite will use the dark side of the Moon as a shield",
+    "link": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe",
+    "summary": "<p>Article URL: <a href=\"https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe\">https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355232\">https://news.ycombinator.com/item?id=49355232</a></p>\n<p>Points: 38</p>\n<p># Comments: 6</p>",
+    "published": "2026-08-19T01:06:03",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+    "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c1l1r1zne1ro\">https://www.bbc.com/news/articles/c1l1r1zne1ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49355105\">https://news.ycombinator.com/item?id=49355105</a></p>\n<p>Points: 245</p>\n<p># Comments: 175</p>",
+    "published": "2026-08-19T00:48:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cerebras CS-4",
+    "link": "https://www.cerebras.ai/cs4",
+    "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/cs4\">https://www.cerebras.ai/cs4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354949\">https://news.ycombinator.com/item?id=49354949</a></p>\n<p>Points: 264</p>\n<p># Comments: 185</p>",
+    "published": "2026-08-19T00:28:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+    "link": "https://modelmap.cc",
+    "summary": "<p>Article URL: <a href=\"https://modelmap.cc\">https://modelmap.cc</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354664\">https://news.ycombinator.com/item?id=49354664</a></p>\n<p>Points: 78</p>\n<p># Comments: 7</p>",
+    "published": "2026-08-18T23:57:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Solo – a .so loader for static Linux binaries",
+    "link": "https://github.com/pg83/solo",
+    "summary": "<p>Article URL: <a href=\"https://github.com/pg83/solo\">https://github.com/pg83/solo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49354613\">https://news.ycombinator.com/item?id=49354613</a></p>\n<p>Points: 143</p>\n<p># Comments: 148</p>",
+    "published": "2026-08-18T23:51:49",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
     "link": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
     "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
-    "published": "2026-08-18T09:01:53",
+    "published": "2026-08-18T23:37:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "AI usage patterns in software teams",
+    "link": "https://linear.app/data",
+    "summary": "<p>Article URL: <a href=\"https://linear.app/data\">https://linear.app/data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353432\">https://news.ycombinator.com/item?id=49353432</a></p>\n<p>Points: 134</p>\n<p># Comments: 69</p>",
+    "published": "2026-08-18T22:08:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
+    "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
+    "summary": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
+    "published": "2026-08-18T21:53:47",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "link": "https://github.com/DenisSergeevitch/desktop-fly",
+    "summary": "<p>Article URL: <a href=\"https://github.com/DenisSergeevitch/desktop-fly\">https://github.com/DenisSergeevitch/desktop-fly</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49353221\">https://news.ycombinator.com/item?id=49353221</a></p>\n<p>Points: 269</p>\n<p># Comments: 105</p>",
+    "published": "2026-08-18T21:50:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Removes Some Fees for App Developers in European Union",
+    "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+    "summary": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+    "published": "2026-08-18T21:47:23",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How does IKEA come up with names for its products?",
+    "link": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "summary": "<p>Article URL: <a href=\"https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html\">https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349984\">https://news.ycombinator.com/item?id=49349984</a></p>\n<p>Points: 344</p>\n<p># Comments: 223</p>",
+    "published": "2026-08-18T18:11:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+    "link": "https://github.com/RyanCodrai/turbovec",
+    "summary": "<p>Article URL: <a href=\"https://github.com/RyanCodrai/turbovec\">https://github.com/RyanCodrai/turbovec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49349898\">https://news.ycombinator.com/item?id=49349898</a></p>\n<p>Points: 248</p>\n<p># Comments: 31</p>",
+    "published": "2026-08-18T18:07:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "And then the men with guns tell you to do it anyway",
+    "link": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+    "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/\">https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348912\">https://news.ycombinator.com/item?id=49348912</a></p>\n<p>Points: 313</p>\n<p># Comments: 199</p>",
+    "published": "2026-08-18T17:11:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple announces changes for apps in the European Union",
+    "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/\">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49348055\">https://news.ycombinator.com/item?id=49348055</a></p>\n<p>Points: 185</p>\n<p># Comments: 261</p>",
+    "published": "2026-08-18T16:21:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
+    "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+    "summary": "The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.",
+    "published": "2026-08-18T14:14:55",
     "source": "NYT > Technology"
   },
   {
     "title": "The Blackout That Could Devastate America",
     "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
     "summary": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.",
-    "published": "2026-08-18T09:01:49",
+    "published": "2026-08-18T13:20:38",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Linux 7.3 improves performance when running out of vRAM",
-    "link": "https://pixelcluster.dev/VRAM-Overcommit/",
-    "summary": "<p>Article URL: <a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">https://pixelcluster.dev/VRAM-Overcommit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342719\">https://news.ycombinator.com/item?id=49342719</a></p>\n<p>Points: 41</p>\n<p># Comments: 2</p>",
-    "published": "2026-08-18T07:51:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Rethinking Database Programming",
-    "link": "https://acadia.engineering/blog/rethinking-database-programming",
-    "summary": "<p>Article URL: <a href=\"https://acadia.engineering/blog/rethinking-database-programming\">https://acadia.engineering/blog/rethinking-database-programming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49342530\">https://news.ycombinator.com/item?id=49342530</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
-    "published": "2026-08-18T07:28:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Exercise intensity modulates interorgan communication and is associated with",
-    "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-    "summary": "<p>Article URL: <a href=\"https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue\">https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49341411\">https://news.ycombinator.com/item?id=49341411</a></p>\n<p>Points: 18</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-18T04:51:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Benchmarkpocalypse",
-    "link": "https://danluu.com/benchpocalypse/",
-    "summary": "<p>Article URL: <a href=\"https://danluu.com/benchpocalypse/\">https://danluu.com/benchpocalypse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49340299\">https://news.ycombinator.com/item?id=49340299</a></p>\n<p>Points: 92</p>\n<p># Comments: 22</p>",
-    "published": "2026-08-18T02:11:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Repair Cafe – Fix Your Broken Items",
-    "link": "https://www.repaircafe.org/",
-    "summary": "<p>Article URL: <a href=\"https://www.repaircafe.org/\">https://www.repaircafe.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49339097\">https://news.ycombinator.com/item?id=49339097</a></p>\n<p>Points: 103</p>\n<p># Comments: 16</p>",
-    "published": "2026-08-17T23:28:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Bluesky draws its logo on screenshots",
-    "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-    "summary": "<p>Article URL: <a href=\"https://timmarinin.net/2026/bluesky-screenshots/\">https://timmarinin.net/2026/bluesky-screenshots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338459\">https://news.ycombinator.com/item?id=49338459</a></p>\n<p>Points: 486</p>\n<p># Comments: 341</p>",
-    "published": "2026-08-17T22:20:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Quake Shareware, a CD-ROM just a little too full",
-    "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-    "summary": "<p>Article URL: <a href=\"https://fabiensanglard.net/quake_shareware_cd/index.html\">https://fabiensanglard.net/quake_shareware_cd/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338328\">https://news.ycombinator.com/item?id=49338328</a></p>\n<p>Points: 336</p>\n<p># Comments: 140</p>",
-    "published": "2026-08-17T22:06:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fairphone 6 and PostmarketOS working main camera",
-    "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "summary": "<p>Article URL: <a href=\"https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera\">https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49338285\">https://news.ycombinator.com/item?id=49338285</a></p>\n<p>Points: 189</p>\n<p># Comments: 42</p>",
-    "published": "2026-08-17T22:01:17",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
@@ -84,108 +189,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How do functions like alloca allocate memory from the stack?",
-    "link": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-    "summary": "<p>Article URL: <a href=\"https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617\">https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49337630\">https://news.ycombinator.com/item?id=49337630</a></p>\n<p>Points: 55</p>\n<p># Comments: 35</p>",
-    "published": "2026-08-17T21:06:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPT-5.6 Sol Pricing Cut by 50%",
-    "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-5.6-sol\">https://openrouter.ai/openai/gpt-5.6-sol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49337602\">https://news.ycombinator.com/item?id=49337602</a></p>\n<p>Points: 420</p>\n<p># Comments: 253</p>",
-    "published": "2026-08-17T21:03:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-    "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-    "summary": "<p>Article URL: <a href=\"https://responsiblestatecraft.org/israel-influence-chatgpt/\">https://responsiblestatecraft.org/israel-influence-chatgpt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49337392\">https://news.ycombinator.com/item?id=49337392</a></p>\n<p>Points: 473</p>\n<p># Comments: 307</p>",
-    "published": "2026-08-17T20:46:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
     "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
     "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
     "published": "2026-08-17T19:51:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "AI;DR (AI; Didn't Read)",
-    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "summary": "<p>Article URL: <a href=\"https://www.rickmanelius.com/p/aidr-ai-didnt-read\">https://www.rickmanelius.com/p/aidr-ai-didnt-read</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336573\">https://news.ycombinator.com/item?id=49336573</a></p>\n<p>Points: 867</p>\n<p># Comments: 532</p>",
-    "published": "2026-08-17T19:47:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "India has paved the way for charging merchants a fee on UPI transactions",
-    "link": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8xnwqe00v1o\">https://www.bbc.com/news/articles/c8xnwqe00v1o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49336304\">https://news.ycombinator.com/item?id=49336304</a></p>\n<p>Points: 146</p>\n<p># Comments: 176</p>",
-    "published": "2026-08-17T19:25:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-    "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world\">https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49335600\">https://news.ycombinator.com/item?id=49335600</a></p>\n<p>Points: 145</p>\n<p># Comments: 50</p>",
-    "published": "2026-08-17T18:34:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-    "link": "https://arxiv.org/abs/2608.13759",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13759\">https://arxiv.org/abs/2608.13759</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334991\">https://news.ycombinator.com/item?id=49334991</a></p>\n<p>Points: 211</p>\n<p># Comments: 43</p>",
-    "published": "2026-08-17T17:54:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An update on leaving Gmail for Fastmail",
-    "link": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "summary": "<p>Article URL: <a href=\"https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/\">https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49334409\">https://news.ycombinator.com/item?id=49334409</a></p>\n<p>Points: 225</p>\n<p># Comments: 139</p>",
-    "published": "2026-08-17T17:15:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sun Clock",
-    "link": "https://sunclock.net/",
-    "summary": "<p>Article URL: <a href=\"https://sunclock.net/\">https://sunclock.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49333824\">https://news.ycombinator.com/item?id=49333824</a></p>\n<p>Points: 226</p>\n<p># Comments: 74</p>",
-    "published": "2026-08-17T16:37:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Judge sets framework for Nine PBS to retrieve archival data",
-    "link": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-    "summary": "<p>Article URL: <a href=\"https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/\">https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49333344\">https://news.ycombinator.com/item?id=49333344</a></p>\n<p>Points: 165</p>\n<p># Comments: 62</p>",
-    "published": "2026-08-17T16:11:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-    "link": "https://speko.ai/",
-    "summary": "<p>Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.<p>Demo: <a href=\"https://www.youtube.com/watch?v=no2LY2gRh-c\" rel=\"nofollow\">https://www.youtube.com/watch?v=no2LY2gRh-c</a><p>Typical production voice agent is an ensemble of three models: STT, an LLM, and TTS.<p>Each of those layers offers a dozen credible vendors, and each month there are new models on the market. Almost everyone evaluates once, picks a stack of their choice, and never rechecks because switching from a vendor to another involves yet another integration and arguments about the numbers.<p>The result is that you use voice agents running last quarter's models while better and cheaper options are available.<p>Before founding Speko, I spent four years as cofounder and CTO building voice agents for enterprises across Asia in 10+ languages. Each time a new speech model would arrive, we repeated the same ritual: hire native-speaking raters, benchmark it against our existing stack, and update production if it improved. Speko turns this process into an API. A team running thousands of calls a day told us: \"we can literally go to this dashboard, switch the model, and it will do it for us.\"<p>How it works: you send a request with your optimization criteria (accuracy, latency, cost or balanced), language and region. The router filters to models which we measured for the given combination of constraints, benchmarks them, selects the winner, and returns a response with headers containing provider, model names, and the scores. The gateway prefetches signed session plans, so a new session dials the provider straight from memory; no control-plane round trip while a caller waits.<p>Failover happens only during connection setup stage: if the provider refuses the connection attempt, we start connecting to the runners-up.<p>Some of the customer stories: one founder came to us not knowing what to pick at all: he gave us his use case and now routes everything through the platform. A property management AI runs LiveKit in Python and had not updated STT or TTS since launch: they did not know their STT had high error rates on their calls, better options existed, and swapping always looked like an R&amp;D project. One team did not know which models to pick for Spanish. A medical team did not know which STT handles medical vocabulary best. In every case we helped find the right stack from the benchmarks, and now they route through us.<p>The measuring part is public: we pass the same inputs to every model in one region in different dated runs and we publish the boards, including those where our selections perform worse than alternatives. A launch demo answers which 30-second clip sounds better; production asks which model survives minute eight, so we test spontaneous speech, money and dates, ten-minute takes, and the rankings change. We trained an automatic scorer for TTS naturalness on our blind head-to-head listening votes; on providers it has never seen a vote for, it picks the same winner our raters do about as often as raters agree with each other.<p>We don't train or sell models ourselves, that's precisely how we keep our rankings impartial.<p>We also open sourced the gateway for teams who want to avoid an extra network hop on the audio path and don't want to share keys with our cloud (<a href=\"https://github.com/SpekoAI/gateway\" rel=\"nofollow\">https://github.com/SpekoAI/gateway</a>, MIT): one Go binary, which is running as a sidecar in your agent's container, speaks one local protocol over Unix socket, pins provider hosts and attaches your keys. In BYOK mode it doesn't communicate with us at all.<p>Notice that the anonymous, content-free telemetry is enabled by default, and one env var disables it.<p>Cost: the gateway and BYOK setup will be free forever, we charge for the hosted router and managed keys with consolidated billing. Since we started the batch in late June, external usage has grown about 25 percent per week on average, front-loaded toward the launch weeks.<p>I would love feedback from the community: how do you pick speech models now, and what makes you trust the third-party benchmark?<p><a href=\"https://speko.ai/\">https://speko.ai/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49332751\">https://news.ycombinator.com/item?id=49332751</a></p>\n<p>Points: 104</p>\n<p># Comments: 58</p>",
-    "published": "2026-08-17T15:36:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug\">https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49331423\">https://news.ycombinator.com/item?id=49331423</a></p>\n<p>Points: 369</p>\n<p># Comments: 142</p>",
-    "published": "2026-08-17T14:18:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "China Wants Its Data to Power the World’s A.I.",
-    "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-    "summary": "China is exporting more than A.I. models. It wants its data to influence the world’s chatbots, raising fears that Beijing’s narratives will spread with the technology.",
-    "published": "2026-08-17T11:10:29",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
-    "link": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
-    "summary": "Policymakers around the country are maneuvering to ensure that tech giants aren’t the only ones who stand to benefit.",
-    "published": "2026-08-16T09:00:38",
     "source": "NYT > Technology"
   },
   {
@@ -270,13 +277,6 @@
     "link": "https://www.nytimes.com/2026/08/11/technology/igor-babuschkin-xai-river-ai.html",
     "summary": "A co-founder of xAI is going all in on building open-source artificial intelligence so that “anyone can control and shape A.I. for their own needs.”",
     "published": "2026-08-11T13:50:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
-    "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
-    "summary": "A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.",
-    "published": "2026-08-11T13:23:38",
     "source": "NYT > Technology"
   }
 ]
