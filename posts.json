@@ -1,177 +1,198 @@
 [
   {
-    "title": "Slovakia finds Russian backdoor in traffic speed cameras",
-    "link": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-    "summary": "<p>Article URL: <a href=\"https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\">https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409200\">https://news.ycombinator.com/item?id=49409200</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
-    "published": "2026-08-23T14:38:25",
+    "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+    "link": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+    "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
+    "published": "2026-08-25T09:02:40",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "'Never seen this level of objection': Scotland pushes back against datacentres",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom\">https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49430286\">https://news.ycombinator.com/item?id=49430286</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+    "published": "2026-08-25T07:35:50",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Authoritarianism of Code",
-    "link": "https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/",
-    "summary": "<p>Article URL: <a href=\"https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/\">https://zedshaw.com/blog/2020-10-07-authoritarianism-of-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409184\">https://news.ycombinator.com/item?id=49409184</a></p>\n<p>Points: 5</p>\n<p># Comments: 3</p>",
-    "published": "2026-08-23T14:36:38",
+    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+    "link": "https://github.com/dragthelake/ambient-context",
+    "summary": "<p>It's a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day, into a folder you choose.<p>Point Claude Code (or anything with file access) at the folder and ask \"what did I work on Tuesday?\" or have it build memory about your projects. The folder contains an AGENTS.md explaining the format to the model.<p>Thought it might be useful for someone so chucked it up on GitHub</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49429095\">https://news.ycombinator.com/item?id=49429095</a></p>\n<p>Points: 44</p>\n<p># Comments: 16</p>",
+    "published": "2026-08-25T04:33:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "What Is a Harness?",
-    "link": "https://earendil.com/posts/what-is-a-harness/",
-    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/what-is-a-harness/\">https://earendil.com/posts/what-is-a-harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49409092\">https://news.ycombinator.com/item?id=49409092</a></p>\n<p>Points: 27</p>\n<p># Comments: 15</p>",
-    "published": "2026-08-23T14:24:21",
+    "title": "Volcanoes that made history",
+    "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
+    "summary": "<p>Article URL: <a href=\"https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history\">https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428972\">https://news.ycombinator.com/item?id=49428972</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-25T04:09:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Death to px, long live ch",
-    "link": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-    "summary": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/\">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408889\">https://news.ycombinator.com/item?id=49408889</a></p>\n<p>Points: 20</p>\n<p># Comments: 10</p>",
-    "published": "2026-08-23T13:56:27",
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "summary": "<p>Article URL: <a href=\"https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents\">https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428882\">https://news.ycombinator.com/item?id=49428882</a></p>\n<p>Points: 54</p>\n<p># Comments: 20</p>",
+    "published": "2026-08-25T03:54:19",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "My favorite nonfiction books about cults, scams, and schemes",
-    "link": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-    "summary": "<p>Article URL: <a href=\"https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes\">https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408858\">https://news.ycombinator.com/item?id=49408858</a></p>\n<p>Points: 48</p>\n<p># Comments: 13</p>",
-    "published": "2026-08-23T13:51:10",
+    "title": "SiFive's First Server Platform",
+    "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/sifives-first-server-platform\">https://chipsandcheese.com/p/sifives-first-server-platform</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428638\">https://news.ycombinator.com/item?id=49428638</a></p>\n<p>Points: 48</p>\n<p># Comments: 9</p>",
+    "published": "2026-08-25T03:06:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Malware infects Android-based automotive head unit firmware",
-    "link": "https://securelist.com/android-head-unit-malware/121106/",
-    "summary": "<p>Article URL: <a href=\"https://securelist.com/android-head-unit-malware/121106/\">https://securelist.com/android-head-unit-malware/121106/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49408550\">https://news.ycombinator.com/item?id=49408550</a></p>\n<p>Points: 87</p>\n<p># Comments: 40</p>",
-    "published": "2026-08-23T13:05:38",
+    "title": "Thomson Reuters Launches Its Own Frontier Model",
+    "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
+    "summary": "<p>Article URL: <a href=\"https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model\">https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428318\">https://news.ycombinator.com/item?id=49428318</a></p>\n<p>Points: 111</p>\n<p># Comments: 45</p>",
+    "published": "2026-08-25T02:11:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How Universities Should Prepare Founders",
+    "link": "https://paulgraham.com/prepare.html",
+    "summary": "<p>Article URL: <a href=\"https://paulgraham.com/prepare.html\">https://paulgraham.com/prepare.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428121\">https://news.ycombinator.com/item?id=49428121</a></p>\n<p>Points: 121</p>\n<p># Comments: 142</p>",
+    "published": "2026-08-25T01:40:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Was modern art a CIA psy-op? (2020)",
+    "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/\">https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49428080\">https://news.ycombinator.com/item?id=49428080</a></p>\n<p>Points: 73</p>\n<p># Comments: 114</p>",
+    "published": "2026-08-25T01:35:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+    "link": "https://github.com/murerkinn/bookshelf",
+    "summary": "<p>Article URL: <a href=\"https://github.com/murerkinn/bookshelf\">https://github.com/murerkinn/bookshelf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49427001\">https://news.ycombinator.com/item?id=49427001</a></p>\n<p>Points: 94</p>\n<p># Comments: 35</p>",
+    "published": "2026-08-24T23:00:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "summary": "<p>Article URL: <a href=\"https://developer.apple.com/news/?id=1ptvdtcm\">https://developer.apple.com/news/?id=1ptvdtcm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426564\">https://news.ycombinator.com/item?id=49426564</a></p>\n<p>Points: 453</p>\n<p># Comments: 125</p>",
+    "published": "2026-08-24T22:13:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Moon (2024)",
+    "link": "https://ciechanow.ski/moon/",
+    "summary": "<p>Article URL: <a href=\"https://ciechanow.ski/moon/\">https://ciechanow.ski/moon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49426466\">https://news.ycombinator.com/item?id=49426466</a></p>\n<p>Points: 182</p>\n<p># Comments: 33</p>",
+    "published": "2026-08-24T22:06:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+    "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+    "summary": "<p>Article URL: <a href=\"https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/\">https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49425800\">https://news.ycombinator.com/item?id=49425800</a></p>\n<p>Points: 95</p>\n<p># Comments: 18</p>",
+    "published": "2026-08-24T21:01:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
+    "link": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
+    "summary": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
+    "published": "2026-08-24T19:34:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Oceans hit highest temperature on record",
+    "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c62m4gpnp78o\">https://www.bbc.com/news/articles/c62m4gpnp78o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424606\">https://news.ycombinator.com/item?id=49424606</a></p>\n<p>Points: 547</p>\n<p># Comments: 427</p>",
+    "published": "2026-08-24T19:19:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "summary": "<p>Article URL: <a href=\"https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines\">https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49424387\">https://news.ycombinator.com/item?id=49424387</a></p>\n<p>Points: 138</p>\n<p># Comments: 66</p>",
+    "published": "2026-08-24T19:03:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
+    "link": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
+    "summary": "Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.",
+    "published": "2026-08-24T18:07:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Octopus intelligence may be related to never-before-seen mutation",
+    "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/\">https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49423539\">https://news.ycombinator.com/item?id=49423539</a></p>\n<p>Points: 155</p>\n<p># Comments: 114</p>",
+    "published": "2026-08-24T17:57:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Where did all the public bathrooms go?",
+    "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+    "summary": "<p>Article URL: <a href=\"https://daily.jstor.org/where-did-all-the-public-bathrooms-go/\">https://daily.jstor.org/where-did-all-the-public-bathrooms-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422800\">https://news.ycombinator.com/item?id=49422800</a></p>\n<p>Points: 239</p>\n<p># Comments: 539</p>",
+    "published": "2026-08-24T17:07:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The entire city of San Francisco as a video game",
+    "link": "https://sf.thijs.gg/",
+    "summary": "<p><a href=\"https://twitter.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://twitter.com/cdngdev/status/2091909073038082139</a>, <a href=\"https://xcancel.com/cdngdev/status/2091909073038082139\" rel=\"nofollow\">https://xcancel.com/cdngdev/status/2091909073038082139</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49422784\">https://news.ycombinator.com/item?id=49422784</a></p>\n<p>Points: 457</p>\n<p># Comments: 140</p>",
+    "published": "2026-08-24T17:05:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jabber/XMPP: 25 Years of Digital Independence",
+    "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
+    "summary": "<p>Article URL: <a href=\"https://gultsch.de/posts/25-years-of-digital-independence/\">https://gultsch.de/posts/25-years-of-digital-independence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421536\">https://news.ycombinator.com/item?id=49421536</a></p>\n<p>Points: 230</p>\n<p># Comments: 125</p>",
+    "published": "2026-08-24T15:51:31",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "How Big Tech Captured American Schools",
     "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
     "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
-    "published": "2026-08-23T11:13:40",
+    "published": "2026-08-24T15:46:53",
     "source": "NYT > Technology"
   },
   {
-    "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-    "link": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cvg92y1wzn8o\">https://www.bbc.com/news/articles/cvg92y1wzn8o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407576\">https://news.ycombinator.com/item?id=49407576</a></p>\n<p>Points: 90</p>\n<p># Comments: 59</p>",
-    "published": "2026-08-23T10:14:48",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "summary": "<p>Article URL: <a href=\"https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\">https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49421158\">https://news.ycombinator.com/item?id=49421158</a></p>\n<p>Points: 704</p>\n<p># Comments: 304</p>",
+    "published": "2026-08-24T15:28:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Iranian hackers shut down UK power plant for 4 days",
-    "link": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-    "summary": "<p>Article URL: <a href=\"https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/\">https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407509\">https://news.ycombinator.com/item?id=49407509</a></p>\n<p>Points: 56</p>\n<p># Comments: 34</p>",
-    "published": "2026-08-23T10:03:01",
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "link": "https://twitter.com/lemire/status/2091894299289874926",
+    "summary": "<p><a href=\"https://xcancel.com/lemire/status/2091894299289874926\" rel=\"nofollow\">https://xcancel.com/lemire/status/2091894299289874926</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49420873\">https://news.ycombinator.com/item?id=49420873</a></p>\n<p>Points: 856</p>\n<p># Comments: 613</p>",
+    "published": "2026-08-24T15:08:17",
     "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-    "link": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-    "summary": "<p>Article URL: <a href=\"https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/\">https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407507\">https://news.ycombinator.com/item?id=49407507</a></p>\n<p>Points: 159</p>\n<p># Comments: 80</p>",
-    "published": "2026-08-23T10:02:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-    "link": "https://skylens.yantraai.app/",
-    "summary": "<p>Article URL: <a href=\"https://skylens.yantraai.app/\">https://skylens.yantraai.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49407309\">https://news.ycombinator.com/item?id=49407309</a></p>\n<p>Points: 36</p>\n<p># Comments: 17</p>",
-    "published": "2026-08-23T09:27:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
-    "published": "2026-08-23T09:16:36",
-    "source": "NYT > Technology"
   },
   {
     "title": "The Data Center Backlash Bursts Into the Midterms",
     "link": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
     "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
-    "published": "2026-08-23T09:01:58",
+    "published": "2026-08-24T13:32:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What if Your Texts Traveled as Slowly as a Carrier Pigeon?",
+    "link": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
+    "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+    "published": "2026-08-24T13:18:47",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+    "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+    "published": "2026-08-23T09:16:37",
     "source": "NYT > Technology"
   },
   {
     "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
     "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
     "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
-    "published": "2026-08-23T09:00:19",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Risk of transmission of amyloid β pathology via transfused blood products",
-    "link": "https://doi.org/10.1016/S0140-6736(26)00767-1",
-    "summary": "<p>Article URL: <a href=\"https://doi.org/10.1016/S0140-6736(26)00767-1\">https://doi.org/10.1016/S0140-6736(26)00767-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406398\">https://news.ycombinator.com/item?id=49406398</a></p>\n<p>Points: 24</p>\n<p># Comments: 6</p>",
-    "published": "2026-08-23T06:07:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "JIT Compiling Code in 5μs",
-    "link": "https://malisper.me/jit-compiling-code-in-5-us/",
-    "summary": "<p>Article URL: <a href=\"https://malisper.me/jit-compiling-code-in-5-us/\">https://malisper.me/jit-compiling-code-in-5-us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406387\">https://news.ycombinator.com/item?id=49406387</a></p>\n<p>Points: 123</p>\n<p># Comments: 78</p>",
-    "published": "2026-08-23T06:04:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The End of an Athlon",
-    "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-    "summary": "<p>Article URL: <a href=\"http://www.os2museum.com/wp/the-end-of-an-athlon/\">http://www.os2museum.com/wp/the-end-of-an-athlon/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406333\">https://news.ycombinator.com/item?id=49406333</a></p>\n<p>Points: 143</p>\n<p># Comments: 57</p>",
-    "published": "2026-08-23T05:51:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fast and Hard Code",
-    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "summary": "<p>Article URL: <a href=\"https://lucumr.pocoo.org/2026/8/22/fast-hard-code/\">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49406285\">https://news.ycombinator.com/item?id=49406285</a></p>\n<p>Points: 81</p>\n<p># Comments: 44</p>",
-    "published": "2026-08-23T05:39:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "To become a better writer, read as much as you can",
-    "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-    "summary": "<p>Article URL: <a href=\"https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/\">https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405870\">https://news.ycombinator.com/item?id=49405870</a></p>\n<p>Points: 316</p>\n<p># Comments: 208</p>",
-    "published": "2026-08-23T03:32:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-    "link": "https://martypc.net/",
-    "summary": "<p>Article URL: <a href=\"https://martypc.net/\">https://martypc.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405816\">https://news.ycombinator.com/item?id=49405816</a></p>\n<p>Points: 154</p>\n<p># Comments: 55</p>",
-    "published": "2026-08-23T03:13:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Art and Beauty of Blade Runner (2015)",
-    "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-    "summary": "<p>Article URL: <a href=\"https://nappertime.com/the-art-of-and-beauty-of-blade-runner/\">https://nappertime.com/the-art-of-and-beauty-of-blade-runner/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49405331\">https://news.ycombinator.com/item?id=49405331</a></p>\n<p>Points: 136</p>\n<p># Comments: 68</p>",
-    "published": "2026-08-23T00:56:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NanoGPT Speedrun Frontier",
-    "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-    "summary": "<p>Article URL: <a href=\"https://www.primeintellect.ai/research/nanogpt-speedrun\">https://www.primeintellect.ai/research/nanogpt-speedrun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49404380\">https://news.ycombinator.com/item?id=49404380</a></p>\n<p>Points: 127</p>\n<p># Comments: 31</p>",
-    "published": "2026-08-22T22:14:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NetBSD and my life (2005)",
-    "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-    "summary": "<p>Article URL: <a href=\"https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\">https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402781\">https://news.ycombinator.com/item?id=49402781</a></p>\n<p>Points: 139</p>\n<p># Comments: 32</p>",
-    "published": "2026-08-22T19:07:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Things I want in a modern relational query language",
-    "link": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-    "summary": "<p>Article URL: <a href=\"https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/\">https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49402491\">https://news.ycombinator.com/item?id=49402491</a></p>\n<p>Points: 19</p>\n<p># Comments: 7</p>",
-    "published": "2026-08-22T18:38:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
-    "link": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
-    "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
-    "published": "2026-08-22T15:34:31",
+    "published": "2026-08-23T09:00:20",
     "source": "NYT > Technology"
   },
   {
@@ -214,13 +235,6 @@
     "link": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
     "summary": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
     "published": "2026-08-21T16:26:40",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
-    "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
-    "summary": "Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.",
-    "published": "2026-08-21T15:15:45",
     "source": "NYT > Technology"
   },
   {
@@ -280,20 +294,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-    "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-    "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.",
-    "published": "2026-08-19T04:58:35",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
-    "link": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-    "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.",
-    "published": "2026-08-18T23:37:01",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job",
     "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
     "summary": "The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.",
@@ -305,20 +305,6 @@
     "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
     "summary": "The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.",
     "published": "2026-08-18T14:14:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Blackout That Could Devastate America",
-    "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
-    "summary": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.",
-    "published": "2026-08-18T13:20:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
-    "link": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
-    "summary": "The data center, one of the world’s largest, could cost as much as $500 billion and will be leased by OpenAI.",
-    "published": "2026-08-17T21:13:00",
     "source": "NYT > Technology"
   }
 ]
