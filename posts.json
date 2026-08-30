@@ -1,9 +1,156 @@
 [
   {
-    "title": "Iceland votes on whether to restart talks on joining EU",
-    "link": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn45vdxyvvlo\">https://www.bbc.com/news/articles/cn45vdxyvvlo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49489057\">https://news.ycombinator.com/item?id=49489057</a></p>\n<p>Points: 184</p>\n<p># Comments: 208</p>",
-    "published": "2026-08-29T11:39:38",
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "link": "https://github.com/anthropics/claude-code/issues/66504",
+    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/66504\">https://github.com/anthropics/claude-code/issues/66504</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498201\">https://news.ycombinator.com/item?id=49498201</a></p>\n<p>Points: 78</p>\n<p># Comments: 84</p>",
+    "published": "2026-08-30T12:50:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "No AI Fridays",
+    "link": "https://noaifridays.com/",
+    "summary": "<p>Article URL: <a href=\"https://noaifridays.com/\">https://noaifridays.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498095\">https://news.ycombinator.com/item?id=49498095</a></p>\n<p>Points: 5</p>\n<p># Comments: 4</p>",
+    "published": "2026-08-30T12:31:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+    "link": "https://github.com/fugue-labs/monty-go",
+    "summary": "<p>Article URL: <a href=\"https://github.com/fugue-labs/monty-go\">https://github.com/fugue-labs/monty-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497928\">https://news.ycombinator.com/item?id=49497928</a></p>\n<p>Points: 24</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-30T12:02:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Automating Immersive Reading",
+    "link": "https://smoores.dev/post/automating_immersive_reading/",
+    "summary": "<p>Article URL: <a href=\"https://smoores.dev/post/automating_immersive_reading/\">https://smoores.dev/post/automating_immersive_reading/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497854\">https://news.ycombinator.com/item?id=49497854</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+    "published": "2026-08-30T11:46:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+    "link": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+    "summary": "<p>Article URL: <a href=\"https://www.muppetlabs.com/~breadbox/software/windows.html\">https://www.muppetlabs.com/~breadbox/software/windows.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497819\">https://news.ycombinator.com/item?id=49497819</a></p>\n<p>Points: 21</p>\n<p># Comments: 2</p>",
+    "published": "2026-08-30T11:41:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hacking IKEA Furniture",
+    "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+    "summary": "<p>Article URL: <a href=\"https://greenlightning.eu/diy/hacking-ikea-furniture/\">https://greenlightning.eu/diy/hacking-ikea-furniture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497810\">https://news.ycombinator.com/item?id=49497810</a></p>\n<p>Points: 69</p>\n<p># Comments: 22</p>",
+    "published": "2026-08-30T11:39:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+    "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\">https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497357\">https://news.ycombinator.com/item?id=49497357</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
+    "published": "2026-08-30T10:20:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Spark: Sparklines in your shell",
+    "link": "https://git.zx2c4.com/spark/about/",
+    "summary": "<p>Article URL: <a href=\"https://git.zx2c4.com/spark/about/\">https://git.zx2c4.com/spark/about/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497265\">https://news.ycombinator.com/item?id=49497265</a></p>\n<p>Points: 45</p>\n<p># Comments: 10</p>",
+    "published": "2026-08-30T10:02:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Brits would quite like their private messages to stay private",
+    "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994\">https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497063\">https://news.ycombinator.com/item?id=49497063</a></p>\n<p>Points: 219</p>\n<p># Comments: 141</p>",
+    "published": "2026-08-30T09:26:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+    "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+    "summary": "<p>Article URL: <a href=\"https://www.qubes-os.org/news/2026/08/29/qsb-118/\">https://www.qubes-os.org/news/2026/08/29/qsb-118/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496918\">https://news.ycombinator.com/item?id=49496918</a></p>\n<p>Points: 111</p>\n<p># Comments: 46</p>",
+    "published": "2026-08-30T08:51:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "link": "https://arxiv.org/abs/1804.07389",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/1804.07389\">https://arxiv.org/abs/1804.07389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496782\">https://news.ycombinator.com/item?id=49496782</a></p>\n<p>Points: 137</p>\n<p># Comments: 37</p>",
+    "published": "2026-08-30T08:23:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+    "link": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs\">https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496543\">https://news.ycombinator.com/item?id=49496543</a></p>\n<p>Points: 40</p>\n<p># Comments: 2</p>",
+    "published": "2026-08-30T07:35:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+    "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\">https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49495372\">https://news.ycombinator.com/item?id=49495372</a></p>\n<p>Points: 464</p>\n<p># Comments: 211</p>",
+    "published": "2026-08-30T03:15:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
+    "link": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
+    "summary": "A legal dispute over the future of Kalshi, Polymarket and others has drawn in the Trump administration, the president’s son and nearly every state attorney general.",
+    "published": "2026-08-30T01:52:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "FreeCORE TrueNAS Core – Continued",
+    "link": "https://freecore.org/",
+    "summary": "<p>Article URL: <a href=\"https://freecore.org/\">https://freecore.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494856\">https://news.ycombinator.com/item?id=49494856</a></p>\n<p>Points: 142</p>\n<p># Comments: 73</p>",
+    "published": "2026-08-30T01:31:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Bug Blindness",
+    "link": "https://danluu.com/bug-blind/",
+    "summary": "<p>Article URL: <a href=\"https://danluu.com/bug-blind/\">https://danluu.com/bug-blind/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494520\">https://news.ycombinator.com/item?id=49494520</a></p>\n<p>Points: 321</p>\n<p># Comments: 196</p>",
+    "published": "2026-08-30T00:21:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "summary": "<p>Article URL: <a href=\"https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\">https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49494182\">https://news.ycombinator.com/item?id=49494182</a></p>\n<p>Points: 350</p>\n<p># Comments: 221</p>",
+    "published": "2026-08-29T23:17:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+    "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+    "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
+    "published": "2026-08-29T23:14:33",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Hy4 preview",
+    "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+    "summary": "<p>Article URL: <a href=\"https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/\">https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492632\">https://news.ycombinator.com/item?id=49492632</a></p>\n<p>Points: 353</p>\n<p># Comments: 211</p>",
+    "published": "2026-08-29T19:33:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+    "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+    "summary": "<p>Article URL: <a href=\"https://dl.acm.org/doi/10.1145/3830438.3830958\">https://dl.acm.org/doi/10.1145/3830438.3830958</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49492368\">https://news.ycombinator.com/item?id=49492368</a></p>\n<p>Points: 109</p>\n<p># Comments: 38</p>",
+    "published": "2026-08-29T19:01:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Creepy Crawlies",
+    "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "summary": "<p>Article URL: <a href=\"https://people.kernel.org/monsieuricon/creepy-crawlies\">https://people.kernel.org/monsieuricon/creepy-crawlies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49491791\">https://news.ycombinator.com/item?id=49491791</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-08-29T17:49:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nancy Grace Roman Space Telescope",
+    "link": "https://science.nasa.gov/mission/roman-space-telescope/",
+    "summary": "<p><a href=\"https://nextspaceflight.com/launches/details/6983/\" rel=\"nofollow\">https://nextspaceflight.com/launches/details/6983/</a><p><a href=\"https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac...</a><p><a href=\"https://en.wikipedia.org/wiki/Nancy_Grace_Roman\" rel=\"nofollow\">https://en.wikipedia.org/wiki/Nancy_Grace_Roman</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49490870\">https://news.ycombinator.com/item?id=49490870</a></p>\n<p>Points: 240</p>\n<p># Comments: 85</p>",
+    "published": "2026-08-29T15:48:02",
     "source": "Hacker News: Front Page"
   },
   {
@@ -14,74 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
-    "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-    "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
-    "published": "2026-08-29T09:00:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Samsung's Processing-in-Memory (PIM)",
-    "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing\">https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49487341\">https://news.ycombinator.com/item?id=49487341</a></p>\n<p>Points: 158</p>\n<p># Comments: 49</p>",
-    "published": "2026-08-29T06:06:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "TurboKV: Insanely fast Rust key-value store",
-    "link": "https://github.com/kingroryg/turbokv",
-    "summary": "<p>Article URL: <a href=\"https://github.com/kingroryg/turbokv\">https://github.com/kingroryg/turbokv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486334\">https://news.ycombinator.com/item?id=49486334</a></p>\n<p>Points: 134</p>\n<p># Comments: 62</p>",
-    "published": "2026-08-29T02:23:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486172\">https://news.ycombinator.com/item?id=49486172</a></p>\n<p>Points: 640</p>\n<p># Comments: 362</p>",
-    "published": "2026-08-29T01:47:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "link": "https://github.com/stemdeckapp/stemdeck",
-    "summary": "<p>Article URL: <a href=\"https://github.com/stemdeckapp/stemdeck\">https://github.com/stemdeckapp/stemdeck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49486081\">https://news.ycombinator.com/item?id=49486081</a></p>\n<p>Points: 147</p>\n<p># Comments: 36</p>",
-    "published": "2026-08-29T01:24:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-    "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-    "summary": "<p>Article URL: <a href=\"https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/\">https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485532\">https://news.ycombinator.com/item?id=49485532</a></p>\n<p>Points: 112</p>\n<p># Comments: 63</p>",
-    "published": "2026-08-28T23:46:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "9th Circuit sides with states in Kalshi gambling fight",
-    "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-    "summary": "<p>Article URL: <a href=\"https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/\">https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485452\">https://news.ycombinator.com/item?id=49485452</a></p>\n<p>Points: 151</p>\n<p># Comments: 128</p>",
-    "published": "2026-08-28T23:32:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I accidentally turned LLM memory into program analysis",
-    "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "summary": "<p>Article URL: <a href=\"https://pwning.systems/posts/llm-memory-program-analysis/\">https://pwning.systems/posts/llm-memory-program-analysis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485416\">https://news.ycombinator.com/item?id=49485416</a></p>\n<p>Points: 196</p>\n<p># Comments: 54</p>",
-    "published": "2026-08-28T23:27:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
     "link": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
     "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
     "published": "2026-08-28T23:15:45",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-    "link": "https://github.com/Lakr233/vphone-cli",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Lakr233/vphone-cli\">https://github.com/Lakr233/vphone-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49485267\">https://news.ycombinator.com/item?id=49485267</a></p>\n<p>Points: 322</p>\n<p># Comments: 83</p>",
-    "published": "2026-08-28T23:02:21",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Social Media and the Myth of the Big Tobacco Moment",
@@ -98,67 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Just the rumour of a bug is enough to find an exploit these days",
-    "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-    "summary": "<p>Article URL: <a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">https://anil.recoil.org/notes/rumour-is-the-exploit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49480466\">https://news.ycombinator.com/item?id=49480466</a></p>\n<p>Points: 348</p>\n<p># Comments: 115</p>",
-    "published": "2026-08-28T15:58:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "EasyEffects can improve laptop speaker sound quality",
-    "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-    "summary": "<p>Article URL: <a href=\"https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/\">https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479924\">https://news.ycombinator.com/item?id=49479924</a></p>\n<p>Points: 177</p>\n<p># Comments: 72</p>",
-    "published": "2026-08-28T15:23:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GLM-5.3 is now open-weight",
-    "link": "https://huggingface.co/zai-org/GLM-5.3",
-    "summary": "<p><a href=\"https://twitter.com/Zai_org/status/2093354097122455713\" rel=\"nofollow\">https://twitter.com/Zai_org/status/2093354097122455713</a><p><a href=\"https://z.ai/blog/glm-5.3\" rel=\"nofollow\">https://z.ai/blog/glm-5.3</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479878\">https://news.ycombinator.com/item?id=49479878</a></p>\n<p>Points: 736</p>\n<p># Comments: 245</p>",
-    "published": "2026-08-28T15:20:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GUIs should be fully keyboard-driven",
-    "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-    "summary": "<p>Article URL: <a href=\"https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\">https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479837\">https://news.ycombinator.com/item?id=49479837</a></p>\n<p>Points: 900</p>\n<p># Comments: 446</p>",
-    "published": "2026-08-28T15:17:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Creating the Aetheryte Radio",
-    "link": "https://haz.ee/posts/aetheryte-radio.html",
-    "summary": "<p>Article URL: <a href=\"https://haz.ee/posts/aetheryte-radio.html\">https://haz.ee/posts/aetheryte-radio.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49479546\">https://news.ycombinator.com/item?id=49479546</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-28T14:59:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Why Countries Are Pushing Social Media Bans Despite Their Flaws",
     "link": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
     "summary": "Proposals for curbing social media use among children have wide support, but critics say they are ineffective.",
     "published": "2026-08-28T13:46:28",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Htmx 4.0",
-    "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "summary": "<p>Article URL: <a href=\"https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released\">https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49478178\">https://news.ycombinator.com/item?id=49478178</a></p>\n<p>Points: 722</p>\n<p># Comments: 177</p>",
-    "published": "2026-08-28T13:28:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "U.S. sanctions against the A/I Collective",
-    "link": "https://www.inventati.org/",
-    "summary": "<p>Earlier:<p><i>US Government designates host of noblogs.org a \"global terrorist\"</i> - <a href=\"https://news.ycombinator.com/item?id=49464391\">https://news.ycombinator.com/item?id=49464391</a> -  (131 comments)<p><i>US sanctions Italian hosting provider Autistici Inventati</i> - <a href=\"https://news.ycombinator.com/item?id=49451343\">https://news.ycombinator.com/item?id=49451343</a> - (219 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477854\">https://news.ycombinator.com/item?id=49477854</a></p>\n<p>Points: 642</p>\n<p># Comments: 642</p>",
-    "published": "2026-08-28T12:58:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Inception-style curved map for turn-by-turn directions",
-    "link": "https://www.orbify.eu/demo/",
-    "summary": "<p>Article URL: <a href=\"https://www.orbify.eu/demo/\">https://www.orbify.eu/demo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49477564\">https://news.ycombinator.com/item?id=49477564</a></p>\n<p>Points: 544</p>\n<p># Comments: 181</p>",
-    "published": "2026-08-28T12:29:05",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
@@ -173,20 +201,6 @@
     "summary": "The government retaliated against the A.I. start-up “for constitutionally protected expressive activities,” a federal judge in California wrote.",
     "published": "2026-08-28T02:28:13",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
-    "link": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
-    "summary": "A legal dispute over the future of Kalshi, Polymarket and others has drawn in the Trump administration, the president’s son and nearly every state attorney general.",
-    "published": "2026-08-28T01:09:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Twelve-Factor App (2025)",
-    "link": "https://12factor.net/",
-    "summary": "<p>Article URL: <a href=\"https://12factor.net/\">https://12factor.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49472216\">https://news.ycombinator.com/item?id=49472216</a></p>\n<p>Points: 284</p>\n<p># Comments: 159</p>",
-    "published": "2026-08-27T22:41:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
@@ -259,25 +273,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Europe's last regular standard-gauge steam passenger service",
-    "link": "https://parowozowniawolsztyn.pl/?page_id=2141",
-    "summary": "<p>Article URL: <a href=\"https://parowozowniawolsztyn.pl/?page_id=2141\">https://parowozowniawolsztyn.pl/?page_id=2141</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49456819\">https://news.ycombinator.com/item?id=49456819</a></p>\n<p>Points: 70</p>\n<p># Comments: 18</p>",
-    "published": "2026-08-26T22:32:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "What’s Changing For Teens on Instagram and Facebook After Meta Settlement",
     "link": "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html",
     "summary": "Meta agreed to set more time limits and enhance protections in its platforms for young users, but was short on some specifics.",
     "published": "2026-08-26T18:22:32",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-    "link": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-    "summary": "<p>Article URL: <a href=\"https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/\">https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49450782\">https://news.ycombinator.com/item?id=49450782</a></p>\n<p>Points: 56</p>\n<p># Comments: 5</p>",
-    "published": "2026-08-26T15:22:48",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran’s Oil",
@@ -326,20 +326,6 @@
     "link": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
     "summary": "Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.",
     "published": "2026-08-24T18:07:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Big Tech Captured American Schools",
-    "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
-    "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
-    "published": "2026-08-24T15:46:53",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
-    "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
-    "published": "2026-08-23T09:16:37",
     "source": "NYT > Technology"
   }
 ]
