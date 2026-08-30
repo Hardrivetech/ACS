@@ -1,1 +1,1 @@
-Iceland votes on whether to restart talks on joining EU https://www.bbc.com/news/articles/cn45vdxyvvlo
+Claude Session URL appended to commit messages and PR descriptions by default https://github.com/anthropics/claude-code/issues/66504
