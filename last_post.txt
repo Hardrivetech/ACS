@@ -1,1 +1,1 @@
-Claude Session URL appended to commit messages and PR descriptions by default https://github.com/anthropics/claude-code/issues/66504
+Launch HN: Almanac (YC S26) – AI that knows your company https://usealmanac.com/
