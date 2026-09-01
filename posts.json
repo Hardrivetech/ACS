@@ -1,142 +1,156 @@
 [
   {
-    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-    "link": "https://usealmanac.com/",
-    "summary": "<p>Hi HN, I'm Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.<p>We started our journey with setting up Hermes for our company, thinking it must be easy. We wanted an agent that would know every context about our company, so we could ask questions and get context-appropriate responses to.<p>This started a very annoying and difficult journey. Setting up Hermes, getting it to talk right, building OAuth apps for every connector myself, then feeding it context myself, and ultimately struggling with Hermes's default memory. At the same time, we saw our YC batchmates struggling with the same problem, and we saw an opportunity.<p>So we built Almanac. This is how it works. You sign up, you get a Hermes agent straight out of the box. You have a one-click connect to any account (Gmail, Calendar, Granola, PostHog, etc). You have personal accounts (only accessible by you) and also shared accounts (accessible by everyone in the company). The consequence being I can never see my cofounders' accounts.<p>The “brain” of this agent is wikis. We pull in information from your connected sources, and start organizing this information in two wikis. A personal one, for you, which understands who you are, what your preferences are, the people in your life, and the things going on in your life. The second wiki is a company wiki, which includes what the company is, what you’re working on, what the roadmap is, and what the blockers of the company are. Your agent ultimately has access to these two wikis and the original accounts, which invoke the feeling of “it just knows you.”<p>Here’s a demo: <a href=\"https://www.youtube.com/watch?v=ajXP5PHuK18\" rel=\"nofollow\">https://www.youtube.com/watch?v=ajXP5PHuK18</a><p>We're three cofounders, Rohan, Kushagra, and Divit, and we've been friends for 11 years, since studying for the IIT-JEE. We all did Electrical Engineering (Rohan at IIT Delhi, me at IIT Kharagpur, Divit at BITS Pilani, Hyderabad), and Rohan and I later went to Harvard, where this pre-compilation layer became our capstone thesis. We have built multiple products around the idea of a pre-compiled knowledge layer.<p>Our main differentiating point is the way we approach memory and context in general. Most AI assistant tools treat memory as an afterthought. We have worked on wikis for AI for more than a year now, building products for Harvard and NASA. The one thing we have learnt is that one needs to spend a lot more compute upfront, in the pre-compilation of this knowledge base, to get it right.<p>Having this pre-compiled knowledge base enables a lot of interesting ideas. First is a proactive agent. Since I have compiled what’s going on in both my company and my current life, Almanac can start completing tasks on its own. Concretely, we run a background worker which takes a look at tasks that could be completed, pings the main agent, who then pings me, suggesting which tasks it could automate. As a result, I wake up to proactive notifications which look like “I already prepared a draft of your fundraising pitch deck, want to take a look?”<p>Second, long-horizon tasks. In our wikis, we maintain a section on ongoing projects, so Almanac can pick a task back up days later without losing the thread. Most agents are session-bound: they run once, finish, and forget. But a lot of real work isn't one shot; it plays out over hours and days with people in the loop. The clearest example is anything that involves waiting on a human, like scheduling a meeting, following up on a sales thread, or chasing a document. Almanac can send an email on your behalf, and because it's always on and remembers the project, it notices the reply four hours later and drafts the right follow-up in context.<p>Since launching, we've seen a lot of use cases for Almanac. One person runs her dog-rescue operation through it: finding available fosters, tracking pickups, and sending reminders for consent forms. Another researches Polymarket strategies with Almanac, where its memory holds what past strategies were, proposes new ones, and compares them against what went right or wrong last time. Another builds marketing campaigns on it without having to re-explain the business and the whole campaign every single time.<p>Regarding privacy and security, Almanac only accesses accounts you explicitly connect. Your OAuth credentials are held by our connection provider, not in Almanac’s database. We only store the wiki and the source behind its citations. So an email used as a citation may be retained as Markdown.<p>We’re live: <a href=\"https://usealmanac.com\">https://usealmanac.com</a>. We have a 7-day trial on all of our plans. Happy to hear if people have done similar setups, and what new features they’d like in Almanac. If you’re a company that wants to get an agent that actually gets tasks done, I would love to talk: <a href=\"https://cal.com/team/almanac/demo\" rel=\"nofollow\">https://cal.com/team/almanac/demo</a>.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511007\">https://news.ycombinator.com/item?id=49511007</a></p>\n<p>Points: 11</p>\n<p># Comments: 8</p>",
-    "published": "2026-08-31T15:34:34",
+    "title": "Please stop calling databases CP or AP (2015)",
+    "link": "https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html",
+    "summary": "<p>Article URL: <a href=\"https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html\">https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521490\">https://news.ycombinator.com/item?id=49521490</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-09-01T13:09:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-    "link": "https://github.com/Hebbian-Robotics/hflow",
-    "summary": "<p>Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (<a href=\"https://github.com/Hebbian-Robotics/hflow\" rel=\"nofollow\">https://github.com/Hebbian-Robotics/hflow</a>), an SDK that turns multimodal recordings from robots and human operators into standardized, quality-checked episodes and queryable dataset manifests. A recording can contain synchronized video, joint states, actions, timestamps, and metadata, and HFlow processes those streams together.<p>Here’s a demo of HFlow in action: <a href=\"https://www.youtube.com/watch?v=xni0GwV-xAw\" rel=\"nofollow\">https://www.youtube.com/watch?v=xni0GwV-xAw</a><p>Robotics data pipelines often begin as scripts: one transcodes video, another checks timestamps, another adds labels, and another copies selected recordings into a training set. This works until the corpus grows. Then it becomes difficult to know which code ran, why an episode was excluded, or whether a dataset can be reproduced. The first pain is usually quality control because frozen cameras, missing topics, timestamp drift, and duplicate recordings can quietly enter training data.<p>Brandon first encountered this while training embodied AI models for two-arm industrial cleaning robots. Kingston had run into related problems while building high-throughput infrastructure at Jane Street. Later, while speaking with robotics data providers, we kept seeing teams rebuild similar processing and quality-control infrastructure. We learnt that processing robotics data is itself one of the bottlenecks to improving robotics models.<p>An HFlow pipeline consists of transformations, checks, labels, and enrichments. The SDK exposes them as plain Python functions that receive an episode and return measurements, artifacts, or transformed data. During development, the functions can run in-process. For scheduled corpus processing, HFlow packages the same registered steps as Airflow 3 DAGs, where teams can inspect task status, logs, retries, and reruns.<p>HFlow currently accepts one MCAP file per episode. MCAP (<a href=\"https://mcap.dev/\" rel=\"nofollow\">https://mcap.dev/</a>) is an open container format by Foxglove for timestamped multimodal recordings, similar in purpose to a ROS bag. It lets video, robot state, actions, and other sensor streams remain synchronized in one file. We use it because HFlow needs to process these streams together, and because the resulting recordings remain compatible with Foxglove and Rerun. HFlow writes a canonical MCAP with in-band H.264 video, grouped camera and state chunks, and provenance describing how the output was produced. Each step has an explicit behavior version, and catalog records connect its measurements and artifacts to the source episode and pipeline run.<p>Quality checks store reusable evidence rather than imposing one universal definition of good data. Some failures, including black frames, frozen video, missing topics, timestamp drift, and impossible joint movements, can be measured deterministically without training a model. Others might be detected using VLMs and other models like MediaPipe Hands. But their meaning depends on the task. A smooth trajectory might indicate a successful demonstration in one setting and a stalled robot in another.<p>HFlow writes measurements, metadata, version stamps, and artifact locations to an append-only Parquet catalog. Teams query it with DuckDB SQL and produce a version-pinned manifest without opening the recordings again. Critical checks can quarantine an episode, but HFlow does not delete data. This separates the evidence from the policy used to assemble a particular dataset.<p>We did not want to replace the tools robotics teams already use. HFlow connects MCAP for synchronized recordings, Airflow for scheduled execution, Parquet for catalog data, and DuckDB for curation. Compared with a general workflow orchestrator, it adds contracts for robotics episodes, processing provenance, quality evidence, quarantine, and dataset manifests. Compared with a training dataset format, it operates earlier and stops at curated episodes plus a manifest.<p>Here are three examples of teams that would use HFlow:\n1. A data vendor or marketplace collecting egocentric recordings. They could use HFlow to detect black or frozen video, duplicate recordings, hand-object interaction, and other quality metrics before delivering the data, while retaining evidence of which checks ran on every episode.\n2. A robotics team collecting teleoperated demonstrations for its own models. They could use HFlow to standardize recordings, add labels and enrichments, and produce a reproducible training manifest.\n3. A team operating robots in the field. It could process incoming logs, quarantine incomplete or corrupted episodes, and query the catalog for particular robot versions, environments, or failure conditions.<p>The project is pre-v1, but the core lifecycle works end to end. You can try it without an account, Docker, or robot hardware by cloning the repository and following the quickstart.<p>HFlow is free under the Apache-2.0 license. The open source deployment is currently a single-tenant workspace, and we have not built the hosted, multi-tenant control plane yet. We are considering making money through managed workspaces and enterprise support for teams that do not want to operate the runtime themselves.<p>Because this processing layer is software and data, people can contribute without owning a robot. We would especially like feedback from people who have built pipelines for robotics, video, or other sensor-heavy systems. We are curious where our data model is wrong, which integrations are missing, and what would fail first on your workloads.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510632\">https://news.ycombinator.com/item?id=49510632</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
-    "published": "2026-08-31T15:02:41",
+    "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+    "link": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype\">https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49521315\">https://news.ycombinator.com/item?id=49521315</a></p>\n<p>Points: 48</p>\n<p># Comments: 25</p>",
+    "published": "2026-09-01T12:53:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Agentic Trust Controls",
-    "link": "https://trustcontrols.ai/",
-    "summary": "<p>Article URL: <a href=\"https://trustcontrols.ai/\">https://trustcontrols.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510612\">https://news.ycombinator.com/item?id=49510612</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
-    "published": "2026-08-31T15:01:04",
+    "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+    "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ankidroid/Anki-Android/issues/21656\">https://github.com/ankidroid/Anki-Android/issues/21656</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49520022\">https://news.ycombinator.com/item?id=49520022</a></p>\n<p>Points: 345</p>\n<p># Comments: 72</p>",
+    "published": "2026-09-01T10:11:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
-    "link": "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
-    "summary": "<p>Article URL: <a href=\"https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/\">https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510540\">https://news.ycombinator.com/item?id=49510540</a></p>\n<p>Points: 54</p>\n<p># Comments: 10</p>",
-    "published": "2026-08-31T14:54:20",
+    "title": "44% on ARC-AGI-1 in 67 cents",
+    "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "summary": "<p>Article URL: <a href=\"https://mvakde.github.io/blog/44-on-arc-1/\">https://mvakde.github.io/blog/44-on-arc-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519939\">https://news.ycombinator.com/item?id=49519939</a></p>\n<p>Points: 152</p>\n<p># Comments: 39</p>",
+    "published": "2026-09-01T09:52:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Doubling of Kobo's U.S. sales in both 2025 and 2026, 70% US female customer base",
-    "link": "https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/",
-    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/\">https://www.reddit.com/r/kobo/comments/1w20azv/the_doubling_of_kobos_us_sales_in_both_2025_and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510532\">https://news.ycombinator.com/item?id=49510532</a></p>\n<p>Points: 47</p>\n<p># Comments: 33</p>",
-    "published": "2026-08-31T14:53:34",
+    "title": "NASA: Fill in a name, and you can have an exclusive coordinate in the universe",
+    "link": "https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/",
+    "summary": "<p>Article URL: <a href=\"https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/\">https://science.nasa.gov/mission/roman-space-telescope/adopt-a-pixel/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49519902\">https://news.ycombinator.com/item?id=49519902</a></p>\n<p>Points: 48</p>\n<p># Comments: 43</p>",
+    "published": "2026-09-01T09:46:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "John Ternus Replaces Tim Cook as Apple CEO",
+    "link": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+    "summary": "Big technology and management changes are greeting John Ternus, whose long-serving predecessor, Tim Cook, will stay on as executive chair.",
+    "published": "2026-09-01T09:01:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer\">https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49518877\">https://news.ycombinator.com/item?id=49518877</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-09-01T07:01:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Restroom Archive",
+    "link": "https://restroomarchive.com",
+    "summary": "<p>Article URL: <a href=\"https://restroomarchive.com\">https://restroomarchive.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517624\">https://news.ycombinator.com/item?id=49517624</a></p>\n<p>Points: 194</p>\n<p># Comments: 47</p>",
+    "published": "2026-09-01T03:23:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPU World",
+    "link": "https://www.gpuworld.org/",
+    "summary": "<p>Article URL: <a href=\"https://www.gpuworld.org/\">https://www.gpuworld.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517584\">https://news.ycombinator.com/item?id=49517584</a></p>\n<p>Points: 302</p>\n<p># Comments: 177</p>",
+    "published": "2026-09-01T03:16:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fastpotify",
+    "link": "https://fastpotify.rocks/",
+    "summary": "<p>Article URL: <a href=\"https://fastpotify.rocks/\">https://fastpotify.rocks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517448\">https://news.ycombinator.com/item?id=49517448</a></p>\n<p>Points: 567</p>\n<p># Comments: 336</p>",
+    "published": "2026-09-01T02:52:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+    "link": "https://github.com/fregacmols/RotaryCell",
+    "summary": "<p>Article URL: <a href=\"https://github.com/fregacmols/RotaryCell\">https://github.com/fregacmols/RotaryCell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49517297\">https://news.ycombinator.com/item?id=49517297</a></p>\n<p>Points: 104</p>\n<p># Comments: 20</p>",
+    "published": "2026-09-01T02:29:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Evidence of Fraud in an Influential Study About Procrastination",
+    "link": "https://datacolada.org/138",
+    "summary": "<p>Article URL: <a href=\"https://datacolada.org/138\">https://datacolada.org/138</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516199\">https://news.ycombinator.com/item?id=49516199</a></p>\n<p>Points: 292</p>\n<p># Comments: 203</p>",
+    "published": "2026-08-31T23:45:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tmp.0ut Volume 5",
+    "link": "https://tmpout.sh/5/",
+    "summary": "<p>Article URL: <a href=\"https://tmpout.sh/5/\">https://tmpout.sh/5/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49516059\">https://news.ycombinator.com/item?id=49516059</a></p>\n<p>Points: 124</p>\n<p># Comments: 28</p>",
+    "published": "2026-08-31T23:26:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FTC and 22 States Sue Amazon Over Advertising Practices",
+    "link": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+    "summary": "Regulators say the e-commerce giant forced more than a million advertisers to pay more than they should have. The company denies the claims.",
+    "published": "2026-08-31T22:26:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+    "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+    "summary": "<p><i>ASCII City: Traffic and Detail Update</i> - <a href=\"https://www.youtube.com/watch?v=DSRooHo_HSI\" rel=\"nofollow\">https://www.youtube.com/watch?v=DSRooHo_HSI</a><p><i>ASCII City Update: Interiors, Elevation and Skyscrapers</i> - <a href=\"https://www.youtube.com/watch?v=UCKEDWowc0o\" rel=\"nofollow\">https://www.youtube.com/watch?v=UCKEDWowc0o</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49512975\">https://news.ycombinator.com/item?id=49512975</a></p>\n<p>Points: 355</p>\n<p># Comments: 51</p>",
+    "published": "2026-08-31T18:21:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "summary": "<p>Article URL: <a href=\"https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\">https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49511856\">https://news.ycombinator.com/item?id=49511856</a></p>\n<p>Points: 543</p>\n<p># Comments: 143</p>",
+    "published": "2026-08-31T16:47:11",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Playa Phone",
     "link": "https://playaphone.com/",
-    "summary": "<p>Article URL: <a href=\"https://playaphone.com/\">https://playaphone.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510514\">https://news.ycombinator.com/item?id=49510514</a></p>\n<p>Points: 130</p>\n<p># Comments: 45</p>",
+    "summary": "<p>Article URL: <a href=\"https://playaphone.com/\">https://playaphone.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510514\">https://news.ycombinator.com/item?id=49510514</a></p>\n<p>Points: 675</p>\n<p># Comments: 215</p>",
     "published": "2026-08-31T14:52:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "C++26: Standard Library Hardening Experiments",
-    "link": "https://www.cppstories.com/2026/hardening-experiments/",
-    "summary": "<p>Article URL: <a href=\"https://www.cppstories.com/2026/hardening-experiments/\">https://www.cppstories.com/2026/hardening-experiments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510511\">https://news.ycombinator.com/item?id=49510511</a></p>\n<p>Points: 30</p>\n<p># Comments: 18</p>",
-    "published": "2026-08-31T14:52:24",
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\">https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508982\">https://news.ycombinator.com/item?id=49508982</a></p>\n<p>Points: 442</p>\n<p># Comments: 500</p>",
+    "published": "2026-08-31T12:41:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Culture Clash",
-    "link": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-    "summary": "<p>Article URL: <a href=\"https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash\">https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510489\">https://news.ycombinator.com/item?id=49510489</a></p>\n<p>Points: 25</p>\n<p># Comments: 6</p>",
-    "published": "2026-08-31T14:50:24",
+    "title": "Roget's Thesaurus",
+    "link": "https://artflsrv04.uchicago.edu/roget-thesaurus/",
+    "summary": "<p>Article URL: <a href=\"https://artflsrv04.uchicago.edu/roget-thesaurus/\">https://artflsrv04.uchicago.edu/roget-thesaurus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49505584\">https://news.ycombinator.com/item?id=49505584</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
+    "published": "2026-08-31T04:29:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "My Experience Has Nuance, Yours Is a Data Point",
-    "link": "https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/",
-    "summary": "<p>Article URL: <a href=\"https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/\">https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510320\">https://news.ycombinator.com/item?id=49510320</a></p>\n<p>Points: 34</p>\n<p># Comments: 18</p>",
-    "published": "2026-08-31T14:37:28",
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=OOMx2BHHWtE\">https://www.youtube.com/watch?v=OOMx2BHHWtE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49503521\">https://news.ycombinator.com/item?id=49503521</a></p>\n<p>Points: 491</p>\n<p># Comments: 68</p>",
+    "published": "2026-08-30T22:37:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Marx, Keynes, and A.I",
-    "link": "https://www.unpopularfront.news/p/marx-keynes-and-ai",
-    "summary": "<p>Article URL: <a href=\"https://www.unpopularfront.news/p/marx-keynes-and-ai\">https://www.unpopularfront.news/p/marx-keynes-and-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510302\">https://news.ycombinator.com/item?id=49510302</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-    "published": "2026-08-31T14:36:03",
+    "title": "Cheap GPS jammers are filling the world with navigation dead zones",
+    "link": "https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261",
+    "summary": "<p><a href=\"https://archive.is/zUA3D\" rel=\"nofollow\">https://archive.is/zUA3D</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49500504\">https://news.ycombinator.com/item?id=49500504</a></p>\n<p>Points: 171</p>\n<p># Comments: 171</p>",
+    "published": "2026-08-30T17:05:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "ChatGPT Work Tool and Skill Reference",
-    "link": "https://codex-tool-reference.simonw.chatgpt.site/",
-    "summary": "<p>Article URL: <a href=\"https://codex-tool-reference.simonw.chatgpt.site/\">https://codex-tool-reference.simonw.chatgpt.site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49510000\">https://news.ycombinator.com/item?id=49510000</a></p>\n<p>Points: 82</p>\n<p># Comments: 40</p>",
-    "published": "2026-08-31T14:07:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Linux server management over SSH – written in Rust and Tauri",
-    "link": "https://serverbox.stupidlabs.lol/",
-    "summary": "<p>Article URL: <a href=\"https://serverbox.stupidlabs.lol/\">https://serverbox.stupidlabs.lol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49509679\">https://news.ycombinator.com/item?id=49509679</a></p>\n<p>Points: 34</p>\n<p># Comments: 25</p>",
-    "published": "2026-08-31T13:39:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Agent Memory as a File Format",
-    "link": "https://calpaterson.com/memoryfields.html",
-    "summary": "<p>Article URL: <a href=\"https://calpaterson.com/memoryfields.html\">https://calpaterson.com/memoryfields.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508317\">https://news.ycombinator.com/item?id=49508317</a></p>\n<p>Points: 110</p>\n<p># Comments: 56</p>",
-    "published": "2026-08-31T11:17:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Malleable software = solid bases and custom code",
-    "link": "https://www.mdubakov.me/malleable-software-solid-bases-custom-code/",
-    "summary": "<p>Article URL: <a href=\"https://www.mdubakov.me/malleable-software-solid-bases-custom-code/\">https://www.mdubakov.me/malleable-software-solid-bases-custom-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49508059\">https://news.ycombinator.com/item?id=49508059</a></p>\n<p>Points: 63</p>\n<p># Comments: 21</p>",
-    "published": "2026-08-31T10:36:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-    "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-    "summary": "<p>Article URL: <a href=\"https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/\">https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507822\">https://news.ycombinator.com/item?id=49507822</a></p>\n<p>Points: 396</p>\n<p># Comments: 91</p>",
-    "published": "2026-08-31T09:59:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "State of the Map 2026: OpenStreetMap conference",
-    "link": "https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/",
-    "summary": "<p>Article URL: <a href=\"https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/\">https://povesham.wordpress.com/2026/08/30/state-of-the-map-2026-openstreetmap-conference/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507280\">https://news.ycombinator.com/item?id=49507280</a></p>\n<p>Points: 47</p>\n<p># Comments: 3</p>",
-    "published": "2026-08-31T08:57:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-    "link": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-    "summary": "<p>Article URL: <a href=\"https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/\">https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49507121\">https://news.ycombinator.com/item?id=49507121</a></p>\n<p>Points: 63</p>\n<p># Comments: 39</p>",
-    "published": "2026-08-31T08:33:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ReactOS 0.4.16",
-    "link": "https://reactos.org/project-news/reactos-0416-released/",
-    "summary": "<p>Article URL: <a href=\"https://reactos.org/project-news/reactos-0416-released/\">https://reactos.org/project-news/reactos-0416-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506978\">https://news.ycombinator.com/item?id=49506978</a></p>\n<p>Points: 111</p>\n<p># Comments: 28</p>",
-    "published": "2026-08-31T08:13:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "summary": "<p>Article URL: <a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506819\">https://news.ycombinator.com/item?id=49506819</a></p>\n<p>Points: 271</p>\n<p># Comments: 87</p>",
-    "published": "2026-08-31T07:49:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-    "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/\">https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49506182\">https://news.ycombinator.com/item?id=49506182</a></p>\n<p>Points: 312</p>\n<p># Comments: 58</p>",
-    "published": "2026-08-31T06:10:44",
+    "title": "Smartphone LED detects hidden cameras with AI",
+    "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "summary": "<p>Article URL: <a href=\"https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/\">https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49496292\">https://news.ycombinator.com/item?id=49496292</a></p>\n<p>Points: 241</p>\n<p># Comments: 70</p>",
+    "published": "2026-08-30T06:52:04",
     "source": "Hacker News: Front Page"
   },
   {
@@ -294,13 +308,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
-    "link": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-    "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
-    "published": "2026-08-25T21:59:39",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
     "link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
     "summary": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
@@ -312,13 +319,6 @@
     "link": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
     "summary": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.",
     "published": "2026-08-25T16:45:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
-    "link": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
-    "summary": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
-    "published": "2026-08-24T19:34:57",
     "source": "NYT > Technology"
   }
 ]
