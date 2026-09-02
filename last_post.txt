@@ -1,1 +1,1 @@
-Please stop calling databases CP or AP (2015) https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+It's OK to hardcode feature flags (2025) https://code.mendhak.com/hardcode-feature-flags/
