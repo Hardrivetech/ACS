@@ -1,16 +1,219 @@
 [
   {
-    "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-    "link": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer\">https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563415\">https://news.ycombinator.com/item?id=49563415</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-09-04T12:01:07",
+    "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+    "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+    "summary": "<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575034\">https://news.ycombinator.com/item?id=49575034</a></p>\n<p>Points: 56</p>\n<p># Comments: 47</p>",
+    "published": "2026-09-05T10:14:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Discovery of a new OpenAI agent message board",
-    "link": "https://collusion.wiki/",
-    "summary": "<p>Article URL: <a href=\"https://collusion.wiki/\">https://collusion.wiki/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563355\">https://news.ycombinator.com/item?id=49563355</a></p>\n<p>Points: 65</p>\n<p># Comments: 9</p>",
-    "published": "2026-09-04T11:54:53",
+    "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+    "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+    "summary": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.",
+    "published": "2026-09-05T09:03:10",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+    "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+    "summary": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline.",
+    "published": "2026-09-05T09:02:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Generation That’s Never Had to Say ‘Hello?’",
+    "link": "https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html",
+    "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
+    "published": "2026-09-05T09:00:06",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "AI handles incidents, engineers lose touch with their systems",
+    "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+    "summary": "<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 188</p>\n<p># Comments: 169</p>",
+    "published": "2026-09-05T07:52:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+    "link": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+    "summary": "<p>Article URL: <a href=\"https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation\">https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49572875\">https://news.ycombinator.com/item?id=49572875</a></p>\n<p>Points: 61</p>\n<p># Comments: 46</p>",
+    "published": "2026-09-05T03:38:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
+    "link": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
+    "summary": "Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.",
+    "published": "2026-09-05T00:18:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nitter has more working instances than before the takedowns",
+    "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+    "summary": "<p>Article URL: <a href=\"https://codeberg.org/mv12star/shitter/wiki/Instances\">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571634\">https://news.ycombinator.com/item?id=49571634</a></p>\n<p>Points: 298</p>\n<p># Comments: 114</p>",
+    "published": "2026-09-05T00:04:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Artificial Analysis Intelligence Index v4.2",
+    "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571632\">https://news.ycombinator.com/item?id=49571632</a></p>\n<p>Points: 126</p>\n<p># Comments: 48</p>",
+    "published": "2026-09-05T00:04:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+    "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+    "summary": "<p>Article URL: <a href=\"https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571465\">https://news.ycombinator.com/item?id=49571465</a></p>\n<p>Points: 158</p>\n<p># Comments: 70</p>",
+    "published": "2026-09-04T23:38:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Can guitar frets perform multiplication?",
+    "link": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+    "summary": "<p>Article URL: <a href=\"https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html\">https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571047\">https://news.ycombinator.com/item?id=49571047</a></p>\n<p>Points: 97</p>\n<p># Comments: 21</p>",
+    "published": "2026-09-04T22:40:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+    "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+    "summary": "<p>Article URL: <a href=\"https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570772\">https://news.ycombinator.com/item?id=49570772</a></p>\n<p>Points: 472</p>\n<p># Comments: 365</p>",
+    "published": "2026-09-04T22:03:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Actively exploited sandbox RCE in all Chromium versions",
+    "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+    "summary": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 553</p>\n<p># Comments: 294</p>",
+    "published": "2026-09-04T21:52:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT-6 Astra on OpenRouter",
+    "link": "https://openrouter.ai/openai/gpt-6-astra",
+    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-6-astra\">https://openrouter.ai/openai/gpt-6-astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570545\">https://news.ycombinator.com/item?id=49570545</a></p>\n<p>Points: 240</p>\n<p># Comments: 152</p>",
+    "published": "2026-09-04T21:39:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
+    "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
+    "summary": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
+    "published": "2026-09-04T21:23:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses",
+    "link": "https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html",
+    "summary": "The blog Krebs on Security reported on an identity theft service trying to sell scans of licenses and other documents belonging to people in Canada and the United States.",
+    "published": "2026-09-04T21:11:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Statichost.eu – European static site hosting",
+    "link": "https://www.statichost.eu/",
+    "summary": "<p>Article URL: <a href=\"https://www.statichost.eu/\">https://www.statichost.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569896\">https://news.ycombinator.com/item?id=49569896</a></p>\n<p>Points: 321</p>\n<p># Comments: 137</p>",
+    "published": "2026-09-04T20:34:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An open DNS recursive service for free security and high privacy",
+    "link": "https://quad9.net/",
+    "summary": "<p>Article URL: <a href=\"https://quad9.net/\">https://quad9.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569663\">https://news.ycombinator.com/item?id=49569663</a></p>\n<p>Points: 100</p>\n<p># Comments: 29</p>",
+    "published": "2026-09-04T20:13:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Can AI design circuit boards yet?",
+    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "summary": "<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 280</p>\n<p># Comments: 167</p>",
+    "published": "2026-09-04T19:48:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "summary": "<p>Article URL: <a href=\"https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/\">https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568828\">https://news.ycombinator.com/item?id=49568828</a></p>\n<p>Points: 98</p>\n<p># Comments: 31</p>",
+    "published": "2026-09-04T19:06:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fermat's Last Theorem in Lean 4",
+    "link": "https://github.com/anthropics/fermats-last-theorem",
+    "summary": "<p>Article URL: <a href=\"https://github.com/anthropics/fermats-last-theorem\">https://github.com/anthropics/fermats-last-theorem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568697\">https://news.ycombinator.com/item?id=49568697</a></p>\n<p>Points: 120</p>\n<p># Comments: 21</p>",
+    "published": "2026-09-04T18:57:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Shutting down our public encrypted DNS",
+    "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+    "summary": "<p>Article URL: <a href=\"https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568579\">https://news.ycombinator.com/item?id=49568579</a></p>\n<p>Points: 367</p>\n<p># Comments: 164</p>",
+    "published": "2026-09-04T18:50:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Formalizing Fermat's Last Theorem",
+    "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "summary": "<p><a href=\"https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/\" rel=\"nofollow\">https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568506\">https://news.ycombinator.com/item?id=49568506</a></p>\n<p>Points: 634</p>\n<p># Comments: 396</p>",
+    "published": "2026-09-04T18:42:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+    "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+    "summary": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.",
+    "published": "2026-09-04T18:07:14",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The Rust React Compiler is now native in Vite",
+    "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+    "summary": "<p>Article URL: <a href=\"https://blog.master.dev/react-now-rusted-all-the-way-out/\">https://blog.master.dev/react-now-rusted-all-the-way-out/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567873\">https://news.ycombinator.com/item?id=49567873</a></p>\n<p>Points: 149</p>\n<p># Comments: 38</p>",
+    "published": "2026-09-04T17:49:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI",
+    "link": "https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html",
+    "summary": "The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.",
+    "published": "2026-09-04T17:19:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "link": "https://opentrailpaper.com",
+    "summary": "<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https://github.com/RaemondBW/esp32-ant\" rel=\"nofollow\">https://github.com/RaemondBW/esp32-ant</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567437\">https://news.ycombinator.com/item?id=49567437</a></p>\n<p>Points: 300</p>\n<p># Comments: 103</p>",
+    "published": "2026-09-04T17:18:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+    "summary": "The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.",
+    "published": "2026-09-04T16:12:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+    "summary": "Researchers investigating how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure weren’t allowed to look at the incident’s full scope.",
+    "published": "2026-09-04T15:15:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
+    "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+    "summary": "Companies like AT&amp;T are increasingly using cheap, freely available artificial intelligence models over expensive ones from Anthropic and OpenAI.",
+    "published": "2026-09-04T14:55:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "IBM Bob",
+    "link": "https://bob.ibm.com/",
+    "summary": "<p>Article URL: <a href=\"https://bob.ibm.com/\">https://bob.ibm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563851\">https://news.ycombinator.com/item?id=49563851</a></p>\n<p>Points: 282</p>\n<p># Comments: 295</p>",
+    "published": "2026-09-04T12:50:29",
     "source": "Hacker News: Front Page"
   },
   {
@@ -21,90 +224,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "O&O ShutUp10 – The antispy tool for Windows 10 and 11",
-    "link": "https://www.oo-software.com/en/shutup10",
-    "summary": "<p>Article URL: <a href=\"https://www.oo-software.com/en/shutup10\">https://www.oo-software.com/en/shutup10</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562895\">https://news.ycombinator.com/item?id=49562895</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-    "published": "2026-09-04T10:56:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "US diesel prices hit a record high of $5.85 on average",
-    "link": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87\">https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562814\">https://news.ycombinator.com/item?id=49562814</a></p>\n<p>Points: 29</p>\n<p># Comments: 26</p>",
-    "published": "2026-09-04T10:42:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Solving the Jane Street Reverse Engineering Challenge",
-    "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-    "summary": "<p>Article URL: <a href=\"https://jestoph.com/2026/09/04/jane-street-challenge.html\">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562657\">https://news.ycombinator.com/item?id=49562657</a></p>\n<p>Points: 119</p>\n<p># Comments: 41</p>",
-    "published": "2026-09-04T10:17:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-    "link": "https://carbonawarepricing.com/",
-    "summary": "<p>Article URL: <a href=\"https://carbonawarepricing.com/\">https://carbonawarepricing.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561975\">https://news.ycombinator.com/item?id=49561975</a></p>\n<p>Points: 60</p>\n<p># Comments: 36</p>",
-    "published": "2026-09-04T08:19:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-    "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-    "summary": "<p>Article URL: <a href=\"http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561320\">https://news.ycombinator.com/item?id=49561320</a></p>\n<p>Points: 261</p>\n<p># Comments: 99</p>",
-    "published": "2026-09-04T06:47:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
-    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
-    "summary": "A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope.",
-    "published": "2026-09-04T03:00:16",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "From Hookswitch to Grave",
-    "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
-    "summary": "<p>Article URL: <a href=\"https://computer.rip/2026-06-14-hookswitch-to-grave.html\">https://computer.rip/2026-06-14-hookswitch-to-grave.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559901\">https://news.ycombinator.com/item?id=49559901</a></p>\n<p>Points: 34</p>\n<p># Comments: 2</p>",
-    "published": "2026-09-04T02:40:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Project Xanadu: Even More Hindsight (2025)",
-    "link": "https://gwern.net/xanadu",
-    "summary": "<p>Article URL: <a href=\"https://gwern.net/xanadu\">https://gwern.net/xanadu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49559522\">https://news.ycombinator.com/item?id=49559522</a></p>\n<p>Points: 93</p>\n<p># Comments: 25</p>",
-    "published": "2026-09-04T01:45:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-    "summary": "The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.",
-    "published": "2026-09-04T00:06:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-    "link": "https://armature.tech/blog/which-tools-coding-agents-install",
-    "summary": "<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 241</p>\n<p># Comments: 112</p>",
-    "published": "2026-09-03T21:20:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Which Investors Will Get Rich From Anthropic’s IPO?",
-    "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
-    "summary": "When Anthropic goes public in a blockbuster offering, which investors will profit? The answer says a lot about how much start-up investing has changed over the years.",
-    "published": "2026-09-03T18:52:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "GPT-6 Astra",
-    "link": "https://openai.com/index/gpt-6-astra/",
-    "summary": "<p>System Card: <a href=\"https://deploymentsafety.openai.com/gpt-6-astra\" rel=\"nofollow\">https://deploymentsafety.openai.com/gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI's GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https://news.ycombinator.com/item?id=49555691\">https://news.ycombinator.com/item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https://news.ycombinator.com/item?id=49556147\">https://news.ycombinator.com/item?id=49556147</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554643\">https://news.ycombinator.com/item?id=49554643</a></p>\n<p>Points: 1904</p>\n<p># Comments: 1722</p>",
-    "published": "2026-09-03T18:41:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
     "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
     "summary": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
@@ -112,81 +231,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "link": "https://inference-docs.cerebras.ai/models/overview",
-    "summary": "<p>Article URL: <a href=\"https://inference-docs.cerebras.ai/models/overview\">https://inference-docs.cerebras.ai/models/overview</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49554520\">https://news.ycombinator.com/item?id=49554520</a></p>\n<p>Points: 597</p>\n<p># Comments: 199</p>",
-    "published": "2026-09-03T18:32:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
     "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
     "summary": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
     "published": "2026-09-03T18:29:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-    "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-    "summary": "<p>Article URL: <a href=\"https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california\">https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49552572\">https://news.ycombinator.com/item?id=49552572</a></p>\n<p>Points: 288</p>\n<p># Comments: 93</p>",
-    "published": "2026-09-03T16:21:33",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "K2 Horizon: A connected fleet of six open models",
-    "link": "https://ifm.ai/blog/k2/",
-    "summary": "<p>Article URL: <a href=\"https://ifm.ai/blog/k2/\">https://ifm.ai/blog/k2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49551760\">https://news.ycombinator.com/item?id=49551760</a></p>\n<p>Points: 307</p>\n<p># Comments: 109</p>",
-    "published": "2026-09-03T15:36:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
-    "link": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
-    "summary": "After finding antitrust violations, federal courts have been reluctant to impose harsh sanctions. They fear meddling in markets where technology is racing ahead.",
-    "published": "2026-09-03T15:04:40",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": ".name Termination",
-    "link": "https://neil.fraser.name/news/2026/09/03/",
-    "summary": "<p>Article URL: <a href=\"https://neil.fraser.name/news/2026/09/03/\">https://neil.fraser.name/news/2026/09/03/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550772\">https://news.ycombinator.com/item?id=49550772</a></p>\n<p>Points: 1950</p>\n<p># Comments: 485</p>",
-    "published": "2026-09-03T14:54:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-    "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-    "summary": "<p>These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never verified myself is the 108-byte explanation.<p>\"Before starting everything, the model assembled the code using vasm on my Mac, and kept going till the binary is byte-identical to the binaries I had in my original game. Even after that, the there was mismatch of about 108 bytes. I originally used AsmOne  which assembles into memory, and the game saved into the disk by saving that memory after running the game. So the original shipped files are a snapshot of the game that had already been running, not clean asm-one output.\"<p>Please post any questions. I am also releasing the original game for free.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550375\">https://news.ycombinator.com/item?id=49550375</a></p>\n<p>Points: 315</p>\n<p># Comments: 102</p>",
-    "published": "2026-09-03T14:28:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Reactor Atlas",
-    "link": "https://reactoratlas.com",
-    "summary": "<p>Hi HN, I'm a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com, a software company providing blockchain solutions for startups. Rather Labs business reached ~6 million usd in annual revenue in 2024; now demand is decreasing as our niche clients are using AI to launch their MVPs.<p>Now I'm joining my scientific background with my entrepreneurial inclinations to think of problems related to the energy industry. Nuclear is experiencing a renaissance now (it was in a dark age when I was studying after the Fukushima event) so I think this is the right moment for me to jump again into the field.<p>Reactor atlas is an interactive nuclear reactor map and an intelligence layer on top of it. The basic layer indexes:<p><pre><code>  - power reactors\n  - research reactors\n  - fuel facilities\n</code></pre>\nwith their history and projection, by country. The project is solving a fragmented information ecosystem, where operational and commercial data is hard to conciliate. Also, I'm monitoring nuclear news associated with each of the facilities, political declarations that may affect the nuclear landscape and geo-phisical news (like earthquakes) that could affect operation. On top of the operational + news layer, I'm creating an intelligence layer that will help institutions of different types make faster decisions by subscribing to very specific alerts.<p>As an engineer, I used to code in fortran and c++ when I was working at CNEA, and later I participated in the first Rather Labs projects architecting complex async systems, mostly using MERN stack. I'm no longer coding anymore. I'm focused on designing robust systems with AI agents.<p>I mainly used Claude Fable 5.1 to develop reactoratlas.com, deploying on vercel and using mostly nextjs, threejs, postgreSQL and some cron jobs to query and update data. I miss coding as in the old days, but I haven't code a single line in this project. And I strongly believe we humans shouldn't code anymore: our responsibility is now on designing and supervising AI systems.<p>Thanks for your attention!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49549148\">https://news.ycombinator.com/item?id=49549148</a></p>\n<p>Points: 39</p>\n<p># Comments: 16</p>",
-    "published": "2026-09-03T12:33:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Who is using MCP in production?",
-    "link": "https://news.ycombinator.com/item?id=49548600",
-    "summary": "<p>I’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.<p>If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct tool integration or just CLI?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49548600\">https://news.ycombinator.com/item?id=49548600</a></p>\n<p>Points: 95</p>\n<p># Comments: 120</p>",
-    "published": "2026-09-03T11:21:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-    "summary": "<p>Article URL: <a href=\"https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007\">https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49544762\">https://news.ycombinator.com/item?id=49544762</a></p>\n<p>Points: 362</p>\n<p># Comments: 139</p>",
-    "published": "2026-09-03T01:11:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPS glitched across the US by as much as 33 feet",
-    "link": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-    "summary": "<p>Article URL: <a href=\"https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before\">https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49544618\">https://news.ycombinator.com/item?id=49544618</a></p>\n<p>Points: 193</p>\n<p># Comments: 117</p>",
-    "published": "2026-09-03T00:49:07",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
@@ -224,13 +273,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Social Media and the Myth of the Big Tobacco Moment",
-    "link": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
-    "summary": "Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.",
-    "published": "2026-09-02T04:27:25",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
     "link": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
     "summary": "Initial results showed that residents of Independence, Mo., voted overwhelmingly to recall an official who backed billions of dollars in tax breaks for a data center.",
@@ -256,34 +298,6 @@
     "link": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
     "summary": "Regulators say the e-commerce giant forced more than a million advertisers to pay more than they should have. The company denies the claims.",
     "published": "2026-08-31T22:26:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
-    "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
-    "summary": "Their videos have proliferated on social media, but the payments are frequently hidden from viewers.",
-    "published": "2026-08-29T23:14:33",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Meta’s $17.1 Billion Social Media Settlement Came Together",
-    "link": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
-    "summary": "State attorneys general spent months in negotiations. Then, as its legal losses mounted, the social media giant’s new top lawyer brought a huge settlement to the table.",
-    "published": "2026-08-29T11:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
-    "link": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
-    "summary": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court.",
-    "published": "2026-08-28T23:15:45",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Countries Are Pushing Social Media Bans Despite Their Flaws",
-    "link": "https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html",
-    "summary": "Proposals for curbing social media use among children have wide support, but critics say they are ineffective.",
-    "published": "2026-08-28T13:46:28",
     "source": "NYT > Technology"
   }
 ]

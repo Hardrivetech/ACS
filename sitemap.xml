@@ -1,115 +1,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-09-04</lastmod>
+    <lastmod>2026-09-05</lastmod>
   </url>
   <url>
-    <loc>https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer</loc>
-    <lastmod>2026-09-04T12:01:07</lastmod>
+    <loc>https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</loc>
+    <lastmod>2026-09-05T10:14:28</lastmod>
   </url>
   <url>
-    <loc>https://collusion.wiki/</loc>
-    <lastmod>2026-09-04T11:54:53</lastmod>
+    <loc>https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</loc>
+    <lastmod>2026-09-05T09:03:10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html</loc>
+    <lastmod>2026-09-05T09:02:13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html</loc>
+    <lastmod>2026-09-05T09:00:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</loc>
+    <lastmod>2026-09-05T07:52:50</lastmod>
+  </url>
+  <url>
+    <loc>https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation</loc>
+    <lastmod>2026-09-05T03:38:56</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html</loc>
+    <lastmod>2026-09-05T00:18:57</lastmod>
+  </url>
+  <url>
+    <loc>https://codeberg.org/mv12star/shitter/wiki/Instances</loc>
+    <lastmod>2026-09-05T00:04:16</lastmod>
+  </url>
+  <url>
+    <loc>https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2</loc>
+    <lastmod>2026-09-05T00:04:14</lastmod>
+  </url>
+  <url>
+    <loc>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</loc>
+    <lastmod>2026-09-04T23:38:50</lastmod>
+  </url>
+  <url>
+    <loc>https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html</loc>
+    <lastmod>2026-09-04T22:40:30</lastmod>
+  </url>
+  <url>
+    <loc>https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</loc>
+    <lastmod>2026-09-04T22:03:16</lastmod>
+  </url>
+  <url>
+    <loc>https://nvd.nist.gov/vuln/detail/cve-2026-85046</loc>
+    <lastmod>2026-09-04T21:52:01</lastmod>
+  </url>
+  <url>
+    <loc>https://openrouter.ai/openai/gpt-6-astra</loc>
+    <lastmod>2026-09-04T21:39:19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html</loc>
+    <lastmod>2026-09-04T21:23:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</loc>
+    <lastmod>2026-09-04T21:11:56</lastmod>
+  </url>
+  <url>
+    <loc>https://www.statichost.eu/</loc>
+    <lastmod>2026-09-04T20:34:49</lastmod>
+  </url>
+  <url>
+    <loc>https://quad9.net/</loc>
+    <lastmod>2026-09-04T20:13:08</lastmod>
+  </url>
+  <url>
+    <loc>https://eebench.org/blog/can-ai-design-circuit-boards-yet/</loc>
+    <lastmod>2026-09-04T19:48:29</lastmod>
+  </url>
+  <url>
+    <loc>https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/</loc>
+    <lastmod>2026-09-04T19:06:39</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/anthropics/fermats-last-theorem</loc>
+    <lastmod>2026-09-04T18:57:32</lastmod>
+  </url>
+  <url>
+    <loc>https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</loc>
+    <lastmod>2026-09-04T18:50:28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.anthropic.com/research/formalizing-fermats-last-theorem</loc>
+    <lastmod>2026-09-04T18:42:56</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</loc>
+    <lastmod>2026-09-04T18:07:14</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.master.dev/react-now-rusted-all-the-way-out/</loc>
+    <lastmod>2026-09-04T17:49:09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html</loc>
+    <lastmod>2026-09-04T17:19:30</lastmod>
+  </url>
+  <url>
+    <loc>https://opentrailpaper.com</loc>
+    <lastmod>2026-09-04T17:18:08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html</loc>
+    <lastmod>2026-09-04T16:12:19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html</loc>
+    <lastmod>2026-09-04T15:15:04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</loc>
+    <lastmod>2026-09-04T14:55:38</lastmod>
+  </url>
+  <url>
+    <loc>https://bob.ibm.com/</loc>
+    <lastmod>2026-09-04T12:50:29</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html</loc>
     <lastmod>2026-09-04T11:00:03</lastmod>
   </url>
   <url>
-    <loc>https://www.oo-software.com/en/shutup10</loc>
-    <lastmod>2026-09-04T10:56:07</lastmod>
-  </url>
-  <url>
-    <loc>https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87</loc>
-    <lastmod>2026-09-04T10:42:19</lastmod>
-  </url>
-  <url>
-    <loc>https://jestoph.com/2026/09/04/jane-street-challenge.html</loc>
-    <lastmod>2026-09-04T10:17:01</lastmod>
-  </url>
-  <url>
-    <loc>https://carbonawarepricing.com/</loc>
-    <lastmod>2026-09-04T08:19:57</lastmod>
-  </url>
-  <url>
-    <loc>http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</loc>
-    <lastmod>2026-09-04T06:47:51</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html</loc>
-    <lastmod>2026-09-04T03:00:16</lastmod>
-  </url>
-  <url>
-    <loc>https://computer.rip/2026-06-14-hookswitch-to-grave.html</loc>
-    <lastmod>2026-09-04T02:40:12</lastmod>
-  </url>
-  <url>
-    <loc>https://gwern.net/xanadu</loc>
-    <lastmod>2026-09-04T01:45:23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html</loc>
-    <lastmod>2026-09-04T00:06:04</lastmod>
-  </url>
-  <url>
-    <loc>https://armature.tech/blog/which-tools-coding-agents-install</loc>
-    <lastmod>2026-09-03T21:20:34</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html</loc>
-    <lastmod>2026-09-03T18:52:12</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/gpt-6-astra/</loc>
-    <lastmod>2026-09-03T18:41:05</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html</loc>
     <lastmod>2026-09-03T18:38:58</lastmod>
   </url>
   <url>
-    <loc>https://inference-docs.cerebras.ai/models/overview</loc>
-    <lastmod>2026-09-03T18:32:13</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html</loc>
     <lastmod>2026-09-03T18:29:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california</loc>
-    <lastmod>2026-09-03T16:21:33</lastmod>
-  </url>
-  <url>
-    <loc>https://ifm.ai/blog/k2/</loc>
-    <lastmod>2026-09-03T15:36:43</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html</loc>
-    <lastmod>2026-09-03T15:04:40</lastmod>
-  </url>
-  <url>
-    <loc>https://neil.fraser.name/news/2026/09/03/</loc>
-    <lastmod>2026-09-03T14:54:39</lastmod>
-  </url>
-  <url>
-    <loc>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/</loc>
-    <lastmod>2026-09-03T14:28:18</lastmod>
-  </url>
-  <url>
-    <loc>https://reactoratlas.com</loc>
-    <lastmod>2026-09-03T12:33:01</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=49548600</loc>
-    <lastmod>2026-09-03T11:21:18</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007</loc>
-    <lastmod>2026-09-03T01:11:22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before</loc>
-    <lastmod>2026-09-03T00:49:07</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</loc>
@@ -132,10 +160,6 @@
     <lastmod>2026-09-02T09:03:10</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html</loc>
-    <lastmod>2026-09-02T04:27:25</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html</loc>
     <lastmod>2026-09-02T02:47:34</lastmod>
   </url>
@@ -150,21 +174,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html</loc>
     <lastmod>2026-08-31T22:26:37</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html</loc>
-    <lastmod>2026-08-29T23:14:33</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html</loc>
-    <lastmod>2026-08-29T11:00:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html</loc>
-    <lastmod>2026-08-28T23:15:45</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html</loc>
-    <lastmod>2026-08-28T13:46:28</lastmod>
   </url>
 </urlset>
