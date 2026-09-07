@@ -1,95 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
   </url>
   <url>
-    <loc>https://dub.uu.nl/en/column/pencil-case-model-creativity</loc>
-    <lastmod>2026-09-06T12:05:34</lastmod>
+    <loc>https://github.com/iczelia/bzip3</loc>
+    <lastmod>2026-09-07T13:35:13</lastmod>
   </url>
   <url>
-    <loc>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</loc>
-    <lastmod>2026-09-06T11:56:43</lastmod>
+    <loc>https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/</loc>
+    <lastmod>2026-09-07T13:00:48</lastmod>
   </url>
   <url>
-    <loc>https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death</loc>
-    <lastmod>2026-09-06T11:53:40</lastmod>
+    <loc>https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false</loc>
+    <lastmod>2026-09-07T12:58:57</lastmod>
   </url>
   <url>
-    <loc>https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/</loc>
-    <lastmod>2026-09-06T11:50:24</lastmod>
+    <loc>https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html</loc>
+    <lastmod>2026-09-07T12:20:03</lastmod>
   </url>
   <url>
-    <loc>https://www.theguardian.com/wellness/2026/sep/03/old-person-smell</loc>
-    <lastmod>2026-09-06T11:37:27</lastmod>
+    <loc>https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532</loc>
+    <lastmod>2026-09-07T11:46:37</lastmod>
   </url>
   <url>
-    <loc>https://4d-chess.pages.dev/</loc>
-    <lastmod>2026-09-06T11:04:07</lastmod>
+    <loc>https://news.ycombinator.com/item?id=49596976</loc>
+    <lastmod>2026-09-07T11:22:40</lastmod>
+  </url>
+  <url>
+    <loc>https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/</loc>
+    <lastmod>2026-09-07T11:01:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</loc>
+    <lastmod>2026-09-07T10:38:32</lastmod>
+  </url>
+  <url>
+    <loc>https://www.edge.org/response-detail/27238</loc>
+    <lastmod>2026-09-07T09:52:26</lastmod>
+  </url>
+  <url>
+    <loc>https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/</loc>
+    <lastmod>2026-09-07T09:33:39</lastmod>
+  </url>
+  <url>
+    <loc>https://mathathonchallenge.com/index.html</loc>
+    <lastmod>2026-09-07T09:26:53</lastmod>
+  </url>
+  <url>
+    <loc>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</loc>
+    <lastmod>2026-09-07T09:26:41</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html</loc>
+    <lastmod>2026-09-07T09:04:03</lastmod>
+  </url>
+  <url>
+    <loc>https://openbaarvervoerbelgie.be/</loc>
+    <lastmod>2026-09-07T09:02:47</lastmod>
+  </url>
+  <url>
+    <loc>https://orchidfiles.com/programming-is-art/</loc>
+    <lastmod>2026-09-07T08:05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html</loc>
+    <lastmod>2026-09-07T07:03:20</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/timgordontg/engrim</loc>
+    <lastmod>2026-09-07T04:49:36</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/</loc>
+    <lastmod>2026-09-07T03:29:51</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html</loc>
+    <lastmod>2026-09-07T02:40:54</lastmod>
+  </url>
+  <url>
+    <loc>https://gettogether.dev</loc>
+    <lastmod>2026-09-07T01:41:11</lastmod>
+  </url>
+  <url>
+    <loc>https://austinhenley.com/blog/python1024.html</loc>
+    <lastmod>2026-09-06T23:14:08</lastmod>
+  </url>
+  <url>
+    <loc>https://mbmccoy.dev/posts/mathematical-conservatory/</loc>
+    <lastmod>2026-09-06T23:02:11</lastmod>
+  </url>
+  <url>
+    <loc>https://anubis.techaro.lol/blog/2026/anubis-wasm/</loc>
+    <lastmod>2026-09-06T20:32:38</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</loc>
     <lastmod>2026-09-06T10:45:11</lastmod>
   </url>
   <url>
-    <loc>https://bergie.iki.fi/blog/eupl/</loc>
-    <lastmod>2026-09-06T10:39:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/</loc>
-    <lastmod>2026-09-06T08:31:01</lastmod>
-  </url>
-  <url>
-    <loc>https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight</loc>
-    <lastmod>2026-09-06T07:21:06</lastmod>
-  </url>
-  <url>
-    <loc>https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/</loc>
-    <lastmod>2026-09-06T02:24:57</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation</loc>
-    <lastmod>2026-09-06T02:12:46</lastmod>
-  </url>
-  <url>
-    <loc>https://cloudinabottle.org/blog/launch-post</loc>
-    <lastmod>2026-09-06T00:03:29</lastmod>
-  </url>
-  <url>
-    <loc>https://lapcatsoftware.com/articles/2026/9/1.html</loc>
-    <lastmod>2026-09-05T23:39:47</lastmod>
-  </url>
-  <url>
-    <loc>https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</loc>
-    <lastmod>2026-09-05T21:37:49</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html</loc>
     <lastmod>2026-09-05T21:11:57</lastmod>
-  </url>
-  <url>
-    <loc>https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket</loc>
-    <lastmod>2026-09-05T20:31:38</lastmod>
-  </url>
-  <url>
-    <loc>https://arxiv.org/abs/2609.03344</loc>
-    <lastmod>2026-09-05T20:02:35</lastmod>
-  </url>
-  <url>
-    <loc>https://usr.lmf.cnrs.fr/lpo/</loc>
-    <lastmod>2026-09-05T16:45:02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/05/style/gen-z-alpha-phone-greetings-etiquette.html</loc>
-    <lastmod>2026-09-05T13:39:48</lastmod>
-  </url>
-  <url>
-    <loc>https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</loc>
-    <lastmod>2026-09-05T13:36:38</lastmod>
-  </url>
-  <url>
-    <loc>https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/</loc>
-    <lastmod>2026-09-05T13:31:05</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</loc>
@@ -126,10 +138,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</loc>
     <lastmod>2026-09-04T14:55:38</lastmod>
-  </url>
-  <url>
-    <loc>https://collusion.wiki/</loc>
-    <lastmod>2026-09-04T11:54:53</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html</loc>
