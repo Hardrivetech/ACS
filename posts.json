@@ -1,37 +1,191 @@
 [
   {
-    "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
-    "link": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
-    "summary": "<p>Article URL: <a href=\"https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html\">https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608697\">https://news.ycombinator.com/item?id=49608697</a></p>\n<p>Points: 34</p>\n<p># Comments: 30</p>",
-    "published": "2026-09-08T11:13:03",
+    "title": "Teen reading slumps to worst this century due to surge in screen time",
+    "link": "https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html",
+    "summary": "<p>Article URL: <a href=\"https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html\">https://finance.yahoo.com/news/teen-reading-slumps-worst-century-111013754.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49625461\">https://news.ycombinator.com/item?id=49625461</a></p>\n<p>Points: 10</p>\n<p># Comments: 9</p>",
+    "published": "2026-09-09T12:29:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Why getting your hands dirty is good for you",
-    "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks\">https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49608023\">https://news.ycombinator.com/item?id=49608023</a></p>\n<p>Points: 86</p>\n<p># Comments: 59</p>",
-    "published": "2026-09-08T09:48:24",
+    "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+    "link": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor\">https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49625110\">https://news.ycombinator.com/item?id=49625110</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-09-09T12:01:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Antiquated HTML Snippets and Artefacts",
-    "link": "https://vale.rocks/posts/html-relics",
-    "summary": "<p>Article URL: <a href=\"https://vale.rocks/posts/html-relics\">https://vale.rocks/posts/html-relics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607991\">https://news.ycombinator.com/item?id=49607991</a></p>\n<p>Points: 98</p>\n<p># Comments: 27</p>",
-    "published": "2026-09-08T09:43:14",
+    "title": "I advertise malicious software on Google Ads",
+    "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
+    "summary": "<p>Article URL: <a href=\"https://xlii.space/eng/malicious-software-on-google-ads/\">https://xlii.space/eng/malicious-software-on-google-ads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624856\">https://news.ycombinator.com/item?id=49624856</a></p>\n<p>Points: 89</p>\n<p># Comments: 40</p>",
+    "published": "2026-09-09T11:43:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Apple to Make First Big Change to iPhones in Years",
-    "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-    "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
-    "published": "2026-09-08T09:05:12",
+    "title": "Desert Ant Labs: local, fast models that run on device",
+    "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
+    "summary": "<p>Article URL: <a href=\"https://desertant.com/blog/introducing-desert-ant-labs/\">https://desertant.com/blog/introducing-desert-ant-labs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624823\">https://news.ycombinator.com/item?id=49624823</a></p>\n<p>Points: 75</p>\n<p># Comments: 12</p>",
+    "published": "2026-09-09T11:39:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+    "link": "https://news.ycombinator.com/item?id=49624603",
+    "summary": "<p>DSeek plans to officially release the V4.1 Flash model around September 10, 2026 (Beijing Time). After extensive internal and external testing, V4.1 Flash has comprehensively surpassed V4 Pro across all key metrics, including performance, cost, speed, and task completion time. In keeping with our commitment to user responsibility, following the official launch of V4.1 Flash and prior to the release of V4.1 Pro, all requests to the Pro model will be routed to V4.1 Flash and billed at Flash's price. If you encounter any issues during your comparative testing between V4 Pro and V4.1 Flash, please do not hesitate to reach out to us with your feedback. Thank you for your support!<p>We will adjust the pricing for the Flash series effective from 12:00 Beijing Time on September 10, 2026. During off-peak hours, the unit price will be $0.003 for input cache hits, $0.15 for input cache misses, and $0.6 for output. Peak-hour prices will be double the off-peak rates. Please plan your usage accordingly.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624603\">https://news.ycombinator.com/item?id=49624603</a></p>\n<p>Points: 97</p>\n<p># Comments: 31</p>",
+    "published": "2026-09-09T11:19:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Flock Wants a Closely Surveilled World with No Exit",
+    "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+    "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit\">https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624394\">https://news.ycombinator.com/item?id=49624394</a></p>\n<p>Points: 261</p>\n<p># Comments: 211</p>",
+    "published": "2026-09-09T10:54:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How An AI math breakthrough ignited a controversy",
+    "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy\">https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49624163\">https://news.ycombinator.com/item?id=49624163</a></p>\n<p>Points: 139</p>\n<p># Comments: 127</p>",
+    "published": "2026-09-09T10:25:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Building a Wall Lamp from Scratch",
+    "link": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
+    "summary": "<p>Article URL: <a href=\"https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/\">https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623938\">https://news.ycombinator.com/item?id=49623938</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+    "published": "2026-09-09T10:01:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lotus Notes and the dangers of starting from scratch",
+    "link": "https://buttondown.com/blog/lotus-notes-email",
+    "summary": "<p>Article URL: <a href=\"https://buttondown.com/blog/lotus-notes-email\">https://buttondown.com/blog/lotus-notes-email</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623937\">https://news.ycombinator.com/item?id=49623937</a></p>\n<p>Points: 75</p>\n<p># Comments: 36</p>",
+    "published": "2026-09-09T10:01:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude, change the \"Add to Cart\" button to blue",
+    "link": "https://opusfived.dev/",
+    "summary": "<p>Article URL: <a href=\"https://opusfived.dev/\">https://opusfived.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49623754\">https://news.ycombinator.com/item?id=49623754</a></p>\n<p>Points: 33</p>\n<p># Comments: 2</p>",
+    "published": "2026-09-09T09:39:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+    "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+    "summary": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals.",
+    "published": "2026-09-09T09:03:34",
     "source": "NYT > Technology"
   },
   {
-    "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+    "title": "How Amazon’s Zoox Is Taking On Waymo in San Francisco",
+    "link": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
+    "summary": "The Amazon-owned driverless car company is a distant second to Waymo. Its pitch to riders? Wine pop-ups, festival sponsorships and a car built to be filmed.",
+    "published": "2026-09-09T09:02:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/codex-quantum-computing-experiments/\">https://openai.com/index/codex-quantum-computing-experiments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622561\">https://news.ycombinator.com/item?id=49622561</a></p>\n<p>Points: 96</p>\n<p># Comments: 77</p>",
+    "published": "2026-09-09T07:22:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "On Really Trying (2009)",
+    "link": "https://gwern.net/on-really-trying",
+    "summary": "<p>Article URL: <a href=\"https://gwern.net/on-really-trying\">https://gwern.net/on-really-trying</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49622305\">https://news.ycombinator.com/item?id=49622305</a></p>\n<p>Points: 77</p>\n<p># Comments: 45</p>",
+    "published": "2026-09-09T06:58:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "“Tweet” and the bird logo apparently enter the public domain",
+    "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+    "summary": "<p>Article URL: <a href=\"https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm\">https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49621751\">https://news.ycombinator.com/item?id=49621751</a></p>\n<p>Points: 142</p>\n<p># Comments: 86</p>",
+    "published": "2026-09-09T06:02:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Biography of Lee Holloway, the Architect of Cloudflare's Technology (Part 1)",
+    "link": "https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en",
+    "summary": "<p>Article URL: <a href=\"https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en\">https://note.com/masakazu_urabe/n/n7815f5b64fab?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49621102\">https://news.ycombinator.com/item?id=49621102</a></p>\n<p>Points: 75</p>\n<p># Comments: 19</p>",
+    "published": "2026-09-09T04:43:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
+    "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
+    "summary": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
+    "published": "2026-09-08T23:54:25",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Large language models develop novel social biases through adaptive exploration",
+    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+    "summary": "<p>Article URL: <a href=\"https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\">https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617581\">https://news.ycombinator.com/item?id=49617581</a></p>\n<p>Points: 181</p>\n<p># Comments: 96</p>",
+    "published": "2026-09-08T21:47:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How to build a printer",
+    "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "summary": "<p>Article URL: <a href=\"https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\">https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49617255\">https://news.ycombinator.com/item?id=49617255</a></p>\n<p>Points: 384</p>\n<p># Comments: 84</p>",
+    "published": "2026-09-08T21:22:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+    "link": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+    "summary": "The company’s announcement is the most dramatic sign yet that artificial intelligence is fundamentally transforming the field of higher mathematics.",
+    "published": "2026-09-08T21:02:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "link": "https://mathstodon.xyz/@tao/117237320796901560",
+    "summary": "<p>Article URL: <a href=\"https://mathstodon.xyz/@tao/117237320796901560\">https://mathstodon.xyz/@tao/117237320796901560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616968\">https://news.ycombinator.com/item?id=49616968</a></p>\n<p>Points: 402</p>\n<p># Comments: 351</p>",
+    "published": "2026-09-08T21:00:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mercury 2.5",
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+    "summary": "<p>Article URL: <a href=\"https://www.inceptionlabs.ai/blog/introducing-mercury-2-5\">https://www.inceptionlabs.ai/blog/introducing-mercury-2-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49616354\">https://news.ycombinator.com/item?id=49616354</a></p>\n<p>Points: 217</p>\n<p># Comments: 39</p>",
+    "published": "2026-09-08T20:14:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Muse – Meta’s personal AI agent",
+    "link": "https://ai.meta.com/muse/",
+    "summary": "<p>Article URL: <a href=\"https://ai.meta.com/muse/\">https://ai.meta.com/muse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49615537\">https://news.ycombinator.com/item?id=49615537</a></p>\n<p>Points: 558</p>\n<p># Comments: 614</p>",
+    "published": "2026-09-08T19:25:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+    "link": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
+    "summary": "Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
+    "published": "2026-09-08T19:00:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "link": "https://openai.com/index/navier-stokes-solution/",
+    "summary": "<p>Further discussion:<p><a href=\"https://simonwillison.net/2026/Sep/8/on-navier-stokes/\" rel=\"nofollow\">https://simonwillison.net/2026/Sep/8/on-navier-stokes/</a>, <a href=\"https://news.ycombinator.com/item?id=49621697\">https://news.ycombinator.com/item?id=49621697</a><p><a href=\"https://twitter.com/sama/status/2097385167002415140\" rel=\"nofollow\">https://twitter.com/sama/status/2097385167002415140</a>, <a href=\"https://xcancel.com/sama/status/2097385167002415140\" rel=\"nofollow\">https://xcancel.com/sama/status/2097385167002415140</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49613262\">https://news.ycombinator.com/item?id=49613262</a></p>\n<p>Points: 1287</p>\n<p># Comments: 1039</p>",
+    "published": "2026-09-08T17:13:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
     "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-    "summary": "The attack, discovered by A.I. researchers, could have compromised hundreds of millions of devices within hours, experts said.",
-    "published": "2026-09-08T09:05:09",
+    "summary": "An attack discovered by A.I. researchers could have compromised hundreds of millions of devices within hours, experts said.",
+    "published": "2026-09-08T16:50:25",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
+    "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+    "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
+    "published": "2026-09-08T16:03:26",
     "source": "NYT > Technology"
   },
   {
@@ -42,55 +196,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-    "link": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-    "summary": "<p>Article URL: <a href=\"https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten\">https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49607443\">https://news.ycombinator.com/item?id=49607443</a></p>\n<p>Points: 230</p>\n<p># Comments: 194</p>",
-    "published": "2026-09-08T08:42:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Multi-Agents LLM Financial Trading Framework",
-    "link": "https://github.com/TauricResearch/TradingAgents",
-    "summary": "<p>Article URL: <a href=\"https://github.com/TauricResearch/TradingAgents\">https://github.com/TauricResearch/TradingAgents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605822\">https://news.ycombinator.com/item?id=49605822</a></p>\n<p>Points: 81</p>\n<p># Comments: 53</p>",
-    "published": "2026-09-08T05:20:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My Feed, My Way",
-    "link": "https://www.pm.gov.au/media/my-feed-my-way",
-    "summary": "<p>Article URL: <a href=\"https://www.pm.gov.au/media/my-feed-my-way\">https://www.pm.gov.au/media/my-feed-my-way</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605782\">https://news.ycombinator.com/item?id=49605782</a></p>\n<p>Points: 153</p>\n<p># Comments: 124</p>",
-    "published": "2026-09-08T05:10:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mistral raises €3B",
-    "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\">https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605767\">https://news.ycombinator.com/item?id=49605767</a></p>\n<p>Points: 613</p>\n<p># Comments: 432</p>",
-    "published": "2026-09-08T05:06:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-    "link": "https://rohanadwankar.github.io/posts/platforms.html",
-    "summary": "<p>Article URL: <a href=\"https://rohanadwankar.github.io/posts/platforms.html\">https://rohanadwankar.github.io/posts/platforms.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605644\">https://news.ycombinator.com/item?id=49605644</a></p>\n<p>Points: 49</p>\n<p># Comments: 8</p>",
-    "published": "2026-09-08T04:36:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-    "link": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "summary": "<p>Article URL: <a href=\"https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics\">https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605511\">https://news.ycombinator.com/item?id=49605511</a></p>\n<p>Points: 60</p>\n<p># Comments: 42</p>",
-    "published": "2026-09-08T04:06:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How well do agents use test/verification techniques?",
-    "link": "https://danluu.com/agentic-testing/",
-    "summary": "<p>Article URL: <a href=\"https://danluu.com/agentic-testing/\">https://danluu.com/agentic-testing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49605246\">https://news.ycombinator.com/item?id=49605246</a></p>\n<p>Points: 122</p>\n<p># Comments: 45</p>",
-    "published": "2026-09-08T02:58:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
     "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
     "summary": "The contactless version of the Korean martial art is making its debut at this year’s Asian Games. Critics say it’s a glorified video game.",
@@ -98,60 +203,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "There's a new \"Google Jail\" for independent wikis",
-    "link": "https://weirdgloop.org/blog/google-jail",
-    "summary": "<p>Article URL: <a href=\"https://weirdgloop.org/blog/google-jail\">https://weirdgloop.org/blog/google-jail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604870\">https://news.ycombinator.com/item?id=49604870</a></p>\n<p>Points: 265</p>\n<p># Comments: 95</p>",
-    "published": "2026-09-08T01:57:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jellyfin 12.0",
-    "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-    "summary": "<p>Article URL: <a href=\"https://jellyfin.org/posts/jellyfin-release-12.0/\">https://jellyfin.org/posts/jellyfin-release-12.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604861\">https://news.ycombinator.com/item?id=49604861</a></p>\n<p>Points: 460</p>\n<p># Comments: 208</p>",
-    "published": "2026-09-08T01:56:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
     "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
     "summary": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.",
     "published": "2026-09-08T01:54:45",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-    "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
-    "summary": "<p>Article URL: <a href=\"https://mcpherrin.ca/2026/09/07/rsa.html\">https://mcpherrin.ca/2026/09/07/rsa.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604637\">https://news.ycombinator.com/item?id=49604637</a></p>\n<p>Points: 390</p>\n<p># Comments: 73</p>",
-    "published": "2026-09-08T01:16:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "TALA Is Open-Source",
-    "link": "https://d2lang.com/blog/tala-is-open-source/",
-    "summary": "<p>Article URL: <a href=\"https://d2lang.com/blog/tala-is-open-source/\">https://d2lang.com/blog/tala-is-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49604150\">https://news.ycombinator.com/item?id=49604150</a></p>\n<p>Points: 253</p>\n<p># Comments: 21</p>",
-    "published": "2026-09-07T23:37:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-    "link": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-    "summary": "<p>Article URL: <a href=\"https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/\">https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602699\">https://news.ycombinator.com/item?id=49602699</a></p>\n<p>Points: 224</p>\n<p># Comments: 111</p>",
-    "published": "2026-09-07T20:32:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Emacs Bedrock 2.0",
-    "link": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-    "summary": "<p>Article URL: <a href=\"https://lambdaland.org/posts/2026-09-06-bedrock-v2/\">https://lambdaland.org/posts/2026-09-06-bedrock-v2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49602490\">https://news.ycombinator.com/item?id=49602490</a></p>\n<p>Points: 143</p>\n<p># Comments: 34</p>",
-    "published": "2026-09-07T20:12:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-    "link": "https://lax-skyline.parcelscope.net/",
-    "summary": "<p>Article URL: <a href=\"https://lax-skyline.parcelscope.net/\">https://lax-skyline.parcelscope.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49601655\">https://news.ycombinator.com/item?id=49601655</a></p>\n<p>Points: 311</p>\n<p># Comments: 153</p>",
-    "published": "2026-09-07T18:52:06",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
@@ -166,27 +222,6 @@
     "summary": "Now that there’s rarely any mystery to who’s calling, Gen Z has adopted a range of custom phone greetings — including no greeting at all.",
     "published": "2026-09-07T02:40:54",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Understanding Computer Memory Architecture and SSD Internals",
-    "link": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
-    "summary": "<p>Article URL: <a href=\"https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787\">https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49590199\">https://news.ycombinator.com/item?id=49590199</a></p>\n<p>Points: 55</p>\n<p># Comments: 6</p>",
-    "published": "2026-09-06T19:51:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Icy Moons Are Ocean Worlds",
-    "link": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-    "summary": "<p>Article URL: <a href=\"https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds\">https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49586207\">https://news.ycombinator.com/item?id=49586207</a></p>\n<p>Points: 198</p>\n<p># Comments: 35</p>",
-    "published": "2026-09-06T13:07:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Robot writes in languages it has never seen before (2019)",
-    "link": "https://www.wired.com/story/robot-writing/",
-    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/robot-writing/\">https://www.wired.com/story/robot-writing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49583684\">https://news.ycombinator.com/item?id=49583684</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
-    "published": "2026-09-06T05:47:05",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
@@ -273,13 +308,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
-    "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
-    "summary": "The public housing authority in Concord, N.H., installed monitoring devices in 300 homes. Tenants are now suing to remove the Minut sensors.",
-    "published": "2026-09-03T18:29:58",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
     "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
     "summary": "In a long-awaited decision, a federal judge said Google must change its ad tech business to address antitrust issues, but did not disclose the measures.",
@@ -305,27 +333,6 @@
     "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
     "summary": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock’s jazz band.",
     "published": "2026-09-02T17:29:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Get to Know Your Phone’s Built-In Emergency Kit",
-    "link": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
-    "summary": "In times of natural disasters and other dangers, special features tucked away on your iPhone or Android device could help make a difference.",
-    "published": "2026-09-02T09:03:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
-    "link": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
-    "summary": "Initial results showed that residents of Independence, Mo., voted overwhelmingly to recall an official who backed billions of dollars in tax breaks for a data center.",
-    "published": "2026-09-02T02:47:34",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
-    "link": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
-    "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
-    "published": "2026-09-02T00:40:34",
     "source": "NYT > Technology"
   }
 ]
