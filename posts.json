@@ -1,150 +1,178 @@
 [
   {
+    "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+    "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
+    "summary": "Bill Gates, the foundation’s chairman, has been vocal about the dangers of artificial intelligence. The donation will invested in A.I. projects to bridge social inequalities.",
+    "published": "2026-09-15T13:45:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+    "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+    "summary": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
+    "published": "2026-09-15T13:33:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Australia 'on the same page' as Canada as it seeks deeper EU alliance",
+    "link": "https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/\">https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712186\">https://news.ycombinator.com/item?id=49712186</a></p>\n<p>Points: 17</p>\n<p># Comments: 2</p>",
+    "published": "2026-09-15T13:25:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+    "link": "https://bkovac.github.io/modem-thing/",
+    "summary": "<p>Article URL: <a href=\"https://bkovac.github.io/modem-thing/\">https://bkovac.github.io/modem-thing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712102\">https://news.ycombinator.com/item?id=49712102</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+    "published": "2026-09-15T13:20:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Java 27 Released",
+    "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+    "summary": "<p>Article URL: <a href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712041\">https://news.ycombinator.com/item?id=49712041</a></p>\n<p>Points: 61</p>\n<p># Comments: 30</p>",
+    "published": "2026-09-15T13:13:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "link": "https://github.com/arnegiacomo/fugleramme",
+    "summary": "<p>Article URL: <a href=\"https://github.com/arnegiacomo/fugleramme\">https://github.com/arnegiacomo/fugleramme</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711544\">https://news.ycombinator.com/item?id=49711544</a></p>\n<p>Points: 136</p>\n<p># Comments: 36</p>",
+    "published": "2026-09-15T12:31:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+    "link": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+    "summary": "<p>Article URL: <a href=\"https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough\">https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711309\">https://news.ycombinator.com/item?id=49711309</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
+    "published": "2026-09-15T12:08:26",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/\">https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711240\">https://news.ycombinator.com/item?id=49711240</a></p>\n<p>Points: 50</p>\n<p># Comments: 24</p>",
+    "published": "2026-09-15T12:01:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "25 Years of Mass Surveillance Is Enough",
+    "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "summary": "<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710883\">https://news.ycombinator.com/item?id=49710883</a></p>\n<p>Points: 193</p>\n<p># Comments: 30</p>",
+    "published": "2026-09-15T11:26:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8ly49w9g1edo\">https://www.bbc.com/news/articles/c8ly49w9g1edo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710253\">https://news.ycombinator.com/item?id=49710253</a></p>\n<p>Points: 262</p>\n<p># Comments: 255</p>",
+    "published": "2026-09-15T10:22:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
+    "summary": "Alex Bores, who lost a congressional primary contest that revolved around A.I. regulation, is trying to position himself at the center of the conversation for the next presidential election.",
+    "published": "2026-09-15T09:02:21",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Alternatives to MinIO for single-node local S3",
+    "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "summary": "<p>Article URL: <a href=\"https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/\">https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49709381\">https://news.ycombinator.com/item?id=49709381</a></p>\n<p>Points: 113</p>\n<p># Comments: 62</p>",
+    "published": "2026-09-15T08:21:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The k-server conjecture is true",
+    "link": "https://arxiv.org/abs/2609.15979",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.15979\">https://arxiv.org/abs/2609.15979</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49709129\">https://news.ycombinator.com/item?id=49709129</a></p>\n<p>Points: 63</p>\n<p># Comments: 23</p>",
+    "published": "2026-09-15T07:45:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CSS-Tricks in Limbo",
+    "link": "https://vale.rocks/micros/20260915-0135",
+    "summary": "<p>Article URL: <a href=\"https://vale.rocks/micros/20260915-0135\">https://vale.rocks/micros/20260915-0135</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708993\">https://news.ycombinator.com/item?id=49708993</a></p>\n<p>Points: 134</p>\n<p># Comments: 40</p>",
+    "published": "2026-09-15T07:27:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+    "summary": "<p>Article URL: <a href=\"https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013\">https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708774\">https://news.ycombinator.com/item?id=49708774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-09-15T07:00:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I can't stop thinking about Papua New Guinea",
+    "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "summary": "<p>Article URL: <a href=\"https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708431\">https://news.ycombinator.com/item?id=49708431</a></p>\n<p>Points: 531</p>\n<p># Comments: 223</p>",
+    "published": "2026-09-15T06:16:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Linux from Scratch",
+    "link": "https://www.linuxfromscratch.org/",
+    "summary": "<p>Article URL: <a href=\"https://www.linuxfromscratch.org/\">https://www.linuxfromscratch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707627\">https://news.ycombinator.com/item?id=49707627</a></p>\n<p>Points: 281</p>\n<p># Comments: 84</p>",
+    "published": "2026-09-15T04:15:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US confirms for first time it has deployed space weapons",
+    "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/ck790xg41ygro\">https://www.bbc.com/news/articles/ck790xg41ygro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707473\">https://news.ycombinator.com/item?id=49707473</a></p>\n<p>Points: 161</p>\n<p># Comments: 98</p>",
+    "published": "2026-09-15T03:47:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Charts built for Chat",
+    "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "summary": "<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 271</p>\n<p># Comments: 79</p>",
+    "published": "2026-09-14T21:22:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 668</p>\n<p># Comments: 772</p>",
+    "published": "2026-09-14T17:50:29",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pion, an agent designed to run any company autonomously",
+    "link": "https://andonlabs.com/blog/why-we-built-pion",
+    "summary": "<p>Article URL: <a href=\"https://andonlabs.com/blog/why-we-built-pion\">https://andonlabs.com/blog/why-we-built-pion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700477\">https://news.ycombinator.com/item?id=49700477</a></p>\n<p>Points: 446</p>\n<p># Comments: 542</p>",
+    "published": "2026-09-14T17:16:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+    "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+    "summary": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
+    "published": "2026-09-14T16:42:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Distributed Systems Classics (2017)",
+    "link": "https://nvartolomei.com/dist-sys-classics/",
+    "summary": "<p>Article URL: <a href=\"https://nvartolomei.com/dist-sys-classics/\">https://nvartolomei.com/dist-sys-classics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699158\">https://news.ycombinator.com/item?id=49699158</a></p>\n<p>Points: 329</p>\n<p># Comments: 68</p>",
+    "published": "2026-09-14T16:02:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A beginning for mathematics",
+    "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "summary": "<p>Article URL: <a href=\"https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/\">https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698699\">https://news.ycombinator.com/item?id=49698699</a></p>\n<p>Points: 257</p>\n<p># Comments: 134</p>",
+    "published": "2026-09-14T15:33:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
     "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
     "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.",
     "published": "2026-09-14T14:43:54",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-    "link": "https://rietta.com/blog/rubygems-supply-chain-openai/",
-    "summary": "<p>Article URL: <a href=\"https://rietta.com/blog/rubygems-supply-chain-openai/\">https://rietta.com/blog/rubygems-supply-chain-openai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697666\">https://news.ycombinator.com/item?id=49697666</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
-    "published": "2026-09-14T14:39:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jabber/XMPP: How Do We Gain Traction?",
-    "link": "https://gultsch.de/posts/how-do-we-gain-traction/",
-    "summary": "<p>Article URL: <a href=\"https://gultsch.de/posts/how-do-we-gain-traction/\">https://gultsch.de/posts/how-do-we-gain-traction/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697643\">https://news.ycombinator.com/item?id=49697643</a></p>\n<p>Points: 29</p>\n<p># Comments: 11</p>",
-    "published": "2026-09-14T14:37:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Graphic Rants: Nanite Tessellation",
-    "link": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
-    "summary": "<p>Article URL: <a href=\"http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html\">http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697444\">https://news.ycombinator.com/item?id=49697444</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
-    "published": "2026-09-14T14:27:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Where has Construction Automation been successful?",
-    "link": "https://www.construction-physics.com/p/where-has-construction-automation",
-    "summary": "<p>Article URL: <a href=\"https://www.construction-physics.com/p/where-has-construction-automation\">https://www.construction-physics.com/p/where-has-construction-automation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697235\">https://news.ycombinator.com/item?id=49697235</a></p>\n<p>Points: 17</p>\n<p># Comments: 12</p>",
-    "published": "2026-09-14T14:13:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New $100K H-1B Visa Fee Pushes Tech Jobs Offshore",
-    "link": "https://spectrum.ieee.org/h-1b-visa-us-government",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/h-1b-visa-us-government\">https://spectrum.ieee.org/h-1b-visa-us-government</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697171\">https://news.ycombinator.com/item?id=49697171</a></p>\n<p>Points: 106</p>\n<p># Comments: 163</p>",
-    "published": "2026-09-14T14:09:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-    "link": "https://spectrum.ieee.org/adversarial-fashion",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/adversarial-fashion\">https://spectrum.ieee.org/adversarial-fashion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697094\">https://news.ycombinator.com/item?id=49697094</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
-    "published": "2026-09-14T14:04:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Understanding FlashAttention Pt 1: Personal Notes",
-    "link": "https://chizkidd.github.io//2026/09/13/flashattention/",
-    "summary": "<p>Article URL: <a href=\"https://chizkidd.github.io//2026/09/13/flashattention/\">https://chizkidd.github.io//2026/09/13/flashattention/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697046\">https://news.ycombinator.com/item?id=49697046</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
-    "published": "2026-09-14T14:01:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-    "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-    "summary": "<p>Article URL: <a href=\"https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/\">https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697014\">https://news.ycombinator.com/item?id=49697014</a></p>\n<p>Points: 33</p>\n<p># Comments: 10</p>",
-    "published": "2026-09-14T13:59:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The AI job market in 2026",
-    "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
-    "summary": "<p>Article URL: <a href=\"https://www.ilinmaks.com/blog/en/ai-jobs-market-2026\">https://www.ilinmaks.com/blog/en/ai-jobs-market-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696867\">https://news.ycombinator.com/item?id=49696867</a></p>\n<p>Points: 44</p>\n<p># Comments: 13</p>",
-    "published": "2026-09-14T13:49:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-    "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-    "summary": "<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\">https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696697\">https://news.ycombinator.com/item?id=49696697</a></p>\n<p>Points: 56</p>\n<p># Comments: 42</p>",
-    "published": "2026-09-14T13:38:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
-    "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-    "summary": "<p>In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1].<p>Nine months have passed and much stronger models have been released, so I tried the experiment again today. The linked site shows the results.<p>Running ten of the prompts through six models at OpenRouter cost about twenty dollars, so I stopped there for now.<p>[1] <a href=\"https://simonwillison.net/2025/Nov/25/\" rel=\"nofollow\">https://simonwillison.net/2025/Nov/25/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696402\">https://news.ycombinator.com/item?id=49696402</a></p>\n<p>Points: 25</p>\n<p># Comments: 5</p>",
-    "published": "2026-09-14T13:20:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Temporal raises $550M at a $12.55B valuation",
-    "link": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-    "summary": "<p>Article URL: <a href=\"https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai\">https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696335\">https://news.ycombinator.com/item?id=49696335</a></p>\n<p>Points: 58</p>\n<p># Comments: 39</p>",
-    "published": "2026-09-14T13:16:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
-    "link": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-    "summary": "<p>Article URL: <a href=\"https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public\">https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696132\">https://news.ycombinator.com/item?id=49696132</a></p>\n<p>Points: 17</p>\n<p># Comments: 4</p>",
-    "published": "2026-09-14T13:01:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to Write an Effective Software Design Document",
-    "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "summary": "<p>Article URL: <a href=\"https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\">https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696125\">https://news.ycombinator.com/item?id=49696125</a></p>\n<p>Points: 150</p>\n<p># Comments: 29</p>",
-    "published": "2026-09-14T13:00:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Texas judge rules TikTok misled users on child safety feature",
-    "link": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/\">https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695829\">https://news.ycombinator.com/item?id=49695829</a></p>\n<p>Points: 91</p>\n<p># Comments: 31</p>",
-    "published": "2026-09-14T12:37:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
-    "link": "https://github.com/Newspicel/sdrminusminus",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Newspicel/sdrminusminus\">https://github.com/Newspicel/sdrminusminus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695805\">https://news.ycombinator.com/item?id=49695805</a></p>\n<p>Points: 26</p>\n<p># Comments: 1</p>",
-    "published": "2026-09-14T12:35:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
-    "link": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
-    "summary": "<p>Article URL: <a href=\"https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/\">https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695663\">https://news.ycombinator.com/item?id=49695663</a></p>\n<p>Points: 22</p>\n<p># Comments: 23</p>",
-    "published": "2026-09-14T12:23:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "summary": "<p>Article URL: <a href=\"https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/\">https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695409\">https://news.ycombinator.com/item?id=49695409</a></p>\n<p>Points: 166</p>\n<p># Comments: 82</p>",
-    "published": "2026-09-14T12:01:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-    "link": "https://github.com/callbacked/kinesis",
-    "summary": "<p>a couple hours ago i had astra take on a 10 month old repo of mine <a href=\"https://github.com/callbacked/neural-band-poc/\" rel=\"nofollow\">https://github.com/callbacked/neural-band-poc/</a> that involved finding a way to use the meta neural band independently from the glasses to read the sEMG data off of it. i really think it is a cool piece of technology that largely gets overlooked by the glasses, and always thought it was a shame it couldn't be used outside of its main application.<p>after making quick work of that, i wanted to use it to control my mac using gesture controls and that's how kinesis was born. it has been very cool being able to swipe from desktops using my fingers, swiping up to open up mission control or controlling a virtual knob to adjust my volume.<p>i definitely havent scratched the surface with the neural band but it has been a really fun endeavor thus far! i really hope others can find creative uses for their neural bands too :)<p>note: i really hope this works on other bands because the sample size has just been me so far.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695408\">https://news.ycombinator.com/item?id=49695408</a></p>\n<p>Points: 85</p>\n<p># Comments: 26</p>",
-    "published": "2026-09-14T12:01:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A 386 PC for Your RP2350",
-    "link": "https://github.com/rh1tech/frank-386",
-    "summary": "<p>Article URL: <a href=\"https://github.com/rh1tech/frank-386\">https://github.com/rh1tech/frank-386</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49693613\">https://news.ycombinator.com/item?id=49693613</a></p>\n<p>Points: 153</p>\n<p># Comments: 43</p>",
-    "published": "2026-09-14T08:25:57",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
@@ -270,27 +298,6 @@
     "link": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
     "summary": "Muse, Meta’s new A.I. agent, acts as a personal digital assistant that connects to Facebook and Instagram, as well as third-party apps such as Spotify and OpenTable.",
     "published": "2026-09-08T19:00:03",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
-    "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-    "summary": "An attack discovered by A.I. researchers could have compromised hundreds of millions of devices within hours, experts said.",
-    "published": "2026-09-08T16:50:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
-    "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-    "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.",
-    "published": "2026-09-08T16:03:26",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Key App Developers Have Yet to Embrace Apple’s New Siri A.I.",
-    "link": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
-    "summary": "For the company’s new artificial intelligence system to take off, it will need plenty of support from the makers of popular apps on Apple’s phones.",
-    "published": "2026-09-08T09:04:17",
     "source": "NYT > Technology"
   }
 ]
