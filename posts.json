@@ -1,5 +1,180 @@
 [
   {
+    "title": "Canada welcomes EU proposal to become 'associate member'",
+    "link": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cwly7vkke4jxo\">https://www.bbc.com/news/articles/cwly7vkke4jxo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740507\">https://news.ycombinator.com/item?id=49740507</a></p>\n<p>Points: 37</p>\n<p># Comments: 5</p>",
+    "published": "2026-09-17T13:30:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I had Gemini train its own replacement for $9",
+    "link": "https://www.petervijeh.com/projects/reddit-ner",
+    "summary": "<p>Article URL: <a href=\"https://www.petervijeh.com/projects/reddit-ner\">https://www.petervijeh.com/projects/reddit-ner</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740330\">https://news.ycombinator.com/item?id=49740330</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+    "published": "2026-09-17T13:17:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The American Religion of Self-Storage Facilities",
+    "link": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+    "summary": "<p>Article URL: <a href=\"https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities\">https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740260\">https://news.ycombinator.com/item?id=49740260</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+    "published": "2026-09-17T13:12:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+    "link": "https://flat.social",
+    "summary": "<p>Hi HN!<p>flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).<p>Live demo to try it out: <a href=\"https://app.flat.social/f/demo-flat\" rel=\"nofollow\">https://app.flat.social/f/demo-flat</a><p>Here's a quick demo video: <a href=\"https://www.youtube.com/watch?v=GeinBNqL23s\" rel=\"nofollow\">https://www.youtube.com/watch?v=GeinBNqL23s</a><p>It's a solo, bootstrapped project built with Three.js, LiveKit and Rapier for physics. I built the first version during the pandemic and posted it here back then: <a href=\"https://news.ycombinator.com/item?id=31833415\">https://news.ycombinator.com/item?id=31833415</a><p>I had a couple of months off this year, so I locked myself in an (almost) jungle house in Brazil and rebuilt it into what I've always wanted it to be.<p>Would love to hear what you think!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49740047\">https://news.ycombinator.com/item?id=49740047</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
+    "published": "2026-09-17T12:57:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
+    "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
+    "summary": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
+    "published": "2026-09-17T12:53:59",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+    "link": "https://news.ycombinator.com/item?id=49738879",
+    "summary": "<p>I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.<p>Thought I'd check how much in donations they've gotten. And I saw this massive 10 Bitcoin donation from back in 2023 (worth $800,000 now...)<p>From the activity history, neovim last sent bitcoin out of the address in 2019 so it's been max 7 years since they've definitely had access.<p>Does anyone from the neovim project know about this? \nSeems like a pretty significant amount of funding to have sitting there. Hope it can come to good use as I use neovim daily.<p>https://www.blockchain.com/explorer/addresses/btc/1Evu6wPrzjsjrNPdCYbHy3HT6ry2EzXFyQ</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49738879\">https://news.ycombinator.com/item?id=49738879</a></p>\n<p>Points: 230</p>\n<p># Comments: 146</p>",
+    "published": "2026-09-17T10:44:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+    "link": "https://manticoresearch.com/blog/auto-chunking/",
+    "summary": "<p>Article URL: <a href=\"https://manticoresearch.com/blog/auto-chunking/\">https://manticoresearch.com/blog/auto-chunking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49738766\">https://news.ycombinator.com/item?id=49738766</a></p>\n<p>Points: 39</p>\n<p># Comments: 6</p>",
+    "published": "2026-09-17T10:30:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "On ‘Cupertino,’ Robert and Michelle King Go Online",
+    "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
+    "summary": "The prolific producers target tech bigwigs in their newest show. “They’re really the stupidest and dumbest people,” Robert King said.",
+    "published": "2026-09-17T09:02:35",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+    "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+    "summary": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
+    "published": "2026-09-17T09:00:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "GLM Built Its Own Inference Infrastructure",
+    "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-built-its-inference-infrastructure\">https://z.ai/blog/glm-built-its-inference-infrastructure</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737922\">https://news.ycombinator.com/item?id=49737922</a></p>\n<p>Points: 170</p>\n<p># Comments: 133</p>",
+    "published": "2026-09-17T08:27:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "One Year of Sponsored Servo Development",
+    "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+    "summary": "<p>Article URL: <a href=\"https://servo.org/blog/2026/09/15/one-year-of-sponsorship/\">https://servo.org/blog/2026/09/15/one-year-of-sponsorship/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737849\">https://news.ycombinator.com/item?id=49737849</a></p>\n<p>Points: 219</p>\n<p># Comments: 92</p>",
+    "published": "2026-09-17T08:13:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CCC invites all model citizens to 40C3",
+    "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+    "summary": "<p>Article URL: <a href=\"https://events.ccc.de/en/2026/09/12/40c3-model-citizens/\">https://events.ccc.de/en/2026/09/12/40c3-model-citizens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49737787\">https://news.ycombinator.com/item?id=49737787</a></p>\n<p>Points: 109</p>\n<p># Comments: 21</p>",
+    "published": "2026-09-17T08:03:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare/Security-Audit-Skill",
+    "link": "https://github.com/cloudflare/security-audit-skill",
+    "summary": "<p>Article URL: <a href=\"https://github.com/cloudflare/security-audit-skill\">https://github.com/cloudflare/security-audit-skill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49736466\">https://news.ycombinator.com/item?id=49736466</a></p>\n<p>Points: 122</p>\n<p># Comments: 20</p>",
+    "published": "2026-09-17T04:36:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+    "link": "https://ryan.science/blog/keys-not-included",
+    "summary": "<p>Article URL: <a href=\"https://ryan.science/blog/keys-not-included\">https://ryan.science/blog/keys-not-included</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49735930\">https://news.ycombinator.com/item?id=49735930</a></p>\n<p>Points: 224</p>\n<p># Comments: 87</p>",
+    "published": "2026-09-17T03:03:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+    "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+    "summary": "The artificial intelligence company also released a framework for reporting when its systems go wrong.",
+    "published": "2026-09-17T00:12:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly",
+    "link": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
+    "summary": "The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan’s business will continue largely unscathed.",
+    "published": "2026-09-16T23:50:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "link": "https://openspec.dev/",
+    "summary": "<p>Article URL: <a href=\"https://openspec.dev/\">https://openspec.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49734264\">https://news.ycombinator.com/item?id=49734264</a></p>\n<p>Points: 167</p>\n<p># Comments: 78</p>",
+    "published": "2026-09-16T23:06:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "link": "https://harnesstax.github.io/",
+    "summary": "<p>Article URL: <a href=\"https://harnesstax.github.io/\">https://harnesstax.github.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49733726\">https://news.ycombinator.com/item?id=49733726</a></p>\n<p>Points: 174</p>\n<p># Comments: 65</p>",
+    "published": "2026-09-16T22:10:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "link": "https://arxiv.org/abs/2609.16338",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.16338\">https://arxiv.org/abs/2609.16338</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732931\">https://news.ycombinator.com/item?id=49732931</a></p>\n<p>Points: 219</p>\n<p># Comments: 35</p>",
+    "published": "2026-09-16T20:59:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Merriam-Webster Dictionary Is Wordsmaxxing With 1,400 New Definitions",
+    "link": "https://www.nytimes.com/2026/09/16/us/merriam-webster-new-words-looksmaxxing-yacht-rock.html",
+    "summary": "Now you have no excuse for not knowing the meaning of “cuffing season,” “shishito” or “glow-up.”",
+    "published": "2026-09-16T20:54:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Backups Aren't Simple",
+    "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "summary": "<p>Article URL: <a href=\"https://filipovski.net/2026/09/16/backups-arent-simple.html\">https://filipovski.net/2026/09/16/backups-arent-simple.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732513\">https://news.ycombinator.com/item?id=49732513</a></p>\n<p>Points: 281</p>\n<p># Comments: 176</p>",
+    "published": "2026-09-16T20:27:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "link": "https://mimo.xiaomi.com/rl/",
+    "summary": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/rl/\">https://mimo.xiaomi.com/rl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49732270\">https://news.ycombinator.com/item?id=49732270</a></p>\n<p>Points: 484</p>\n<p># Comments: 139</p>",
+    "published": "2026-09-16T20:09:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "link": "https://rohanbansal.com/qorl",
+    "summary": "<p>Article URL: <a href=\"https://rohanbansal.com/qorl\">https://rohanbansal.com/qorl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49731285\">https://news.ycombinator.com/item?id=49731285</a></p>\n<p>Points: 609</p>\n<p># Comments: 124</p>",
+    "published": "2026-09-16T18:50:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+    "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+    "summary": "On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
+    "published": "2026-09-16T17:22:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Small programming tricks",
+    "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "summary": "<p>Article URL: <a href=\"https://will-keleher.com/posts/small-programming-tricks-matter/\">https://will-keleher.com/posts/small-programming-tricks-matter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49729000\">https://news.ycombinator.com/item?id=49729000</a></p>\n<p>Points: 586</p>\n<p># Comments: 255</p>",
+    "published": "2026-09-16T15:56:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Is There Anything Google’s Fruit Fly Brain Can’t Do?",
     "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
     "summary": "Models of the insect’s nervous system have been trained to solve a Rubik’s Cube, play video games and even parallel park a car.",
@@ -7,66 +182,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-    "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/\">https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726586\">https://news.ycombinator.com/item?id=49726586</a></p>\n<p>Points: 22</p>\n<p># Comments: 4</p>",
-    "published": "2026-09-16T13:18:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Scaling Golang CI by Replacing actions/setup-go",
-    "link": "https://www.cloudx.ai/posts/setup-go",
-    "summary": "<p>Article URL: <a href=\"https://www.cloudx.ai/posts/setup-go\">https://www.cloudx.ai/posts/setup-go</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726350\">https://news.ycombinator.com/item?id=49726350</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-    "published": "2026-09-16T13:02:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-    "link": "https://github.com/officefloor/ImpactGate",
-    "summary": "<p>Article URL: <a href=\"https://github.com/officefloor/ImpactGate\">https://github.com/officefloor/ImpactGate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49726329\">https://news.ycombinator.com/item?id=49726329</a></p>\n<p>Points: 12</p>\n<p># Comments: 12</p>",
-    "published": "2026-09-16T13:01:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-    "link": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer\">https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725541\">https://news.ycombinator.com/item?id=49725541</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-09-16T12:01:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-    "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip\">https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49725356\">https://news.ycombinator.com/item?id=49725356</a></p>\n<p>Points: 80</p>\n<p># Comments: 19</p>",
-    "published": "2026-09-16T11:49:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Google Play app review process now regularly takes longer than a week",
-    "link": "https://gultsch.social/@daniel/117280438824908947",
-    "summary": "<p>Article URL: <a href=\"https://gultsch.social/@daniel/117280438824908947\">https://gultsch.social/@daniel/117280438824908947</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724927\">https://news.ycombinator.com/item?id=49724927</a></p>\n<p>Points: 138</p>\n<p># Comments: 102</p>",
-    "published": "2026-09-16T11:19:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Salesforce Global Outage",
-    "link": "https://status.salesforce.com/products/all",
-    "summary": "<p>Article URL: <a href=\"https://status.salesforce.com/products/all\">https://status.salesforce.com/products/all</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724488\">https://news.ycombinator.com/item?id=49724488</a></p>\n<p>Points: 124</p>\n<p># Comments: 57</p>",
-    "published": "2026-09-16T10:37:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "EU chief opens door for Canada to become 'associate member'",
-    "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cjwyzrr9d3dko\">https://www.bbc.com/news/articles/cjwyzrr9d3dko</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724141\">https://news.ycombinator.com/item?id=49724141</a></p>\n<p>Points: 568</p>\n<p># Comments: 629</p>",
-    "published": "2026-09-16T09:54:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Learning Programming in an Age of LLMs",
-    "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-    "summary": "<p>Article URL: <a href=\"https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/\">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723873\">https://news.ycombinator.com/item?id=49723873</a></p>\n<p>Points: 114</p>\n<p># Comments: 79</p>",
-    "published": "2026-09-16T09:12:34",
+    "title": "Nvidia announces native GPU programming in Rust",
+    "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+    "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\">https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49724881\">https://news.ycombinator.com/item?id=49724881</a></p>\n<p>Points: 800</p>\n<p># Comments: 326</p>",
+    "published": "2026-09-16T11:15:53",
     "source": "Hacker News: Front Page"
   },
   {
@@ -74,13 +193,6 @@
     "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
     "summary": "At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
     "published": "2026-09-16T09:09:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35",
-    "link": "https://www.nytimes.com/2026/09/16/arts/catherine-frazier-dead.html",
-    "summary": "She found a future in the internet’s past with a Tumblr blog of animated texts, a revolt against the clean minimalism of contemporary design aesthetics.",
-    "published": "2026-09-16T09:03:03",
     "source": "NYT > Technology"
   },
   {
@@ -98,45 +210,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-x-mozilla/\">https://mistral.ai/news/mistral-x-mozilla/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49723408\">https://news.ycombinator.com/item?id=49723408</a></p>\n<p>Points: 208</p>\n<p># Comments: 65</p>",
-    "published": "2026-09-16T08:08:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A software thing I built: GPS on a 25MHz 486-SX",
-    "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-    "summary": "<p>Article URL: <a href=\"https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/\">https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49722521\">https://news.ycombinator.com/item?id=49722521</a></p>\n<p>Points: 45</p>\n<p># Comments: 16</p>",
-    "published": "2026-09-16T05:43:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-    "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-    "summary": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\">https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721548\">https://news.ycombinator.com/item?id=49721548</a></p>\n<p>Points: 98</p>\n<p># Comments: 26</p>",
-    "published": "2026-09-16T02:46:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple Reference Image: A New Approach for Verified Photography",
-    "link": "https://security.apple.com/blog/apple-reference-image/",
-    "summary": "<p>Article URL: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49721322\">https://news.ycombinator.com/item?id=49721322</a></p>\n<p>Points: 345</p>\n<p># Comments: 232</p>",
-    "published": "2026-09-16T02:07:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-    "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
-    "summary": "On social media, Meta’s chief executive appeared to jab at Anthropic by saying that leading A.I. labs should be focused on safety rather than improving their own technology.",
-    "published": "2026-09-16T00:19:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-    "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-    "summary": "<p>Article URL: <a href=\"https://nand2mario.github.io/posts/2026/zsst-voodoo/\">https://nand2mario.github.io/posts/2026/zsst-voodoo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719938\">https://news.ycombinator.com/item?id=49719938</a></p>\n<p>Points: 155</p>\n<p># Comments: 41</p>",
-    "published": "2026-09-15T22:50:55",
+    "title": "Lucasart's Afterlife",
+    "link": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+    "summary": "<p>Article URL: <a href=\"https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/\">https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49719751\">https://news.ycombinator.com/item?id=49719751</a></p>\n<p>Points: 56</p>\n<p># Comments: 27</p>",
+    "published": "2026-09-15T22:30:30",
     "source": "Hacker News: Front Page"
   },
   {
@@ -147,53 +224,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-    "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-    "summary": "<p>Article URL: <a href=\"https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html\">https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49718928\">https://news.ycombinator.com/item?id=49718928</a></p>\n<p>Points: 246</p>\n<p># Comments: 93</p>",
-    "published": "2026-09-15T21:07:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
     "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
     "summary": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
     "published": "2026-09-15T20:06:21",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-    "link": "https://codyho.dev/blog/gpu-driver/",
-    "summary": "<p>Article URL: <a href=\"https://codyho.dev/blog/gpu-driver/\">https://codyho.dev/blog/gpu-driver/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717638\">https://news.ycombinator.com/item?id=49717638</a></p>\n<p>Points: 378</p>\n<p># Comments: 221</p>",
-    "published": "2026-09-15T19:30:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Introducing System One Models and Jev",
-    "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "summary": "<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 1571</p>\n<p># Comments: 437</p>",
-    "published": "2026-09-15T19:25:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We got admin access to Baseten's production GitHub",
-    "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-    "summary": "<p>Article URL: <a href=\"https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\">https://www.strix.ai/blog/baseten-harbor-github-pat-takeover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716476\">https://news.ycombinator.com/item?id=49716476</a></p>\n<p>Points: 303</p>\n<p># Comments: 171</p>",
-    "published": "2026-09-15T18:11:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An update on Wayback Machine access",
-    "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-    "summary": "<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 602</p>\n<p># Comments: 322</p>",
-    "published": "2026-09-15T17:52:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715947\">https://news.ycombinator.com/item?id=49715947</a></p>\n<p>Points: 447</p>\n<p># Comments: 301</p>",
-    "published": "2026-09-15T17:38:18",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
@@ -312,27 +347,6 @@
     "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
     "summary": "In a new report, the A.I. start-up added that it could not determine whether the research was legitimate or nefarious, leading the company to shut down the work.",
     "published": "2026-09-10T21:50:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
-    "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
-    "summary": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.",
-    "published": "2026-09-10T17:20:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
-    "link": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-    "summary": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development.",
-    "published": "2026-09-10T00:12:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
-    "link": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-    "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.",
-    "published": "2026-09-09T22:04:28",
     "source": "NYT > Technology"
   }
 ]
