@@ -1,150 +1,192 @@
 [
   {
-    "title": "Meta bans ads for Virginia Woolf play in Spain",
-    "link": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval\">https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787767\">https://news.ycombinator.com/item?id=49787767</a></p>\n<p>Points: 51</p>\n<p># Comments: 17</p>",
-    "published": "2026-09-21T14:30:39",
+    "title": "AI Is Antithetical to Learning",
+    "link": "https://jola.dev/posts/ai-antithetical-learning",
+    "summary": "<p>Article URL: <a href=\"https://jola.dev/posts/ai-antithetical-learning\">https://jola.dev/posts/ai-antithetical-learning</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49800917\">https://news.ycombinator.com/item?id=49800917</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "2026-09-22T13:24:40",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Claude Delusion",
-    "link": "https://pluralistic.net/2026/09/21/sunsetting/",
-    "summary": "<p>Article URL: <a href=\"https://pluralistic.net/2026/09/21/sunsetting/\">https://pluralistic.net/2026/09/21/sunsetting/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787765\">https://news.ycombinator.com/item?id=49787765</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
-    "published": "2026-09-21T14:30:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ars Technica's Mac Mini review: The new M6 impresses but the price hike is rough",
-    "link": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/\">https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787548\">https://news.ycombinator.com/item?id=49787548</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
-    "published": "2026-09-21T14:11:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-    "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/\">https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787535\">https://news.ycombinator.com/item?id=49787535</a></p>\n<p>Points: 33</p>\n<p># Comments: 1</p>",
-    "published": "2026-09-21T14:10:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Uber arbitration award over Emily Normandin-Parker's death",
-    "link": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
-    "summary": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death\">https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787523\">https://news.ycombinator.com/item?id=49787523</a></p>\n<p>Points: 76</p>\n<p># Comments: 36</p>",
-    "published": "2026-09-21T14:09:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What Sun Got Wrong",
-    "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "summary": "<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/\">https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787436\">https://news.ycombinator.com/item?id=49787436</a></p>\n<p>Points: 125</p>\n<p># Comments: 54</p>",
-    "published": "2026-09-21T14:03:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-    "link": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
-    "summary": "<p>Article URL: <a href=\"https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/\">https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49787313\">https://news.ycombinator.com/item?id=49787313</a></p>\n<p>Points: 60</p>\n<p># Comments: 24</p>",
-    "published": "2026-09-21T13:53:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Raspberry Pi blocks changing RAM chips",
-    "link": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-    "summary": "<p>Article URL: <a href=\"https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888\">https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49786689\">https://news.ycombinator.com/item?id=49786689</a></p>\n<p>Points: 105</p>\n<p># Comments: 88</p>",
-    "published": "2026-09-21T12:54:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-    "link": "https://news.ycombinator.com/item?id=49786609",
-    "summary": "<p>I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time.<p>Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloat<p>But after restarting, I could still see a \"Siri\" process running in Activity Monitor. Upon further inspection, I found that it is the \"Siri AI.app\".<p>These \"features\", together with Apple's Personal Context sound very similar to Microsoft's Recall.<p>Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49786609\">https://news.ycombinator.com/item?id=49786609</a></p>\n<p>Points: 70</p>\n<p># Comments: 26</p>",
-    "published": "2026-09-21T12:47:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-    "link": "https://github.com/aru-labs/lossless-memory",
-    "summary": "<p>Article URL: <a href=\"https://github.com/aru-labs/lossless-memory\">https://github.com/aru-labs/lossless-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49786419\">https://news.ycombinator.com/item?id=49786419</a></p>\n<p>Points: 26</p>\n<p># Comments: 10</p>",
-    "published": "2026-09-21T12:28:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "This A.I. House Can Provide You With Connections. It Also Has a Dark Side.",
-    "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-    "summary": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
-    "published": "2026-09-21T11:01:14",
+    "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+    "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+    "summary": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
+    "published": "2026-09-22T12:20:39",
     "source": "NYT > Technology"
   },
   {
-    "title": "Don't Use AI to Write",
-    "link": "https://paulbakker.io/writing/no-ai-for-writing/",
-    "summary": "<p>Article URL: <a href=\"https://paulbakker.io/writing/no-ai-for-writing/\">https://paulbakker.io/writing/no-ai-for-writing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784816\">https://news.ycombinator.com/item?id=49784816</a></p>\n<p>Points: 58</p>\n<p># Comments: 25</p>",
-    "published": "2026-09-21T08:54:44",
+    "title": "AI Has No Wisdom and Neither Will You",
+    "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+    "summary": "<p>Article URL: <a href=\"https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/\">https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49799965\">https://news.ycombinator.com/item?id=49799965</a></p>\n<p>Points: 168</p>\n<p># Comments: 210</p>",
+    "published": "2026-09-22T12:11:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Jev-Leftpad",
-    "link": "https://github.com/f/jev-leftpad",
-    "summary": "<p>Article URL: <a href=\"https://github.com/f/jev-leftpad\">https://github.com/f/jev-leftpad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784706\">https://news.ycombinator.com/item?id=49784706</a></p>\n<p>Points: 192</p>\n<p># Comments: 71</p>",
-    "published": "2026-09-21T08:39:32",
+    "title": "Type Punning in C and C++",
+    "link": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+    "summary": "<p>Article URL: <a href=\"https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html\">https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49799577\">https://news.ycombinator.com/item?id=49799577</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+    "published": "2026-09-22T11:29:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-    "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-    "summary": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/Disney%2B_ad_policy_change\">https://consumerrights.wiki/w/Disney%2B_ad_policy_change</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49784336\">https://news.ycombinator.com/item?id=49784336</a></p>\n<p>Points: 369</p>\n<p># Comments: 237</p>",
-    "published": "2026-09-21T07:55:28",
+    "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+    "link": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+    "summary": "<p>Article URL: <a href=\"https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html\">https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49799083\">https://news.ycombinator.com/item?id=49799083</a></p>\n<p>Points: 119</p>\n<p># Comments: 145</p>",
+    "published": "2026-09-22T10:36:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "link": "https://github.com/jaredpalmer/kev/tree/main",
-    "summary": "<p>Article URL: <a href=\"https://github.com/jaredpalmer/kev/tree/main\">https://github.com/jaredpalmer/kev/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783999\">https://news.ycombinator.com/item?id=49783999</a></p>\n<p>Points: 257</p>\n<p># Comments: 112</p>",
-    "published": "2026-09-21T07:11:55",
+    "title": "Verda (Finland) raises $189M in Series B",
+    "link": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+    "summary": "<p>Article URL: <a href=\"https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers\">https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49798597\">https://news.ycombinator.com/item?id=49798597</a></p>\n<p>Points: 57</p>\n<p># Comments: 21</p>",
+    "published": "2026-09-22T09:36:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Elektron Machinedrum in the Browser",
-    "link": "https://machinedrum-study.pages.dev/",
-    "summary": "<p>Article URL: <a href=\"https://machinedrum-study.pages.dev/\">https://machinedrum-study.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783568\">https://news.ycombinator.com/item?id=49783568</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
-    "published": "2026-09-21T06:07:52",
+    "title": "What to Know About Recent A.I. Hacks",
+    "link": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
+    "summary": "OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
+    "published": "2026-09-22T09:03:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How to Split Expenses on a Group Trip Without Fighting",
+    "link": "https://www.nytimes.com/2026/09/22/travel/group-trip-expenses-splitting-costs.html",
+    "summary": "From bachelorette trips to family vacations, group travel can cause relationship-ending fallouts. Here’s how to navigate difficult conversations about finances.",
+    "published": "2026-09-22T09:01:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "As Computers Take the Driver’s Seat, Experts Worry About Safety",
+    "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+    "summary": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong.",
+    "published": "2026-09-22T09:00:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "AMD's random number generator can't generate a 0?",
+    "link": "https://board.flatassembler.net/topic.php?t=24261",
+    "summary": "<p>Article URL: <a href=\"https://board.flatassembler.net/topic.php?t=24261\">https://board.flatassembler.net/topic.php?t=24261</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49798204\">https://news.ycombinator.com/item?id=49798204</a></p>\n<p>Points: 146</p>\n<p># Comments: 97</p>",
+    "published": "2026-09-22T08:39:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-    "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-    "summary": "<p>Article URL: <a href=\"http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf\">http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783495\">https://news.ycombinator.com/item?id=49783495</a></p>\n<p>Points: 291</p>\n<p># Comments: 63</p>",
-    "published": "2026-09-21T05:55:22",
+    "title": "I said no and Apple said yes",
+    "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "summary": "<p>Article URL: <a href=\"https://dbushell.com/2026/09/22/apple-intelligence/\">https://dbushell.com/2026/09/22/apple-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49797982\">https://news.ycombinator.com/item?id=49797982</a></p>\n<p>Points: 418</p>\n<p># Comments: 326</p>",
+    "published": "2026-09-22T08:04:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-    "link": "https://github.com/volotat/mini-AGI/",
-    "summary": "<p>Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit.<p>So, first of all it does work and you can see the sample from the whole training run here: <a href=\"https://raw.githubusercontent.com/volotat/mini-AGI/refs/heads/main/runs/samples.txt\" rel=\"nofollow\">https://raw.githubusercontent.com/volotat/mini-AGI/refs/head...</a><p>Here is the scaling law graph I have so far, and it looks very promising:\n<a href=\"https://github.com/volotat/mini-AGI/blob/main/assets/scaling.png\" rel=\"nofollow\">https://github.com/volotat/mini-AGI/blob/main/assets/scaling...</a><p>The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations.<p>I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data.<p>First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients.<p>I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself.<p>Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified.<p>The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do.<p>The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself.<p>Thanks for your attention.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783133\">https://news.ycombinator.com/item?id=49783133</a></p>\n<p>Points: 203</p>\n<p># Comments: 41</p>",
-    "published": "2026-09-21T04:42:37",
+    "title": "Can gzip be a language model?",
+    "link": "https://nathan.rs/posts/gzip-lm/",
+    "summary": "<p>Article URL: <a href=\"https://nathan.rs/posts/gzip-lm/\">https://nathan.rs/posts/gzip-lm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49797323\">https://news.ycombinator.com/item?id=49797323</a></p>\n<p>Points: 246</p>\n<p># Comments: 89</p>",
+    "published": "2026-09-22T06:08:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Heretic removes restrictions from language models",
-    "link": "https://heretic-project.org/",
-    "summary": "<p>Article URL: <a href=\"https://heretic-project.org/\">https://heretic-project.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49783101\">https://news.ycombinator.com/item?id=49783101</a></p>\n<p>Points: 141</p>\n<p># Comments: 61</p>",
-    "published": "2026-09-21T04:35:22",
+    "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+    "link": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/models/mimo-v2-6-pro\">https://artificialanalysis.ai/models/mimo-v2-6-pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49796660\">https://news.ycombinator.com/item?id=49796660</a></p>\n<p>Points: 110</p>\n<p># Comments: 42</p>",
+    "published": "2026-09-22T04:02:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Amiga Unix, Again",
-    "link": "https://amigaux.org/",
-    "summary": "<p>Article URL: <a href=\"https://amigaux.org/\">https://amigaux.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49781436\">https://news.ycombinator.com/item?id=49781436</a></p>\n<p>Points: 134</p>\n<p># Comments: 53</p>",
-    "published": "2026-09-20T23:57:10",
+    "title": "Claude Status – Elevated errors for multiple models",
+    "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/7g1qpkyz5gxh\">https://status.claude.com/incidents/7g1qpkyz5gxh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795579\">https://news.ycombinator.com/item?id=49795579</a></p>\n<p>Points: 128</p>\n<p># Comments: 98</p>",
+    "published": "2026-09-22T01:05:19",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "What happened to the Snowden archive",
-    "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-    "summary": "<p>Article URL: <a href=\"https://libroot.org/posts/what-happened-to-the-snowden-archive\">https://libroot.org/posts/what-happened-to-the-snowden-archive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49780820\">https://news.ycombinator.com/item?id=49780820</a></p>\n<p>Points: 576</p>\n<p># Comments: 400</p>",
-    "published": "2026-09-20T22:35:49",
+    "title": "Socrates vs. the Written Word (2011)",
+    "link": "https://wondermark.com/socrates-vs-writing/",
+    "summary": "<p>Article URL: <a href=\"https://wondermark.com/socrates-vs-writing/\">https://wondermark.com/socrates-vs-writing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49795122\">https://news.ycombinator.com/item?id=49795122</a></p>\n<p>Points: 60</p>\n<p># Comments: 38</p>",
+    "published": "2026-09-22T00:06:55",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Looking forward to Git 2.56 – and 3.0",
+    "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\">https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794736\">https://news.ycombinator.com/item?id=49794736</a></p>\n<p>Points: 163</p>\n<p># Comments: 84</p>",
+    "published": "2026-09-21T23:16:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Spymarks, Not Watermarks",
+    "link": "https://brand.io/article/spymarks/",
+    "summary": "<p>Article URL: <a href=\"https://brand.io/article/spymarks/\">https://brand.io/article/spymarks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794615\">https://news.ycombinator.com/item?id=49794615</a></p>\n<p>Points: 542</p>\n<p># Comments: 132</p>",
+    "published": "2026-09-21T23:03:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I don't want to read what you didn't write",
+    "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+    "summary": "<p>Article URL: <a href=\"https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\">https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49794330\">https://news.ycombinator.com/item?id=49794330</a></p>\n<p>Points: 810</p>\n<p># Comments: 338</p>",
+    "published": "2026-09-21T22:30:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MiMo v2.6",
+    "link": "https://mimo.xiaomi.com/mimo-v2-6",
+    "summary": "<p>Article URL: <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">https://mimo.xiaomi.com/mimo-v2-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792730\">https://news.ycombinator.com/item?id=49792730</a></p>\n<p>Points: 973</p>\n<p># Comments: 438</p>",
+    "published": "2026-09-21T20:12:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Transformers Explained Visually",
+    "link": "https://poloclub.github.io/transformer-explainer/",
+    "summary": "<p>Article URL: <a href=\"https://poloclub.github.io/transformer-explainer/\">https://poloclub.github.io/transformer-explainer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792342\">https://news.ycombinator.com/item?id=49792342</a></p>\n<p>Points: 497</p>\n<p># Comments: 77</p>",
+    "published": "2026-09-21T19:43:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "link": "https://linear.app/now/ci-bottleneck-reworked",
+    "summary": "<p>Article URL: <a href=\"https://linear.app/now/ci-bottleneck-reworked\">https://linear.app/now/ci-bottleneck-reworked</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49792067\">https://news.ycombinator.com/item?id=49792067</a></p>\n<p>Points: 278</p>\n<p># Comments: 327</p>",
+    "published": "2026-09-21T19:23:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+    "summary": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\">https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791997\">https://news.ycombinator.com/item?id=49791997</a></p>\n<p>Points: 148</p>\n<p># Comments: 75</p>",
+    "published": "2026-09-21T19:17:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NASA’s Mars Sample Return mission is dead",
+    "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead\">https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49791939\">https://news.ycombinator.com/item?id=49791939</a></p>\n<p>Points: 421</p>\n<p># Comments: 342</p>",
+    "published": "2026-09-21T19:14:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+    "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+    "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
+    "published": "2026-09-21T18:10:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How Potential 2028 Presidential Candidates Are Talking About A.I.",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/2028-presidential-race-artificial-intelligence.html",
+    "summary": "Democrats are jockeying to embrace new safeguards, while Republicans have aligned with President Trump’s warnings against slowing down the technology.",
+    "published": "2026-09-21T16:53:07",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "HERMES radio enables voice and data communication over vast distances",
+    "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+    "summary": "<p><a href=\"https://hermes.radio/\" rel=\"nofollow\">https://hermes.radio/</a><p><a href=\"https://www.rhizomatica.org/\" rel=\"nofollow\">https://www.rhizomatica.org/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789228\">https://news.ycombinator.com/item?id=49789228</a></p>\n<p>Points: 157</p>\n<p># Comments: 65</p>",
+    "published": "2026-09-21T16:14:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The A.I. Party House Where Networking Has a Dark Side",
+    "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+    "summary": "Group tech houses have proliferated across the San Francisco Bay Area in the artificial intelligence boom. One of the most prominent has also racked up an extensive police record.",
+    "published": "2026-09-21T15:37:40",
+    "source": "NYT > Technology"
   },
   {
     "title": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
@@ -172,13 +214,6 @@
     "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
     "summary": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.",
     "published": "2026-09-19T00:31:39",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-    "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-    "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models.",
-    "published": "2026-09-19T00:23:02",
     "source": "NYT > Technology"
   },
   {
@@ -287,13 +322,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
-    "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
-    "summary": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I.",
-    "published": "2026-09-15T21:46:04",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
     "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
     "summary": "The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.",
@@ -305,27 +333,6 @@
     "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
     "summary": "Federal prosecutors said proceeds from the sale of Iranian oil flowed through Binance, the world’s largest crypto exchange, to finance terrorism.",
     "published": "2026-09-15T17:29:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
-    "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
-    "summary": "Bill Gates, the foundation’s chairman, has been vocal about the dangers of artificial intelligence. The donation will be invested in A.I. projects to bridge social inequalities.",
-    "published": "2026-09-15T14:11:17",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Alex Bores Wants Democrats to Make AI Safety a 2028 Election Issue",
-    "link": "https://www.nytimes.com/2026/09/15/us/politics/ai-safety-2028-election-democrats.html",
-    "summary": "Alex Bores, who lost a congressional primary contest that revolved around A.I. regulation, is trying to position himself at the center of the conversation for the next presidential election.",
-    "published": "2026-09-15T09:02:21",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
-    "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
-    "summary": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami.",
-    "published": "2026-09-14T16:42:19",
     "source": "NYT > Technology"
   }
 ]
