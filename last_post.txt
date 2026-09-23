@@ -1,1 +1,1 @@
-AI Is Antithetical to Learning https://jola.dev/posts/ai-antithetical-learning
+The GitHub wiki is an anti-pattern https://michaelheap.com/github-wiki-is-an-antipattern/
