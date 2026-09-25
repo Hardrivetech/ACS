@@ -1,79 +1,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand</loc>
+    <lastmod>2026-09-25T13:49:06</lastmod>
+  </url>
+  <url>
+    <loc>https://newmobility.com/nobody-asked-for-a-crab-chair/</loc>
+    <lastmod>2026-09-25T12:48:00</lastmod>
+  </url>
+  <url>
+    <loc>https://tante.cc/2026/09/24/the-test/</loc>
+    <lastmod>2026-09-25T12:14:02</lastmod>
+  </url>
+  <url>
+    <loc>https://matduggan.com/im-tired-of-being-on-the-network/</loc>
+    <lastmod>2026-09-25T12:13:55</lastmod>
+  </url>
+  <url>
+    <loc>https://go.dev/blog/simd-experiment</loc>
+    <lastmod>2026-09-25T11:47:06</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/git-bug/git-bug</loc>
+    <lastmod>2026-09-25T11:38:31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html</loc>
+    <lastmod>2026-09-25T11:00:03</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/bertaye/agentic-cuda-optimizer</loc>
+    <lastmod>2026-09-25T10:32:58</lastmod>
+  </url>
+  <url>
+    <loc>https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy</loc>
+    <lastmod>2026-09-25T10:20:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016</loc>
+    <lastmod>2026-09-25T10:19:36</lastmod>
+  </url>
+  <url>
+    <loc>https://tokio.rs/blog/2026-09-24-topcoat-server-applications</loc>
+    <lastmod>2026-09-25T09:59:40</lastmod>
+  </url>
+  <url>
+    <loc>https://www.inkandswitch.com/</loc>
+    <lastmod>2026-09-25T09:50:25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ambionix.com/blog/boards-of-casio/</loc>
+    <lastmod>2026-09-25T09:26:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/25/well/ai-chatbots-artificial-intimacy.html</loc>
+    <lastmod>2026-09-25T09:03:23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/25/style/mark-zuckerberg-fashion-glasses.html</loc>
+    <lastmod>2026-09-25T09:00:13</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/special-projects/</loc>
+    <lastmod>2026-09-25T08:55:43</lastmod>
+  </url>
+  <url>
+    <loc>https://www.dawo.community/en/</loc>
+    <lastmod>2026-09-25T08:06:49</lastmod>
+  </url>
+  <url>
+    <loc>https://www.datagubbe.se/amscr/</loc>
+    <lastmod>2026-09-25T07:31:12</lastmod>
+  </url>
+  <url>
+    <loc>https://nyaa.sh/reviews/mac-mini-m6-emulation</loc>
+    <lastmod>2026-09-25T07:27:45</lastmod>
+  </url>
+  <url>
+    <loc>https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2</loc>
+    <lastmod>2026-09-25T07:03:46</lastmod>
+  </url>
+  <url>
+    <loc>https://jardo.dev/what-about-rails</loc>
+    <lastmod>2026-09-25T02:50:16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html</loc>
+    <lastmod>2026-09-25T01:12:39</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html</loc>
+    <lastmod>2026-09-24T22:34:49</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html</loc>
+    <lastmod>2026-09-24T21:15:07</lastmod>
+  </url>
+  <url>
+    <loc>https://launchvideo.io</loc>
+    <lastmod>2026-09-24T20:28:47</lastmod>
+  </url>
+  <url>
+    <loc>https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical</loc>
+    <lastmod>2026-09-24T19:14:27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html</loc>
+    <lastmod>2026-09-24T19:07:43</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html</loc>
+    <lastmod>2026-09-24T19:02:55</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html</loc>
+    <lastmod>2026-09-24T16:49:20</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html</loc>
     <lastmod>2026-09-24T13:48:42</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html</loc>
-    <lastmod>2026-09-24T13:43:45</lastmod>
-  </url>
-  <url>
-    <loc>https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/</loc>
-    <lastmod>2026-09-24T12:58:08</lastmod>
-  </url>
-  <url>
-    <loc>https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us</loc>
-    <lastmod>2026-09-24T12:23:41</lastmod>
-  </url>
-  <url>
-    <loc>https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073</loc>
-    <lastmod>2026-09-24T11:54:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/</loc>
-    <lastmod>2026-09-24T11:08:39</lastmod>
-  </url>
-  <url>
-    <loc>https://macanorak.com/two-tier-encryption-in-the-uk/</loc>
-    <lastmod>2026-09-24T10:39:19</lastmod>
-  </url>
-  <url>
-    <loc>https://nokiadesignarchive.aalto.fi/index.html</loc>
-    <lastmod>2026-09-24T09:49:33</lastmod>
-  </url>
-  <url>
-    <loc>https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/</loc>
-    <lastmod>2026-09-24T08:23:03</lastmod>
-  </url>
-  <url>
-    <loc>https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools</loc>
-    <lastmod>2026-09-24T07:23:07</lastmod>
-  </url>
-  <url>
-    <loc>https://transluce.org/agent-activity</loc>
-    <lastmod>2026-09-24T05:21:10</lastmod>
-  </url>
-  <url>
-    <loc>https://contrastive-lm.notion.site/</loc>
-    <lastmod>2026-09-24T04:20:59</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html</loc>
-    <lastmod>2026-09-24T03:53:54</lastmod>
-  </url>
-  <url>
-    <loc>https://lwn.net/SubscriberLink/1095425/2d9f411252325784/</loc>
-    <lastmod>2026-09-24T02:52:09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html</loc>
-    <lastmod>2026-09-24T02:50:25</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/live/cvgl73pxgndwt</loc>
-    <lastmod>2026-09-24T02:44:48</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html</loc>
-    <lastmod>2026-09-24T01:17:17</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nestrilabs/virtio-nvgpu</loc>
-    <lastmod>2026-09-24T01:02:23</lastmod>
+    <lastmod>2026-09-24T01:17:18</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html</loc>
@@ -84,40 +136,8 @@
     <lastmod>2026-09-23T23:54:20</lastmod>
   </url>
   <url>
-    <loc>https://www.meta.com/vr-glasses/</loc>
-    <lastmod>2026-09-23T23:47:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html</loc>
-    <lastmod>2026-09-23T23:38:55</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/</loc>
-    <lastmod>2026-09-23T22:45:49</lastmod>
-  </url>
-  <url>
-    <loc>https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux</loc>
-    <lastmod>2026-09-23T22:38:16</lastmod>
-  </url>
-  <url>
-    <loc>https://artificialanalysis.ai/models/mercury-2-5</loc>
-    <lastmod>2026-09-23T22:16:19</lastmod>
-  </url>
-  <url>
-    <loc>https://fly.io/blog/vscode-ssh-wtf/</loc>
-    <lastmod>2026-09-23T21:01:48</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html</loc>
     <lastmod>2026-09-23T20:05:47</lastmod>
-  </url>
-  <url>
-    <loc>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</loc>
-    <lastmod>2026-09-23T18:06:47</lastmod>
-  </url>
-  <url>
-    <loc>https://tailscale.com/blog/making-tailscale-faster</loc>
-    <lastmod>2026-09-23T17:49:07</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html</loc>
@@ -164,10 +184,6 @@
     <lastmod>2026-09-20T14:29:31</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html</loc>
-    <lastmod>2026-09-19T09:22:46</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html</loc>
     <lastmod>2026-09-19T00:31:39</lastmod>
   </url>
@@ -176,19 +192,7 @@
     <lastmod>2026-09-18T17:27:15</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/09/18/movies/tech-founder-movies-hollywood.html</loc>
-    <lastmod>2026-09-18T15:30:28</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html</loc>
     <lastmod>2026-09-18T14:20:10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html</loc>
-    <lastmod>2026-09-18T11:00:04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html</loc>
-    <lastmod>2026-09-18T01:12:52</lastmod>
   </url>
 </urlset>
