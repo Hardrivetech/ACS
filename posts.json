@@ -1,44 +1,205 @@
 [
   {
-    "title": "I can't tell who's teaching who anymore",
-    "link": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
-    "summary": "<p>Article URL: <a href=\"https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/\">https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49909629\">https://news.ycombinator.com/item?id=49909629</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-09-30T14:37:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "He Was a Tech Investor Before There Was a Silicon Valley",
-    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-    "summary": "Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips. He has died at 98.",
-    "published": "2026-09-30T14:26:34",
+    "title": "Who’s to Blame When A.I. Goes Rogue?",
+    "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+    "summary": "Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy",
+    "published": "2026-10-01T15:40:08",
     "source": "NYT > Technology"
   },
   {
-    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-    "summary": "<p>Article URL: <a href=\"https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\">https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49908962\">https://news.ycombinator.com/item?id=49908962</a></p>\n<p>Points: 29</p>\n<p># Comments: 18</p>",
-    "published": "2026-09-30T13:50:50",
+    "title": "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
+    "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+    "summary": "<p>Article URL: <a href=\"https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml\">https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49923056\">https://news.ycombinator.com/item?id=49923056</a></p>\n<p>Points: 9</p>\n<p># Comments: 6</p>",
+    "published": "2026-10-01T15:33:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance",
-    "link": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
-    "summary": "In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips.",
-    "published": "2026-09-30T13:36:53",
+    "title": "OpenID Foundation: Identity Management for Agentic AI [pdf]",
+    "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "summary": "<p>Article URL: <a href=\"https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\">https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922736\">https://news.ycombinator.com/item?id=49922736</a></p>\n<p>Points: 17</p>\n<p># Comments: 3</p>",
+    "published": "2026-10-01T15:11:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/GayaniFigma/status/2105295629941350454\">https://twitter.com/GayaniFigma/status/2105295629941350454</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922729\">https://news.ycombinator.com/item?id=49922729</a></p>\n<p>Points: 27</p>\n<p># Comments: 8</p>",
+    "published": "2026-10-01T15:10:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+    "link": "https://www.polyedergarten.de/e_index.htm",
+    "summary": "<p>Article URL: <a href=\"https://www.polyedergarten.de/e_index.htm\">https://www.polyedergarten.de/e_index.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922594\">https://news.ycombinator.com/item?id=49922594</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-01T15:02:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RacketCon Is Saturday",
+    "link": "https://con.racket-lang.org/",
+    "summary": "<p>Article URL: <a href=\"https://con.racket-lang.org/\">https://con.racket-lang.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922515\">https://news.ycombinator.com/item?id=49922515</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+    "published": "2026-10-01T14:58:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+    "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+    "summary": "<p>Article URL: <a href=\"https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\">https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49922278\">https://news.ycombinator.com/item?id=49922278</a></p>\n<p>Points: 45</p>\n<p># Comments: 21</p>",
+    "published": "2026-10-01T14:38:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cloudflare K2: serverless event streams",
+    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+    "summary": "<p>Article URL: <a href=\"https://blog.cloudflare.com/cloudflare-k2-streams/\">https://blog.cloudflare.com/cloudflare-k2-streams/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49921923\">https://news.ycombinator.com/item?id=49921923</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-01T14:09:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+    "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243\">https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49921051\">https://news.ycombinator.com/item?id=49921051</a></p>\n<p>Points: 55</p>\n<p># Comments: 29</p>",
+    "published": "2026-10-01T13:01:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\">https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49921050\">https://news.ycombinator.com/item?id=49921050</a></p>\n<p>Points: 102</p>\n<p># Comments: 57</p>",
+    "published": "2026-10-01T13:00:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+    "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+    "summary": "<p>Article URL: <a href=\"https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/\">https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920997\">https://news.ycombinator.com/item?id=49920997</a></p>\n<p>Points: 257</p>\n<p># Comments: 122</p>",
+    "published": "2026-10-01T12:55:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+    "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+    "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026\">https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920932\">https://news.ycombinator.com/item?id=49920932</a></p>\n<p>Points: 152</p>\n<p># Comments: 177</p>",
+    "published": "2026-10-01T12:48:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How to speed up the Rust compiler in September 2026",
+    "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+    "summary": "<p>Article URL: <a href=\"https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html\">https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920896\">https://news.ycombinator.com/item?id=49920896</a></p>\n<p>Points: 118</p>\n<p># Comments: 56</p>",
+    "published": "2026-10-01T12:44:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Inside Binance Founder Changpeng Zhao’s Life After Prison",
+    "link": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+    "summary": "Changpeng Zhao, jailed in the United States for a financial crime and pardoned by President Trump, is now living a gilded life in the United Arab Emirates.",
+    "published": "2026-10-01T11:55:56",
     "source": "NYT > Technology"
   },
   {
-    "title": "Pi.dev: You Said No MCP",
-    "link": "https://earendil.com/posts/you-said-no-mcp/",
-    "summary": "<p>Article URL: <a href=\"https://earendil.com/posts/you-said-no-mcp/\">https://earendil.com/posts/you-said-no-mcp/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49906637\">https://news.ycombinator.com/item?id=49906637</a></p>\n<p>Points: 365</p>\n<p># Comments: 192</p>",
-    "published": "2026-09-30T09:55:23",
+    "title": "Returning from vacation? The government can search your phone without a warrant",
+    "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/\">https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920234\">https://news.ycombinator.com/item?id=49920234</a></p>\n<p>Points: 235</p>\n<p># Comments: 232</p>",
+    "published": "2026-10-01T11:13:59",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What’s Next for ‘Hard Fork’?",
+    "link": "https://www.nytimes.com/2026/10/01/podcasts/hard-fork-whats-next.html",
+    "summary": "The podcast’s next chapter begins this week.",
+    "published": "2026-10-01T11:00:22",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "StreetComplete on iOS is now in public beta",
+    "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "summary": "<p>Article URL: <a href=\"https://github.com/streetcomplete/StreetComplete/issues/5421\">https://github.com/streetcomplete/StreetComplete/issues/5421</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49920160\">https://news.ycombinator.com/item?id=49920160</a></p>\n<p>Points: 327</p>\n<p># Comments: 66</p>",
+    "published": "2026-10-01T10:59:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+    "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+    "summary": "<p>Article URL: <a href=\"https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design\">https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49919910\">https://news.ycombinator.com/item?id=49919910</a></p>\n<p>Points: 112</p>\n<p># Comments: 63</p>",
+    "published": "2026-10-01T10:21:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+    "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate\">https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49919680\">https://news.ycombinator.com/item?id=49919680</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-01T09:48:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
+    "link": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
+    "summary": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.",
+    "published": "2026-10-01T09:02:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenAI’s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+    "link": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
+    "summary": "Greg Brockman, OpenAI’s president and co-founder, said internally that the super PAC, Leading the Future, had become a “distraction” for the A.I. company.",
+    "published": "2026-09-30T22:27:26",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+    "link": "https://www.thespacereview.com/article/4951/1",
+    "summary": "<p>Article URL: <a href=\"https://www.thespacereview.com/article/4951/1\">https://www.thespacereview.com/article/4951/1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49915082\">https://news.ycombinator.com/item?id=49915082</a></p>\n<p>Points: 274</p>\n<p># Comments: 134</p>",
+    "published": "2026-09-30T22:03:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+    "link": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+    "summary": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.",
+    "published": "2026-09-30T21:18:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
+    "link": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+    "summary": "For safety reasons, Gemini 4 Argon will initially be available only to some companies and organizations focused on cybersecurity defense before it is more widely released, Google said.",
+    "published": "2026-09-30T20:24:33",
+    "source": "NYT > Technology"
   },
   {
     "title": "How to Listen to Your Favorite Music, Online or Off the Grid",
     "link": "https://www.nytimes.com/2026/09/30/technology/personaltech/how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
     "summary": "Streaming services can introduce you to a wonderland of nearly unlimited audio, but downloading your digital collection has advantages.",
-    "published": "2026-09-30T09:03:07",
+    "published": "2026-09-30T20:18:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Gemini 4 Argon",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "summary": "<p>See also: <i>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</i> - <a href=\"https://news.ycombinator.com/item?id=49914236\">https://news.ycombinator.com/item?id=49914236</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913571\">https://news.ycombinator.com/item?id=49913571</a></p>\n<p>Points: 1556</p>\n<p># Comments: 1030</p>",
+    "published": "2026-09-30T20:04:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Halfspace experimental IDE for solid modeling with distance fields",
+    "link": "https://www.mattkeeter.com/projects/halfspace/",
+    "summary": "<p>Article URL: <a href=\"https://www.mattkeeter.com/projects/halfspace/\">https://www.mattkeeter.com/projects/halfspace/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49913350\">https://news.ycombinator.com/item?id=49913350</a></p>\n<p>Points: 170</p>\n<p># Comments: 10</p>",
+    "published": "2026-09-30T19:44:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
+    "link": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
+    "summary": "The agency will examine whether A.I. labs have broken federal laws prohibiting companies from unfair and deceptive practices.",
+    "published": "2026-09-30T19:26:02",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "He Was a Tech Investor Before There Was a Silicon Valley",
+    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+    "summary": "Bill Draper began funding start-ups in the early 1960s, when the Santa Clara Valley was better known for apricot orchards than microchips. He has died at 98.",
+    "published": "2026-09-30T18:52:25",
     "source": "NYT > Technology"
   },
   {
@@ -47,20 +208,6 @@
     "summary": "Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky.",
     "published": "2026-09-30T09:00:48",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "September 2026: The world today, as seen by one Polish guy",
-    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-    "summary": "<p>Article URL: <a href=\"https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\">https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49905487\">https://news.ycombinator.com/item?id=49905487</a></p>\n<p>Points: 424</p>\n<p># Comments: 304</p>",
-    "published": "2026-09-30T07:12:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "RSS Feeds for Last.fm",
-    "link": "https://lfm.xiffy.nl/",
-    "summary": "<p>Article URL: <a href=\"https://lfm.xiffy.nl/\">https://lfm.xiffy.nl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49903862\">https://news.ycombinator.com/item?id=49903862</a></p>\n<p>Points: 105</p>\n<p># Comments: 32</p>",
-    "published": "2026-09-30T03:00:05",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
@@ -77,20 +224,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Floppy Emu Hardware Failure Analysis Results",
-    "link": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-    "summary": "<p>Article URL: <a href=\"https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/\">https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49902093\">https://news.ycombinator.com/item?id=49902093</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
-    "published": "2026-09-29T23:10:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-    "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-    "summary": "<p>Article URL: <a href=\"https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river\">https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49902019\">https://news.ycombinator.com/item?id=49902019</a></p>\n<p>Points: 94</p>\n<p># Comments: 56</p>",
-    "published": "2026-09-29T23:03:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
     "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
     "summary": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen.",
@@ -98,32 +231,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-    "link": "https://github.com/ninjahawk/livenerf",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ninjahawk/livenerf\">https://github.com/ninjahawk/livenerf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49901736\">https://news.ycombinator.com/item?id=49901736</a></p>\n<p>Points: 779</p>\n<p># Comments: 327</p>",
-    "published": "2026-09-29T22:36:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
     "link": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
     "summary": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology.",
-    "published": "2026-09-29T19:55:20",
+    "published": "2026-09-29T19:55:21",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-    "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-    "summary": "<p>Article URL: <a href=\"https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\">https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49899090\">https://news.ycombinator.com/item?id=49899090</a></p>\n<p>Points: 252</p>\n<p># Comments: 149</p>",
-    "published": "2026-09-29T19:30:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-    "link": "https://space.bl2.net/",
-    "summary": "<p>Article URL: <a href=\"https://space.bl2.net/\">https://space.bl2.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49898778\">https://news.ycombinator.com/item?id=49898778</a></p>\n<p>Points: 325</p>\n<p># Comments: 83</p>",
-    "published": "2026-09-29T19:08:01",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse",
@@ -133,81 +245,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Vermont replacing power plants with home batteries",
-    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-    "summary": "<p>See also <a href=\"https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/\" rel=\"nofollow\">https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49897993\">https://news.ycombinator.com/item?id=49897993</a></p>\n<p>Points: 298</p>\n<p># Comments: 230</p>",
-    "published": "2026-09-29T18:19:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Dots: Always-on agents",
-    "link": "https://openai.com/index/introducing-dots/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-dots/\">https://openai.com/index/introducing-dots/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896604\">https://news.ycombinator.com/item?id=49896604</a></p>\n<p>Points: 699</p>\n<p># Comments: 566</p>",
-    "published": "2026-09-29T17:07:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-sol/\">https://openai.com/index/introducing-gpt-6-1-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896586\">https://news.ycombinator.com/item?id=49896586</a></p>\n<p>Points: 1016</p>\n<p># Comments: 890</p>",
-    "published": "2026-09-29T17:06:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Needed 1+1, built a functional programming language",
-    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-    "summary": "<p>Article URL: <a href=\"https://hereticpleb.vercel.app/blog/needed-one-plus-one/\">https://hereticpleb.vercel.app/blog/needed-one-plus-one/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895864\">https://news.ycombinator.com/item?id=49895864</a></p>\n<p>Points: 133</p>\n<p># Comments: 54</p>",
-    "published": "2026-09-29T16:18:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "College Students Flex Their Power in A.I. Investment Frenzy",
     "link": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
     "summary": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up.",
     "published": "2026-09-29T15:31:45",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "America.gov",
-    "link": "https://america.gov/",
-    "summary": "<p>Article URL: <a href=\"https://america.gov/\">https://america.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893509\">https://news.ycombinator.com/item?id=49893509</a></p>\n<p>Points: 695</p>\n<p># Comments: 592</p>",
-    "published": "2026-09-29T14:04:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ask HN: What are you reading?",
-    "link": "https://news.ycombinator.com/item?id=49893157",
-    "summary": "<p>I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough.  I'm also wrapping up Doctorow's _Enshittification_, and I'm looking for something a little meaty to keep the brain working...</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893157\">https://news.ycombinator.com/item?id=49893157</a></p>\n<p>Points: 371</p>\n<p># Comments: 721</p>",
-    "published": "2026-09-29T13:44:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Backblaze drive stats for Q2 2026",
-    "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-    "summary": "<p>Article URL: <a href=\"https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/\">https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49893002\">https://news.ycombinator.com/item?id=49893002</a></p>\n<p>Points: 257</p>\n<p># Comments: 83</p>",
-    "published": "2026-09-29T13:34:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Delhi cut electricity loss from 50 to 5 percent",
-    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/delhi-electricity-loss\">https://spectrum.ieee.org/delhi-electricity-loss</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49892245\">https://news.ycombinator.com/item?id=49892245</a></p>\n<p>Points: 550</p>\n<p># Comments: 299</p>",
-    "published": "2026-09-29T12:43:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Language models for text classification: From bag-of-words to Jev",
-    "link": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/classifier-history-and-jev\">https://magazine.sebastianraschka.com/p/classifier-history-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49891203\">https://news.ycombinator.com/item?id=49891203</a></p>\n<p>Points: 172</p>\n<p># Comments: 7</p>",
-    "published": "2026-09-29T11:06:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NASA asked several former SR-71A staffers to help secret restart",
-    "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-    "summary": "<p>Article URL: <a href=\"https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart\">https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49890733\">https://news.ycombinator.com/item?id=49890733</a></p>\n<p>Points: 250</p>\n<p># Comments: 272</p>",
-    "published": "2026-09-29T10:10:20",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
@@ -294,13 +336,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
-    "link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
-    "summary": "Google is preparing to launch a satellite that can run its A.I. technologies from the heavens. But this is just a first step.",
-    "published": "2026-09-25T01:12:39",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "U.S. Intercedes for Elon Musk’s X Over European Fine",
     "link": "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html",
     "summary": "Federal officials asked to intervene in a case that accused the social media platform of allowing deceptive behavior on its site and resulted in a $140 million penalty.",
@@ -308,66 +343,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
-    "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
-    "summary": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas.",
-    "published": "2026-09-24T21:15:07",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Complaints About Meta’s ‘Pervert Glasses’ Won’t Slow Tech’s Wearable Gadgets Drive",
     "link": "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html",
     "summary": "Meta’s smart glasses are the latest in a line of products to raise eyebrows over privacy. That’s not stopping other companies from creating similar devices.",
     "published": "2026-09-24T19:02:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
-    "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-    "summary": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said.",
-    "published": "2026-09-24T16:49:20",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google Is Sending an A.I. Data Center to Outer Space",
-    "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
-    "summary": "Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.",
-    "published": "2026-09-24T13:48:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Data Center Is Fined $1.1 Million for Operating 62 Power Generators",
-    "link": "https://www.nytimes.com/2026/09/23/nyregion/data-center-pollution-new-jersey.html",
-    "summary": "New Jersey officials said that the natural gas-powered generators, each the size of a tractor-trailer, were operating without permits.",
-    "published": "2026-09-24T01:17:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
-    "link": "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html",
-    "summary": "Artificial intelligence again dominated the company’s annual developer conference, as Mark Zuckerberg doubled down on how the technology can empower people.",
-    "published": "2026-09-24T00:16:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
-    "summary": "Sam Altman of OpenAI and Dario Amodei of Anthropic told the Security Council that international cooperation was needed to ensure that A.I. remains under human control.",
-    "published": "2026-09-23T23:54:20",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-    "summary": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere.",
-    "published": "2026-09-23T20:05:47",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Gerard Barron, Metals Company Chief, Makes the Case for Seafloor Mining",
-    "link": "https://www.nytimes.com/2026/09/23/climate/gerard-barron-metals-company-ocean-floor-mining.html",
-    "summary": "The head of the company hoping to become the first to conduct commercial deep-sea mining said mines on land had a much larger environmental footprint.",
-    "published": "2026-09-23T17:42:39",
     "source": "NYT > Technology"
   }
 ]
