@@ -1,107 +1,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
   </url>
   <url>
-    <loc>https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk</loc>
-    <lastmod>2026-10-05T17:01:27</lastmod>
+    <loc>https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/</loc>
+    <lastmod>2026-10-06T14:45:02</lastmod>
+  </url>
+  <url>
+    <loc>https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/</loc>
+    <lastmod>2026-10-06T13:55:37</lastmod>
+  </url>
+  <url>
+    <loc>https://jotbus.com/</loc>
+    <lastmod>2026-10-06T13:45:04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.parseable.com</loc>
+    <lastmod>2026-10-06T13:30:50</lastmod>
+  </url>
+  <url>
+    <loc>https://mistral.ai/news/mistral-large-4/</loc>
+    <lastmod>2026-10-06T13:25:50</lastmod>
+  </url>
+  <url>
+    <loc>https://docs.mistral.ai/models/mistral-large-4-0</loc>
+    <lastmod>2026-10-06T13:15:49</lastmod>
+  </url>
+  <url>
+    <loc>https://mastodon.social/@bagder/117392573268225646</loc>
+    <lastmod>2026-10-06T13:06:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/</loc>
+    <lastmod>2026-10-06T13:05:26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/</loc>
+    <lastmod>2026-10-06T12:45:49</lastmod>
+  </url>
+  <url>
+    <loc>https://arxiv.org/abs/2610.06783</loc>
+    <lastmod>2026-10-06T12:31:17</lastmod>
+  </url>
+  <url>
+    <loc>https://pola.rs/posts/release-polars-2/</loc>
+    <lastmod>2026-10-06T11:59:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.helgilibrary.com/companies/jetbrains</loc>
+    <lastmod>2026-10-06T11:45:55</lastmod>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</loc>
+    <lastmod>2026-10-06T11:34:14</lastmod>
+  </url>
+  <url>
+    <loc>https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html</loc>
+    <lastmod>2026-10-06T11:11:51</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o</loc>
+    <lastmod>2026-10-06T10:15:40</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nobelprize.org/prizes/physics/2026/</loc>
+    <lastmod>2026-10-06T09:48:46</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html</loc>
+    <lastmod>2026-10-06T09:03:19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/06/arts/gears-of-war-e-day-review.html</loc>
+    <lastmod>2026-10-06T09:01:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html</loc>
+    <lastmod>2026-10-06T08:51:52</lastmod>
+  </url>
+  <url>
+    <loc>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/</loc>
+    <lastmod>2026-10-06T08:08:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.debugbear.com/blog/example-dot-com-redesign-history</loc>
+    <lastmod>2026-10-05T22:55:11</lastmod>
+  </url>
+  <url>
+    <loc>https://dbushell.com/2026/10/03/deno-to-node/</loc>
+    <lastmod>2026-10-05T22:30:02</lastmod>
+  </url>
+  <url>
+    <loc>https://flattensf.com/</loc>
+    <lastmod>2026-10-05T21:40:50</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</loc>
-    <lastmod>2026-10-05T15:45:59</lastmod>
+    <lastmod>2026-10-05T19:15:09</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/05/business/energy-environment/tandem-solar-panels-us-china.html</loc>
     <lastmod>2026-10-05T15:41:58</lastmod>
   </url>
   <url>
-    <loc>https://openai.com/index/eu-text-provenance/</loc>
-    <lastmod>2026-10-05T15:38:55</lastmod>
-  </url>
-  <url>
-    <loc>https://onlys.ky/independence-is-interdependence/</loc>
-    <lastmod>2026-10-05T15:30:08</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html</loc>
-    <lastmod>2026-10-05T15:12:12</lastmod>
-  </url>
-  <url>
-    <loc>https://dosdays.co.uk/topics/Software/borland_turbo_basic.php</loc>
-    <lastmod>2026-10-05T15:11:31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</loc>
-    <lastmod>2026-10-05T15:06:27</lastmod>
-  </url>
-  <url>
-    <loc>https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/</loc>
-    <lastmod>2026-10-05T14:23:47</lastmod>
-  </url>
-  <url>
-    <loc>https://arslan.io/2026/10/05/the-lamps-in-my-house/</loc>
-    <lastmod>2026-10-05T14:12:14</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.lizzie.io/linux-containers-in-500-loc.html</loc>
-    <lastmod>2026-10-05T14:09:15</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.metabrainz.org/2026/10/04/picard-3-0-released/</loc>
-    <lastmod>2026-10-05T14:03:01</lastmod>
-  </url>
-  <url>
-    <loc>https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped</loc>
-    <lastmod>2026-10-05T13:02:25</lastmod>
+    <lastmod>2026-10-05T15:12:13</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html</loc>
     <lastmod>2026-10-05T12:57:32</lastmod>
   </url>
   <url>
-    <loc>https://github.com/project-minigraf/minigraf</loc>
-    <lastmod>2026-10-05T11:18:18</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/rui314/mold/releases/tag/v3.0.0</loc>
-    <lastmod>2026-10-05T11:17:18</lastmod>
-  </url>
-  <url>
-    <loc>https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/</loc>
-    <lastmod>2026-10-05T11:13:51</lastmod>
-  </url>
-  <url>
-    <loc>https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/</loc>
-    <lastmod>2026-10-05T10:47:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nobelprize.org/prizes/medicine/2026/summary/</loc>
-    <lastmod>2026-10-05T09:33:13</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger</loc>
-    <lastmod>2026-10-05T08:09:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement</loc>
-    <lastmod>2026-10-05T07:46:10</lastmod>
-  </url>
-  <url>
-    <loc>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</loc>
-    <lastmod>2026-10-05T05:37:40</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html</loc>
     <lastmod>2026-10-04T21:03:06</lastmod>
-  </url>
-  <url>
-    <loc>https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/</loc>
-    <lastmod>2026-10-04T21:01:28</lastmod>
-  </url>
-  <url>
-    <loc>https://wieslawsoltes.github.io/VB6/</loc>
-    <lastmod>2026-10-04T18:49:17</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</loc>
@@ -168,10 +180,6 @@
     <lastmod>2026-09-30T09:00:48</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</loc>
-    <lastmod>2026-09-30T00:09:48</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html</loc>
     <lastmod>2026-09-29T23:20:44</lastmod>
   </url>
@@ -186,13 +194,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html</loc>
     <lastmod>2026-09-29T18:29:40</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html</loc>
-    <lastmod>2026-09-29T15:31:45</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html</loc>
-    <lastmod>2026-09-29T00:32:19</lastmod>
   </url>
 </urlset>
