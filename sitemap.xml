@@ -1,99 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
   </url>
   <url>
-    <loc>https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm</loc>
-    <lastmod>2026-10-12T18:02:32</lastmod>
+    <loc>https://deepmind.google/models/gemini/</loc>
+    <lastmod>2026-10-13T16:03:16</lastmod>
   </url>
   <url>
-    <loc>https://sindresorhus.com/blog/swift-website</loc>
-    <lastmod>2026-10-12T18:00:25</lastmod>
+    <loc>https://news.ycombinator.com/item?id=50073471</loc>
+    <lastmod>2026-10-13T15:41:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</loc>
+    <lastmod>2026-10-13T15:25:50</lastmod>
+  </url>
+  <url>
+    <loc>https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak</loc>
+    <lastmod>2026-10-13T15:12:57</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</loc>
+    <lastmod>2026-10-13T15:07:37</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html</loc>
+    <lastmod>2026-10-13T14:38:37</lastmod>
+  </url>
+  <url>
+    <loc>https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/</loc>
+    <lastmod>2026-10-13T14:21:40</lastmod>
+  </url>
+  <url>
+    <loc>https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code</loc>
+    <lastmod>2026-10-13T14:14:23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html</loc>
+    <lastmod>2026-10-13T14:09:45</lastmod>
+  </url>
+  <url>
+    <loc>https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</loc>
+    <lastmod>2026-10-13T13:21:35</lastmod>
+  </url>
+  <url>
+    <loc>https://www.apple.com/apple-homeview/</loc>
+    <lastmod>2026-10-13T13:02:12</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md</loc>
+    <lastmod>2026-10-13T12:40:04</lastmod>
+  </url>
+  <url>
+    <loc>https://machinelearning.apple.com/research/distributed-gpu-cloud</loc>
+    <lastmod>2026-10-13T12:26:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html</loc>
+    <lastmod>2026-10-13T12:23:34</lastmod>
+  </url>
+  <url>
+    <loc>https://www.firefox.com/en-US/enterprise/</loc>
+    <lastmod>2026-10-13T12:00:42</lastmod>
+  </url>
+  <url>
+    <loc>https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers</loc>
+    <lastmod>2026-10-13T12:00:04</lastmod>
+  </url>
+  <url>
+    <loc>https://eg2.haku.sh/</loc>
+    <lastmod>2026-10-13T11:27:14</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/rust-lang/rust/issues/164250</loc>
+    <lastmod>2026-10-13T10:27:00</lastmod>
+  </url>
+  <url>
+    <loc>https://pdftomp3.com/connect-ai/</loc>
+    <lastmod>2026-10-13T10:08:34</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran</loc>
+    <lastmod>2026-10-13T10:08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</loc>
+    <lastmod>2026-10-13T08:24:51</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.character.ai/an-update-on-character-ai/</loc>
+    <lastmod>2026-10-13T07:28:34</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html</loc>
     <lastmod>2026-10-12T17:40:28</lastmod>
   </url>
   <url>
-    <loc>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</loc>
-    <lastmod>2026-10-12T17:14:01</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html</loc>
-    <lastmod>2026-10-12T17:00:05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.spinellis.gr/blog/20261008/?li261008</loc>
-    <lastmod>2026-10-12T16:54:08</lastmod>
-  </url>
-  <url>
-    <loc>https://research.meta.ai/blog/muse-wonder</loc>
-    <lastmod>2026-10-12T16:48:01</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=50059096</loc>
-    <lastmod>2026-10-12T16:46:34</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/morluto/rea</loc>
-    <lastmod>2026-10-12T16:31:55</lastmod>
-  </url>
-  <url>
-    <loc>https://prophitt.me/writing/a-modern-web-app-in-c</loc>
-    <lastmod>2026-10-12T16:13:10</lastmod>
-  </url>
-  <url>
-    <loc>https://z.ai/blog/glm-legal</loc>
-    <lastmod>2026-10-12T16:11:45</lastmod>
-  </url>
-  <url>
-    <loc>https://taylor.town/kk-ai-2026</loc>
-    <lastmod>2026-10-12T15:16:45</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/crq5nzxv9q4yo</loc>
-    <lastmod>2026-10-12T15:08:53</lastmod>
-  </url>
-  <url>
-    <loc>https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</loc>
-    <lastmod>2026-10-12T14:34:25</lastmod>
+    <lastmod>2026-10-12T17:00:06</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html</loc>
     <lastmod>2026-10-12T12:58:46</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/h0m3us3r/w1700k-sdr</loc>
-    <lastmod>2026-10-12T12:41:58</lastmod>
-  </url>
-  <url>
-    <loc>https://words.filippo.io/right-answers/</loc>
-    <lastmod>2026-10-12T12:26:32</lastmod>
-  </url>
-  <url>
-    <loc>https://www.githubstatus.com/incidents/93njd414rpbx</loc>
-    <lastmod>2026-10-12T12:23:51</lastmod>
-  </url>
-  <url>
-    <loc>https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident</loc>
-    <lastmod>2026-10-12T12:16:42</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/articles/c620r33plgppo</loc>
-    <lastmod>2026-10-12T12:09:09</lastmod>
-  </url>
-  <url>
-    <loc>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</loc>
-    <lastmod>2026-10-12T07:28:53</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/snuri00/ps2-web-recomp</loc>
-    <lastmod>2026-10-12T06:46:53</lastmod>
-  </url>
-  <url>
-    <loc>https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</loc>
-    <lastmod>2026-10-12T05:02:34</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html</loc>
@@ -154,17 +162,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html</loc>
     <lastmod>2026-10-06T19:37:09</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html</loc>
-    <lastmod>2026-10-06T17:00:15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/06/arts/gears-of-war-e-day-review.html</loc>
-    <lastmod>2026-10-06T09:01:01</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html</loc>
-    <lastmod>2026-10-06T08:51:52</lastmod>
   </url>
 </urlset>

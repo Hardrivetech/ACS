@@ -1,16 +1,156 @@
 [
   {
-    "title": "My Reddit AMA on the Law of Web Scraping",
-    "link": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
-    "summary": "<p>Article URL: <a href=\"https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm\">https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50060296\">https://news.ycombinator.com/item?id=50060296</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-12T18:02:32",
+    "title": "Gemini 4 Argon",
+    "link": "https://deepmind.google/models/gemini/",
+    "summary": "<p>Article URL: <a href=\"https://deepmind.google/models/gemini/\">https://deepmind.google/models/gemini/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073879\">https://news.ycombinator.com/item?id=50073879</a></p>\n<p>Points: 180</p>\n<p># Comments: 148</p>",
+    "published": "2026-10-13T16:03:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: I rewrote my website in Swift",
-    "link": "https://sindresorhus.com/blog/swift-website",
-    "summary": "<p>Article URL: <a href=\"https://sindresorhus.com/blog/swift-website\">https://sindresorhus.com/blog/swift-website</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50060268\">https://news.ycombinator.com/item?id=50060268</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-12T18:00:25",
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "link": "https://news.ycombinator.com/item?id=50073471",
+    "summary": "<p>Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.\nConsus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving FedRAMP equivalency, or authorization, is required before processing CUI information.<p>Demo: <a href=\"https://youtu.be/6MYxJe6P4oY\" rel=\"nofollow\">https://youtu.be/6MYxJe6P4oY</a><p>Aerospace and defense is experiencing rapid growth. Unfortunately, most companies are struggling to use AI because of necessary data protections & compliance risk. These companies can move even faster if they could use the AI tools that most other industries take for granted.<p>I spent most of my career prior to Consus in aerospace & defense. I launched national security payloads at SpaceX, and was an early employee at Castelion. I’ve watched first hand how compliance red-tape makes it difficult for companies to adopt new technologies and trust vendors that touch their sensitive data. For example, I worked with a satellite manufacturer that doesn’t allow any AI tools, even for non-sensitive work.<p>Even as AI has become extremely useful over the past 9-12 months, I was surprised by how many aerospace & defense companies refused to touch it. They could see how it could be helpful, but they were scared about model providers training on their data, violating an ITAR rule, or risk losing new business because of a failed cyber assessment. These are all rational fears.<p>There were a lot of ways to solve some/all of these problems, but we focused on building a compliant AI inference layer that can \"plug\" into any AI tool or workflow. Just as OpenRouter integrates with most tools, Consus can connect to tools like ChatGPT or Claude, open source tools including the Pi coding agent or Open WebUI, or integrate with applications built and maintained by individual organizations.<p>Almost no aerospace & defense company lives in all three major GovClouds (AWS, Azure, Google). When I mapped where frontier models can legally run for ITAR and CUI work, each provider had some subset of models, and each model achieved varying levels of compliance. Our customers don’t think in terms of cloud providers. They think about the data controls they require, and the model they want to use.\nThat is why we built the compliance suffix. Under the hood, every request hits a single OpenAI-compatible endpoint, where keys are verified and policy is enforced before anything touches inference. Every model name must carry a compliance suffix, such as gpt-5.6-sol:fedramp-high or claude-opus-5-5:itar, and any bare model name is rejected. We never proxy to the standard commercial endpoints.<p>Our customers are also able to build an allowlist of models, and assign spend & model restrictions to individual users in the organization. This is all handled through our Consus Portal where teams can manage spend, keys, and policies.<p>A typical question we hear is why not just use Bedrock in AWS GovCloud or Azure Government directly. For small teams, just getting access to these platforms is difficult. For larger organizations, GovCloud lets you inherit some but not all of the controls needed to handle sensitive data. Also, models are split across providers: GPT-5.6 Sol is only available in Azure Government, while Claude Opus 5.5 is served through Bedrock in AWS GovCloud. If you want both, you are standing up and securing two separate government cloud environments. We run all of them behind one endpoint so customers don’t have to pick a cloud, and we handle the compliance work for each one.<p>Given the data sensitivities, Consus does not store any customer data at rest. All prompts and completions stay in memory only for the length of the request and are never logged or written to disk. Zero data retention is strictly enforced both on ourselves and the infrastructure/model providers. We do keep metadata on each request and response for billing and audit purposes.<p>Consus is not self-serve by design. ITAR requires us to know exactly who is on the other end of every key, so we verify every organization and put a contract in place before issuing API keys. We charge our customers a compliance fee starting at $40/mo/seat plus AI tokens at cost.<p>We are actively serving customers, and would love any feedback from security experts, or developers/engineers working in highly regulated industries!<p>References:\nAPI Documentation: <a href=\"https://gateway.consus.io/overview\">https://gateway.consus.io/overview</a>\nSecurity & Architecture: <a href=\"https://gateway.consus.io/security\">https://gateway.consus.io/security</a>\nCompliance Details: <a href=\"https://consus.io/compliance\">https://consus.io/compliance</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073471\">https://news.ycombinator.com/item?id=50073471</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+    "published": "2026-10-13T15:41:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "summary": "<p>Article URL: <a href=\"https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\">https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50073221\">https://news.ycombinator.com/item?id=50073221</a></p>\n<p>Points: 50</p>\n<p># Comments: 25</p>",
+    "published": "2026-10-13T15:25:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The United Kingdom Generates Less Electricity per Person Than in the 1970s",
+    "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+    "summary": "<p>Article URL: <a href=\"https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak\">https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072994\">https://news.ycombinator.com/item?id=50072994</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+    "published": "2026-10-13T15:12:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Thunderbird for iOS",
+    "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+    "summary": "<p>Article URL: <a href=\"https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\">https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072913\">https://news.ycombinator.com/item?id=50072913</a></p>\n<p>Points: 77</p>\n<p># Comments: 19</p>",
+    "published": "2026-10-13T15:07:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
+    "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
+    "summary": "Apple unveiled the device as it continues its foray into artificial intelligence and tries to prove it can still innovate.",
+    "published": "2026-10-13T14:38:37",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A Book That Will Never Be Read",
+    "link": "https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/",
+    "summary": "<p>Article URL: <a href=\"https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/\">https://forbetterscience.com/2026/09/22/a-book-that-will-never-be-read/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072229\">https://news.ycombinator.com/item?id=50072229</a></p>\n<p>Points: 32</p>\n<p># Comments: 11</p>",
+    "published": "2026-10-13T14:21:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How to engineer an AI harness for game development",
+    "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "summary": "<p>Article URL: <a href=\"https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code\">https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50072120\">https://news.ycombinator.com/item?id=50072120</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+    "published": "2026-10-13T14:14:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+    "link": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+    "summary": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+    "published": "2026-10-13T14:09:45",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "New Apple TV 4K",
+    "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/\">https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071310\">https://news.ycombinator.com/item?id=50071310</a></p>\n<p>Points: 118</p>\n<p># Comments: 210</p>",
+    "published": "2026-10-13T13:21:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple HomeView",
+    "link": "https://www.apple.com/apple-homeview/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/apple-homeview/\">https://www.apple.com/apple-homeview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50071017\">https://news.ycombinator.com/item?id=50071017</a></p>\n<p>Points: 379</p>\n<p># Comments: 470</p>",
+    "published": "2026-10-13T13:02:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "BB(10) > Graham's Number",
+    "link": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+    "summary": "<p>Article URL: <a href=\"https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md\">https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070741\">https://news.ycombinator.com/item?id=50070741</a></p>\n<p>Points: 48</p>\n<p># Comments: 19</p>",
+    "published": "2026-10-13T12:40:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+    "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+    "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/distributed-gpu-cloud\">https://machinelearning.apple.com/research/distributed-gpu-cloud</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070593\">https://news.ycombinator.com/item?id=50070593</a></p>\n<p>Points: 157</p>\n<p># Comments: 62</p>",
+    "published": "2026-10-13T12:26:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Worlds More Habitable Than Earth? They're Out There",
+    "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html\">https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070554\">https://news.ycombinator.com/item?id=50070554</a></p>\n<p>Points: 15</p>\n<p># Comments: 22</p>",
+    "published": "2026-10-13T12:23:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mozilla Introduces Firefox Enterprise",
+    "link": "https://www.firefox.com/en-US/enterprise/",
+    "summary": "<p>Article URL: <a href=\"https://www.firefox.com/en-US/enterprise/\">https://www.firefox.com/en-US/enterprise/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070302\">https://news.ycombinator.com/item?id=50070302</a></p>\n<p>Points: 326</p>\n<p># Comments: 152</p>",
+    "published": "2026-10-13T12:00:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Visual Intro to Complex Numbers",
+    "link": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+    "summary": "<p>Article URL: <a href=\"https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers\">https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50070287\">https://news.ycombinator.com/item?id=50070287</a></p>\n<p>Points: 68</p>\n<p># Comments: 45</p>",
+    "published": "2026-10-13T12:00:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+    "link": "https://eg2.haku.sh/",
+    "summary": "<p>Article URL: <a href=\"https://eg2.haku.sh/\">https://eg2.haku.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069971\">https://news.ycombinator.com/item?id=50069971</a></p>\n<p>Points: 287</p>\n<p># Comments: 66</p>",
+    "published": "2026-10-13T11:27:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "11 year old unsoundness bugs found in Rust borrow checker",
+    "link": "https://github.com/rust-lang/rust/issues/164250",
+    "summary": "<p>Article URL: <a href=\"https://github.com/rust-lang/rust/issues/164250\">https://github.com/rust-lang/rust/issues/164250</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069499\">https://news.ycombinator.com/item?id=50069499</a></p>\n<p>Points: 498</p>\n<p># Comments: 282</p>",
+    "published": "2026-10-13T10:27:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "link": "https://pdftomp3.com/connect-ai/",
+    "summary": "<p>Article URL: <a href=\"https://pdftomp3.com/connect-ai/\">https://pdftomp3.com/connect-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069337\">https://news.ycombinator.com/item?id=50069337</a></p>\n<p>Points: 129</p>\n<p># Comments: 64</p>",
+    "published": "2026-10-13T10:08:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+    "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran\">https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50069329\">https://news.ycombinator.com/item?id=50069329</a></p>\n<p>Points: 361</p>\n<p># Comments: 172</p>",
+    "published": "2026-10-13T10:08:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Document Review with Unsiloed and TypeSafe Jev",
+    "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+    "summary": "<p>Article URL: <a href=\"https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev\">https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068443\">https://news.ycombinator.com/item?id=50068443</a></p>\n<p>Points: 38</p>\n<p># Comments: 7</p>",
+    "published": "2026-10-13T08:24:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "link": "https://blog.character.ai/an-update-on-character-ai/",
+    "summary": "<p>Article URL: <a href=\"https://blog.character.ai/an-update-on-character-ai/\">https://blog.character.ai/an-update-on-character-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50068036\">https://news.ycombinator.com/item?id=50068036</a></p>\n<p>Points: 150</p>\n<p># Comments: 86</p>",
+    "published": "2026-10-13T07:28:34",
     "source": "Hacker News: Front Page"
   },
   {
@@ -21,81 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "AI coding agents generate more code, but not more software",
-    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/\">https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059523\">https://news.ycombinator.com/item?id=50059523</a></p>\n<p>Points: 60</p>\n<p># Comments: 37</p>",
-    "published": "2026-10-12T17:14:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Meta Unveils New Series of Advanced A.I. Models",
     "link": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
     "summary": "The new models, Muse Wonder and Muse Wonder Full, are meant to compete with cutting-edge A.I. models from rivals like Anthropic and OpenAI.",
-    "published": "2026-10-12T17:00:05",
+    "published": "2026-10-12T17:00:06",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Thinking will become a hobby",
-    "link": "https://www.spinellis.gr/blog/20261008/?li261008",
-    "summary": "<p>Article URL: <a href=\"https://www.spinellis.gr/blog/20261008/?li261008\">https://www.spinellis.gr/blog/20261008/?li261008</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059204\">https://news.ycombinator.com/item?id=50059204</a></p>\n<p>Points: 56</p>\n<p># Comments: 68</p>",
-    "published": "2026-10-12T16:54:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Muse Wonder",
-    "link": "https://research.meta.ai/blog/muse-wonder",
-    "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-wonder\">https://research.meta.ai/blog/muse-wonder</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059115\">https://news.ycombinator.com/item?id=50059115</a></p>\n<p>Points: 218</p>\n<p># Comments: 88</p>",
-    "published": "2026-10-12T16:48:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-    "link": "https://news.ycombinator.com/item?id=50059096",
-    "summary": "<p>Hey HN, I’m Vishnu from Agent37 (<a href=\"https://agent37.com\">https://agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37/month per sandbox.<p>You can view a video walkthrough of the product here: <a href=\"https://youtu.be/DK5ISR2tbNo\" rel=\"nofollow\">https://youtu.be/DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back in February (yup.. judge me). In time we added more and more harnesses.<p>One of the goals I had at the time was to offer a free plan to users, so as to gain more market share. But it was too cost prohibitive to do it right away. Especially since we were bootstrapped and servers were running on my savings.<p>Today we’re actually able to offer the free plan thanks to the optimizations we’ve made since. Over 90% of the new signups we have are just free plan users and they host their personal Hermes/Openclaw/Claude Code etc on our cloud. Our infrastructure cost for the free sandboxes averages around $0.05 to $0.10 per user per month.<p>Here are some techniques that have worked for lowering cost:<p>* When you look at agent harnesses, they have certain patterns in the way they consume CPU and RAM. They need CPU in bursts when they’re initializing or performing certain tasks, but beyond that, they’re often not peaking. They need more RAM for things like browser and computer-use tasks. Once the task is done, usage often comes back down. This is a key insight in lowering cost, so by efficiently managing the CPU/RAM utilization we could lower the cost.<p>* Secondly, you have to skip the hyperscalers when renting the Hosts. I worked at Amazon before and they have 80-90% margins on VMs. So it was an obvious choice once I looked at the prices to go one layer down to vendors like Hetzner and OVH. This alone was probably one of the biggest cost levers in reducing the cost.<p>* Thirdly, you also want to pick a technology stack that lets you efficiently cache and share resources across the host. We use gVisor for better utilization and fast boot times. It lets us use available host memory across sandboxes without reserving a full VM’s memory for each one. There are tradeoffs: our gVisor sandboxes don’t support workloads like Docker-in-Docker or Android emulators.<p>* And finally the size and shape of the hosts you buy also makes a big difference. RAM is typically the bottleneck when it comes to cost and not the CPU. This is specifically true for agent harness workloads, so when buying servers, we optimize for packing more RAM into a given host.<p>We also host full VM sandboxes for workloads that need them, including running Docker at a slightly higher price, but they are still pretty low cost given the rest of the techniques.<p>Overall, my learning has been that just by focusing on a niche of sandbox usecases, and optimizing for it you can give a much better cost/performance tradeoff.<p>I was previously a Senior Software Engineer at Amazon and an Engineering Manager at Quantcast. I built Amazon's internal AI chatbot, Diya, and their internal coding harness, Ziya.<p>If you’re someone who’s looking to run agents on sandbox and are exploring a sandbox vendor, come check us out. We’re particularly looking for developers building messaging agents to try their workloads and challenge the limits and economics of our platform.<p>Thanks!<p><a href=\"https://agent37.com\">https://agent37.com</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50059096\">https://news.ycombinator.com/item?id=50059096</a></p>\n<p>Points: 33</p>\n<p># Comments: 20</p>",
-    "published": "2026-10-12T16:46:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-    "link": "https://github.com/morluto/rea",
-    "summary": "<p>Article URL: <a href=\"https://github.com/morluto/rea\">https://github.com/morluto/rea</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50058850\">https://news.ycombinator.com/item?id=50058850</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
-    "published": "2026-10-12T16:31:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Modern Web App in C",
-    "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-    "summary": "<p>Article URL: <a href=\"https://prophitt.me/writing/a-modern-web-app-in-c\">https://prophitt.me/writing/a-modern-web-app-in-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50058528\">https://news.ycombinator.com/item?id=50058528</a></p>\n<p>Points: 132</p>\n<p># Comments: 52</p>",
-    "published": "2026-10-12T16:13:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GLM-Legal",
-    "link": "https://z.ai/blog/glm-legal",
-    "summary": "<p>Article URL: <a href=\"https://z.ai/blog/glm-legal\">https://z.ai/blog/glm-legal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50058507\">https://news.ycombinator.com/item?id=50058507</a></p>\n<p>Points: 208</p>\n<p># Comments: 132</p>",
-    "published": "2026-10-12T16:11:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "link": "https://taylor.town/kk-ai-2026",
-    "summary": "<p>Article URL: <a href=\"https://taylor.town/kk-ai-2026\">https://taylor.town/kk-ai-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057668\">https://news.ycombinator.com/item?id=50057668</a></p>\n<p>Points: 45</p>\n<p># Comments: 6</p>",
-    "published": "2026-10-12T15:16:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Fridges in French supermarkets hit by cyber attack",
-    "link": "https://www.bbc.com/news/articles/crq5nzxv9q4yo",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/crq5nzxv9q4yo\">https://www.bbc.com/news/articles/crq5nzxv9q4yo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057551\">https://news.ycombinator.com/item?id=50057551</a></p>\n<p>Points: 89</p>\n<p># Comments: 51</p>",
-    "published": "2026-10-12T15:08:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An Unmade Film Shaped Hayao Miyazaki",
-    "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
-    "summary": "<p>Article URL: <a href=\"https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki\">https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50057030\">https://news.ycombinator.com/item?id=50057030</a></p>\n<p>Points: 49</p>\n<p># Comments: 6</p>",
-    "published": "2026-10-12T14:34:25",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi",
@@ -103,62 +173,6 @@
     "summary": "Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider.",
     "published": "2026-10-12T12:58:46",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
-    "link": "https://github.com/h0m3us3r/w1700k-sdr",
-    "summary": "<p>Article URL: <a href=\"https://github.com/h0m3us3r/w1700k-sdr\">https://github.com/h0m3us3r/w1700k-sdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055593\">https://news.ycombinator.com/item?id=50055593</a></p>\n<p>Points: 99</p>\n<p># Comments: 27</p>",
-    "published": "2026-10-12T12:41:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "(Post-Quantum) Cryptographic Right Answers",
-    "link": "https://words.filippo.io/right-answers/",
-    "summary": "<p>Article URL: <a href=\"https://words.filippo.io/right-answers/\">https://words.filippo.io/right-answers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055409\">https://news.ycombinator.com/item?id=50055409</a></p>\n<p>Points: 38</p>\n<p># Comments: 1</p>",
-    "published": "2026-10-12T12:26:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Incident with Actions, Pull Requests and Issues",
-    "link": "https://www.githubstatus.com/incidents/93njd414rpbx",
-    "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/93njd414rpbx\">https://www.githubstatus.com/incidents/93njd414rpbx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055375\">https://news.ycombinator.com/item?id=50055375</a></p>\n<p>Points: 133</p>\n<p># Comments: 122</p>",
-    "published": "2026-10-12T12:23:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hackers activate automatic defrosting accross European supermarket fridges",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident\">https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055304\">https://news.ycombinator.com/item?id=50055304</a></p>\n<p>Points: 109</p>\n<p># Comments: 267</p>",
-    "published": "2026-10-12T12:16:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Citroen revives the 2CV for an electric age",
-    "link": "https://www.bbc.com/news/articles/c620r33plgppo",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c620r33plgppo\">https://www.bbc.com/news/articles/c620r33plgppo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50055220\">https://news.ycombinator.com/item?id=50055220</a></p>\n<p>Points: 136</p>\n<p># Comments: 155</p>",
-    "published": "2026-10-12T12:09:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-    "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-    "summary": "<p>Article URL: <a href=\"https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce\">https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50052638\">https://news.ycombinator.com/item?id=50052638</a></p>\n<p>Points: 108</p>\n<p># Comments: 46</p>",
-    "published": "2026-10-12T07:28:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-    "link": "https://github.com/snuri00/ps2-web-recomp",
-    "summary": "<p>Article URL: <a href=\"https://github.com/snuri00/ps2-web-recomp\">https://github.com/snuri00/ps2-web-recomp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50052251\">https://news.ycombinator.com/item?id=50052251</a></p>\n<p>Points: 211</p>\n<p># Comments: 112</p>",
-    "published": "2026-10-12T06:46:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Type-safe HTML templating in Zig",
-    "link": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-    "summary": "<p>Article URL: <a href=\"https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html\">https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50051573\">https://news.ycombinator.com/item?id=50051573</a></p>\n<p>Points: 207</p>\n<p># Comments: 77</p>",
-    "published": "2026-10-12T05:02:34",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
@@ -263,27 +277,6 @@
     "link": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
     "summary": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
     "published": "2026-10-06T19:37:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-    "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-    "summary": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
-    "published": "2026-10-06T17:00:15",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Gears of War: E-Day Is Nostalgic With Rich Visuals",
-    "link": "https://www.nytimes.com/2026/10/06/arts/gears-of-war-e-day-review.html",
-    "summary": "In Gears of War: E-Day, it’s fun to see the origins of beloved characters in grand scale, even if its play feels conservative.",
-    "published": "2026-10-06T09:01:01",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
-    "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-    "summary": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.",
-    "published": "2026-10-06T08:51:52",
     "source": "NYT > Technology"
   }
 ]
