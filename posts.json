@@ -1,23 +1,170 @@
 [
   {
+    "title": "Why No One Can Look Away From Elizabeth Holmes",
+    "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+    "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+    "published": "2026-10-16T13:00:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "I Love Software Rendering",
+    "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+    "summary": "<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+    "published": "2026-10-16T12:52:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
     "link": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
     "summary": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
-    "published": "2026-10-15T12:17:34",
+    "published": "2026-10-16T09:04:12",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "The Folders Programming Language",
+    "link": "https://danieltemkin.com/esolangs/folders",
+    "summary": "<p>Article URL: <a href=\"https://danieltemkin.com/esolangs/folders\">https://danieltemkin.com/esolangs/folders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50114342\">https://news.ycombinator.com/item?id=50114342</a></p>\n<p>Points: 125</p>\n<p># Comments: 20</p>",
+    "published": "2026-10-16T05:11:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Comparing Chromium Development at Google and Igalia",
+    "link": "https://lwn.net/Articles/1094721/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1094721/\">https://lwn.net/Articles/1094721/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112887\">https://news.ycombinator.com/item?id=50112887</a></p>\n<p>Points: 71</p>\n<p># Comments: 20</p>",
+    "published": "2026-10-16T01:56:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Any window from your Mac, on your iPhone and iPad",
+    "link": "https://github.com/Saffsanity/sill",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 194</p>\n<p># Comments: 48</p>",
+    "published": "2026-10-16T01:43:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Thank You, Deno",
+    "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+    "summary": "<p>Article URL: <a href=\"https://www.vlt.io/blog/competition-keeps-javascript-moving\">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112331\">https://news.ycombinator.com/item?id=50112331</a></p>\n<p>Points: 109</p>\n<p># Comments: 23</p>",
+    "published": "2026-10-16T00:52:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RPKI now protects 70% of internet routes",
+    "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+    "summary": "<p>Article URL: <a href=\"https://ipinfo.io/blog/rpki-protects-70-internet-routes\">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112330\">https://news.ycombinator.com/item?id=50112330</a></p>\n<p>Points: 185</p>\n<p># Comments: 76</p>",
+    "published": "2026-10-16T00:52:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+    "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 379</p>\n<p># Comments: 132</p>",
+    "published": "2026-10-15T23:37:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What I self-host",
+    "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+    "summary": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 560</p>\n<p># Comments: 350</p>",
+    "published": "2026-10-15T20:23:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+    "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+    "summary": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 358</p>\n<p># Comments: 235</p>",
+    "published": "2026-10-15T19:55:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ms., Martians and Guacamole: Their First Time in The Times",
+    "link": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+    "summary": "Our reporters share a compendium of debuts, discoveries and (sometimes overdue) appearances in the paper.",
+    "published": "2026-10-15T19:50:16",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+    "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+    "summary": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 383</p>\n<p># Comments: 173</p>",
+    "published": "2026-10-15T19:21:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Muse Spark Open",
+    "link": "https://research.meta.ai/blog/muse-spark-open",
+    "summary": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 856</p>\n<p># Comments: 428</p>",
+    "published": "2026-10-15T17:47:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jev meets the Trolley Problem",
+    "link": "https://zachlandes.com/trolley-problem/",
+    "summary": "<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p>\n<p>Points: 530</p>\n<p># Comments: 217</p>",
+    "published": "2026-10-15T16:24:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "BIPM decides to stop adding leap seconds to UTC",
+    "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+    "summary": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 223</p>\n<p># Comments: 112</p>",
+    "published": "2026-10-15T16:11:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Krea 3 – An image model built for editing at scale",
+    "link": "https://www.krea.ai/krea-3",
+    "summary": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 324</p>\n<p># Comments: 105</p>",
+    "published": "2026-10-15T16:04:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Neural networks are clean",
+    "link": "https://already-clean.goodfire.com/",
+    "summary": "<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 744</p>\n<p># Comments: 282</p>",
+    "published": "2026-10-15T16:04:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Celebrating 70 Years of Fortran",
+    "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+    "summary": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 291</p>\n<p># Comments: 128</p>",
+    "published": "2026-10-15T15:03:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+    "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+    "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+    "published": "2026-10-15T14:51:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Using AI to reverse engineer hardware",
+    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "summary": "<p>Article URL: <a href=\"https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104299\">https://news.ycombinator.com/item?id=50104299</a></p>\n<p>Points: 219</p>\n<p># Comments: 193</p>",
+    "published": "2026-10-15T14:35:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wayland desktop for Linux with skeuomorphic design",
+    "link": "https://github.com/fyzugx/DEsk",
+    "summary": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 642</p>\n<p># Comments: 261</p>",
+    "published": "2026-10-15T13:23:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+    "link": "https://libreboot.org/news/libreboot2610.html",
+    "summary": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 295</p>\n<p># Comments: 184</p>",
+    "published": "2026-10-15T12:52:16",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
     "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
     "summary": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
     "published": "2026-10-15T10:52:08",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-    "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-    "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
-    "published": "2026-10-15T02:27:53",
     "source": "NYT > Technology"
   },
   {
@@ -56,6 +203,13 @@
     "source": "NYT > Technology"
   },
   {
+    "title": "AI-assisted PCB design for KiCad 10",
+    "link": "https://github.com/mixelpixx/Konnect",
+    "summary": "<p>Article URL: <a href=\"https://github.com/mixelpixx/Konnect\">https://github.com/mixelpixx/Konnect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085553\">https://news.ycombinator.com/item?id=50085553</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+    "published": "2026-10-14T10:51:37",
+    "source": "Hacker News: Front Page"
+  },
+  {
     "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
     "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
     "summary": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
@@ -66,7 +220,7 @@
     "title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
     "link": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
     "summary": "Advances in self-driving technology have made it easier to traverse distant worlds.",
-    "published": "2026-10-13T19:26:29",
+    "published": "2026-10-13T19:26:30",
     "source": "NYT > Technology"
   },
   {
@@ -123,48 +277,6 @@
     "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
     "summary": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
     "published": "2026-10-10T18:01:21",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Before Computer Science Became a Boys’ Club, Margaret Hamilton Wrote the Code",
-    "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-    "summary": "The woman who helped put astronauts on the moon was a software engineer when the field was not prestigious or lucrative.",
-    "published": "2026-10-09T14:11:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic’s Quest to Give A.I. Morals",
-    "link": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
-    "summary": "“For Anthropic, it was part research and part evangelism.”",
-    "published": "2026-10-09T11:01:21",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
-    "link": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
-    "summary": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.",
-    "published": "2026-10-09T09:03:46",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In Alex Gibney’s ‘Musk’, the Answer to the Trillionaire’s Power Is Unsatisfying.",
-    "link": "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
-    "summary": "Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new.",
-    "published": "2026-10-09T09:03:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’",
-    "link": "https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html",
-    "summary": "Aaron Sorkin’s sort-of sequel to the 2010 “Social Network” dramatizes a whistle-blowing case at Facebook. Here’s what to know.",
-    "published": "2026-10-09T09:01:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
-    "link": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
-    "summary": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.",
-    "published": "2026-10-08T22:48:07",
     "source": "NYT > Technology"
   }
 ]
