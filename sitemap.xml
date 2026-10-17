@@ -1,11 +1,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</loc>
+    <lastmod>2026-10-17T08:37:46</lastmod>
+  </url>
+  <url>
+    <loc>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</loc>
+    <lastmod>2026-10-17T08:21:25</lastmod>
+  </url>
+  <url>
+    <loc>https://llmspeed.dev/</loc>
+    <lastmod>2026-10-17T04:36:53</lastmod>
+  </url>
+  <url>
+    <loc>https://dune.fandom.com/wiki/Butlerian_Jihad</loc>
+    <lastmod>2026-10-17T02:21:08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.flexport.com/company/careers/</loc>
+    <lastmod>2026-10-17T01:01:51</lastmod>
+  </url>
+  <url>
+    <loc>https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</loc>
+    <lastmod>2026-10-16T22:21:05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html</loc>
+    <lastmod>2026-10-16T20:58:41</lastmod>
+  </url>
+  <url>
+    <loc>https://bfl.ai/blog/flux-3-image-klein</loc>
+    <lastmod>2026-10-16T19:47:13</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html</loc>
-    <lastmod>2026-10-16T13:00:28</lastmod>
+    <lastmod>2026-10-16T19:28:48</lastmod>
+  </url>
+  <url>
+    <loc>https://claude.dev/blog/solving-code-review-at-anthropic/</loc>
+    <lastmod>2026-10-16T19:04:47</lastmod>
+  </url>
+  <url>
+    <loc>https://alexwang.ai/posts/associative-memory/</loc>
+    <lastmod>2026-10-16T19:01:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.anthropic.com/research/ecdsa-curve-origins</loc>
+    <lastmod>2026-10-16T18:55:59</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/cobanov/PS5LM</loc>
+    <lastmod>2026-10-16T18:32:35</lastmod>
+  </url>
+  <url>
+    <loc>https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</loc>
+    <lastmod>2026-10-16T18:06:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.anthropic.com/research/designing-efficient-quantum-circuits</loc>
+    <lastmod>2026-10-16T18:00:18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mercor.com/research/labor-index/benchmark-map/</loc>
+    <lastmod>2026-10-16T17:08:38</lastmod>
+  </url>
+  <url>
+    <loc>https://jakearchibald.com/2026/jpeg-xl-vs-avif/</loc>
+    <lastmod>2026-10-16T16:12:02</lastmod>
+  </url>
+  <url>
+    <loc>https://adepts.of0x.cc/eufy-homestation2-firmware/</loc>
+    <lastmod>2026-10-16T15:38:28</lastmod>
+  </url>
+  <url>
+    <loc>https://starskirmish.com/bench/v0-2/</loc>
+    <lastmod>2026-10-16T14:18:44</lastmod>
+  </url>
+  <url>
+    <loc>https://machinelearning.apple.com/research/mlx-distributed-inference</loc>
+    <lastmod>2026-10-16T13:43:48</lastmod>
   </url>
   <url>
     <loc>https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</loc>
@@ -16,84 +92,16 @@
     <lastmod>2026-10-16T09:04:12</lastmod>
   </url>
   <url>
-    <loc>https://danieltemkin.com/esolangs/folders</loc>
-    <lastmod>2026-10-16T05:11:28</lastmod>
-  </url>
-  <url>
-    <loc>https://lwn.net/Articles/1094721/</loc>
-    <lastmod>2026-10-16T01:56:37</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/Saffsanity/sill</loc>
-    <lastmod>2026-10-16T01:43:17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.vlt.io/blog/competition-keeps-javascript-moving</loc>
-    <lastmod>2026-10-16T00:52:40</lastmod>
-  </url>
-  <url>
-    <loc>https://ipinfo.io/blog/rpki-protects-70-internet-routes</loc>
-    <lastmod>2026-10-16T00:52:35</lastmod>
-  </url>
-  <url>
-    <loc>https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</loc>
-    <lastmod>2026-10-15T23:37:42</lastmod>
-  </url>
-  <url>
-    <loc>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</loc>
-    <lastmod>2026-10-15T20:23:25</lastmod>
-  </url>
-  <url>
-    <loc>https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</loc>
-    <lastmod>2026-10-15T19:55:49</lastmod>
+    <loc>https://www.tesla.com/roadster</loc>
+    <lastmod>2026-10-16T01:32:45</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html</loc>
     <lastmod>2026-10-15T19:50:16</lastmod>
   </url>
   <url>
-    <loc>https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</loc>
-    <lastmod>2026-10-15T19:21:38</lastmod>
-  </url>
-  <url>
-    <loc>https://research.meta.ai/blog/muse-spark-open</loc>
-    <lastmod>2026-10-15T17:47:39</lastmod>
-  </url>
-  <url>
-    <loc>https://zachlandes.com/trolley-problem/</loc>
-    <lastmod>2026-10-15T16:24:52</lastmod>
-  </url>
-  <url>
-    <loc>https://www.bipm.org/en/cgpm-2026/resolution-5</loc>
-    <lastmod>2026-10-15T16:11:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.krea.ai/krea-3</loc>
-    <lastmod>2026-10-15T16:04:05</lastmod>
-  </url>
-  <url>
-    <loc>https://already-clean.goodfire.com/</loc>
-    <lastmod>2026-10-15T16:04:01</lastmod>
-  </url>
-  <url>
-    <loc>https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</loc>
-    <lastmod>2026-10-15T15:03:17</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html</loc>
     <lastmod>2026-10-15T14:51:19</lastmod>
-  </url>
-  <url>
-    <loc>https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</loc>
-    <lastmod>2026-10-15T14:35:15</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/fyzugx/DEsk</loc>
-    <lastmod>2026-10-15T13:23:44</lastmod>
-  </url>
-  <url>
-    <loc>https://libreboot.org/news/libreboot2610.html</loc>
-    <lastmod>2026-10-15T12:52:16</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html</loc>
@@ -120,10 +128,6 @@
     <lastmod>2026-10-14T15:21:46</lastmod>
   </url>
   <url>
-    <loc>https://github.com/mixelpixx/Konnect</loc>
-    <lastmod>2026-10-14T10:51:37</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html</loc>
     <lastmod>2026-10-14T01:33:22</lastmod>
   </url>
@@ -142,10 +146,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html</loc>
     <lastmod>2026-10-12T17:00:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html</loc>
-    <lastmod>2026-10-12T12:58:46</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html</loc>

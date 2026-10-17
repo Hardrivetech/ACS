@@ -1,79 +1,163 @@
 [
   {
-    "title": "Why No One Can Look Away From Elizabeth Holmes",
-    "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
-    "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
-    "published": "2026-10-16T13:00:28",
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129121\">https://news.ycombinator.com/item?id=50129121</a></p>\n<p>Points: 259</p>\n<p># Comments: 95</p>",
+    "published": "2026-10-17T08:37:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 230</p>\n<p># Comments: 92</p>",
+    "published": "2026-10-17T08:21:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "link": "https://llmspeed.dev/",
+    "summary": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 111</p>\n<p># Comments: 41</p>",
+    "published": "2026-10-17T04:36:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Butlerian Jihad",
+    "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+    "summary": "<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 268</p>\n<p># Comments: 154</p>",
+    "published": "2026-10-17T02:21:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+    "link": "https://www.flexport.com/company/careers/",
+    "summary": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126774\">https://news.ycombinator.com/item?id=50126774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-17T01:01:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nine-Inch Snails",
+    "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+    "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/\">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50125545\">https://news.ycombinator.com/item?id=50125545</a></p>\n<p>Points: 80</p>\n<p># Comments: 38</p>",
+    "published": "2026-10-16T22:21:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Meta Withdraws $25 Million from Its Midterms Push",
+    "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
+    "summary": "The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.",
+    "published": "2026-10-16T20:58:41",
     "source": "NYT > Technology"
   },
   {
-    "title": "I Love Software Rendering",
+    "title": "FLUX 3 Image Klein",
+    "link": "https://bfl.ai/blog/flux-3-image-klein",
+    "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 176</p>\n<p># Comments: 48</p>",
+    "published": "2026-10-16T19:47:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why No One Can Look Away From Elizabeth Holmes",
+    "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+    "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+    "published": "2026-10-16T19:28:48",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "How the Claude Code team does code review",
+    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 375</p>\n<p># Comments: 346</p>",
+    "published": "2026-10-16T19:04:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "You could have invented transformers from memory",
+    "link": "https://alexwang.ai/posts/associative-memory/",
+    "summary": "<p>Article URL: <a href=\"https://alexwang.ai/posts/associative-memory/\">https://alexwang.ai/posts/associative-memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 330</p>\n<p># Comments: 78</p>",
+    "published": "2026-10-16T19:01:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude reveals ECDSA curve origins",
+    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "summary": "<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 906</p>\n<p># Comments: 335</p>",
+    "published": "2026-10-16T18:55:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "link": "https://github.com/cobanov/PS5LM",
+    "summary": "<p>Article URL: <a href=\"https://github.com/cobanov/PS5LM\">https://github.com/cobanov/PS5LM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122431\">https://news.ycombinator.com/item?id=50122431</a></p>\n<p>Points: 306</p>\n<p># Comments: 75</p>",
+    "published": "2026-10-16T18:32:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+    "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+    "summary": "<p>Article URL: <a href=\"https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\">https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122034\">https://news.ycombinator.com/item?id=50122034</a></p>\n<p>Points: 233</p>\n<p># Comments: 209</p>",
+    "published": "2026-10-16T18:06:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Designing more efficient quantum circuits with Claude",
+    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/designing-efficient-quantum-circuits\">https://www.anthropic.com/research/designing-efficient-quantum-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121939\">https://news.ycombinator.com/item?id=50121939</a></p>\n<p>Points: 151</p>\n<p># Comments: 32</p>",
+    "published": "2026-10-16T18:00:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "summary": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 528</p>\n<p># Comments: 448</p>",
+    "published": "2026-10-16T17:08:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "JPEG XL vs. AVIF for web use-cases",
+    "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+    "summary": "<p>Article URL: <a href=\"https://jakearchibald.com/2026/jpeg-xl-vs-avif/\">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120224\">https://news.ycombinator.com/item?id=50120224</a></p>\n<p>Points: 273</p>\n<p># Comments: 187</p>",
+    "published": "2026-10-16T16:12:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+    "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+    "summary": "<p>Article URL: <a href=\"https://adepts.of0x.cc/eufy-homestation2-firmware/\">https://adepts.of0x.cc/eufy-homestation2-firmware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119751\">https://news.ycombinator.com/item?id=50119751</a></p>\n<p>Points: 55</p>\n<p># Comments: 3</p>",
+    "published": "2026-10-16T15:38:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "link": "https://starskirmish.com/bench/v0-2/",
+    "summary": "<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118688\">https://news.ycombinator.com/item?id=50118688</a></p>\n<p>Points: 226</p>\n<p># Comments: 102</p>",
+    "published": "2026-10-16T14:18:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+    "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+    "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/mlx-distributed-inference\">https://machinelearning.apple.com/research/mlx-distributed-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118320\">https://news.ycombinator.com/item?id=50118320</a></p>\n<p>Points: 328</p>\n<p># Comments: 166</p>",
+    "published": "2026-10-16T13:43:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "I love software rendering",
     "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-    "summary": "<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+    "summary": "<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 328</p>\n<p># Comments: 207</p>",
     "published": "2026-10-16T12:52:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+    "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
     "link": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
     "summary": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
     "published": "2026-10-16T09:04:12",
     "source": "NYT > Technology"
   },
   {
-    "title": "The Folders Programming Language",
-    "link": "https://danieltemkin.com/esolangs/folders",
-    "summary": "<p>Article URL: <a href=\"https://danieltemkin.com/esolangs/folders\">https://danieltemkin.com/esolangs/folders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50114342\">https://news.ycombinator.com/item?id=50114342</a></p>\n<p>Points: 125</p>\n<p># Comments: 20</p>",
-    "published": "2026-10-16T05:11:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Comparing Chromium Development at Google and Igalia",
-    "link": "https://lwn.net/Articles/1094721/",
-    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1094721/\">https://lwn.net/Articles/1094721/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112887\">https://news.ycombinator.com/item?id=50112887</a></p>\n<p>Points: 71</p>\n<p># Comments: 20</p>",
-    "published": "2026-10-16T01:56:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Any window from your Mac, on your iPhone and iPad",
-    "link": "https://github.com/Saffsanity/sill",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 194</p>\n<p># Comments: 48</p>",
-    "published": "2026-10-16T01:43:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Thank You, Deno",
-    "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
-    "summary": "<p>Article URL: <a href=\"https://www.vlt.io/blog/competition-keeps-javascript-moving\">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112331\">https://news.ycombinator.com/item?id=50112331</a></p>\n<p>Points: 109</p>\n<p># Comments: 23</p>",
-    "published": "2026-10-16T00:52:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "RPKI now protects 70% of internet routes",
-    "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-    "summary": "<p>Article URL: <a href=\"https://ipinfo.io/blog/rpki-protects-70-internet-routes\">https://ipinfo.io/blog/rpki-protects-70-internet-routes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112330\">https://news.ycombinator.com/item?id=50112330</a></p>\n<p>Points: 185</p>\n<p># Comments: 76</p>",
-    "published": "2026-10-16T00:52:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-    "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/\">https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111852\">https://news.ycombinator.com/item?id=50111852</a></p>\n<p>Points: 379</p>\n<p># Comments: 132</p>",
-    "published": "2026-10-15T23:37:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What I self-host",
-    "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-    "summary": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 560</p>\n<p># Comments: 350</p>",
-    "published": "2026-10-15T20:23:25",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-    "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-    "summary": "<p>Article URL: <a href=\"https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts\">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109375\">https://news.ycombinator.com/item?id=50109375</a></p>\n<p>Points: 358</p>\n<p># Comments: 235</p>",
-    "published": "2026-10-15T19:55:49",
+    "title": "Tesla Roadster",
+    "link": "https://www.tesla.com/roadster",
+    "summary": "<p><a href=\"https://www.youtube.com/watch?v=7p5LxFdc-Qg\" rel=\"nofollow\">https://www.youtube.com/watch?v=7p5LxFdc-Qg</a><p><a href=\"https://twitter.com/Tesla/status/2110788059008819215\" rel=\"nofollow\">https://twitter.com/Tesla/status/2110788059008819215</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112657\">https://news.ycombinator.com/item?id=50112657</a></p>\n<p>Points: 1473</p>\n<p># Comments: 2622</p>",
+    "published": "2026-10-16T01:32:45",
     "source": "Hacker News: Front Page"
   },
   {
@@ -84,81 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-    "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-    "summary": "<p>Article URL: <a href=\"https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup\">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50108872\">https://news.ycombinator.com/item?id=50108872</a></p>\n<p>Points: 383</p>\n<p># Comments: 173</p>",
-    "published": "2026-10-15T19:21:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Muse Spark Open",
-    "link": "https://research.meta.ai/blog/muse-spark-open",
-    "summary": "<p><a href=\"https://dev.meta.ai/resources/blog/build-with-muse-spark-open\" rel=\"nofollow\">https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...</a><p><a href=\"https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B</a><p><a href=\"https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-open-model-optimized-to-run-on-mac-studio/\" rel=\"nofollow\">https://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50107379\">https://news.ycombinator.com/item?id=50107379</a></p>\n<p>Points: 856</p>\n<p># Comments: 428</p>",
-    "published": "2026-10-15T17:47:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jev meets the Trolley Problem",
-    "link": "https://zachlandes.com/trolley-problem/",
-    "summary": "<p>Article URL: <a href=\"https://zachlandes.com/trolley-problem/\">https://zachlandes.com/trolley-problem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50106023\">https://news.ycombinator.com/item?id=50106023</a></p>\n<p>Points: 530</p>\n<p># Comments: 217</p>",
-    "published": "2026-10-15T16:24:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "BIPM decides to stop adding leap seconds to UTC",
-    "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-    "summary": "<p>Article URL: <a href=\"https://www.bipm.org/en/cgpm-2026/resolution-5\">https://www.bipm.org/en/cgpm-2026/resolution-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105777\">https://news.ycombinator.com/item?id=50105777</a></p>\n<p>Points: 223</p>\n<p># Comments: 112</p>",
-    "published": "2026-10-15T16:11:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Krea 3 – An image model built for editing at scale",
-    "link": "https://www.krea.ai/krea-3",
-    "summary": "<p>Article URL: <a href=\"https://www.krea.ai/krea-3\">https://www.krea.ai/krea-3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105648\">https://news.ycombinator.com/item?id=50105648</a></p>\n<p>Points: 324</p>\n<p># Comments: 105</p>",
-    "published": "2026-10-15T16:04:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Neural networks are clean",
-    "link": "https://already-clean.goodfire.com/",
-    "summary": "<p><a href=\"https://twitter.com/nickcammarata/status/2110757819427574056\" rel=\"nofollow\">https://twitter.com/nickcammarata/status/2110757819427574056</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50105647\">https://news.ycombinator.com/item?id=50105647</a></p>\n<p>Points: 744</p>\n<p># Comments: 282</p>",
-    "published": "2026-10-15T16:04:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Celebrating 70 Years of Fortran",
-    "link": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-    "summary": "<p>Article URL: <a href=\"https://fortran-lang.org/news/2026/09-15-Fortran-birthday/\">https://fortran-lang.org/news/2026/09-15-Fortran-birthday/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104726\">https://news.ycombinator.com/item?id=50104726</a></p>\n<p>Points: 291</p>\n<p># Comments: 128</p>",
-    "published": "2026-10-15T15:03:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
     "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
     "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
     "published": "2026-10-15T14:51:19",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Using AI to reverse engineer hardware",
-    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-    "summary": "<p>Article URL: <a href=\"https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/\">https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50104299\">https://news.ycombinator.com/item?id=50104299</a></p>\n<p>Points: 219</p>\n<p># Comments: 193</p>",
-    "published": "2026-10-15T14:35:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Wayland desktop for Linux with skeuomorphic design",
-    "link": "https://github.com/fyzugx/DEsk",
-    "summary": "<p>Article URL: <a href=\"https://github.com/fyzugx/DEsk\">https://github.com/fyzugx/DEsk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50103338\">https://news.ycombinator.com/item?id=50103338</a></p>\n<p>Points: 642</p>\n<p># Comments: 261</p>",
-    "published": "2026-10-15T13:23:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-    "link": "https://libreboot.org/news/libreboot2610.html",
-    "summary": "<p>Article URL: <a href=\"https://libreboot.org/news/libreboot2610.html\">https://libreboot.org/news/libreboot2610.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50102923\">https://news.ycombinator.com/item?id=50102923</a></p>\n<p>Points: 295</p>\n<p># Comments: 184</p>",
-    "published": "2026-10-15T12:52:16",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
@@ -203,13 +217,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "AI-assisted PCB design for KiCad 10",
-    "link": "https://github.com/mixelpixx/Konnect",
-    "summary": "<p>Article URL: <a href=\"https://github.com/mixelpixx/Konnect\">https://github.com/mixelpixx/Konnect</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50085553\">https://news.ycombinator.com/item?id=50085553</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
-    "published": "2026-10-14T10:51:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
     "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
     "summary": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
@@ -242,13 +249,6 @@
     "link": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
     "summary": "The new models, Muse Wonder and Muse Wonder Full, are meant to compete with cutting-edge A.I. models from rivals like Anthropic and OpenAI.",
     "published": "2026-10-12T17:00:06",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi",
-    "link": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
-    "summary": "Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider.",
-    "published": "2026-10-12T12:58:46",
     "source": "NYT > Technology"
   },
   {
