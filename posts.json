@@ -1,44 +1,135 @@
 [
   {
-    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-    "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-    "summary": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129121\">https://news.ycombinator.com/item?id=50129121</a></p>\n<p>Points: 259</p>\n<p># Comments: 95</p>",
-    "published": "2026-10-17T08:37:46",
+    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+    "link": "https://github.com/0x23/MicroManipulatorStepper",
+    "summary": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+    "published": "2026-10-18T11:16:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
+    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/\">https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139935\">https://news.ycombinator.com/item?id=50139935</a></p>\n<p>Points: 19</p>\n<p># Comments: 23</p>",
+    "published": "2026-10-18T11:02:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+    "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139692\">https://news.ycombinator.com/item?id=50139692</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+    "published": "2026-10-18T10:21:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Parser Combinators",
+    "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
+    "summary": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 63</p>\n<p># Comments: 31</p>",
+    "published": "2026-10-18T08:19:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "link": "https://api-docs.deepseek.com/guides/search/",
+    "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/search/\">https://api-docs.deepseek.com/guides/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138531\">https://news.ycombinator.com/item?id=50138531</a></p>\n<p>Points: 284</p>\n<p># Comments: 127</p>",
+    "published": "2026-10-18T06:50:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "link": "https://sphinx-six-theta.vercel.app/",
+    "summary": "<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137950\">https://news.ycombinator.com/item?id=50137950</a></p>\n<p>Points: 165</p>\n<p># Comments: 48</p>",
+    "published": "2026-10-18T04:33:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+    "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+    "summary": "<p>Article URL: <a href=\"https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything\">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137620\">https://news.ycombinator.com/item?id=50137620</a></p>\n<p>Points: 181</p>\n<p># Comments: 215</p>",
+    "published": "2026-10-18T03:19:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NY announces game ownership bill requiring ownership rather than licensing",
+    "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends\">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50136536\">https://news.ycombinator.com/item?id=50136536</a></p>\n<p>Points: 339</p>\n<p># Comments: 128</p>",
+    "published": "2026-10-18T00:14:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Codex Desktop continuously generates Crashpad pending dumps",
+    "link": "https://github.com/openai/codex/issues/25921",
+    "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/25921\">https://github.com/openai/codex/issues/25921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133231\">https://news.ycombinator.com/item?id=50133231</a></p>\n<p>Points: 143</p>\n<p># Comments: 67</p>",
+    "published": "2026-10-17T17:45:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gold is now the top U.S. export",
+    "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "summary": "<p>Article URL: <a href=\"https://www.numismaticnews.net/gold-now-top-u-s-export\">https://www.numismaticnews.net/gold-now-top-u-s-export</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132870\">https://news.ycombinator.com/item?id=50132870</a></p>\n<p>Points: 352</p>\n<p># Comments: 193</p>",
+    "published": "2026-10-17T17:06:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "link": "https://pele.run/",
+    "summary": "<p>Article URL: <a href=\"https://pele.run/\">https://pele.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132193\">https://news.ycombinator.com/item?id=50132193</a></p>\n<p>Points: 473</p>\n<p># Comments: 41</p>",
+    "published": "2026-10-17T15:55:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Making chicken transparent using Dorito dust",
+    "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "summary": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131213\">https://news.ycombinator.com/item?id=50131213</a></p>\n<p>Points: 318</p>\n<p># Comments: 82</p>",
+    "published": "2026-10-17T13:55:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: High-quality duck audio synthesizer",
+    "link": "https://celphase.github.io/duck-pond/",
+    "summary": "<p>Article URL: <a href=\"https://celphase.github.io/duck-pond/\">https://celphase.github.io/duck-pond/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131006\">https://news.ycombinator.com/item?id=50131006</a></p>\n<p>Points: 147</p>\n<p># Comments: 31</p>",
+    "published": "2026-10-17T13:28:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Interactive Linear Programming in the Browser",
+    "link": "https://lpviz.net/",
+    "summary": "<p>Article URL: <a href=\"https://lpviz.net/\">https://lpviz.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50130379\">https://news.ycombinator.com/item?id=50130379</a></p>\n<p>Points: 50</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-17T12:06:44",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "DeepSeek-v4.1-Flash-1017",
     "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "summary": "<p>Article URL: <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 230</p>\n<p># Comments: 92</p>",
+    "summary": "<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 889</p>\n<p># Comments: 667</p>",
     "published": "2026-10-17T08:21:25",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
     "link": "https://llmspeed.dev/",
-    "summary": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 111</p>\n<p># Comments: 41</p>",
+    "summary": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 307</p>\n<p># Comments: 84</p>",
     "published": "2026-10-17T04:36:53",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Butlerian Jihad",
-    "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-    "summary": "<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 268</p>\n<p># Comments: 154</p>",
-    "published": "2026-10-17T02:21:08",
+    "title": "Dam removals are bringing fish back across the northeastern United States",
+    "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\">https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126312\">https://news.ycombinator.com/item?id=50126312</a></p>\n<p>Points: 297</p>\n<p># Comments: 75</p>",
+    "published": "2026-10-16T23:47:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-    "link": "https://www.flexport.com/company/careers/",
-    "summary": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126774\">https://news.ycombinator.com/item?id=50126774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-17T01:01:51",
+    "title": "Bleached corals thrive within days when touching healthy neighbour",
+    "link": "https://www.nature.com/articles/d41586-026-03266-x",
+    "summary": "<p><a href=\"https://archive.ph/zIPG4\" rel=\"nofollow\">https://archive.ph/zIPG4</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126253\">https://news.ycombinator.com/item?id=50126253</a></p>\n<p>Points: 480</p>\n<p># Comments: 105</p>",
+    "published": "2026-10-16T23:38:27",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Nine-Inch Snails",
-    "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/\">https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50125545\">https://news.ycombinator.com/item?id=50125545</a></p>\n<p>Points: 80</p>\n<p># Comments: 38</p>",
-    "published": "2026-10-16T22:21:05",
+    "title": "Teal – A statically-typed dialect of Lua",
+    "link": "https://teal-language.org/",
+    "summary": "<p>Article URL: <a href=\"https://teal-language.org/\">https://teal-language.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124730\">https://news.ycombinator.com/item?id=50124730</a></p>\n<p>Points: 56</p>\n<p># Comments: 21</p>",
+    "published": "2026-10-16T21:07:24",
     "source": "Hacker News: Front Page"
   },
   {
@@ -49,13 +140,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "FLUX 3 Image Klein",
-    "link": "https://bfl.ai/blog/flux-3-image-klein",
-    "summary": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 176</p>\n<p># Comments: 48</p>",
-    "published": "2026-10-16T19:47:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Why No One Can Look Away From Elizabeth Holmes",
     "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
     "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
@@ -63,87 +147,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "How the Claude Code team does code review",
-    "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/solving-code-review-at-anthropic/\">https://claude.dev/blog/solving-code-review-at-anthropic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122951\">https://news.ycombinator.com/item?id=50122951</a></p>\n<p>Points: 375</p>\n<p># Comments: 346</p>",
-    "published": "2026-10-16T19:04:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "You could have invented transformers from memory",
     "link": "https://alexwang.ai/posts/associative-memory/",
-    "summary": "<p>Article URL: <a href=\"https://alexwang.ai/posts/associative-memory/\">https://alexwang.ai/posts/associative-memory/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 330</p>\n<p># Comments: 78</p>",
+    "summary": "<p><a href=\"https://twitter.com/heyyalexwang/status/2111158818730397932\" rel=\"nofollow\">https://twitter.com/heyyalexwang/status/2111158818730397932</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 580</p>\n<p># Comments: 130</p>",
     "published": "2026-10-16T19:01:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Claude reveals ECDSA curve origins",
-    "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "summary": "<p><a href=\"https://words.filippo.io/seeds-solved/\" rel=\"nofollow\">https://words.filippo.io/seeds-solved/</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122800\">https://news.ycombinator.com/item?id=50122800</a></p>\n<p>Points: 906</p>\n<p># Comments: 335</p>",
-    "published": "2026-10-16T18:55:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "link": "https://github.com/cobanov/PS5LM",
-    "summary": "<p>Article URL: <a href=\"https://github.com/cobanov/PS5LM\">https://github.com/cobanov/PS5LM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122431\">https://news.ycombinator.com/item?id=50122431</a></p>\n<p>Points: 306</p>\n<p># Comments: 75</p>",
-    "published": "2026-10-16T18:32:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-    "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-    "summary": "<p>Article URL: <a href=\"https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\">https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122034\">https://news.ycombinator.com/item?id=50122034</a></p>\n<p>Points: 233</p>\n<p># Comments: 209</p>",
-    "published": "2026-10-16T18:06:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Designing more efficient quantum circuits with Claude",
-    "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/designing-efficient-quantum-circuits\">https://www.anthropic.com/research/designing-efficient-quantum-circuits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121939\">https://news.ycombinator.com/item?id=50121939</a></p>\n<p>Points: 151</p>\n<p># Comments: 32</p>",
-    "published": "2026-10-16T18:00:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "summary": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 528</p>\n<p># Comments: 448</p>",
-    "published": "2026-10-16T17:08:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "JPEG XL vs. AVIF for web use-cases",
-    "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-    "summary": "<p>Article URL: <a href=\"https://jakearchibald.com/2026/jpeg-xl-vs-avif/\">https://jakearchibald.com/2026/jpeg-xl-vs-avif/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50120224\">https://news.ycombinator.com/item?id=50120224</a></p>\n<p>Points: 273</p>\n<p># Comments: 187</p>",
-    "published": "2026-10-16T16:12:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-    "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-    "summary": "<p>Article URL: <a href=\"https://adepts.of0x.cc/eufy-homestation2-firmware/\">https://adepts.of0x.cc/eufy-homestation2-firmware/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119751\">https://news.ycombinator.com/item?id=50119751</a></p>\n<p>Points: 55</p>\n<p># Comments: 3</p>",
-    "published": "2026-10-16T15:38:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Gemini 4 Argon plays StarCraft",
-    "link": "https://starskirmish.com/bench/v0-2/",
-    "summary": "<p>I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118688\">https://news.ycombinator.com/item?id=50118688</a></p>\n<p>Points: 226</p>\n<p># Comments: 102</p>",
-    "published": "2026-10-16T14:18:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-    "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-    "summary": "<p>Article URL: <a href=\"https://machinelearning.apple.com/research/mlx-distributed-inference\">https://machinelearning.apple.com/research/mlx-distributed-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118320\">https://news.ycombinator.com/item?id=50118320</a></p>\n<p>Points: 328</p>\n<p># Comments: 166</p>",
-    "published": "2026-10-16T13:43:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I love software rendering",
-    "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-    "summary": "<p>Article URL: <a href=\"https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/\">https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50117746\">https://news.ycombinator.com/item?id=50117746</a></p>\n<p>Points: 328</p>\n<p># Comments: 207</p>",
-    "published": "2026-10-16T12:52:08",
     "source": "Hacker News: Front Page"
   },
   {
@@ -152,13 +159,6 @@
     "summary": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
     "published": "2026-10-16T09:04:12",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Tesla Roadster",
-    "link": "https://www.tesla.com/roadster",
-    "summary": "<p><a href=\"https://www.youtube.com/watch?v=7p5LxFdc-Qg\" rel=\"nofollow\">https://www.youtube.com/watch?v=7p5LxFdc-Qg</a><p><a href=\"https://twitter.com/Tesla/status/2110788059008819215\" rel=\"nofollow\">https://twitter.com/Tesla/status/2110788059008819215</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112657\">https://news.ycombinator.com/item?id=50112657</a></p>\n<p>Points: 1473</p>\n<p># Comments: 2622</p>",
-    "published": "2026-10-16T01:32:45",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Ms., Martians and Guacamole: Their First Time in The Times",
