@@ -1,135 +1,149 @@
 [
   {
-    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-    "link": "https://github.com/0x23/MicroManipulatorStepper",
-    "summary": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
-    "published": "2026-10-18T11:16:22",
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+    "summary": "<p>Article URL: <a href=\"https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf\">https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153431\">https://news.ycombinator.com/item?id=50153431</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-19T15:10:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Kids are outsmarting social media bans. That's not a problem we need to solve",
-    "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-    "summary": "<p>Article URL: <a href=\"https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/\">https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139935\">https://news.ycombinator.com/item?id=50139935</a></p>\n<p>Points: 19</p>\n<p># Comments: 23</p>",
-    "published": "2026-10-18T11:02:28",
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins\">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152877\">https://news.ycombinator.com/item?id=50152877</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-19T14:23:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-    "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-    "summary": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139692\">https://news.ycombinator.com/item?id=50139692</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
-    "published": "2026-10-18T10:21:51",
+    "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+    "link": "https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
+    "summary": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.",
+    "published": "2026-10-19T14:23:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "link": "https://github.com/kividbio/kividb",
+    "summary": "<p>Hi all,<p>So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getting OOM on running pods, and that was actually an issue I faced with Dragonfly. I wanted to have something picking the best of Rust, but also picking the best parts of other alternatives like Garnet and Dragonfly. I used AI a lot, but I was the one making the design decisions based on the tests that claude picked from my history of troubleshooting sessions as part of my job. KiviDB supports both RESP2 and RESP3 protocol. I had some founders credits on my AWS account which helped me with the infra, and running instances I could perform benchmark on.<p>Its keyspace is sharded across threads, it is multi-threaded in nature, and performs best on Linux due to io_uring, I used the tokio_uring crate for this. It also has tokio fallback for other OS's. I hadn't open sourced it until recently as I felt it was not ready yet, the best way to learn it was to build a cloud managed service for it across all three widely used cloud providers i.e AWS, GCP and azure. Since I used to mainly work with cloud, I had some insights on what would be the best ways for the deployments, how to conduct failovers, manage SLAs, etc. And that's what I took help from claude to fast pace it. The website does look like AI slop but it works for now, given my limited resources, that's all I had. You may check it out at : <a href=\"https://kividb.io\" rel=\"nofollow\">https://kividb.io</a>, I open sourced the core engine under AGPLv3, didn't want to have just source available, because that is available with other tools too. It supports apprx 98-99% of the redis 8.10 commands, few have issues and you can find them at <a href=\"https://github.com/kividbio/kividb/issues\" rel=\"nofollow\">https://github.com/kividbio/kividb/issues</a>, contributors are welcome.<p>Now the numbers, for the final benchmark, I used 2 c7gn.metal servers, in the same placement group in us-east1, and I used memtier-benchmark tool for this. The setting was : 10M keys, 100B each, 32 cores in use with both pipeline and un-pipelined runs.<p>pipeline 16 GET: KiviDB 21.2M ops/sec vs Dragonfly 2.0 9.1M, Redis 8.10 2.4M, Redis Cluster 32 shards 4.7M<p>When not pipelined, Dragonfly performed slightly better at 3.35M ops/sec vs kividb at 3.07M ops/sec. Memory per key was also slightly worse than dragonfly and almost same as Redis, 177B (kividb) vs 134B (dragonfly) vs 178B (redis).<p>With vector ingestion times it was slower but when querying, it was faster than most alternatives at lower ef, however slower than dragonfly at high ef. Most of the technical details are mentioned here so you can check it out: <a href=\"https://kividb.io/benchmarks\" rel=\"nofollow\">https://kividb.io/benchmarks</a>.<p>easiest way to try it: docker run -d -p 6380:6380 kividb/kividb<p>I am looking forward to building a community around this, provide better rust based tools, I am open to constructive criticism and value informed opinion. Thanks</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152541\">https://news.ycombinator.com/item?id=50152541</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+    "published": "2026-10-19T13:53:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Parser Combinators",
-    "link": "https://t3.at/blog/2026-10-17-parser-combinators/",
-    "summary": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 63</p>\n<p># Comments: 31</p>",
-    "published": "2026-10-18T08:19:53",
+    "title": "Wine Ported to OpenBSD",
+    "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "summary": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&amp;m=179236125692175\">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 177</p>\n<p># Comments: 40</p>",
+    "published": "2026-10-19T13:35:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-    "link": "https://api-docs.deepseek.com/guides/search/",
-    "summary": "<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/search/\">https://api-docs.deepseek.com/guides/search/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50138531\">https://news.ycombinator.com/item?id=50138531</a></p>\n<p>Points: 284</p>\n<p># Comments: 127</p>",
-    "published": "2026-10-18T06:50:36",
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "link": "https://100toolkit.com/blog/deslop-model/",
+    "summary": "<p>Article URL: <a href=\"https://100toolkit.com/blog/deslop-model/\">https://100toolkit.com/blog/deslop-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151928\">https://news.ycombinator.com/item?id=50151928</a></p>\n<p>Points: 97</p>\n<p># Comments: 76</p>",
+    "published": "2026-10-19T13:00:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "link": "https://sphinx-six-theta.vercel.app/",
-    "summary": "<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137950\">https://news.ycombinator.com/item?id=50137950</a></p>\n<p>Points: 165</p>\n<p># Comments: 48</p>",
-    "published": "2026-10-18T04:33:49",
+    "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+    "link": "https://github.com/google-research/harness2",
+    "summary": "<p>Article URL: <a href=\"https://github.com/google-research/harness2\">https://github.com/google-research/harness2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151059\">https://news.ycombinator.com/item?id=50151059</a></p>\n<p>Points: 53</p>\n<p># Comments: 13</p>",
+    "published": "2026-10-19T11:28:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-    "link": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-    "summary": "<p>Article URL: <a href=\"https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything\">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137620\">https://news.ycombinator.com/item?id=50137620</a></p>\n<p>Points: 181</p>\n<p># Comments: 215</p>",
-    "published": "2026-10-18T03:19:49",
+    "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+    "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous\">https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150935\">https://news.ycombinator.com/item?id=50150935</a></p>\n<p>Points: 49</p>\n<p># Comments: 1</p>",
+    "published": "2026-10-19T11:12:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "NY announces game ownership bill requiring ownership rather than licensing",
-    "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends\">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50136536\">https://news.ycombinator.com/item?id=50136536</a></p>\n<p>Points: 339</p>\n<p># Comments: 128</p>",
-    "published": "2026-10-18T00:14:22",
+    "title": "Alternatives to Animal Testing Are Finally Taking Off",
+    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/alternatives-to-animal-testing\">https://spectrum.ieee.org/alternatives-to-animal-testing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150927\">https://news.ycombinator.com/item?id=50150927</a></p>\n<p>Points: 139</p>\n<p># Comments: 38</p>",
+    "published": "2026-10-19T11:10:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Codex Desktop continuously generates Crashpad pending dumps",
-    "link": "https://github.com/openai/codex/issues/25921",
-    "summary": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/25921\">https://github.com/openai/codex/issues/25921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133231\">https://news.ycombinator.com/item?id=50133231</a></p>\n<p>Points: 143</p>\n<p># Comments: 67</p>",
-    "published": "2026-10-17T17:45:08",
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "summary": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150809\">https://news.ycombinator.com/item?id=50150809</a></p>\n<p>Points: 142</p>\n<p># Comments: 41</p>",
+    "published": "2026-10-19T10:53:39",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Gold is now the top U.S. export",
-    "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "summary": "<p>Article URL: <a href=\"https://www.numismaticnews.net/gold-now-top-u-s-export\">https://www.numismaticnews.net/gold-now-top-u-s-export</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132870\">https://news.ycombinator.com/item?id=50132870</a></p>\n<p>Points: 352</p>\n<p># Comments: 193</p>",
-    "published": "2026-10-17T17:06:07",
+    "title": "Timestral: Mistral release time-series foundation models",
+    "link": "https://mistral.ai/news/timestral/",
+    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/timestral/\">https://mistral.ai/news/timestral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150434\">https://news.ycombinator.com/item?id=50150434</a></p>\n<p>Points: 307</p>\n<p># Comments: 50</p>",
+    "published": "2026-10-19T09:59:32",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "link": "https://pele.run/",
-    "summary": "<p>Article URL: <a href=\"https://pele.run/\">https://pele.run/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132193\">https://news.ycombinator.com/item?id=50132193</a></p>\n<p>Points: 473</p>\n<p># Comments: 41</p>",
-    "published": "2026-10-17T15:55:09",
+    "title": "Linux 7.3",
+    "link": "https://lwn.net/Articles/1101143/",
+    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101143/\">https://lwn.net/Articles/1101143/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50149392\">https://news.ycombinator.com/item?id=50149392</a></p>\n<p>Points: 480</p>\n<p># Comments: 204</p>",
+    "published": "2026-10-19T07:23:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Making chicken transparent using Dorito dust",
-    "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-    "summary": "<p>Article URL: <a href=\"https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using\">https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131213\">https://news.ycombinator.com/item?id=50131213</a></p>\n<p>Points: 318</p>\n<p># Comments: 82</p>",
-    "published": "2026-10-17T13:55:28",
+    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+    "summary": "<p>Article URL: <a href=\"https://crystl.dev/guides/tmux-for-ai-agents/\">https://crystl.dev/guides/tmux-for-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148855\">https://news.ycombinator.com/item?id=50148855</a></p>\n<p>Points: 113</p>\n<p># Comments: 78</p>",
+    "published": "2026-10-19T05:55:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: High-quality duck audio synthesizer",
-    "link": "https://celphase.github.io/duck-pond/",
-    "summary": "<p>Article URL: <a href=\"https://celphase.github.io/duck-pond/\">https://celphase.github.io/duck-pond/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131006\">https://news.ycombinator.com/item?id=50131006</a></p>\n<p>Points: 147</p>\n<p># Comments: 31</p>",
-    "published": "2026-10-17T13:28:46",
+    "title": "Superlite: A Faster Alternatie to Superpowers",
+    "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+    "summary": "<p>Article URL: <a href=\"https://contextfirst.blog/superlite-hand-an-agent-a-spec/\">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50147492\">https://news.ycombinator.com/item?id=50147492</a></p>\n<p>Points: 131</p>\n<p># Comments: 61</p>",
+    "published": "2026-10-19T02:01:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Interactive Linear Programming in the Browser",
-    "link": "https://lpviz.net/",
-    "summary": "<p>Article URL: <a href=\"https://lpviz.net/\">https://lpviz.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50130379\">https://news.ycombinator.com/item?id=50130379</a></p>\n<p>Points: 50</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-17T12:06:44",
+    "title": "William Gibson and the trademarking of cyberspace",
+    "link": "https://colo.to/cyberspace.html",
+    "summary": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p>\n<p>Points: 242</p>\n<p># Comments: 113</p>",
+    "published": "2026-10-18T23:37:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "summary": "<p><a href=\"https://api-docs.deepseek.com/news/news261017/\" rel=\"nofollow\">https://api-docs.deepseek.com/news/news261017/</a><p><a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\" rel=\"nofollow\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 889</p>\n<p># Comments: 667</p>",
-    "published": "2026-10-17T08:21:25",
+    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+    "summary": "<p>Article URL: <a href=\"https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base\">https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146624\">https://news.ycombinator.com/item?id=50146624</a></p>\n<p>Points: 119</p>\n<p># Comments: 184</p>",
+    "published": "2026-10-18T23:37:54",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "link": "https://llmspeed.dev/",
-    "summary": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 307</p>\n<p># Comments: 84</p>",
-    "published": "2026-10-17T04:36:53",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "summary": "<p>Article URL: <a href=\"https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145507\">https://news.ycombinator.com/item?id=50145507</a></p>\n<p>Points: 261</p>\n<p># Comments: 180</p>",
+    "published": "2026-10-18T21:09:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Dam removals are bringing fish back across the northeastern United States",
-    "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-    "summary": "<p>Article URL: <a href=\"https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\">https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126312\">https://news.ycombinator.com/item?id=50126312</a></p>\n<p>Points: 297</p>\n<p># Comments: 75</p>",
-    "published": "2026-10-16T23:47:31",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "link": "https://arxiv.org/abs/2610.18861",
+    "summary": "<p><a href=\"https://x.com/Jiaru_Zou/status/2110400256647340476\" rel=\"nofollow\">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href=\"https://github.com/togethercomputer/HybridAgent\" rel=\"nofollow\">https://github.com/togethercomputer/HybridAgent</a><p><a href=\"https://huggingface.co/collections/togethercomputer/hybridagent\" rel=\"nofollow\">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href=\"https://arxiv.org/html/2610.18861v1#S5\" rel=\"nofollow\">https://arxiv.org/html/2610.18861v1#S5</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 478</p>\n<p># Comments: 226</p>",
+    "published": "2026-10-18T20:48:14",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Bleached corals thrive within days when touching healthy neighbour",
-    "link": "https://www.nature.com/articles/d41586-026-03266-x",
-    "summary": "<p><a href=\"https://archive.ph/zIPG4\" rel=\"nofollow\">https://archive.ph/zIPG4</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126253\">https://news.ycombinator.com/item?id=50126253</a></p>\n<p>Points: 480</p>\n<p># Comments: 105</p>",
-    "published": "2026-10-16T23:38:27",
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "link": "https://www.getlazarus.org/dynamic/",
+    "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 188</p>\n<p># Comments: 44</p>",
+    "published": "2026-10-18T18:48:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Teal – A statically-typed dialect of Lua",
-    "link": "https://teal-language.org/",
-    "summary": "<p>Article URL: <a href=\"https://teal-language.org/\">https://teal-language.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124730\">https://news.ycombinator.com/item?id=50124730</a></p>\n<p>Points: 56</p>\n<p># Comments: 21</p>",
-    "published": "2026-10-16T21:07:24",
+    "title": "Someone behind the software",
+    "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "summary": "<p>Article URL: <a href=\"https://karrisaarinen.com/posts/someone-behind-the-software/\">https://karrisaarinen.com/posts/someone-behind-the-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142573\">https://news.ycombinator.com/item?id=50142573</a></p>\n<p>Points: 519</p>\n<p># Comments: 186</p>",
+    "published": "2026-10-18T16:32:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RepRapMicron",
+    "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "summary": "<p>Article URL: <a href=\"https://github.com/VikOlliver/RepRapMicron/wiki\">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141076\">https://news.ycombinator.com/item?id=50141076</a></p>\n<p>Points: 433</p>\n<p># Comments: 68</p>",
+    "published": "2026-10-18T13:48:48",
     "source": "Hacker News: Front Page"
   },
   {
@@ -145,13 +159,6 @@
     "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
     "published": "2026-10-16T19:28:48",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "You could have invented transformers from memory",
-    "link": "https://alexwang.ai/posts/associative-memory/",
-    "summary": "<p><a href=\"https://twitter.com/heyyalexwang/status/2111158818730397932\" rel=\"nofollow\">https://twitter.com/heyyalexwang/status/2111158818730397932</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50122878\">https://news.ycombinator.com/item?id=50122878</a></p>\n<p>Points: 580</p>\n<p># Comments: 130</p>",
-    "published": "2026-10-16T19:01:17",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
@@ -270,13 +277,6 @@
     "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
     "summary": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
     "published": "2026-10-11T02:40:53",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-    "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-    "summary": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
-    "published": "2026-10-10T18:01:21",
     "source": "NYT > Technology"
   }
 ]
