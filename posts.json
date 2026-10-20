@@ -1,149 +1,170 @@
 [
   {
-    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
-    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
-    "summary": "<p>Article URL: <a href=\"https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf\">https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153431\">https://news.ycombinator.com/item?id=50153431</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-19T15:10:20",
+    "title": "Publish fake stats, get cited in LLMs",
+    "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "summary": "<p>Article URL: <a href=\"https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web\">https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50165801\">https://news.ycombinator.com/item?id=50165801</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-10-20T13:06:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins\">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152877\">https://news.ycombinator.com/item?id=50152877</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-19T14:23:17",
+    "title": "Google Reports Cloud Disruptions in Europe",
+    "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+    "summary": "The disruptions began around 7 a.m. in London after what the tech giant called a “power event.”",
+    "published": "2026-10-20T13:04:12",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "NixOS is making me less afraid",
+    "link": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+    "summary": "<p>Article URL: <a href=\"https://entropicthoughts.com/nixos-is-making-me-less-afraid\">https://entropicthoughts.com/nixos-is-making-me-less-afraid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50165484\">https://news.ycombinator.com/item?id=50165484</a></p>\n<p>Points: 19</p>\n<p># Comments: 2</p>",
+    "published": "2026-10-20T12:43:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Apple broke an essential presentation feature of iPads",
+    "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+    "summary": "<p>Article URL: <a href=\"https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/\">https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50165208\">https://news.ycombinator.com/item?id=50165208</a></p>\n<p>Points: 53</p>\n<p># Comments: 9</p>",
+    "published": "2026-10-20T12:17:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hazel (YC W24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci\">https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50164991\">https://news.ycombinator.com/item?id=50164991</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-20T12:00:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Google cloud outage takes down banks",
+    "link": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+    "summary": "<p>Article URL: <a href=\"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163961\">https://news.ycombinator.com/item?id=50163961</a></p>\n<p>Points: 141</p>\n<p># Comments: 59</p>",
+    "published": "2026-10-20T10:26:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek just open-sourced its inference engine",
+    "link": "https://github.com/deepseek-ai/DeepInfer",
+    "summary": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepInfer\">https://github.com/deepseek-ai/DeepInfer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163277\">https://news.ycombinator.com/item?id=50163277</a></p>\n<p>Points: 1038</p>\n<p># Comments: 354</p>",
+    "published": "2026-10-20T09:08:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+    "link": "https://github.com/microg/GmsCore/wiki",
+    "summary": "<p>Article URL: <a href=\"https://github.com/microg/GmsCore/wiki\">https://github.com/microg/GmsCore/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50162177\">https://news.ycombinator.com/item?id=50162177</a></p>\n<p>Points: 204</p>\n<p># Comments: 19</p>",
+    "published": "2026-10-20T06:37:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+    "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+    "summary": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
+    "published": "2026-10-20T02:27:47",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "OpenBSD 8.0",
+    "link": "https://www.openbsd.org/80.html",
+    "summary": "<p>Article URL: <a href=\"https://www.openbsd.org/80.html\">https://www.openbsd.org/80.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50160494\">https://news.ycombinator.com/item?id=50160494</a></p>\n<p>Points: 385</p>\n<p># Comments: 122</p>",
+    "published": "2026-10-20T02:06:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "France's supermarket fridges were vulnerable online for months",
+    "link": "https://ipinfo.io/blog/france-fridges-hack",
+    "summary": "<p>Related: <i>Hackers activate automatic defrosting in supermarket fridges across Europe</i> - <a href=\"https://news.ycombinator.com/item?id=50055304\">https://news.ycombinator.com/item?id=50055304</a> - Oct 2026 (1007 comments)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159616\">https://news.ycombinator.com/item?id=50159616</a></p>\n<p>Points: 210</p>\n<p># Comments: 185</p>",
+    "published": "2026-10-20T00:00:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "summary": "<p>Article URL: <a href=\"https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159341\">https://news.ycombinator.com/item?id=50159341</a></p>\n<p>Points: 594</p>\n<p># Comments: 168</p>",
+    "published": "2026-10-19T23:22:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How abliterated models can get you pwned",
+    "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "summary": "<p>Article URL: <a href=\"https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\">https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159245\">https://news.ycombinator.com/item?id=50159245</a></p>\n<p>Points: 188</p>\n<p># Comments: 108</p>",
+    "published": "2026-10-19T23:08:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "An ad-free Android TV",
+    "link": "https://cretezy.com/2026/ad-free-android-tv",
+    "summary": "<p>Article URL: <a href=\"https://cretezy.com/2026/ad-free-android-tv\">https://cretezy.com/2026/ad-free-android-tv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158942\">https://news.ycombinator.com/item?id=50158942</a></p>\n<p>Points: 300</p>\n<p># Comments: 117</p>",
+    "published": "2026-10-19T22:32:37",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
-    "link": "https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
+    "link": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
     "summary": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.",
-    "published": "2026-10-19T14:23:08",
+    "published": "2026-10-19T22:12:02",
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "link": "https://github.com/kividbio/kividb",
-    "summary": "<p>Hi all,<p>So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getting OOM on running pods, and that was actually an issue I faced with Dragonfly. I wanted to have something picking the best of Rust, but also picking the best parts of other alternatives like Garnet and Dragonfly. I used AI a lot, but I was the one making the design decisions based on the tests that claude picked from my history of troubleshooting sessions as part of my job. KiviDB supports both RESP2 and RESP3 protocol. I had some founders credits on my AWS account which helped me with the infra, and running instances I could perform benchmark on.<p>Its keyspace is sharded across threads, it is multi-threaded in nature, and performs best on Linux due to io_uring, I used the tokio_uring crate for this. It also has tokio fallback for other OS's. I hadn't open sourced it until recently as I felt it was not ready yet, the best way to learn it was to build a cloud managed service for it across all three widely used cloud providers i.e AWS, GCP and azure. Since I used to mainly work with cloud, I had some insights on what would be the best ways for the deployments, how to conduct failovers, manage SLAs, etc. And that's what I took help from claude to fast pace it. The website does look like AI slop but it works for now, given my limited resources, that's all I had. You may check it out at : <a href=\"https://kividb.io\" rel=\"nofollow\">https://kividb.io</a>, I open sourced the core engine under AGPLv3, didn't want to have just source available, because that is available with other tools too. It supports apprx 98-99% of the redis 8.10 commands, few have issues and you can find them at <a href=\"https://github.com/kividbio/kividb/issues\" rel=\"nofollow\">https://github.com/kividbio/kividb/issues</a>, contributors are welcome.<p>Now the numbers, for the final benchmark, I used 2 c7gn.metal servers, in the same placement group in us-east1, and I used memtier-benchmark tool for this. The setting was : 10M keys, 100B each, 32 cores in use with both pipeline and un-pipelined runs.<p>pipeline 16 GET: KiviDB 21.2M ops/sec vs Dragonfly 2.0 9.1M, Redis 8.10 2.4M, Redis Cluster 32 shards 4.7M<p>When not pipelined, Dragonfly performed slightly better at 3.35M ops/sec vs kividb at 3.07M ops/sec. Memory per key was also slightly worse than dragonfly and almost same as Redis, 177B (kividb) vs 134B (dragonfly) vs 178B (redis).<p>With vector ingestion times it was slower but when querying, it was faster than most alternatives at lower ef, however slower than dragonfly at high ef. Most of the technical details are mentioned here so you can check it out: <a href=\"https://kividb.io/benchmarks\" rel=\"nofollow\">https://kividb.io/benchmarks</a>.<p>easiest way to try it: docker run -d -p 6380:6380 kividb/kividb<p>I am looking forward to building a community around this, provide better rust based tools, I am open to constructive criticism and value informed opinion. Thanks</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152541\">https://news.ycombinator.com/item?id=50152541</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
-    "published": "2026-10-19T13:53:52",
+    "title": "Why No One Can Look Away From Elizabeth Holmes",
+    "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+    "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
+    "published": "2026-10-19T20:13:39",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "MiniMax M3.1 Flash",
+    "link": "https://www.minimax.io/blog/minimax-m31f",
+    "summary": "<p>Article URL: <a href=\"https://www.minimax.io/blog/minimax-m31f\">https://www.minimax.io/blog/minimax-m31f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154540\">https://news.ycombinator.com/item?id=50154540</a></p>\n<p>Points: 495</p>\n<p># Comments: 207</p>",
+    "published": "2026-10-19T16:39:09",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Wine Ported to OpenBSD",
+    "title": "Spending 10 months building the most human-like chess bot",
+    "link": "https://mbuffett.com/posts/most-human-chess-bot",
+    "summary": "<p>Article URL: <a href=\"https://mbuffett.com/posts/most-human-chess-bot\">https://mbuffett.com/posts/most-human-chess-bot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154429\">https://news.ycombinator.com/item?id=50154429</a></p>\n<p>Points: 11</p>\n<p># Comments: 2</p>",
+    "published": "2026-10-19T16:30:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+    "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "summary": "<p><a href=\"https://public-inspection.federalregister.gov/2026-21447.pdf\" rel=\"nofollow\">https://public-inspection.federalregister.gov/2026-21447.pdf</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50154244\">https://news.ycombinator.com/item?id=50154244</a></p>\n<p>Points: 394</p>\n<p># Comments: 337</p>",
+    "published": "2026-10-19T16:16:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ukraine claims first drone evacuation of wounded soldier",
+    "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\">https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153664\">https://news.ycombinator.com/item?id=50153664</a></p>\n<p>Points: 361</p>\n<p># Comments: 260</p>",
+    "published": "2026-10-19T15:31:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Maxwell: A new kind of model that sits between code and hardware",
+    "link": "https://heymaxwell.ai/",
+    "summary": "<p>Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model.<p>It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line.<p>Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like.<p>Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing.<p>Early access is open at heymaxwell.ai. Happy to answer questions here.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152466\">https://news.ycombinator.com/item?id=50152466</a></p>\n<p>Points: 110</p>\n<p># Comments: 47</p>",
+    "published": "2026-10-19T13:47:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wine ported to OpenBSD",
     "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-    "summary": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&amp;m=179236125692175\">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 177</p>\n<p># Comments: 40</p>",
+    "summary": "<p>Article URL: <a href=\"https://marc.info/?l=openbsd-ports&amp;m=179236125692175\">https://marc.info/?l=openbsd-ports&amp;m=179236125692175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152307\">https://news.ycombinator.com/item?id=50152307</a></p>\n<p>Points: 594</p>\n<p># Comments: 198</p>",
     "published": "2026-10-19T13:35:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "link": "https://100toolkit.com/blog/deslop-model/",
-    "summary": "<p>Article URL: <a href=\"https://100toolkit.com/blog/deslop-model/\">https://100toolkit.com/blog/deslop-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151928\">https://news.ycombinator.com/item?id=50151928</a></p>\n<p>Points: 97</p>\n<p># Comments: 76</p>",
-    "published": "2026-10-19T13:00:47",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "link": "https://news.ycombinator.com/item?id=50151036",
+    "summary": "<p>I saw this LinkedIn post from a Meta engineer and it resonated with me:<p><a href=\"https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N\" rel=\"nofollow\">https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...</a><p>> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?<p>How are you handling this?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151036\">https://news.ycombinator.com/item?id=50151036</a></p>\n<p>Points: 528</p>\n<p># Comments: 641</p>",
+    "published": "2026-10-19T11:24:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Harness2 by Google Research – Recursive Agent Harnessing",
-    "link": "https://github.com/google-research/harness2",
-    "summary": "<p>Article URL: <a href=\"https://github.com/google-research/harness2\">https://github.com/google-research/harness2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50151059\">https://news.ycombinator.com/item?id=50151059</a></p>\n<p>Points: 53</p>\n<p># Comments: 13</p>",
-    "published": "2026-10-19T11:28:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-    "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous\">https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150935\">https://news.ycombinator.com/item?id=50150935</a></p>\n<p>Points: 49</p>\n<p># Comments: 1</p>",
-    "published": "2026-10-19T11:12:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Alternatives to Animal Testing Are Finally Taking Off",
-    "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/alternatives-to-animal-testing\">https://spectrum.ieee.org/alternatives-to-animal-testing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150927\">https://news.ycombinator.com/item?id=50150927</a></p>\n<p>Points: 139</p>\n<p># Comments: 38</p>",
-    "published": "2026-10-19T11:10:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-    "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-    "summary": "<p>Article URL: <a href=\"https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\">https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150809\">https://news.ycombinator.com/item?id=50150809</a></p>\n<p>Points: 142</p>\n<p># Comments: 41</p>",
-    "published": "2026-10-19T10:53:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Timestral: Mistral release time-series foundation models",
-    "link": "https://mistral.ai/news/timestral/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/timestral/\">https://mistral.ai/news/timestral/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150434\">https://news.ycombinator.com/item?id=50150434</a></p>\n<p>Points: 307</p>\n<p># Comments: 50</p>",
-    "published": "2026-10-19T09:59:32",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Linux 7.3",
-    "link": "https://lwn.net/Articles/1101143/",
-    "summary": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101143/\">https://lwn.net/Articles/1101143/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50149392\">https://news.ycombinator.com/item?id=50149392</a></p>\n<p>Points: 480</p>\n<p># Comments: 204</p>",
-    "published": "2026-10-19T07:23:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
-    "summary": "<p>Article URL: <a href=\"https://crystl.dev/guides/tmux-for-ai-agents/\">https://crystl.dev/guides/tmux-for-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148855\">https://news.ycombinator.com/item?id=50148855</a></p>\n<p>Points: 113</p>\n<p># Comments: 78</p>",
-    "published": "2026-10-19T05:55:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Superlite: A Faster Alternatie to Superpowers",
-    "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-    "summary": "<p>Article URL: <a href=\"https://contextfirst.blog/superlite-hand-an-agent-a-spec/\">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50147492\">https://news.ycombinator.com/item?id=50147492</a></p>\n<p>Points: 131</p>\n<p># Comments: 61</p>",
-    "published": "2026-10-19T02:01:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "William Gibson and the trademarking of cyberspace",
-    "link": "https://colo.to/cyberspace.html",
-    "summary": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p>\n<p>Points: 242</p>\n<p># Comments: 113</p>",
-    "published": "2026-10-18T23:37:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "summary": "<p>Article URL: <a href=\"https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base\">https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146624\">https://news.ycombinator.com/item?id=50146624</a></p>\n<p>Points: 119</p>\n<p># Comments: 184</p>",
-    "published": "2026-10-18T23:37:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "summary": "<p>Article URL: <a href=\"https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145507\">https://news.ycombinator.com/item?id=50145507</a></p>\n<p>Points: 261</p>\n<p># Comments: 180</p>",
-    "published": "2026-10-18T21:09:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "link": "https://arxiv.org/abs/2610.18861",
-    "summary": "<p><a href=\"https://x.com/Jiaru_Zou/status/2110400256647340476\" rel=\"nofollow\">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href=\"https://github.com/togethercomputer/HybridAgent\" rel=\"nofollow\">https://github.com/togethercomputer/HybridAgent</a><p><a href=\"https://huggingface.co/collections/togethercomputer/hybridagent\" rel=\"nofollow\">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href=\"https://arxiv.org/html/2610.18861v1#S5\" rel=\"nofollow\">https://arxiv.org/html/2610.18861v1#S5</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 478</p>\n<p># Comments: 226</p>",
-    "published": "2026-10-18T20:48:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Free Pascal compiler now supports dynamic packages",
-    "link": "https://www.getlazarus.org/dynamic/",
-    "summary": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 188</p>\n<p># Comments: 44</p>",
-    "published": "2026-10-18T18:48:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Someone behind the software",
-    "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "summary": "<p>Article URL: <a href=\"https://karrisaarinen.com/posts/someone-behind-the-software/\">https://karrisaarinen.com/posts/someone-behind-the-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50142573\">https://news.ycombinator.com/item?id=50142573</a></p>\n<p>Points: 519</p>\n<p># Comments: 186</p>",
-    "published": "2026-10-18T16:32:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "RepRapMicron",
-    "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "summary": "<p>Article URL: <a href=\"https://github.com/VikOlliver/RepRapMicron/wiki\">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141076\">https://news.ycombinator.com/item?id=50141076</a></p>\n<p>Points: 433</p>\n<p># Comments: 68</p>",
-    "published": "2026-10-18T13:48:48",
+    "title": "I built a drone with only one motor [video]",
+    "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Ndftcft6XhU\">https://www.youtube.com/watch?v=Ndftcft6XhU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50150089\">https://news.ycombinator.com/item?id=50150089</a></p>\n<p>Points: 609</p>\n<p># Comments: 138</p>",
+    "published": "2026-10-19T09:05:07",
     "source": "Hacker News: Front Page"
   },
   {
@@ -151,13 +172,6 @@
     "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
     "summary": "The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.",
     "published": "2026-10-16T20:58:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why No One Can Look Away From Elizabeth Holmes",
-    "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
-    "summary": "“I felt like there were some moments in the film where she was just brazenly lying.”",
-    "published": "2026-10-16T19:28:48",
     "source": "NYT > Technology"
   },
   {
@@ -263,20 +277,6 @@
     "link": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
     "summary": "On the Science desk, Victoria Jaggard spends her days pondering the universe’s most pressing mysteries.",
     "published": "2026-10-11T18:14:28",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-    "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-    "summary": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
-    "published": "2026-10-11T09:01:17",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
-    "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
-    "summary": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
-    "published": "2026-10-11T02:40:53",
     "source": "NYT > Technology"
   }
 ]
