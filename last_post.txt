@@ -1,1 +1,1 @@
-Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf
+Publish fake stats, get cited in LLMs https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web
