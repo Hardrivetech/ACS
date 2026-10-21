@@ -1,1 +1,1 @@
-Publish fake stats, get cited in LLMs https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web
+OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/
