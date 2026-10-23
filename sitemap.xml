@@ -1,71 +1,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kadoa.com/energy-prices/insights/investor-owned-utilities</loc>
+    <lastmod>2026-10-23T13:41:10</lastmod>
+  </url>
+  <url>
+    <loc>https://keepandroidopen.org/?</loc>
+    <lastmod>2026-10-23T13:19:42</lastmod>
+  </url>
+  <url>
+    <loc>https://codeberg.org/shitter/shitter</loc>
+    <lastmod>2026-10-23T13:02:23</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/openssl/openssl/releases/tag/openssl-4.1.0</loc>
+    <lastmod>2026-10-23T12:42:44</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</loc>
+    <lastmod>2026-10-23T11:39:54</lastmod>
+  </url>
+  <url>
+    <loc>https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/</loc>
+    <lastmod>2026-10-23T11:04:53</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html</loc>
+    <lastmod>2026-10-23T11:00:05</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</loc>
+    <lastmod>2026-10-23T10:58:52</lastmod>
+  </url>
+  <url>
+    <loc>https://twitter.com/jaredkushner/status/2113376217415958767</loc>
+    <lastmod>2026-10-23T10:41:32</lastmod>
+  </url>
+  <url>
+    <loc>https://tilschuenemann.de/job-loss-cortisone-mania</loc>
+    <lastmod>2026-10-23T10:31:24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/</loc>
+    <lastmod>2026-10-23T08:21:29</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/ClickHouse/ClickBench/pull/2165</loc>
+    <lastmod>2026-10-23T08:05:33</lastmod>
+  </url>
+  <url>
+    <loc>https://www.awakin.org/v2/read/view.php?tid=468</loc>
+    <lastmod>2026-10-23T02:19:38</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</loc>
+    <lastmod>2026-10-23T00:52:01</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/anubhavmalhotra/r2d2-tv</loc>
+    <lastmod>2026-10-23T00:10:45</lastmod>
+  </url>
+  <url>
+    <loc>https://jank-lang.org/</loc>
+    <lastmod>2026-10-22T23:56:36</lastmod>
+  </url>
+  <url>
+    <loc>https://codeandcake.dev/posts/2026-10-22-docker-is-weird</loc>
+    <lastmod>2026-10-22T23:45:56</lastmod>
+  </url>
+  <url>
+    <loc>https://edjefferson.com/localwiki/</loc>
+    <lastmod>2026-10-22T23:01:18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images</loc>
+    <lastmod>2026-10-22T21:41:13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html</loc>
+    <lastmod>2026-10-22T21:31:29</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=50200997</loc>
+    <lastmod>2026-10-22T21:03:55</lastmod>
+  </url>
+  <url>
+    <loc>https://developer.chrome.com/blog/html-in-canvas-origin-trial</loc>
+    <lastmod>2026-10-22T19:54:04</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html</loc>
-    <lastmod>2026-10-22T13:53:23</lastmod>
+    <lastmod>2026-10-22T19:29:30</lastmod>
   </url>
   <url>
-    <loc>https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</loc>
-    <lastmod>2026-10-22T13:33:39</lastmod>
-  </url>
-  <url>
-    <loc>https://crystal-lang.org/2026/10/12/1.22.0-released/</loc>
-    <lastmod>2026-10-22T13:20:13</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=50194909</loc>
-    <lastmod>2026-10-22T13:17:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html</loc>
-    <lastmod>2026-10-22T13:11:00</lastmod>
-  </url>
-  <url>
-    <loc>https://lastmuseum.com/</loc>
-    <lastmod>2026-10-22T12:40:04</lastmod>
-  </url>
-  <url>
-    <loc>https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/</loc>
-    <lastmod>2026-10-22T11:50:36</lastmod>
+    <loc>https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html</loc>
+    <lastmod>2026-10-22T17:07:44</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html</loc>
-    <lastmod>2026-10-22T11:48:14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</loc>
-    <lastmod>2026-10-22T11:12:37</lastmod>
-  </url>
-  <url>
-    <loc>https://globus.software/blog/2026/10/16/cutting-map-polygons/</loc>
-    <lastmod>2026-10-22T09:31:18</lastmod>
+    <lastmod>2026-10-22T16:01:36</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html</loc>
-    <lastmod>2026-10-22T09:02:51</lastmod>
-  </url>
-  <url>
-    <loc>https://nvd.nist.gov/vuln/detail/cve-2026-111943</loc>
-    <lastmod>2026-10-22T08:51:31</lastmod>
-  </url>
-  <url>
-    <loc>https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/</loc>
-    <lastmod>2026-10-22T08:01:52</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/openai/openai-cli</loc>
-    <lastmod>2026-10-22T05:23:11</lastmod>
-  </url>
-  <url>
-    <loc>https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</loc>
-    <lastmod>2026-10-22T02:30:52</lastmod>
-  </url>
-  <url>
-    <loc>https://simedw.com/2026/10/21/world-model-terminal/</loc>
-    <lastmod>2026-10-22T02:18:41</lastmod>
+    <lastmod>2026-10-22T14:51:58</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html</loc>
@@ -81,39 +121,15 @@
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/21/technology/meta-earnings.html</loc>
-    <lastmod>2026-10-21T22:42:39</lastmod>
+    <lastmod>2026-10-21T22:42:40</lastmod>
   </url>
   <url>
-    <loc>https://blog.railway.com/p/security-disclosure-wednesday-october-21st</loc>
-    <lastmod>2026-10-21T21:58:03</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html</loc>
-    <lastmod>2026-10-21T19:41:25</lastmod>
-  </url>
-  <url>
-    <loc>https://claude.com/product/claude-duet</loc>
-    <lastmod>2026-10-21T19:14:01</lastmod>
-  </url>
-  <url>
-    <loc>https://google.github.io/styleguide/rustguide.html</loc>
-    <lastmod>2026-10-21T19:11:57</lastmod>
-  </url>
-  <url>
-    <loc>https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</loc>
-    <lastmod>2026-10-21T19:01:12</lastmod>
+    <loc>https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html</loc>
+    <lastmod>2026-10-21T19:04:36</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html</loc>
     <lastmod>2026-10-21T18:23:52</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</loc>
-    <lastmod>2026-10-21T17:45:13</lastmod>
-  </url>
-  <url>
-    <loc>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</loc>
-    <lastmod>2026-10-21T14:00:26</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html</loc>
@@ -122,10 +138,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html</loc>
     <lastmod>2026-10-21T11:01:21</lastmod>
-  </url>
-  <url>
-    <loc>https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html</loc>
-    <lastmod>2026-10-21T04:27:51</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html</loc>
@@ -158,10 +170,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html</loc>
     <lastmod>2026-10-19T22:12:02</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html</loc>
-    <lastmod>2026-10-19T20:13:39</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html</loc>
