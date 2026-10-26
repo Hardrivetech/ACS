@@ -1,157 +1,185 @@
 [
   {
-    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-    "link": "https://github.com/ihhub/fheroes2",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ihhub/fheroes2\">https://github.com/ihhub/fheroes2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50230384\">https://news.ycombinator.com/item?id=50230384</a></p>\n<p>Points: 53</p>\n<p># Comments: 18</p>",
-    "published": "2026-10-25T11:09:12",
+    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+    "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+    "summary": "<p>Article URL: <a href=\"https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\">https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245524\">https://news.ycombinator.com/item?id=50245524</a></p>\n<p>Points: 8</p>\n<p># Comments: 2</p>",
+    "published": "2026-10-26T15:35:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-    "link": "https://twitter.com/mike64_t/status/2114150399406202896",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/mike64_t/status/2114150399406202896\">https://twitter.com/mike64_t/status/2114150399406202896</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50230181\">https://news.ycombinator.com/item?id=50230181</a></p>\n<p>Points: 104</p>\n<p># Comments: 51</p>",
-    "published": "2026-10-25T10:42:01",
+    "title": "'It's offensively cheap': Solar power is quietly becoming bigger than nuclear",
+    "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\">https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245385\">https://news.ycombinator.com/item?id=50245385</a></p>\n<p>Points: 13</p>\n<p># Comments: 9</p>",
+    "published": "2026-10-26T15:26:17",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-    "summary": "<p>Article URL: <a href=\"https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html\">https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50229827\">https://news.ycombinator.com/item?id=50229827</a></p>\n<p>Points: 35</p>\n<p># Comments: 4</p>",
-    "published": "2026-10-25T09:51:17",
+    "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
+    "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+    "summary": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.",
+    "published": "2026-10-26T15:24:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/building-reasoning-models\">https://magazine.sebastianraschka.com/p/building-reasoning-models</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50245138\">https://news.ycombinator.com/item?id=50245138</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-26T15:11:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+    "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+    "summary": "The maker of Claude is on the verge of what could be the largest ever public listing, in a test of the A.I. industry amid questions about whether the boom can be sustained.",
+    "published": "2026-10-26T15:02:03",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Partyline: A group voice application for Reticulum, built on LXST",
+    "link": "https://github.com/RFnexus/partyline",
+    "summary": "<p>Article URL: <a href=\"https://github.com/RFnexus/partyline\">https://github.com/RFnexus/partyline</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50244583\">https://news.ycombinator.com/item?id=50244583</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+    "published": "2026-10-26T14:42:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
+    "link": "https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/",
+    "summary": "<p>Article URL: <a href=\"https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/\">https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50244410\">https://news.ycombinator.com/item?id=50244410</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-26T14:32:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "DOJ says presidents should be able to sell secrets on eBay",
+    "link": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+    "summary": "<p>Article URL: <a href=\"https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/\">https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50243762\">https://news.ycombinator.com/item?id=50243762</a></p>\n<p>Points: 71</p>\n<p># Comments: 14</p>",
+    "published": "2026-10-26T13:54:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OLED iPad Mini",
+    "link": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/shop/buy-ipad/ipad-mini\">https://www.apple.com/shop/buy-ipad/ipad-mini</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50243646\">https://news.ycombinator.com/item?id=50243646</a></p>\n<p>Points: 118</p>\n<p># Comments: 145</p>",
+    "published": "2026-10-26T13:47:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The new iPad mini",
+    "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+    "summary": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/\">https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50243061\">https://news.ycombinator.com/item?id=50243061</a></p>\n<p>Points: 87</p>\n<p># Comments: 77</p>",
+    "published": "2026-10-26T13:13:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic S-1",
+    "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "summary": "<p>Article URL: <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\">https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242939\">https://news.ycombinator.com/item?id=50242939</a></p>\n<p>Points: 704</p>\n<p># Comments: 641</p>",
+    "published": "2026-10-26T13:04:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "summary": "<p>Article URL: <a href=\"https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm\">https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242870\">https://news.ycombinator.com/item?id=50242870</a></p>\n<p>Points: 82</p>\n<p># Comments: 32</p>",
+    "published": "2026-10-26T12:59:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Brown student maps the hidden global labor powering AI",
+    "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+    "summary": "<p>Article URL: <a href=\"https://www.brown.edu/news/2026-10-26/ai-data-workers\">https://www.brown.edu/news/2026-10-26/ai-data-workers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242843\">https://news.ycombinator.com/item?id=50242843</a></p>\n<p>Points: 63</p>\n<p># Comments: 49</p>",
+    "published": "2026-10-26T12:58:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Writing Is Closer to Thought Than Code",
+    "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+    "summary": "<p>Article URL: <a href=\"https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code\">https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50242555\">https://news.ycombinator.com/item?id=50242555</a></p>\n<p>Points: 52</p>\n<p># Comments: 27</p>",
+    "published": "2026-10-26T12:32:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pharo 14",
+    "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "summary": "<p>Article URL: <a href=\"https://pharo.org/news/2026-10-26-Pharo14Release.html\">https://pharo.org/news/2026-10-26-Pharo14Release.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241925\">https://news.ycombinator.com/item?id=50241925</a></p>\n<p>Points: 68</p>\n<p># Comments: 16</p>",
+    "published": "2026-10-26T11:15:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Websites Should Be Printable",
+    "link": "https://brennenputh.me/blog/printable-websites/",
+    "summary": "<p>Article URL: <a href=\"https://brennenputh.me/blog/printable-websites/\">https://brennenputh.me/blog/printable-websites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50241664\">https://news.ycombinator.com/item?id=50241664</a></p>\n<p>Points: 157</p>\n<p># Comments: 125</p>",
+    "published": "2026-10-26T10:32:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+    "link": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+    "summary": "As political fights over artificial intelligence accelerate, there is now a super PAC aligned with the data center industry. Its first bet is on Ms. Graham, a Republican in an unexpectedly tight race.",
+    "published": "2026-10-26T09:03:34",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+    "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+    "summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
+    "published": "2026-10-26T09:02:15",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Switzerland. Block by block. At 1:1 scale",
+    "link": "https://blocks.manifold3d.ch/",
+    "summary": "<p>Article URL: <a href=\"https://blocks.manifold3d.ch/\">https://blocks.manifold3d.ch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50240922\">https://news.ycombinator.com/item?id=50240922</a></p>\n<p>Points: 354</p>\n<p># Comments: 162</p>",
+    "published": "2026-10-26T08:46:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Behind the scenes at the NeXT Computer office",
+    "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+    "summary": "<p>Article URL: <a href=\"https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry\">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238763\">https://news.ycombinator.com/item?id=50238763</a></p>\n<p>Points: 209</p>\n<p># Comments: 122</p>",
+    "published": "2026-10-26T03:31:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+    "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "summary": "<p>Article URL: <a href=\"https://github.com/KrushnaVardhanReddy/PaperPilot\">https://github.com/KrushnaVardhanReddy/PaperPilot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238739\">https://news.ycombinator.com/item?id=50238739</a></p>\n<p>Points: 201</p>\n<p># Comments: 73</p>",
+    "published": "2026-10-26T03:29:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: TitleArt – Make text like it's 1997",
+    "link": "https://titleart.dvy.io/",
+    "summary": "<p>Article URL: <a href=\"https://titleart.dvy.io/\">https://titleart.dvy.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238708\">https://news.ycombinator.com/item?id=50238708</a></p>\n<p>Points: 334</p>\n<p># Comments: 63</p>",
+    "published": "2026-10-26T03:23:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Attention Is Not What You Need (2025)",
+    "link": "https://arxiv.org/abs/2512.19428",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.19428\">https://arxiv.org/abs/2512.19428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237224\">https://news.ycombinator.com/item?id=50237224</a></p>\n<p>Points: 162</p>\n<p># Comments: 55</p>",
+    "published": "2026-10-25T23:52:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "summary": "<p>Article URL: <a href=\"https://shraiwi.com/blog/simd-fast-esp32s3/\">https://shraiwi.com/blog/simd-fast-esp32s3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236681\">https://news.ycombinator.com/item?id=50236681</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-25T22:29:47",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
     "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
     "summary": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-    "published": "2026-10-25T09:28:35",
+    "published": "2026-10-25T09:28:36",
     "source": "NYT > Technology"
   },
   {
-    "title": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
-    "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+    "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+    "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
     "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
     "published": "2026-10-25T09:01:00",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-    "link": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-    "summary": "<p>Article URL: <a href=\"https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order\">https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50229587\">https://news.ycombinator.com/item?id=50229587</a></p>\n<p>Points: 349</p>\n<p># Comments: 216</p>",
-    "published": "2026-10-25T09:00:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "summary": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227356\">https://news.ycombinator.com/item?id=50227356</a></p>\n<p>Points: 222</p>\n<p># Comments: 69</p>",
-    "published": "2026-10-25T01:33:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why Gopher in 2026?",
-    "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-    "summary": "<p>Article URL: <a href=\"https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt\">https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50226577\">https://news.ycombinator.com/item?id=50226577</a></p>\n<p>Points: 96</p>\n<p># Comments: 48</p>",
-    "published": "2026-10-24T23:33:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "summary": "<p>Article URL: <a href=\"https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50226419\">https://news.ycombinator.com/item?id=50226419</a></p>\n<p>Points: 402</p>\n<p># Comments: 416</p>",
-    "published": "2026-10-24T23:11:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We should be more ambitious with the software we build",
-    "link": "https://danluu.com/ambitious/",
-    "summary": "<p>Article URL: <a href=\"https://danluu.com/ambitious/\">https://danluu.com/ambitious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50225695\">https://news.ycombinator.com/item?id=50225695</a></p>\n<p>Points: 508</p>\n<p># Comments: 453</p>",
-    "published": "2026-10-24T21:47:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Small Programs and Languages",
-    "link": "https://ratfactor.com/cards/pl-small",
-    "summary": "<p>Article URL: <a href=\"https://ratfactor.com/cards/pl-small\">https://ratfactor.com/cards/pl-small</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50225674\">https://news.ycombinator.com/item?id=50225674</a></p>\n<p>Points: 133</p>\n<p># Comments: 19</p>",
-    "published": "2026-10-24T21:44:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Importance of Limitations for Creativity and Learning (2023)",
-    "link": "https://ratfactor.com/cards/limitations",
-    "summary": "<p>Article URL: <a href=\"https://ratfactor.com/cards/limitations\">https://ratfactor.com/cards/limitations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50225663\">https://news.ycombinator.com/item?id=50225663</a></p>\n<p>Points: 90</p>\n<p># Comments: 26</p>",
-    "published": "2026-10-24T21:42:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "SpeedCrunch 1.1",
-    "link": "https://www.speedcrunch.org/",
-    "summary": "<p>Article URL: <a href=\"https://www.speedcrunch.org/\">https://www.speedcrunch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50224210\">https://news.ycombinator.com/item?id=50224210</a></p>\n<p>Points: 174</p>\n<p># Comments: 35</p>",
-    "published": "2026-10-24T19:19:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Goose Programming Language",
-    "link": "https://aardappel.github.io/goose/",
-    "summary": "<p><a href=\"https://twitter.com/ID_AA_Carmack/status/2113704269274636568\" rel=\"nofollow\">https://twitter.com/ID_AA_Carmack/status/2113704269274636568</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50224100\">https://news.ycombinator.com/item?id=50224100</a></p>\n<p>Points: 456</p>\n<p># Comments: 278</p>",
-    "published": "2026-10-24T19:06:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bbtree: Fastest Ordered Map",
-    "link": "https://bbtree.xiangpeng.systems/post/",
-    "summary": "<p>Article URL: <a href=\"https://bbtree.xiangpeng.systems/post/\">https://bbtree.xiangpeng.systems/post/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50223777\">https://news.ycombinator.com/item?id=50223777</a></p>\n<p>Points: 130</p>\n<p># Comments: 16</p>",
-    "published": "2026-10-24T18:22:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-    "link": "https://de.numista.com/9866",
-    "summary": "<p>Article URL: <a href=\"https://de.numista.com/9866\">https://de.numista.com/9866</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50222927\">https://news.ycombinator.com/item?id=50222927</a></p>\n<p>Points: 127</p>\n<p># Comments: 39</p>",
-    "published": "2026-10-24T16:41:55",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Roku developer repositories moved from GitHub to GitLab",
-    "link": "https://blog.roku.com/developer/gitlab-move",
-    "summary": "<p>Article URL: <a href=\"https://blog.roku.com/developer/gitlab-move\">https://blog.roku.com/developer/gitlab-move</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50222622\">https://news.ycombinator.com/item?id=50222622</a></p>\n<p>Points: 292</p>\n<p># Comments: 205</p>",
-    "published": "2026-10-24T16:06:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Neural chip decodes interactions between brain regions",
-    "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "summary": "<p>Article URL: <a href=\"https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\">https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50222525\">https://news.ycombinator.com/item?id=50222525</a></p>\n<p>Points: 113</p>\n<p># Comments: 45</p>",
-    "published": "2026-10-24T15:57:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FreeDNS",
-    "link": "https://freedns.afraid.org/",
-    "summary": "<p>Article URL: <a href=\"https://freedns.afraid.org/\">https://freedns.afraid.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50222133\">https://news.ycombinator.com/item?id=50222133</a></p>\n<p>Points: 311</p>\n<p># Comments: 83</p>",
-    "published": "2026-10-24T15:20:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-    "link": "https://github.com/Zagitta/gpu-unlock",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Zagitta/gpu-unlock\">https://github.com/Zagitta/gpu-unlock</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219700\">https://news.ycombinator.com/item?id=50219700</a></p>\n<p>Points: 274</p>\n<p># Comments: 73</p>",
-    "published": "2026-10-24T09:58:27",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I don't understand quantum physics (2018)",
-    "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-    "summary": "<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 332</p>\n<p># Comments: 259</p>",
-    "published": "2026-10-24T09:53:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-    "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-    "summary": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219177\">https://news.ycombinator.com/item?id=50219177</a></p>\n<p>Points: 342</p>\n<p># Comments: 166</p>",
-    "published": "2026-10-24T08:06:39",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
@@ -171,7 +199,7 @@
     "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
     "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
     "summary": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.",
-    "published": "2026-10-23T16:00:09",
+    "published": "2026-10-23T16:00:10",
     "source": "NYT > Technology"
   },
   {
@@ -305,13 +333,6 @@
     "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
     "summary": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
     "published": "2026-10-20T02:27:47",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
-    "link": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
-    "summary": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.",
-    "published": "2026-10-19T22:12:02",
     "source": "NYT > Technology"
   }
 ]
