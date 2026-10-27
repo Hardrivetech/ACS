@@ -1,103 +1,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
   </url>
   <url>
-    <loc>https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/</loc>
-    <lastmod>2026-10-26T15:35:12</lastmod>
+    <loc>https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billioniare-tax.html</loc>
+    <lastmod>2026-10-27T14:55:35</lastmod>
   </url>
   <url>
-    <loc>https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear</loc>
-    <lastmod>2026-10-26T15:26:17</lastmod>
+    <loc>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</loc>
+    <lastmod>2026-10-27T14:06:42</lastmod>
+  </url>
+  <url>
+    <loc>https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training</loc>
+    <lastmod>2026-10-27T13:56:15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.wiz.io/blog/php2shell-exploitation-so-far</loc>
+    <lastmod>2026-10-27T13:52:12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/</loc>
+    <lastmod>2026-10-27T13:33:30</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</loc>
+    <lastmod>2026-10-27T13:23:22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.apple.com/imac/</loc>
+    <lastmod>2026-10-27T13:02:02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/</loc>
+    <lastmod>2026-10-27T11:30:35</lastmod>
+  </url>
+  <url>
+    <loc>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/</loc>
+    <lastmod>2026-10-27T11:17:57</lastmod>
+  </url>
+  <url>
+    <loc>https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup</loc>
+    <lastmod>2026-10-27T11:08:15</lastmod>
+  </url>
+  <url>
+    <loc>https://oioannou.com/blog/ai-promised-less-work/</loc>
+    <lastmod>2026-10-27T11:08:14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html</loc>
+    <lastmod>2026-10-27T11:05:07</lastmod>
+  </url>
+  <url>
+    <loc>https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/</loc>
+    <lastmod>2026-10-27T10:27:50</lastmod>
+  </url>
+  <url>
+    <loc>https://gforth.org/manual/1.0/NEWS.html</loc>
+    <lastmod>2026-10-27T10:23:21</lastmod>
+  </url>
+  <url>
+    <loc>https://lists.debian.org/debian-devel/2026/10/msg00263.html</loc>
+    <lastmod>2026-10-27T09:59:05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html</loc>
+    <lastmod>2026-10-27T09:02:36</lastmod>
+  </url>
+  <url>
+    <loc>https://j11g.com/the-mythical-man-month-in-the-age-of-ai</loc>
+    <lastmod>2026-10-27T06:25:37</lastmod>
+  </url>
+  <url>
+    <loc>https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</loc>
+    <lastmod>2026-10-27T06:02:23</lastmod>
+  </url>
+  <url>
+    <loc>https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html</loc>
+    <lastmod>2026-10-27T02:15:10</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.cloudflare.com/kv-cache-exposure-remediation/</loc>
+    <lastmod>2026-10-26T22:41:48</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</loc>
+    <lastmod>2026-10-26T21:59:15</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/building-scientific-understanding-with-academic-communities/</loc>
+    <lastmod>2026-10-26T21:35:28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html</loc>
+    <lastmod>2026-10-26T20:21:29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html</loc>
+    <lastmod>2026-10-26T20:15:39</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html</loc>
+    <lastmod>2026-10-26T19:36:41</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html</loc>
+    <lastmod>2026-10-26T18:44:19</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</loc>
+    <lastmod>2026-10-26T18:14:49</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html</loc>
+    <lastmod>2026-10-26T18:08:07</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html</loc>
     <lastmod>2026-10-26T15:24:56</lastmod>
   </url>
   <url>
-    <loc>https://magazine.sebastianraschka.com/p/building-reasoning-models</loc>
-    <lastmod>2026-10-26T15:11:59</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html</loc>
-    <lastmod>2026-10-26T15:02:03</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/RFnexus/partyline</loc>
-    <lastmod>2026-10-26T14:42:24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/</loc>
-    <lastmod>2026-10-26T14:32:11</lastmod>
-  </url>
-  <url>
-    <loc>https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/</loc>
-    <lastmod>2026-10-26T13:54:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.apple.com/shop/buy-ipad/ipad-mini</loc>
-    <lastmod>2026-10-26T13:47:33</lastmod>
-  </url>
-  <url>
-    <loc>https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</loc>
-    <lastmod>2026-10-26T13:13:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</loc>
-    <lastmod>2026-10-26T13:04:50</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm</loc>
-    <lastmod>2026-10-26T12:59:48</lastmod>
-  </url>
-  <url>
-    <loc>https://www.brown.edu/news/2026-10-26/ai-data-workers</loc>
-    <lastmod>2026-10-26T12:58:27</lastmod>
-  </url>
-  <url>
-    <loc>https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code</loc>
-    <lastmod>2026-10-26T12:32:15</lastmod>
-  </url>
-  <url>
-    <loc>https://pharo.org/news/2026-10-26-Pharo14Release.html</loc>
-    <lastmod>2026-10-26T11:15:50</lastmod>
-  </url>
-  <url>
-    <loc>https://brennenputh.me/blog/printable-websites/</loc>
-    <lastmod>2026-10-26T10:32:14</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html</loc>
     <lastmod>2026-10-26T09:03:34</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html</loc>
-    <lastmod>2026-10-26T09:02:15</lastmod>
-  </url>
-  <url>
-    <loc>https://blocks.manifold3d.ch/</loc>
-    <lastmod>2026-10-26T08:46:09</lastmod>
-  </url>
-  <url>
-    <loc>https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry</loc>
-    <lastmod>2026-10-26T03:31:11</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/KrushnaVardhanReddy/PaperPilot</loc>
-    <lastmod>2026-10-26T03:29:05</lastmod>
-  </url>
-  <url>
-    <loc>https://titleart.dvy.io/</loc>
-    <lastmod>2026-10-26T03:23:57</lastmod>
-  </url>
-  <url>
-    <loc>https://arxiv.org/abs/2512.19428</loc>
-    <lastmod>2026-10-25T23:52:05</lastmod>
-  </url>
-  <url>
-    <loc>https://shraiwi.com/blog/simd-fast-esp32s3/</loc>
-    <lastmod>2026-10-25T22:29:47</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html</loc>
@@ -186,13 +210,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html</loc>
     <lastmod>2026-10-20T18:18:07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html</loc>
-    <lastmod>2026-10-20T13:04:12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html</loc>
-    <lastmod>2026-10-20T02:27:47</lastmod>
   </url>
 </urlset>
