@@ -1,93 +1,205 @@
 [
   {
-    "title": "Only 40% of AI-cited statistics trace back to a study",
-    "link": "https://trakkr.ai/trakkr-research/zombie-stats",
-    "summary": "<p>Article URL: <a href=\"https://trakkr.ai/trakkr-research/zombie-stats\">https://trakkr.ai/trakkr-research/zombie-stats</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290283\">https://news.ycombinator.com/item?id=50290283</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-29T15:06:17",
+    "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+    "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+    "summary": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
+    "published": "2026-10-30T15:16:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
+    "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
+    "summary": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
+    "published": "2026-10-30T15:10:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+    "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+    "summary": "<p>Article URL: <a href=\"https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no\">https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304419\">https://news.ycombinator.com/item?id=50304419</a></p>\n<p>Points: 45</p>\n<p># Comments: 14</p>",
+    "published": "2026-10-30T14:27:44",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Anthropic Cracking Down on Video Game Rewrites",
+    "link": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968\">https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304358\">https://news.ycombinator.com/item?id=50304358</a></p>\n<p>Points: 41</p>\n<p># Comments: 26</p>",
+    "published": "2026-10-30T14:22:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Neal Stephenson on AI and What Comes Next [video]",
+    "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=Ii-aeW5pHPQ\">https://www.youtube.com/watch?v=Ii-aeW5pHPQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304280\">https://news.ycombinator.com/item?id=50304280</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-30T14:18:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts\">https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50304122\">https://news.ycombinator.com/item?id=50304122</a></p>\n<p>Points: 26</p>\n<p># Comments: 29</p>",
+    "published": "2026-10-30T14:08:20",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+    "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "summary": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+    "published": "2026-10-30T14:02:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+    "link": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
+    "summary": "<p>Article URL: <a href=\"https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus\">https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50303488\">https://news.ycombinator.com/item?id=50303488</a></p>\n<p>Points: 18</p>\n<p># Comments: 12</p>",
+    "published": "2026-10-30T13:20:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+    "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/\">https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50303172\">https://news.ycombinator.com/item?id=50303172</a></p>\n<p>Points: 118</p>\n<p># Comments: 79</p>",
+    "published": "2026-10-30T12:50:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "summary": "<p>Article URL: <a href=\"https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead\">https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50302814\">https://news.ycombinator.com/item?id=50302814</a></p>\n<p>Points: 334</p>\n<p># Comments: 216</p>",
+    "published": "2026-10-30T12:08:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+    "link": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+    "summary": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
+    "published": "2026-10-30T11:12:48",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+    "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+    "summary": "<p>Article URL: <a href=\"https://www.binarysecurity.no/posts/2026/10/one-root-case\">https://www.binarysecurity.no/posts/2026/10/one-root-case</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301854\">https://news.ycombinator.com/item?id=50301854</a></p>\n<p>Points: 140</p>\n<p># Comments: 13</p>",
+    "published": "2026-10-30T10:06:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
+    "link": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
+    "summary": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”",
+    "published": "2026-10-30T10:00:25",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "elect.horse",
+    "link": "https://elect.horse/",
+    "summary": "<p>Article URL: <a href=\"https://elect.horse/\">https://elect.horse/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50301462\">https://news.ycombinator.com/item?id=50301462</a></p>\n<p>Points: 422</p>\n<p># Comments: 109</p>",
+    "published": "2026-10-30T09:14:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "summary": "<p><a href=\"https://cursor.com/blog/claude-code-extension-security-notice\" rel=\"nofollow\">https://cursor.com/blog/claude-code-extension-security-notic...</a><p><a href=\"https://cyberplace.social/@GossiTheDog/117528831681803563\" rel=\"nofollow\">https://cyberplace.social/@GossiTheDog/117528831681803563</a><p><a href=\"https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\" rel=\"nofollow\">https://doublepulsar.com/anthropic-hacked-to-deliver-remote-...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300683\">https://news.ycombinator.com/item?id=50300683</a></p>\n<p>Points: 178</p>\n<p># Comments: 320</p>",
+    "published": "2026-10-30T07:09:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+    "link": "https://www.workatastartup.com/jobs/98722",
+    "summary": "<p>Article URL: <a href=\"https://www.workatastartup.com/jobs/98722\">https://www.workatastartup.com/jobs/98722</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50300643\">https://news.ycombinator.com/item?id=50300643</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-30T07:00:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Herdr has released native app",
+    "link": "https://github.com/herdrdev/herdr-app",
+    "summary": "<p>Article URL: <a href=\"https://github.com/herdrdev/herdr-app\">https://github.com/herdrdev/herdr-app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298436\">https://news.ycombinator.com/item?id=50298436</a></p>\n<p>Points: 298</p>\n<p># Comments: 194</p>",
+    "published": "2026-10-30T00:42:41",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Cormac McCarthy's Library",
+    "link": "https://cormacmccarthy.lib.utk.edu/",
+    "summary": "<p>Article URL: <a href=\"https://cormacmccarthy.lib.utk.edu/\">https://cormacmccarthy.lib.utk.edu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50298318\">https://news.ycombinator.com/item?id=50298318</a></p>\n<p>Points: 89</p>\n<p># Comments: 33</p>",
+    "published": "2026-10-30T00:31:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "link": "https://github.com/mottopanikeiku/doomformer",
+    "summary": "<p>Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do :<p>It can classify MNIST digits, even if you write these digits on the map!<p>It can talk(kinda)<p>You can use it to make decisions, so, it can play DOOM. Yes! You can play DOOM with thousands of DOOM games now! The marine's mind can be controlled by DOOM, playing on a map generated by DOOMFORMER. Truly, the possibilities are endless, and even larger-scale training of DOOMFORMER could be done on a measly T4.<p>If anyone would like to help me scale this up and make crazier things, I'd love to work together.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50297697\">https://news.ycombinator.com/item?id=50297697</a></p>\n<p>Points: 119</p>\n<p># Comments: 35</p>",
+    "published": "2026-10-29T23:25:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lighthouses, War and a Puffling",
+    "link": "https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/",
+    "summary": "<p>Article URL: <a href=\"https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/\">https://adcochrane.wordpress.com/2026/10/29/lighthouses-war-and-a-puffling-the-isle-of-may/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296905\">https://news.ycombinator.com/item?id=50296905</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+    "published": "2026-10-29T22:11:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "link": "https://labs.ycombinator.com/projects/games/index.html",
+    "summary": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 357</p>\n<p># Comments: 144</p>",
+    "published": "2026-10-29T21:40:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "summary": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 1631</p>\n<p># Comments: 1089</p>",
+    "published": "2026-10-29T21:38:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+    "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+    "summary": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
+    "published": "2026-10-29T21:17:40",
+    "source": "NYT > Technology"
   },
   {
     "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
     "link": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
     "summary": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino.",
-    "published": "2026-10-29T14:59:25",
+    "published": "2026-10-29T21:08:30",
     "source": "NYT > Technology"
   },
   {
-    "title": "Finland investigate Google over destruction of 250k trees",
-    "link": "https://yle.fi/a/74-20254086",
-    "summary": "<p>Article URL: <a href=\"https://yle.fi/a/74-20254086\">https://yle.fi/a/74-20254086</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290170\">https://news.ycombinator.com/item?id=50290170</a></p>\n<p>Points: 56</p>\n<p># Comments: 36</p>",
-    "published": "2026-10-29T14:57:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "DoorDash is acquiring Instacart for $17B",
-    "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-    "summary": "<p>Article URL: <a href=\"https://about.doordash.com/en-us/news/doordash-to-acquire-instacart\">https://about.doordash.com/en-us/news/doordash-to-acquire-instacart</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289859\">https://news.ycombinator.com/item?id=50289859</a></p>\n<p>Points: 73</p>\n<p># Comments: 46</p>",
-    "published": "2026-10-29T14:40:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Keplearn: Extract Equations from Data in Seconds",
-    "link": "https://github.com/owls-on-wires/keplearn",
-    "summary": "<p>Article URL: <a href=\"https://github.com/owls-on-wires/keplearn\">https://github.com/owls-on-wires/keplearn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289590\">https://news.ycombinator.com/item?id=50289590</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-    "published": "2026-10-29T14:22:53",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
-    "link": "https://mistral.ai/news/mistral-large-4-oss/",
-    "summary": "<p>Article URL: <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">https://mistral.ai/news/mistral-large-4-oss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50289418\">https://news.ycombinator.com/item?id=50289418</a></p>\n<p>Points: 377</p>\n<p># Comments: 84</p>",
-    "published": "2026-10-29T14:13:21",
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "link": "https://github.com/SheepSeb/tinyworldformer",
+    "summary": "<p>Article URL: <a href=\"https://github.com/SheepSeb/tinyworldformer\">https://github.com/SheepSeb/tinyworldformer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50295450\">https://news.ycombinator.com/item?id=50295450</a></p>\n<p>Points: 254</p>\n<p># Comments: 17</p>",
+    "published": "2026-10-29T20:32:28",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
     "link": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
     "summary": "The deal combines the country’s largest restaurant delivery service with its biggest online grocery platform.",
-    "published": "2026-10-29T14:10:43",
+    "published": "2026-10-29T18:52:07",
     "source": "NYT > Technology"
   },
   {
-    "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-    "link": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
-    "summary": "<p>Article URL: <a href=\"https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter\">https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288867\">https://news.ycombinator.com/item?id=50288867</a></p>\n<p>Points: 279</p>\n<p># Comments: 172</p>",
-    "published": "2026-10-29T13:40:04",
+    "title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
+    "link": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
+    "summary": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave.",
+    "published": "2026-10-29T17:49:00",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "H.264 Is Magic (2016)",
+    "link": "https://sidbala.com/h-264-is-magic/",
+    "summary": "<p>Article URL: <a href=\"https://sidbala.com/h-264-is-magic/\">https://sidbala.com/h-264-is-magic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291054\">https://news.ycombinator.com/item?id=50291054</a></p>\n<p>Points: 483</p>\n<p># Comments: 156</p>",
+    "published": "2026-10-29T15:53:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-    "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-    "summary": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288019\">https://news.ycombinator.com/item?id=50288019</a></p>\n<p>Points: 238</p>\n<p># Comments: 186</p>",
-    "published": "2026-10-29T12:41:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hackers expose the identities of more than 40k DHS employees",
-    "link": "https://text.npr.org/nx-s1-6021497",
-    "summary": "<p>Article URL: <a href=\"https://text.npr.org/nx-s1-6021497\">https://text.npr.org/nx-s1-6021497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287898\">https://news.ycombinator.com/item?id=50287898</a></p>\n<p>Points: 157</p>\n<p># Comments: 25</p>",
-    "published": "2026-10-29T12:31:09",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "If IPv4 Were Land",
-    "link": "https://iptrust.co/blog/if-ipv4-were-land",
-    "summary": "<p>Article URL: <a href=\"https://iptrust.co/blog/if-ipv4-were-land\">https://iptrust.co/blog/if-ipv4-were-land</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287775\">https://news.ycombinator.com/item?id=50287775</a></p>\n<p>Points: 129</p>\n<p># Comments: 114</p>",
-    "published": "2026-10-29T12:19:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NetBSD adds a new beginner-friendly text editor called atto",
-    "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-    "summary": "<p>Article URL: <a href=\"https://mastodon.sdf.org/@netbsd/117518160563539748\">https://mastodon.sdf.org/@netbsd/117518160563539748</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287599\">https://news.ycombinator.com/item?id=50287599</a></p>\n<p>Points: 84</p>\n<p># Comments: 69</p>",
-    "published": "2026-10-29T11:59:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Google determines the names for bodies of water in Google Earth (2008)",
-    "link": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-    "summary": "<p>Article URL: <a href=\"https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html\">https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287448\">https://news.ycombinator.com/item?id=50287448</a></p>\n<p>Points: 141</p>\n<p># Comments: 111</p>",
-    "published": "2026-10-29T11:41:18",
+    "title": "LLM Voice",
+    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "summary": "<p>Article URL: <a href=\"https://martinfowler.com/bliki/LLM-Voice.html\">https://martinfowler.com/bliki/LLM-Voice.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50290177\">https://news.ycombinator.com/item?id=50290177</a></p>\n<p>Points: 544</p>\n<p># Comments: 292</p>",
+    "published": "2026-10-29T14:57:55",
     "source": "Hacker News: Front Page"
   },
   {
@@ -98,20 +210,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-    "link": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-    "summary": "<p>Article URL: <a href=\"https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/\">https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287001\">https://news.ycombinator.com/item?id=50287001</a></p>\n<p>Points: 204</p>\n<p># Comments: 130</p>",
-    "published": "2026-10-29T10:44:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-    "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-    "summary": "<p>Article URL: <a href=\"https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers\">https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50286987\">https://news.ycombinator.com/item?id=50286987</a></p>\n<p>Points: 109</p>\n<p># Comments: 50</p>",
-    "published": "2026-10-29T10:42:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Hit the Road This Season With These Useful New Map Features",
     "link": "https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html",
     "summary": "The recent updates to Google Maps and Apple’s Maps use artificial (and human) intelligence for better navigation, planning and travel guides.",
@@ -119,67 +217,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-    "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-    "summary": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.",
-    "published": "2026-10-29T09:01:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Zero click, silent, remote Android DoS",
-    "link": "https://smsofdeath.com/",
-    "summary": "<p>Article URL: <a href=\"https://smsofdeath.com/\">https://smsofdeath.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285452\">https://news.ycombinator.com/item?id=50285452</a></p>\n<p>Points: 242</p>\n<p># Comments: 125</p>",
-    "published": "2026-10-29T07:08:50",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-    "link": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-    "summary": "<p>Article URL: <a href=\"https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/\">https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285319\">https://news.ycombinator.com/item?id=50285319</a></p>\n<p>Points: 186</p>\n<p># Comments: 35</p>",
-    "published": "2026-10-29T06:47:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Alphabet’s Revenue Rises 25% as Profit Falls",
     "link": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
     "summary": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments.",
     "published": "2026-10-29T01:47:40",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-    "link": "https://divagr.com/blog/qwenputer",
-    "summary": "<p>Article URL: <a href=\"https://divagr.com/blog/qwenputer\">https://divagr.com/blog/qwenputer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282838\">https://news.ycombinator.com/item?id=50282838</a></p>\n<p>Points: 632</p>\n<p># Comments: 131</p>",
-    "published": "2026-10-29T00:25:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-    "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-    "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=50282544</a></p>\n<p>Points: 230</p>\n<p># Comments: 108</p>",
-    "published": "2026-10-28T23:45:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "StackOverflow now gets fewer than 1000 questions a month",
-    "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-    "summary": "<p>Article URL: <a href=\"https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\">https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282454\">https://news.ycombinator.com/item?id=50282454</a></p>\n<p>Points: 672</p>\n<p># Comments: 562</p>",
-    "published": "2026-10-28T23:35:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
-    "link": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
-    "summary": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave.",
-    "published": "2026-10-28T22:54:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Health Update",
-    "link": "https://furbo.org/2026/10/28/a-health-update/",
-    "summary": "<p>Article URL: <a href=\"https://furbo.org/2026/10/28/a-health-update/\">https://furbo.org/2026/10/28/a-health-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280974\">https://news.ycombinator.com/item?id=50280974</a></p>\n<p>Points: 330</p>\n<p># Comments: 51</p>",
-    "published": "2026-10-28T21:13:21",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
@@ -194,13 +236,6 @@
     "summary": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
     "published": "2026-10-28T18:30:51",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Why is this fingerprinting script creating bioweapons?",
-    "link": "https://nullpt.rs/fingerprinting-bioweapons",
-    "summary": "<p>Article URL: <a href=\"https://nullpt.rs/fingerprinting-bioweapons\">https://nullpt.rs/fingerprinting-bioweapons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276998\">https://news.ycombinator.com/item?id=50276998</a></p>\n<p>Points: 1466</p>\n<p># Comments: 272</p>",
-    "published": "2026-10-28T17:13:29",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
@@ -294,31 +329,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
-    "link": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html",
-    "summary": "“You shouldn’t overbeat scrambled eggs.”",
-    "published": "2026-10-23T17:19:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
-    "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
-    "summary": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
-    "published": "2026-10-23T16:14:56",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
     "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
     "summary": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.",
     "published": "2026-10-23T16:00:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-    "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-    "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
-    "published": "2026-10-22T21:31:29",
     "source": "NYT > Technology"
   }
 ]
