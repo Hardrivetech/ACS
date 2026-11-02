@@ -1,71 +1,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-02</lastmod>
   </url>
   <url>
-    <loc>https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</loc>
-    <lastmod>2026-11-01T14:36:13</lastmod>
+    <loc>https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html</loc>
+    <lastmod>2026-11-02T18:55:09</lastmod>
   </url>
   <url>
-    <loc>https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/</loc>
-    <lastmod>2026-11-01T14:34:43</lastmod>
+    <loc>https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html</loc>
+    <lastmod>2026-11-02T18:49:05</lastmod>
   </url>
   <url>
-    <loc>https://destiner.io/blog/post/pi-is-the-last-harness/</loc>
-    <lastmod>2026-11-01T14:27:29</lastmod>
+    <loc>https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html</loc>
+    <lastmod>2026-11-02T18:48:03</lastmod>
   </url>
   <url>
-    <loc>https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html</loc>
-    <lastmod>2026-11-01T13:51:41</lastmod>
+    <loc>https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/</loc>
+    <lastmod>2026-11-02T18:12:48</lastmod>
   </url>
   <url>
-    <loc>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</loc>
-    <lastmod>2026-11-01T13:47:24</lastmod>
+    <loc>https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html</loc>
+    <lastmod>2026-11-02T18:01:24</lastmod>
   </url>
   <url>
-    <loc>https://arxiv.org/abs/2610.39302</loc>
-    <lastmod>2026-11-01T13:24:49</lastmod>
+    <loc>https://byesky.pirhoo.com</loc>
+    <lastmod>2026-11-02T17:46:46</lastmod>
   </url>
   <url>
-    <loc>https://nssdc.gsfc.nasa.gov/planetary/lunar/moon_tree.html</loc>
-    <lastmod>2026-11-01T13:20:23</lastmod>
+    <loc>https://blog.alxgsv.com/let-me-check/</loc>
+    <lastmod>2026-11-02T17:33:20</lastmod>
   </url>
   <url>
-    <loc>https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/</loc>
-    <lastmod>2026-11-01T10:47:58</lastmod>
+    <loc>https://subvocal.company/</loc>
+    <lastmod>2026-11-02T17:16:17</lastmod>
   </url>
   <url>
-    <loc>https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/</loc>
-    <lastmod>2026-11-01T10:44:20</lastmod>
+    <loc>https://momentic.ai/</loc>
+    <lastmod>2026-11-02T17:05:25</lastmod>
+  </url>
+  <url>
+    <loc>https://bitmovin.com/careers/8660599002/</loc>
+    <lastmod>2026-11-02T17:00:41</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jsbarretto.com/post/laptop</loc>
+    <lastmod>2026-11-02T16:59:57</lastmod>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</loc>
+    <lastmod>2026-11-02T16:40:29</lastmod>
+  </url>
+  <url>
+    <loc>https://namedaisy.com/blog/boy-names-that-became-girl-names</loc>
+    <lastmod>2026-11-02T16:34:36</lastmod>
+  </url>
+  <url>
+    <loc>https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now</loc>
+    <lastmod>2026-11-02T16:25:33</lastmod>
+  </url>
+  <url>
+    <loc>https://p.migdal.pl/warsaw-vibe-voxel/</loc>
+    <lastmod>2026-11-02T16:25:26</lastmod>
+  </url>
+  <url>
+    <loc>https://posthog.com/blog/moving-off-duckdb</loc>
+    <lastmod>2026-11-02T16:02:26</lastmod>
+  </url>
+  <url>
+    <loc>https://news.ycombinator.com/item?id=50338728</loc>
+    <lastmod>2026-11-02T16:01:37</lastmod>
+  </url>
+  <url>
+    <loc>https://longcat.ai/blog/longcat-2.5/</loc>
+    <lastmod>2026-11-02T15:00:26</lastmod>
+  </url>
+  <url>
+    <loc>https://retrogamecoders.com/c64-basic-dungeon-part11/</loc>
+    <lastmod>2026-11-02T14:56:21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html</loc>
+    <lastmod>2026-11-02T14:53:35</lastmod>
+  </url>
+  <url>
+    <loc>https://chalmovsky.com/posts/wtf-ubuntu</loc>
+    <lastmod>2026-11-02T14:52:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.cloudflare.com/dns-targeted-zone-builds/</loc>
+    <lastmod>2026-11-02T14:47:28</lastmod>
+  </url>
+  <url>
+    <loc>https://deploymentsafety.openai.com/gpt-rosalind-6</loc>
+    <lastmod>2026-11-02T14:44:02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near</loc>
+    <lastmod>2026-11-02T14:40:05</lastmod>
+  </url>
+  <url>
+    <loc>https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</loc>
+    <lastmod>2026-11-02T13:55:45</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html</loc>
+    <lastmod>2026-11-01T17:19:20</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html</loc>
     <lastmod>2026-11-01T10:00:44</lastmod>
-  </url>
-  <url>
-    <loc>https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</loc>
-    <lastmod>2026-11-01T06:06:19</lastmod>
-  </url>
-  <url>
-    <loc>https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</loc>
-    <lastmod>2026-11-01T02:19:53</lastmod>
-  </url>
-  <url>
-    <loc>https://arxiv.org/abs/2409.02292</loc>
-    <lastmod>2026-11-01T01:46:29</lastmod>
-  </url>
-  <url>
-    <loc>https://uvdn7.github.io/altoids-project/</loc>
-    <lastmod>2026-10-31T22:54:55</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</loc>
-    <lastmod>2026-10-31T22:46:12</lastmod>
-  </url>
-  <url>
-    <loc>https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/</loc>
-    <lastmod>2026-10-31T22:41:06</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html</loc>
@@ -74,26 +118,6 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html</loc>
     <lastmod>2026-10-31T21:04:43</lastmod>
-  </url>
-  <url>
-    <loc>https://karpathy.bearblog.dev/hacker-tube/</loc>
-    <lastmod>2026-10-31T19:56:53</lastmod>
-  </url>
-  <url>
-    <loc>https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf</loc>
-    <lastmod>2026-10-31T19:16:30</lastmod>
-  </url>
-  <url>
-    <loc>https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/</loc>
-    <lastmod>2026-10-31T19:13:34</lastmod>
-  </url>
-  <url>
-    <loc>https://pivotlake.io/blog/its-the-memory-latency-stupid/</loc>
-    <lastmod>2026-10-31T18:38:16</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html</loc>
-    <lastmod>2026-10-31T13:41:18</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html</loc>
@@ -160,10 +184,6 @@
     <lastmod>2026-10-29T01:47:40</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html</loc>
-    <lastmod>2026-10-28T19:14:53</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html</loc>
     <lastmod>2026-10-28T18:30:51</lastmod>
   </url>
@@ -190,25 +210,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html</loc>
     <lastmod>2026-10-26T20:15:39</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html</loc>
-    <lastmod>2026-10-26T19:36:41</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html</loc>
-    <lastmod>2026-10-26T18:44:19</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html</loc>
-    <lastmod>2026-10-26T18:08:07</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html</loc>
-    <lastmod>2026-10-26T15:24:56</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html</loc>
-    <lastmod>2026-10-26T09:03:34</lastmod>
   </url>
 </urlset>
