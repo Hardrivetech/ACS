@@ -1,163 +1,184 @@
 [
   {
+    "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+    "link": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham\">https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367653\">https://news.ycombinator.com/item?id=50367653</a></p>\n<p>Points: 26</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-04T16:11:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections\">https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367125\">https://news.ycombinator.com/item?id=50367125</a></p>\n<p>Points: 61</p>\n<p># Comments: 14</p>",
+    "published": "2026-11-04T15:38:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+    "link": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+    "summary": "<p>Article URL: <a href=\"https://streamvessel.com/blog/mcp-trusted-redirect-uris\">https://streamvessel.com/blog/mcp-trusted-redirect-uris</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367004\">https://news.ycombinator.com/item?id=50367004</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-04T15:30:57",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "summary": "<p>Article URL: <a href=\"https://huggingface.co/moonshotai/Kimi-K3.1-Pro\">https://huggingface.co/moonshotai/Kimi-K3.1-Pro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366999\">https://news.ycombinator.com/item?id=50366999</a></p>\n<p>Points: 29</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-04T15:30:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "summary": "<p>Article URL: <a href=\"https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/\">https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366971\">https://news.ycombinator.com/item?id=50366971</a></p>\n<p>Points: 28</p>\n<p># Comments: 27</p>",
+    "published": "2026-11-04T15:28:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+    "link": "https://pcdealcheck.com/",
+    "summary": "<p>I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpful. <a href=\"https://www.youtube.com/watch?v=Tpft--x3WlI\" rel=\"nofollow\">https://www.youtube.com/watch?v=Tpft--x3WlI</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366929\">https://news.ycombinator.com/item?id=50366929</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-04T15:25:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Evergreen: A Provably Safe Systems Language",
+    "link": "https://evergreenlang.net",
+    "summary": "<p>Article URL: <a href=\"https://evergreenlang.net\">https://evergreenlang.net</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366919\">https://news.ycombinator.com/item?id=50366919</a></p>\n<p>Points: 28</p>\n<p># Comments: 18</p>",
+    "published": "2026-11-04T15:25:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pierre Computer is being acquired by OpenAI",
+    "link": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/pierrecomputer/status/2117999036175188183\">https://twitter.com/pierrecomputer/status/2117999036175188183</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366863\">https://news.ycombinator.com/item?id=50366863</a></p>\n<p>Points: 29</p>\n<p># Comments: 11</p>",
+    "published": "2026-11-04T15:21:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Adding Window Functions to a Spreadsheet",
+    "link": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+    "summary": "<p>Article URL: <a href=\"https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/\">https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366860\">https://news.ycombinator.com/item?id=50366860</a></p>\n<p>Points: 17</p>\n<p># Comments: 12</p>",
+    "published": "2026-11-04T15:21:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+    "link": "https://github.com/peterretief/codemap",
+    "summary": "<p>Article URL: <a href=\"https://github.com/peterretief/codemap\">https://github.com/peterretief/codemap</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366811\">https://news.ycombinator.com/item?id=50366811</a></p>\n<p>Points: 18</p>\n<p># Comments: 4</p>",
+    "published": "2026-11-04T15:18:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Debian apt security update (man-in-the-middle)",
+    "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+    "summary": "<p>Article URL: <a href=\"https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=\">https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366575\">https://news.ycombinator.com/item?id=50366575</a></p>\n<p>Points: 59</p>\n<p># Comments: 10</p>",
+    "published": "2026-11-04T15:04:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+    "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+    "summary": "<p>Article URL: <a href=\"https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/\">https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366522\">https://news.ycombinator.com/item?id=50366522</a></p>\n<p>Points: 77</p>\n<p># Comments: 21</p>",
+    "published": "2026-11-04T15:01:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jaron Lanier on parallels between AI and social media",
+    "link": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=WxaRn8kX2eI\">https://www.youtube.com/watch?v=WxaRn8kX2eI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365760\">https://news.ycombinator.com/item?id=50365760</a></p>\n<p>Points: 36</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-04T14:10:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398\">https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365755\">https://news.ycombinator.com/item?id=50365755</a></p>\n<p>Points: 250</p>\n<p># Comments: 149</p>",
+    "published": "2026-11-04T14:09:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mocktastic: A Meshtastic Node on Arduino",
+    "link": "https://github.com/Vapmuz/Mocktastic",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Vapmuz/Mocktastic\">https://github.com/Vapmuz/Mocktastic</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365516\">https://news.ycombinator.com/item?id=50365516</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-04T13:51:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\">https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50364336\">https://news.ycombinator.com/item?id=50364336</a></p>\n<p>Points: 572</p>\n<p># Comments: 375</p>",
+    "published": "2026-11-04T11:52:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+    "link": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+    "summary": "<p>Article URL: <a href=\"https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver\">https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363968\">https://news.ycombinator.com/item?id=50363968</a></p>\n<p>Points: 111</p>\n<p># Comments: 46</p>",
+    "published": "2026-11-04T11:14:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "link": "https://news.ycombinator.com/item?id=50363461",
+    "summary": "<p>If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn <i>not to enter confidential information</i>.<p>https://support.google.com/gemini/answer/16836988<p><i>“[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“</i><p>https://support.google.com/gemini/answer/13594961?hl=en#human_review<p><i>“A subset of chats are reviewed by human reviewers”</i><p>https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data<p><i>“Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.”</i><p>https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage<p><i>“Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”</i><p>To disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours.<p>I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough.<p>Thank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363461\">https://news.ycombinator.com/item?id=50363461</a></p>\n<p>Points: 397</p>\n<p># Comments: 113</p>",
+    "published": "2026-11-04T10:10:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Incident with Pull Requests, Git Operations and Issues",
+    "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "summary": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/smtdswd1h2w4\">https://www.githubstatus.com/incidents/smtdswd1h2w4</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363378\">https://news.ycombinator.com/item?id=50363378</a></p>\n<p>Points: 194</p>\n<p># Comments: 98</p>",
+    "published": "2026-11-04T10:00:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Verification Is Not Knowledge: Science needs more than answers",
+    "link": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "summary": "<p>Article URL: <a href=\"https://blog.cosmos-institute.org/p/verification-is-not-knowledge\">https://blog.cosmos-institute.org/p/verification-is-not-knowledge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50363019\">https://news.ycombinator.com/item?id=50363019</a></p>\n<p>Points: 167</p>\n<p># Comments: 96</p>",
+    "published": "2026-11-04T09:01:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+    "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+    "summary": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+    "published": "2026-11-03T23:39:55",
+    "source": "NYT > Technology"
+  },
+  {
     "title": "Google Will Turn Off Search for Schools That Reject A.I.",
     "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
     "summary": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
-    "published": "2026-11-03T16:27:53",
+    "published": "2026-11-03T20:53:40",
     "source": "NYT > Technology"
   },
   {
-    "title": "Notice How Old websites look better than new websites",
-    "link": "https://yingster.net/",
-    "summary": "<p>Article URL: <a href=\"https://yingster.net/\">https://yingster.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353877\">https://news.ycombinator.com/item?id=50353877</a></p>\n<p>Points: 20</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-03T16:14:45",
-    "source": "Hacker News: Front Page"
+    "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
+    "link": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
+    "summary": "Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began.",
+    "published": "2026-11-03T19:54:29",
+    "source": "NYT > Technology"
   },
   {
-    "title": "Binance Says Hackers Plotted $6.3 Billion Heist for Months",
-    "link": "https://www.nytimes.com/2026/11/03/technology/binance-report.html",
+    "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+    "link": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
     "summary": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool.",
-    "published": "2026-11-03T15:59:47",
+    "published": "2026-11-03T18:09:36",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Quili AI",
-    "link": "https://www.quili.ai/",
-    "summary": "<p>Article URL: <a href=\"https://www.quili.ai/\">https://www.quili.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353475\">https://news.ycombinator.com/item?id=50353475</a></p>\n<p>Points: 62</p>\n<p># Comments: 36</p>",
-    "published": "2026-11-03T15:49:02",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
-    "link": "https://concepts.laxmena.com/",
-    "summary": "<p>Article URL: <a href=\"https://concepts.laxmena.com/\">https://concepts.laxmena.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353468\">https://news.ycombinator.com/item?id=50353468</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
-    "published": "2026-11-03T15:48:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
-    "link": "https://hissingkitty.com/hacker-churn",
-    "summary": "<p>Article URL: <a href=\"https://hissingkitty.com/hacker-churn\">https://hissingkitty.com/hacker-churn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353386\">https://news.ycombinator.com/item?id=50353386</a></p>\n<p>Points: 16</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-03T15:41:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Bear turns 10, and it still feels like day one",
-    "link": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
-    "summary": "<p>Article URL: <a href=\"https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/\">https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353383\">https://news.ycombinator.com/item?id=50353383</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-03T15:41:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "No brother of mine will play the flute",
-    "link": "https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the",
-    "summary": "<p>Article URL: <a href=\"https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the\">https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353360\">https://news.ycombinator.com/item?id=50353360</a></p>\n<p>Points: 22</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-03T15:40:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
-    "link": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
-    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975\">https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353335\">https://news.ycombinator.com/item?id=50353335</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-03T15:38:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-    "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/\">https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353229\">https://news.ycombinator.com/item?id=50353229</a></p>\n<p>Points: 36</p>\n<p># Comments: 6</p>",
-    "published": "2026-11-03T15:29:15",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Designing responsible AI for learning",
-    "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
-    "summary": "<p><i>Google Will Turn Off Search for Schools That Reject A.I. </i> <a href=\"https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html\" rel=\"nofollow\">https://www.nytimes.com/2026/11/03/us/google-search-schools-...</a>, <a href=\"https://archive.ph/RuwsB\" rel=\"nofollow\">https://archive.ph/RuwsB</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353192\">https://news.ycombinator.com/item?id=50353192</a></p>\n<p>Points: 72</p>\n<p># Comments: 48</p>",
-    "published": "2026-11-03T15:25:47",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tiny Basic for Arduino",
-    "link": "https://dilshan.github.io/tiny-basic/",
-    "summary": "<p>Article URL: <a href=\"https://dilshan.github.io/tiny-basic/\">https://dilshan.github.io/tiny-basic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50353073\">https://news.ycombinator.com/item?id=50353073</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
-    "published": "2026-11-03T15:17:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-    "link": "https://github.com/Muvon/octomind",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Muvon/octomind\">https://github.com/Muvon/octomind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352898\">https://news.ycombinator.com/item?id=50352898</a></p>\n<p>Points: 35</p>\n<p># Comments: 31</p>",
-    "published": "2026-11-03T15:02:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Handles are the better pointers (2018)",
-    "link": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
-    "summary": "<p>Article URL: <a href=\"https://floooh.github.io/2018/06/17/handles-vs-pointers.html\">https://floooh.github.io/2018/06/17/handles-vs-pointers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352767\">https://news.ycombinator.com/item?id=50352767</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
-    "published": "2026-11-03T14:54:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Mac at Any Scale",
-    "link": "https://namespace.so/blog/mac-at-any-scale",
-    "summary": "<p>Article URL: <a href=\"https://namespace.so/blog/mac-at-any-scale\">https://namespace.so/blog/mac-at-any-scale</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352758\">https://news.ycombinator.com/item?id=50352758</a></p>\n<p>Points: 48</p>\n<p># Comments: 13</p>",
-    "published": "2026-11-03T14:53:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-    "link": "https://news.ycombinator.com/item?id=50352757",
-    "summary": "<p>My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.<p>You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\".<p>Curious if this is an isolated issue or something more widespread.<p>EDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556<p>EDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352757\">https://news.ycombinator.com/item?id=50352757</a></p>\n<p>Points: 60</p>\n<p># Comments: 23</p>",
-    "published": "2026-11-03T14:53:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Charles Tandy, the mastermind behind Radio Shack",
-    "link": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
-    "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/\">https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50351319\">https://news.ycombinator.com/item?id=50351319</a></p>\n<p>Points: 74</p>\n<p># Comments: 45</p>",
-    "published": "2026-11-03T12:42:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-    "link": "https://honnibal.dev/blog/astra-read-write-misleading",
-    "summary": "<p>Article URL: <a href=\"https://honnibal.dev/blog/astra-read-write-misleading\">https://honnibal.dev/blog/astra-read-write-misleading</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50351111\">https://news.ycombinator.com/item?id=50351111</a></p>\n<p>Points: 612</p>\n<p># Comments: 140</p>",
-    "published": "2026-11-03T12:21:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
-    "link": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/sava-trust-company/jobs\">https://www.ycombinator.com/companies/sava-trust-company/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50350924\">https://news.ycombinator.com/item?id=50350924</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-03T12:01:01",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
     "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
     "summary": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-    "published": "2026-11-03T08:45:19",
+    "published": "2026-11-03T08:45:20",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-    "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-    "summary": "<p>Article URL: <a href=\"https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html\">https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50349276\">https://news.ycombinator.com/item?id=50349276</a></p>\n<p>Points: 245</p>\n<p># Comments: 121</p>",
-    "published": "2026-11-03T07:56:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nvidia – open-source auto-ontology",
-    "link": "https://github.com/NVIDIA/auto-ontology",
-    "summary": "<p>Article URL: <a href=\"https://github.com/NVIDIA/auto-ontology\">https://github.com/NVIDIA/auto-ontology</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348962\">https://news.ycombinator.com/item?id=50348962</a></p>\n<p>Points: 232</p>\n<p># Comments: 87</p>",
-    "published": "2026-11-03T07:04:50",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
     "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
     "summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
-    "published": "2026-11-02T23:41:50",
+    "published": "2026-11-02T23:41:51",
     "source": "NYT > Technology"
   },
   {
@@ -171,7 +192,7 @@
     "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
     "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
     "summary": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
-    "published": "2026-11-02T18:01:24",
+    "published": "2026-11-02T18:01:25",
     "source": "NYT > Technology"
   },
   {
@@ -179,13 +200,6 @@
     "link": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
     "summary": "On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.",
     "published": "2026-11-02T14:53:35",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-    "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
-    "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
-    "published": "2026-11-01T17:19:20",
     "source": "NYT > Technology"
   },
   {
