@@ -1,9 +1,205 @@
 [
   {
+    "title": "Deus Ex",
+    "link": "https://www.filfre.net/2026/11/deus-ex/",
+    "summary": "<p>Article URL: <a href=\"https://www.filfre.net/2026/11/deus-ex/\">https://www.filfre.net/2026/11/deus-ex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393758\">https://news.ycombinator.com/item?id=50393758</a></p>\n<p>Points: 61</p>\n<p># Comments: 27</p>",
+    "published": "2026-11-06T15:44:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+    "link": "https://github.com/zalando-incubator/agentic-identity-broker",
+    "summary": "<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s tokens. (B) Connect fragmented identity and authorization systems. (C) Centralize tool approvals and audit logging.<p>We built AIB to fill an infrastructure gap in our own agent platform. At this moment in time, IETF working groups are still finalizing standards for agent identity, and vendors are still turning the necessary infrastructure into off-the-shelf products. We needed that infrastructure today.<p>How it works: the user consents once per agent and service. The broker stores the third-party tokens encrypted. At request time a gateway (e.g. Agentgateway) does RFC 8693 token exchange. Agents never see user tokens and MCP servers only implement tools and don’t need to care about all the OAuth 2.1 plumbing.<p>AIB is v0.1 and runs in production, bringing together hundreds of our agents with dozens of internal and external MCP servers.<p>To try it locally: clone the repo, run \"just compose-up-detached\".<p>The current features focus on on-behalf-of (OBO) use cases, where human actors delegate to agents. Next we are looking to also support headless agents, where agents are invoked by machines. Intent-based authorization is yet another package on our roadmap. If you’ve built either, or have feedback on the UI/UX, I’d like to hear from you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393235\">https://news.ycombinator.com/item?id=50393235</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-06T15:07:47",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+    "link": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+    "summary": "<p>Article URL: <a href=\"https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air\">https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393183\">https://news.ycombinator.com/item?id=50393183</a></p>\n<p>Points: 39</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-06T15:03:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Where Each U.S. State Gets Its Tax Revenue From",
+    "link": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+    "summary": "<p>Article URL: <a href=\"https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/\">https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393165\">https://news.ycombinator.com/item?id=50393165</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-06T15:02:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "RIP Cybertruck",
+    "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\">https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393154\">https://news.ycombinator.com/item?id=50393154</a></p>\n<p>Points: 139</p>\n<p># Comments: 154</p>",
+    "published": "2026-11-06T15:01:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Ask HN: What in the world is taking Ubuntu so long?",
+    "link": "https://news.ycombinator.com/item?id=50393105",
+    "summary": "<p>Ubuntu has CVE-2026-98432 marked as a 9.8, but yet it's coming up on a week with no update to fix it.  It's still marked as \"work in progress\" (though at least now they've listed a mitigation):<p>https://ubuntu.com/security/CVE-2026-98432<p>I've had mitigations in place for a week, but this response is really shaking my confidence in Ubuntu.  I'm just trying to understand what is going on with Ubuntu.  Do they have too many kernels (that page is loooong), do they not have enough automation in the build/test pipeline, are their engineers overwhelmed?<p>We are moving into a world where there are going to be vastly more security issues; if you can't keep up now, where are you going to be in the next 6 months?<p>For a long time keeping on top of OS updates has been a huge part of keeping the attackers at bay.    However, the world is changing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393105\">https://news.ycombinator.com/item?id=50393105</a></p>\n<p>Points: 50</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-06T14:58:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+    "link": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+    "summary": "<p>Article URL: <a href=\"https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/\">https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393089\">https://news.ycombinator.com/item?id=50393089</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-06T14:57:16",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+    "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287\">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392499\">https://news.ycombinator.com/item?id=50392499</a></p>\n<p>Points: 58</p>\n<p># Comments: 31</p>",
+    "published": "2026-11-06T14:13:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Gemini Omni 1.2 Flash",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 171</p>\n<p># Comments: 134</p>",
+    "published": "2026-11-06T13:35:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+    "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+    "summary": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
+    "published": "2026-11-06T12:23:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs\">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391342\">https://news.ycombinator.com/item?id=50391342</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-06T12:00:42",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We've built an open-source feature flag server for 11 years",
+    "link": "https://github.com/Unleash/unleash",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Unleash/unleash\">https://github.com/Unleash/unleash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391145\">https://news.ycombinator.com/item?id=50391145</a></p>\n<p>Points: 89</p>\n<p># Comments: 57</p>",
+    "published": "2026-11-06T11:40:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why the Tech Right Lost Big This Week",
+    "link": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+    "summary": "“This felt like a decidedly anti-tech election.”",
+    "published": "2026-11-06T11:00:19",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+    "link": "https://jhr.pensoft.net/articles.php?id=9096",
+    "summary": "<p>Article URL: <a href=\"https://jhr.pensoft.net/articles.php?id=9096\">https://jhr.pensoft.net/articles.php?id=9096</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390525\">https://news.ycombinator.com/item?id=50390525</a></p>\n<p>Points: 113</p>\n<p># Comments: 40</p>",
+    "published": "2026-11-06T10:21:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
+    "link": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
+    "summary": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
+    "published": "2026-11-06T10:00:58",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+    "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+    "summary": "<p>Article URL: <a href=\"https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390124\">https://news.ycombinator.com/item?id=50390124</a></p>\n<p>Points: 487</p>\n<p># Comments: 289</p>",
+    "published": "2026-11-06T09:27:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI for scientific discovery: How researchers use Claude",
+    "link": "https://www.anthropic.com/research/how-researchers-use-claude",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/how-researchers-use-claude\">https://www.anthropic.com/research/how-researchers-use-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389990\">https://news.ycombinator.com/item?id=50389990</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
+    "published": "2026-11-06T09:13:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
+    "link": "https://www.norvig.com/chomsky.html",
+    "summary": "<p>Article URL: <a href=\"https://www.norvig.com/chomsky.html\">https://www.norvig.com/chomsky.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389570\">https://news.ycombinator.com/item?id=50389570</a></p>\n<p>Points: 53</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-06T08:18:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+    "link": "https://worldstrike.fun/",
+    "summary": "<p>Article URL: <a href=\"https://worldstrike.fun/\">https://worldstrike.fun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389420\">https://news.ycombinator.com/item?id=50389420</a></p>\n<p>Points: 131</p>\n<p># Comments: 77</p>",
+    "published": "2026-11-06T07:55:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+    "link": "https://apps.metaebene.me/en/kugelblitz",
+    "summary": "<p>Article URL: <a href=\"https://apps.metaebene.me/en/kugelblitz\">https://apps.metaebene.me/en/kugelblitz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389370\">https://news.ycombinator.com/item?id=50389370</a></p>\n<p>Points: 183</p>\n<p># Comments: 51</p>",
+    "published": "2026-11-06T07:47:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "link": "https://github.com/ppmpreetham/BUI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ppmpreetham/BUI\">https://github.com/ppmpreetham/BUI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389333\">https://news.ycombinator.com/item?id=50389333</a></p>\n<p>Points: 494</p>\n<p># Comments: 200</p>",
+    "published": "2026-11-06T07:40:35",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Hardcoded credentials and other issues in Tata Motors App",
+    "link": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+    "summary": "<p>Article URL: <a href=\"https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&amp;VLCODE=CIVN-2026-0537\">https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&amp;VLCODE=CIVN-2026-0537</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389260\">https://news.ycombinator.com/item?id=50389260</a></p>\n<p>Points: 73</p>\n<p># Comments: 15</p>",
+    "published": "2026-11-06T07:28:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Britain to make salary disclosure in job ads mandatory",
+    "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\">https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389222\">https://news.ycombinator.com/item?id=50389222</a></p>\n<p>Points: 469</p>\n<p># Comments: 371</p>",
+    "published": "2026-11-06T07:22:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
+    "link": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
+    "summary": "The artificial intelligence company pledged to be more collaborative with the communities where it is building its data centers.",
+    "published": "2026-11-06T01:54:18",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
+    "link": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
+    "summary": "The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence.",
+    "published": "2026-11-06T01:10:46",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
+    "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
+    "summary": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
+    "published": "2026-11-06T00:33:00",
+    "source": "NYT > Technology"
+  },
+  {
     "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
     "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.",
-    "published": "2026-11-05T16:51:48",
+    "published": "2026-11-05T23:51:09",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Google, Meta and TikTok Sue California Over Ban on Features for Kids",
+    "link": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html",
+    "summary": "Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
+    "published": "2026-11-05T22:10:24",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+    "link": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+    "summary": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
+    "published": "2026-11-05T19:27:58",
     "source": "NYT > Technology"
   },
   {
@@ -12,153 +208,6 @@
     "summary": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
     "published": "2026-11-05T16:44:13",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Vibe Coding Keypad",
-    "link": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
-    "summary": "<p>Article URL: <a href=\"https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad\">https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381302\">https://news.ycombinator.com/item?id=50381302</a></p>\n<p>Points: 9</p>\n<p># Comments: 4</p>",
-    "published": "2026-11-05T16:43:16",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Paraguay bank collapses with half of population's savings",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings",
-    "summary": "<p>Article URL: <a href=\"https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings\">https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381178\">https://news.ycombinator.com/item?id=50381178</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-    "published": "2026-11-05T16:32:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "My psychophysics as a bilateral cochlear implant user",
-    "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-    "summary": "<p>Article URL: <a href=\"https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\">https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50381033\">https://news.ycombinator.com/item?id=50381033</a></p>\n<p>Points: 20</p>\n<p># Comments: 4</p>",
-    "published": "2026-11-05T16:21:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Stacks Project, Formalized in Lean",
-    "link": "https://axiommath.ai/research/the-stacks-project-formalized/",
-    "summary": "<p>Article URL: <a href=\"https://axiommath.ai/research/the-stacks-project-formalized/\">https://axiommath.ai/research/the-stacks-project-formalized/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380979\">https://news.ycombinator.com/item?id=50380979</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-05T16:16:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Motorola Signature 27 with GrapheneOS support",
-    "link": "https://motorolanews.com/motorola-signature-27-2/",
-    "summary": "<p>Article URL: <a href=\"https://motorolanews.com/motorola-signature-27-2/\">https://motorolanews.com/motorola-signature-27-2/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380810\">https://news.ycombinator.com/item?id=50380810</a></p>\n<p>Points: 62</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-05T16:01:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "OCAP Bounded Authority: Edera's Managed Approach to Object Capabilities",
-    "link": "https://edera.dev/stories/ocap-bounded-authority",
-    "summary": "<p>Article URL: <a href=\"https://edera.dev/stories/ocap-bounded-authority\">https://edera.dev/stories/ocap-bounded-authority</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380808\">https://news.ycombinator.com/item?id=50380808</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-05T16:01:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
-    "link": "https://github.com/AGGIB/Stroq",
-    "summary": "<p>Article URL: <a href=\"https://github.com/AGGIB/Stroq\">https://github.com/AGGIB/Stroq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380704\">https://news.ycombinator.com/item?id=50380704</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
-    "published": "2026-11-05T15:54:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-    "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-    "summary": "<p>Article URL: <a href=\"https://kadhar.dev/blog/multi-agent-systems-from-scratch\">https://kadhar.dev/blog/multi-agent-systems-from-scratch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380658\">https://news.ycombinator.com/item?id=50380658</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
-    "published": "2026-11-05T15:51:57",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-    "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-    "summary": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
-    "published": "2026-11-05T15:34:41",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
-    "link": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
-    "summary": "<p>Article URL: <a href=\"https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet\">https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380410\">https://news.ycombinator.com/item?id=50380410</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-05T15:33:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "link": "https://openai.com/index/updated-model-spec/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/updated-model-spec/\">https://openai.com/index/updated-model-spec/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380365\">https://news.ycombinator.com/item?id=50380365</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-05T15:31:43",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
-    "link": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
-    "summary": "<p>Article URL: <a href=\"https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md\">https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380273\">https://news.ycombinator.com/item?id=50380273</a></p>\n<p>Points: 10</p>\n<p># Comments: 4</p>",
-    "published": "2026-11-05T15:25:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We can do better than line-buffered output",
-    "link": "https://nullprogram.com/blog/2026/11/05/",
-    "summary": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2026/11/05/\">https://nullprogram.com/blog/2026/11/05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380268\">https://news.ycombinator.com/item?id=50380268</a></p>\n<p>Points: 16</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-05T15:25:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
-    "link": "https://nordstjernen.org/",
-    "summary": "<p>Article URL: <a href=\"https://nordstjernen.org/\">https://nordstjernen.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50380170\">https://news.ycombinator.com/item?id=50380170</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-05T15:17:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Image of Our Satellite-Choked Night Skies",
-    "link": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
-    "summary": "<p>Article URL: <a href=\"https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies\">https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379773\">https://news.ycombinator.com/item?id=50379773</a></p>\n<p>Points: 98</p>\n<p># Comments: 68</p>",
-    "published": "2026-11-05T14:49:07",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
-    "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-    "summary": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379704\">https://news.ycombinator.com/item?id=50379704</a></p>\n<p>Points: 190</p>\n<p># Comments: 8</p>",
-    "published": "2026-11-05T14:44:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "September in Servo: <progress>, rounded rectangles, and more",
-    "link": "https://servo.org/blog/2026/11/05/september-in-servo/",
-    "summary": "<p>Article URL: <a href=\"https://servo.org/blog/2026/11/05/september-in-servo/\">https://servo.org/blog/2026/11/05/september-in-servo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379576\">https://news.ycombinator.com/item?id=50379576</a></p>\n<p>Points: 69</p>\n<p># Comments: 13</p>",
-    "published": "2026-11-05T14:34:18",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "MCP Explained",
-    "link": "https://mcp-explained.com/",
-    "summary": "<p>Article URL: <a href=\"https://mcp-explained.com/\">https://mcp-explained.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50379249\">https://news.ycombinator.com/item?id=50379249</a></p>\n<p>Points: 130</p>\n<p># Comments: 63</p>",
-    "published": "2026-11-05T14:08:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Download your favourite YouTube videos",
-    "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-    "summary": "<p>Article URL: <a href=\"https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/\">https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378571\">https://news.ycombinator.com/item?id=50378571</a></p>\n<p>Points: 107</p>\n<p># Comments: 52</p>",
-    "published": "2026-11-05T13:00:11",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Obscure audio codec is a perfect fit for the N64",
-    "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-    "summary": "<p>Article URL: <a href=\"https://phoboslab.org/log/2026/11/n64-ulc-codec\">https://phoboslab.org/log/2026/11/n64-ulc-codec</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378508\">https://news.ycombinator.com/item?id=50378508</a></p>\n<p>Points: 95</p>\n<p># Comments: 6</p>",
-    "published": "2026-11-05T12:51:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Sshole",
-    "link": "https://sshhole.com",
-    "summary": "<p>Article URL: <a href=\"https://sshhole.com\">https://sshhole.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50378228\">https://news.ycombinator.com/item?id=50378228</a></p>\n<p>Points: 1242</p>\n<p># Comments: 352</p>",
-    "published": "2026-11-05T12:19:02",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
@@ -259,20 +308,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-    "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-    "summary": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-    "published": "2026-10-31T00:03:24",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Polymarket and Kalshi Face a Major Accuracy Test: The Midterms",
-    "link": "https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html",
-    "summary": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground.",
-    "published": "2026-10-30T22:46:05",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
     "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
     "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
@@ -291,34 +326,6 @@
     "link": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
     "summary": "What was Elizabeth Holmes’s partner watching in the new Nathan Fielder documentary? We found the videos (and the scientists in them).",
     "published": "2026-10-30T17:24:13",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-    "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-    "summary": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”",
-    "published": "2026-10-30T15:16:55",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
-    "link": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
-    "summary": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
-    "published": "2026-10-30T11:12:48",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
-    "link": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
-    "summary": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”",
-    "published": "2026-10-30T10:00:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-    "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-    "summary": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
-    "published": "2026-10-29T21:17:41",
     "source": "NYT > Technology"
   }
 ]
