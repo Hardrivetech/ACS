@@ -1,64 +1,162 @@
 [
   {
-    "title": "Deus Ex",
-    "link": "https://www.filfre.net/2026/11/deus-ex/",
-    "summary": "<p>Article URL: <a href=\"https://www.filfre.net/2026/11/deus-ex/\">https://www.filfre.net/2026/11/deus-ex/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393758\">https://news.ycombinator.com/item?id=50393758</a></p>\n<p>Points: 61</p>\n<p># Comments: 27</p>",
-    "published": "2026-11-06T15:44:36",
+    "title": "The $8 Linux Computer (2022)",
+    "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "summary": "<p>Article URL: <a href=\"http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404599\">https://news.ycombinator.com/item?id=50404599</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-07T14:00:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-    "link": "https://github.com/zalando-incubator/agentic-identity-broker",
-    "summary": "<p>Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.<p>The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s tokens. (B) Connect fragmented identity and authorization systems. (C) Centralize tool approvals and audit logging.<p>We built AIB to fill an infrastructure gap in our own agent platform. At this moment in time, IETF working groups are still finalizing standards for agent identity, and vendors are still turning the necessary infrastructure into off-the-shelf products. We needed that infrastructure today.<p>How it works: the user consents once per agent and service. The broker stores the third-party tokens encrypted. At request time a gateway (e.g. Agentgateway) does RFC 8693 token exchange. Agents never see user tokens and MCP servers only implement tools and don’t need to care about all the OAuth 2.1 plumbing.<p>AIB is v0.1 and runs in production, bringing together hundreds of our agents with dozens of internal and external MCP servers.<p>To try it locally: clone the repo, run \"just compose-up-detached\".<p>The current features focus on on-behalf-of (OBO) use cases, where human actors delegate to agents. Next we are looking to also support headless agents, where agents are invoked by machines. Intent-based authorization is yet another package on our roadmap. If you’ve built either, or have feedback on the UI/UX, I’d like to hear from you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393235\">https://news.ycombinator.com/item?id=50393235</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-06T15:07:47",
+    "title": "Upload Your RAM",
+    "link": "https://uploadyourram.org",
+    "summary": "<p>Article URL: <a href=\"https://uploadyourram.org\">https://uploadyourram.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403214\">https://news.ycombinator.com/item?id=50403214</a></p>\n<p>Points: 211</p>\n<p># Comments: 183</p>",
+    "published": "2026-11-07T10:15:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-    "link": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
-    "summary": "<p>Article URL: <a href=\"https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air\">https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393183\">https://news.ycombinator.com/item?id=50393183</a></p>\n<p>Points: 39</p>\n<p># Comments: 25</p>",
-    "published": "2026-11-06T15:03:24",
+    "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+    "link": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+    "summary": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
+    "published": "2026-11-07T10:00:49",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "summary": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Points: 310</p>\n<p># Comments: 153</p>",
+    "published": "2026-11-07T09:46:03",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Where Each U.S. State Gets Its Tax Revenue From",
-    "link": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
-    "summary": "<p>Article URL: <a href=\"https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/\">https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393165\">https://news.ycombinator.com/item?id=50393165</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
-    "published": "2026-11-06T15:02:07",
+    "title": "Running a law firm on Free software",
+    "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+    "summary": "<p>Article URL: <a href=\"https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/\">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403066\">https://news.ycombinator.com/item?id=50403066</a></p>\n<p>Points: 69</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-07T09:39:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "RIP Cybertruck",
-    "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\">https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393154\">https://news.ycombinator.com/item?id=50393154</a></p>\n<p>Points: 139</p>\n<p># Comments: 154</p>",
-    "published": "2026-11-06T15:01:38",
+    "title": "Port 0: The Port That Does Not Exist",
+    "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+    "summary": "<p>Article URL: <a href=\"https://acid.vegas/blog/the-port-that-does-not-exist/\">https://acid.vegas/blog/the-port-that-does-not-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403063\">https://news.ycombinator.com/item?id=50403063</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-07T09:38:26",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Ask HN: What in the world is taking Ubuntu so long?",
-    "link": "https://news.ycombinator.com/item?id=50393105",
-    "summary": "<p>Ubuntu has CVE-2026-98432 marked as a 9.8, but yet it's coming up on a week with no update to fix it.  It's still marked as \"work in progress\" (though at least now they've listed a mitigation):<p>https://ubuntu.com/security/CVE-2026-98432<p>I've had mitigations in place for a week, but this response is really shaking my confidence in Ubuntu.  I'm just trying to understand what is going on with Ubuntu.  Do they have too many kernels (that page is loooong), do they not have enough automation in the build/test pipeline, are their engineers overwhelmed?<p>We are moving into a world where there are going to be vastly more security issues; if you can't keep up now, where are you going to be in the next 6 months?<p>For a long time keeping on top of OS updates has been a huge part of keeping the attackers at bay.    However, the world is changing.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393105\">https://news.ycombinator.com/item?id=50393105</a></p>\n<p>Points: 50</p>\n<p># Comments: 25</p>",
-    "published": "2026-11-06T14:58:33",
+    "title": "Need for Speed Underground 2 online in the browser",
+    "link": "https://nfsu2.xyz/",
+    "summary": "<p>Article URL: <a href=\"https://nfsu2.xyz/\">https://nfsu2.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403052\">https://news.ycombinator.com/item?id=50403052</a></p>\n<p>Points: 318</p>\n<p># Comments: 95</p>",
+    "published": "2026-11-07T09:36:36",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-    "link": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
-    "summary": "<p>Article URL: <a href=\"https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/\">https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50393089\">https://news.ycombinator.com/item?id=50393089</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-06T14:57:16",
+    "title": "The Components of Agent Memory",
+    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p>\n<p>Points: 88</p>\n<p># Comments: 49</p>",
+    "published": "2026-11-07T06:39:04",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "link": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-    "summary": "<p>Article URL: <a href=\"https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287\">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392499\">https://news.ycombinator.com/item?id=50392499</a></p>\n<p>Points: 58</p>\n<p># Comments: 31</p>",
-    "published": "2026-11-06T14:13:09",
+    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+    "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals\">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401740\">https://news.ycombinator.com/item?id=50401740</a></p>\n<p>Points: 147</p>\n<p># Comments: 119</p>",
+    "published": "2026-11-07T04:54:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+    "link": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+    "summary": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+    "published": "2026-11-07T02:55:47",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+    "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+    "summary": "<p>Article URL: <a href=\"https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399991\">https://news.ycombinator.com/item?id=50399991</a></p>\n<p>Points: 146</p>\n<p># Comments: 102</p>",
+    "published": "2026-11-06T23:37:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Libghostty 1.0",
+    "link": "https://mitchellh.com/writing/libghostty-1-0",
+    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p>\n<p>Points: 833</p>\n<p># Comments: 135</p>",
+    "published": "2026-11-06T23:30:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
+    "link": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
+    "summary": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.",
+    "published": "2026-11-06T20:45:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+    "summary": "<p>Article URL: <a href=\"https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\">https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397711\">https://news.ycombinator.com/item?id=50397711</a></p>\n<p>Points: 96</p>\n<p># Comments: 55</p>",
+    "published": "2026-11-06T20:09:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+    "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+    "summary": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 527</p>\n<p># Comments: 126</p>",
+    "published": "2026-11-06T19:48:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Firecracker VM Escape: PwnEscape Part 2",
+    "link": "https://pwn.ai/blog/firecracker-escape",
+    "summary": "<p>Article URL: <a href=\"https://pwn.ai/blog/firecracker-escape\">https://pwn.ai/blog/firecracker-escape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397219\">https://news.ycombinator.com/item?id=50397219</a></p>\n<p>Points: 260</p>\n<p># Comments: 110</p>",
+    "published": "2026-11-06T19:33:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GitHub's new Git storage architecture",
+    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397099\">https://news.ycombinator.com/item?id=50397099</a></p>\n<p>Points: 175</p>\n<p># Comments: 45</p>",
+    "published": "2026-11-06T19:24:21",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "summary": "<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\">https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397017\">https://news.ycombinator.com/item?id=50397017</a></p>\n<p>Points: 146</p>\n<p># Comments: 75</p>",
+    "published": "2026-11-06T19:19:27",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why the Tech Right Lost Big This Week",
+    "link": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+    "summary": "“This felt like a decidedly anti-tech election.”",
+    "published": "2026-11-06T18:26:52",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Notes on San Marino",
+    "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+    "summary": "<p>Article URL: <a href=\"https://mattlakeman.org/2026/11/05/notes-on-san-marino/\">https://mattlakeman.org/2026/11/05/notes-on-san-marino/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395183\">https://news.ycombinator.com/item?id=50395183</a></p>\n<p>Points: 101</p>\n<p># Comments: 39</p>",
+    "published": "2026-11-06T17:12:05",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+    "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+    "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped.",
+    "published": "2026-11-06T17:09:36",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "First steps in bare-metal programming using UEFI",
+    "link": "https://kevinboone.me/efitest_index.html",
+    "summary": "<p>Article URL: <a href=\"https://kevinboone.me/efitest_index.html\">https://kevinboone.me/efitest_index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394855\">https://news.ycombinator.com/item?id=50394855</a></p>\n<p>Points: 234</p>\n<p># Comments: 48</p>",
+    "published": "2026-11-06T16:50:29",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Gemini Omni 1.2 Flash",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 171</p>\n<p># Comments: 134</p>",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 351</p>\n<p># Comments: 240</p>",
     "published": "2026-11-06T13:35:27",
     "source": "Hacker News: Front Page"
   },
@@ -70,31 +168,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
-    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/mbodi-ai/jobs\">https://www.ycombinator.com/companies/mbodi-ai/jobs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391342\">https://news.ycombinator.com/item?id=50391342</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-06T12:00:42",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "We've built an open-source feature flag server for 11 years",
-    "link": "https://github.com/Unleash/unleash",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Unleash/unleash\">https://github.com/Unleash/unleash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391145\">https://news.ycombinator.com/item?id=50391145</a></p>\n<p>Points: 89</p>\n<p># Comments: 57</p>",
-    "published": "2026-11-06T11:40:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why the Tech Right Lost Big This Week",
-    "link": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
-    "summary": "“This felt like a decidedly anti-tech election.”",
-    "published": "2026-11-06T11:00:19",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-    "link": "https://jhr.pensoft.net/articles.php?id=9096",
-    "summary": "<p>Article URL: <a href=\"https://jhr.pensoft.net/articles.php?id=9096\">https://jhr.pensoft.net/articles.php?id=9096</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390525\">https://news.ycombinator.com/item?id=50390525</a></p>\n<p>Points: 113</p>\n<p># Comments: 40</p>",
-    "published": "2026-11-06T10:21:15",
+    "title": "Tesla to wind down Cybertruck production",
+    "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\">https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391456\">https://news.ycombinator.com/item?id=50391456</a></p>\n<p>Points: 1076</p>\n<p># Comments: 1931</p>",
+    "published": "2026-11-06T12:13:51",
     "source": "Hacker News: Front Page"
   },
   {
@@ -105,59 +182,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-    "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-    "summary": "<p>Article URL: <a href=\"https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390124\">https://news.ycombinator.com/item?id=50390124</a></p>\n<p>Points: 487</p>\n<p># Comments: 289</p>",
-    "published": "2026-11-06T09:27:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "AI for scientific discovery: How researchers use Claude",
-    "link": "https://www.anthropic.com/research/how-researchers-use-claude",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/how-researchers-use-claude\">https://www.anthropic.com/research/how-researchers-use-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389990\">https://news.ycombinator.com/item?id=50389990</a></p>\n<p>Points: 37</p>\n<p># Comments: 4</p>",
-    "published": "2026-11-06T09:13:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
-    "link": "https://www.norvig.com/chomsky.html",
-    "summary": "<p>Article URL: <a href=\"https://www.norvig.com/chomsky.html\">https://www.norvig.com/chomsky.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389570\">https://news.ycombinator.com/item?id=50389570</a></p>\n<p>Points: 53</p>\n<p># Comments: 25</p>",
-    "published": "2026-11-06T08:18:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-    "link": "https://worldstrike.fun/",
-    "summary": "<p>Article URL: <a href=\"https://worldstrike.fun/\">https://worldstrike.fun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389420\">https://news.ycombinator.com/item?id=50389420</a></p>\n<p>Points: 131</p>\n<p># Comments: 77</p>",
-    "published": "2026-11-06T07:55:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-    "link": "https://apps.metaebene.me/en/kugelblitz",
-    "summary": "<p>Article URL: <a href=\"https://apps.metaebene.me/en/kugelblitz\">https://apps.metaebene.me/en/kugelblitz</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389370\">https://news.ycombinator.com/item?id=50389370</a></p>\n<p>Points: 183</p>\n<p># Comments: 51</p>",
-    "published": "2026-11-06T07:47:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-    "link": "https://github.com/ppmpreetham/BUI",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ppmpreetham/BUI\">https://github.com/ppmpreetham/BUI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389333\">https://news.ycombinator.com/item?id=50389333</a></p>\n<p>Points: 494</p>\n<p># Comments: 200</p>",
-    "published": "2026-11-06T07:40:35",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Hardcoded credentials and other issues in Tata Motors App",
-    "link": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-    "summary": "<p>Article URL: <a href=\"https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&amp;VLCODE=CIVN-2026-0537\">https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&amp;VLCODE=CIVN-2026-0537</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389260\">https://news.ycombinator.com/item?id=50389260</a></p>\n<p>Points: 73</p>\n<p># Comments: 15</p>",
-    "published": "2026-11-06T07:28:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Britain to make salary disclosure in job ads mandatory",
-    "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\">https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389222\">https://news.ycombinator.com/item?id=50389222</a></p>\n<p>Points: 469</p>\n<p># Comments: 371</p>",
-    "published": "2026-11-06T07:22:04",
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/\">https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388001\">https://news.ycombinator.com/item?id=50388001</a></p>\n<p>Points: 367</p>\n<p># Comments: 300</p>",
+    "published": "2026-11-06T04:00:28",
     "source": "Hacker News: Front Page"
   },
   {
@@ -179,13 +207,6 @@
     "link": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
     "summary": "Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.",
     "published": "2026-11-06T00:33:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-    "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-    "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.",
-    "published": "2026-11-05T23:51:09",
     "source": "NYT > Technology"
   },
   {
@@ -284,48 +305,6 @@
     "link": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
     "summary": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.",
     "published": "2026-11-01T10:00:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Binance’s $6.3 Billion Hack Went Down",
-    "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-    "summary": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-    "published": "2026-10-31T22:19:49",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "AO3 Fan Fiction Site Is Hacked and Could Be Offline for Weeks",
-    "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
-    "summary": "Home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” the archive was taken down after “an intrusion,” one of its founders said. It could be down for weeks.",
-    "published": "2026-10-31T21:04:43",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "In San Francisco’s A.I. Boom, a First Date Has Become an Interview",
-    "link": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
-    "summary": "When there is A.I. to build, who has time for romance? Techies are going out less and expecting more on each date — including a family health history.",
-    "published": "2026-10-31T09:00:54",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-    "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-    "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
-    "published": "2026-10-30T21:17:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
-    "link": "https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
-    "summary": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times.",
-    "published": "2026-10-30T20:30:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "‘You Can See Everything’: What Was Billy Evans Watching at 2x?",
-    "link": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
-    "summary": "What was Elizabeth Holmes’s partner watching in the new Nathan Fielder documentary? We found the videos (and the scientists in them).",
-    "published": "2026-10-30T17:24:13",
     "source": "NYT > Technology"
   }
 ]
