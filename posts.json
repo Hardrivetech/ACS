@@ -1,65 +1,142 @@
 [
   {
-    "title": "The $8 Linux Computer (2022)",
-    "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-    "summary": "<p>Article URL: <a href=\"http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404599\">https://news.ycombinator.com/item?id=50404599</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
-    "published": "2026-11-07T14:00:20",
+    "title": "OpenAI Raises $11B at a $1.25T Valuation",
+    "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "summary": "<p>Article URL: <a href=\"https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/\">https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413822\">https://news.ycombinator.com/item?id=50413822</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
+    "published": "2026-11-08T14:49:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Upload Your RAM",
-    "link": "https://uploadyourram.org",
-    "summary": "<p>Article URL: <a href=\"https://uploadyourram.org\">https://uploadyourram.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403214\">https://news.ycombinator.com/item?id=50403214</a></p>\n<p>Points: 211</p>\n<p># Comments: 183</p>",
-    "published": "2026-11-07T10:15:26",
+    "title": "Person of Interest",
+    "link": "https://krthr.co/person-of-interest/",
+    "summary": "<p>Article URL: <a href=\"https://krthr.co/person-of-interest/\">https://krthr.co/person-of-interest/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412318\">https://news.ycombinator.com/item?id=50412318</a></p>\n<p>Points: 205</p>\n<p># Comments: 127</p>",
+    "published": "2026-11-08T11:23:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Petered (what happens after the Peter Principle)",
+    "link": "https://aworkinglibrary.com/writing/petered",
+    "summary": "<p>Article URL: <a href=\"https://aworkinglibrary.com/writing/petered\">https://aworkinglibrary.com/writing/petered</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412152\">https://news.ycombinator.com/item?id=50412152</a></p>\n<p>Points: 97</p>\n<p># Comments: 62</p>",
+    "published": "2026-11-08T10:56:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "JIT bitmap text rendering for microcontrollers",
+    "link": "https://linebender.org/blog/jit-bitmap-text/",
+    "summary": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
+    "published": "2026-11-08T10:42:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Writing as a Thinking Tool",
+    "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></p>\n<p>Points: 38</p>\n<p># Comments: 5</p>",
+    "published": "2026-11-08T10:41:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "link": "https://github.com/synchopate/llama-modchip",
+    "summary": "<p>Article URL: <a href=\"https://github.com/synchopate/llama-modchip\">https://github.com/synchopate/llama-modchip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411961\">https://news.ycombinator.com/item?id=50411961</a></p>\n<p>Points: 129</p>\n<p># Comments: 39</p>",
+    "published": "2026-11-08T10:22:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "summary": "<p>Article URL: <a href=\"https://www.lorekit.io/blog/open-agent-memory-format\">https://www.lorekit.io/blog/open-agent-memory-format</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411467\">https://news.ycombinator.com/item?id=50411467</a></p>\n<p>Points: 100</p>\n<p># Comments: 77</p>",
+    "published": "2026-11-08T08:40:23",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "WaveDudeNext 2D Wave Simulator",
+    "link": "https://github.com/graealex/WaveDudeNext",
+    "summary": "<p>Article URL: <a href=\"https://github.com/graealex/WaveDudeNext\">https://github.com/graealex/WaveDudeNext</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411083\">https://news.ycombinator.com/item?id=50411083</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
+    "published": "2026-11-08T07:09:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "summary": "<p>Article URL: <a href=\"https://imagesco.com/articles/kirlian/kirlian-photography.html\">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410359\">https://news.ycombinator.com/item?id=50410359</a></p>\n<p>Points: 64</p>\n<p># Comments: 16</p>",
+    "published": "2026-11-08T04:14:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+    "link": "https://github.com/dmunozv04/isponsorblocktv",
+    "summary": "<p>Article URL: <a href=\"https://github.com/dmunozv04/isponsorblocktv\">https://github.com/dmunozv04/isponsorblocktv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410249\">https://news.ycombinator.com/item?id=50410249</a></p>\n<p>Points: 87</p>\n<p># Comments: 34</p>",
+    "published": "2026-11-08T03:47:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Goodbye Claude, Hello Pi",
+    "link": "https://caleb.software/posts/claude-to-pi.html",
+    "summary": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p>\n<p>Points: 497</p>\n<p># Comments: 326</p>",
+    "published": "2026-11-08T03:11:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Consumer brain wave headsets threaten privacy",
+    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F\">https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50409856\">https://news.ycombinator.com/item?id=50409856</a></p>\n<p>Points: 95</p>\n<p># Comments: 61</p>",
+    "published": "2026-11-08T02:02:38",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GitHub New pull request overview page in public preview",
+    "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408931\">https://news.ycombinator.com/item?id=50408931</a></p>\n<p>Points: 165</p>\n<p># Comments: 112</p>",
+    "published": "2026-11-07T23:09:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Making any integer with four 2s (2025)",
+    "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "summary": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408713\">https://news.ycombinator.com/item?id=50408713</a></p>\n<p>Points: 172</p>\n<p># Comments: 46</p>",
+    "published": "2026-11-07T22:38:58",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "summary": "<p>Article URL: <a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50407882\">https://news.ycombinator.com/item?id=50407882</a></p>\n<p>Points: 484</p>\n<p># Comments: 348</p>",
+    "published": "2026-11-07T20:45:32",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
     "link": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
     "summary": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
-    "published": "2026-11-07T10:00:49",
+    "published": "2026-11-07T18:52:51",
     "source": "NYT > Technology"
   },
   {
-    "title": "Every Mac comes with an (undocumented) family member classifier",
-    "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-    "summary": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Points: 310</p>\n<p># Comments: 153</p>",
-    "published": "2026-11-07T09:46:03",
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "link": "https://blog.bosscher.ch/posts/openstick/",
+    "summary": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 672</p>\n<p># Comments: 122</p>",
+    "published": "2026-11-07T18:12:12",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Running a law firm on Free software",
-    "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-    "summary": "<p>Article URL: <a href=\"https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/\">https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403066\">https://news.ycombinator.com/item?id=50403066</a></p>\n<p>Points: 69</p>\n<p># Comments: 25</p>",
-    "published": "2026-11-07T09:39:06",
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "link": "https://github.com/hedgerow-dev/coldframe",
+    "summary": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.<p>Things that were fun to get right:<p>- Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes.<p>- Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities.<p>- Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real.<p>Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io.<p>Feedback welcome, especially from anyone who has seen these devices in the field!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406292\">https://news.ycombinator.com/item?id=50406292</a></p>\n<p>Points: 261</p>\n<p># Comments: 62</p>",
+    "published": "2026-11-07T17:27:30",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Port 0: The Port That Does Not Exist",
-    "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-    "summary": "<p>Article URL: <a href=\"https://acid.vegas/blog/the-port-that-does-not-exist/\">https://acid.vegas/blog/the-port-that-does-not-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403063\">https://news.ycombinator.com/item?id=50403063</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
-    "published": "2026-11-07T09:38:26",
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "summary": "<p>Article URL: <a href=\"https://maxxbench.unlap.ai/research/why-maxxbench/\">https://maxxbench.unlap.ai/research/why-maxxbench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406222\">https://news.ycombinator.com/item?id=50406222</a></p>\n<p>Points: 348</p>\n<p># Comments: 98</p>",
+    "published": "2026-11-07T17:19:00",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Need for Speed Underground 2 online in the browser",
-    "link": "https://nfsu2.xyz/",
-    "summary": "<p>Article URL: <a href=\"https://nfsu2.xyz/\">https://nfsu2.xyz/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403052\">https://news.ycombinator.com/item?id=50403052</a></p>\n<p>Points: 318</p>\n<p># Comments: 95</p>",
-    "published": "2026-11-07T09:36:36",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Components of Agent Memory",
-    "link": "https://www.anthropic.com/research/components-of-agent-memory",
-    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p>\n<p>Points: 88</p>\n<p># Comments: 49</p>",
-    "published": "2026-11-07T06:39:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-    "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals\">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401740\">https://news.ycombinator.com/item?id=50401740</a></p>\n<p>Points: 147</p>\n<p># Comments: 119</p>",
-    "published": "2026-11-07T04:54:36",
+    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+    "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+    "summary": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/\">https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403507\">https://news.ycombinator.com/item?id=50403507</a></p>\n<p>Points: 388</p>\n<p># Comments: 390</p>",
+    "published": "2026-11-07T11:11:15",
     "source": "Hacker News: Front Page"
   },
   {
@@ -70,60 +147,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-    "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-    "summary": "<p>Article URL: <a href=\"https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399991\">https://news.ycombinator.com/item?id=50399991</a></p>\n<p>Points: 146</p>\n<p># Comments: 102</p>",
-    "published": "2026-11-06T23:37:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Libghostty 1.0",
-    "link": "https://mitchellh.com/writing/libghostty-1-0",
-    "summary": "<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p>\n<p>Points: 833</p>\n<p># Comments: 135</p>",
-    "published": "2026-11-06T23:30:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers",
     "link": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
     "summary": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.",
     "published": "2026-11-06T20:45:56",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-    "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-    "summary": "<p>Article URL: <a href=\"https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\">https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397711\">https://news.ycombinator.com/item?id=50397711</a></p>\n<p>Points: 96</p>\n<p># Comments: 55</p>",
-    "published": "2026-11-06T20:09:14",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-    "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-    "summary": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 527</p>\n<p># Comments: 126</p>",
-    "published": "2026-11-06T19:48:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Firecracker VM Escape: PwnEscape Part 2",
-    "link": "https://pwn.ai/blog/firecracker-escape",
-    "summary": "<p>Article URL: <a href=\"https://pwn.ai/blog/firecracker-escape\">https://pwn.ai/blog/firecracker-escape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397219\">https://news.ycombinator.com/item?id=50397219</a></p>\n<p>Points: 260</p>\n<p># Comments: 110</p>",
-    "published": "2026-11-06T19:33:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "GitHub's new Git storage architecture",
-    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-    "summary": "<p>Article URL: <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397099\">https://news.ycombinator.com/item?id=50397099</a></p>\n<p>Points: 175</p>\n<p># Comments: 45</p>",
-    "published": "2026-11-06T19:24:21",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Restaurant Delivery Payment-Skimming Campaign",
-    "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "summary": "<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\">https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397017\">https://news.ycombinator.com/item?id=50397017</a></p>\n<p>Points: 146</p>\n<p># Comments: 75</p>",
-    "published": "2026-11-06T19:19:27",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Why the Tech Right Lost Big This Week",
@@ -133,32 +161,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Notes on San Marino",
-    "link": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-    "summary": "<p>Article URL: <a href=\"https://mattlakeman.org/2026/11/05/notes-on-san-marino/\">https://mattlakeman.org/2026/11/05/notes-on-san-marino/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395183\">https://news.ycombinator.com/item?id=50395183</a></p>\n<p>Points: 101</p>\n<p># Comments: 39</p>",
-    "published": "2026-11-06T17:12:05",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
     "link": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
     "summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped.",
     "published": "2026-11-06T17:09:36",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "First steps in bare-metal programming using UEFI",
-    "link": "https://kevinboone.me/efitest_index.html",
-    "summary": "<p>Article URL: <a href=\"https://kevinboone.me/efitest_index.html\">https://kevinboone.me/efitest_index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394855\">https://news.ycombinator.com/item?id=50394855</a></p>\n<p>Points: 234</p>\n<p># Comments: 48</p>",
-    "published": "2026-11-06T16:50:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Gemini Omni 1.2 Flash",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 351</p>\n<p># Comments: 240</p>",
-    "published": "2026-11-06T13:35:27",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
@@ -168,25 +175,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Tesla to wind down Cybertruck production",
-    "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-    "summary": "<p>Article URL: <a href=\"https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\">https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391456\">https://news.ycombinator.com/item?id=50391456</a></p>\n<p>Points: 1076</p>\n<p># Comments: 1931</p>",
-    "published": "2026-11-06T12:13:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
     "link": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
     "summary": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
     "published": "2026-11-06T10:00:58",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-    "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/\">https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388001\">https://news.ycombinator.com/item?id=50388001</a></p>\n<p>Points: 367</p>\n<p># Comments: 300</p>",
-    "published": "2026-11-06T04:00:28",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
@@ -298,13 +291,6 @@
     "link": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
     "summary": "On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.",
     "published": "2026-11-02T14:53:35",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
-    "link": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
-    "summary": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.",
-    "published": "2026-11-01T10:00:44",
     "source": "NYT > Technology"
   }
 ]
