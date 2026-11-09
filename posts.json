@@ -1,143 +1,199 @@
 [
   {
-    "title": "OpenAI Raises $11B at a $1.25T Valuation",
-    "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
-    "summary": "<p>Article URL: <a href=\"https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/\">https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413822\">https://news.ycombinator.com/item?id=50413822</a></p>\n<p>Points: 11</p>\n<p># Comments: 5</p>",
-    "published": "2026-11-08T14:49:23",
+    "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+    "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+    "summary": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. France accused Iran of being behind the attacks.",
+    "published": "2026-11-09T19:13:32",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-2\">https://www.anthropic.com/claude-fable-and-mythos-5-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429906\">https://news.ycombinator.com/item?id=50429906</a></p>\n<p>Points: 100</p>\n<p># Comments: 14</p>",
+    "published": "2026-11-09T18:56:29",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Person of Interest",
-    "link": "https://krthr.co/person-of-interest/",
-    "summary": "<p>Article URL: <a href=\"https://krthr.co/person-of-interest/\">https://krthr.co/person-of-interest/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412318\">https://news.ycombinator.com/item?id=50412318</a></p>\n<p>Points: 205</p>\n<p># Comments: 127</p>",
-    "published": "2026-11-08T11:23:28",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "link": "https://meowdisplay.app/",
+    "summary": "<p>Hey HN and Cats, thank you for checking this out!<p>Github:\n<a href=\"https://github.com/raiseCatError/meowdisplay\" rel=\"nofollow\">https://github.com/raiseCatError/meowdisplay</a><p>MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing.<p>The website has interactive illustrative demos if you'd like to see the app demonstrated.<p>I think MeowDisplay does a few things differently, some of which I prefer and you might too.<p>Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloating windows: coming in the 2.1 release.<p>Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support. Doesn't sacrifice display space for a trackpad, use all of the phone's screen with your preferred mode.<p>Stage Peek: shows a scrollable and searchable list of your Mac's windows on your phone along with an app drawer when you hold and pull on the left edge of your screen.<p>It's free and open source so you can try it and see if it's for you without having to commit to it or anything.<p>EDIT: I've used MeowDisplay during development whilst I was travelling between cities, left my acbook at home clamshell, powered, external display attached, and used it for small tasks remotely, it was pretty reliable even on a 5G network on a moving bus.<p>Meow,\nJai</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429636\">https://news.ycombinator.com/item?id=50429636</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
+    "published": "2026-11-09T18:39:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Petered (what happens after the Peter Principle)",
-    "link": "https://aworkinglibrary.com/writing/petered",
-    "summary": "<p>Article URL: <a href=\"https://aworkinglibrary.com/writing/petered\">https://aworkinglibrary.com/writing/petered</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412152\">https://news.ycombinator.com/item?id=50412152</a></p>\n<p>Points: 97</p>\n<p># Comments: 62</p>",
-    "published": "2026-11-08T10:56:43",
+    "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
+    "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+    "summary": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+    "published": "2026-11-09T18:37:55",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "summary": "<p>Article URL: <a href=\"https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/\">https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429545\">https://news.ycombinator.com/item?id=50429545</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+    "published": "2026-11-09T18:33:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "JIT bitmap text rendering for microcontrollers",
-    "link": "https://linebender.org/blog/jit-bitmap-text/",
-    "summary": "<p>Article URL: <a href=\"https://linebender.org/blog/jit-bitmap-text/\">https://linebender.org/blog/jit-bitmap-text/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412072\">https://news.ycombinator.com/item?id=50412072</a></p>\n<p>Points: 55</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-08T10:42:15",
+    "title": "Too many men suffering in silence, national health report finds (Canada)",
+    "link": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+    "summary": "<p>Article URL: <a href=\"https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds\">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429475\">https://news.ycombinator.com/item?id=50429475</a></p>\n<p>Points: 105</p>\n<p># Comments: 42</p>",
+    "published": "2026-11-09T18:27:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Writing as a Thinking Tool",
-    "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-    "summary": "<p>Article URL: <a href=\"http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html\">http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412067\">https://news.ycombinator.com/item?id=50412067</a></p>\n<p>Points: 38</p>\n<p># Comments: 5</p>",
-    "published": "2026-11-08T10:41:52",
+    "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+    "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "summary": "<p>Article URL: <a href=\"https://www.infineon.com/press-release/2026/infpr202611-028\">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429430\">https://news.ycombinator.com/item?id=50429430</a></p>\n<p>Points: 24</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-09T18:25:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-    "link": "https://github.com/synchopate/llama-modchip",
-    "summary": "<p>Article URL: <a href=\"https://github.com/synchopate/llama-modchip\">https://github.com/synchopate/llama-modchip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411961\">https://news.ycombinator.com/item?id=50411961</a></p>\n<p>Points: 129</p>\n<p># Comments: 39</p>",
-    "published": "2026-11-08T10:22:04",
+    "title": "Our Smallest, Most Efficient Model: Muse Ember",
+    "link": "https://research.meta.ai/blog/muse-ember",
+    "summary": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-ember\">https://research.meta.ai/blog/muse-ember</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429024\">https://news.ycombinator.com/item?id=50429024</a></p>\n<p>Points: 59</p>\n<p># Comments: 27</p>",
+    "published": "2026-11-09T17:58:46",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Agent memory needs its OpenTelemetry moment",
-    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
-    "summary": "<p>Article URL: <a href=\"https://www.lorekit.io/blog/open-agent-memory-format\">https://www.lorekit.io/blog/open-agent-memory-format</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411467\">https://news.ycombinator.com/item?id=50411467</a></p>\n<p>Points: 100</p>\n<p># Comments: 77</p>",
-    "published": "2026-11-08T08:40:23",
+    "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+    "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+    "summary": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
+    "published": "2026-11-09T17:58:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+    "link": "https://www.watched.earth",
+    "summary": "<p>hey HN, i built this because i wanted to know what had actually photographed my street.<p>type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes.<p>some fun bits:\n- the pass search can't skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed\n- all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame\n- Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, which was a fun one to figure out<p>it only says \"watched\" if a real image exists, and it doesn't store your location.<p>code: <a href=\"https://github.com/dev-Armaan/satellites\" rel=\"nofollow\">https://github.com/dev-Armaan/satellites</a><p>would love feedback, especially on what data sources to add</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428907\">https://news.ycombinator.com/item?id=50428907</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-09T17:51:31",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "WaveDudeNext 2D Wave Simulator",
-    "link": "https://github.com/graealex/WaveDudeNext",
-    "summary": "<p>Article URL: <a href=\"https://github.com/graealex/WaveDudeNext\">https://github.com/graealex/WaveDudeNext</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50411083\">https://news.ycombinator.com/item?id=50411083</a></p>\n<p>Points: 41</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-08T07:09:02",
+    "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+    "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+    "summary": "<p>Article URL: <a href=\"https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/\">https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428801\">https://news.ycombinator.com/item?id=50428801</a></p>\n<p>Points: 137</p>\n<p># Comments: 112</p>",
+    "published": "2026-11-09T17:42:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Kirlian Photography: Building Your Own Equipment",
-    "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
-    "summary": "<p>Article URL: <a href=\"https://imagesco.com/articles/kirlian/kirlian-photography.html\">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410359\">https://news.ycombinator.com/item?id=50410359</a></p>\n<p>Points: 64</p>\n<p># Comments: 16</p>",
-    "published": "2026-11-08T04:14:12",
+    "title": "Going back two years on Hacker News is like entering another, better universe",
+    "link": "https://news.ycombinator.com/front?day=2024-11-08",
+    "summary": "<p>Article URL: <a href=\"https://news.ycombinator.com/front?day=2024-11-08\">https://news.ycombinator.com/front?day=2024-11-08</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428724\">https://news.ycombinator.com/item?id=50428724</a></p>\n<p>Points: 135</p>\n<p># Comments: 68</p>",
+    "published": "2026-11-09T17:36:20",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
-    "link": "https://github.com/dmunozv04/isponsorblocktv",
-    "summary": "<p>Article URL: <a href=\"https://github.com/dmunozv04/isponsorblocktv\">https://github.com/dmunozv04/isponsorblocktv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410249\">https://news.ycombinator.com/item?id=50410249</a></p>\n<p>Points: 87</p>\n<p># Comments: 34</p>",
-    "published": "2026-11-08T03:47:19",
+    "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+    "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+    "summary": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer\">https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50428266\">https://news.ycombinator.com/item?id=50428266</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-09T17:00:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Goodbye Claude, Hello Pi",
-    "link": "https://caleb.software/posts/claude-to-pi.html",
-    "summary": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p>\n<p>Points: 497</p>\n<p># Comments: 326</p>",
-    "published": "2026-11-08T03:11:48",
+    "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+    "link": "https://news.ycombinator.com/item?id=50427934",
+    "summary": "<p>Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use).<p>For my workflow I’ve always looked for performance, especially since some time ago I had a really outdated machine and any kind of bloat was really noticeable, I remember using DBeaver and it just crashing on me multiple times, I also had to use postGIS which just made it worse. I migrated all my essential dev tools to use the ones with performance in mind (Zed, Ghostty etc) but the only thing that was missing was DB Client. The main choices everyone has are DBeaver which is a memory hog and an overkill for most of the tasks imo. The other options like Datagrid, Beekeeper, TablePlus are either electron based so bloated and memory hogs or paid and closed-source.<p>DBDelve 0.3.6 against DBeaver 25.3.1 on the same Postgres table, median of 5 runs each (2026-10-11, M1 Pro, 32 GB). Times are from the action to the rows rendered.<p><pre><code>                            DBDelve   DBeaver\n  Launch                    1.1 s     5.2 s\n  Idle memory               133 MB    606 MB\n  1,000-row query           0.21 s    1.96 s\n  1M rows, time             56 s      208 s\n  1M rows, memory [1]       4.9 GB    17 GB\n</code></pre>\n[1] The whole 1M-row, 100-column table pulled into memory on purpose, with the row limit off. Not a normal use case; DBeaver's heap limit had to be raised manually for the benchmark.<p>Scrolling perf with 1 million rows loaded with 100 columns each: <a href=\"https://youtu.be/V2MOhJYFqIE\" rel=\"nofollow\">https://youtu.be/V2MOhJYFqIE</a><p>It has most of the features most devs would need for 90% of their workflow plus some more I thought would be a nice touch:\nReadonly, read-write and Full Access modes\nGlass themes (If you’re into them, I am)\nKeyboard focused with every keybinding customizable\nOrganization of connections into projects<p>Me and some other folks have been daily driving it for more than a month now and most good feedback comes on it having a really simple UI to navigate, very stable for its age and the performance of course. I’m also sharing here because those people tell me this has potential to grow so I’m trying my hand at distributing it.<p>Just want to give a huge shoutout here to the Zed team for GPUI, it's a breeze to work with if you just get through them not updating the crate officially on crates.io but the community has found the solutions for it, you just have to dig deep for it. It performs extremely well and just the HTML-like structure of it, makes it easy to understand for someone from a web dev background and agents are very good at writing it too. GPUI component also solves a lot of problems with having a good component library we can use. I think for anyone starting a GPUI project now, GPUI-kit makes a lot of sense, it just bundles GPUI, GPUI-component together and has some optimizations adding retained mode which is experimental but could provide a lot of benefit, so think all things considered it should be the default way.<p>The major optimization I did was just lowering the memory overhead by using packed rows which reduced the memory usage by 40% on large datasets (8.1GB to 4.9GB on a 4GB table loaded in app), everything else came bundled in with Rust and GPUI mostly or they just made it very easy.<p>Limitations:\nIt's not signed and notarized, identity verification from apple's side has been a nightmare but it should be signed soon.\nDon’t expect feature parity with more mature clients for now, the general direction of this right now is the zed way of adding features in but after making sure the core workflows are done with a high quality.<p>Do give it a try, you can import your connections from dbeaver and tableplus.<p><a href=\"https://github.com/ShayanAbbas1/dbdelve\" rel=\"nofollow\">https://github.com/ShayanAbbas1/dbdelve</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427934\">https://news.ycombinator.com/item?id=50427934</a></p>\n<p>Points: 50</p>\n<p># Comments: 15</p>",
+    "published": "2026-11-09T16:36:38",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Consumer brain wave headsets threaten privacy",
-    "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F\">https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50409856\">https://news.ycombinator.com/item?id=50409856</a></p>\n<p>Points: 95</p>\n<p># Comments: 61</p>",
-    "published": "2026-11-08T02:02:38",
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "summary": "<p>Article URL: <a href=\"https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy\">https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427362\">https://news.ycombinator.com/item?id=50427362</a></p>\n<p>Points: 272</p>\n<p># Comments: 166</p>",
+    "published": "2026-11-09T16:00:45",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "GitHub New pull request overview page in public preview",
-    "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-    "summary": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408931\">https://news.ycombinator.com/item?id=50408931</a></p>\n<p>Points: 165</p>\n<p># Comments: 112</p>",
-    "published": "2026-11-07T23:09:40",
+    "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+    "link": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+    "summary": "<p>Article URL: <a href=\"https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing\">https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50427085\">https://news.ycombinator.com/item?id=50427085</a></p>\n<p>Points: 132</p>\n<p># Comments: 76</p>",
+    "published": "2026-11-09T15:39:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Making any integer with four 2s (2025)",
-    "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-    "summary": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/\">https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408713\">https://news.ycombinator.com/item?id=50408713</a></p>\n<p>Points: 172</p>\n<p># Comments: 46</p>",
-    "published": "2026-11-07T22:38:58",
+    "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+    "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+    "summary": "<p>Article URL: <a href=\"https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/\">https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426899\">https://news.ycombinator.com/item?id=50426899</a></p>\n<p>Points: 106</p>\n<p># Comments: 120</p>",
+    "published": "2026-11-09T15:23:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "summary": "<p>Article URL: <a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50407882\">https://news.ycombinator.com/item?id=50407882</a></p>\n<p>Points: 484</p>\n<p># Comments: 348</p>",
-    "published": "2026-11-07T20:45:32",
+    "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+    "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+    "summary": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
+    "published": "2026-11-09T15:18:30",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Pigshell: Unix the Web",
+    "link": "http://pigshell.com/v/0.6.4/",
+    "summary": "<p>Article URL: <a href=\"http://pigshell.com/v/0.6.4/\">http://pigshell.com/v/0.6.4/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426831\">https://news.ycombinator.com/item?id=50426831</a></p>\n<p>Points: 34</p>\n<p># Comments: 12</p>",
+    "published": "2026-11-09T15:18:19",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Zebkit – Chromium as an embeddable library",
+    "link": "https://github.com/ikey4u/zebkit",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ikey4u/zebkit\">https://github.com/ikey4u/zebkit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426207\">https://news.ycombinator.com/item?id=50426207</a></p>\n<p>Points: 90</p>\n<p># Comments: 34</p>",
+    "published": "2026-11-09T14:34:00",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+    "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "summary": "<p>Article URL: <a href=\"https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/\">https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426175\">https://news.ycombinator.com/item?id=50426175</a></p>\n<p>Points: 153</p>\n<p># Comments: 64</p>",
+    "published": "2026-11-09T14:31:39",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
+    "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
+    "summary": "The chief executive has a tight grip on his company, presenting a challenge for Nvidia’s board, which is investigating his affair with a woman believed to be a Chinese spy.",
+    "published": "2026-11-09T13:54:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+    "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
+    "summary": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
+    "published": "2026-11-09T13:49:56",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Children of Men: The future is a mirror for the present",
+    "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+    "summary": "<p>Article URL: <a href=\"https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/\">https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50425303\">https://news.ycombinator.com/item?id=50425303</a></p>\n<p>Points: 104</p>\n<p># Comments: 84</p>",
+    "published": "2026-11-09T13:27:01",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Fold Epic Paper Airplanes",
+    "link": "https://www.foldableflight.com",
+    "summary": "<p>Article URL: <a href=\"https://www.foldableflight.com\">https://www.foldableflight.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50424581\">https://news.ycombinator.com/item?id=50424581</a></p>\n<p>Points: 624</p>\n<p># Comments: 103</p>",
+    "published": "2026-11-09T12:19:22",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Try Gleam",
+    "link": "https://nchagnet.eu/blog/you-should-try-gleam",
+    "summary": "<p>Article URL: <a href=\"https://nchagnet.eu/blog/you-should-try-gleam\">https://nchagnet.eu/blog/you-should-try-gleam</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50424366\">https://news.ycombinator.com/item?id=50424366</a></p>\n<p>Points: 76</p>\n<p># Comments: 98</p>",
+    "published": "2026-11-09T11:55:14",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+    "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+    "summary": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+    "published": "2026-11-09T00:27:00",
+    "source": "NYT > Technology"
   },
   {
     "title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
     "link": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
     "summary": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
-    "published": "2026-11-07T18:52:51",
+    "published": "2026-11-07T18:52:52",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "What I run on my $10 USD OpenStick homelab",
-    "link": "https://blog.bosscher.ch/posts/openstick/",
-    "summary": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 672</p>\n<p># Comments: 122</p>",
-    "published": "2026-11-07T18:12:12",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "link": "https://github.com/hedgerow-dev/coldframe",
-    "summary": "<p>I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.<p>To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.<p>Things that were fun to get right:<p>- Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes.<p>- Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities.<p>- Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real.<p>Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io.<p>Feedback welcome, especially from anyone who has seen these devices in the field!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406292\">https://news.ycombinator.com/item?id=50406292</a></p>\n<p>Points: 261</p>\n<p># Comments: 62</p>",
-    "published": "2026-11-07T17:27:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-    "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-    "summary": "<p>Article URL: <a href=\"https://maxxbench.unlap.ai/research/why-maxxbench/\">https://maxxbench.unlap.ai/research/why-maxxbench/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406222\">https://news.ycombinator.com/item?id=50406222</a></p>\n<p>Points: 348</p>\n<p># Comments: 98</p>",
-    "published": "2026-11-07T17:19:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-    "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-    "summary": "<p>Article URL: <a href=\"https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/\">https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403507\">https://news.ycombinator.com/item?id=50403507</a></p>\n<p>Points: 388</p>\n<p># Comments: 390</p>",
-    "published": "2026-11-07T11:11:15",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
@@ -259,38 +315,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
-    "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-    "summary": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-    "published": "2026-11-03T08:45:20",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
     "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
     "summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
     "published": "2026-11-02T23:41:51",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
-    "link": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
-    "summary": "Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.",
-    "published": "2026-11-02T18:48:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Inside Anthropic’s Hunt for A.I. Computing Power",
-    "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
-    "summary": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
-    "published": "2026-11-02T18:01:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Deportees Turn to TikTok to Document Life Starting Over",
-    "link": "https://www.nytimes.com/2026/11/02/world/deportees-social-media-immigration.html",
-    "summary": "On TikTok, men and women sent back after living in the United States are documenting the reality of starting over — and finding an audience.",
-    "published": "2026-11-02T14:53:35",
     "source": "NYT > Technology"
   }
 ]
