@@ -1,111 +1,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-10</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html</loc>
-    <lastmod>2026-11-09T19:13:32</lastmod>
+    <loc>https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</loc>
+    <lastmod>2026-11-10T16:34:45</lastmod>
   </url>
   <url>
-    <loc>https://www.anthropic.com/claude-fable-and-mythos-5-2</loc>
-    <lastmod>2026-11-09T18:56:29</lastmod>
+    <loc>https://www.blender.org/download/releases/5-3/</loc>
+    <lastmod>2026-11-10T16:15:43</lastmod>
   </url>
   <url>
-    <loc>https://meowdisplay.app/</loc>
-    <lastmod>2026-11-09T18:39:22</lastmod>
+    <loc>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</loc>
+    <lastmod>2026-11-10T16:07:15</lastmod>
+  </url>
+  <url>
+    <loc>https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/</loc>
+    <lastmod>2026-11-10T16:01:27</lastmod>
+  </url>
+  <url>
+    <loc>https://text.npr.org/nx-s1-6029641</loc>
+    <lastmod>2026-11-10T15:59:34</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html</loc>
+    <lastmod>2026-11-10T15:41:01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html</loc>
+    <lastmod>2026-11-10T15:39:57</lastmod>
+  </url>
+  <url>
+    <loc>https://docodethatmatters.com/home-automation-overnight-success/</loc>
+    <lastmod>2026-11-10T15:25:20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html</loc>
+    <lastmod>2026-11-10T15:24:26</lastmod>
+  </url>
+  <url>
+    <loc>https://tinyvalencia.com/</loc>
+    <lastmod>2026-11-10T15:12:16</lastmod>
+  </url>
+  <url>
+    <loc>https://stoppels.ch/2026/11/07/the-hardest-tarball.html</loc>
+    <lastmod>2026-11-10T15:00:39</lastmod>
+  </url>
+  <url>
+    <loc>https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search</loc>
+    <lastmod>2026-11-10T14:41:36</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html</loc>
+    <lastmod>2026-11-10T13:07:03</lastmod>
+  </url>
+  <url>
+    <loc>https://letoverlambda.com/</loc>
+    <lastmod>2026-11-10T12:35:27</lastmod>
+  </url>
+  <url>
+    <loc>https://deepmind.google/blog/introducing-alphaproof-code/</loc>
+    <lastmod>2026-11-10T12:11:12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html</loc>
+    <lastmod>2026-11-10T11:00:17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/10/us/politics/presidential-library-artifacts-photo-book.html</loc>
+    <lastmod>2026-11-10T10:02:45</lastmod>
+  </url>
+  <url>
+    <loc>https://connect.queenslibrary.org/</loc>
+    <lastmod>2026-11-10T09:04:39</lastmod>
+  </url>
+  <url>
+    <loc>https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</loc>
+    <lastmod>2026-11-10T07:19:38</lastmod>
+  </url>
+  <url>
+    <loc>https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</loc>
+    <lastmod>2026-11-10T06:01:08</lastmod>
+  </url>
+  <url>
+    <loc>https://maurycyz.com/projects/fading/</loc>
+    <lastmod>2026-11-10T05:24:45</lastmod>
+  </url>
+  <url>
+    <loc>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</loc>
+    <lastmod>2026-11-10T00:10:46</lastmod>
+  </url>
+  <url>
+    <loc>https://hannahilea.com/blog/daylight-clock/</loc>
+    <lastmod>2026-11-09T20:00:32</lastmod>
+  </url>
+  <url>
+    <loc>https://postalpro.usps.com/zcb</loc>
+    <lastmod>2026-11-09T19:58:59</lastmod>
+  </url>
+  <url>
+    <loc>https://e-means.github.io/</loc>
+    <lastmod>2026-11-09T18:45:43</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html</loc>
     <lastmod>2026-11-09T18:37:55</lastmod>
   </url>
   <url>
-    <loc>https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/</loc>
-    <lastmod>2026-11-09T18:33:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</loc>
-    <lastmod>2026-11-09T18:27:58</lastmod>
-  </url>
-  <url>
-    <loc>https://www.infineon.com/press-release/2026/infpr202611-028</loc>
-    <lastmod>2026-11-09T18:25:01</lastmod>
-  </url>
-  <url>
-    <loc>https://research.meta.ai/blog/muse-ember</loc>
-    <lastmod>2026-11-09T17:58:46</lastmod>
+    <loc>https://www.anthropic.com/claude-fable-and-mythos-5-2</loc>
+    <lastmod>2026-11-09T18:01:10</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html</loc>
-    <lastmod>2026-11-09T17:58:28</lastmod>
-  </url>
-  <url>
-    <loc>https://www.watched.earth</loc>
-    <lastmod>2026-11-09T17:51:31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/</loc>
-    <lastmod>2026-11-09T17:42:55</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/front?day=2024-11-08</loc>
-    <lastmod>2026-11-09T17:36:20</lastmod>
-  </url>
-  <url>
-    <loc>https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer</loc>
-    <lastmod>2026-11-09T17:00:06</lastmod>
-  </url>
-  <url>
-    <loc>https://news.ycombinator.com/item?id=50427934</loc>
-    <lastmod>2026-11-09T16:36:38</lastmod>
-  </url>
-  <url>
-    <loc>https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy</loc>
-    <lastmod>2026-11-09T16:00:45</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing</loc>
-    <lastmod>2026-11-09T15:39:01</lastmod>
-  </url>
-  <url>
-    <loc>https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/</loc>
-    <lastmod>2026-11-09T15:23:57</lastmod>
+    <lastmod>2026-11-09T17:58:29</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html</loc>
     <lastmod>2026-11-09T15:18:30</lastmod>
   </url>
   <url>
-    <loc>http://pigshell.com/v/0.6.4/</loc>
-    <lastmod>2026-11-09T15:18:19</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ikey4u/zebkit</loc>
-    <lastmod>2026-11-09T14:34:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/</loc>
-    <lastmod>2026-11-09T14:31:39</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html</loc>
     <lastmod>2026-11-09T13:54:04</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html</loc>
-    <lastmod>2026-11-09T13:49:56</lastmod>
-  </url>
-  <url>
-    <loc>https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/</loc>
-    <lastmod>2026-11-09T13:27:01</lastmod>
-  </url>
-  <url>
-    <loc>https://www.foldableflight.com</loc>
-    <lastmod>2026-11-09T12:19:22</lastmod>
-  </url>
-  <url>
-    <loc>https://nchagnet.eu/blog/you-should-try-gleam</loc>
-    <lastmod>2026-11-09T11:55:14</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html</loc>
@@ -178,13 +194,5 @@
   <url>
     <loc>https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html</loc>
     <lastmod>2026-11-03T19:54:30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html</loc>
-    <lastmod>2026-11-03T18:09:36</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/02/technology/apple-earnings.html</loc>
-    <lastmod>2026-11-02T23:41:51</lastmod>
   </url>
 </urlset>
