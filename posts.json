@@ -1,38 +1,248 @@
 [
   {
+    "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+    "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+    "summary": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+    "published": "2026-11-13T16:36:28",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Wall Street Braces for Anthropic’s Spending",
+    "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+    "summary": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+    "published": "2026-11-13T16:28:46",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+    "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+    "summary": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.",
+    "published": "2026-11-13T16:11:41",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+    "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+    "summary": "<p>Article URL: <a href=\"https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e\">https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50485295\">https://news.ycombinator.com/item?id=50485295</a></p>\n<p>Points: 78</p>\n<p># Comments: 11</p>",
+    "published": "2026-11-13T15:52:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
+    "link": "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html",
+    "summary": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps.",
+    "published": "2026-11-13T15:31:05",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Microsoft Says Outage Disrupting Outlook Is Improving",
+    "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+    "summary": "Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack.",
+    "published": "2026-11-13T15:30:08",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "link": "https://text.npr.org/nx-s1-6029408",
+    "summary": "<p>Article URL: <a href=\"https://text.npr.org/nx-s1-6029408\">https://text.npr.org/nx-s1-6029408</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484960\">https://news.ycombinator.com/item?id=50484960</a></p>\n<p>Points: 32</p>\n<p># Comments: 16</p>",
+    "published": "2026-11-13T15:29:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=IRK8h67ol7Q\">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484658\">https://news.ycombinator.com/item?id=50484658</a></p>\n<p>Points: 56</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-13T15:08:44",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+    "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+    "summary": "<p>Article URL: <a href=\"https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord\">https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484650\">https://news.ycombinator.com/item?id=50484650</a></p>\n<p>Points: 21</p>\n<p># Comments: 19</p>",
+    "published": "2026-11-13T15:08:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+    "link": "https://myid.ie/business/eu-digital-wallet-tracker/",
+    "summary": "<p>Article URL: <a href=\"https://myid.ie/business/eu-digital-wallet-tracker/\">https://myid.ie/business/eu-digital-wallet-tracker/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484496\">https://news.ycombinator.com/item?id=50484496</a></p>\n<p>Points: 50</p>\n<p># Comments: 8</p>",
+    "published": "2026-11-13T14:58:07",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+    "link": "https://news.ycombinator.com/item?id=50484421",
+    "summary": "<p>U.S. producer prices rose 6.5% YoY in October, the highest since November 2022, below expectations of 6.6% and up from 6.3% previously. PPI increased 0.3% MoM, below the expected 0.4%, while September’s reading was revised up from 1.3% to 1.4%.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484421\">https://news.ycombinator.com/item?id=50484421</a></p>\n<p>Points: 125</p>\n<p># Comments: 63</p>",
+    "published": "2026-11-13T14:53:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A technical vision for the Haskell ecosystem",
+    "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+    "summary": "<p>Article URL: <a href=\"https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078\">https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484235\">https://news.ycombinator.com/item?id=50484235</a></p>\n<p>Points: 55</p>\n<p># Comments: 21</p>",
+    "published": "2026-11-13T14:43:12",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+    "link": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+    "summary": "<p>Article URL: <a href=\"https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0\">https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484007\">https://news.ycombinator.com/item?id=50484007</a></p>\n<p>Points: 37</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-13T14:28:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The 42-Year Journey to Bring 'Neuromancer' to the Screen",
+    "link": "https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/",
+    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/\">https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484006\">https://news.ycombinator.com/item?id=50484006</a></p>\n<p>Points: 74</p>\n<p># Comments: 49</p>",
+    "published": "2026-11-13T14:28:32",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US university students tell surveillance cameras to Flock off",
+    "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts\">https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483759\">https://news.ycombinator.com/item?id=50483759</a></p>\n<p>Points: 83</p>\n<p># Comments: 35</p>",
+    "published": "2026-11-13T14:11:56",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "summary": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+    "published": "2026-11-13T14:02:13",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why Zig over C for Systems Programming",
+    "link": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+    "summary": "<p>Article URL: <a href=\"https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/\">https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483611\">https://news.ycombinator.com/item?id=50483611</a></p>\n<p>Points: 125</p>\n<p># Comments: 70</p>",
+    "published": "2026-11-13T14:01:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US test reactor cleared for operations",
+    "link": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+    "summary": "<p>Article URL: <a href=\"https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations\">https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50483533\">https://news.ycombinator.com/item?id=50483533</a></p>\n<p>Points: 40</p>\n<p># Comments: 12</p>",
+    "published": "2026-11-13T13:54:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/doi/10.1126/science.132.3436.1291\">https://www.science.org/doi/10.1126/science.132.3436.1291</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50482379\">https://news.ycombinator.com/item?id=50482379</a></p>\n<p>Points: 319</p>\n<p># Comments: 218</p>",
+    "published": "2026-11-13T12:10:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "AI Is Destroying the Trust Between Writers and Readers",
+    "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/\">https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50481870\">https://news.ycombinator.com/item?id=50481870</a></p>\n<p>Points: 164</p>\n<p># Comments: 73</p>",
+    "published": "2026-11-13T11:13:46",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "link": "https://status.claude.com/incidents/nn11wk485zfn",
+    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/nn11wk485zfn\">https://status.claude.com/incidents/nn11wk485zfn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50481187\">https://news.ycombinator.com/item?id=50481187</a></p>\n<p>Points: 418</p>\n<p># Comments: 344</p>",
+    "published": "2026-11-13T10:18:13",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Dawn of the Data Intelligence Engineer",
+    "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+    "summary": "<p>Article URL: <a href=\"https://motherduck.com/blog/the-data-intelligence-engineer/\">https://motherduck.com/blog/the-data-intelligence-engineer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50480480\">https://news.ycombinator.com/item?id=50480480</a></p>\n<p>Points: 110</p>\n<p># Comments: 71</p>",
+    "published": "2026-11-13T09:08:18",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "IceWM",
+    "link": "https://ice-wm.org/",
+    "summary": "<p>Article URL: <a href=\"https://ice-wm.org/\">https://ice-wm.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50478515\">https://news.ycombinator.com/item?id=50478515</a></p>\n<p>Points: 310</p>\n<p># Comments: 161</p>",
+    "published": "2026-11-13T04:54:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Switcher (2004)",
+    "link": "https://folklore.org/Switcher.html",
+    "summary": "<p>Article URL: <a href=\"https://folklore.org/Switcher.html\">https://folklore.org/Switcher.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477714\">https://news.ycombinator.com/item?id=50477714</a></p>\n<p>Points: 128</p>\n<p># Comments: 39</p>",
+    "published": "2026-11-13T03:14:59",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+    "link": "https://brave.com/blog/search-api-agentic-payments/",
+    "summary": "<p>Article URL: <a href=\"https://brave.com/blog/search-api-agentic-payments/\">https://brave.com/blog/search-api-agentic-payments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50477649\">https://news.ycombinator.com/item?id=50477649</a></p>\n<p>Points: 214</p>\n<p># Comments: 120</p>",
+    "published": "2026-11-13T03:08:08",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington",
+    "link": "https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html",
+    "summary": "Nvidia’s chief executive, a confidant of President Trump, successfully pushed for less regulation and open borders for chip sales.",
+    "published": "2026-11-13T01:22:35",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Jensen Huang Is Out at Nvidia",
+    "link": "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html",
+    "summary": "In a shocking turn of events, Nvidia’s co-founder resigns amid multiple scandals.",
+    "published": "2026-11-12T23:07:18",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "summary": "<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://news.ycombinator.com/item?id=50475713</a></p>\n<p>Points: 313</p>\n<p># Comments: 92</p>",
+    "published": "2026-11-12T23:06:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates.",
+    "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
+    "summary": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I.",
+    "published": "2026-11-12T23:02:51",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+    "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+    "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+    "published": "2026-11-12T22:54:20",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
+    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+    "summary": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
+    "published": "2026-11-12T21:15:17",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Jensen Huang Resigns From Nvidia After Affairs",
+    "link": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
+    "summary": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.",
+    "published": "2026-11-12T19:07:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
+    "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
+    "summary": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report.",
+    "published": "2026-11-12T18:05:44",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+    "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+    "summary": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+    "published": "2026-11-12T17:26:06",
+    "source": "NYT > Technology"
+  },
+  {
     "title": "We Were Warned of Deceptive A.I. Fakes. We Got Memes.",
     "link": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
     "summary": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning.",
-    "published": "2026-11-12T17:13:28",
+    "published": "2026-11-12T17:13:29",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Jensen Huang’s Ouster From Nvidia Could Complicate Billions in Philanthropic Giving",
-    "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-    "summary": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
-    "published": "2026-11-12T17:09:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
-    "link": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-    "summary": "<p>Article URL: <a href=\"https://www.easel.sh/blog/lambda-web-functions-idle-memory\">https://www.easel.sh/blog/lambda-web-functions-idle-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50470445\">https://news.ycombinator.com/item?id=50470445</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-12T16:59:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-    "summary": "News that the chipmaker’s chief executive, Jensen Huang, stepped down drove Nvidia’s stock down and reverberated across global markets.",
-    "published": "2026-11-12T16:33:14",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
-    "link": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
-    "summary": "<p>Article URL: <a href=\"https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep\">https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50469994\">https://news.ycombinator.com/item?id=50469994</a></p>\n<p>Points: 34</p>\n<p># Comments: 4</p>",
-    "published": "2026-11-12T16:29:13",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "What to Know About the Turmoil at Nvidia as Jensen Huang Resigns as C.E.O.",
@@ -42,137 +252,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
-    "link": "https://getvale.org",
-    "summary": "<p>We used WordPress ourselves but struggled with ongoing maintenance. So we built an internal alternative CMS that met our needs. After two years of development, we decided to make it open source.<p>You can try the live demo (credentials included), explore the source code, and read the documentation here:<p>Try live demo: <a href=\"https://getvale.org/try-vale\" rel=\"nofollow\">https://getvale.org/try-vale</a>\nSource: <a href=\"https://github.com/MIDILLI-Tech/vale/\" rel=\"nofollow\">https://github.com/MIDILLI-Tech/vale/</a>\nDocs: <a href=\"https://docs.getvale.org\" rel=\"nofollow\">https://docs.getvale.org</a><p>If you have any feedback, comments, or questions, I'd be happy to answer them!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50469123\">https://news.ycombinator.com/item?id=50469123</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-12T15:35:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
-    "link": "https://fable52.games",
-    "summary": "<p>Article URL: <a href=\"https://fable52.games\">https://fable52.games</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50469007\">https://news.ycombinator.com/item?id=50469007</a></p>\n<p>Points: 37</p>\n<p># Comments: 31</p>",
-    "published": "2026-11-12T15:30:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-    "link": "https://github.com/chocoford/ExcalidrawZ",
-    "summary": "<p>Article URL: <a href=\"https://github.com/chocoford/ExcalidrawZ\">https://github.com/chocoford/ExcalidrawZ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468944\">https://news.ycombinator.com/item?id=50468944</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
-    "published": "2026-11-12T15:25:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "I'm making LLMs work on small and old devices",
-    "link": "https://github.com/hyperionaidev/smolmaxxing/",
-    "summary": "<p>Article URL: <a href=\"https://github.com/hyperionaidev/smolmaxxing/\">https://github.com/hyperionaidev/smolmaxxing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468888\">https://news.ycombinator.com/item?id=50468888</a></p>\n<p>Points: 48</p>\n<p># Comments: 11</p>",
-    "published": "2026-11-12T15:23:10",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Here’s the latest.",
-    "link": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
-    "summary": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.",
-    "published": "2026-11-12T15:15:25",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-    "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-    "summary": "<p>Article URL: <a href=\"https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/\">https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50468720\">https://news.ycombinator.com/item?id=50468720</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
-    "published": "2026-11-12T15:14:52",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
     "link": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
     "summary": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
     "published": "2026-11-12T14:42:23",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Running web sites makes me not want to",
-    "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-    "summary": "<p>Article URL: <a href=\"https://lowkey.party/running-web-sites-makes-me-not-want-to\">https://lowkey.party/running-web-sites-makes-me-not-want-to</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467869\">https://news.ycombinator.com/item?id=50467869</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
-    "published": "2026-11-12T14:30:38",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
-    "link": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
-    "summary": "<p>Article URL: <a href=\"https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/\">https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467763\">https://news.ycombinator.com/item?id=50467763</a></p>\n<p>Points: 60</p>\n<p># Comments: 6</p>",
-    "published": "2026-11-12T14:25:23",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-    "link": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-    "summary": "<p>Article URL: <a href=\"https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64\">https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467618\">https://news.ycombinator.com/item?id=50467618</a></p>\n<p>Points: 108</p>\n<p># Comments: 34</p>",
-    "published": "2026-11-12T14:18:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-    "link": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-    "summary": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at\">https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467460\">https://news.ycombinator.com/item?id=50467460</a></p>\n<p>Points: 94</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-12T14:12:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Libreagi – Save OSS Models",
-    "link": "https://libreagi.com/",
-    "summary": "<p>Article URL: <a href=\"https://libreagi.com/\">https://libreagi.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467439\">https://news.ycombinator.com/item?id=50467439</a></p>\n<p>Points: 59</p>\n<p># Comments: 14</p>",
-    "published": "2026-11-12T14:11:58",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-    "link": "https://spectrum.ieee.org/electric-ship-batteries",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/electric-ship-batteries\">https://spectrum.ieee.org/electric-ship-batteries</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467305\">https://news.ycombinator.com/item?id=50467305</a></p>\n<p>Points: 33</p>\n<p># Comments: 22</p>",
-    "published": "2026-11-12T14:06:03",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Our software engineering interviews are changing (a little)",
-    "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
-    "summary": "<p>Article URL: <a href=\"https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/\">https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467297\">https://news.ycombinator.com/item?id=50467297</a></p>\n<p>Points: 78</p>\n<p># Comments: 64</p>",
-    "published": "2026-11-12T14:05:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "NVIDIA Announces CEO Transition",
-    "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "summary": "<p><a href=\"https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/\" rel=\"nofollow\">https://www.reuters.com/live/nvidia-live-board-meets-fate-ce...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50467087\">https://news.ycombinator.com/item?id=50467087</a></p>\n<p>Points: 1397</p>\n<p># Comments: 1150</p>",
-    "published": "2026-11-12T13:52:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Anthropic IPO",
-    "link": "https://ipo.anthropic.com/us/",
-    "summary": "<p>Article URL: <a href=\"https://ipo.anthropic.com/us/\">https://ipo.anthropic.com/us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465829\">https://news.ycombinator.com/item?id=50465829</a></p>\n<p>Points: 513</p>\n<p># Comments: 548</p>",
-    "published": "2026-11-12T11:46:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-    "link": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-    "summary": "<p>Article URL: <a href=\"https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/\">https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465453\">https://news.ycombinator.com/item?id=50465453</a></p>\n<p>Points: 79</p>\n<p># Comments: 41</p>",
-    "published": "2026-11-12T10:46:20",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Why Writing Correct Software Is Hard",
-    "link": "https://pron.github.io/posts/correctness-and-complexity",
-    "summary": "<p>Article URL: <a href=\"https://pron.github.io/posts/correctness-and-complexity\">https://pron.github.io/posts/correctness-and-complexity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465352\">https://news.ycombinator.com/item?id=50465352</a></p>\n<p>Points: 262</p>\n<p># Comments: 112</p>",
-    "published": "2026-11-12T10:28:26",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Critical RCE Vulnerability in Apache HTTP Server",
-    "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50462177\">https://news.ycombinator.com/item?id=50462177</a></p>\n<p>Points: 324</p>\n<p># Comments: 166</p>",
-    "published": "2026-11-12T02:11:11",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
@@ -182,11 +266,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "link": "https://www.mcmillen.dev/sigbovik/",
-    "summary": "<p>Article URL: <a href=\"https://www.mcmillen.dev/sigbovik/\">https://www.mcmillen.dev/sigbovik/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459745\">https://news.ycombinator.com/item?id=50459745</a></p>\n<p>Points: 542</p>\n<p># Comments: 70</p>",
-    "published": "2026-11-11T22:34:23",
-    "source": "Hacker News: Front Page"
+    "title": "United Airlines Blocks A.I. Agents From Booking Flights",
+    "link": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
+    "summary": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations.",
+    "published": "2026-11-11T23:15:31",
+    "source": "NYT > Technology"
   },
   {
     "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
@@ -220,7 +304,7 @@
     "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
     "link": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
     "summary": "The makers of A.I. want to build systems that follow human direction, without resisting or deceiving their operators.",
-    "published": "2026-11-11T10:01:51",
+    "published": "2026-11-11T10:01:52",
     "source": "NYT > Technology"
   },
   {
@@ -333,48 +417,6 @@
     "link": "https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html",
     "summary": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.",
     "published": "2026-11-06T20:45:56",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why the Tech Right Lost Big This Week",
-    "link": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
-    "summary": "“This felt like a decidedly anti-tech election.”",
-    "published": "2026-11-06T18:26:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-    "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-    "summary": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
-    "published": "2026-11-06T12:23:09",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
-    "link": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
-    "summary": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
-    "published": "2026-11-06T10:00:58",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "OpenAI Pledges to Give Locals More Say in Data Center Projects",
-    "link": "https://www.nytimes.com/2026/11/05/technology/openai-data-centers-midterms.html",
-    "summary": "The artificial intelligence company pledged to be more collaborative with the communities where it is building its data centers.",
-    "published": "2026-11-06T01:54:18",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
-    "link": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
-    "summary": "The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence.",
-    "published": "2026-11-06T01:10:46",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Google, Meta and TikTok Sue California Over Ban on Features for Kids",
-    "link": "https://www.nytimes.com/2026/11/05/technology/social-media-child-safety-california.html",
-    "summary": "Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive.",
-    "published": "2026-11-05T22:10:24",
     "source": "NYT > Technology"
   }
 ]
