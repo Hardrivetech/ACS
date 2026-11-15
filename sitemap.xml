@@ -1,99 +1,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
   </url>
   <url>
-    <loc>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</loc>
-    <lastmod>2026-11-14T14:09:25</lastmod>
+    <loc>https://joshblais.com/blog/emacs-as-my-browser/</loc>
+    <lastmod>2026-11-15T15:21:21</lastmod>
   </url>
   <url>
-    <loc>https://github.com/paul-nameless/agweb</loc>
-    <lastmod>2026-11-14T14:08:12</lastmod>
+    <loc>https://jakub.jankiewicz.org/blog/ai-code-open-source/</loc>
+    <lastmod>2026-11-15T14:46:58</lastmod>
   </url>
   <url>
-    <loc>https://github.com/FURSOY/fursoy-cpu</loc>
-    <lastmod>2026-11-14T14:06:34</lastmod>
+    <loc>https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/</loc>
+    <lastmod>2026-11-15T14:31:52</lastmod>
   </url>
   <url>
-    <loc>https://gitlab.com/snipedbywifi/terminactory</loc>
-    <lastmod>2026-11-14T14:05:54</lastmod>
+    <loc>https://prog21.dadgum.com/116.html</loc>
+    <lastmod>2026-11-15T13:44:16</lastmod>
   </url>
   <url>
-    <loc>https://foss.life/notes/2026/the-myth-of-neutral-code/</loc>
-    <lastmod>2026-11-14T13:52:11</lastmod>
+    <loc>https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</loc>
+    <lastmod>2026-11-15T13:15:22</lastmod>
   </url>
   <url>
-    <loc>https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</loc>
-    <lastmod>2026-11-14T13:48:06</lastmod>
+    <loc>https://lucypero.com/lucynes.html</loc>
+    <lastmod>2026-11-15T12:51:47</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html</loc>
+    <lastmod>2026-11-15T12:40:04</lastmod>
+  </url>
+  <url>
+    <loc>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</loc>
+    <lastmod>2026-11-15T12:14:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html</loc>
+    <lastmod>2026-11-15T11:40:51</lastmod>
+  </url>
+  <url>
+    <loc>https://space.stackexchange.com/questions/37775</loc>
+    <lastmod>2026-11-15T09:06:43</lastmod>
+  </url>
+  <url>
+    <loc>https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</loc>
+    <lastmod>2026-11-15T07:08:50</lastmod>
+  </url>
+  <url>
+    <loc>https://netbsd.org/~nia/disk-encrypt/</loc>
+    <lastmod>2026-11-15T05:29:54</lastmod>
+  </url>
+  <url>
+    <loc>https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</loc>
+    <lastmod>2026-11-15T02:41:25</lastmod>
+  </url>
+  <url>
+    <loc>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</loc>
+    <lastmod>2026-11-15T01:18:36</lastmod>
+  </url>
+  <url>
+    <loc>https://lithub.com/how-the-telephone-changed-the-world/</loc>
+    <lastmod>2026-11-14T22:56:09</lastmod>
+  </url>
+  <url>
+    <loc>https://retrocomputing.stackexchange.com/questions/17957</loc>
+    <lastmod>2026-11-14T22:22:49</lastmod>
+  </url>
+  <url>
+    <loc>https://www.spacex.com/launches/starship-flight-15</loc>
+    <lastmod>2026-11-14T21:22:24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html</loc>
+    <lastmod>2026-11-14T20:57:38</lastmod>
+  </url>
+  <url>
+    <loc>https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</loc>
+    <lastmod>2026-11-14T17:45:19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.crissyfield.de/research/lovable-en/</loc>
+    <lastmod>2026-11-14T17:43:10</lastmod>
   </url>
   <url>
     <loc>https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</loc>
     <lastmod>2026-11-14T13:43:28</lastmod>
   </url>
   <url>
-    <loc>https://aatishb.com/myriad/how-brains-learn/</loc>
-    <lastmod>2026-11-14T13:31:06</lastmod>
-  </url>
-  <url>
-    <loc>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</loc>
-    <lastmod>2026-11-14T13:20:43</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html</loc>
     <lastmod>2026-11-14T13:15:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</loc>
-    <lastmod>2026-11-14T12:45:45</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html</loc>
     <lastmod>2026-11-14T11:55:40</lastmod>
   </url>
   <url>
-    <loc>https://monkeyisland.pages.dev/</loc>
-    <lastmod>2026-11-14T04:23:30</lastmod>
-  </url>
-  <url>
-    <loc>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</loc>
-    <lastmod>2026-11-14T02:52:59</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/ggml-org/ggml/releases/tag/v1.0.0</loc>
-    <lastmod>2026-11-14T02:28:29</lastmod>
-  </url>
-  <url>
-    <loc>https://unsloth.ai/docs/models/qwen3.8</loc>
-    <lastmod>2026-11-14T00:06:04</lastmod>
-  </url>
-  <url>
-    <loc>https://dfarq.homeip.net/what-happened-to-3com/</loc>
-    <lastmod>2026-11-13T23:48:59</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html</loc>
     <lastmod>2026-11-13T23:20:11</lastmod>
   </url>
   <url>
-    <loc>https://grounds.top/</loc>
-    <lastmod>2026-11-13T23:17:39</lastmod>
-  </url>
-  <url>
-    <loc>https://www.joshka.net/cell-borders/</loc>
-    <lastmod>2026-11-13T23:06:40</lastmod>
-  </url>
-  <url>
-    <loc>https://alichraghi.github.io/blog/how-not-to-build-a-music-player/</loc>
-    <lastmod>2026-11-13T23:04:30</lastmod>
-  </url>
-  <url>
-    <loc>https://orcasairband.com/</loc>
-    <lastmod>2026-11-13T22:04:24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</loc>
-    <lastmod>2026-11-13T21:05:53</lastmod>
+    <loc>https://www.nytimes.com/2026/11/13/business/microsoft-outage.html</loc>
+    <lastmod>2026-11-13T21:28:58</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html</loc>
@@ -114,6 +122,10 @@
   <url>
     <loc>https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html</loc>
     <lastmod>2026-11-13T15:31:06</lastmod>
+  </url>
+  <url>
+    <loc>https://rorz.io/writing/semicircle-packing</loc>
+    <lastmod>2026-11-13T14:42:57</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html</loc>

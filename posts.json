@@ -1,65 +1,149 @@
 [
   {
-    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-    "summary": "<p>Article URL: <a href=\"https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/\">https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497155\">https://news.ycombinator.com/item?id=50497155</a></p>\n<p>Points: 39</p>\n<p># Comments: 13</p>",
-    "published": "2026-11-14T14:09:25",
+    "title": "Emacs Is My Browser",
+    "link": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "summary": "<p>Article URL: <a href=\"https://joshblais.com/blog/emacs-as-my-browser/\">https://joshblais.com/blog/emacs-as-my-browser/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507553\">https://news.ycombinator.com/item?id=50507553</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-15T15:21:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-    "link": "https://github.com/paul-nameless/agweb",
-    "summary": "<p>Article URL: <a href=\"https://github.com/paul-nameless/agweb\">https://github.com/paul-nameless/agweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497147\">https://news.ycombinator.com/item?id=50497147</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
-    "published": "2026-11-14T14:08:12",
+    "title": "All AI-generated code should be Open Source",
+    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "summary": "<p>Article URL: <a href=\"https://jakub.jankiewicz.org/blog/ai-code-open-source/\">https://jakub.jankiewicz.org/blog/ai-code-open-source/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507303\">https://news.ycombinator.com/item?id=50507303</a></p>\n<p>Points: 131</p>\n<p># Comments: 83</p>",
+    "published": "2026-11-15T14:46:58",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-    "link": "https://github.com/FURSOY/fursoy-cpu",
-    "summary": "<p>Article URL: <a href=\"https://github.com/FURSOY/fursoy-cpu\">https://github.com/FURSOY/fursoy-cpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497137\">https://news.ycombinator.com/item?id=50497137</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-14T14:06:34",
+    "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+    "link": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+    "summary": "<p>Article URL: <a href=\"https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/\">https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507206\">https://news.ycombinator.com/item?id=50507206</a></p>\n<p>Points: 32</p>\n<p># Comments: 14</p>",
+    "published": "2026-11-15T14:31:52",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "link": "https://gitlab.com/snipedbywifi/terminactory",
-    "summary": "<p>Hey HN readers!<p>I'm snipedbywifi (<a href=\"https://gitlab.com/snipedbywifi\" rel=\"nofollow\">https://gitlab.com/snipedbywifi</a>), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish!<p>The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!)<p>Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features.<p>If anyone actually has this issue / want of a terminal-based game that runs alongside your agents so you don't doomscroll, do you have any suggestions, or additional ideas I could add?<p>It's hosted on GitLab, soo, that's one additional thing i'd like to mention<p>Thanks for reading!! snipedbywifi<p>(p.s. first HN post lol)\n(p.s. p.s. there's a lot of hidden lore in the game, so.. lore-divers? you might like it?)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497132\">https://news.ycombinator.com/item?id=50497132</a></p>\n<p>Points: 25</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-14T14:05:54",
+    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+    "link": "https://prog21.dadgum.com/116.html",
+    "summary": "<p>Article URL: <a href=\"https://prog21.dadgum.com/116.html\">https://prog21.dadgum.com/116.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506894\">https://news.ycombinator.com/item?id=50506894</a></p>\n<p>Points: 61</p>\n<p># Comments: 16</p>",
+    "published": "2026-11-15T13:44:16",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "The Myth of Neutral Code",
-    "link": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
-    "summary": "<p>Article URL: <a href=\"https://foss.life/notes/2026/the-myth-of-neutral-code/\">https://foss.life/notes/2026/the-myth-of-neutral-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497041\">https://news.ycombinator.com/item?id=50497041</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
-    "published": "2026-11-14T13:52:11",
+    "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "summary": "<p>Article URL: <a href=\"https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/\">https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506719\">https://news.ycombinator.com/item?id=50506719</a></p>\n<p>Points: 151</p>\n<p># Comments: 83</p>",
+    "published": "2026-11-15T13:15:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Italy fines Meta $887M over Android users' data access",
-    "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/\">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497009\">https://news.ycombinator.com/item?id=50497009</a></p>\n<p>Points: 50</p>\n<p># Comments: 18</p>",
-    "published": "2026-11-14T13:48:06",
+    "title": "A NES emulator written in Odin",
+    "link": "https://lucypero.com/lucynes.html",
+    "summary": "<p>Article URL: <a href=\"https://lucypero.com/lucynes.html\">https://lucypero.com/lucynes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506588\">https://news.ycombinator.com/item?id=50506588</a></p>\n<p>Points: 43</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-15T12:51:47",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "KDE: The Documentary on Free Software [video]",
+    "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+    "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+    "summary": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+    "published": "2026-11-15T12:40:04",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "summary": "<p>Article URL: <a href=\"https://magazine.sebastianraschka.com/p/understanding-positional-embeddings\">https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506376\">https://news.ycombinator.com/item?id=50506376</a></p>\n<p>Points: 83</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-15T12:14:06",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+    "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html\">https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50506180\">https://news.ycombinator.com/item?id=50506180</a></p>\n<p>Points: 156</p>\n<p># Comments: 53</p>",
+    "published": "2026-11-15T11:40:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Why did some Apollo missions carry a grenade launcher?",
+    "link": "https://space.stackexchange.com/questions/37775",
+    "summary": "<p>Article URL: <a href=\"https://space.stackexchange.com/questions/37775\">https://space.stackexchange.com/questions/37775</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50505271\">https://news.ycombinator.com/item?id=50505271</a></p>\n<p>Points: 132</p>\n<p># Comments: 83</p>",
+    "published": "2026-11-15T09:06:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Book list for streetfighting computer scientists",
+    "link": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+    "summary": "<p>Article URL: <a href=\"https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists\">https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504718\">https://news.ycombinator.com/item?id=50504718</a></p>\n<p>Points: 93</p>\n<p># Comments: 34</p>",
+    "published": "2026-11-15T07:08:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Disk encryption on NetBSD – achieving secrecy",
+    "link": "https://netbsd.org/~nia/disk-encrypt/",
+    "summary": "<p>Article URL: <a href=\"https://netbsd.org/~nia/disk-encrypt/\">https://netbsd.org/~nia/disk-encrypt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504277\">https://news.ycombinator.com/item?id=50504277</a></p>\n<p>Points: 73</p>\n<p># Comments: 15</p>",
+    "published": "2026-11-15T05:29:54",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "My favourite modern NES games",
+    "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "summary": "<p>Article URL: <a href=\"https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/\">https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50503465\">https://news.ycombinator.com/item?id=50503465</a></p>\n<p>Points: 160</p>\n<p># Comments: 22</p>",
+    "published": "2026-11-15T02:41:25",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "summary": "<p>Article URL: <a href=\"https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal\">https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50502988\">https://news.ycombinator.com/item?id=50502988</a></p>\n<p>Points: 351</p>\n<p># Comments: 147</p>",
+    "published": "2026-11-15T01:18:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The Telephone Changed the World",
+    "link": "https://lithub.com/how-the-telephone-changed-the-world/",
+    "summary": "<p>Article URL: <a href=\"https://lithub.com/how-the-telephone-changed-the-world/\">https://lithub.com/how-the-telephone-changed-the-world/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501887\">https://news.ycombinator.com/item?id=50501887</a></p>\n<p>Points: 16</p>\n<p># Comments: 6</p>",
+    "published": "2026-11-14T22:56:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "link": "https://retrocomputing.stackexchange.com/questions/17957",
+    "summary": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/17957\">https://retrocomputing.stackexchange.com/questions/17957</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501594\">https://news.ycombinator.com/item?id=50501594</a></p>\n<p>Points: 268</p>\n<p># Comments: 141</p>",
+    "published": "2026-11-14T22:22:49",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "link": "https://www.spacex.com/launches/starship-flight-15",
+    "summary": "<p><a href=\"https://x.com/SpaceX/status/2121316300702056595\" rel=\"nofollow\">https://x.com/SpaceX/status/2121316300702056595</a><p><a href=\"https://youtu.be/jHlpfNSpBmw?t=3233\" rel=\"nofollow\">https://youtu.be/jHlpfNSpBmw?t=3233</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50500963\">https://news.ycombinator.com/item?id=50500963</a></p>\n<p>Points: 1445</p>\n<p># Comments: 976</p>",
+    "published": "2026-11-14T21:22:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Tech Leaders Rally Behind Jensen Huang",
+    "link": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+    "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+    "published": "2026-11-14T20:57:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A family tree of software job titles",
+    "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "summary": "<p>Article URL: <a href=\"https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/\">https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499038\">https://news.ycombinator.com/item?id=50499038</a></p>\n<p>Points: 379</p>\n<p># Comments: 189</p>",
+    "published": "2026-11-14T17:45:19",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "link": "https://www.crissyfield.de/research/lovable-en/",
+    "summary": "<p>Article URL: <a href=\"https://www.crissyfield.de/research/lovable-en/\">https://www.crissyfield.de/research/lovable-en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50499017\">https://news.ycombinator.com/item?id=50499017</a></p>\n<p>Points: 932</p>\n<p># Comments: 355</p>",
+    "published": "2026-11-14T17:43:10",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "KDE: The documentary [video]",
     "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-    "summary": "<p>Article URL: <a href=\"https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c\">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496976\">https://news.ycombinator.com/item?id=50496976</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+    "summary": "<p>Article URL: <a href=\"https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c\">https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496976\">https://news.ycombinator.com/item?id=50496976</a></p>\n<p>Points: 538</p>\n<p># Comments: 122</p>",
     "published": "2026-11-14T13:43:28",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A visual explanation of reinforcement learning",
-    "link": "https://aatishb.com/myriad/how-brains-learn/",
-    "summary": "<p>Article URL: <a href=\"https://aatishb.com/myriad/how-brains-learn/\">https://aatishb.com/myriad/how-brains-learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496885\">https://news.ycombinator.com/item?id=50496885</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-14T13:31:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Advancing science and engineering with Antigravity's /teamwork",
-    "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "summary": "<p>Article URL: <a href=\"https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\">https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496811\">https://news.ycombinator.com/item?id=50496811</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
-    "published": "2026-11-14T13:20:43",
     "source": "Hacker News: Front Page"
   },
   {
@@ -70,53 +154,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-    "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again\">https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50496602\">https://news.ycombinator.com/item?id=50496602</a></p>\n<p>Points: 137</p>\n<p># Comments: 25</p>",
-    "published": "2026-11-14T12:45:45",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
     "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
     "summary": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
     "published": "2026-11-14T11:55:40",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Monkey Island: all 13 versions side by side",
-    "link": "https://monkeyisland.pages.dev/",
-    "summary": "<p>Article URL: <a href=\"https://monkeyisland.pages.dev/\">https://monkeyisland.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493904\">https://news.ycombinator.com/item?id=50493904</a></p>\n<p>Points: 301</p>\n<p># Comments: 87</p>",
-    "published": "2026-11-14T04:23:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "summary": "<p>Article URL: <a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493251\">https://news.ycombinator.com/item?id=50493251</a></p>\n<p>Points: 847</p>\n<p># Comments: 508</p>",
-    "published": "2026-11-14T02:52:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Ggml v1.0.0",
-    "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ggml-org/ggml/releases/tag/v1.0.0\">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493062\">https://news.ycombinator.com/item?id=50493062</a></p>\n<p>Points: 348</p>\n<p># Comments: 53</p>",
-    "published": "2026-11-14T02:28:29",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "link": "https://unsloth.ai/docs/models/qwen3.8",
-    "summary": "<p>Article URL: <a href=\"https://unsloth.ai/docs/models/qwen3.8\">https://unsloth.ai/docs/models/qwen3.8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491980\">https://news.ycombinator.com/item?id=50491980</a></p>\n<p>Points: 207</p>\n<p># Comments: 62</p>",
-    "published": "2026-11-14T00:06:04",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "What happened to 3Com?",
-    "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-    "summary": "<p>Article URL: <a href=\"https://dfarq.homeip.net/what-happened-to-3com/\">https://dfarq.homeip.net/what-happened-to-3com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491830\">https://news.ycombinator.com/item?id=50491830</a></p>\n<p>Points: 178</p>\n<p># Comments: 98</p>",
-    "published": "2026-11-13T23:48:59",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
@@ -126,39 +168,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-    "link": "https://grounds.top/",
-    "summary": "<p>Article URL: <a href=\"https://grounds.top/\">https://grounds.top/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491545\">https://news.ycombinator.com/item?id=50491545</a></p>\n<p>Points: 183</p>\n<p># Comments: 23</p>",
-    "published": "2026-11-13T23:17:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Terminal borders that don't cost a cell",
-    "link": "https://www.joshka.net/cell-borders/",
-    "summary": "<p>Article URL: <a href=\"https://www.joshka.net/cell-borders/\">https://www.joshka.net/cell-borders/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491423\">https://news.ycombinator.com/item?id=50491423</a></p>\n<p>Points: 347</p>\n<p># Comments: 149</p>",
-    "published": "2026-11-13T23:06:40",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How Not to Build a Music Player",
-    "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-    "summary": "<p>Article URL: <a href=\"https://alichraghi.github.io/blog/how-not-to-build-a-music-player/\">https://alichraghi.github.io/blog/how-not-to-build-a-music-player/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50491400\">https://news.ycombinator.com/item?id=50491400</a></p>\n<p>Points: 149</p>\n<p># Comments: 65</p>",
-    "published": "2026-11-13T23:04:30",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "link": "https://orcasairband.com/",
-    "summary": "<p>Article URL: <a href=\"https://orcasairband.com/\">https://orcasairband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490593\">https://news.ycombinator.com/item?id=50490593</a></p>\n<p>Points: 284</p>\n<p># Comments: 66</p>",
-    "published": "2026-11-13T22:04:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "FAA issues national ground stop – lifted 4.5 hours later",
-    "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-    "summary": "<p><a href=\"https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;advn=111\" rel=\"nofollow\">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a...</a><p><a href=\"https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;advn=5\" rel=\"nofollow\">https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;a...</a><p><a href=\"https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/d2ae2ce1-ac6b-59ad-ad8d-daef4e181b34\" rel=\"nofollow\">https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489641\">https://news.ycombinator.com/item?id=50489641</a></p>\n<p>Points: 1601</p>\n<p># Comments: 1224</p>",
-    "published": "2026-11-13T21:05:53",
-    "source": "Hacker News: Front Page"
+    "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+    "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+    "summary": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
+    "published": "2026-11-13T21:28:58",
+    "source": "NYT > Technology"
   },
   {
     "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
@@ -194,6 +208,13 @@
     "summary": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps.",
     "published": "2026-11-13T15:31:06",
     "source": "NYT > Technology"
+  },
+  {
+    "title": "Semicircle Packing",
+    "link": "https://rorz.io/writing/semicircle-packing",
+    "summary": "<p>Article URL: <a href=\"https://rorz.io/writing/semicircle-packing\">https://rorz.io/writing/semicircle-packing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484234\">https://news.ycombinator.com/item?id=50484234</a></p>\n<p>Points: 69</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-13T14:42:57",
+    "source": "Hacker News: Front Page"
   },
   {
     "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
