@@ -1,115 +1,171 @@
 [
   {
-    "title": "California Sues OpenAI Over A.I. Safety Issues",
-    "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-    "summary": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.",
-    "published": "2026-11-16T18:57:25",
+    "title": "GPT‑6.2 Astra and Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p>\n<p>Points: 100</p>\n<p># Comments: 23</p>",
+    "published": "2026-11-17T17:46:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
+    "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+    "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+    "published": "2026-11-17T17:25:36",
     "source": "NYT > Technology"
   },
   {
-    "title": "US Banks report outages in latest tech hiccup",
-    "link": "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/",
-    "summary": "<p>Article URL: <a href=\"https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/\">https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50521357\">https://news.ycombinator.com/item?id=50521357</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-16T18:53:00",
+    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+    "summary": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/\">https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534664\">https://news.ycombinator.com/item?id=50534664</a></p>\n<p>Points: 29</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-17T17:13:57",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Software is breaking down at a systemic level",
-    "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-    "summary": "<p>Article URL: <a href=\"https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\">https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520866\">https://news.ycombinator.com/item?id=50520866</a></p>\n<p>Points: 72</p>\n<p># Comments: 56</p>",
-    "published": "2026-11-16T18:17:17",
+    "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+    "link": "https://news.ycombinator.com/item?id=50534429",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534429\">https://news.ycombinator.com/item?id=50534429</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-17T17:00:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-    "link": "https://openai.com/index/strengthening-online-child-safety/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/strengthening-online-child-safety/\">https://openai.com/index/strengthening-online-child-safety/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520804\">https://news.ycombinator.com/item?id=50520804</a></p>\n<p>Points: 22</p>\n<p># Comments: 20</p>",
-    "published": "2026-11-16T18:12:48",
+    "title": "Jensen Huang Posts on X",
+    "link": "https://twitter.com/JensenHuang/status/2122726005219737649",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/JensenHuang/status/2122726005219737649\">https://twitter.com/JensenHuang/status/2122726005219737649</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533723\">https://news.ycombinator.com/item?id=50533723</a></p>\n<p>Points: 43</p>\n<p># Comments: 25</p>",
+    "published": "2026-11-17T16:23:55",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
-    "link": "https://fakemetrics.com/",
-    "summary": "<p>Hi HN, I am Tigran (github.com/tigranbs)\nI made Fakemetrics.com as a fun experiment while testing how well Claude Opus can build pixel-identical UIs. It turned out it wasn't as easy as just prompting it, but I spent time building the system so it works almost every time.\nAnd I am pretty sure you are seeing a bunch of people posting weekend vibe-coded apps and saying \"$50K/month after quitting my McDonnalds job...\". Well, even my friend tried to fake it a few months back.\nSo, I kinda did this fakemetrics.com as an experiment to see how well I can have the system that clones UIs, and packaged that as a very simple (I think) usable product for the people that want to be a superstar \"build in public\" type of a person with no revenue, but a perfect Stripe user growth screenshot.\nUseful? - Probably not that much\nFun? - YES!!\nThe best part is that Claude, ChatGPT, or Grok models aren't that good at UI clones by default, but with fakemetrics.com I kinda made a system that produces near-identical results from screenshots fairly fast. That was worth learning!\nLet me know what you think? Should I move on with the UI cloning as an open-source product?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520741\">https://news.ycombinator.com/item?id=50520741</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-16T18:08:04",
+    "title": "Charles Schwab website goes down",
+    "link": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
+    "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11\">https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533366\">https://news.ycombinator.com/item?id=50533366</a></p>\n<p>Points: 37</p>\n<p># Comments: 17</p>",
+    "published": "2026-11-17T16:05:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
-    "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
-    "summary": "<p>Article URL: <a href=\"https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/\">https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520697\">https://news.ycombinator.com/item?id=50520697</a></p>\n<p>Points: 17</p>\n<p># Comments: 14</p>",
-    "published": "2026-11-16T18:04:55",
+    "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+    "link": "https://github.com/RunanywhereAI/trnrt",
+    "summary": "<p>Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :)<p>What it does today:<p>- Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router.<p>- Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks.<p>- Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance.<p>We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100/H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory/tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results.<p>But AWS's own stack didn't support the model: vLLM Neuron's latest release did not register any GLM model, and NxDI, AWS's own distributed inference framework, is no longer under active development. We also saw the drop of SGLang Neuron implementation yesterday, but there is no good support for Trn2, which is the only chip available for public use right now.<p>We ran semiAnalysis's AgentX benchmarks, which replays real coding agent sessions:<p>- 1 box served 28.9 RPM(requests per minute) with 32 agents at batch 12 (also known as concurrency)<p>-The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds with a decode of 35.9 tps.<p>Initially, the recurrence in one kda (linear attention) layer was ~2% of the layer's attention time at batch 1, and the rest was projections, transposes and XLA glue between small kernels.<p>So we wrote the megakernel so that it covers the whole layer in 2 kernel dispatch, which made decode 25% faster at batch 8.<p>The sparse attention kernel keep a layer’s working weights in SBUF, distributing weighted streaming across the cores and handling the interchip communication within<p>There’s an approximation in the sparse-attention prefill, affecting about 1.2% of block selections.<p>You can refer to the write-up for the profiling results:<p><a href=\"https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\">https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-mega...</a><p>Please give it a try yourself on a trn2.48xlarge and reproduce the AgentX results by following the steps in docs/RESULTS.md. Happy to collaborate and hear any feedback.<p>Deploying high performant dedicated inference at lab like performance and half the price for open models such as the GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make money. You can talk to us regarding the same at founders@runanywhere.ai.<p>We hope you find this useful. If you are working with Trainium or have experience with NKI kernels, we'd love to get your honest feedback. Feel free to share the models you want support for next, and we welcome any contributions to the repository.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533270\">https://news.ycombinator.com/item?id=50533270</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-17T16:01:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "NSA Internal Network Down",
+    "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/\">https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533089\">https://news.ycombinator.com/item?id=50533089</a></p>\n<p>Points: 149</p>\n<p># Comments: 90</p>",
+    "published": "2026-11-17T15:50:48",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Highly classified US national security communications network goes down",
+    "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\">https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532849\">https://news.ycombinator.com/item?id=50532849</a></p>\n<p>Points: 206</p>\n<p># Comments: 193</p>",
+    "published": "2026-11-17T15:38:28",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Antfly learned to stop worrying and love Apache 2.0",
+    "link": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
+    "summary": "<p>Article URL: <a href=\"https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2\">https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532773\">https://news.ycombinator.com/item?id=50532773</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+    "published": "2026-11-17T15:33:15",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+    "link": "https://alloyhtml.com/example.html",
+    "summary": "<p>Article URL: <a href=\"https://alloyhtml.com/example.html\">https://alloyhtml.com/example.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532385\">https://news.ycombinator.com/item?id=50532385</a></p>\n<p>Points: 95</p>\n<p># Comments: 13</p>",
+    "published": "2026-11-17T15:07:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "What is the best harness for each model?",
+    "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "summary": "<p>Article URL: <a href=\"https://runta.com/blog/introducing-frontierharness-eval-v1-1/\">https://runta.com/blog/introducing-frontierharness-eval-v1-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532191\">https://news.ycombinator.com/item?id=50532191</a></p>\n<p>Points: 182</p>\n<p># Comments: 74</p>",
+    "published": "2026-11-17T14:53:43",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "We don't need more apps. We need better open source",
+    "link": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+    "summary": "<p>Article URL: <a href=\"https://jordankrueger.com/blog/better-open-source-not-more-apps/\">https://jordankrueger.com/blog/better-open-source-not-more-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532086\">https://news.ycombinator.com/item?id=50532086</a></p>\n<p>Points: 277</p>\n<p># Comments: 177</p>",
+    "published": "2026-11-17T14:45:36",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530163\">https://news.ycombinator.com/item?id=50530163</a></p>\n<p>Points: 851</p>\n<p># Comments: 442</p>",
+    "published": "2026-11-17T11:45:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How the Claude Code team thinks about verification",
+    "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/\">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529612\">https://news.ycombinator.com/item?id=50529612</a></p>\n<p>Points: 169</p>\n<p># Comments: 150</p>",
+    "published": "2026-11-17T10:20:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "link": "https://support.apple.com/en-us/149699",
+    "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/149699\">https://support.apple.com/en-us/149699</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526560\">https://news.ycombinator.com/item?id=50526560</a></p>\n<p>Points: 212</p>\n<p># Comments: 111</p>",
+    "published": "2026-11-17T02:17:04",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
+    "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+    "summary": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
+    "published": "2026-11-17T02:15:57",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/id_aa_carmack/status/2122478083319992513\">https://twitter.com/id_aa_carmack/status/2122478083319992513</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50525575\">https://news.ycombinator.com/item?id=50525575</a></p>\n<p>Points: 253</p>\n<p># Comments: 92</p>",
+    "published": "2026-11-17T00:16:24",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "summary": "<p>Article URL: <a href=\"https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\">https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524767\">https://news.ycombinator.com/item?id=50524767</a></p>\n<p>Points: 587</p>\n<p># Comments: 236</p>",
+    "published": "2026-11-16T23:00:34",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "BugMeNot has closed",
+    "link": "https://www.bugmenot.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.bugmenot.com/\">https://www.bugmenot.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523601\">https://news.ycombinator.com/item?id=50523601</a></p>\n<p>Points: 690</p>\n<p># Comments: 316</p>",
+    "published": "2026-11-16T21:32:17",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
     "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
     "summary": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
-    "published": "2026-11-16T17:59:59",
+    "published": "2026-11-16T21:07:23",
     "source": "NYT > Technology"
   },
   {
-    "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
-    "link": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
-    "summary": "<p>Article URL: <a href=\"https://copyrightlately.com/michael-mann-heat-copyright-termination/\">https://copyrightlately.com/michael-mann-heat-copyright-termination/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520518\">https://news.ycombinator.com/item?id=50520518</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-16T17:52:23",
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+    "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/\">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523025\">https://news.ycombinator.com/item?id=50523025</a></p>\n<p>Points: 232</p>\n<p># Comments: 204</p>",
+    "published": "2026-11-16T20:48:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Aristotle Expands into Rust",
-    "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
-    "summary": "<p>Article URL: <a href=\"https://www.harmonic.fun/news/aristotle-rust-verification/\">https://www.harmonic.fun/news/aristotle-rust-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520270\">https://news.ycombinator.com/item?id=50520270</a></p>\n<p>Points: 30</p>\n<p># Comments: 9</p>",
-    "published": "2026-11-16T17:34:41",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "link": "https://www.cs.cmu.edu/learn/",
+    "summary": "<p>Article URL: <a href=\"https://www.cs.cmu.edu/learn/\">https://www.cs.cmu.edu/learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522980\">https://news.ycombinator.com/item?id=50522980</a></p>\n<p>Points: 2119</p>\n<p># Comments: 284</p>",
+    "published": "2026-11-16T20:43:36",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Grazing sheep in fields with solar arrays",
-    "link": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-    "summary": "<p>Article URL: <a href=\"https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains\">https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50520182\">https://news.ycombinator.com/item?id=50520182</a></p>\n<p>Points: 81</p>\n<p># Comments: 59</p>",
-    "published": "2026-11-16T17:27:46",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jiff 1.0: A datetime library for Rust",
-    "link": "https://burntsushi.net/jiff/",
-    "summary": "<p>Article URL: <a href=\"https://burntsushi.net/jiff/\">https://burntsushi.net/jiff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519744\">https://news.ycombinator.com/item?id=50519744</a></p>\n<p>Points: 126</p>\n<p># Comments: 33</p>",
-    "published": "2026-11-16T16:53:39",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Frame – 31.5\" color ePaper display",
-    "link": "https://trmnl.com/blog/introducing-frame",
-    "summary": "<p>Article URL: <a href=\"https://trmnl.com/blog/introducing-frame\">https://trmnl.com/blog/introducing-frame</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519354\">https://news.ycombinator.com/item?id=50519354</a></p>\n<p>Points: 40</p>\n<p># Comments: 16</p>",
-    "published": "2026-11-16T16:23:22",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Jolt – Clojure that speaks C",
-    "link": "https://jolt-lang.net/",
-    "summary": "<p>Article URL: <a href=\"https://jolt-lang.net/\">https://jolt-lang.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50519345\">https://news.ycombinator.com/item?id=50519345</a></p>\n<p>Points: 20</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-16T16:23:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "A 512 KiB binary message teaching chess without a shared language",
-    "link": "https://artemlegotin.com/golden-board/",
-    "summary": "<p>Article URL: <a href=\"https://artemlegotin.com/golden-board/\">https://artemlegotin.com/golden-board/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50518068\">https://news.ycombinator.com/item?id=50518068</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
-    "published": "2026-11-16T14:38:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "The Active Directory Era Is Finally Over",
-    "link": "https://infisical.com/blog/active-directory-machine-identity",
-    "summary": "<p>Article URL: <a href=\"https://infisical.com/blog/active-directory-machine-identity\">https://infisical.com/blog/active-directory-machine-identity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50517815\">https://news.ycombinator.com/item?id=50517815</a></p>\n<p>Points: 71</p>\n<p># Comments: 45</p>",
-    "published": "2026-11-16T14:15:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-    "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-    "summary": "<p>Article URL: <a href=\"http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/\">http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50517488\">https://news.ycombinator.com/item?id=50517488</a></p>\n<p>Points: 594</p>\n<p># Comments: 367</p>",
-    "published": "2026-11-16T13:39:07",
-    "source": "Hacker News: Front Page"
+    "title": "California Sues OpenAI Over A.I. Safety Issues",
+    "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+    "summary": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.",
+    "published": "2026-11-16T19:55:37",
+    "source": "NYT > Technology"
   },
   {
     "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
@@ -119,13 +175,6 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-    "link": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-    "summary": "<p>Article URL: <a href=\"https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/\">https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50516473\">https://news.ycombinator.com/item?id=50516473</a></p>\n<p>Points: 246</p>\n<p># Comments: 95</p>",
-    "published": "2026-11-16T11:39:31",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
     "link": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
     "summary": "The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic.",
@@ -133,46 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
-    "link": "https://github.com/ages2001/WINUDF",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ages2001/WINUDF\">https://github.com/ages2001/WINUDF</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50515182\">https://news.ycombinator.com/item?id=50515182</a></p>\n<p>Points: 73</p>\n<p># Comments: 11</p>",
-    "published": "2026-11-16T08:00:13",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-    "link": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-    "summary": "<p>Article URL: <a href=\"https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/\">https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50515058\">https://news.ycombinator.com/item?id=50515058</a></p>\n<p>Points: 235</p>\n<p># Comments: 103</p>",
-    "published": "2026-11-16T07:38:19",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "How to make almost anything",
-    "link": "https://pub.cba.mit.edu/863.26/site/",
-    "summary": "<p>Article URL: <a href=\"https://pub.cba.mit.edu/863.26/site/\">https://pub.cba.mit.edu/863.26/site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50514470\">https://news.ycombinator.com/item?id=50514470</a></p>\n<p>Points: 742</p>\n<p># Comments: 121</p>",
-    "published": "2026-11-16T05:50:37",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Wall Street Braces for Anthropic’s Spending",
     "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
     "summary": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
     "published": "2026-11-16T04:02:59",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Qwen4-Max",
-    "link": "https://qwen.ai/blog?id=qwen4-max",
-    "summary": "<p>Article URL: <a href=\"https://qwen.ai/blog?id=qwen4-max\">https://qwen.ai/blog?id=qwen4-max</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513215\">https://news.ycombinator.com/item?id=50513215</a></p>\n<p>Points: 814</p>\n<p># Comments: 437</p>",
-    "published": "2026-11-16T02:14:44",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Universal XSS in uBlock Origin from website-driven element picker",
-    "link": "https://iter.ca/post/ubo-uxss/",
-    "summary": "<p>Article URL: <a href=\"https://iter.ca/post/ubo-uxss/\">https://iter.ca/post/ubo-uxss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513160\">https://news.ycombinator.com/item?id=50513160</a></p>\n<p>Points: 571</p>\n<p># Comments: 163</p>",
-    "published": "2026-11-16T02:04:48",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
@@ -382,48 +396,6 @@
     "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
     "summary": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
     "published": "2026-11-10T21:54:37",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What BlackBerries and Horseshoes Reveal About Our Presidents",
-    "link": "https://www.nytimes.com/2026/11/10/us/politics/presidential-library-artifacts-photo-book.html",
-    "summary": "The photographer Peter Adams visited 15 presidential libraries, chronicling individual objects that offered insights about the men who have sat in the White House.",
-    "published": "2026-11-10T21:31:22",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-    "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-    "summary": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
-    "published": "2026-11-10T21:12:39",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
-    "link": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
-    "summary": "The Aquatic Life display, a welcome moment of Zen in the frenzied world of TV streaming, will go dark on Dec. 1 after its designer pulled the license.",
-    "published": "2026-11-10T21:04:44",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-    "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-    "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
-    "published": "2026-11-10T17:32:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
-    "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
-    "summary": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant.",
-    "published": "2026-11-10T13:07:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Jensen Huang Affair",
-    "link": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-    "summary": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next.",
-    "published": "2026-11-10T11:00:17",
     "source": "NYT > Technology"
   }
 ]
