@@ -1,115 +1,178 @@
 [
   {
-    "title": "GPT‑6.2 Astra and Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-2-astra-sol/\">https://openai.com/index/introducing-gpt-6-2-astra-sol/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535230\">https://news.ycombinator.com/item?id=50535230</a></p>\n<p>Points: 100</p>\n<p># Comments: 23</p>",
-    "published": "2026-11-17T17:46:43",
+    "title": "Launch HN: Maritime (YC F26) – The managed cloud for production AI agents",
+    "link": "https://news.ycombinator.com/item?id=50549188",
+    "summary": "<p>Hi HN, we're Ary and Maria, co-founders of Maritime (<a href=\"https://maritime.sh\">https://maritime.sh</a>). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents.<p>Demo: <a href=\"https://www.youtube.com/watch?v=lCWMdBQ96rY\" rel=\"nofollow\">https://www.youtube.com/watch?v=lCWMdBQ96rY</a><p>There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The approach that most sandboxing companies take is:<p>You buy Hetzner/OVH Cloud bare metal servers, use Firecracker to slice the servers up into VMs, sell those VMs with low margins.<p>It’s a bit of an oversimplification, but the point is it’s a narrow solution to a fairly difficult problem.<p>We talked to a couple hundred companies that are building AI agents. From personal assistants and coding agents to specialized healthcare agents, and the main pattern we saw was that even after choosing a sandbox provider, you still have to build additional infrastructure just to get things working. These were the primary points of friction:<p>1. Agent lifecycle management.<p>There’s a lot that you have to build in order to properly give your agents VMs: things like sleep/wake, persistent storage, triggers, scheduling, per-user routing and spend caps, health monitoring, failure recovery, and deploying updates across thousands of VMs without downtime.\nThere are so many of these small sandbox management tasks that companies have to build and maintain themselves, and they add up.<p>2. Custom environments.<p>Production agents have varying needs. Some agents need Windows applications. Others need Android, browsers with persistent sessions, custom operating system images, preinstalled desktop software and applications, or specific dependencies.\nSome agents need access to private networks to interact with customer-specific things on prem, or residential IPs, or the ability to restrict network access completely.<p>3. Cost optimization.<p>If you’re selling a personal assistant for $20/month, a sandbox that costs $0.04/hour comes out to roughly $29/month if you keep it running continuously, not including LLM inference, storage, etc. There is a way to combat this though, which is to optimize sandbox usage with auto-snapshotting, making things event-driven, mounting S3 buckets to agent environments via FUSE for cheap storage, cold-tiering snapshots, etc. All roads lead to… building more infrastructure.<p>So what did we build differently?<p>We give each agent its own isolated, persistent microVM and a configurable environment. On top of the compute, we built a lot of composable services: provisioning, persistent state, sleep/wake orchestration, triggers, schedule creation, monitoring, network configuration, updates, rollbacks, recovery, per-agent spend tracking, login handoffs, all the things you’d need for production agents.<p>We also spent a huge amount of time optimizing cost. A lot of thought was put into things such as scale-to-zero, copy-on-write over shared base images, compressed memory snapshots, hot/warm/cold snapshot and disk tiering, and other optimizations while balancing these with performance metrics like latency.<p>As a result, Maritime costs $1 for a 2gb RAM agent per month (unlimited usage for that $1), with additional resources available as needed.<p>Maria was a visiting lecturer at MIT and did research at Project NANDA on agent infrastructure. Ary did research on agent coordination protocols at the same lab. We started Maritime together this March because of all the issues we faced with trying to deploy agents to the cloud during our research.<p>We want your feedback.<p>If you're building an agent product, what did you have to build on top of sandboxes to make them work? We want to know about all the workarounds and weird things you’ve had to build.<p>Are there things you’ve tried to build with VMs but couldn’t? Does Maritime fit your needs? Is there a feature we’re missing that would make us more enticing?<p>Happy to answer any questions in the comments.<p><a href=\"https://maritime.sh\">https://maritime.sh</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50549188\">https://news.ycombinator.com/item?id=50549188</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-18T17:26:28",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Jensen Huang Says He Would Return to Nvidia if Asked",
-    "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
-    "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
-    "published": "2026-11-17T17:25:36",
+    "title": "Anthropic Is Set to Finalize Pricing for Blockbuster I.P.O.",
+    "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+    "summary": "The A.I. company is expected to officially price its shares on Wednesday, and its stock will begin trading on Thursday.",
+    "published": "2026-11-18T17:13:19",
     "source": "NYT > Technology"
   },
   {
-    "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-    "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-    "summary": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/\">https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534664\">https://news.ycombinator.com/item?id=50534664</a></p>\n<p>Points: 29</p>\n<p># Comments: 3</p>",
-    "published": "2026-11-17T17:13:57",
+    "title": "Stop Deploying to ECS Just to See If Your Code Works",
+    "link": "https://metalbear.com/blog/stop-deploying-to-ecs/",
+    "summary": "<p>Article URL: <a href=\"https://metalbear.com/blog/stop-deploying-to-ecs/\">https://metalbear.com/blog/stop-deploying-to-ecs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548828\">https://news.ycombinator.com/item?id=50548828</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+    "published": "2026-11-18T17:05:13",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-    "link": "https://news.ycombinator.com/item?id=50534429",
-    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50534429\">https://news.ycombinator.com/item?id=50534429</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-17T17:00:24",
+    "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+    "summary": "The company’s C.E.O., Sam Altman, and president, Greg Brockman, said they cannot “make everybody happy.”",
+    "published": "2026-11-18T17:03:27",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+    "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+    "summary": "<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO\">https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548485\">https://news.ycombinator.com/item?id=50548485</a></p>\n<p>Points: 44</p>\n<p># Comments: 21</p>",
+    "published": "2026-11-18T16:41:22",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Jensen Huang Posts on X",
-    "link": "https://twitter.com/JensenHuang/status/2122726005219737649",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/JensenHuang/status/2122726005219737649\">https://twitter.com/JensenHuang/status/2122726005219737649</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533723\">https://news.ycombinator.com/item?id=50533723</a></p>\n<p>Points: 43</p>\n<p># Comments: 25</p>",
-    "published": "2026-11-17T16:23:55",
+    "title": "Software Factory builds 30 complex open source libraries in a month",
+    "link": "https://recursiveai.org/blog/what-my-software-factory-built/",
+    "summary": "<p>Article URL: <a href=\"https://recursiveai.org/blog/what-my-software-factory-built/\">https://recursiveai.org/blog/what-my-software-factory-built/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548281\">https://news.ycombinator.com/item?id=50548281</a></p>\n<p>Points: 11</p>\n<p># Comments: 24</p>",
+    "published": "2026-11-18T16:26:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Charles Schwab website goes down",
-    "link": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
-    "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11\">https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533366\">https://news.ycombinator.com/item?id=50533366</a></p>\n<p>Points: 37</p>\n<p># Comments: 17</p>",
-    "published": "2026-11-17T16:05:42",
+    "title": "RFC 2675: IPv6 Jumbograms",
+    "link": "https://www.rfc-editor.org/info/rfc2675/",
+    "summary": "<p>Article URL: <a href=\"https://www.rfc-editor.org/info/rfc2675/\">https://www.rfc-editor.org/info/rfc2675/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548214\">https://news.ycombinator.com/item?id=50548214</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-18T16:22:23",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-    "link": "https://github.com/RunanywhereAI/trnrt",
-    "summary": "<p>Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :)<p>What it does today:<p>- Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router.<p>- Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks.<p>- Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance.<p>We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100/H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory/tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results.<p>But AWS's own stack didn't support the model: vLLM Neuron's latest release did not register any GLM model, and NxDI, AWS's own distributed inference framework, is no longer under active development. We also saw the drop of SGLang Neuron implementation yesterday, but there is no good support for Trn2, which is the only chip available for public use right now.<p>We ran semiAnalysis's AgentX benchmarks, which replays real coding agent sessions:<p>- 1 box served 28.9 RPM(requests per minute) with 32 agents at batch 12 (also known as concurrency)<p>-The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds with a decode of 35.9 tps.<p>Initially, the recurrence in one kda (linear attention) layer was ~2% of the layer's attention time at batch 1, and the rest was projections, transposes and XLA glue between small kernels.<p>So we wrote the megakernel so that it covers the whole layer in 2 kernel dispatch, which made decode 25% faster at batch 8.<p>The sparse attention kernel keep a layer’s working weights in SBUF, distributing weighted streaming across the cores and handling the interchip communication within<p>There’s an approximation in the sparse-attention prefill, affecting about 1.2% of block selections.<p>You can refer to the write-up for the profiling results:<p><a href=\"https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels\">https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-mega...</a><p>Please give it a try yourself on a trn2.48xlarge and reproduce the AgentX results by following the steps in docs/RESULTS.md. Happy to collaborate and hear any feedback.<p>Deploying high performant dedicated inference at lab like performance and half the price for open models such as the GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make money. You can talk to us regarding the same at founders@runanywhere.ai.<p>We hope you find this useful. If you are working with Trainium or have experience with NKI kernels, we'd love to get your honest feedback. Feel free to share the models you want support for next, and we welcome any contributions to the repository.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533270\">https://news.ycombinator.com/item?id=50533270</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
-    "published": "2026-11-17T16:01:04",
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "link": "https://rshekhar.com/voyager/",
+    "summary": "<p>Voyager 1 reached one light-day from Earth today.<p>On the site you can:<p>- see where both Voyagers are right now<p>- open a nuclear battery to its 24 plutonium spheres<p>- go into the data computer, down to a single memory chip<p>- see how the Golden Record's cover explains how to play it<p>- watch how Voyager 1 was fixed by radio<p>- see which dish on Earth is listening to them, live<p>I also made a 4-minute film from it: <a href=\"https://www.youtube.com/watch?v=kpzsRo-c1_A\" rel=\"nofollow\">https://www.youtube.com/watch?v=kpzsRo-c1_A</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548161\">https://news.ycombinator.com/item?id=50548161</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+    "published": "2026-11-18T16:18:51",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "NSA Internal Network Down",
-    "link": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/\">https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50533089\">https://news.ycombinator.com/item?id=50533089</a></p>\n<p>Points: 149</p>\n<p># Comments: 90</p>",
-    "published": "2026-11-17T15:50:48",
+    "title": "SuperEMeans: Making e-means 3× faster",
+    "link": "https://www.lkuffo.com/superemeans/",
+    "summary": "<p>Article URL: <a href=\"https://www.lkuffo.com/superemeans/\">https://www.lkuffo.com/superemeans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548038\">https://news.ycombinator.com/item?id=50548038</a></p>\n<p>Points: 14</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-18T16:09:50",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Highly classified US national security communications network goes down",
-    "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-    "summary": "<p>Article URL: <a href=\"https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\">https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532849\">https://news.ycombinator.com/item?id=50532849</a></p>\n<p>Points: 206</p>\n<p># Comments: 193</p>",
-    "published": "2026-11-17T15:38:28",
+    "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+    "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "summary": "<p>Article URL: <a href=\"https://microsoft.ai/news/microsoft-ignite-2026/\">https://microsoft.ai/news/microsoft-ignite-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548021\">https://news.ycombinator.com/item?id=50548021</a></p>\n<p>Points: 112</p>\n<p># Comments: 72</p>",
+    "published": "2026-11-18T16:08:24",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Antfly learned to stop worrying and love Apache 2.0",
-    "link": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
-    "summary": "<p>Article URL: <a href=\"https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2\">https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532773\">https://news.ycombinator.com/item?id=50532773</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
-    "published": "2026-11-17T15:33:15",
+    "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+    "link": "https://www.terra.security/blog/kvm-guest-to-host-escape",
+    "summary": "<p>Article URL: <a href=\"https://www.terra.security/blog/kvm-guest-to-host-escape\">https://www.terra.security/blog/kvm-guest-to-host-escape</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50548004\">https://news.ycombinator.com/item?id=50548004</a></p>\n<p>Points: 68</p>\n<p># Comments: 29</p>",
+    "published": "2026-11-18T16:06:21",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-    "link": "https://alloyhtml.com/example.html",
-    "summary": "<p>Article URL: <a href=\"https://alloyhtml.com/example.html\">https://alloyhtml.com/example.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532385\">https://news.ycombinator.com/item?id=50532385</a></p>\n<p>Points: 95</p>\n<p># Comments: 13</p>",
-    "published": "2026-11-17T15:07:09",
+    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+    "link": "https://exitpath-ruddy.vercel.app/",
+    "summary": "<p>Article URL: <a href=\"https://exitpath-ruddy.vercel.app/\">https://exitpath-ruddy.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547980\">https://news.ycombinator.com/item?id=50547980</a></p>\n<p>Points: 31</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-18T16:04:43",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "What is the best harness for each model?",
-    "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-    "summary": "<p>Article URL: <a href=\"https://runta.com/blog/introducing-frontierharness-eval-v1-1/\">https://runta.com/blog/introducing-frontierharness-eval-v1-1/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532191\">https://news.ycombinator.com/item?id=50532191</a></p>\n<p>Points: 182</p>\n<p># Comments: 74</p>",
-    "published": "2026-11-17T14:53:43",
+    "title": "Ratwires – The Graffiti Wall of the Internet",
+    "link": "https://ratwire.space/",
+    "summary": "<p>Article URL: <a href=\"https://ratwire.space/\">https://ratwire.space/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547813\">https://news.ycombinator.com/item?id=50547813</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "published": "2026-11-18T15:52:01",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "We don't need more apps. We need better open source",
-    "link": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-    "summary": "<p>Article URL: <a href=\"https://jordankrueger.com/blog/better-open-source-not-more-apps/\">https://jordankrueger.com/blog/better-open-source-not-more-apps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50532086\">https://news.ycombinator.com/item?id=50532086</a></p>\n<p>Points: 277</p>\n<p># Comments: 177</p>",
-    "published": "2026-11-17T14:45:36",
+    "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+    "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "summary": "<p>Article URL: <a href=\"https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\">https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547777\">https://news.ycombinator.com/item?id=50547777</a></p>\n<p>Points: 44</p>\n<p># Comments: 17</p>",
+    "published": "2026-11-18T15:49:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-    "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530163\">https://news.ycombinator.com/item?id=50530163</a></p>\n<p>Points: 851</p>\n<p># Comments: 442</p>",
-    "published": "2026-11-17T11:45:51",
+    "title": "Inside Deutsche Bank",
+    "link": "https://www.inside-db.com/",
+    "summary": "<p>Article URL: <a href=\"https://www.inside-db.com/\">https://www.inside-db.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547620\">https://news.ycombinator.com/item?id=50547620</a></p>\n<p>Points: 230</p>\n<p># Comments: 78</p>",
+    "published": "2026-11-18T15:38:33",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "How the Claude Code team thinks about verification",
-    "link": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-    "summary": "<p>Article URL: <a href=\"https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/\">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529612\">https://news.ycombinator.com/item?id=50529612</a></p>\n<p>Points: 169</p>\n<p># Comments: 150</p>",
-    "published": "2026-11-17T10:20:40",
+    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+    "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+    "summary": "<p>Article URL: <a href=\"https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view\">https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547583\">https://news.ycombinator.com/item?id=50547583</a></p>\n<p>Points: 62</p>\n<p># Comments: 29</p>",
+    "published": "2026-11-18T15:35:44",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-    "link": "https://support.apple.com/en-us/149699",
-    "summary": "<p>Article URL: <a href=\"https://support.apple.com/en-us/149699\">https://support.apple.com/en-us/149699</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526560\">https://news.ycombinator.com/item?id=50526560</a></p>\n<p>Points: 212</p>\n<p># Comments: 111</p>",
-    "published": "2026-11-17T02:17:04",
+    "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+    "link": "https://nginx2root.com/",
+    "summary": "<p>Article URL: <a href=\"https://nginx2root.com/\">https://nginx2root.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547423\">https://news.ycombinator.com/item?id=50547423</a></p>\n<p>Points: 40</p>\n<p># Comments: 6</p>",
+    "published": "2026-11-18T15:24:17",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+    "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "summary": "<p>Article URL: <a href=\"https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities\">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547374\">https://news.ycombinator.com/item?id=50547374</a></p>\n<p>Points: 335</p>\n<p># Comments: 112</p>",
+    "published": "2026-11-18T15:19:55",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+    "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+    "summary": "<p>Article URL: <a href=\"https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html\">https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50547344\">https://news.ycombinator.com/item?id=50547344</a></p>\n<p>Points: 148</p>\n<p># Comments: 34</p>",
+    "published": "2026-11-18T15:18:30",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "The x86 CPU: From 4004 to 486",
+    "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+    "summary": "<p>Article URL: <a href=\"https://pikuma.com/blog/history-of-x86-4004-to-486\">https://pikuma.com/blog/history-of-x86-4004-to-486</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546967\">https://news.ycombinator.com/item?id=50546967</a></p>\n<p>Points: 57</p>\n<p># Comments: 14</p>",
+    "published": "2026-11-18T14:47:53",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Primer on Fourier Series",
+    "link": "https://arxiv.org/abs/2510.18203",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2510.18203\">https://arxiv.org/abs/2510.18203</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546922\">https://news.ycombinator.com/item?id=50546922</a></p>\n<p>Points: 50</p>\n<p># Comments: 11</p>",
+    "published": "2026-11-18T14:44:33",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+    "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "summary": "<p>Article URL: <a href=\"https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026\">https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50546914\">https://news.ycombinator.com/item?id=50546914</a></p>\n<p>Points: 126</p>\n<p># Comments: 92</p>",
+    "published": "2026-11-18T14:43:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+    "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+    "summary": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+    "published": "2026-11-17T23:48:31",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+    "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+    "summary": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government.",
+    "published": "2026-11-17T23:17:38",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "A More Precise Clock Is on Its Way",
+    "link": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
+    "summary": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference.",
+    "published": "2026-11-17T10:00:32",
+    "source": "NYT > Technology"
   },
   {
     "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
@@ -119,46 +182,11 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "Why 3dfx 1 cards had such a washed out color output?",
-    "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/id_aa_carmack/status/2122478083319992513\">https://twitter.com/id_aa_carmack/status/2122478083319992513</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50525575\">https://news.ycombinator.com/item?id=50525575</a></p>\n<p>Points: 253</p>\n<p># Comments: 92</p>",
-    "published": "2026-11-17T00:16:24",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Optimizely compromised, served malware on Zoom, GitLab",
-    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-    "summary": "<p>Article URL: <a href=\"https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\">https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50524767\">https://news.ycombinator.com/item?id=50524767</a></p>\n<p>Points: 587</p>\n<p># Comments: 236</p>",
-    "published": "2026-11-16T23:00:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "BugMeNot has closed",
-    "link": "https://www.bugmenot.com/",
-    "summary": "<p>Article URL: <a href=\"https://www.bugmenot.com/\">https://www.bugmenot.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523601\">https://news.ycombinator.com/item?id=50523601</a></p>\n<p>Points: 690</p>\n<p># Comments: 316</p>",
-    "published": "2026-11-16T21:32:17",
-    "source": "Hacker News: Front Page"
-  },
-  {
     "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
     "link": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
     "summary": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
     "published": "2026-11-16T21:07:23",
     "source": "NYT > Technology"
-  },
-  {
-    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-    "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/\">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50523025\">https://news.ycombinator.com/item?id=50523025</a></p>\n<p>Points: 232</p>\n<p># Comments: 204</p>",
-    "published": "2026-11-16T20:48:08",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-    "link": "https://www.cs.cmu.edu/learn/",
-    "summary": "<p>Article URL: <a href=\"https://www.cs.cmu.edu/learn/\">https://www.cs.cmu.edu/learn/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50522980\">https://news.ycombinator.com/item?id=50522980</a></p>\n<p>Points: 2119</p>\n<p># Comments: 284</p>",
-    "published": "2026-11-16T20:43:36",
-    "source": "Hacker News: Front Page"
   },
   {
     "title": "California Sues OpenAI Over A.I. Safety Issues",
@@ -354,48 +382,6 @@
     "link": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
     "summary": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator.",
     "published": "2026-11-11T20:51:49",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Silicon Valley Tech Allies Support Jensen Huang",
-    "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-    "summary": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure.",
-    "published": "2026-11-11T17:29:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-    "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-    "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
-    "published": "2026-11-11T17:11:59",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-    "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-    "summary": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
-    "published": "2026-11-11T14:46:43",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
-    "link": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
-    "summary": "The makers of A.I. want to build systems that follow human direction, without resisting or deceiving their operators.",
-    "published": "2026-11-11T10:01:52",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
-    "link": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
-    "summary": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan.",
-    "published": "2026-11-10T22:58:31",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
-    "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
-    "summary": "Amazon and Google are the largest investors in the A.I. start-up, and their shares could gain hundreds of billions of dollars in value.",
-    "published": "2026-11-10T21:54:37",
     "source": "NYT > Technology"
   }
 ]
