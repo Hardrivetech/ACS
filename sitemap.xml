@@ -1,103 +1,163 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hardrivetech.github.io/ACS//</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
-    <loc>https://news.ycombinator.com/item?id=50549188</loc>
-    <lastmod>2026-11-18T17:26:28</lastmod>
+    <loc>https://www.anthropic.com/research/claude-black-hole-physics</loc>
+    <lastmod>2026-11-19T17:30:44</lastmod>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</loc>
+    <lastmod>2026-11-19T17:02:40</lastmod>
+  </url>
+  <url>
+    <loc>https://perishablepress.com/chrome-ai-wasting-much-bandwidth/</loc>
+    <lastmod>2026-11-19T16:54:25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/technology/tech-outages-emergency-prep.html</loc>
+    <lastmod>2026-11-19T16:49:40</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html</loc>
+    <lastmod>2026-11-19T16:39:36</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/onlook-dev/onlook/</loc>
+    <lastmod>2026-11-19T16:34:04</lastmod>
+  </url>
+  <url>
+    <loc>https://ounapuu.ee/posts/2026/11/19/unsafeguards/</loc>
+    <lastmod>2026-11-19T16:30:18</lastmod>
+  </url>
+  <url>
+    <loc>https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/</loc>
+    <lastmod>2026-11-19T16:21:03</lastmod>
+  </url>
+  <url>
+    <loc>https://cornholenews.news</loc>
+    <lastmod>2026-11-19T15:38:32</lastmod>
+  </url>
+  <url>
+    <loc>https://thedataexchange.media/pete-warden-moonshine/</loc>
+    <lastmod>2026-11-19T15:38:12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/some-of-the-gulfs-largest-investors-have-put-big-bets-on-anthropic</loc>
+    <lastmod>2026-11-19T15:35:29</lastmod>
+  </url>
+  <url>
+    <loc>https://tabbyml.github.io/weight-space-playground/</loc>
+    <lastmod>2026-11-19T15:32:47</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html</loc>
+    <lastmod>2026-11-19T15:16:40</lastmod>
+  </url>
+  <url>
+    <loc>https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/</loc>
+    <lastmod>2026-11-19T15:13:23</lastmod>
+  </url>
+  <url>
+    <loc>https://maccus.fr/en/cooling-overtaking-heating/</loc>
+    <lastmod>2026-11-19T14:57:14</lastmod>
+  </url>
+  <url>
+    <loc>https://lastbook.org/</loc>
+    <lastmod>2026-11-19T14:47:18</lastmod>
+  </url>
+  <url>
+    <loc>https://moq.dev/blog/webrtc-is-still-the-problem/</loc>
+    <lastmod>2026-11-19T14:20:08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html</loc>
+    <lastmod>2026-11-19T13:28:13</lastmod>
+  </url>
+  <url>
+    <loc>https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/</loc>
+    <lastmod>2026-11-19T13:18:11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.science.org/doi/10.1126/sciadv.aee0802</loc>
+    <lastmod>2026-11-19T12:22:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/openjdk/jdk/pull/32781</loc>
+    <lastmod>2026-11-19T11:47:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html</loc>
+    <lastmod>2026-11-19T11:00:14</lastmod>
+  </url>
+  <url>
+    <loc>https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</loc>
+    <lastmod>2026-11-19T10:58:29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.php.net/releases/8.6/en.php</loc>
+    <lastmod>2026-11-19T09:27:15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html</loc>
+    <lastmod>2026-11-19T09:05:34</lastmod>
+  </url>
+  <url>
+    <loc>https://curiousbits.nl/blog/do-not-buy-ram-compress/</loc>
+    <lastmod>2026-11-19T08:56:47</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html</loc>
+    <lastmod>2026-11-19T08:53:03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html</loc>
+    <lastmod>2026-11-19T05:11:13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html</loc>
+    <lastmod>2026-11-19T05:00:13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html</loc>
+    <lastmod>2026-11-19T04:13:05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html</loc>
+    <lastmod>2026-11-19T03:31:09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html</loc>
+    <lastmod>2026-11-19T00:58:47</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html</loc>
-    <lastmod>2026-11-18T17:13:19</lastmod>
+    <lastmod>2026-11-19T00:41:26</lastmod>
   </url>
   <url>
-    <loc>https://metalbear.com/blog/stop-deploying-to-ecs/</loc>
-    <lastmod>2026-11-18T17:05:13</lastmod>
+    <loc>https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html</loc>
+    <lastmod>2026-11-18T23:58:15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/insider/nvidia-jensen-huang-spying-plot.html</loc>
+    <lastmod>2026-11-18T23:52:05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html</loc>
+    <lastmod>2026-11-18T23:23:06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html</loc>
+    <lastmod>2026-11-18T21:41:35</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html</loc>
-    <lastmod>2026-11-18T17:03:27</lastmod>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO</loc>
-    <lastmod>2026-11-18T16:41:22</lastmod>
-  </url>
-  <url>
-    <loc>https://recursiveai.org/blog/what-my-software-factory-built/</loc>
-    <lastmod>2026-11-18T16:26:42</lastmod>
-  </url>
-  <url>
-    <loc>https://www.rfc-editor.org/info/rfc2675/</loc>
-    <lastmod>2026-11-18T16:22:23</lastmod>
-  </url>
-  <url>
-    <loc>https://rshekhar.com/voyager/</loc>
-    <lastmod>2026-11-18T16:18:51</lastmod>
-  </url>
-  <url>
-    <loc>https://www.lkuffo.com/superemeans/</loc>
-    <lastmod>2026-11-18T16:09:50</lastmod>
-  </url>
-  <url>
-    <loc>https://microsoft.ai/news/microsoft-ignite-2026/</loc>
-    <lastmod>2026-11-18T16:08:24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.terra.security/blog/kvm-guest-to-host-escape</loc>
-    <lastmod>2026-11-18T16:06:21</lastmod>
-  </url>
-  <url>
-    <loc>https://exitpath-ruddy.vercel.app/</loc>
-    <lastmod>2026-11-18T16:04:43</lastmod>
-  </url>
-  <url>
-    <loc>https://ratwire.space/</loc>
-    <lastmod>2026-11-18T15:52:01</lastmod>
-  </url>
-  <url>
-    <loc>https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/</loc>
-    <lastmod>2026-11-18T15:49:34</lastmod>
-  </url>
-  <url>
-    <loc>https://www.inside-db.com/</loc>
-    <lastmod>2026-11-18T15:38:33</lastmod>
-  </url>
-  <url>
-    <loc>https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view</loc>
-    <lastmod>2026-11-18T15:35:44</lastmod>
-  </url>
-  <url>
-    <loc>https://nginx2root.com/</loc>
-    <lastmod>2026-11-18T15:24:17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</loc>
-    <lastmod>2026-11-18T15:19:55</lastmod>
-  </url>
-  <url>
-    <loc>https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html</loc>
-    <lastmod>2026-11-18T15:18:30</lastmod>
-  </url>
-  <url>
-    <loc>https://pikuma.com/blog/history-of-x86-4004-to-486</loc>
-    <lastmod>2026-11-18T14:47:53</lastmod>
-  </url>
-  <url>
-    <loc>https://arxiv.org/abs/2510.18203</loc>
-    <lastmod>2026-11-18T14:44:33</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026</loc>
-    <lastmod>2026-11-18T14:43:52</lastmod>
+    <lastmod>2026-11-18T18:10:04</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html</loc>
     <lastmod>2026-11-17T23:48:31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html</loc>
-    <lastmod>2026-11-17T23:17:38</lastmod>
   </url>
   <url>
     <loc>https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html</loc>
@@ -152,10 +212,6 @@
     <lastmod>2026-11-13T23:20:11</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/11/13/business/microsoft-outage.html</loc>
-    <lastmod>2026-11-13T21:28:58</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html</loc>
     <lastmod>2026-11-13T21:04:57</lastmod>
   </url>
@@ -188,39 +244,7 @@
     <lastmod>2026-11-12T23:02:51</lastmod>
   </url>
   <url>
-    <loc>https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html</loc>
-    <lastmod>2026-11-12T21:15:17</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html</loc>
-    <lastmod>2026-11-12T19:07:44</lastmod>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html</loc>
     <lastmod>2026-11-12T18:05:44</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html</loc>
-    <lastmod>2026-11-12T17:26:06</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html</loc>
-    <lastmod>2026-11-12T17:13:29</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html</loc>
-    <lastmod>2026-11-12T14:42:23</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html</loc>
-    <lastmod>2026-11-12T01:57:34</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html</loc>
-    <lastmod>2026-11-11T23:15:31</lastmod>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html</loc>
-    <lastmod>2026-11-11T20:51:49</lastmod>
   </url>
 </urlset>
