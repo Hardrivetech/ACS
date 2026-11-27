@@ -1,156 +1,170 @@
 [
   {
-    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-    "summary": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657645\">https://news.ycombinator.com/item?id=50657645</a></p>\n<p>Points: 30</p>\n<p># Comments: 5</p>",
-    "published": "2026-11-26T17:47:45",
+    "title": "I'm Scared of AI",
+    "link": "https://thesoapbox.email/archive/3",
+    "summary": "<p>Article URL: <a href=\"https://thesoapbox.email/archive/3\">https://thesoapbox.email/archive/3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669561\">https://news.ycombinator.com/item?id=50669561</a></p>\n<p>Points: 86</p>\n<p># Comments: 81</p>",
+    "published": "2026-11-27T17:45:31",
     "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Palliative Care for the Chronically Online",
+    "link": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+    "summary": "<p>Article URL: <a href=\"https://idiotecon.substack.com/p/palliative-care-for-the-chronically\">https://idiotecon.substack.com/p/palliative-care-for-the-chronically</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669026\">https://news.ycombinator.com/item?id=50669026</a></p>\n<p>Points: 21</p>\n<p># Comments: 7</p>",
+    "published": "2026-11-27T17:01:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "summary": "<p>Article URL: <a href=\"https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer\">https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50668145\">https://news.ycombinator.com/item?id=50668145</a></p>\n<p>Points: 138</p>\n<p># Comments: 79</p>",
+    "published": "2026-11-27T15:40:31",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "False computer-checked proofs",
+    "link": "https://cr.yp.to/proofs/falseccp.html",
+    "summary": "<p>Article URL: <a href=\"https://cr.yp.to/proofs/falseccp.html\">https://cr.yp.to/proofs/falseccp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667989\">https://news.ycombinator.com/item?id=50667989</a></p>\n<p>Points: 89</p>\n<p># Comments: 35</p>",
+    "published": "2026-11-27T15:26:09",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "summary": "<p>Article URL: <a href=\"https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\">https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667744\">https://news.ycombinator.com/item?id=50667744</a></p>\n<p>Points: 126</p>\n<p># Comments: 51</p>",
+    "published": "2026-11-27T15:03:17",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "link": "https://bouncemarket.minhanhday.com/",
+    "summary": "<p>a ball will fall. trade on where it lands.<p>I made this game! Some technical details:<p>The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.<p>There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.<p>Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667726\">https://news.ycombinator.com/item?id=50667726</a></p>\n<p>Points: 239</p>\n<p># Comments: 72</p>",
+    "published": "2026-11-27T15:01:50",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+    "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+    "summary": "<p>webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667452\">https://news.ycombinator.com/item?id=50667452</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+    "published": "2026-11-27T14:37:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Making a 3D fantasy map like a 16th-Century atlas",
+    "link": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+    "summary": "<p>Article URL: <a href=\"https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas\">https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50667062\">https://news.ycombinator.com/item?id=50667062</a></p>\n<p>Points: 43</p>\n<p># Comments: 5</p>",
+    "published": "2026-11-27T14:02:52",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Mental Health Resources and Political Engagement",
+    "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+    "summary": "<p>Article URL: <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219\">https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666436\">https://news.ycombinator.com/item?id=50666436</a></p>\n<p>Points: 104</p>\n<p># Comments: 184</p>",
+    "published": "2026-11-27T13:01:02",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "US Air Force's cloud computing platform hacked",
+    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "summary": "<p>Article URL: <a href=\"https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666375\">https://news.ycombinator.com/item?id=50666375</a></p>\n<p>Points: 230</p>\n<p># Comments: 139</p>",
+    "published": "2026-11-27T12:54:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "New York and California age gating rules go into effect in the new year",
+    "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+    "summary": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year\">https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666279\">https://news.ycombinator.com/item?id=50666279</a></p>\n<p>Points: 143</p>\n<p># Comments: 166</p>",
+    "published": "2026-11-27T12:43:40",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+    "link": "https://eprint.iacr.org/2026/3020.pdf",
+    "summary": "<p>Article URL: <a href=\"https://eprint.iacr.org/2026/3020.pdf\">https://eprint.iacr.org/2026/3020.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50665968\">https://news.ycombinator.com/item?id=50665968</a></p>\n<p>Points: 184</p>\n<p># Comments: 80</p>",
+    "published": "2026-11-27T12:08:51",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "Kimi for Science: More scientific ideas, made possible",
+    "link": "https://www.kimi.ai/news/kimi-for-science-program",
+    "summary": "<p>Article URL: <a href=\"https://www.kimi.ai/news/kimi-for-science-program\">https://www.kimi.ai/news/kimi-for-science-program</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50665920\">https://news.ycombinator.com/item?id=50665920</a></p>\n<p>Points: 158</p>\n<p># Comments: 125</p>",
+    "published": "2026-11-27T12:03:11",
+    "source": "Hacker News: Front Page"
+  },
+  {
+    "title": "How A.I. Is Transforming Mathematics",
+    "link": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+    "summary": "“One thing that A.I. has done is that it’s given us answers without insight, without understanding.”",
+    "published": "2026-11-27T11:00:20",
+    "source": "NYT > Technology"
   },
   {
     "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
     "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-    "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
-    "published": "2026-11-26T17:41:14",
+    "summary": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia.",
+    "published": "2026-11-27T10:17:23",
     "source": "NYT > Technology"
   },
   {
-    "title": "YouTube Ad Punisher – Bypass anti-adblock",
-    "link": "https://github.com/antonpictures/youtube-punisher",
-    "summary": "<p>Article URL: <a href=\"https://github.com/antonpictures/youtube-punisher\">https://github.com/antonpictures/youtube-punisher</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657530\">https://news.ycombinator.com/item?id=50657530</a></p>\n<p>Points: 39</p>\n<p># Comments: 46</p>",
-    "published": "2026-11-26T17:36:47",
+    "title": "Why Some A.I. Evangelists Aren’t Bothered by the Potential for Human Extinction",
+    "link": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+    "summary": "Understanding the set of beliefs that drives the Silicon Valley vanguard.",
+    "published": "2026-11-27T10:01:01",
+    "source": "NYT > Technology"
+  },
+  {
+    "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+    "link": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+    "summary": "<p>Article URL: <a href=\"https://blog.pimalaya.org/pimalaya-goes-stable/\">https://blog.pimalaya.org/pimalaya-goes-stable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664931\">https://news.ycombinator.com/item?id=50664931</a></p>\n<p>Points: 31</p>\n<p># Comments: 2</p>",
+    "published": "2026-11-27T09:50:02",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Tracking Diseases Cured by AI",
-    "link": "https://diseasescuredbyai.com/",
-    "summary": "<p>Article URL: <a href=\"https://diseasescuredbyai.com/\">https://diseasescuredbyai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657307\">https://news.ycombinator.com/item?id=50657307</a></p>\n<p>Points: 169</p>\n<p># Comments: 83</p>",
-    "published": "2026-11-26T17:16:41",
+    "title": "Claude sabotaging ML research tasks?",
+    "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/RealAstropulse/status/2126119408997466389\">https://twitter.com/RealAstropulse/status/2126119408997466389</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50664325\">https://news.ycombinator.com/item?id=50664325</a></p>\n<p>Points: 363</p>\n<p># Comments: 188</p>",
+    "published": "2026-11-27T08:28:08",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "AMD Specific Patches for Llama.cpp",
-    "link": "https://devnull.land/amd-specific-llama-cpp",
-    "summary": "<p>Article URL: <a href=\"https://devnull.land/amd-specific-llama-cpp\">https://devnull.land/amd-specific-llama-cpp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657265\">https://news.ycombinator.com/item?id=50657265</a></p>\n<p>Points: 78</p>\n<p># Comments: 24</p>",
-    "published": "2026-11-26T17:11:29",
+    "title": "Group chat where your AI talks behind your back",
+    "link": "https://construct22.com/",
+    "summary": "<p>Article URL: <a href=\"https://construct22.com/\">https://construct22.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663595\">https://news.ycombinator.com/item?id=50663595</a></p>\n<p>Points: 591</p>\n<p># Comments: 252</p>",
+    "published": "2026-11-27T06:44:34",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-    "link": "https://github.com/rxliuli/sim-drop",
-    "summary": "<p>Hi HN, I made a small macOS utility for my own iOS simulator workflow.<p>I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto the window at all.<p>SimDrop puts every running iOS simulator in Finder's sidebar (under Locations) with two folders:<p>- Downloads/ (Files app > On My iPhone > Downloads)\n- Photos and Videos/ (the simulator's Photos library)<p>Simulators appear when they boot and disappear when they shut down. Everything is also reachable from the terminal under ~/Library/CloudStorage/SimDrop-SimDrop/.<p>A couple of caveats up front:\n- Dragging moves files by default (same as iCloud Drive, because it uses File Provider on the startup volume)—hold Option to copy.\n- macOS 15+ and iOS simulators only (not physical devices).<p>It's free, open source (GPL-3.0), signed and notarized, and installable via Homebrew:<p><pre><code>  brew install --cask rxliuli/tap/sim-drop\n</code></pre>\nJust sharing in case others run into the same friction—feedback or PRs welcome!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657070\">https://news.ycombinator.com/item?id=50657070</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-26T16:51:38",
+    "title": "Buy Nothing Day – Friday November 27th 2026",
+    "link": "https://www.buynothingday.co.uk/",
+    "summary": "<p>Article URL: <a href=\"https://www.buynothingday.co.uk/\">https://www.buynothingday.co.uk/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663261\">https://news.ycombinator.com/item?id=50663261</a></p>\n<p>Points: 297</p>\n<p># Comments: 93</p>",
+    "published": "2026-11-27T05:52:42",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "NP_R ≠ PAR_R",
-    "link": "https://github.com/samueleverett01/bss-permanent-separations",
-    "summary": "<p>Article URL: <a href=\"https://github.com/samueleverett01/bss-permanent-separations\">https://github.com/samueleverett01/bss-permanent-separations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657059\">https://news.ycombinator.com/item?id=50657059</a></p>\n<p>Points: 85</p>\n<p># Comments: 82</p>",
-    "published": "2026-11-26T16:50:55",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "summary": "<p>Article URL: <a href=\"https://blainehansen.me/post/mainstream-verifiable-language/\">https://blainehansen.me/post/mainstream-verifiable-language/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50663089\">https://news.ycombinator.com/item?id=50663089</a></p>\n<p>Points: 248</p>\n<p># Comments: 256</p>",
+    "published": "2026-11-27T05:22:06",
     "source": "Hacker News: Front Page"
   },
   {
-    "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-    "link": "https://news.ycombinator.com/item?id=50656763",
-    "summary": "<p>Though I am not a JS dev, I got threejs-journey (no affiliation with the creator) last year on a whim, enjoyed it.<p>Any courses/products/books etc that you recommend, specifically from Indie makers? Not interested in big promotions like Udemy, Datacamp etc</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50656763\">https://news.ycombinator.com/item?id=50656763</a></p>\n<p>Points: 43</p>\n<p># Comments: 14</p>",
-    "published": "2026-11-26T16:16:41",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-    "link": "https://michidk.github.io/sidebyside/",
-    "summary": "<p>Article URL: <a href=\"https://michidk.github.io/sidebyside/\">https://michidk.github.io/sidebyside/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50656036\">https://news.ycombinator.com/item?id=50656036</a></p>\n<p>Points: 54</p>\n<p># Comments: 18</p>",
-    "published": "2026-11-26T15:00:06",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tell HN: Happy Thanksgiving",
-    "link": "https://news.ycombinator.com/item?id=50655664",
-    "summary": "<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655664\">https://news.ycombinator.com/item?id=50655664</a></p>\n<p>Points: 429</p>\n<p># Comments: 113</p>",
-    "published": "2026-11-26T14:26:54",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
-    "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655278\">https://news.ycombinator.com/item?id=50655278</a></p>\n<p>Points: 191</p>\n<p># Comments: 90</p>",
-    "published": "2026-11-26T13:48:11",
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "summary": "<p>Article URL: <a href=\"https://herecomesthemoon.net/2026/11/whats-claudes-fursona/\">https://herecomesthemoon.net/2026/11/whats-claudes-fursona/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50662933\">https://news.ycombinator.com/item?id=50662933</a></p>\n<p>Points: 124</p>\n<p># Comments: 87</p>",
+    "published": "2026-11-27T04:56:18",
     "source": "Hacker News: Front Page"
   },
   {
     "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
     "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
     "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-    "published": "2026-11-26T12:04:01",
+    "published": "2026-11-27T02:45:41",
     "source": "NYT > Technology"
   },
   {
-    "title": "Head of Software Engineering – NOX Metals",
-    "link": "https://news.ycombinator.com/item?id=50654353",
-    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654353\">https://news.ycombinator.com/item?id=50654353</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
-    "published": "2026-11-26T12:00:00",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Nextcloud Office Desktop app",
-    "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-    "summary": "<p>Article URL: <a href=\"https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654289\">https://news.ycombinator.com/item?id=50654289</a></p>\n<p>Points: 350</p>\n<p># Comments: 154</p>",
-    "published": "2026-11-26T11:50:49",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Intel One Mono font",
-    "link": "https://github.com/intel/intel-one-mono",
-    "summary": "<p>Article URL: <a href=\"https://github.com/intel/intel-one-mono\">https://github.com/intel/intel-one-mono</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653667\">https://news.ycombinator.com/item?id=50653667</a></p>\n<p>Points: 374</p>\n<p># Comments: 208</p>",
-    "published": "2026-11-26T10:11:01",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Moat: Your OpenRouter Replacement",
-    "link": "https://commandcode.ai/moat",
-    "summary": "<p>Article URL: <a href=\"https://commandcode.ai/moat\">https://commandcode.ai/moat</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50652184\">https://news.ycombinator.com/item?id=50652184</a></p>\n<p>Points: 195</p>\n<p># Comments: 117</p>",
-    "published": "2026-11-26T06:32:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "An algebraic quantization of gravity from the null cone",
-    "link": "https://arxiv.org/abs/2611.34924",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2611.34924\">https://arxiv.org/abs/2611.34924</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651863\">https://news.ycombinator.com/item?id=50651863</a></p>\n<p>Points: 152</p>\n<p># Comments: 44</p>",
-    "published": "2026-11-26T05:37:51",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-    "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-    "summary": "<p>Article URL: <a href=\"https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\">https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651719\">https://news.ycombinator.com/item?id=50651719</a></p>\n<p>Points: 224</p>\n<p># Comments: 50</p>",
-    "published": "2026-11-26T05:12:59",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Unconditional Integer Factorization in Subexponential Time",
-    "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
-    "summary": "<p>Article URL: <a href=\"https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization\">https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651627\">https://news.ycombinator.com/item?id=50651627</a></p>\n<p>Points: 128</p>\n<p># Comments: 17</p>",
-    "published": "2026-11-26T04:59:56",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Minipg: PostgreSQL as a Single Executable",
-    "link": "https://progrium.github.io/minipg/",
-    "summary": "<p>Article URL: <a href=\"https://progrium.github.io/minipg/\">https://progrium.github.io/minipg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50650892\">https://news.ycombinator.com/item?id=50650892</a></p>\n<p>Points: 263</p>\n<p># Comments: 41</p>",
-    "published": "2026-11-26T03:00:48",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Tell HN: Lots of Ask HNs again",
-    "link": "https://news.ycombinator.com/item?id=50649864",
-    "summary": "<p>There have been questions about why the /ask page (<a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a>) was running dry of Ask HNs - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href=\"https://news.ycombinator.com/item?id=49984484\">https://news.ycombinator.com/item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?</i> - <a href=\"https://news.ycombinator.com/item?id=50280719\">https://news.ycombinator.com/item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. \"Ask HN\" is the conventional name but it means text posts. The title can also start with \"Tell HN\" or nothing in particular. They're just posts which were submitted without a URL.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649864\">https://news.ycombinator.com/item?id=50649864</a></p>\n<p>Points: 370</p>\n<p># Comments: 147</p>",
-    "published": "2026-11-26T00:43:34",
-    "source": "Hacker News: Front Page"
-  },
-  {
-    "title": "Collection of preserved UI style guides",
-    "link": "https://aresluna.org/ui-style-guides/",
-    "summary": "<p>Article URL: <a href=\"https://aresluna.org/ui-style-guides/\">https://aresluna.org/ui-style-guides/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649834\">https://news.ycombinator.com/item?id=50649834</a></p>\n<p>Points: 352</p>\n<p># Comments: 71</p>",
-    "published": "2026-11-26T00:40:00",
+    "title": "Hard Drive pricing has gotten bad",
+    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "summary": "<p>Article URL: <a href=\"https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\">https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50661646\">https://news.ycombinator.com/item?id=50661646</a></p>\n<p>Points: 515</p>\n<p># Comments: 443</p>",
+    "published": "2026-11-27T01:13:49",
     "source": "Hacker News: Front Page"
   },
   {
@@ -294,31 +308,10 @@
     "source": "NYT > Technology"
   },
   {
-    "title": "G.T.A. VI Is a Monumental Human Achievement",
-    "link": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-    "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
-    "published": "2026-11-21T19:12:00",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-    "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-    "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-    "published": "2026-11-21T15:55:46",
-    "source": "NYT > Technology"
-  },
-  {
     "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
     "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
     "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
     "published": "2026-11-21T10:02:10",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-    "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-    "published": "2026-11-21T05:13:03",
     "source": "NYT > Technology"
   },
   {
@@ -333,48 +326,6 @@
     "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
     "summary": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
     "published": "2026-11-20T18:51:23",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-    "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
-    "published": "2026-11-20T17:11:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
-    "link": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
-    "summary": "In a world of slop capitalism, vibe-crafted culture and taste paranoia, why we like what we like feels harder than ever to know.",
-    "published": "2026-11-20T10:00:38",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
-    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
-    "summary": "Anthropic shares rose in their first day of trading, while both the S&amp;P 500 and Nasdaq indexes fell. There are a few factors at play.",
-    "published": "2026-11-19T22:17:42",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
-    "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
-    "summary": "The website has been checked and cited often during an unusually busy week of technology problems, though its operators acknowledge its limitations.",
-    "published": "2026-11-19T21:39:12",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "What are Anthropic’s financials?",
-    "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
-    "summary": "",
-    "published": "2026-11-19T19:30:04",
-    "source": "NYT > Technology"
-  },
-  {
-    "title": "Anthropic’s unusual corporate structure mandates it balance safety and profit.",
-    "link": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
-    "summary": "",
-    "published": "2026-11-19T18:53:18",
     "source": "NYT > Technology"
   }
 ]
